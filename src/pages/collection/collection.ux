@@ -1,0 +1,192 @@
+<!--
+  收藏 / 历史页
+  范式来自 wear-browser-band9：list + list-item，高度 JS 算好，尾部 64px 留白
+  路由参数用 protected.tabParam（不叫 tab，避免与 data.tab 冲突）
+-->
+<template>
+  <div class="wb-page" style="height: {{H}}px;">
+    <!-- 分段切换 -->
+    <div class="segbar">
+      <div class="seg {{tab === 'fav' ? 'seg-on' : ''}}" @click="switchTab('fav')">
+        <text class="seg-txt fs-v-m">收藏</text>
+      </div>
+      <div class="seg {{tab === 'history' ? 'seg-on' : ''}}" @click="switchTab('history')">
+        <text class="seg-txt fs-v-m">历史</text>
+      </div>
+    </div>
+
+    <list class="wb-list" style="top: {{listTop}}px; height: {{listH}}px;">
+      <list-item type="row" class="li" style="height: {{it.h}}px;" for="{{it in rows}}" @click="openRow(it.w, it.zh)">
+        <div class="card" style="height: {{it.ch}}px;">
+          <div class="card-main">
+            <text class="card-title fs-t-m">{{it.w}}</text>
+            <text class="card-sub fs-s-m">{{it.zh}}</text>
+          </div>
+          <img class="arrow" src="/common/images/enter.png" />
+        </div>
+      </list-item>
+
+      <list-item type="empty" class="li" style="height: 130px;" if="{{rows.length === 0}}">
+        <div class="empty-wrap">
+          <text class="empty-txt fs-e-m">{{emptyText}}</text>
+          <text class="empty-sub fs-s-m">{{emptySub}}</text>
+        </div>
+      </list-item>
+
+      <list-item type="pad" class="li" style="height: 64px;"></list-item>
+    </list>
+
+    <img static class="hd" src="/common/images/hd.png" />
+    <img static class="back" src="/common/images/back.png" @click="goBack" />
+    <text class="time">{{NowTime}}</text>
+    <text class="ptitle">{{tab === 'fav' ? '收藏' : '历史'}}</text>
+  </div>
+</template>
+
+<style>
+@import '../../common/css/base.css';
+
+.segbar {
+  position: absolute;
+  left: 12px;
+  top: 112px;
+  width: 168px;
+  height: 46px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.seg {
+  width: 80px;
+  height: 42px;
+  border-radius: 14px;
+  background-color: #1c1c1c;
+  align-items: center;
+  justify-content: center;
+}
+.seg-on { background-color: #0D6EFF; }
+.seg-txt { color: #ffffff; }
+
+.empty-wrap {
+  width: 192px;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.empty-sub { color: rgba(255, 255, 255, 0.3); margin-top: 6px; text-align: center; }
+</style>
+
+<script>
+import router from '@system.router'
+import * as store from '../../common/js/storage.js'
+
+const ROW_GAP = 8
+const ROW_BASE = 64
+
+function charUnits(c) {
+  return (c.charCodeAt(0) < 128) ? 0.55 : 1
+}
+
+function linesOf(text, fontSize, textW) {
+  const perLine = textW / fontSize
+  const paras = String(text || '').split('\n')
+  let total = 0
+  for (let i = 0; i < paras.length; i++) {
+    const p = paras[i]
+    if (!p) { total += 1; continue }
+    let u = 0
+    for (let j = 0; j < p.length; j++) u += charUnits(p.charAt(j))
+    total += Math.max(1, Math.ceil(u / perLine))
+  }
+  return Math.max(1, total)
+}
+
+export default {
+  protected: {
+    tabParam: ''
+  },
+
+  private: {
+    H: 490,
+    listTop: 168,
+    listH: 322,
+    NowTime: '',
+    tab: 'fav',
+    rows: [],
+    emptyText: '',
+    emptySub: '',
+    timer: null
+  },
+
+  onInit() {
+    const h = (global.screenHeight && global.screenHeight > 0) ? global.screenHeight : 490
+    this.H = h
+    this.listTop = 168
+    this.listH = h - this.listTop
+    if (this.tabParam === 'fav' || this.tabParam === 'history') this.tab = this.tabParam
+    this.tick()
+    this.timer = setInterval(() => this.tick(), 30000)
+    this.refresh()
+  },
+
+  onShow() { this.tick() },
+  onHide() { this.clearTimer() },
+  onDestroy() { this.clearTimer() },
+
+  clearTimer() {
+    if (this.timer) { clearInterval(this.timer); this.timer = null }
+  },
+
+  tick() {
+    const d = new Date()
+    let h = d.getHours()
+    let m = d.getMinutes()
+    if (h < 10) h = '0' + h
+    if (m < 10) m = '0' + m
+    this.NowTime = h + ':' + m
+  },
+
+  refresh() {
+    const that = this
+    const p = (this.tab === 'fav') ? store.getFav() : store.getHistory()
+    p.then(function (list) {
+      that.buildRows(list ? list : [])
+    }).catch(function () {
+      that.rows = []
+    })
+    if (this.tab === 'fav') {
+      this.emptyText = '还没有收藏词条'
+      this.emptySub = '在词条详情点★即可收藏'
+    } else {
+      this.emptyText = '还没有查询记录'
+      this.emptySub = '查过的词会自动记录'
+    }
+  },
+
+  buildRows(list) {
+    const out = []
+    for (let i = 0; i < list.length; i++) {
+      const e = list[i]
+      const n = linesOf(e.zh || '', 13, 146)
+      const ch = 22 + 4 + n * 18 + 16
+      out.push({ w: e.w, zh: e.zh || '', ch: ch, h: ch + ROW_GAP })
+    }
+    this.rows = out
+  },
+
+  switchTab(tab) {
+    if (this.tab === tab) return
+    this.tab = tab
+    this.rows = []
+    this.refresh()
+  },
+
+  openRow(w, zh) {
+    if (!w) return
+    router.push({ uri: '/pages/detail', params: { word: w } })
+  },
+
+  goBack() { router.back() }
+}
+</script>

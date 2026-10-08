@@ -1,0 +1,397 @@
+<!--
+  每日学习页 —— 随机抽词，先看词、点一下揭晓释义
+    交互：
+      - 顶部进度「3 / 10」
+      - 大词卡：显示马来语词
+      - 点词卡 → 揭晓中文释义（含词性/英文）
+      - 底部：换一个 / 记住了 / 没记住
+      - 「记住了」会加进收藏（生词本）
+  范式来自 wear-browser-band9：list + list-item，高度 JS 算好
+-->
+<template>
+  <div class="wb-page" style="height: {{H}}px;">
+    <!-- 进度 -->
+    <div class="progbar" style="top: 108px;">
+      <text class="prog-txt fs-s-m">今日学习 {{idx}} / {{total}}</text>
+    </div>
+
+    <list class="wb-list" style="top: 140px; height: {{listH}}px;">
+      <!-- 加载中 -->
+      <list-item type="loading" class="li" style="height: 90px;" if="{{loading}}">
+        <div class="lc-tip">
+          <text class="lc-load fs-e-m">加载中…</text>
+        </div>
+      </list-item>
+      <!-- ★ 本轮结算 -->
+      <list-item type="done" class="li" style="height: 200px;" if="{{finished}}">
+        <div class="lc-done" style="height: 190px;">
+          <text class="lc-done-t">本轮完成</text>
+          <text class="lc-done-s fs-s-m">学了 {{total}} 个词 · 加入生词本 {{learned}} 个</text>
+        </div>
+      </list-item>
+      <list-item type="act" class="li" style="height: 62px;" if="{{finished}}">
+        <div class="lc-btn lc-ok" style="height: 54px;" @click="again">
+          <text class="lc-btn-txt">再来一轮</text>
+        </div>
+      </list-item>
+      <list-item type="act" class="li" style="height: 62px;" if="{{finished}}">
+        <div class="lc-btn" style="height: 54px;" @click="shuffleAll">
+          <text class="lc-btn-txt">重新随机</text>
+        </div>
+      </list-item>
+      <!-- ★ 词库不可用 -->
+      <list-item type="empty" class="li" style="height: 130px;" if="{{empty && !loading}}">
+        <div class="lc-tip">
+          <text class="lc-tip-txt fs-e-m">词库读取失败，请返回重进</text>
+        </div>
+      </list-item>
+      <!-- 词卡：点一下揭晓 -->
+      <list-item type="word" class="li" style="height: {{wordH}}px;" if="{{!loading && !finished && !empty}}" @click="reveal">
+        <div class="lc-wordbox" style="height: {{wordInnerH}}px;">
+          <text class="lc-word">{{cur.w}}</text>
+          <text class="lc-pos fs-s-m" if="{{cur.p}}">{{cur.p}}</text>
+        </div>
+      </list-item>
+      <!-- 释义：揭晓后显示 -->
+      <list-item type="mean" class="li" style="height: {{meanH}}px;" if="{{shown && !finished}}">
+        <div class="lc-card" style="height: {{meanInnerH}}px;">
+          <text class="lc-t">中文释义</text>
+          <text class="lc-b">{{cur.zh}}</text>
+        </div>
+      </list-item>
+      <list-item type="mean" class="li" style="height: {{enH}}px;" if="{{shown && cur.en && !finished}}">
+        <div class="lc-card" style="height: {{enInnerH}}px;">
+          <text class="lc-t">English</text>
+          <text class="lc-b">{{cur.en}}</text>
+        </div>
+      </list-item>
+      <!-- 未揭晓提示 -->
+      <list-item type="tip" class="li" style="height: 70px;" if="{{!shown && !finished && !empty}}">
+        <div class="lc-tip">
+          <text class="lc-tip-txt fs-e-m">点上面的词，看释义</text>
+        </div>
+      </list-item>
+      <!-- 操作按钮 -->
+      <list-item type="act" class="li" style="height: 62px;" if="{{!loading && !finished && !empty}}">
+        <div class="lc-btn" style="height: 54px;" @click="next">
+          <text class="lc-btn-txt">没记住，下一个</text>
+        </div>
+      </list-item>
+      <list-item type="act" class="li" style="height: 62px;" if="{{shown && !finished}}">
+        <div class="lc-btn lc-ok" style="height: 54px;" @click="markKnown">
+          <text class="lc-btn-txt">记住了（加入生词本）</text>
+        </div>
+      </list-item>
+      <list-item type="pad" class="li" style="height: 64px;"></list-item>
+    </list>
+
+    <img static class="hd" src="/common/images/hd.png" />
+    <img static class="back" src="/common/images/back.png" @click="goBack" />
+    <text class="time">{{NowTime}}</text>
+    <text class="ptitle">每日学习</text>
+  </div>
+</template>
+
+<style>
+@import '../../common/css/base.css';
+
+.progbar {
+  position: absolute;
+  left: 12px;
+  width: 168px;
+  height: 26px;
+  align-items: center;
+  justify-content: center;
+}
+.prog-txt { color: rgba(255, 255, 255, 0.5); }
+
+/* 词卡：156 + 12×2(padding) + 12(margin-left) = 192 */
+.lc-wordbox {
+  width: 156px;
+  margin-left: 12px;
+  background-color: #1c1c1c;
+  border-radius: 20px;
+  padding-left: 12px;
+  padding-right: 12px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.lc-word {
+  width: 100%;
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 34px;
+  color: #ffffff;
+}
+.lc-pos {
+  margin-top: 4px;
+  color: rgba(255, 255, 255, 0.45);
+}
+
+.lc-card {
+  width: 156px;
+  margin-left: 12px;
+  background-color: #1c1c1c;
+  border-radius: 16px;
+  padding-left: 12px;
+  padding-right: 12px;
+  flex-direction: column;
+  justify-content: center;
+}
+.lc-t {
+  width: 100%;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 18px;
+  color: rgba(255, 255, 255, 0.55);
+}
+.lc-b {
+  width: 100%;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ffffff;
+  margin-top: 2px;
+}
+
+.lc-tip {
+  width: 192px;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.lc-tip-txt { color: rgba(255, 255, 255, 0.35); }
+.lc-load { color: #0D6EFF; font-weight: bold; }
+
+.lc-btn {
+  width: 168px;
+  margin-left: 12px;
+  border-radius: 20px;
+  background-color: #262626;
+  align-items: center;
+  justify-content: center;
+}
+.lc-ok { background-color: #0D6EFF; }
+.lc-no { background-color: #1c1c1c; }
+.lc-btn-txt { font-size: 16px; font-weight: bold; color: #ffffff; }
+.lc-btn-txt2 { font-size: 16px; color: rgba(255, 255, 255, 0.6); }
+/* ★ 结算卡 */
+.lc-done {
+  width: 156px;
+  margin-left: 12px;
+  background-color: #1c1c1c;
+  border-radius: 20px;
+  padding-left: 12px;
+  padding-right: 12px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.lc-done-t {
+  width: 100%;
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 30px;
+  color: #0D6EFF;
+}
+.lc-done-s {
+  width: 100%;
+  text-align: center;
+  margin-top: 6px;
+  color: rgba(255, 255, 255, 0.6);
+}
+</style>
+
+<script>
+import router from '@system.router'
+import * as store from '../../common/js/storage.js'
+import * as search from '../../common/js/dict/search.js'
+const TEXT_W = 132        // 卡片正文可用宽度
+const RECENT_MAX = 30     // 记住最近学过的词，避免一轮内/跨轮重复
+
+function charUnits(c) {
+  return (c.charCodeAt(0) < 128) ? 0.55 : 1
+}
+
+function linesOf(text, fontSize, textW) {
+  const perLine = textW / fontSize
+  const paras = String(text || '').split('\n')
+  let total = 0
+  for (let i = 0; i < paras.length; i++) {
+    const p = paras[i]
+    if (!p) { total += 1; continue }
+    let u = 0
+    for (let j = 0; j < p.length; j++) u += charUnits(p.charAt(j))
+    total += Math.max(1, Math.ceil(u / perLine))
+  }
+  return Math.max(1, total)
+}
+
+export default {
+  private: {
+    H: 490,
+    listH: 350,
+    NowTime: '',
+    idx: 0,
+    total: 0,
+    shown: false,
+    loading: true,
+    cur: { w: '', zh: '', en: '', p: '' },
+    queue: [],
+    wordH: 96,
+    wordInnerH: 88,
+    meanH: 0,
+    meanInnerH: 0,
+    enH: 0,
+    enInnerH: 0,
+    batch: 10,          // ★ 每轮词数（来自设置）
+    recent: [],         // ★ 最近学过的词，避免重复
+    empty: false,       // ★ 一轮学完
+    finished: false,    // ★ 本轮结束（显示结算）
+    learned: 0,         // ★ 本轮加入生词本的数量
+    timer: null
+  },
+  onInit() {
+    const h = (global.screenHeight && global.screenHeight > 0) ? global.screenHeight : 490
+    this.H = h
+    this.listH = h - 140
+    this.tick()
+    this.timer = setInterval(() => this.tick(), 30000)
+    this.load()
+  },
+
+  onShow() { this.tick() },
+  onHide() { this.clearTimer() },
+  onDestroy() { this.clearTimer() },
+
+  clearTimer() {
+    if (this.timer) { clearInterval(this.timer); this.timer = null }
+  },
+
+  tick() {
+    const d = new Date()
+    let h = d.getHours()
+    let m = d.getMinutes()
+    if (h < 10) h = '0' + h
+    if (m < 10) m = '0' + m
+    this.NowTime = h + ':' + m
+  },
+
+  load() {
+    const that = this
+    this.loading = true
+    this.empty = false
+    store.getSettings().then(function (s) {
+      that.batch = (s && s.learnCount) ? s.learnCount : 10
+      return search.randomWords(that.batch, that.recent)
+    }).then(function (list) {
+      that.queue = list && list.length ? list : []
+      that.total = that.queue.length
+      that.idx = that.total > 0 ? 1 : 0
+      that.loading = false
+      that.empty = (that.total === 0)
+      that.pick()
+    }).catch(function (e) {
+      console.log('[learn] load fail: ' + e)
+      that.queue = []
+      that.total = 0
+      that.idx = 0
+      that.loading = false
+      that.empty = true
+    })
+  },
+
+  pick() {
+    const e = this.queue[this.idx - 1]
+    if (!e) {
+      this.cur = { w: '', zh: '', en: '', p: '' }
+      this.shown = false
+      return
+    }
+    this.cur = {
+      w: e.w || '',
+      zh: e.zh || '',
+      en: e.en || '',
+      p: e.p || ''
+    }
+    // ★ 记入「最近学过」：下一轮抽词时排除，避免一直抽到同几个词
+    if (this.cur.w) {
+      const r = this.recent.slice()
+      r.unshift(this.cur.w)
+      while (r.length > RECENT_MAX) r.pop()
+      this.recent = r
+    }
+    this.shown = false
+    this.measure()
+  },
+
+  /** 按内容行数算好每块高度（list-item 不会自适应） */
+  measure() {
+    const zhLines = linesOf(this.cur.zh, 16, TEXT_W)
+    this.meanInnerH = 18 + 2 + zhLines * 22 + 18
+    this.meanH = this.meanInnerH + 8
+
+    if (this.cur.en) {
+      const enLines = linesOf(this.cur.en, 16, TEXT_W)
+      this.enInnerH = 18 + 2 + enLines * 22 + 18
+      this.enH = this.enInnerH + 8
+    } else {
+      this.enInnerH = 0
+      this.enH = 0
+    }
+  },
+
+  reveal() {
+    if (!this.cur.w) return
+    this.shown = true
+    this.measure()
+  },
+
+next() {
+    if (this.total === 0) {
+      this.load()
+      return
+    }
+    if (this.idx >= this.total) {
+      // ★ 一轮学完 → 显示结算页（不再静默重载，避免「以为卡住」）
+      this.finished = true
+      return
+    }
+    this.idx = this.idx + 1
+    this.pick()
+  },
+  /** 结算页：再来一轮 */
+  again() {
+    this.finished = false
+    this.learned = 0
+    this.load()
+  },
+  /** 结算页：清空「最近学过」记录，重新随机 */
+  shuffleAll() {
+    this.recent = []
+    this.finished = false
+    this.learned = 0
+    this.load()
+  },
+  /** 记住了 → 加进生词本（收藏） */
+  markKnown() {
+    if (!this.cur.w) return
+    const that = this
+    store.isFav(this.cur.w).then(function (already) {
+      if (!already) {
+        return store.toggleFav({ w: that.cur.w, zh: that.cur.zh })
+      }
+      return null
+    }).then(function () {
+      that.learned = that.learned + 1
+      that.next()
+    }).catch(function (e) {
+      console.log('[learn] markKnown fail: ' + e)
+      that.next()
+    })
+  },
+  goBack() { router.back() }
+}
+</script>

@@ -1,0 +1,336 @@
+<!--
+  词条详情页
+  范式来自 wear-browser-band9：list + list-item，每块高度 JS 按行数算好
+  正文刻意不写 lines/ellipsis，保证完整折行显示
+-->
+<template>
+  <div class="wb-page" style="height: {{H}}px;" @swipe="onSwipeBack">
+    <list class="wb-list" style="top: 112px; height: {{listH}}px;">
+      <!-- 词头 -->
+      <list-item type="hero" class="li" style="height: {{heroH}}px;">
+        <div class="dt-hero">
+          <text class="dt-word">{{word}}</text>
+          <text class="dt-pos" if="{{pos}}">{{pos}}</text>
+        </div>
+      </list-item>
+
+      <!-- 各释义块 -->
+      <list-item type="blk" class="li" style="height: {{it.h}}px;" for="{{it in blocks}}">
+        <div class="dt-card" style="height: {{it.ch}}px;">
+          <text class="dt-t">{{it.t}}</text>
+          <text class="dt-b">{{it.b}}</text>
+        </div>
+      </list-item>
+
+      <!-- 同/反义词：横向 chip，点击跳转 -->
+      <list-item type="rel" class="li" style="height: {{relH}}px;" if="{{hasRel}}">
+        <div class="dt-relbox">
+          <text class="dt-t" style="width: 100%;">相关词</text>
+          <div class="dt-chips">
+            <text class="dt-chip" for="{{c in chips}}" @click="jump(c)">{{c}}</text>
+          </div>
+        </div>
+      </list-item>
+
+      <!-- 收藏按钮 -->
+      <list-item type="act" class="li" style="height: 74px;">
+        <div class="dt-act" style="height: 66px;" @click="toggleFav">
+          <text class="dt-act-txt">{{isFav ? '★ 已收藏（点一下取消）' : '☆ 收藏这个词'}}</text>
+        </div>
+      </list-item>
+
+      <list-item type="pad" class="li" style="height: 64px;"></list-item>
+    </list>
+
+    <img static class="hd" src="/common/images/hd.png" />
+    <img static class="back" src="/common/images/back.png" @click="goBack" />
+    <text class="time">{{NowTime}}</text>
+    <text class="ptitle">词条</text>
+  </div>
+</template>
+
+<style>
+@import '../../common/css/base.css';
+
+.dt-hero {
+  width: 192px;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.dt-word {
+  width: 168px;
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 32px;
+  color: #ffffff;
+  lines: 1;
+  text-overflow: ellipsis;
+}
+.dt-pos {
+  font-size: 13px;
+  line-height: 18px;
+  color: rgba(255, 255, 255, 0.45);
+  margin-top: 2px;
+}
+
+/* 168 + 12 + 22 = 202 > 192 会溢出，所以宽度收窄到 158 */
+.dt-card {
+  width: 158px;
+  margin-left: 12px;
+  background-color: #1c1c1c;
+  border-radius: 16px;
+  padding-left: 11px;
+  padding-right: 11px;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.dt-t {
+  width: 100%;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 0.55);
+}
+
+/* 正文完整折行，不截断 */
+.dt-b {
+  width: 100%;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ffffff;
+  margin-top: 4px;
+}
+
+.dt-relbox {
+  width: 158px;
+  margin-left: 12px;
+  padding-left: 11px;
+  padding-right: 11px;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+}
+.dt-chips {
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 4px;
+}
+.dt-chip {
+  height: 32px;
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-right: 6px;
+  margin-bottom: 6px;
+  border-radius: 12px;
+  background-color: #0D6EFF;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  line-height: 32px;
+}
+
+.dt-act {
+  width: 168px;
+  margin-left: 12px;
+  border-radius: 22px;
+  background-color: #262626;
+  align-items: center;
+  justify-content: center;
+}
+.dt-act-txt {
+  font-size: 17px;
+  font-weight: bold;
+  color: #FFCC00;
+}
+</style>
+
+<script>
+import router from '@system.router'
+import * as store from '../../common/js/storage.js'
+import * as search from '../../common/js/dict/search.js'
+
+/* 正文可用宽度：158 - 11 - 11 = 136 */
+const TEXT_W = 136
+const TITLE_H = 20
+const GAP = 4
+const BREATH = 20
+const CARD_GAP = 8
+const HERO_H = 86
+
+/* ★ 词条内存缓存：返回再进不重复解析分片（上限 5 条，控制内存） */
+const DETAIL_CACHE_MAX = 5
+const DETAIL_CACHE = {}
+
+function charUnits(c) {
+  return (c.charCodeAt(0) < 128) ? 0.55 : 1
+}
+
+function linesOf(text, fontSize, textW) {
+  const perLine = textW / fontSize
+  const paras = String(text || '').split('\n')
+  let total = 0
+  for (let i = 0; i < paras.length; i++) {
+    const p = paras[i]
+    if (!p) { total += 1; continue }
+    let u = 0
+    for (let j = 0; j < p.length; j++) u += charUnits(p.charAt(j))
+    total += Math.max(1, Math.ceil(u / perLine))
+  }
+  return Math.max(1, total)
+}
+
+export default {
+  protected: {
+    word: ''
+  },
+
+  private: {
+    H: 490,
+    listH: 378,
+    heroH: HERO_H,
+    relH: 0,
+    NowTime: '',
+    pos: '',
+    blocks: [],
+    chips: [],
+    hasRel: false,
+    isFav: false,
+    timer: null
+  },
+
+  onInit() {
+    const h = (global.screenHeight && global.screenHeight > 0) ? global.screenHeight : 490
+    this.H = h
+    this.listH = h - 112
+    this.tick()
+    this.timer = setInterval(() => this.tick(), 30000)
+    this.load()
+  },
+
+  onShow() { this.tick() },
+  onHide() { this.clearTimer() },
+  onDestroy() { this.clearTimer() },
+
+  clearTimer() {
+    if (this.timer) { clearInterval(this.timer); this.timer = null }
+  },
+
+  tick() {
+    const d = new Date()
+    let hh = d.getHours()
+    let mm = d.getMinutes()
+    if (hh < 10) hh = '0' + hh
+    if (mm < 10) mm = '0' + mm
+    this.NowTime = hh + ':' + mm
+  },
+
+  load() {
+    const that = this
+    if (!this.word) return
+
+    // ★ 内存缓存（Map，上限 5 条）：返回再进不重复解析分片
+    const key = String(this.word).toLowerCase()
+    const hit = DETAIL_CACHE[key]
+    if (hit) {
+      that.applyEntry(hit)
+      return
+    }
+
+    search.getEntry(this.word).then(function (e) {
+      if (!e) {
+        that.blocks = [{ t: '提示', b: '未找到该词条', ch: 60, h: 68 }]
+        return
+      }
+      // 写缓存（超出上限时丢弃最早的一条）
+      if (!DETAIL_CACHE[key]) {
+        const keys = Object.keys(DETAIL_CACHE)
+        if (keys.length >= DETAIL_CACHE_MAX) delete DETAIL_CACHE[keys[0]]
+        DETAIL_CACHE[key] = e
+      }
+      that.applyEntry(e)
+    }).catch(function (err) {
+      console.log('[detail] load fail: ' + err)
+      that.blocks = [{ t: '提示', b: '词库读取失败', ch: 60, h: 68 }]
+    })
+  },
+
+  /** 渲染词条（缓存命中与首次加载共用） */
+  applyEntry(e) {
+    const that = this
+    this.pos = e.p ? e.p : ''
+    this.buildBlocks(e)
+    this.buildChips(e)
+    store.isFav(e.w).then(function (v) {
+      that.isFav = v
+    }).catch(function () {})
+  },
+
+  /** 每块高度 = 标题 + 间距 + 行数×行高 + 上下留白 */
+  buildBlocks(e) {
+    const src = []
+    if (e.zh) src.push({ t: '中文释义', b: e.zh, font: 16, lh: 22 })
+    if (e.en) src.push({ t: 'English', b: e.en, font: 15, lh: 21 })
+    if (e.ms) src.push({ t: 'Bahasa Melayu', b: e.ms, font: 15, lh: 21 })
+    if (e.ex) src.push({ t: '例句', b: e.ex, font: 15, lh: 21 })
+
+    const out = []
+    for (let i = 0; i < src.length; i++) {
+      const n = linesOf(src[i].b, src[i].font, TEXT_W)
+      const ch = TITLE_H + GAP + n * src[i].lh + BREATH
+      out.push({ t: src[i].t, b: src[i].b, ch: ch, h: ch + CARD_GAP })
+    }
+    if (out.length === 0) {
+      out.push({ t: '提示', b: '该词条暂无释义', ch: 60, h: 68 })
+    }
+    this.blocks = out
+  },
+
+  /** 相关词：同义 + 反义合并去重，最多 12 个 */
+  buildChips(e) {
+    const arr = []
+    const syn = e.syn ? e.syn : []
+    const ant = e.ant ? e.ant : []
+    for (let i = 0; i < syn.length; i++) {
+      if (arr.indexOf(syn[i]) === -1) arr.push(syn[i])
+    }
+    for (let i = 0; i < ant.length; i++) {
+      if (arr.indexOf(ant[i]) === -1) arr.push(ant[i])
+    }
+    const chips = arr.slice(0, 12)
+    this.chips = chips
+    this.hasRel = chips.length > 0
+    // 相关词块高度：标题 20 + 间距 4 + 行数×38 + 留白 16
+    if (this.hasRel) {
+      const perRow = 4
+      const rows = Math.ceil(chips.length / perRow)
+      this.relH = 20 + 4 + rows * 38 + 16
+    } else {
+      this.relH = 0
+    }
+  },
+
+  jump(w) {
+    if (!w) return
+    router.replace({ uri: '/pages/detail', params: { word: w } })
+  },
+
+  toggleFav() {
+    const that = this
+    if (!this.word) return
+    const zh = (this.blocks.length && this.blocks[0].t === '中文释义') ? this.blocks[0].b : ''
+    store.toggleFav({ w: this.word, zh: zh }).then(function (added) {
+      that.isFav = added
+    }).catch(function () {
+      console.log('[detail] toggleFav fail')
+    })
+  },
+
+  goBack() { router.back() },
+  onSwipeBack(e) { if (e && e.direction === 'right') router.back() }
+}
+</script>

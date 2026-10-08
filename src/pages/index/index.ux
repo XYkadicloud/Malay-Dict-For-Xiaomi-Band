@@ -1,0 +1,178 @@
+<!--
+  首页
+  范式来自 wear-browser-band9：list + list-item 流式布局，顶部安全区居中
+-->
+<template>
+  <div class="wb-page" style="height: {{H}}px;">
+    <list class="wb-list" style="top: 112px; height: {{listH}}px;">
+      <!-- 搜索入口 -->
+      <list-item type="search" class="li" style="height: 82px;" @click="goSearch">
+        <div class="card" style="height: 74px;">
+          <div class="card-main">
+            <text class="card-sub">查词</text>
+            <text class="card-title fs-t-m">马来语 / 中文</text>
+          </div>
+          <img class="arrow" src="/common/images/enter.png" />
+        </div>
+      </list-item>
+
+      <!-- 复习测验 -->
+      <list-item type="menu" class="li" style="height: 74px;" @click="goQuiz">
+        <div class="card" style="height: 66px;">
+          <div class="card-main">
+            <text class="card-title fs-t-m">复习测验</text>
+            <text class="card-sub fs-s-m">收藏词做选择题，记错题</text>
+          </div>
+          <img class="arrow" src="/common/images/enter.png" />
+        </div>
+      </list-item>
+
+      <!-- 每日学习 -->
+      <list-item type="menu" class="li" style="height: 74px;" @click="goLearn">
+        <div class="card" style="height: 66px;">
+          <div class="card-main">
+            <text class="card-title fs-t-m">每日学习</text>
+            <text class="card-sub fs-s-m">随机抽词，边学边记</text>
+          </div>
+          <img class="arrow" src="/common/images/enter.png" />
+        </div>
+      </list-item>
+
+      <!-- 我的（收藏 + 历史） -->
+      <list-item type="menu" class="li" style="height: 74px;" @click="goMine">
+        <div class="card" style="height: 66px;">
+          <div class="card-main">
+            <text class="card-title fs-t-m">我的</text>
+            <text class="card-sub fs-s-m">收藏 / 历史</text>
+          </div>
+          <img class="arrow" src="/common/images/enter.png" />
+        </div>
+      </list-item>
+
+      <!-- 设置 -->
+      <list-item type="menu" class="li" style="height: 74px;" @click="goSettings">
+        <div class="card" style="height: 66px;">
+          <div class="card-main">
+            <text class="card-title fs-t-m">设置</text>
+            <text class="card-sub fs-s-m">振动 / 清空数据</text>
+          </div>
+          <img class="arrow" src="/common/images/enter.png" />
+        </div>
+      </list-item>
+
+      <!-- 关于 -->
+      <list-item type="menu" class="li" style="height: 74px;" @click="goAbout">
+        <div class="card" style="height: 66px;">
+          <div class="card-main">
+            <text class="card-title fs-t-m">关于与来源</text>
+            <text class="card-sub fs-s-m">许可证 / 版本</text>
+          </div>
+          <img class="arrow" src="/common/images/enter.png" />
+        </div>
+      </list-item>
+
+      <list-item type="pad" class="li" style="height: 64px;"></list-item>
+    </list>
+
+    <img static class="hd" src="/common/images/hd.png" />
+    <text class="time">{{NowTime}}</text>
+    <text class="ptitle">马来词典</text>
+    <text class="netstat" style="color: rgba(255,255,255,0.45);">v{{Ver}} · 离线可用</text>
+  </div>
+</template>
+
+<style>
+@import '../../common/css/base.css';
+</style>
+
+<script>
+import router from '@system.router'
+import app from '@system.app'
+import * as store from '../../common/js/storage.js'
+
+export default {
+  private: {
+    H: 490,
+    listH: 378,
+    NowTime: '',
+    Ver: '0.1.0',
+    historyCount: 0,
+    favCount: 0,
+    timer: null
+  },
+
+  onInit() {
+    const h = (global.screenHeight && global.screenHeight > 0) ? global.screenHeight : 490
+    this.H = h
+    this.listH = h - 112
+    try {
+      const info = app.getInfo()
+      if (info && info.versionName) this.Ver = info.versionName
+    } catch (e) {
+      console.log('[index] getInfo fail')
+    }
+    this.tick()
+    this.timer = setInterval(() => this.tick(), 30000)
+  },
+
+  onShow() {
+    this.tick()
+    this.refreshCounts()
+  },
+
+  onHide() { this.clearTimer() },
+  onDestroy() { this.clearTimer() },
+
+  clearTimer() {
+    if (this.timer) { clearInterval(this.timer); this.timer = null }
+  },
+
+  tick() {
+    const d = new Date()
+    let h = d.getHours()
+    let m = d.getMinutes()
+    if (h < 10) h = '0' + h
+    if (m < 10) m = '0' + m
+    this.NowTime = h + ':' + m
+  },
+
+  refreshCounts() {
+    const that = this
+    store.getHistory().then(function (list) {
+      that.historyCount = list ? list.length : 0
+    }).catch(function () {})
+    store.getFav().then(function (list) {
+      that.favCount = list ? list.length : 0
+    }).catch(function () {})
+  },
+
+  goSearch() {
+    router.push({ uri: '/pages/search' })
+  },
+
+  goLearn() {
+    router.push({ uri: '/pages/learn' })
+  },
+
+  goQuiz() {
+    router.push({ uri: '/pages/quiz' })
+  },
+
+  goSettings() {
+    router.push({ uri: '/pages/settings' })
+  },
+
+  goMine() {
+    router.push({ uri: '/pages/collection', params: { tabParam: 'fav' } })
+  },
+
+  goCollection(tab) {
+    // 兼容旧调用
+    router.push({ uri: '/pages/collection', params: { tabParam: tab } })
+  },
+
+  goAbout() {
+    router.push({ uri: '/pages/about' })
+  }
+}
+</script>

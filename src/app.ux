@@ -1,0 +1,68 @@
+<script>
+import device from '@system.device'
+import * as uiAdm from './common/js/uiAdm.js'
+import * as storageManager from './common/js/storage.js'
+
+export default {
+  data: {
+    screenShape: 'pill-shaped',
+    screenWidth: 192
+  },
+
+  onCreate() {
+    global.uiAdm = uiAdm
+    global.storageManager = storageManager
+    global.deviceInfo = {}
+    global.screenShape = 'pill-shaped'
+    global.screenWidth = 192
+    global.screenHeight = 490
+
+    this.initDevice()
+    this.initStorage()
+    console.log('[app] onCreate done')
+  },
+
+  initDevice() {
+    const that = this
+    try {
+      device.getInfo({
+        success(ret) {
+          global.deviceInfo = ret || {}
+          global.screenShape = (ret && ret.screenShape) || 'pill-shaped'
+          global.screenWidth = (ret && ret.screenWidth) || 192
+          global.screenHeight = (ret && ret.screenHeight) || 490
+          that.screenShape = global.screenShape
+          that.screenWidth = global.screenWidth
+          console.log('[app] device=' + JSON.stringify(ret))
+        },
+        fail(data, code) {
+          console.log('[app] device.getInfo fail code=' + code)
+        }
+      })
+    } catch (e) {
+      console.log('[app] device.getInfo error=' + e)
+    }
+  },
+
+  initStorage() {
+    storageManager.init().then(function () {
+      console.log('[app] storage ready')
+    }).catch(function (e) {
+      console.log('[app] storage init fail=' + e)
+    })
+  },
+
+  onDestroy() {
+    console.log('[app] onDestroy')
+  }
+}
+</script>
+
+<style>
+.page-root {
+  width: 192px;
+  height: 490px;
+  flex-direction: column;
+  background-color: #000000;
+}
+</style>

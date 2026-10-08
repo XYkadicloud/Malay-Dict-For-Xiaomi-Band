@@ -1,0 +1,50 @@
+# 依赖
+node_modules/
+package-lock.json.bak
+
+# 构建产物
+dist/
+build/
+.temp_*/
+*.rpk
+
+# 签名密钥（绝不能入库）
+*.pem
+*.p12
+*.keystore
+*.jks
+sign/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+logs/
+
+# 缓存
+.npm/
+.npm-cache/
+.cache/
+
+# 临时
+*.tmp
+*.temp
+
+# 本地备份
+backup_units/
+.backup/
+.operit/
+
+# 大数据中间产物（可从 tools/ 脚本重新生成）
+data/raw/*.bak
+*.bz2
+*.xml

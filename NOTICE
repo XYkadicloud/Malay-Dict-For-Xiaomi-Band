@@ -1,0 +1,83 @@
+# NOTICE — 数据来源与署名
+
+本仓库是**小米手环 9（Xiaomi Band 9 / Vela JS 快应用）上的马来语·中文·英语三向离线词典**。
+
+仓库包含两类内容，**许可证不同**：
+
+| 内容 | 路径 | 许可证 |
+|---|---|---|
+| 源代码 | `src/**/*.ux`、`src/**/*.js`、`tools/**/*.js` | **MIT** |
+| 词库数据 | `src/assets/dict/**` | **CC BY-SA 4.0** |
+
+---
+
+## 一、词库数据来源
+
+词库数据部分来源于：
+
+### • Wiktionary / Kaikki.org
+- 马来语词条数据，由 [Wiktextract](https://github.com/tatuylonen/wiktextract) 从英文 Wiktionary 抽取
+- https://kaikki.org/dictionary/Malay/
+- 许可证：**CC BY-SA 4.0** — https://creativecommons.org/licenses/by-sa/4.0/
+- 修改说明：提取词条释义，并二次构建中文释义（机器辅助 + 人工校对高频词）
+
+### • 中文维基词典
+- 中文释义参考来源（dump 解析）
+- https://zh.wiktionary.org/
+- 许可证：**CC BY-SA 4.0** — https://creativecommons.org/licenses/by-sa/4.0/
+- 修改说明：提取「马来语」章节，转写为词条索引
+
+### • ECDICT
+- 英中映射（英文释义桥接）
+- https://github.com/skywind3000/ECDICT
+- 许可证：**MIT**
+
+### • pinyin-pro
+- 汉字拼音数据
+- https://github.com/zh-lx/pinyin-pro
+- 许可证：**MIT**
+
+---
+
+## 二、代码组件来源
+
+### • InputMethod.ux（马来语键盘）
+- 来源：https://github.com/NEORUAA/Vela_input_method
+- 许可证：**MIT License**
+- 改动：移除中文拼音 / 日文罗马字 / T9 / circle / rect 布局；由横向滚动全键盘改为固定 6 列压缩 QWERTY；新增 shift 与符号页
+
+### • storage.js / 页面架构
+- 参考 https://github.com/MingChengNetworkStudio/ResonaUI 的架构思路**重写**
+- 未复制其源码（原 `uiAdm.js` / `download.js` 为 MPL-2.0-only），因此本项目不受 MPL 约束
+
+---
+
+## 三、未使用的数据源（合规声明）
+
+以下来源**版权保留、无开放许可**，本项目**未使用**其任何内容：
+
+- DBP（Dewan Bahasa dan Pustaka）
+- PRPM
+- Kamus Dewan
+- Kamus Pro 等商业词典
+
+---
+
+## 四、CC BY-SA 的传染性说明
+
+由于词库数据源自 Kaikki（CC BY-SA 4.0）：
+
+- **词库衍生数据**（`src/assets/dict/**` 的分片与索引）以 **CC BY-SA 4.0** 发布
+- **代码**（`.ux` / `.js`）保持 **MIT**，与词库分开声明
+- 转载/再分发词库数据时，必须保留本 NOTICE 并同样以 CC BY-SA 4.0 发布
+
+---
+
+## 五、免责声明
+
+中文释义为**二次构建**结果，部分条目由机器辅助生成，可能存在错误。
+本项目为学习工具，**不应作为权威翻译依据**。
+
+---
+
+*最后更新：2026-10-08*

@@ -1,0 +1,632 @@
+<!--
+  搜索页 —— 三方向词典查询
+    方向：马→中 / 中→马 / 英→马（按钮切换）
+    交互：输入时不检索，点「搜索」才检索
+
+  ★ v0.9 重构（性能优先）
+    结果卡**极简**：只显示「马来语词 + 词性」，固定高度 56px。
+    完整释义（中文/英文/例句/近反义）在 detail 页按需加载 —— 这是闪退的根治。
+    原因：15 条 × 完整详情 + 每条 6 个 JS 高度计算 = 内存峰值 + 布局重算 → 崩溃。
+    现在 DOM 节点从 ~15×9 降到 ~10×3，且无需逐条算高度。
+
+  ★ 分页：一次收集最多 50 条，页面只渲染 page×10 条，底部「加载更多」
+    不做"真分页请求"（分片已在内存，重复 readText 反而撑爆内存）
+
+  键盘：第三方 InputMethod 组件（NEORUAA/Vela_input_method，MIT），胶囊屏
+-->
+<import name="input-method" src="../../components/InputMethod/InputMethod.ux"></import>
+
+<template>
+  <div class="wb-page" style="height: {{H}}px;">
+    <!-- ① 输入行：输入卡 + 清空 -->
+    <list class="wb-list" style="top: 112px; height: 46px;">
+      <list-item type="input" class="li" style="height: 46px;" @click="toggleKeyboard">
+        <div class="in-card" style="height: 42px;">
+          <text class="in-ph fs-s-m" if="{{!query}}">{{phText}}</text>
+          <text class="in-tx fs-t-m" if="{{query}}">{{query}}</text>
+        </div>
+      </list-item>
+
+      <list-item type="clr" class="li" style="height: 46px;" @click="clearAll">
+        <div class="clr-btn" style="height: 42px;">
+          <text class="clr-tx fs-n-m">清空</text>
+        </div>
+      </list-item>
+    </list>
+
+    <!-- ② 控制行：语言选择 + 搜索 -->
+    <div class="ctrlbar" style="top: 162px;">
+      <div class="lang" @click="toggleLangPanel">
+        <text class="lang-tx fs-n-m">{{langLabel}}</text>
+        <text class="lang-ar fs-n-m">▼</text>
+      </div>
+      <div class="go {{loading ? 'go-busy' : ''}}" @click="doSearch">
+        <text class="go-tx fs-n-m">{{loading ? '…' : '搜索'}}</text>
+      </div>
+    </div>
+
+    <!-- ②b 语言选择面板（点「语言按钮」时弹出） -->
+    <list class="wb-list" if="{{showLang}}" style="top: 200px; height: 144px;">
+      <list-item type="lang-h" class="li" style="height: 30px;">
+        <div class="langh">
+          <text class="langh-tx fs-s-m">原语言 → 目标语言</text>
+        </div>
+      </list-item>
+      <list-item type="lang-o" class="li" style="height: 36px;" @click="pickLangO('ms')">
+        <div class="lango {{langFrom === 'ms' ? 'lango-on' : ''}}">
+          <text class="lango-tx fs-s-m">马来语</text>
+        </div>
+      </list-item>
+      <list-item type="lang-o" class="li" style="height: 36px;" @click="pickLangO('zh')">
+        <div class="lango {{langFrom === 'zh' ? 'lango-on' : ''}}">
+          <text class="lango-tx fs-s-m">中文</text>
+        </div>
+      </list-item>
+      <list-item type="lang-o" class="li" style="height: 36px;" @click="pickLangO('en')">
+        <div class="lango {{langFrom === 'en' ? 'lango-on' : ''}}">
+          <text class="lango-tx fs-s-m">英语</text>
+        </div>
+      </list-item>
+    </list>
+
+    <!-- ③ 拼音候选行（中→马，输拼音时） -->
+    <list class="wb-list" if="{{cands.length > 0 && !showLang}}" style="top: 200px; height: 44px;">
+      <list-item type="cand" class="li" style="height: 44px;">
+        <div class="cand-box">
+          <text class="cand fs-t-m" for="{{c in cands}}" @click="pickZh(c)">{{c}}</text>
+        </div>
+      </list-item>
+    </list>
+
+    <!-- ④ 结果区：极简卡片，占满剩余屏幕 -->
+    <list class="wb-list" if="{{!kbVisible}}" style="top: {{resTop}}px; height: {{resH}}px;">
+      <!-- 加载中 -->
+      <list-item type="loading" class="li" style="height: 60px;" if="{{loading}}">
+        <div class="load-box">
+          <text class="load-tx fs-e-m">{{loadText}}</text>
+        </div>
+      </list-item>
+
+      <!-- ★ 极简结果卡：只有「词 + 词性」，固定 56px，点进详情 -->
+      <list-item type="res" class="li" style="height: 56px;" for="{{it in rows}}" @click="openDetail(it.w)">
+        <div class="r-card" style="height: 52px;">
+          <text class="r-word">{{it.w}}</text>
+          <text class="r-pos">{{it.p}}</text>
+          <img class="r-arrow" src="/common/images/enter.png" />
+        </div>
+      </list-item>
+
+      <!-- ★ 分页器：上一页 / 页码 / 下一页（真分页：每次只取本页 10 条，不一次收 50） -->
+      <list-item type="prev" class="li" style="height: 60px;" if="{{hasPrev}}">
+        <div class="more-btn" style="height: 52px;" @click="loadPrev">
+          <text class="more-tx fs-t-m">‹ 上一页</text>
+        </div>
+      </list-item>
+      <list-item type="next" class="li" style="height: 60px;" if="{{hasMore}}">
+        <div class="more-btn" style="height: 52px;" @click="loadMore">
+          <text class="more-tx fs-t-m">{{loading ? '…' : '下一页 ›'}}</text>
+        </div>
+      </list-item>
+      <list-item type="pgno" class="li" style="height: 28px;" if="{{allCount > 0}}">
+        <div class="pgno-box">
+          <text class="pgno-tx fs-s-m">第 {{page}} 页 · 共 {{allCount}} 条</text>
+        </div>
+      </list-item>
+
+      <!-- 提示 -->
+      <list-item type="hint" class="li" style="height: 70px;" if="{{showHint}}">
+        <div class="hint-box">
+          <text class="hint-tx fs-e-m">{{hint2}}</text>
+        </div>
+      </list-item>
+
+      <list-item type="pad" class="li" style="height: 64px;"></list-item>
+    </list>
+
+    <img static class="hd" src="/common/images/hd.png" />
+    <img static class="back" src="/common/images/back.png" @click="goBack" />
+    <text class="time">{{NowTime}}</text>
+    <text class="ptitle">词典</text>
+
+    <!-- 第三方键盘（胶囊屏） -->
+    <input-method
+      hide="{{hideKeyboard}}"
+      keyboardtype.static="QWERTY"
+      maxlength.static="5"
+      vibratemode.static="short"
+      screentype.static="pill-shaped"
+      @complete="onInput"
+      @delete="onDelete"
+      @visibilityChange="onVisibility" />
+  </div>
+</template>
+
+<style>
+@import '../../common/css/base.css';
+
+/* 输入行：12 + 128 + 4 + 36 = 180 ≤ 192 */
+.in-card {
+  width: 128px;
+  margin-left: 12px;
+  background-color: #1c1c1c;
+  border-radius: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+  flex-direction: row;
+  align-items: center;
+}
+.in-ph { width: 108px; color: rgba(255, 255, 255, 0.3); lines: 1; }
+.in-tx { width: 108px; color: #ffffff; lines: 1; text-overflow: ellipsis; }
+
+.clr-btn {
+  width: 36px;
+  margin-left: 4px;
+  border-radius: 14px;
+  background-color: #262626;
+  align-items: center;
+  justify-content: center;
+}
+.clr-tx { color: rgba(255, 255, 255, 0.55); }
+
+/* 控制行：12 + 130 + 8 + 44 = 194... 改成 12 + 130 + 6 + 40 = 188 */
+.ctrlbar {
+  position: absolute;
+  left: 12px;
+  width: 180px;
+  height: 34px;
+  flex-direction: row;
+  align-items: center;
+}
+/* 语言选择按钮：130px（显示「中→马」足够）+ 6px 间距 + 40px 搜索 */
+.lang {
+  width: 130px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #1c1c1c;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.lang-tx { color: #ffffff; }
+.lang-ar { color: rgba(255, 255, 255, 0.4); margin-left: 6px; }
+
+.langh {
+  width: 168px;
+  margin-left: 12px;
+  height: 26px;
+  align-items: center;
+  justify-content: center;
+}
+.langh-tx { color: rgba(255, 255, 255, 0.4); }
+
+.lango {
+  width: 168px;
+  margin-left: 12px;
+  height: 32px;
+  border-radius: 10px;
+  background-color: #1c1c1c;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 14px;
+}
+.lango-on { background-color: #0D6EFF; }
+.lango-tx { color: #ffffff; }
+
+/* 旧 dir 样式保留（避免其他页面误用） */
+.dir {
+  width: 40px;
+  height: 30px;
+  margin-right: 4px;
+  border-radius: 15px;
+  background-color: #1c1c1c;
+  align-items: center;
+  justify-content: center;
+}
+.dir-on { background-color: #0D6EFF; }
+.dir-tx { color: #ffffff; }
+
+.go {
+  width: 44px;
+  height: 30px;
+  margin-left: 2px;
+  border-radius: 15px;
+  background-color: #0D6EFF;
+  align-items: center;
+  justify-content: center;
+}
+.go-busy { background-color: #555555; }
+.go-tx { color: #ffffff; font-weight: bold; }
+
+/* 候选字横排 */
+.cand-box {
+  width: 168px;
+  margin-left: 12px;
+  height: 40px;
+  flex-direction: row;
+  align-items: center;
+}
+.cand {
+  width: 40px;
+  height: 36px;
+  margin-right: 5px;
+  border-radius: 11px;
+  background-color: #262626;
+  color: #ffffff;
+  text-align: center;
+  line-height: 36px;
+}
+
+/* ★ 极简结果卡：168 + 12 = 180 ≤ 192 */
+.r-card {
+  width: 168px;
+  margin-left: 12px;
+  background-color: #1c1c1c;
+  border-radius: 16px;
+  padding-left: 12px;
+  padding-right: 8px;
+  flex-direction: row;
+  align-items: center;
+}
+.r-word {
+  flex: 1;
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffffff;
+  lines: 1;
+  text-overflow: ellipsis;
+}
+.r-pos {
+  flex-shrink: 0;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.4);
+  margin-right: 4px;
+  lines: 1;
+}
+.r-arrow { width: 20px; height: 20px; flex-shrink: 0; }
+
+/* 加载更多 */
+.more-btn {
+  width: 168px;
+  margin-left: 12px;
+  border-radius: 16px;
+  background-color: #0D6EFF;
+  align-items: center;
+  justify-content: center;
+}
+.more-tx { color: #ffffff; font-weight: bold; }
+/* ★ 页码指示 */
+.pgno-box {
+  width: 168px;
+  margin-left: 12px;
+  height: 28px;
+  align-items: center;
+  justify-content: center;
+}
+.pgno-tx { color: rgba(255, 255, 255, 0.45); }
+
+.load-box {
+  width: 168px;
+  margin-left: 12px;
+  height: 52px;
+  align-items: center;
+  justify-content: center;
+}
+.load-tx { width: 160px; text-align: center; color: #0D6EFF; font-weight: bold; }
+
+.hint-box {
+  width: 168px;
+  margin-left: 12px;
+  height: 62px;
+  align-items: center;
+  justify-content: center;
+}
+.hint-tx { width: 160px; text-align: center; color: rgba(255, 255, 255, 0.45); }
+</style>
+
+<script>
+import router from '@system.router'
+import * as store from '../../common/js/storage.js'
+import * as search from '../../common/js/dict/search.js'
+
+const LANG_LABEL = {
+  ms2zh: '马来语 → 中文',
+  zh2ms: '中文 → 马来语',
+  en2ms: '英语 → 马来语'
+}
+
+/* 三种方向的文案 */
+const MODE_CONF = {
+  ms2zh: { ph: '输入马来语…' },
+  zh2ms: { ph: '输入拼音或汉字…' },
+  en2ms: { ph: '输入英文…' }
+}
+
+export default {
+  private: {
+    H: 490,
+    resTop: 200,
+    resH: 290,
+    NowTime: '',
+    query: '',
+    // ★ 改用「原语言」+「目标语言」（目标固定马来语）
+    langFrom: 'zh',          // 默认中文 → 马来语
+    showLang: false,        // 语言选择面板是否展开
+    mode: 'zh2ms',          // 由 langFrom 推导（普通字段，Vela 不支持 getter）
+    langLabel: '中文 → 马来语',
+    rows: [],          // 当前展示的（只含本页 pageSize 条）
+    allCount: 0,       // 收集到的总条数
+    page: 1,
+    hasMore: false,
+    hasPrev: false,
+    moreCount: 0,
+    cands: [],
+    hideKeyboard: true,
+    kbVisible: false,
+    loading: false,
+    loadText: '加载中…',
+    showHint: true,
+    hint2: '',
+    phText: '输入马来语…',
+    // ★ 从设置页读取
+    pageSize: 10,      // 每页条数（5/10/20）
+    showPos: true,     // 是否显示词性
+    token: 0
+  },
+
+  onInit() {
+    const h = (global.screenHeight && global.screenHeight > 0) ? global.screenHeight : 490
+    this.H = h
+    this.loadSettings()
+    this.tick()
+    this.timer = setInterval(() => this.tick(), 30000)
+  },
+  onShow() {
+    this.tick()
+    this.loadSettings()
+  },
+  /** ★ 读取设置：默认方向 / 每页条数 / 是否显示词性 */
+  loadSettings() {
+    const that = this
+    return store.getSettings().then(function (s) {
+      if (!s) { that.applyMode(); return }
+      that.pageSize = s.pageSize || 10
+      that.showPos = (s.showPhonetic !== false)
+      const from = s.defLang || 'zh'
+      that.langFrom = from
+      // ★ 马来语是查中文（ms2zh），其余是 X→马来语
+      that.mode = (from === 'ms') ? 'ms2zh' : (from + '2ms')
+      that.langLabel = LANG_LABEL[that.mode] || ''
+      // ★ 无论方向是否变化都要 applyMode（否则首次进入提示文案会错位）
+      that.applyMode()
+    }).catch(function () {
+      that.applyMode()
+    })
+  },
+  onHide() {
+    this.clearTimer()
+    try { search.releaseShards() } catch (e) {}
+  },
+  onDestroy() {
+    this.clearTimer()
+    try { search.releaseShards() } catch (e) {}
+  },
+
+  clearTimer() {
+    if (this.timer) { clearInterval(this.timer); this.timer = null }
+  },
+
+  tick() {
+    const d = new Date()
+    let h = d.getHours()
+    let m = d.getMinutes()
+    if (h < 10) h = '0' + h
+    if (m < 10) m = '0' + m
+    this.NowTime = h + ':' + m
+  },
+
+  /** 面板出现时结果区下移；否则占满 */
+  layout() {
+    let y = 200
+    if (this.showLang) y = 344
+    else if (this.cands.length > 0) y = 248
+    this.resTop = y
+    this.resH = this.H - this.resTop
+  },
+
+  /* ------------------------- 语言选择 ------------------------- */
+
+  applyMode() {
+    const c = MODE_CONF[this.mode] || MODE_CONF.zh2ms
+    this.phText = c.ph
+    this.hint2 = '输入后点「搜索」'
+    this.showHint = true
+    this.layout()
+  },
+
+  toggleLangPanel() {
+    this.showLang = !this.showLang
+    this.layout()
+  },
+
+  pickLangO(from) {
+    this.langFrom = from
+    // ★ 原语言 → 模式映射（马来语是查中文，不是 ms2ms）
+    this.mode = (from === 'ms') ? 'ms2zh' : (from + '2ms')
+    this.langLabel = LANG_LABEL[this.mode] || ''
+    this.showLang = false
+    this.cands = []
+    this.rows = []
+    this.page = 1
+    this.hasPrev = false
+    this.allCount = 0
+    this.hasMore = false
+    this.applyMode()
+  },
+
+  /* 旧 setMode 已被 pickLangO 取代（保留为 noop 防止外部误调） */
+  setMode() {},
+
+  /* ------------------------- 键盘 ------------------------- */
+
+  toggleKeyboard() {
+    this.hideKeyboard = !this.hideKeyboard
+  },
+
+  onVisibility(e) {
+    this.kbVisible = !!(e && e.detail && e.detail.visible)
+    if (!this.kbVisible) this.hideKeyboard = true
+  },
+
+  /** 只记录输入，不触发检索 */
+  onInput(e) {
+    const ch = (e && e.detail && e.detail.content) || ''
+    if (!ch) return
+    if (this.query.length >= 24) return
+    this.query = this.query + ch
+    this.showHint = false
+  },
+
+  onDelete() {
+    if (!this.query) return
+    this.query = this.query.slice(0, -1)
+  },
+
+  clearAll() {
+    this.query = ''
+    this.rows = []
+    this.cands = []
+    this.page = 1
+    this.hasPrev = false
+    this.allCount = 0
+    this.hasMore = false
+    this.applyMode()
+  },
+
+  /* ------------------------- 检索 ------------------------- */
+
+  doSearch() {
+    if (this.loading) return          // ★ 防连点
+    const q = (this.query || '').trim()
+    if (!q) {
+      this.showHint = true
+      this.hint2 = '请先输入内容'
+      return
+    }
+    this.page = 1
+    this.hasPrev = false
+    this.run(q)
+  },
+
+  /** 加载下一页：按 page×pageSize 精确取，不再一次收 50 */
+  loadMore() {
+    if (!this.hasMore || this.loading) return
+    // ★ 上限按「最多 50 条」折算页数（pageSize 越小可翻页数越多）
+    const maxPages = Math.ceil(50 / this.pageSize)
+    if (this.page >= maxPages) {
+      this.showHint = true
+      this.hint2 = '结果较多，请输入更精确的词'
+      return
+    }
+    this.page = this.page + 1
+    this.run(this.query)
+  },
+  /** ★ 上一页（同样按需取，只取到该页为止） */
+  loadPrev() {
+    if (!this.hasPrev || this.loading) return
+    if (this.page <= 1) return
+    this.page = this.page - 1
+    this.run(this.query)
+  },
+
+  /** 统一检索入口（page 决定切多少条） */
+  run(q) {
+    this.hideKeyboard = true
+    this.kbVisible = false
+    this.showHint = false
+    this.loading = true
+    this.loadText = '加载中…'
+    this.layout()
+
+    this.token = this.token + 1
+    const tk = this.token
+    const that = this
+    const mode = this.mode
+    const page = this.page
+
+    const onProgress = function (done, total) {
+      if (tk !== that.token) return
+      if (total > 1) that.loadText = '加载中 ' + done + '/' + total + '…'
+    }
+
+    search.queryPaged(q, mode, page, onProgress, that.pageSize).then(function (res) {
+      if (tk !== that.token) return
+      that.loading = false
+      const r = res || { rows: [], cands: [], total: 0, hasMore: false }
+      that.cands = r.cands ? r.cands : []
+      that.allCount = r.total || 0
+      that.hasMore = !!r.hasMore
+      that.hasPrev = !!r.hasPrev
+      that.layout()
+      that.buildRows(r.rows ? r.rows : [])
+      that.moreCount = Math.max(0, that.allCount - that.page * that.pageSize)
+
+      if (that.rows.length === 0) {
+        that.showHint = true
+        if (that.cands.length > 0) {
+          that.hint2 = '点上方候选字，查对应的马来语'
+        } else if (mode === 'zh2ms') {
+          that.hint2 = '未找到「' + q + '」对应的马来语'
+        } else if (mode === 'en2ms') {
+          that.hint2 = '未找到英文「' + q + '」'
+        } else {
+          that.hint2 = '未找到「' + q + '」'
+        }
+      }
+    }).catch(function (e) {
+      console.log('[search] fail: ' + e)
+      if (tk !== that.token) return
+      that.loading = false
+      that.rows = []
+      that.cands = []
+      that.layout()
+      that.showHint = true
+      that.hint2 = '查询出错'
+    })
+  },
+
+  /** 中→马：点候选汉字 → 直接出词条列表（走统一分页链路） */
+  pickZh(hz) {
+    if (!hz) return
+    this.query = hz
+    this.cands = []
+    this.rows = []
+    this.page = 1
+    this.hasPrev = false
+    this.showHint = false
+    this.run(hz)          // ★ 复用统一入口：分页 + 加载提示 + 错误处理都在里面
+  },
+
+  /**
+   * ★ 极简列表：只保留「词 + 词性」，固定高度 56px。
+   * 不再逐条计算 6 个高度字段 —— 这是闪退根治点。
+   */
+  buildRows(list) {
+    const out = []
+    const showPos = (this.showPos !== false)
+    for (let i = 0; i < list.length; i++) {
+      const e = list[i]
+      out.push({ w: e.w, p: showPos ? (e.p || '') : '' })
+    }
+    this.rows = out
+  },
+
+  /** 点卡片 → 详情页（按需加载完整释义） */
+  openDetail(w) {
+    if (!w) return
+    try { store.addHistory({ w: w }) } catch (e) {}
+    router.push({ uri: '/pages/detail', params: { word: w } })
+  },
+
+  goBack() { router.back() }
+}
+</script>

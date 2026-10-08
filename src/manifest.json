@@ -1,0 +1,70 @@
+{
+  "package": "com.operit.malaydict",
+  "name": "马来词典",
+  "icon": "/common/icon.png",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "minPlatformVersion": 1100,
+  "simulationVersion": "default",
+  "deviceTypeList": [
+    "watch"
+  ],
+  "config": {
+    "designWidth": 192
+  },
+  "display": {
+    "backgroundColor": "#000000"
+  },
+  "features": [
+    {
+      "name": "system.router"
+    },
+    {
+      "name": "system.storage"
+    },
+    {
+      "name": "system.file"
+    },
+    {
+      "name": "system.vibrator"
+    },
+    {
+      "name": "system.device"
+    },
+    {
+      "name": "system.prompt"
+    },
+    {
+      "name": "system.app"
+    }
+  ],
+  "router": {
+    "entry": "pages/index",
+    "pages": {
+      "pages/index": {
+        "component": "index"
+      },
+      "pages/search": {
+        "component": "search"
+      },
+      "pages/detail": {
+        "component": "detail"
+      },
+      "pages/collection": {
+        "component": "collection"
+      },
+      "pages/learn": {
+        "component": "learn"
+      },
+      "pages/settings": {
+        "component": "settings"
+      },
+      "pages/quiz": {
+        "component": "quiz"
+      },
+      "pages/about": {
+        "component": "about"
+      }
+    }
+  }
+}

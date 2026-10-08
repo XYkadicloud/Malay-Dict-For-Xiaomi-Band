@@ -1,0 +1,357 @@
+<!--
+  设置页（v0.11 扩充）
+    · 默认查询方向（中文/马来语/英语 → 马来语）
+    · 每页结果条数（5 / 10 / 20）—— 直接决定单次搜索的内存占用
+    · 每日学习每轮词数（5 / 10 / 15）
+    · 答错自动重练
+    · 按键振动 / 显示词性
+    · 清空历史 / 收藏 / 错词本 / 全部数据
+    · 关于与来源
+  范式：list + list-item，高度固定（JS 算好），返回键在 y=58
+-->
+<template>
+  <div class="wb-page" style="height: {{H}}px;">
+    <list class="wb-list" style="top: 112px; height: {{listH}}px;">
+
+      <!-- ① 默认查询方向：三选一 -->
+      <list-item type="seg" class="li" style="height: 92px;">
+        <div class="card col-card" style="height: 84px;">
+          <text class="card-title fs-t-m">默认查询方向</text>
+          <div class="seg-row">
+            <div class="seg {{settings.defLang === 'zh' ? 'seg-on' : ''}}" @click="setDefLang('zh')">
+              <text class="seg-tx fs-s-m">中→马</text>
+            </div>
+            <div class="seg {{settings.defLang === 'ms' ? 'seg-on' : ''}}" @click="setDefLang('ms')">
+              <text class="seg-tx fs-s-m">马→中</text>
+            </div>
+            <div class="seg {{settings.defLang === 'en' ? 'seg-on' : ''}}" @click="setDefLang('en')">
+              <text class="seg-tx fs-s-m">英→马</text>
+            </div>
+          </div>
+          <text class="card-sub fs-s-m">打开搜索页时默认用这个方向</text>
+        </div>
+      </list-item>
+
+      <!-- ② 每页结果条数：5 / 10 / 20 -->
+      <list-item type="seg" class="li" style="height: 92px;">
+        <div class="card col-card" style="height: 84px;">
+          <text class="card-title fs-t-m">每页结果条数</text>
+          <div class="seg-row">
+            <div class="seg {{settings.pageSize === 5 ? 'seg-on' : ''}}" @click="setPageSize(5)">
+              <text class="seg-tx fs-s-m">5</text>
+            </div>
+            <div class="seg {{settings.pageSize === 10 ? 'seg-on' : ''}}" @click="setPageSize(10)">
+              <text class="seg-tx fs-s-m">10</text>
+            </div>
+            <div class="seg {{settings.pageSize === 20 ? 'seg-on' : ''}}" @click="setPageSize(20)">
+              <text class="seg-tx fs-s-m">20</text>
+            </div>
+          </div>
+          <text class="card-sub fs-s-m">条数越少越省内存，越不容易闪退</text>
+        </div>
+      </list-item>
+
+      <!-- ③ 每日学习每轮词数 -->
+      <list-item type="seg" class="li" style="height: 92px;">
+        <div class="card col-card" style="height: 84px;">
+          <text class="card-title fs-t-m">每日学习每轮词数</text>
+          <div class="seg-row">
+            <div class="seg {{settings.learnCount === 5 ? 'seg-on' : ''}}" @click="setLearnCount(5)">
+              <text class="seg-tx fs-s-m">5</text>
+            </div>
+            <div class="seg {{settings.learnCount === 10 ? 'seg-on' : ''}}" @click="setLearnCount(10)">
+              <text class="seg-tx fs-s-m">10</text>
+            </div>
+            <div class="seg {{settings.learnCount === 15 ? 'seg-on' : ''}}" @click="setLearnCount(15)">
+              <text class="seg-tx fs-s-m">15</text>
+            </div>
+          </div>
+        </div>
+      </list-item>
+
+      <!-- ④ 答错自动重练 -->
+      <list-item type="toggle" class="li" style="height: 74px;" @click="toggleRetry">
+        <div class="card" style="height: 66px;">
+          <div class="card-main">
+            <text class="card-title fs-t-m">答错自动重练</text>
+            <text class="card-sub fs-s-m">测验答错的词稍后再考一次</text>
+          </div>
+          <div class="sw {{settings.retryWrong ? 'sw-on' : 'sw-off'}}">
+            <div class="{{settings.retryWrong ? 'knob-on' : 'knob-off'}}"></div>
+          </div>
+        </div>
+      </list-item>
+
+      <!-- ⑤ 按键振动 -->
+      <list-item type="toggle" class="li" style="height: 74px;" @click="toggleVibrate">
+        <div class="card" style="height: 66px;">
+          <div class="card-main">
+            <text class="card-title fs-t-m">按键振动</text>
+            <text class="card-sub fs-s-m">打字时震动反馈</text>
+          </div>
+          <div class="sw {{settings.vibrate ? 'sw-on' : 'sw-off'}}">
+            <div class="{{settings.vibrate ? 'knob-on' : 'knob-off'}}"></div>
+          </div>
+        </div>
+      </list-item>
+
+      <!-- ⑥ 显示词性 -->
+      <list-item type="toggle" class="li" style="height: 74px;" @click="togglePhonetic">
+        <div class="card" style="height: 66px;">
+          <div class="card-main">
+            <text class="card-title fs-t-m">显示词性</text>
+            <text class="card-sub fs-s-m">结果里显示 n./v./adj. 等</text>
+          </div>
+          <div class="sw {{settings.showPhonetic ? 'sw-on' : 'sw-off'}}">
+            <div class="{{settings.showPhonetic ? 'knob-on' : 'knob-off'}}"></div>
+          </div>
+        </div>
+      </list-item>
+
+      <!-- ⑦ 清空错词本 -->
+      <list-item type="act" class="li" style="height: 74px;" @click="clearWrong">
+        <div class="card act-card" style="height: 66px;">
+          <text class="card-title fs-t-m">清空错词本</text>
+          <text class="card-sub fs-s-m">{{wrongCount}} 条</text>
+        </div>
+      </list-item>
+
+      <!-- ⑧ 清空查询历史 -->
+      <list-item type="act" class="li" style="height: 74px;" @click="clearHistory">
+        <div class="card act-card" style="height: 66px;">
+          <text class="card-title fs-t-m">清空查询历史</text>
+          <text class="card-sub fs-s-m">{{historyCount}} 条</text>
+        </div>
+      </list-item>
+
+      <!-- ⑨ 清空收藏 -->
+      <list-item type="act" class="li" style="height: 74px;" @click="clearFav">
+        <div class="card act-card" style="height: 66px;">
+          <text class="card-title fs-t-m">清空收藏</text>
+          <text class="card-sub fs-s-m">{{favCount}} 条</text>
+        </div>
+      </list-item>
+
+      <!-- ⑩ 清空全部数据 -->
+      <list-item type="act" class="li" style="height: 74px;" @click="clearAll">
+        <div class="card act-card warn-card" style="height: 66px;">
+          <text class="card-title fs-t-m">清空全部数据</text>
+          <text class="card-sub fs-s-m">收藏 / 历史 / 错词 / 设置重置</text>
+        </div>
+      </list-item>
+
+      <!-- ⑪ 关于 -->
+      <list-item type="menu" class="li" style="height: 74px;" @click="goAbout">
+        <div class="card" style="height: 66px;">
+          <div class="card-main">
+            <text class="card-title fs-t-m">关于与来源</text>
+            <text class="card-sub fs-s-m">许可证 / 版本</text>
+          </div>
+          <img class="arrow" src="/common/images/enter.png" />
+        </div>
+      </list-item>
+
+      <list-item type="tip" class="li" style="height: 40px;" if="{{tip}}">
+        <text class="tip-txt fs-e-m">{{tip}}</text>
+      </list-item>
+      <list-item type="pad" class="li" style="height: 64px;"></list-item>
+    </list>
+
+    <img static class="hd" src="/common/images/hd.png" />
+    <img static class="back" src="/common/images/back.png" @click="goBack" />
+    <text class="time">{{NowTime}}</text>
+    <text class="ptitle">设置</text>
+  </div>
+</template>
+<style>
+@import '../../common/css/base.css';
+
+/* 开关：扁平类名，避免后代选择器（Vela 不支持） */
+.sw {
+  width: 46px;
+  height: 26px;
+  border-radius: 13px;
+  flex-direction: row;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sw-on { background-color: #0D6EFF; }
+.sw-off { background-color: #333333; }
+.knob-on {
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  margin-left: 23px;
+}
+.knob-off {
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  margin-left: 3px;
+}
+.act-card { background-color: #1c1c1c; }
+.warn-card { background-color: #2a1414; }
+.tip-txt { width: 168px; text-align: center; color: #0D6EFF; }
+
+/* 竖向卡片（标题 + 分段按钮） */
+.col-card {
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.seg-row {
+  flex-direction: row;
+  align-items: center;
+  margin-top: 6px;
+}
+/* 156 可用宽：3×48 + 2×6 = 156 */
+.seg {
+  width: 48px;
+  height: 26px;
+  margin-right: 6px;
+  border-radius: 13px;
+  background-color: #262626;
+  align-items: center;
+  justify-content: center;
+}
+.seg-on { background-color: #0D6EFF; }
+.seg-tx { color: #ffffff; }
+</style>
+<script>
+import router from '@system.router'
+import * as store from '../../common/js/storage.js'
+export default {
+  private: {
+    H: 490,
+    listH: 378,
+    NowTime: '',
+    settings: {
+      vibrate: true,
+      showPhonetic: true,
+      defLang: 'zh',
+      pageSize: 10,
+      learnCount: 10,
+      retryWrong: true
+    },
+    historyCount: 0,
+    favCount: 0,
+    wrongCount: 0,
+    tip: '',
+    timer: null,
+    tipTimer: null
+  },
+  onInit() {
+    const h = (global.screenHeight && global.screenHeight > 0) ? global.screenHeight : 490
+    this.H = h
+    this.listH = h - 112
+    this.tick()
+    this.timer = setInterval(() => this.tick(), 30000)
+  },
+  onShow() {
+    this.tick()
+    this.refresh()
+  },
+  onHide() { this.clearTimer() },
+  onDestroy() { this.clearTimer() },
+  clearTimer() {
+    if (this.timer) { clearInterval(this.timer); this.timer = null }
+    if (this.tipTimer) { clearTimeout(this.tipTimer); this.tipTimer = null }
+  },
+  tick() {
+    const d = new Date()
+    let h = d.getHours()
+    let m = d.getMinutes()
+    if (h < 10) h = '0' + h
+    if (m < 10) m = '0' + m
+    this.NowTime = h + ':' + m
+  },
+  refresh() {
+    const that = this
+    store.getSettings().then(function (s) {
+      that.settings = s || that.settings
+    }).catch(function () {})
+    store.getHistory().then(function (l) {
+      that.historyCount = l ? l.length : 0
+    }).catch(function () {})
+    store.getFav().then(function (l) {
+      that.favCount = l ? l.length : 0
+    }).catch(function () {})
+    store.getWrong().then(function (l) {
+      that.wrongCount = l ? l.length : 0
+    }).catch(function () {})
+  },
+  showTip(msg) {
+    const that = this
+    this.tip = msg
+    if (this.tipTimer) clearTimeout(this.tipTimer)
+    this.tipTimer = setTimeout(function () { that.tip = '' }, 2000)
+  },
+  /** 统一的「改一项设置」入口 */
+  patch(obj, msg) {
+    const that = this
+    store.saveSettings(obj).then(function (s) {
+      that.settings = s
+      if (msg) that.showTip(msg)
+    }).catch(function () {})
+  },
+  setDefLang(v) {
+    this.patch({ defLang: v }, '默认方向已更新')
+  },
+  setPageSize(v) {
+    this.patch({ pageSize: v }, '每页 ' + v + ' 条')
+  },
+  setLearnCount(v) {
+    this.patch({ learnCount: v }, '每轮 ' + v + ' 词')
+  },
+  toggleRetry() {
+    const next = !this.settings.retryWrong
+    this.patch({ retryWrong: next }, next ? '答错重练已开启' : '答错重练已关闭')
+  },
+  toggleVibrate() {
+    const next = !this.settings.vibrate
+    this.patch({ vibrate: next }, next ? '振动已开启' : '振动已关闭')
+  },
+  togglePhonetic() {
+    const next = !this.settings.showPhonetic
+    this.patch({ showPhonetic: next }, next ? '显示词性' : '隐藏词性')
+  },
+  clearWrong() {
+    const that = this
+    store.clearWrong().then(function () {
+      that.wrongCount = 0
+      that.showTip('错词本已清空')
+    }).catch(function () {})
+  },
+  clearHistory() {
+    const that = this
+    store.clearHistory().then(function () {
+      that.historyCount = 0
+      that.showTip('历史已清空')
+    }).catch(function () {})
+  },
+  clearFav() {
+    const that = this
+    store.clearFav().then(function () {
+      that.favCount = 0
+      that.showTip('收藏已清空')
+    }).catch(function () {})
+  },
+  clearAll() {
+    const that = this
+    store.clearAllData().then(function () {
+      that.historyCount = 0
+      that.favCount = 0
+      that.wrongCount = 0
+      that.refresh()
+      that.showTip('已清空全部数据')
+    }).catch(function () {})
+  },
+  goAbout() {
+    router.push({ uri: '/pages/about' })
+  },
+  goBack() { router.back() }
+}
+</script>

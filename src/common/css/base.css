@@ -1,0 +1,140 @@
+/* 小米手环9  192x490 胶囊屏 —— 安全区布局
+ * 单位 px：随 manifest designWidth=192 等比缩放（官方《适配规范》）
+ * 数值基准来自 vela-watch-design skill（212x520），按 192/212≈0.906 换算。
+ *
+ * 胶囊屏两端是圆弧，越靠上左右被裁得越多：
+ *   y=0  可见宽度 0      y=26 约 140px
+ *   y=50 约 168px        y=82 约 186px
+ *   y=442 约 168px       y=466 约 140px（底部对称收窄）
+ * 所以：顶部信息一律居中；返回键下移到 y=58；
+ *       列表尾部必须留 64px 空白，最后一项才能完整滚进安全区。
+ */
+.wb-page { width: 192px; background-color: #000000; flex-direction: column; }
+.wb-list { width: 192px; position: absolute; left: 0px; }
+.li { width: 192px; }
+
+.card {
+  width: 168px;
+  margin-left: 12px;
+  background-color: #262626;
+  border-radius: 22px;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 12px;
+  padding-right: 10px;
+}
+/* height:100% 让 justify-content:center 有确定的参照高度 */
+.card-main { flex: 1; height: 100%; flex-direction: column; justify-content: center; overflow: hidden; }
+/* width:100% 是关键：Vela 里 text 不定宽会撑出容器，压到右侧取值上 */
+.card-title { width: 100%; font-weight: bold; color: #ffffff; lines: 1; text-overflow: ellipsis; }
+.card-sub { width: 100%; color: rgba(255,255,255,0.6); lines: 1; text-overflow: ellipsis; margin-top: 2px; }
+/* skill 规范箭头 32x32(212基准) → 26px(192基准) */
+.arrow { width: 26px; height: 26px; flex-shrink: 0; }
+
+/* ===== 顶部区：全部居中，避开胶囊圆弧 ===== */
+.hd { position: absolute; left: 0px; top: 0px; width: 192px; height: 110px; }
+
+/* 时间：固定字号，不随外观档位变化（skill 要求显式 line-height） */
+.time {
+  position: absolute; top: 26px; left: 0px; width: 192px;
+  text-align: center; font-size: 17px; font-weight: bold; line-height: 24px;
+  color: rgba(255,255,255,0.78);
+}
+/* 页面标题：固定字号 */
+.ptitle {
+  position: absolute; top: 50px; left: 0px; width: 192px;
+  text-align: center; font-size: 22px; font-weight: bold; line-height: 28px;
+  color: #ffffff; lines: 1; text-overflow: ellipsis;
+}
+/* 网络/连接状态：固定字号，明显大于默认档，居中在标题下方 */
+.netstat {
+  position: absolute; top: 82px; left: 0px; width: 192px;
+  text-align: center; font-size: 16px; font-weight: bold; line-height: 22px;
+  lines: 1; text-overflow: ellipsis;
+}
+/* 返回键：下移到圆弧内侧，不再被裁 */
+.back { position: absolute; left: 14px; top: 58px; width: 30px; height: 30px; }
+
+.empty-wrap { width: 192px; flex-direction: column; align-items: center; padding-top: 18px; }
+.empty-img { width: 64px; height: 64px; }
+.empty-txt { width: 160px; text-align: center; color: rgba(255,255,255,0.5); margin-top: 10px; font-size: 16px; }
+.foot { position: absolute; left: 0px; width: 192px; text-align: center; color: rgba(255,255,255,0.45); font-size: 14px; }
+
+.field-label { color: rgba(255,255,255,0.5); }
+.field-value { font-weight: bold; color: #ffffff; lines: 1; text-overflow: ellipsis; }
+.field-ph { color: rgba(255,255,255,0.3); }
+.cnt { color: rgba(255,255,255,0.35); }
+
+/* ============================================================
+ * 字号档位区：必须排在所有布局类之后（靠书写顺序覆盖）
+ * s=小 / m=标准 / l=大 / xl=特大
+ * skill 基准（212）换算到 192：正文 24→22，主标题 23→21，副标题 20→18
+ * ============================================================ */
+
+/* 页面标题（多数页面用固定 .ptitle，此处供少数页面复用） */
+.fs-p-s { font-size: 20px; }
+.fs-p-m { font-size: 22px; }
+.fs-p-l { font-size: 25px; }
+.fs-p-xl { font-size: 28px; }
+
+/* 卡片主标题 */
+.fs-t-s { font-size: 16px; }
+.fs-t-m { font-size: 18px; }
+.fs-t-l { font-size: 20px; }
+.fs-t-xl { font-size: 23px; }
+
+/* 卡片副标题 */
+.fs-s-s { font-size: 12px; }
+.fs-s-m { font-size: 13px; }
+.fs-s-l { font-size: 15px; }
+.fs-s-xl { font-size: 17px; }
+
+/* 设置项取值 / 输入内容 */
+.fs-v-s { font-size: 16px; }
+.fs-v-m { font-size: 18px; }
+.fs-v-l { font-size: 20px; }
+.fs-v-xl { font-size: 23px; }
+
+/* 小标签 / 计数器 */
+.fs-n-s { font-size: 12px; }
+.fs-n-m { font-size: 13px; }
+.fs-n-l { font-size: 15px; }
+.fs-n-xl { font-size: 17px; }
+
+/* 空状态提示 */
+.fs-e-s { font-size: 15px; }
+.fs-e-m { font-size: 16px; }
+.fs-e-l { font-size: 18px; }
+.fs-e-xl { font-size: 20px; }
+
+/* 正文 / 摘要（阅读页与摘要页共用） */
+.fs-d-s { font-size: 17px; }
+.fs-d-m { font-size: 19px; }
+.fs-d-l { font-size: 21px; }
+.fs-d-xl { font-size: 24px; }
+
+/* ============================================================
+ * 最后：结构性类放末尾，确保优先级高于上面的档位类
+ * ============================================================ */
+
+/* 卡片右侧取值：不压缩、不与左侧标题重叠。
+ * 必须排在 .field-value / .fs-v-* 之后，才能覆盖其颜色。
+ * skill 令牌 --accent-blue: #0D6EFF */
+.card-val {
+  flex-shrink: 0;
+  margin-left: 6px;
+  color: #0D6EFF;
+  font-weight: bold;
+  text-align: right;
+  lines: 1;
+}
+
+/* 列表尾部留白项：保证最后一条能完整拉上来，不被底部圆弧裁掉 */
+.list-pad { width: 192px; height: 64px; }
+
+
+/* 状态色放最后：确保能覆盖 .card-val 的默认蓝，
+ * 使「互联/桥接状态」右侧取值按通/等/差显示绿/橙/红 */
+.net-on { color: #00C853; }
+.net-warn { color: #FF9500; }
+.net-off { color: #FF3B30; }

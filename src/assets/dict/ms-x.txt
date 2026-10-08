@@ -1,0 +1,1 @@
+[{"w":"x-ray","zh":"X 光"},{"w":"xde","p":"prep","zh":"缩写词","en":"abbreviation of tidak ada (“does not have”)"},{"w":"xenofobia","p":"n","zh":"无端畏惧和憎恨外国人","en":"xenophobia"},{"w":"xenon","zh":"氙","p":"n","en":"xenon (chemical element)"},{"w":"xilem","zh":"木质部"},{"w":"xilofon","p":"n","zh":"木琴","en":"xylophone (musical instrument)"}]

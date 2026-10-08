@@ -1,0 +1,234 @@
+<!--
+  关于页
+  范式来自 wear-browser-band9/src/pages/about（Band 9 192×490 已实机验证），
+  其注释里记录了两个必须避开的坑：
+    1) 正文不能用 .card-sub（自带 lines:1 + ellipsis，长段落会被截成一行）
+    2) 卡片宽度必须 ≤ 192：168 + margin-left 12 + padding 12/10 = 190
+  另外 list-item 高度不会自适应，必须 JS 按行数算好写进 style，否则文字被裁。
+-->
+<template>
+  <div class="wb-page" style="height: {{H}}px;" @swipe="onSwipeBack">
+    <list class="wb-list" style="top: 112px; height: {{listH}}px;">
+      <list-item type="hero" class="li" style="height: {{heroH}}px;">
+        <div class="ab-hero">
+          <img static class="ab-logo" src="/common/icon.png" />
+          <text class="ab-name">马来词典</text>
+          <text class="ab-ver">v{{Ver}}</text>
+        </div>
+      </list-item>
+
+      <!-- for 用带变量的写法：for="{{it in items}}"；写成 for="{{items}}" 只能拿 $item -->
+      <list-item type="blk" class="li" style="height: {{it.h}}px;" for="{{it in items}}">
+        <div class="ab-card" style="height: {{it.ch}}px;">
+          <text class="ab-t">{{it.t}}</text>
+          <text class="ab-b">{{it.b}}</text>
+        </div>
+      </list-item>
+
+      <list-item type="pad" class="li" style="height: 64px;"></list-item>
+    </list>
+
+    <img static class="hd" src="/common/images/hd.png" />
+    <img static class="back" src="/common/images/back.png" @click="goBack" />
+    <text class="time">{{NowTime}}</text>
+    <text class="ptitle">关于</text>
+  </div>
+</template>
+
+<style>
+@import '../../common/css/base.css';
+
+.ab-hero {
+  width: 192px;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.ab-logo { width: 52px; height: 52px; border-radius: 13px; }
+.ab-name { font-size: 19px; font-weight: bold; line-height: 26px; color: #ffffff; margin-top: 6px; }
+.ab-ver { font-size: 13px; line-height: 18px; color: rgba(255,255,255,0.45); margin-top: 1px; }
+
+/* 168 + 左 12 + 内边距 22 = 190 ≤ 192，不横向溢出 */
+.ab-card {
+  width: 168px;
+  margin-left: 12px;
+  background-color: #1c1c1c;
+  border-radius: 16px;
+  padding-left: 12px;
+  padding-right: 10px;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.ab-t {
+  width: 100%;
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 22px;
+  color: #ffffff;
+}
+
+/* 正文：刻意不写 lines / text-overflow，让它完整折行；width:100% 防止撑出容器 */
+.ab-b {
+  width: 100%;
+  font-size: 14px;
+  line-height: 20px;
+  color: rgba(255,255,255,0.68);
+  margin-top: 5px;
+}
+</style>
+
+<script>
+import router from '@system.router'
+import app from '@system.app'
+import * as dictLoader from '../../common/js/dict/loader.js'
+
+/* ---------- 排版参数 ---------- */
+const TEXT_W = 146        // 正文可用宽：192 - 12(左) - 12 - 10(内边距)
+const FONT = 14
+const LINE_H = 20
+const TITLE_H = 22
+const GAP = 5
+const BREATH = 20
+const CARD_GAP = 8
+const HERO_H = 128
+
+function charUnits(c) {
+  return (c.charCodeAt(0) < 128) ? 0.55 : 1
+}
+
+function linesOf(text) {
+  const perLine = TEXT_W / FONT
+  const paras = String(text || '').split('\n')
+  let total = 0
+  for (let i = 0; i < paras.length; i++) {
+    const p = paras[i]
+    if (!p) { total += 1; continue }
+    let u = 0
+    for (let j = 0; j < p.length; j++) u += charUnits(p.charAt(j))
+    total += Math.max(1, Math.ceil(u / perLine))
+  }
+  return Math.max(1, total)
+}
+
+export default {
+  private: {
+    H: 490,
+    listH: 378,
+    heroH: HERO_H,
+    NowTime: '',
+    Ver: '0.1.0',
+    items: [],
+    stats: '正在读取…',
+    timer: null
+  },
+
+  onInit() {
+    const w = (global.screenWidth && global.screenWidth > 0) ? global.screenWidth : 192
+    const h = (global.screenHeight && global.screenHeight > 0) ? global.screenHeight : 490
+    this.H = h
+    this.listH = h - 112
+    try {
+      const info = app.getInfo()
+      if (info && info.versionName) this.Ver = info.versionName
+    } catch (e) {
+      console.log('[about] getInfo fail')
+    }
+    this.build()
+    this.tick()
+    this.timer = setInterval(() => this.tick(), 30000)
+    this.loadStats()
+  },
+
+  onShow() { this.tick() },
+  onHide() { this.clearTimer() },
+  onDestroy() { this.clearTimer() },
+
+  clearTimer() {
+    if (this.timer) { clearInterval(this.timer); this.timer = null }
+  },
+
+  tick() {
+    const d = new Date()
+    let h = d.getHours()
+    let m = d.getMinutes()
+    if (h < 10) h = '0' + h
+    if (m < 10) m = '0' + m
+    this.NowTime = h + ':' + m
+  },
+
+  loadStats() {
+    const that = this
+    dictLoader.loadIndex().then(function (idx) {
+      const n = (idx && idx.total) ? idx.total : 0
+      that.stats = '收录 ' + n + ' 条词条'
+      that.rebuild()
+    }).catch(function () {
+      that.stats = '词库统计读取失败'
+      that.rebuild()
+    })
+  },
+
+  build() {
+    const src = [
+      {
+        t: '这是什么',
+        b: '小米手环 9 上的马来语 ↔ 中文双向离线词典。'
+          + '支持马来语精确 / 前缀 / 模糊查询，'
+          + '也可以输拼音反查中文对应的马来语词条。'
+      },
+      {
+        t: '词库规模',
+        b: this.stats + '。中文反查索引随词库一并生成，离线可用，不需要联网。'
+      },
+      {
+        t: '怎么用',
+        b: '1. 首页点搜索框，弹出键盘\n'
+          + '2. 输马来语字母，结果实时出现\n'
+          + '3. 点左上按钮可切「中→马」，输拼音出候选字\n'
+          + '4. 点结果进详情，看例句与同反义词'
+      },
+      {
+        t: '数据来源',
+        b: '词库释义参考 Wiktionary / Kaikki.org（CC BY-SA 4.0）\n'
+          + '例句参考 Tatoeba（CC BY 2.0 FR）\n'
+          + '汉字拼音数据来自 pinyin-pro（MIT）'
+      },
+      {
+        t: '键盘组件',
+        b: '改编自 NEORUAA/Vela_input_method（MIT）。'
+          + '移除了中文拼音与日文罗马字，'
+          + '保留 QWERTY 全键盘与胶囊屏布局。'
+      },
+      {
+        t: '许可证',
+        b: '代码以 MIT 发布；\n'
+          + '词库数据以 CC BY-SA 4.0 发布，衍生数据同许可。'
+      },
+      {
+        t: '说明',
+        b: '中文释义为二次构建，部分条目为机器辅助整理，仅供参考。'
+          + '若发现释义有误，欢迎反馈。'
+      }
+    ]
+    this.raw = src
+    this.rebuild()
+  },
+
+  rebuild() {
+    const src = this.raw || []
+    const out = []
+    for (let i = 0; i < src.length; i++) {
+      const b = (src[i].t === '词库规模') ? this.stats + '。中文反查索引随词库一并生成，离线可用，不需要联网。' : src[i].b
+      const n = linesOf(b)
+      const ch = TITLE_H + GAP + n * LINE_H + BREATH
+      out.push({ t: src[i].t, b: b, ch: ch, h: ch + CARD_GAP })
+    }
+    this.items = out
+  },
+
+  goBack() { router.back() },
+  onSwipeBack(e) { if (e && e.direction === 'right') router.back() }
+}
+</script>

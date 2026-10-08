@@ -1,0 +1,518 @@
+<!--
+  Latihan（复习测验）—— 从收藏/错词本抽词做选择题
+    ★ 单题模式：一屏只放 1 题
+       同一时刻内存里只有 1 个分片 + 1 道题（手环内存硬约束）
+    ★ 干扰项从「正确答案所在分片」里取 → 零额外 IO、零额外内存
+    ★ 开始页可选模式：马→中 / 中→马 / 只练错题
+    ★ 答错显示正确答案（不只标红）
+
+  修复记录：
+    - 「下一题」曾直接调 next()，导致永远停在第 1 题 → 改为 advance()
+    - 曾写死 mode='ms2zh'（没做英语/中文题干）→ 改为开始页选模式
+-->
+<template>
+  <div class="wb-page" style="height: {{H}}px;">
+    <!-- 进度 -->
+    <div class="progbar" style="top: 106px;" if="{{stage !== 'start'}}">
+      <text class="prog-tx fs-s-m">{{idx}} / {{total}} · 对 {{right}}</text>
+    </div>
+
+    <list class="wb-list" style="top: 134px; height: {{listH}}px;">
+
+      <!-- ============ 开始页：选模式 ============ -->
+      <list-item type="h" class="li" style="height: 30px;" if="{{stage === 'start'}}">
+        <div class="tip-box">
+          <text class="tip-tx fs-e-m">选择练习模式</text>
+        </div>
+      </list-item>
+
+      <list-item type="m" class="li" style="height: 62px;" if="{{stage === 'start'}}">
+        <div class="mcard {{pickMode === 'ms2zh' ? 'mcard-on' : ''}}" style="height: 54px;"
+             @click="setPickMode('ms2zh')">
+          <text class="mcard-t fs-t-m">马来语 → 中文</text>
+          <text class="mcard-s fs-s-m">看马来语选中文</text>
+        </div>
+      </list-item>
+
+      <list-item type="m" class="li" style="height: 62px;" if="{{stage === 'start'}}">
+        <div class="mcard {{pickMode === 'zh2ms' ? 'mcard-on' : ''}}" style="height: 54px;"
+             @click="setPickMode('zh2ms')">
+          <text class="mcard-t fs-t-m">中文 → 马来语</text>
+          <text class="mcard-s fs-s-m">看中文选马来语</text>
+        </div>
+      </list-item>
+      <list-item type="m" class="li" style="height: 62px;" if="{{stage === 'start'}}">
+        <div class="mcard {{pickMode === 'en2ms' ? 'mcard-on' : ''}}" style="height: 54px;"
+             @click="setPickMode('en2ms')">
+          <text class="mcard-t fs-t-m">英语 → 马来语</text>
+          <text class="mcard-s fs-s-m">看英文选马来语</text>
+        </div>
+      </list-item>
+      <list-item type="m" class="li" style="height: 62px;" if="{{stage === 'start'}}">
+        <div class="mcard {{pickMode === 'wrong' ? 'mcard-on' : ''}}" style="height: 54px;"
+             @click="setPickMode('wrong')">
+          <text class="mcard-t fs-t-m">只练错题</text>
+          <text class="mcard-s fs-s-m">错词本 {{wrongCount}} 条</text>
+        </div>
+      </list-item>
+      <list-item type="go" class="li" style="height: 62px;" if="{{stage === 'start'}}">
+        <div class="next-btn" style="height: 54px;" @click="startQuiz">
+          <text class="next-tx fs-t-m">开始练习</text>
+        </div>
+      </list-item>
+
+      <!-- ============ 答题中 ============ -->
+      <!-- 加载中 -->
+      <list-item type="loading" class="li" style="height: 90px;" if="{{loading}}">
+        <div class="tip-box">
+          <text class="tip-tx fs-e-m">加载中…</text>
+        </div>
+      </list-item>
+
+      <!-- 题干 -->
+      <list-item type="stem" class="li" style="height: {{stemH}}px;" if="{{stage === 'run' && !loading}}">
+        <div class="q-stem" style="height: {{stemInnerH}}px;">
+          <text class="q-hint fs-s-m">{{stemLabel}}</text>
+          <text class="q-word">{{q.stem}}</text>
+        </div>
+      </list-item>
+
+      <!-- 三个选项（★ 高度控制显隐，不混用 for+if） -->
+      <list-item type="opt" class="li" style="height: {{optH}}px;" for="{{it in opts}}"
+                 @click="pick(it)">
+        <div class="opt {{optCls(it)}}" style="height: 56px;">
+          <text class="opt-tx fs-t-m">{{it}}</text>
+        </div>
+      </list-item>
+
+      <!-- ★ 答错时显示正确答案 -->
+      <list-item type="ans" class="li" style="height: {{ansH}}px;">
+        <div class="ans {{picked && picked !== q.answer ? 'ans-bad' : 'ans-ok'}}"
+             style="height: {{ansInnerH}}px;">
+          <text class="ans-l fs-s-m">{{picked && picked !== q.answer ? '正确答案' : '✓ 答对了'}}</text>
+          <text class="ans-t fs-t-m">{{q.answer}}</text>
+        </div>
+      </list-item>
+
+      <!-- 下一题 -->
+      <list-item type="next" class="li" style="height: 60px;" if="{{picked && stage === 'run'}}">
+        <div class="next-btn" style="height: 52px;" @click="advance">
+          <text class="next-tx fs-t-m">{{idx >= total ? '看结果' : '下一题'}}</text>
+        </div>
+      </list-item>
+
+      <!-- ============ 结束页 ============ -->
+      <list-item type="sum" class="li" style="height: 120px;" if="{{stage === 'done'}}">
+        <div class="sum-box">
+          <text class="sum-t fs-t-l">本轮完成</text>
+          <text class="sum-s fs-e-m">正确 {{right}} / {{total}}</text>
+        </div>
+      </list-item>
+
+      <list-item type="act" class="li" style="height: 62px;" if="{{stage === 'done'}}">
+        <div class="next-btn" style="height: 54px;" @click="backToStart">
+          <text class="next-tx fs-t-m">返回</text>
+        </div>
+      </list-item>
+
+      <!-- 无数据提示 -->
+      <list-item type="empty" class="li" style="height: 140px;" if="{{stage === 'run' && !loading && total === 0}}">
+        <div class="tip-box">
+          <text class="tip-tx fs-e-m">还没有可复习的词</text>
+          <text class="tip-s fs-s-m">先在词条详情点 ☆ 收藏几个词</text>
+        </div>
+      </list-item>
+
+      <list-item type="pad" class="li" style="height: 64px;"></list-item>
+    </list>
+
+    <img static class="hd" src="/common/images/hd.png" />
+    <img static class="back" src="/common/images/back.png" @click="goBack" />
+    <text class="time">{{NowTime}}</text>
+    <text class="ptitle">Latihan</text>
+  </div>
+</template>
+
+<style>
+@import '../../common/css/base.css';
+
+.progbar {
+  position: absolute;
+  left: 12px;
+  width: 168px;
+  height: 24px;
+  align-items: center;
+  justify-content: center;
+}
+.prog-tx { color: rgba(255, 255, 255, 0.55); }
+
+/* 开始页模式卡：168 + 12 = 180 ≤ 192 */
+.mcard {
+  width: 168px;
+  margin-left: 12px;
+  border-radius: 16px;
+  background-color: #1c1c1c;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.mcard-on { background-color: #0D6EFF; }
+.mcard-t { color: #ffffff; font-weight: bold; }
+.mcard-s { color: rgba(255, 255, 255, 0.6); margin-top: 2px; }
+
+/* 题干卡：156 + 12×2 + 12 = 192 */
+.q-stem {
+  width: 156px;
+  margin-left: 12px;
+  background-color: #1c1c1c;
+  border-radius: 20px;
+  padding-left: 12px;
+  padding-right: 12px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.q-hint { color: rgba(255, 255, 255, 0.4); }
+.q-word {
+  width: 100%;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 30px;
+  color: #ffffff;
+  margin-top: 6px;
+}
+
+.opt {
+  width: 168px;
+  margin-left: 12px;
+  border-radius: 16px;
+  background-color: #262626;
+  align-items: center;
+  justify-content: center;
+}
+.opt-ok { background-color: #00A050; }
+.opt-no { background-color: #B3261E; }
+.opt-tx { color: #ffffff; font-weight: bold; }
+
+/* 答案卡 */
+.ans {
+  width: 168px;
+  margin-left: 12px;
+  border-radius: 16px;
+  background-color: #132b1c;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.ans-bad { background-color: #3a1414; }
+.ans-l { color: rgba(255, 255, 255, 0.45); }
+.ans-t { color: #ffffff; font-weight: bold; margin-top: 2px; }
+
+.next-btn {
+  width: 168px;
+  margin-left: 12px;
+  border-radius: 16px;
+  background-color: #0D6EFF;
+  align-items: center;
+  justify-content: center;
+}
+.next-tx { color: #ffffff; font-weight: bold; }
+
+.sum-box {
+  width: 168px;
+  margin-left: 12px;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.sum-t { color: #ffffff; font-weight: bold; }
+.sum-s { color: #0D6EFF; margin-top: 6px; }
+
+.tip-box {
+  width: 168px;
+  margin-left: 12px;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.tip-tx { color: rgba(255, 255, 255, 0.5); }
+.tip-s { color: rgba(255, 255, 255, 0.3); margin-top: 6px; }
+</style>
+
+<script>
+import router from '@system.router'
+import * as store from '../../common/js/storage.js'
+import * as search from '../../common/js/dict/search.js'
+
+const BATCH = 10
+const STEM_H = 130
+
+export default {
+  private: {
+    H: 490,
+    listH: 356,
+    NowTime: '',
+    stage: 'start',        // start | run | done
+    pickMode: 'ms2zh',     // ms2zh | zh2ms | wrong
+    stemLabel: '选出中文意思',
+    wrongCount: 0,
+    loading: false,
+    idx: 0,
+    total: 0,
+    right: 0,
+    picked: '',
+    q: { stem: '', opts: [], answer: '', entry: null },
+    opts: [],
+    optH: 0,
+    ansH: 0,
+    ansInnerH: 0,
+    queue: [],
+    cur: 0,
+    stemH: STEM_H,
+    stemInnerH: STEM_H - 8,
+    retryWrong: true,     // ★ 答错自动重练（来自设置）
+    token: 0,
+    timer: null
+  },
+  onInit() {
+    const h = (global.screenHeight && global.screenHeight > 0) ? global.screenHeight : 490
+    this.H = h
+    this.listH = h - 134
+    this.tick()
+    this.timer = setInterval(() => this.tick(), 30000)
+    this.refreshWrongCount()
+    this.loadSettings()
+  },
+  /** ★ 读取设置（答错重练开关） */
+  loadSettings() {
+    const that = this
+    store.getSettings().then(function (s) {
+      if (s) that.retryWrong = (s.retryWrong !== false)
+    }).catch(function () {})
+  },
+  onShow() {
+    this.tick()
+    this.loadSettings()
+  },
+  onHide() {
+    this.clearTimer()
+    try { search.releaseShards() } catch (e) {}
+  },
+  onDestroy() {
+    this.clearTimer()
+    try { search.releaseShards() } catch (e) {}
+  },
+
+  clearTimer() {
+    if (this.timer) { clearInterval(this.timer); this.timer = null }
+  },
+
+  tick() {
+    const d = new Date()
+    let h = d.getHours()
+    let m = d.getMinutes()
+    if (h < 10) h = '0' + h
+    if (m < 10) m = '0' + m
+    this.NowTime = h + ':' + m
+  },
+
+  refreshWrongCount() {
+    const that = this
+    store.getWrong().then(function (l) {
+      that.wrongCount = l ? l.length : 0
+    }).catch(function () {})
+  },
+
+  /* ------------------------- 开始页 ------------------------- */
+
+  setPickMode(m) {
+    this.pickMode = m
+    this.stemLabel = (m === 'zh2ms') ? '选出马来语'
+      : (m === 'en2ms') ? '看英文，选出马来语'
+      : '选出中文意思'
+  },
+
+  /** 点「开始练习」→ 取词 */
+  startQuiz() {
+    const that = this
+    this.stage = 'run'
+    this.loading = true
+    this.right = 0
+    this.idx = 0
+    this.cur = 0
+    this.picked = ''
+    this.q = { stem: '', opts: [], answer: '', entry: null }
+    this.opts = []
+    this.optH = 0
+    this.ansH = 0
+
+    // 只练错题 → 只用错词本；否则错词优先 + 收藏补充
+    const jobs = [store.getWrong().catch(function () { return [] })]
+    if (this.pickMode !== 'wrong') {
+      jobs.push(store.getFav().catch(function () { return [] }))
+    }
+
+    Promise.all(jobs).then(function (res) {
+      const wrong = res[0] || []
+      const fav = (res[1] || [])
+
+      const pool = []
+      if (that.pickMode === 'wrong') {
+        for (let i = 0; i < wrong.length; i++) pool.push(wrong[i].w)
+      } else {
+        // 错词加权（错得多更常出现）
+        for (let i = 0; i < wrong.length; i++) {
+          const t = Math.min(3, wrong[i].n || 1)
+          for (let k = 0; k < t; k++) pool.push(wrong[i].w)
+        }
+        for (let i = 0; i < fav.length; i++) pool.push(fav[i].w)
+      }
+
+      const seen = {}
+      const uniq = []
+      for (let i = 0; i < pool.length; i++) {
+        const w = pool[i]
+        if (!w || seen[w]) continue
+        seen[w] = 1
+        uniq.push(w)
+      }
+      // 洗牌
+      for (let i = uniq.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1))
+        const t = uniq[i]; uniq[i] = uniq[j]; uniq[j] = t
+      }
+
+      that.queue = uniq.slice(0, BATCH)
+      that.total = that.queue.length
+      that.loading = false
+      if (that.total > 0) {
+        that.loadQuestion()
+        return
+      }
+      // ★ 收藏/错词本都空 → 从词库随机抽词（否则「开始练习」会一直空着）
+      return search.randomWords(BATCH).then(function (list) {
+        const arr = list || []
+        that.queue = []
+        for (let i = 0; i < arr.length; i++) that.queue.push(arr[i].w)
+        that.total = that.queue.length
+        if (that.total > 0) that.loadQuestion()
+        else that.stage = 'start'
+      })
+    }).catch(function (e) {
+      console.log('[quiz] start fail: ' + e)
+      that.loading = false
+      that.total = 0
+      that.stage = 'start'
+    })
+  },
+
+  /* ------------------------- 出题 ------------------------- */
+
+  /** 加载当前题（同一时刻只驻留 1 个分片） */
+  loadQuestion() {
+    if (this.cur >= this.total) {
+      this.finish()
+      return
+    }
+    const word = this.queue[this.cur]
+    const that = this
+    this.loading = true
+    this.picked = ''
+    this.idx = this.cur + 1
+    this.opts = []
+    this.optH = 0
+    this.ansH = 0
+
+    // wrong 模式默认用马→中题干
+    const mode = (this.pickMode === 'wrong') ? 'ms2zh' : this.pickMode
+
+    this.token = this.token + 1
+    const tk = this.token
+
+    search.makeQuestion(word, mode).then(function (q) {
+      if (tk !== that.token) return
+      that.loading = false
+      if (!q) {
+        that.cur = that.cur + 1
+        that.loadQuestion()
+        return
+      }
+      that.q = q
+      that.opts = q.opts
+      that.optH = 64
+    }).catch(function (e) {
+      console.log('[quiz] loadQuestion fail: ' + e)
+      if (tk !== that.token) return
+      that.loading = false
+      that.cur = that.cur + 1
+      that.loadQuestion()
+    })
+  },
+
+  /** 选项样式：已答才染色，否则保持默认 */
+  optCls(it) {
+    if (!this.picked) return ''
+    if (it === this.q.answer) return 'opt-ok'
+    if (it === this.picked) return 'opt-no'
+    return ''
+  },
+
+  /** 作答 */
+  pick(opt) {
+    if (this.picked) return
+    this.picked = opt
+    this.ansH = 74
+    this.ansInnerH = 66
+    const ok = (opt === this.q.answer)
+    if (ok) {
+      this.right = this.right + 1
+      if (this.q.entry) {
+        try { store.removeWrong(this.q.entry.w) } catch (e) {}
+        this.refreshWrongCount()
+      }
+    } else {
+      if (this.q.entry) {
+        try { store.addWrong({ w: this.q.entry.w, zh: this.q.entry.zh }) } catch (e) {}
+        this.refreshWrongCount()
+        // ★ 答错自动重练：把这道题放回队尾，本轮内再考一次
+        if (this.retryWrong && this.queue.indexOf(this.q.entry.w) === -1) {
+          this.queue.push(this.q.entry.w)
+          this.total = this.queue.length
+        }
+      }
+    }
+  },
+
+  /** ★ 推进到下一题（原来 bug：直接调 loadQuestion 不推进 cur） */
+  advance() {
+    this.cur = this.cur + 1
+    if (this.cur >= this.total) {
+      this.finish()
+      return
+    }
+    this.loadQuestion()
+  },
+
+  finish() {
+    this.stage = 'done'
+    this.opts = []
+    this.optH = 0
+    this.ansH = 0
+    this.loading = false
+  },
+
+  backToStart() {
+    this.stage = 'start'
+    this.opts = []
+    this.optH = 0
+    this.ansH = 0
+    this.q = { stem: '', opts: [], answer: '', entry: null }
+    this.refreshWrongCount()
+  },
+
+  goBack() { router.back() }
+}
+</script>
