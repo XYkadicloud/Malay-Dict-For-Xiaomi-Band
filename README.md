@@ -4,6 +4,28 @@
 
 当前版本：**v0.11** · RPK **1.43 MB** · 词条 **19,102** 条（99.6% 有中文释义）
 
+> 📦 **下载**：[Releases](https://github.com/XYkadicloud/Malay-Dict-For-Xiaomi-Band/releases) · 
+> 🔧 **源码**：本仓库 · 
+> 📄 **许可**：代码 MIT / 词库 CC BY-SA 4.0（见 [NOTICE](NOTICE)）
+
+---
+
+## 快速开始
+
+```bash
+# 1. 安装依赖
+npm install
+
+# 2. 构建 RPK（需要 aiot-toolkit 2.0.4）
+npx aiot-toolkit@2.0.4 build
+# 产物：dist/com.operit.malaydict.debug.0.1.0.rpk
+
+# 3. 离线验证词库
+node tools/verify-dict.js
+```
+
+**安装到手表**：用 AstroBox 侧载 `dist/*.rpk`。
+
 ---
 
 ## 一、当前状态
