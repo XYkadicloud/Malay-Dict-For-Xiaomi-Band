@@ -114,7 +114,7 @@ rambutan	rambutan	n	红毛丹	rambutan (fruit)
 rambuti	rambuti		毛织物，绒布
 rambutkeriting	rambut keriting		鬈发
 rambutpalsu	rambut palsu	n	假发	wig; hairpiece
-ramd	ramd		词首字母缩略词
+ramd	ramd		词首字母缩略词	initialism of Rejimen Askar Melayu Diraja (“Royal Malay Regiment”)
 ramen	ramen	n	日本人	Japanese soup noodles.
 rami	rami	n	芋麻	ramie  Boehmeria nivea
 rampai	rampai		混杂的，杂色的

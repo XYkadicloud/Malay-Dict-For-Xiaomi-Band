@@ -35,7 +35,7 @@ puki	puki	n	女性生殖器，阴户	vulva (collectively the external female sex
 pukimak	pukimak		其他形式 。 傻屄，混蛋 近义词	motherfucker
 pukul	pukul	v	打，敲，击，锤，时，时刻	to hit  to strike  to beat
 pukullima	pukul lima		五点种
-pukulrata	pukul rata	n	两者择一
+pukulrata	pukul rata	n	两者择一	alternative form of purata
 pula	pula	adv	又，再，赤	then; next; in turn (indicating a sequence or a shift to a new subject).
 pulai	pulai		一种树之名
 pulak	pulak	adv	paragoge的变形	Paragogic form of pula.
@@ -51,7 +51,7 @@ pulauman	pulau man		小岛	The Isle of Man.
 pulaupinang	pulau pinang		槟榔屿	Penang (a state of Malaysia  in west of the Malay Peninsula)
 pulih	pulih		复原，恢复，痊愈，复兴
 pulik	pulik		同等，同等程度
-puloh	puloh	num	其他形式 ， ， 。 数词
+puloh	puloh	num	其他形式 ， ， 。 数词	obsolete spelling of puluh
 puluh	puluh	num	十	ten
 puluhribu	puluh ribu	num	一万	ten thousand
 pulun	pulun	v	做	To do one's best.
@@ -84,7 +84,7 @@ pungki	pungki		畚箕，竹篓
 pungkur	pungkur	n	背后，背面，后部，臀	backside; buttocks
 pungut	pungut	v	掘地	to pick up or collect
 pungutansuara	pungutan suara	n	选举	An election.
-punpun	punpun	v	荒废的
+punpun	punpun	v	荒废的	obsolete form of pumpun
 puntal	puntal		缠绕，圈绑，圈绞
 punti	punti	n	香蕉	a hybrid banana (Musa × paradisiaca)
 puntuk	puntuk	n	小的	small hill
@@ -122,7 +122,7 @@ pusat	pusat	n	脐	navel
 pusing	pusing	v	旋转，转动	to turn  to spin
 pusingan	pusingan		自转
 pusingkepala	pusing kepala		头晕，头昏眼花
-puspa	puspa	n	花
+puspa	puspa	n	花	Synonym of bunga (“flower”)
 puspajuita	puspajuita		生命之花 青春
 pusparagam	pusparagam		多姿多彩的，多样的，歌曲选
 puspawarna	puspawarna		多彩的，五光十色的
@@ -134,7 +134,7 @@ putar	putar	v	旋转，转动	to turn (move around an axis through itself)
 putaran	putaran		旋转，周转，轮盘
 putarbalik	putar balik		歪曲，颠倒是非，反覆，不守信用
 putat	putat	n	属类的	generic for Barringtonia spp.
-putd	putd		词首字母缩略词
+putd	putd		词首字母缩略词	initialism of Pasukan Udara Tentera Darat (“Malaysian Army Aviation”)
 puteh	puteh	adj	有日期的	dated spelling of putih
 putera	putera	n	王子，太子	prince
 puteri	puteri	n	公主	princess				putera
@@ -151,7 +151,7 @@ putik	putik		幼果，子房
 puting	puting	n	尖头，尖端，柄，杷	nipple; teat
 putingbeliung	puting beliung	n	旋风	tornado
 putingsusu	puting susu		乳头
-putra	putra	n	儿子
+putra	putra	n	儿子	alternative form of putera
 putrajaya	putrajaya		布城	Putrajaya (a federal territory in western Malaysia)			prang besar
 putri	putri	n	女儿
 putu	putu	n	绿豆	A type of kuih made from mung bean crushed with sugar.

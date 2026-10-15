@@ -1,0 +1,53 @@
+arab	arab|adj
+arabness	kearaban|n
+arachnid	araknid|n
+arau the royal capital of perlis	arau
+arc	lengkung|n
+arcade	arked|n
+arch	pelengkung|n
+archaic - a woolly ruminant of the genus ovis	domba|n
+archaic form of niaga	berniaga|n
+archaic form of yunani	yunan|n
+archbishop	uskup agung|n
+archenemy	musuh ketat|n
+archer	pemanah|n
+archipelago	kepulauan|n
+architect	arkitek|n
+architecture	seni bina|n
+archive	arkib|n
+archiving	pengarkiban|n
+arctic fox	rubah artik|n
+arduous not easy to do	susah|adj
+area	lahan|n
+area or region	wilayah|n
+area that is flat place	dataran|n
+area under control of a certain country	daerah|n
+areca catechu	pinang|n
+areca palm the tree itself	pinang|n
+arena	gelanggang|n
+argon	argon|n
+argument	perang mulut|n
+aristocrat	bangsawan|n
+aristotle	aristotle
+arm	lengan|n
+armadillo	armadillo|n
+armistice	gencatan senjata|n
+armpit	kelek|n,ketiak|n
+army	bala|n,tentera|n
+arrangement	persediaan|n,penyelesaian|n
+arrested	ditangkap|v
+arrival	ketibaan|n,kedatangan|n
+arrogant	hidung tinggi|adj
+arrow	panah|n,anak panah|n
+arse	pantat|n
+arsenic	arsenik|n
+art	seni|n
+art with deep or hidden meaning that's difficult to understand or appreciate	art berat|n
+arthropod	artropod|n
+article story	artikel|n,makalah|n,rencana|n
+articulated by the lips	labial|adj
+artifical nipple or teat	dot|n
+artificial intelligence	kecerdasan buatan|n
+artisan	karyawan|n
+artist	seniman|n
+artistic	karya|n

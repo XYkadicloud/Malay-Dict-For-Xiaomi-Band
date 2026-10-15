@@ -35,7 +35,7 @@ duduknya	duduknya		地点，位置
 duga	duga	v	探深，猜测，猜想，估量	to guess
 dugaan	dugaan		猜想，猜测
 dugal	dugal		作呕，反胃
-dugong	dugong	n	两者择一
+dugong	dugong	n	两者择一	alternative form of duyung
 duit	duit	n	钱，一分钱	money
 duitkecil	duit kecil		散钱，零钱
 duitkopi	duit kopi	n	咖啡	coffee money; bribe
@@ -53,7 +53,7 @@ duli	duli	n	尘埃，灰尘	ash (solid remains of a fire)
 dulibaginda	duli baginda		陛下，殿下
 duliyangmahamulia	duli yang maha mulia		陛下	His Majesty  His Highness (title used when addressing a Malay monarch).
 dulu	dulu	adv	从前，过去	before  earlier  previously
-dun	dun	n	词首字母缩略词
+dun	dun	n	词首字母缩略词	initialism of dewan undangan negeri (“state legislative assembly”); a state legislative assembly seat
 dungu	dungu	adj	愚蠢的	stupid (lacking in intelligence)
 dunia	dunia	n	世界	world (human existence)
 duodesilion	duodesilion	num	10的39次方	duodecillion
@@ -65,7 +65,7 @@ duri	duri	n	刺	thorn
 durian	durian	n	榴莲	durian (fruit)
 durianbelanda	durian belanda	n	刺果番荔枝	soursop:
 durianpunggai	durian punggai		野生榴莲
-duriat	duriat	n	两者择一
+duriat	duriat	n	两者择一	alternative form of zuriat
 durjana	durjana	n	邪恶的，缺德的	evildoer
 dusta	dusta		说谎，欺骗
 dusun	dusun		乡村，果园

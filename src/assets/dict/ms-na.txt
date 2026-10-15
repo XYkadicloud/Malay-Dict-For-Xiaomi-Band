@@ -69,7 +69,7 @@ nana	nana	n	兄弟	brother (older male sibling)
 nanah	nanah	n	脓	pus (fluid found in regions of infection)
 nanas	nanas	n	菠萝	A pineapple.
 nang	nang		乃，系，…的
-nangis	nangis	v	两者择一
+nangis	nangis	v	两者择一	Alternative form of menangis (“to cry”).
 nangka	nangka	n	菠萝蜜	jackfruit  the fruit of the tropical tree Artocarpus heterophyllus
 nangkabelanda	nangka belanda		红毛榴莲
 nangoi	nangoi		野猪	the bearded pig (Sus barbatus)  native to Sumatra  Borneo…
@@ -104,7 +104,7 @@ nasionalisasikan	nasionalisasikan	v	使归化	to nationalize (bring into public 
 nasionalisme	nasionalisme	n	民族主义	nationalism
 nasionalistik	nasionalistik	adj	国家主义的	nationalistic
 naskhah	naskhah	n	手稿	manuscript (a hand written book or document)
-naslem	naslem	n	两者择一
+naslem	naslem	n	两者择一	alternative form of nasi lemak
 nasrani	nasrani		基督教徒	Christianity
 nasut	nasut		人类，人间
 nata	nata		皇，君主

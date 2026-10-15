@@ -6,13 +6,13 @@ memadamkan	memadamkan		熄灭
 memadan	memadan		比较，对比
 memagari	memagari	v	装篱笆	to fence in; to enclose with a fence.
 memagut	memagut		啄
-memahami	memahami	v	了解，领会
+memahami	memahami	v	了解，领会	active of fahami
 memahat	memahat		雕
 memainkan	memainkan		玩
 memajak	memajak		包租，典当
 memakai	memakai		穿，用
 memakal	memakal		嵌塞或填塞船缝
-memakan	memakan	v	活跃的
+memakan	memakan	v	活跃的	active of makan
 memaki	memaki		责骂
 memaklumkan	memaklumkan		通知
 memaksa	memaksa		强迫
@@ -29,25 +29,25 @@ memamah	memamah		咀嚼
 memamar	memamar		粉碎，压碎
 memamerkan	memamerkan		夸示
 memampangkan	memampangkan		展示，张开
-memampankan	memampankan	v	活跃的
+memampankan	memampankan	v	活跃的	Active of mampankan.
 memanah	memanah		射杀
 memanaskan	memanaskan		弄烧
-memancing	memancing	v	钓鱼
+memancing	memancing	v	钓鱼	Active of pancing; to do something with a deliberate purpose or strategy to entice  attra
 memancit	memancit		慢慢流出，缓缓流出，漏风
 memancung	memancung		切断
 memancur	memancur		喷出
 memancut	memancut		迸出
-memandang	memandang	v	看，望
+memandang	memandang	v	看，望	active of pandang (“to look  to gaze  to view  to regard”).
 memandu	memandu	v	领带，响导，驾驶	Formal active of pandu.
 memang	memang	adv	拉起，不断拉扯，自然的，当然的	indeed; in fact; really
 memanggang	memanggang		烤
-memanggil	memanggil	v	叫 称呼
+memanggil	memanggil	v	叫 称呼	active of panggil
 memangku	memangku		使坐在膝上，执掌，处理
 memangkung	memangkung		棒击，棍打
 memangus	memangus		呼吸，吐气，喷气
 memanjakan	memanjakan		宠爱
 memanjat	memanjat	n	登，登山，爬树	climbing
-memantau	memantau	v	拜访，访问，探望
+memantau	memantau	v	拜访，访问，探望	active of pantau
 memantul	memantul		回弹
 memaparkan	memaparkan		弄平，展开，呈现，解释
 memapas	memapas		拆掉，脱
@@ -55,11 +55,11 @@ memar	memar		软烂的，跌烂的，跌伤的
 memarahi	memarahi		骂
 memarak	memarak		闪光
 memarap	memarap		拍，击，拳击
-memarkir	memarkir	v	活跃的
+memarkir	memarkir	v	活跃的	Active of parkir (“to park”).
 memarut	memarut		刨
-memasak	memasak	v	做饭
+memasak	memasak	v	做饭	active of masak (“to cook (food by heating)”); active of masak (“to prepare or process something as cooking”)
 memasam	memasam	v	变成	to become sour
-memasamkan	memasamkan	v	活跃的
+memasamkan	memasamkan	v	活跃的	active of masamkan (“to make sour”)
 memasang	memasang		点灯，装备，装置，升旗
 memasarkan	memasarkan	v	市场	To market  to sell.
 memasuki	memasuki	v	进入…	to enter (into a place)
@@ -67,7 +67,7 @@ memasukkan	memasukkan	v	放入	to put in (something):
 mematuhi	mematuhi	v	服从	to obey
 mematuk	mematuk		啄
 memauk	memauk		钩住，钩拉
-memaut	memaut	v	活跃的
+memaut	memaut	v	活跃的	Active of paut.
 membabarkan	membabarkan		展开，张开
 membabaskan	membabaskan		拖，拉
 membabat	membabat		砍伐
@@ -79,9 +79,9 @@ membadutbadutkan	membadut-badutkan	v	好笑的	to make (something) funny
 membaguskan	membaguskan	v	善行	to make (something) good
 membahagi	membahagi		分配
 membaham	membaham		咀嚼
-membaharui	membaharui	v	更新，更换
-membahas	membahas	v	活跃的
-membahaskan	membahaskan	v	讨论
+membaharui	membaharui	v	更新，更换	Active of baharui.
+membahas	membahas	v	活跃的	Active of bahas (“to debate; to examine”).
+membahaskan	membahaskan	v	讨论	Active of bahaskan (“to debate something; to discuss”).
 membahayakan	membahayakan		危害到
 membaiki	membaiki	v	使固定	To fix.
 membajai	membajai		施肥
@@ -96,7 +96,7 @@ membalikkan	membalikkan		退回，退还
 membaling	membaling		投掷
 membalut	membalut		包扎
 membanat	membanat		殴打，鞭打
-membanci	membanci	v	活跃的
+membanci	membanci	v	活跃的	Active of banci.
 membancuh	membancuh		混合，混杂
 membandarkan	membandarkan	v	使都市化	to urbanize
 membandingkan	membandingkan		比较
@@ -122,15 +122,15 @@ membasmi	membasmi		消灭，扑灭
 membasuh	membasuh	v	洗
 membatalkan	membatalkan		取消
 membatasi	membatasi		限制
-membaui	membaui	v	活跃的
+membaui	membaui	v	活跃的	Active of baui; to detect something.
 membawa	membawa		拿，带领
 membawakan	membawakan		带…给
-membawang	membawang	v	生气的
+membawang	membawang	v	生气的	to be angry; to gossip
 membayang	membayang	v	呈现或出现在脑海里	to appear like a shadow or blurry
-membayangbayangi	membayang-bayangi	v	活跃的
-membayangbayangkan	membayang-bayangkan	v	活跃的
-membayangi	membayangi	v	活跃的
-membayangkan	membayangkan	v	反映，概述
+membayangbayangi	membayang-bayangi	v	活跃的	Active of bayang-bayangi.
+membayangbayangkan	membayang-bayangkan	v	活跃的	Active of bayang-bayangkan.
+membayangi	membayangi	v	活跃的	Active of bayangi.
+membayangkan	membayangkan	v	反映，概述	Active of bayangkan.
 membayankan	membayankan		解释，说明
 membayar	membayar	v	付款
 membebaskan	membebaskan	v	释放，自由	to free; to set free; to set at liberty; to release; to grant freedom
@@ -140,7 +140,7 @@ membedal	membedal		鞭打
 membedil	membedil		射击，开炮
 membekali	membekali		供应
 membekas	membekas	v	许可	To leave a mark.
-membekaskan	membekaskan	v	活跃的
+membekaskan	membekaskan	v	活跃的	Active of bekaskan.
 membeku	membeku		凝固
 membekuk	membekuk		逮捕
 membela	membela		自杀，杀人报仇
@@ -166,7 +166,7 @@ membentang	membentang	v	传播	to spread; to stretch out; to unfold.
 membentangkan	membentangkan		张开
 membentuk	membentuk		组织，成立
 member	member	n	密友	A close friend.
-memberang	memberang	n	同义词
+memberang	memberang	n	同义词	synonym of berang-berang
 memberangsang	memberangsang		发怒
 memberanikan	memberanikan		鼓励，激励
 memberantas	memberantas		消灭
@@ -239,13 +239,13 @@ membusuk	membusuk	v	变成	To become smelly or smellier.
 memecahkan	memecahkan		打破，弄碎
 memecat	memecat		开除，解雇
 memecit	memecit		压，挤
-memecut	memecut	v	活跃的
+memecut	memecut	v	活跃的	Active of pecut.
 memegahkan	memegahkan		夸耀
 memegang	memegang		握
 memegas	memegas		插翅
 memejamkan	memejamkan		闭眼
 memek	memek		悲号，苦诉，急噪的，烦闷的
-memekak	memekak	v	嘈杂的
+memekak	memekak	v	嘈杂的	to be noisy
 memekakkan	memekakkan	v	使聋 变聋	to deafen (make deaf)
 memekik	memekik		喊叫
 memekis	memekis		嘲弄，嘲笑
@@ -258,13 +258,13 @@ memencil	memencil		分开，隔开，孤立，远离
 memendamkan	memendamkan		埋藏
 memendek	memendek	v	变成	To become short.
 memendekkan	memendekkan	v	正式的	Formal active of pendekkan.
-memeningkan	memeningkan	v	活跃的
+memeningkan	memeningkan	v	活跃的	Active of peningkan.
 mementingkan	mementingkan		重视，注重
 memepah	memepah		以棍击之，以竿击之
 memepat	memepat		使平齐，磨平，修剪，铲平
 memeper	memeper		脱离了航线，斜航，横行
 memeram	memeram		闷热
-memerang	memerang	n	同义词
+memerang	memerang	n	同义词	synonym of berang-berang
 memeras	memeras		榨，压榨，剥削
 memercik	memercik		飞溅，溅起
 memercit	memercit		喷出，喷射，迸出
@@ -278,18 +278,18 @@ memesan	memesan		定 ，吩咐
 memesong	memesong		转向，转移
 memeterai	memeterai	v	印	to stamp
 memetik	memetik		采摘
-memfardukan	memfardukan	v	活跃的
-memfasihkan	memfasihkan	v	活跃的
+memfardukan	memfardukan	v	活跃的	Active of fardukan.
+memfasihkan	memfasihkan	v	活跃的	Active of fasihkan.
 memfitnahkan	memfitnahkan		污蔑
-memformalkan	memformalkan	v	活跃的
-memfrancaiskan	memfrancaiskan	v	活跃的
+memformalkan	memformalkan	v	活跃的	Active of formalkan.
+memfrancaiskan	memfrancaiskan	v	活跃的	Active of francaiskan.
 memialang	memialang		订购，预定
 memidi	memidi		瞄准，对准
 memijak	memijak		踏
 memijat	memijat		按，挤出，按摩
 memikat	memikat		诱捕鸟，引诱
-memikir	memikir	v	活跃的
-memikiri	memikiri	v	活跃的
+memikir	memikir	v	活跃的	active of fikir
+memikiri	memikiri	v	活跃的	active of fikiri
 memikirkan	memikirkan	v	思考	to think about; to ponder over.
 memikul	memikul		挑，担，负担，承担
 memilih	memilih		选择；选举
@@ -301,7 +301,7 @@ meminda	meminda		修改，改良，改善
 memindahkan	memindahkan		移动，迁移，翻译，调任
 meminjam	meminjam		借
 meminjamkan	meminjamkan		借给
-meminta	meminta	v	竞标，以朋友态度对待请求 请求，要求，申请
+meminta	meminta	v	竞标，以朋友态度对待请求 请求，要求，申请	Active of pinta.
 memintal	memintal		捻，搓，纺
 memintas	memintas		走近路，穿过，打断
 memipis	memipis		磨，研
@@ -310,18 +310,18 @@ memisahkan	memisahkan		分开，分隔
 memisalkan	memisalkan	v	使相等	to equate
 memiuh	memiuh		扭转，捻，绞
 memohon	memohon		要求，请求，申请
-memonteng	memonteng	v	活跃的
-memotong	memotong	v	切 剪
+memonteng	memonteng	v	活跃的	Active of ponteng.
+memotong	memotong	v	切 剪	active of potong
 mempan	mempan		蒙受，承受，惹引，有效的
 memparang	memparang		青鱼
 mempastikan	mempastikan		肯定
 mempedulikan	mempedulikan	v	担心	to care about; to pay attention to; to mind.				mengabaikan,tidak mempedulikan
-mempelai	mempelai	n	新郎，新娘
+mempelai	mempelai	n	新郎，新娘	Synonym of pengantin (“brideangroom”)
 mempelajari	mempelajari		学习
 mempelam	mempelam	n	芒果  芒果Mangifera ind	mango
 mempelawa	mempelawa		邀请
 mempengaruhi	mempengaruhi		影响
-memperbaharu	memperbaharu	v	活跃的
+memperbaharu	memperbaharu	v	活跃的	Active of perbaharu.
 memperbaik	memperbaik	v	改良	To improve
 memperbaiki	memperbaiki		改正，纠正
 memperbesarkan	memperbesarkan		夸大
@@ -364,12 +364,12 @@ mempertahankan	mempertahankan		保卫
 mempertandingkan	mempertandingkan		比较
 mempertinggikan	mempertinggikan		升高
 mempertontonkan	mempertontonkan	v	显示	to display
-mempertuan	mempertuan	v	活跃的
+mempertuan	mempertuan	v	活跃的	active of pertuan
 mempertunjukkan	mempertunjukkan		展示
-memplagiat	memplagiat	v	活跃的
+memplagiat	memplagiat	v	活跃的	Active of plagiat (“to plagiarize”).
 mempreviu	mempreviu	v	事先查看	To preview.
-mempunyai	mempunyai	v	拥有
-mempunyakan	mempunyakan	v	活跃的
+mempunyai	mempunyai	v	拥有	Active of punyai (“to have; to own”).
+mempunyakan	mempunyakan	v	活跃的	Active of punyakan.
 memuaskan	memuaskan	adj	使满足	satisfactory; satisfying
 memuat	memuat		装载，运载
 memuatturun	memuat turun	v	正式的	Formal active of muat turun.
@@ -378,7 +378,7 @@ memudaratkan	memudaratkan	adj	有害的	harmful
 memuja	memuja		敬仰，崇拜
 memuji	memuji		称赞
 memujuk	memujuk		诱导
-memuktamadkan	memuktamadkan	v	活跃的
+memuktamadkan	memuktamadkan	v	活跃的	active of muktamadkan (“to finalize”)
 memukul	memukul		打
 memulakan	memulakan	v	开始
 memulas	memulas		扭转，扭歪，旋转 腹痛
@@ -398,7 +398,7 @@ memusnahkan	memusnahkan		破坏
 memusut	memusut		刺，钻，锥
 memutar	memutar		转动
 memutih	memutih	v	变成	To become white; to whiten.
-memutihkan	memutihkan	v	活跃的
-memutihkanmata	memutihkan mata	v	活跃的
+memutihkan	memutihkan	v	活跃的	Active of putihkan.
+memutihkanmata	memutihkan mata	v	活跃的	Active of putihkan mata.
 memutuskan	memutuskan		决定，截断
 memvideokan	memvideokan	v	影像	to video or videotape

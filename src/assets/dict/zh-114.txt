@@ -1,249 +1,157 @@
-仲	hakam,syafaat
+仲	syafaat
+仲介	ejen|n
 仲裁	syafaat,hakam
 仲裁者	hakam
-割	belah|n,menakik,menoreh,menyabit,sayung,turis,tutuh,gorok
+割	belah|n,turis,sayung,tutuh,menakik,menoreh,menyabit,tetak|v
 割下	tebas
+割伤	abtar|adj
 割刀	kelar
-割切	menyayat,sayat,siat,toreh|v
+割切	toreh|v,siat,sayat,menyayat
 割喉	sembelih
-割断	gorok,meretas
+割断	meretas,gorok
+割断宰	gorok
+割断宰杀	gorok
 割短	tetak|v
-割礼	sunat|n,katan,khantan,mengkhatankan,modin
+割礼	sunat|n,modin
 割礼师	modin
 割胶	toreh|v
 割裂	retas
-史	babad|n,bersejarah,gaban|adj,hikayat|n,kisah|v,prasejarah|n,riwayat,sejarah|n
+史	gaban|adj
 史前	prasejarah|n
 史前史	prasejarah|n
-史前的	prasejarah|n
 史古	skuter|n
 史古打	skuter|n
-史意	bersejarah
-史意义	bersejarah
-史意义的	bersejarah
-史故	hikayat|n
-史故事	hikayat|n
-史的	sejarawi|adj
 史诗	gaban|adj
-哲	ahli fikir|n,falsafah|n,filsafat|n
+哲	falsafah|n,filsafat|n
 哲学	falsafah|n,filsafat|n,ahli fikir|n
 哲学家	ahli fikir|n
-已	allahyarham,almarhum,almarhumah,diang,gemulah|n,kebat-kebit,marhum,mendiang
-已付	pascabayar|adj
-已付的	pascabayar|adj
-已出	sasul,tersasul
-已出口	sasul,tersasul
+哲理	falsafah|n
+已	tetap|adj,telah|adv,sudah|adv,diang,mendiang,suah,marhum,almarhum
 已发	terlepas|v
 已发布	terlepas|v
 已婚	orang rumah|n
 已婚妇	orang rumah|n
 已婚妇女	orang rumah|n
 已定	tetap|adj
-已故	allahyarham,almarhum,almarhumah,diang,marhum,mendiang,peninggal,gemulah|n
-已故的	gemulah|n
+已故	diang,mendiang,marhum,almarhum,peninggal,almarhumah,allahyarham
+已故的死者	gemulah|n
 已死	telah mati
+已然	telah|adv
 已知	sedia maklum
 已知的	sedia maklum
-已经	suah,sudah|adv,telah|adv
-干	kering|adj,alahan,bangkut,basah lembab,batang tubuh,bateri|n,batuk kering|n,bekal|n
-干下	gubang
-干下的	gubang
-干下的切	gubang
-干下的切口	gubang
-干了	ikan kering|n
-干了的	ikan kering|n
-干冬	cupak|n
-干净	bersih|adj,membersihkan|v,najis|n
-干净的	najis|n
+已经	telah|adv,sudah|adv,suah
+干	kering|adj,bersih|adj,campur tangan|n,ketuntasan|n,hirau|v,batuk kering|n,lapan puluh enam|num,kontang
+干净	bersih|adj
 干咳	batuk kering|n
 干固	kerongtang
-干土	darul iman,darul ridzuan
-干土坯	darul iman,darul ridzuan
 干块	kertang
 干块的	kertang
-干扰	memerusa,terganggu|adj
+干巴巴	kering|adj
+干才	bakat|n,berkebolehan|adj
+干扰	memerusa
 干掉	lapan puluh enam|num
-干枯	bangkut,kerakap,ringkai
+干旱	kering|adj
+干材	keupayaan|n
+干枯	bangkut,ringkai,kerakap
 干枯栳	kerakap
 干枯栳叶	kerakap
 干枯的	ringkai
-干涉	campur tangan|n,ganggu,hirau|v,sampuk
-干涸	alahan
-干涸的	alahan
-干涸的河	alahan
+干涉	campur tangan|n,hirau|v,ganggu,sampuk
 干涸的河床	alahan
 干热	tuam
 干热罨	tuam
 干热罨法	tuam
-干燥	kutai,tahi hidung|n,usang
-干燥的	usang,tahi hidung|n
-干燥的鼻	tahi hidung|n
-干燥的鼻粘	tahi hidung|n
+干燥	kutai,usang
+干燥的	usang
 干燥的鼻粘液	tahi hidung|n
 干电	bateri|n
 干电池	bateri|n
-干的	ketuntasan|n,kontang,daing|n,kelesek,mampan|adj,mampu|adj,terabadi|adj,terjawab|v
-干的外	kelesek
-干的外皮	kelesek
-干砖	darul iman,darul ridzuan
-干粮	bekal|n,berbekal,zawadah
-干粮或	bekal|n
-干粮或用	bekal|n
-干粮或用品	bekal|n
-干粮旅	zawadah
-干粮旅行	zawadah
-干粮旅行者	zawadah
-干粮旅行者随	zawadah
-干粮旅行者随身	zawadah
-干粮旅行者随身食	zawadah
+干的	ketuntasan|n,kontang
 干粮旅行者随身食物	zawadah
 干练	bestari|adj
 干练的	bestari|adj
 干肉	dendeng
 干肉片	dendeng
+干脆	baru|adj,sekadar|adv
 干蕉	keresek
 干蕉叶	keresek
 干虾	hebi
-干透	basah lembab
-干透的	basah lembab
+干证	saksi|n
 干部	kader
-干酪	panir|n
-干预	hirau|v,mencampuri
-干预他	mencampuri
-干预他人	mencampuri
-干预他人之	mencampuri
+干酪	keju|n
+干预	hirau|v
 干预他人之事	mencampuri
 干鸟	guano
 干鸟粪	guano
-敲	catuk|v,katuk,pukul|v,gambang,guguh,keletak,keletuk,kertap
+敲	pukul|v,catuk|v,katuk,luku,lantak,pantak,guguh,ketuk
 敲入	pantak
-敲击	lantak,keletak,keletuk,kertap,ketak,nobat
-敲击之	nobat
-敲击之皮	nobat
-敲击之皮鼓	nobat
-敲击声	keletak,kertap,ketak,keletuk
+敲击	lantak,ketak,kertap,keletak
+敲击声	ketak,kertap,keletak
 敲叩	luku
-敲平	memelupuh,pelupuh
+敲平	pelupuh,memelupuh
 敲打	memalu
 敲拍	ketuk
-敲琴	gambang,selukat
+敲琴	gambang
 敲裂	kertip
 敲裂声	kertip
 敲门	guguh
-曲	laru,menguk,tekuk,bawar|n,beliku,bengkang-bengkok,bengkok|adj,bengkong|adj
-曲刃	lading
-曲刃大	lading
-曲刃大刀	lading
-曲家	komposer|n
+曲	bentuk|n,siku|n,menguk,laru,tekuk,ragam,keluk,rongkok
+曲子	musik|n
 曲成	rangkup
 曲成凹	rangkup
 曲成凹形	rangkup
-曲折	berliku-liku,mencong,selekoh
-曲折的	mencong,selekoh,berliku-liku
-曲曲	bengkang-bengkok
-曲的	bawar|n,bengkong|adj,bertekuk,erut,ikal,kaluk,lendut,lengkok
+曲折	mencong,selekoh
+曲折的	mencong,selekoh
+曲目	lagu|n
 曲线	bentuk|n,keluk
-曲背	rongkok,merongkok
+曲背	rongkok
 曲角	siku|n
 曲调	ragam
-曲选	pusparagam
-汲	menimba,sauk,cedok|n,meragas,ragas,sodok|n,suduk
+汲	sauk,menimba,cedok|n,ragas,meragas
 汲出	sodok|n,suduk
-汲取	cedok|n,meragas,ragas
-牲	bela,gugur|v,korban|n,mangsa|n,pengorbanan|n,putih tulang|v,terkorban,ternak
-牲品	mangsa|n
-盲	buta|adj,cemer,babi|n,buta ayam,buta huruf|adj,buta kayu,buta warna|n,cauvinisme|n
+汲取	cedok|n,ragas,meragas
+盲	buta|adj,babi|n,cemer,kebutaan
 盲信	fanatik|adj
 盲信的	fanatik|adj
 盲撞	babi|n
-盲症	rabun senja
-盲目	cemer,kebutaan,babi|n,buta|adj,cauvinisme|n
-盲目的	buta|adj,cauvinisme|n
-盲目的爱	cauvinisme|n
-盲目的爱国	cauvinisme|n
-盲目的爱国主	cauvinisme|n
+盲目	buta|adj,kebutaan,cemer
+盲目的	buta|adj
 盲目的爱国主义	cauvinisme|n
-盲目行	babi|n
-盲目行动	babi|n
-磲	kima|n
-署	jabatan|n,jawatan|n,menandatangani,ukuran hawa
-署表	ukuran hawa
-色	abau|n,abjad|n,abu-abu|adj,abyad|adj,akhdar|adj,anjing arau|n,anjing koreng|n,anjing ladang|n
-色列	rejim zionis
-色图	kain batik
-色图案	kain batik
-色图案沙	kain batik
-色图案沙笼	kain batik
-色图案沙笼布	kain batik
-色头	tedung ranggas|n
-色头发	tedung ranggas|n
-色头发的	tedung ranggas|n
-色妖	mambang|n
-色妖精	mambang|n
-色彩	sadur
-色彩的	sadur
+盲目行动猪	babi|n
+署	jabatan|n,jawatan|n
+色	buta warna|n,cabul,nafsu
+色彩	aksara|n
 色情	cabul
-色斑	kurik
-色斑斑	kurik
-色昆	pianggang
-色昆虫	pianggang
 色欲	nafsu
-色泽	kabur|adj
-色泽的	kabur|adj
-色涂	sepuh
-色涂料	sepuh
-色的	akhdar|adj,anjing koreng|n,anjing nibung|n,arna-warni,belau|adj,gegat|n,hitam manis,jingga|adj
-色的岩	pancalogam
-色的岩石	pancalogam
-色的鱼	gegat|n
 色盲	buta warna|n
-色纤	ijuk|n
-色纤维	ijuk|n
-色色	arna-warni,bermacam-macam
-色色的	arna-warni
-色苍	pasi
-色苍白	pasi
-色蛋	hemoglobin
-色蛋白	hemoglobin
-色蛋白质	hemoglobin
-色长	lotong|adj
-色长尾	lotong|adj
-色长尾猿	lotong|adj
-色龙	sumpah-sumpah|n
-色龟	abau|n
-菲	filipina,limau purut|n
-菲尔	limau purut|n
-菲尔酸	limau purut|n
-菲尔酸橙	limau purut|n
+色相	mengorat|v
+菲尼克斯	pun|adv
 菲律	filipina
 菲律宾	filipina
-蛲	kerawit,keremi
-蛲虫	kerawit,keremi
-蹲	berjongkok,bertimpuh,cangkung,jongkok|v,menjongkok,seranggung,simpuh,tinggung|v
-蹲踞	berjongkok,cangkung,jongkok|v,menjongkok,ranggung,tenggek|v,tinggung|v
-铲	menyodok,buldozer,itik sudu|n,memepat,meratakan,penyodok,pepat
+菲林	filem|n
+菲菲	lawa|adj
+菲薄	kurus|adj
+蛲	keremi,kerawit
+蛲虫	keremi,kerawit
+蹲	jongkok|v,tinggung|v,bertimpuh,simpuh,cangkung,berjongkok,menjongkok,seranggung
+蹲踞	tenggek|v,jongkok|v,tinggung|v,ranggung,cangkung,berjongkok,menjongkok
+铲	menyodok,pepat,memepat,penyodok,meratakan
 铲子	penyodok
-铲平	memepat,meratakan,pepat
+铲平	pepat,memepat,meratakan
 铲泥	buldozer
 铲泥机	buldozer
-铲者	itik sudu|n
-闲	aktuyanglapang,beka|n,berbual-bual,bergebang,bergoyang kaki,berkeliaran,borak,bual|n
-闲散	bergoyang kaki
-闲时	masa lega|n
-闲时间	masa lega|n
-闲暇	aktuyanglapang,kelapangan,masa lapang|n
+闲	bual|n,beka|n,repek|v,repet|v,masa lapang|n,borak,lewa,loklek
+闲暇	masa lapang|n,aktuyanglapang,kelapangan
 闲步	siar
 闲空	senggang
-闲荡	lewa,loklek,lengah|adj
+闲荡	lengah|adj,lewa,loklek
 闲荡的	lengah|adj
-闲话	telinga lintah
-闲话的	telinga lintah
-闲谈	beka|n,berbual-bual,bergebang,borak,bual|n,cakap-cakap,gebang,kecek
+闲谈	bual|n,beka|n,repek|v,repet|v,borak,cakap-cakap,omong,berbual-bual
 闲适	luang|adj
 闲适的	luang|adj
-闲逛	berkeliaran,keliar,lonco,kaki rambu|n,mat rambu|n
-闲逛的	kaki rambu|n,mat rambu|n
-闲逛的人	kaki rambu|n,mat rambu|n
-饲	lenggara,pelihara|v,pembela|n
-饲养	lenggara,pelihara|v,pembela|n
+闲逛	lonco,keliar,berkeliaran,mat rambu|n,kaki rambu|n
+闲逛的	mat rambu|n,kaki rambu|n
+闲逛的人	mat rambu|n,kaki rambu|n
+饲	pelihara|v,lenggara
+饲养	pelihara|v,lenggara,pembela|n
 饲养人	pembela|n

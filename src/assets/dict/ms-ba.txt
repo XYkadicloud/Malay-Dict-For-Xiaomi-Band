@@ -9,7 +9,7 @@ babat	babat		斩除，修剪
 babi	babi	n	盲撞，盲目行动 猪	pig (mammal of genus Sus)
 babialu	babi alu		貘
 babibuta	babi buta	v	行动	to act blindly
-babiduyung	babi duyung	n	海牛
+babiduyung	babi duyung	n	海牛	synonym of duyung
 babihutan	babi hutan	n	野猪	wild boar (Sus scrofa)
 babil	babil		辩论，口角，舌战
 babilaut	babi laut		海胆，猬
@@ -44,7 +44,7 @@ bagaikan	bagaikan	prep	好像，宛如，如同，犹如	like; as; similar to (u
 bagaimana	bagaimana	adv	怎么样	how (in what way or manner; by what means).		Bagaimana keadaan awak?
 bagaimanapun	bagaimanapun		无论如何，不管怎样
 bagal	bagal		太大的，粗拙的
-bagan	bagan		小码头，埠头
+bagan	bagan		小码头，埠头	synonym of Butterworth
 bagasi	bagasi	n	行李  行李	baggage  luggage
 bagawan	bagawan		幸福的
 baghal	baghal	n	骡	mule (offspring of male donkey and female horse)
@@ -106,7 +106,7 @@ baiki	baiki		修理，改良，订正
 baiklah	baiklah	int	好的	all right
 bairup	bairup		海上浮标，肮船标志
 bait	bait	n	房子	house (abode)
-baitulmaqdis	baitulmaqdis		两者择一
+baitulmaqdis	baitulmaqdis		两者择一	alternative form of Baitulmuqaddis
 baja	baja	n	肥料	fertilizer  manure
 bajaair	baja air		液体，肥料
 bajak	bajak	n	耕，犁	plough
@@ -196,7 +196,7 @@ bandar	bandar	n	城市	City:
 bandarair	bandar air		水沟，水道
 bandaran	bandaran	adj	关联	Relating to towns or cities; municipal.
 bandaraya	bandaraya	n	市，都市	alternative spelling of bandar raya
-bandarkan	bandarkan	v	消极的
+bandarkan	bandarkan	v	消极的	First-person and second-person passive of membandarkan.
 bandarraya	bandar raya	n	城市	A city.
 bandarseribegawan	bandar seri begawan		印度狭鼻猴	Bandar Seri Begawan (the capital city of Brunei)
 banding	banding	n	比较	comparison
@@ -251,7 +251,7 @@ bantahbentuh	bantah-bentuh		争论，争辩
 bantai	bantai	n	屠杀畜生 鞭打，抽打	meat; slaughtered animal.
 bantal	bantal	n	枕，蒲团，垫褥	pillow (soft cushion used to support the head in bed)
 bantalpeluk	bantal peluk		抱枕
-banteng	banteng	n	n.；[动]白臀野牛 爪哇野牛(产于南亚和东南亚
+banteng	banteng	n	n.；[动]白臀野牛 爪哇野牛(产于南亚和东南亚	nonstandard form of banting
 banteras	banteras		消除，消灭
 banting	banting	n	抛掷，撞击	banteng (Bos javanicus)
 bantingan	bantingan		激动
@@ -268,7 +268,7 @@ bapaangkat	bapa angkat	n	养父，义父	adoptive father
 bapacik	bapa cik	n	年纪最小的人	Youngest uncle.
 bapadatuknenek	bapa datuk nenek	n	曾祖父	great-grandfather
 bapai	bapai	n	父亲	father (male parent)
-bapak	bapak	n	两者择一
+bapak	bapak	n	两者择一	alternative form of bapa
 bapakami	bapa kami		统治者	Lord's Prayer
 bapakandung	bapa kandung	n	生物学的  生物学的	biological father
 bapakayam	bapak ayam	n	男人	male pimp
@@ -292,7 +292,7 @@ baras	baras		癞病，麻疯
 barat	barat	n	西，西方	The west (compass point).
 baratdaya	barat daya	n	西南	southwest
 baratlaut	barat laut		西北方
-baratsemataselatan	barat semata selatan	n	荒废的
+baratsemataselatan	barat semata selatan	n	荒废的	obsolete form of barat daya (“southwest”)
 baraubarau	barau-barau		鲤鱼
 barbados	barbados		巴巴多斯	Barbados (an island and country in the Caribbean)
 barbier	barbier	n	理发师	barber
@@ -351,7 +351,6 @@ batuan	batuan	n	岩石	rock
 batuarang	batu arang		煤
 batuasah	batu asah		磨石
 batubata	batu bata	n	砖块	brick
-batubata	batu-bata		砖块
 batubatan	batu-batan		多石的，各种各样的石头
 batuberani	batu berani	n	磁铁	magnet
 batubersurat	batu bersurat	n	石碑	stela
@@ -409,10 +408,10 @@ bayak	bayak		肥大而矮的
 bayam	bayam	n	不凋花	amaranth  spinach
 bayan	bayan	n	鹦鹉	parakeet
 bayang	bayang	n	阴影	shadow
-bayangan	bayangan	n	两者择一
-bayangbayang	bayang-bayang	n	两者择一
-bayangbayangi	bayang-bayangi	v	两者择一
-bayangbayangkan	bayang-bayangkan	v	两者择一
+bayangan	bayangan	n	两者择一	alternative form of bayang; sign (of something happening)
+bayangbayang	bayang-bayang	n	两者择一	alternative form of bayang
+bayangbayangi	bayang-bayangi	v	两者择一	alternative form of bayangi
+bayangbayangkan	bayang-bayangkan	v	两者择一	alternative form of bayangkan
 bayangi	bayangi	v	阴影	to shadow (cast a shadow over something)
 bayangkan	bayangkan	v	想像	to imagine (form a mental image of something)
 bayar	bayar	v	付钱	to pay (finance).		Saya bayar dengan kad.

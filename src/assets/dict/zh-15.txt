@@ -1,60 +1,56 @@
-亏	punci,rahu,rugi|n
+亏	rugi|n
+亏损	kehilangan|n,defisit|n
 亏本	rugi|n
-亏蚀	rahu
-亏蚀的	rahu
-亏蚀的巨	rahu
-亏蚀的巨龙	rahu
-伏	adang,alun|n,bergelombang,dekam,hendap,lungkup,menelungkup,menghendap
-伏倒	lungkup,menelungkup,meniarap,sungkur,telungkup,terlungkup,telantar
+亏缺	defisit|n
+伏	volt,sungkur,adang,lungkup,meniarap,telungkup,terlungkup,menelungkup
+伏倒	sungkur,lungkup,meniarap,telungkup,terlungkup,menelungkup,telantar
 伏倒的	telantar
 伏击	adang
 伏卧	tiarap
 伏卧的	tiarap
-伏撑	tekan tubi|n
 伏特	volt
-伏的	telantar,tengkurap,tiarap
 伏身	dekam
 伏身屈	dekam
 伏身屈腿	dekam
-侏	cebol,katik,kedih
-侏儒	cebol,katik,kedih
+侏	katik,cebol
+侏儒	katik,cebol,kedih
 侏儒的	kedih
-吏	adar,manteri,pegawai|n,penggawa|n,pertanda|v,sipir
-嚏	bersin|v,lesit
 夏	musim panas|n
+夏令	musim panas|n
+夏天	musim panas|n
 夏季	musim panas|n
-宏	kerin,lantang,sergam
+宏	kerin
 宏亮	kerin,lantang
 宏亮的	lantang
 宏伟	sergam
 宏伟的	sergam
-小	kecil|adj,abai|adj,adik perempuan|n,air kecil|n,air kemih|n,air kencing|n,air perbani,air seni|n
-小丑	alan-alan,badut|n,pelawak|n,peran|n,ikan badut|n,membadut|v,ogak-ogak
+宏大	agung|adj
+小	kecil|adj,ketot|adj,teri|n,liang|n,peket|n,pundi|n,puntuk|n,pandak
+小不点	bayi|n
+小丑	badut|n,peran|n,pelawak|n,alan-alan,ikan badut|n
 小丑鱼	ikan badut|n
-小丘	guguk,matang,bisul lada,kaki bukit|n,monggok
+小丘	matang,guguk,monggok,bisul lada
 小丘状	monggok
 小丘状的	monggok
 小丘疹	bisul lada
-小事	rumit|adj
-小事操	rumit|adj
-小事操心	rumit|adj
-小事操心的	rumit|adj
-小便	air kecil|n,air kemih|n,air kencing|n,air seni|n,buang air kecil,kemih|n,kencing|v,najis kecil|n
-小儿	polio,ubun-ubun
+小九九	skim|n,pelan|n
+小伙	mat belia|n
+小伙子	mat belia|n
+小便	urin|n,kemih|n,kencing|v,air seni|n,air kecil|n,air kemih|n,air kencing|n,najis kecil|n
+小儿	ubun-ubun
 小儿脑	ubun-ubun
 小儿脑盖	ubun-ubun
-小儿麻	polio
-小儿麻痹	polio
 小儿麻痹症	polio
 小册	risalah
 小册子	risalah
 小写	huruf kecil
 小写字	huruf kecil
 小写字母	huruf kecil
-小动	denak
-小动物	denak
+小刀	pisau|n
+小区	ummah|n
+小可	kecil|adj
 小叶	anak daun
-小吃	jajan|n,kudapan|n,makanan ringan|n,snek|n
+小吃	snek|n,jajan|n,kudapan|n,makanan ringan|n
 小囊	kudai
 小囊袋	kudai
 小四	bingkarung
@@ -65,43 +61,45 @@
 小圆	utar-utar
 小圆盾	utar-utar
 小块	iris,babut|n
+小块土地	lahan|n
 小块地	babut|n
 小块地毯	babut|n
-小型	kuda padi|n,selepi
-小型的	kuda padi|n
-小型盒	selepi
-小型盒子	selepi
-小堆	gundukan
-小姐	cik|n,nona|n,pramugari|n
-小学	sekolah rendah|n,cikgu besar|n,pengetua|n
-小学的	cikgu besar|n,pengetua|n
-小学的校	cikgu besar|n,pengetua|n
-小学的校长	cikgu besar|n,pengetua|n
+小妹	awek|n
+小姐	nona|n,cik|n
+小娃	kanak|n
+小娃娃	bayi|n
+小子	manai|n,mat belia|n
+小学	sekolah rendah|n
 小孩	budak|n,mat belia|n
-小寺	surau|n
-小寺院	surau|n
-小屋	barung|n,mengakomodasikan,pondok|n,chalet|n
-小山	bukit|n,cangkat,pongsu|n,manggul
+小孩子	kanak|n
+小家鼠	tikus|n
+小屁孩	bocah|n,mat belia|n
+小屋	pondok|n,barung|n,mengakomodasikan
+小山	bukit|n,pongsu|n,cangkat,manggul
 小山丘	manggul
+小山羊	bocah|n
 小岛	pulau man
-小巧	munggil,renik
+小巧	renik,munggil
 小巧的	renik
 小帐	angsirih
 小帽	kopiah|n
+小幅	kecil|adj
 小店	warung|n
 小弹	gelintir
-小心	aspada,awas|v,bercermat,berhati-hati,endah|v,jimat|adj,selia|adj,takwa|n
+小心	cermat|adj,teliti,awas|v,selia|adj,jimat|adj,endah|v,takwa|n,aspada
 小心地	dengan teliti
-小心的	cermat|adj,ingat-ingat,abai|adj,pengabai|n
-小指	jari kelengkeng|n,jari kelingking,kelengkeng|n,kelingking
-小提	biola|n,gesek biola,viola
-小提琴	biola|n,viola,gesek biola
-小撮	cecah,segelintir
+小心的	cermat|adj,ingat-ingat
+小心谨慎	cermat|adj
+小手小脚	min|n
+小指	kelengkeng|n,jari kelengkeng|n,kelingking,jari kelingking
+小提	biola|n,viola
+小提琴	biola|n,viola
 小敲	selukat
 小敲琴	selukat
 小斧	beliung|n,patil,rimbas
 小旗	panji-panji|n
-小时	jam|n,berjam-jam
+小时	jam|n
+小朋友	kanak|n
 小木	palemban
 小木桥	palemban
 小杂	barung|n
@@ -114,38 +112,33 @@
 小沟	bendar
 小海	belida
 小海鱼	belida
-小潮	air perbani,perbani
-小片	racikan,remah
+小潮	perbani,air perbani
+小片	remah,racikan
 小物	kumanga
 小物件	kumanga
-小狗	anak anjing|n,anak asu|n,anjing corgi|n,kirik|n,anjing fox terrier|n
+小狗	kirik|n,anak asu|n,anak anjing|n,anjing corgi|n
 小珠	manik
-小瓮	lota
 小瓶	buli-buli
 小瓶子	buli-buli
-小疮	bisul lada,jerewat
+小疮	bisul lada
 小瘤	bengkil
-小的	ketot|adj,liang|n,pandak,peket|n,pundi|n,puntuk|n,rawit,teri|n
-小的人	bapa cik|n,penakut|n
+小的	ketot|adj,teri|n,liang|n,peket|n,pundi|n,puntuk|n,pandak,rawit
 小皮	benian
 小皮箱	benian
 小盒	telepa
 小码	bagan
 小码头	bagan
 小碗	irung
-小碟	piring|n
-小种	teraling
-小种的	teraling
-小种的鹦	teraling
+小碟延伸閱讀	piring|n
 小种的鹦鹉	teraling
-小红	bintil
-小红点	bintil
+小秘	setiausaha|n
+小组	grup|n
+小结	singkat|adj,pendek|adj
 小网	kisa
-小群	gundukan
-小者	adik perempuan|n,pengecut|n,yayi|n
-小胧	benta
-小胧包	benta
+小老婆	pp|n
 小脑	serebelum|n
+小脑小	serebelum|n
+小脑小脑	serebelum|n
 小腿	betis|n
 小舍	bangsal
 小舟	sampan|n
@@ -156,15 +149,15 @@
 小虾	pepai,udang pepai
 小螃	kepiting|n
 小螃蟹	kepiting|n
-小袋	kandi,pundi-pundi|n
-小说	cerita|n,fiksyen|n,rekaan,cerbersam,cerita pendek|n,cerpen|n,cerpernis,rawi|n
+小袋	pundi-pundi|n,kandi
+小说	cerita|n,fiksyen|n,rekaan,rawi|n,riwayat
 小说作	rawi|n
 小说作家	rawi|n
 小说历	riwayat
 小说历史	riwayat
-小说家	cerpernis
 小贩	penjaja
-小路	denai,lorong|n,rentis
+小路	lorong|n,denai
+小部分	pecahan|n
 小野	anoa|n
 小野牛	anoa|n
 小量	rada
@@ -172,7 +165,7 @@
 小铁箱	benian
 小铙	canang|n
 小铙钹	canang|n
-小铜	bendir,pitis
+小铜	pitis,bendir
 小铜币	pitis
 小铜锣	bendir
 小锚	cemat
@@ -183,242 +176,164 @@
 小集	kasam
 小集团	kasam
 小雨	gerimis
+小青年	mat belia|n
 小须	paus tombak|n
 小须鲸	paus tombak|n
 小鸡	anak ayam
-小鹦	burung pialing,nuri|n,pialing
-小鹦哥	burung pialing,pialing
+小鹦	nuri|n,pialing,burung pialing
+小鹦哥	pialing,burung pialing
 小鹦鹉	nuri|n
 小麦	gandum|n,terigu
 小鼓	rebana
 小鼓手	rebana
-序	mukadimah,prakata|n,abjadkan|v,acara|n,disiplin,haluan kata,kelui|n,mengoder|v
-序排	abjadkan|v
-序排列	abjadkan|v
+小鼠	tikus|n
+帏幕	skrin|n
+序	prakata|n,pendahuluan|n,mukadimah,haluan kata
 序文	pendahuluan|n
-序的	menurut abjad,rondah-randeh
+序次	perintah|n
 序言	haluan kata
-式	air sembahyang|n,akhdar|adj,aneka ragam,anwar,arbaa,badut-badutkan|v,bagai|conj,belau|adj
-式会	wikang|n
-式会社	wikang|n
-式会社远	wikang|n
-式会社远藤	wikang|n
-式会社远藤公	wikang|n
-式会社远藤公司	wikang|n
-式化	rumuskan
-式女	gaun|n
-式女衣	gaun|n
-式宣	merasmikan
-式宣布	merasmikan
-式戏	ketoprak
-式戏剧	ketoprak
-式样	lagu|n,model|n,potongan|n,ragam
-式棉	rerama|n
-式棉块	rerama|n
-式电	periuk belanga|n
-式电话	periuk belanga|n
-式电话服	periuk belanga|n
-式电话服务	periuk belanga|n
-式的	badut-badutkan|v,bincangkan|v,celakakan|v,cetekkan|v,curigai|v,elokkan|v,formal|adj,formalkan|v
-式脂	lemak trans|n
-式脂肪	lemak trans|n
-式脂肪酸	lemak trans|n
-式船	linggi
-式船首	linggi
-式船首龙	linggi
-式船首龙骨	linggi
-式船首龙骨的	linggi
-式船首龙骨的夹	linggi
-式船首龙骨的夹板	linggi
-式长	pendaga
-式长方	pendaga
-式长方形	pendaga
-式长方形之	pendaga
-式长方形之衣	pendaga
-式长方形之衣箱	pendaga
-式飞	jet
-式飞机	jet
-意	aci,acuh,adawat|n,agah,akur,anggapan,awas|v,azam|n
-意中	jerembak
-意中碰	jerembak
-意中碰见	jerembak
-意义	erti|n,makna|n,bersejarah,cuai|adj,keberertian|n,seerti|adj,selera|n
-意义的	bersejarah,cuai|adj
-意乱	gamam,tergamam
-意冷	patah hati
+式	model|n,lagu|n,potongan|n,ragam
+式样	model|n,lagu|n,potongan|n,ragam
+意	niat|n,erti|n,pandangan|n,maksud|n,makna|n,tekad|n,pendapat|n,pendepat|n
+意义	erti|n,makna|n
+意乐	nikmat|n
+意即	cara|n
 意向	azam|n,kasad
+意味	erti|n
+意味深长	hebat|adj
 意图	niat|n
-意地	mendengarkan
-意地倾	mendengarkan
-意地倾听	mendengarkan
-意处	pakai buang|adj
-意处理	pakai buang|adj
-意处理或	pakai buang|adj
-意处理或处	pakai buang|adj
-意处理或处置	pakai buang|adj
-意处理或处置的	pakai buang|adj
-意处理的	pakai buang|adj
 意外	kemalangan|n
-意大	itali,pasta|n
-意大利	itali,pasta|n
-意大利面	pasta|n
-意大利面食	pasta|n
-意志	tekad|n,muna
-意志的	muna
-意思	erti|n,jaya|n
+意外事件	kemalangan|n
+意外事故	kemalangan|n
+意大	itali
+意大利	itali
+意大利面食糊剂	pasta|n
+意志	tekad|n
+意念	idea|n,fikir|v
+意思	erti|n,ertinya
+意思是	ertinya
+意思是…	ertinya
 意旨	murad|n
 意欲	maksud|n
-意球	sepakan percuma|n,tendangan percuma|n
-意的	bingit,kod hasad|n,kurang hati-hati,meling,molor,sebarang|det,semaja,semberono|adj
-意见	anggapan,buah fikiran,pandangan|n,pendapat|n,pendepat|n,curah fikiran,kidal|adj,pada hemat saya
+意涵	erti|n
+意见	pandangan|n,pendapat|n,pendepat|n,buah fikiran,anggapan,kidal|adj,sefaham,sefahaman
 意见一	sefaham,sefahaman
 意见一致	sefaham,sefahaman
-意见不	tikai
-意见不合	tikai
-意见不合口	tikai
 意见不合口角	tikai
 意见相	kidal|adj
 意见相左	kidal|adj
-意识	ideologi|n,kesedaran kelas|n
+意识	ideologi|n
 意识形	ideologi|n
 意识形态	ideologi|n
-意软	perisian jahat|n
-意软件	perisian jahat|n
-意选	rambang
-意选择	rambang
-意选择或	rambang
-意选择或瞄	rambang
-意选择或瞄准	rambang
-戏	ahana,dalang|n,drama,gelembung-gelembungan,gobek,gurau|n,hibira|n,ketoprak
-戏剧	drama,komedi|n,lakon|v,lakonan,sandiwara|n,wayang|n,ahana,ketoprak
-戏团	sarkas|n
-戏弄	gurau|n,menyakat,olok-olok,olokkan,perli,seloroh,sindir|n,pemain|n
+意译	erti|n
+意谓	erti|n
+戏	gurau|n,sandiwara|n,teater|n,komedi|n,wayang|n,lakon|v,sindir|n,drama
+戏份	adegan|n
+戏剧	sandiwara|n,komedi|n,wayang|n,lakon|v,drama,lakonan
+戏台	pentas|n
+戏子	pelakon|n
+戏弄	gurau|n,pemain|n,sindir|n,perli,seloroh,olok-olok,olokkan,menyakat
 戏弄者	pemain|n
-戏的	dalang|n
-戏的班	dalang|n
-戏的班主	dalang|n
-戏的班主或	dalang|n
-戏的班主或导	dalang|n
-戏的班主或导演	dalang|n
+戏票	karcis|n
 戏谑	lawar,senda,senda-gurau
-戏院	panggung wayang,teater|n
-掏	merogoh,rogoh,cedok|n,sodok|n,suduk
+戏院	teater|n,panggung wayang
+掏	rogoh,merogoh,cedok|n,sodok|n,suduk
 掏取	cedok|n,sodok|n,suduk
-搏	bersesah,nadi,nyut-nyut,sesah,urat nadi
-搏斗	bersesah,sesah
-昏	balam|n,bingung|adj,bius,igau,isyak|n,kelam-kabut,keliru|adj,lali|adj
+搏	sesah,bersesah
+搏斗	sesah,bersesah
+昏	bingung|adj,keliru|adj,balam|n,pengsan|v,malan,bius,pitam,terpukau
 昏乱	bingung|adj,keliru|adj,malan
 昏倒	pengsan|v
 昏厥	lali|adj
 昏厥的	lali|adj
 昏晕	pitam
-昏暗	balam|n,kelam-kabut,mendung|n,samar|adj
+昏暗	samar|adj,balam|n,mendung|n,kelam-kabut
 昏暗无	kelam-kabut
 昏暗无光	kelam-kabut
-昏暗的	mendung|n,samar|adj
+昏暗的	samar|adj,mendung|n
 昏沉	pengar
 昏沉的	pengar
-昏的	mambang|n
-昏的天	mambang|n
-昏的天色	mambang|n
-昏眼	pening|adj,pitam,pusing kepala
-昏眼花	pening|adj,pitam,pusing kepala
-昏迷	bius,lintuh,pengsan|v,terpukau,igau,mengigau,selap
+昏睡	tidur|v
+昏迷	pengsan|v,bius,terpukau,lintuh,selap,igau,mengigau
 昏迷乱	igau,mengigau
 昏迷乱说	igau,mengigau
 昏迷的	selap
-栏	kandang|n,ruangan,sangkar,sawar,sogang,birai,kolum,lepar
+栏	kandang|n,sangkar,sawar,sogang,ruangan,birai,lepar
+栏圈	pen|n
 栏杆	birai,lepar
-梏	pasung,sengkela
-氏	kabilah,sindrom down|n
+氏	kabilah
 氏族	kabilah
-氏症	sindrom down|n
-漏	bobos,bocor,bocor-bacir,buka rahsia,cicir,corong,gela,kebocoran
+漏	bobos,bocor,pancit|v,memancit,corong,saringan
 漏斗	corong,saringan
 漏洞	bocor
-漏的	gela
-漏秘	buka rahsia,pecah khabar
-漏秘密	buka rahsia,pecah khabar
-漏西	bocor-bacir
-漏西漏	bocor-bacir
-漏风	memancit,pancit|v
-熏	dupa|n,rabun|adj,selaka|n,ukup
-熏蚊	rabun|adj
+漏风	pancit|v,memancit
+熏	dupa|n
+熏陶	ayaw|n
 熏香	dupa|n,selaka|n,ukup
 熏香架	selaka|n
 熏香焚	ukup
 熏香焚香	ukup
-疏	abaikan|v,alpa|adj,cuai|adj,ganggang|n,jauhkan diri,jelujur,kelesa,lalai|adj
-疏忽	abaikan|v,alpa|adj,lengai,taksir|n,cuai|adj,kelesa,lalai|adj,leler
-疏忽的	cuai|adj,kelesa,lalai|adj,leler,lengah|adj,teledor
+疏	alpa|adj,taksir|n,abaikan|v,lengai,mufarik,jauhkan diri,jelujur
+疏忽	lengah|adj,alpa|adj,taksir|n,abaikan|v,cuai|adj,lalai|adj,lengai,kelesa
+疏忽的	lengah|adj,cuai|adj,lalai|adj,kelesa,leler,teledor
 疏松	nyenyai
 疏松的	nyenyai
-疏的	lengang|adj
+疏水	longkang|n
+疏淡	kurus|adj
+疏疏	indah|adj,kemas|adj
 疏缝	jelujur
-疏远	jauhkan diri,mufarik,ganggang|n,renggang|adj
-疏远的	ganggang|n,renggang|adj
-福	badan kebajikan,bagawan,bagia,bahagia|adj,bajik,berbahagia,berdoa,berkat
+疏远	renggang|adj,ganggang|n,mufarik,jauhkan diri
+疏远的	renggang|adj,ganggang|n
+疏阔	samar|adj
+福	bajik,kebajikan
 福利	bajik,kebajikan,badan kebajikan
 福利机	badan kebajikan
 福利机构	badan kebajikan
 福气	maimun
 福气的	maimun
-福的	bagawan,berbahagia,mubarak,perusa,sempana
-肏	mak kau hijau
-肏你	mak kau hijau
-肏你媽	mak kau hijau
-脏	kotor|adj,cemar,comot,comot-momot,conteng|n,daki|n,ginjal|n,jantung|n
+脏	kotor|adj,kumbahan|n
+脏兮兮	mala|adj
 脏水	kumbahan|n
-脏病	kardiologi|n,serangan jantung|n
-脏病发	serangan jantung|n
-脏病发作	serangan jantung|n
-脏病学	kardiologi|n
-脏的	comot-momot,daki|n,lumar,momot,rujah,seleweng
-膏	balsam,belacan|n,kapur masak,plaster,pupuk|n,terasi,ubat gigi|n
-膏粉	kapur masak
+脏脏	mala|adj
+膏	pupuk|n
 膏药	pupuk|n
 薏	barli
 薏米	barli
 谏	petua|n
 谏言	petua|n
-踏	injak,memijak,menginjak,merencah,pijak|v,batu loncatan,hentak|v,henyak|v
-踏声	letum-letam
+踏	pijak|v,injak,menginjak,merencah,memijak,linyak,pijak-pijak
+踏实	tetap|adj
 踏平	linyak
 踏板	pijak-pijak
 踏脚	batu loncatan
 踏脚石	batu loncatan
-踏臼	indik
 踏触	jejak|n
 踏触地	jejak|n
+踏踏实实	tetap|adj
 踏过	rapah
 踏进	rencah
-躏	lanyak
-透	basah kuyup,basah lembab,bening,ekspres|adj,jerap,jernih|adj,kanta|n,kedap
-透明	bening,jernih|adj,lutcahaya,lutsinar
-透明的	jernih|adj,lutsinar,lutcahaya
+透	kanta|n,lensa|n,bening,turas
+透亮	cerlang|adj
+透明	jernih|adj,bening,lutsinar
+透明的	jernih|adj,lutsinar
 透滤	turas
-透的	basah kuyup,basah lembab,ekspres|adj,kedap,lecap,pampit,serbak,telap
-透过	melantas,menelus,telap,telus|adj
+透过	telus|adj,telap,menelus,melantas
 透镜	kanta|n,lensa|n
-随	berhanyut-hanyut,berikut|v,biar|v,bila-bila|adv,diikuti|v,ikut|v,ikut serta,iring
+随	lantas|adv,rawak|adj,pawai|n,biar|v,seiring,pengikut,semedang,pengiring
 随从	iring,ladi
 随便	biar|v,sembarang
 随即	lantas|adv
 随同	seiring
 随员	pengikut,pengiring
-随和	sempoi|adj
-随和的	sempoi|adj
-随地	bila-bila|adv
+随处	mana-mana|adv
 随役	pawai|n
 随意	rawak|adj
 随时	semedang,bila-bila|adv
 随时随	bila-bila|adv
 随时随地	bila-bila|adv
+随机	acak|adj
 随波	berhanyut-hanyut
 随波逐	berhanyut-hanyut
 随波逐流	berhanyut-hanyut
-随的	diikuti|v
-随身	zawadah
-随身食	zawadah
-随身食物	zawadah
-馏	kukus|adj
+随着	berikutnya|adj
+馏分	kunci|n,pecahan|n

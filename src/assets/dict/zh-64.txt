@@ -1,204 +1,128 @@
-什	apa|pron,apa pasal|adv,apa-apa|pron,awat,barang apa,bila|adv,buat apa,mengapa|adv
-什么	apa|pron,apa pasal|adv,apa-apa|pron,awat,barang apa,bila|adv,buat apa,mengapa|adv
+什	apa|pron
+什么	apa|pron,apa-apa|pron,bila|adv
+什么事	apa|pron
+什么人	siapa|pron
+什么地方	di mana|adv
 什么时	bila|adv
 什么时候	bila|adv
-什么用	buat apa
 什么都	apa-apa|pron
-兀	burung nasar,nasar,nauring,uring
-兀鹰	burung nasar,nasar,nauring,uring
-净	bersih|adj,cuci|v,ganyah,hadas,kudus|adj,lecat,membersihkan|v,menggahar
+兀	uring,nasar,nauring,burung nasar
+兀鹰	uring,nasar,nauring,burung nasar
 净洁	suci|adj
 净洁的	suci|adj
-净的	hadas,kudus|adj,najis|n,selungkang
 呀	ah|part
-哀	ayuh,berkabung,dedau,duka,dukacita,jerit|n,lolong|n,menjerit
-哀叫	dedau,menjerit,jerit|n
-哀叫声	jerit|n
+呀！嗳呀！	ai|n
+哀	lolong|n,takziah|n,ayuh,dedau,ratap,menjerit,berkabung
+哀叫	dedau,menjerit
 哀号	lolong|n
 哀哉	ayuh
 哀恸	metu
 哀恸的	metu
-哀悼	berkabung,takziah|n
+哀悼	takziah|n,berkabung
 哀泣	ratap
-哀的	rayu,sayu
-址	aboi|n,adres,alamat|n,alang|n
-孀	janda|n,kuinin
-局	bahagian|n,jabatan|n,jawatan|n,balai bomba|n,balai mata-mata|n,balai polis|n,berwajib|v,kastam
+孀妇	balu|n
+孀婺	balu|n
+局	bahagian|n,jabatan|n,jawatan|n,kedudukan|n,penyetempatan|n
+局部	aandeel|n
 局限	penyetempatan|n
 局面	kedudukan|n
-所	akaf,balai rakyat,banji|n,bayaran,bilik air|n,cap ayam|adj,cuai|adj,cukai pendapatan|n
-所不	cap ayam|adj,palatau|n
-所不在	cap ayam|adj
-所不在的	cap ayam|adj
-所不知	palatau|n
-所不知的	palatau|n
 所以	jadi|v
-所寄	kiriman
-所寄的	kiriman
-所寄的东	kiriman
+所在	nama|n
 所寄的东西	kiriman
 所得	cukai pendapatan|n
 所得税	cukai pendapatan|n
-所拥	akaf
-所拥有	akaf
-所拥有的	akaf
-所拥有的产	akaf
-所拥有的产业	akaf
-所有	empunya|n,para|n,segala-galanya,sekalian|det,kepunyaan|n,kesemuanya|pron,milik|n,pemilikan|n
+所有	para|n,empunya|n,sekalian|det,milik|n,pemilikan|n,uolls|pron,kesemuanya|pron,sayur-mayur|n
+所有主	punya|v
 所有权	milik|n,pemilikan|n
-所有物	kepunyaan|n,milik|n,simpanan
-所有的	kesemuanya|pron,sayur-mayur|n,uolls|pron
-所用	banji|n
-所用的	banji|n
-所用的十	banji|n
-所用的十字	banji|n
-所用的十字记	banji|n
-所用的十字记号	banji|n
-所能	dengan sesungguhnya
-所谓	cuai|adj
-所谓的	cuai|adj
+所有物	milik|n,kepunyaan|n,simpanan
+所有的	uolls|pron,kesemuanya|pron,sayur-mayur|n
+所有者	punya|v
 所还	bayaran
 所还的	bayaran
 所还的钱	bayaran
-所需	vital
-所需的	vital
-杀	amuk|v,bantai|n,buang diri,bunuh|v,bunuh diri|v,gorok,maharana,memanah
-杀人	amuk|v,membela,pembunuh|n
+所需	perlu|v
+杀	bunuh|v
+杀人	pembunuh|n,membela
 杀人报	membela
 杀人报仇	membela
 杀人者	pembunuh|n
 杀害	bunuh|v
-杀家	zabah|n
-杀家畜	zabah|n
-杀畜	bantai|n
-杀畜生	bantai|n
-杀虫	racun serangga|n
-杀虫剂	racun serangga|n
-检	amati,inspektor,koroner|n,kuarantin,memeriksa,mengamati,peguam negara|n,periksa|v
-检察	peguam negara|n
-检察官	peguam negara|n
-检查	memeriksa,mengamati,periksa|v,amati,inspektor
+杀手	pembunuh|n
+杀虫剂杀虫剂	racun serangga|n
+检	periksa|v,mengamati,memeriksa
+检定	azam|n
+检查	periksa|v,mengamati,memeriksa,inspektor
+检查员	merinyu|n
 检查官	inspektor
 检疫	kuarantin
 检疫停	kuarantin
 检疫停船	kuarantin
-检验	mengamati,koroner|n
-检验员	koroner|n
-淀	enap,enapan,kanji|n,koleh,menakung,mendak,mendakan|n,mendam
-淀物	enap,enapan,mendakan|n,sedimen|n
+检索	carian|n
+检验	mengamati
+淀	kanji|n,koleh
 淀粉	kanji|n,koleh
-激	bantingan,berang,berapi-api,bergelora,berkecamuk,berkobar-kobar,dorongan,ekstremis|n
-激之	kesyukuran|n
-激之情	kesyukuran|n
-激份	ekstremis|n
-激份子	ekstremis|n
-激动	bantingan,gelodak,gelora|n,menghibakan,rangsang
-激动的	rangsang,menghibakan
-激励	dorongan,memberanikan,perangsang
-激品	rangsangan
-激怒	berang,hasut,menggalakkan
-激昂	gelora|n,menggelodak,bergelora,berkobar-kobar
-激昂的	bergelora,berkobar-kobar
-激烈	berapi-api,berkecamuk,kecamuk
-激物	sambal|n
-激食	ulam|n
-激食欲	ulam|n
-激食欲的	ulam|n
-激食欲的腌	ulam|n
-激食欲的腌菜	ulam|n
-着	adhesi,arakian,bara|n,berandang,berasak-asakan,berbungkus,bercawat ekor,berdagu
-着下	berdagu
-着下巴	berdagu
-着下巴坐	berdagu
-着下巴坐着	berdagu
-着不	duduk-duduk|v
-着不干	duduk-duduk|v
-着尾	bercawat ekor
-着尾巴	bercawat ekor
+激	gelora|n,hasut,menggalakkan,berang,dorongan,berapi-api,perangsang,memberanikan
+激动	gelora|n,gelodak,bantingan,rangsang
+激动的	rangsang
+激动．骚动	gempar
+激励	dorongan,perangsang,memberanikan
+激怒	hasut,menggalakkan,berang
+激情	gembira|adj
+激愤	gembira|adj
+激昂	gelora|n,menggelodak,bergelora
+激昂的	bergelora
+激昂的摇动	berkobar-kobar
+激烈	berapi-api,kecamuk,berkecamuk
+激越	riuh|adj
+着实	hak|n
 着手	lagang
-着日	bertarikh
-着日期	bertarikh
-着日期的	bertarikh
-着气	mendengus|v
-着气弄	mendengus|v
-着气弄响	mendengus|v
-着气弄响鼻	mendengus|v
-着气弄响鼻子	mendengus|v
-着火	bernyala,menyala|v,nyalakan
-着的	bara|n,berbungkus,berpalut,kebilangan,tenang hati
-着的火	bara|n
-着的火头	bara|n
-着眼	kejam|v
-着臀	berkesot,kesot,mengesot
-着臀部	berkesot,kesot,mengesot
-着臀部移	berkesot,kesot,mengesot
-着臀部移动	berkesot,kesot,mengesot
-着迷	terpukau,obsesif|adj
+着数	skim|n
+着火	menyala|v,nyalakan,bernyala
+着装	gaun|n
+着边	relevan|adj
+着迷	obsesif|adj,terpukau
 着迷的	obsesif|adj
-着重	menitikberatkan,titikberat,tekanan
+着重	titikberat,menitikberatkan,tekanan
 着重点	tekanan
-着雨	berhujan-hujan
-础	alas|n,asas|n,dasar,infrastruktur|n,pangkal|n,prasarana|n,tumpu|v,umpak
-础的	tumpu|v
-础结	infrastruktur|n,prasarana|n
-础结构	infrastruktur|n,prasarana|n
-秀	ayu|adj
 秀丽	ayu|adj
 秀丽的	ayu|adj
-節	suku kata|n
-胀	abuh|adj,bakup,bengkil,boyot,buncir,busung|v,cemus,gembung
+秀才	cendekiawan|n
+秀色可餐	lawa|adj
 胀大	lembung
 胀满	tembam
 胀满的	tembam
-胀的	boyot,buncir,gendut|adj,kepuh,segah,sembab
-臀	pungkur|n,berkesot,buntut|n,burit|n,kesot,mengesot,punggung|n,tembadau|n
-臀部	buntut|n,burit|n,punggung|n,berkesot,kesot,mengesot,tonggeng|n,tunggit
-臀部移	berkesot,kesot,mengesot
-臀部移动	berkesot,kesot,mengesot
+臀	pungkur|n,punggung|n,buntut|n,burit|n
+臀部	punggung|n,buntut|n,burit|n,tonggeng|n,tunggit
 臀部突	tonggeng|n,tunggit
 臀部突出	tonggeng|n,tunggit
-臀野	tembadau|n
-臀野牛	tembadau|n
-蛀	kedempung,bubuk|n,kelarah,kelasah,lubang cacing|n,ulat|n
+蛀	kedempung,bubuk|n,ulat|n,lubang cacing|n,kelasah
 蛀孔	lubang cacing|n
-蛀虫	bubuk|n,kelasah,ulat|n,kelarah
-蟀	cengkerik|n,jengkerik,keridik
-血	darab,darah|n,jenis darah|n,plasma,batuk darah,bekam,beradik|adj,berdarah|v
-血亲	beradik|adj
-血亲关	beradik|adj
-血亲关系	beradik|adj
-血亲关系的	beradik|adj
-血儿	pisang raja|n
-血压	hipertegangan|n,hipertensi|n
-血因	tidapa
-血因素	tidapa
+蛀虫	bubuk|n,ulat|n,kelasah
+血	darah|n,jenis darah|n,plasma,darab,perturunan|n,serum,busung darah,salurdarah
 血型	kumpulan darah|n
-血封	ipuh|n
-血封喉	ipuh|n
+血型血	kumpulan darah|n
+血型血型	kumpulan darah|n
+血性	berani|adj
 血浆	serum
+血液	darah|n
+血淋淋	pahit|adj
 血清	serum
 血瘤	busung darah
-血的	rejeh
 血管	salurdarah
 血统	perturunan|n
-血色	hemoglobin,lesi,pucat lesi
-血色蛋	hemoglobin
-血色蛋白	hemoglobin
+血肉	isi|n
 血色蛋白质	hemoglobin
-血鬼	tenggelung
-釀	tapai|n
-铀	uranium|n
-镀	bercelup,bersadur,bersepuh,ayan|n,keemasan|adj,sadur,sepuh,usap
-镀金	sadur,sepuh,usap,keemasan|adj
+诀窍	rahsia|adj,kunci|n
+铀铀	uranium|n
+铀铀U	uranium|n
+镀	bercelup,bersadur,bersepuh,usap,sepuh,sadur
+镀金	keemasan|adj,usap,sepuh,sadur
 镀金的	keemasan|adj
-镀锌	ayan|n,zink|n
-镀锌于	ayan|n,zink|n
-陀	gasing|n,inderaloka|n,veda,weda
-陀罗	inderaloka|n
+陀	gasing|n
 陀螺	gasing|n
-雀	biru merak|adj,burung peking,burung pipit,emperit|n,jingkerak,kenari,kinja,merak|n
+雀	jingkerak,kinja
 雀科	emperit|n
 雀科鸣	emperit|n
 雀科鸣鸟	emperit|n
-雀蓝	biru merak|adj
 雀跃	jingkerak,kinja
+雀鸟	manuk|n

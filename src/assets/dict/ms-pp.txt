@@ -1,2 +1,2 @@
-pp	pp	n	包裹邮递 ；包裹邮件
-pprs	pprs		词首字母缩略词
+pp	pp	n	包裹邮递 ；包裹邮件	abbreviation of perempuan (“female  woman”)
+pprs	pprs		词首字母缩略词	initialism of Parti Perpaduan Rakyat Sabah (“Sabah People's Unity Part

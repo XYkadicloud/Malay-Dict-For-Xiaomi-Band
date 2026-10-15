@@ -1,9 +1,9 @@
-sy	sy	pron	abbr.；平方码（square
+sy	sy	pron	abbr.；平方码（square	abbreviation of saya (“I”)
 syaaban	syaaban		恒星时角	Sha'ban
 syabas	syabas		做得不错	well done
 syafaat	syafaat		仲裁，调解
 syafakat	syafakat		同情
-syagar	syagar	n	两者择一
+syagar	syagar	n	两者择一	alternative form of sakar
 syah	syah	n	王，国王	King:
 syahadan	syahadan		而且，况且
 syahadat	syahadat		证据，供证
@@ -17,10 +17,10 @@ syair	syair		诗
 syaitan	syaitan	n	魔鬼	Satan  the Devil.
 syajarat	syajarat	n	树	tree
 syak	syak		疑，怀疑
-syakar	syakar	n	两者择一
+syakar	syakar	n	两者择一	alternative form of sakar
 syampu	syampu	n	洗头	shampoo
 syamsi	syamsi	n	太阳	sun (the star around which the Earth revolves)
-syamsu	syamsu	n	太阳
+syamsu	syamsu	n	太阳	alternative form of syamsi
 syara	syara		回教戒律
 syarab	syarab		酒
 syarah	syarah		讲义，讲道
@@ -39,7 +39,7 @@ syiling	syiling	n	金属的	A metallic piece of currency; a coin.
 syinkansen	syinkansen	n	子弹头列车	bullet train
 syinto	syinto		传统的	The traditional religion of Japanese society; Shinto.
 syirik	syirik	n	不可原谅的	The unforgivable sin of association [of something with God]; shirk.
-syiuh	syiuh		两者择一
+syiuh	syiuh		两者择一	alternative form of siuh
 syogun	syogun	n	至高	The supreme generalissimo of feudal Japan; shogun.
 syok	syok	adj	真正的	Very attractive or enjoyable.
 syor	syor	n	建议	a recommendation or suggestion
@@ -47,6 +47,6 @@ syot	syot	n	相片	A photo that is taken with a cinematographic camera; a shot.
 syria	syria		叙利亚  叙利亚	Syria (a country in West Asia in the Middle East)
 syubahat	syubahat		怀疑
 syubhah	syubhah	adj	不确定的	Uncertain or doubtful in whether it is halal or haram (of an act  food  etc.).
-syuh	syuh		两者择一
+syuh	syuh		两者择一	alternative form of siuh
 syukur	syukur	n	感谢	thankfulness  gratitude
 syurga	syurga	n	天堂 sebab 因为	heaven  paradise

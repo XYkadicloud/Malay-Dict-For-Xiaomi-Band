@@ -1,1 +1,1 @@
-yb	yb	n	词首字母缩略词
+yb	yb	n	词首字母缩略词	initialism of Yang Berhormat (“Your Excellency; the honourable”)

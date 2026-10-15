@@ -1,59 +1,29 @@
-仗	alat kerajaan,mercun|n
-佗	kecubung
-佗罗	kecubung
-佗罗花	kecubung
-佗罗花属	kecubung
-佗罗花属之	kecubung
-佗罗花属之植	kecubung
-佗罗花属之植物	kecubung
-俗	adat|n,adat istiadat,adat perpatih,bahasa pasar|n,istiadat|n,kelaziman,leta,resam|n
-俗习	adat istiadat,istiadat|n
-俗习惯	adat istiadat,istiadat|n
+WE	laman web|n,laman sesawang|n
+WEB	laman web|n,laman sesawang|n
+WEB浏览器	pelayar web|n,penyemak imbas|n
+WEB页	laman web|n,laman sesawang|n
+仗火	pertempuran|n
+俗	adat|n,bahasa pasar|n,sekularisasi|n
 俗例	adat|n
-俗化	sekularisasi|n,vulgarisasi
-俗的	leta,sekular|adj,sinis|adj
+俗化	sekularisasi|n
 俗语	bahasa pasar|n
-南	selatan|n,adat perpatih,afrika selatan,afrikaans,amerika selatan,armadillo|n,barat daya|n,buku panduan
-南冰	lautan selatan
-南冰洋	lautan selatan
-南加	adat perpatih
-南加坡	adat perpatih
-南加坡族	adat perpatih
-南加坡族母	adat perpatih
-南加坡族母系	adat perpatih
-南加坡族母系社	adat perpatih
-南加坡族母系社会	adat perpatih
-南加坡族母系社会风	adat perpatih
-南加坡族母系社会风俗	adat perpatih
-南大	lautan selatan
-南大洋	lautan selatan
+南	selatan|n,labu|n,sudan selatan,amerika selatan,kutub janubi
+南冰洋南大洋	lautan selatan
 南巴	rambai
 南巴果	rambai
-南方	sudan selatan,tenggara|n
-南星	kelembahang
-南星亚	kelembahang
-南星亚科	kelembahang
-南星亚科植	kelembahang
-南星亚科植物	kelembahang
+南方	sudan selatan
 南极	kutub janubi
-南洋	mayung
-南洋特	mayung
-南洋特产	mayung
-南洋特产之	mayung
-南洋特产之食	mayung
-南洋特产之食用	mayung
 南洋特产之食用鱼	mayung
 南瓜	labu|n
-南美	amerika selatan,armadillo|n
-南美犰	armadillo|n
-南美犰狳	armadillo|n
-南针	kompas,pedoman|n
-南非	afrika selatan,afrikaans
-南非荷	afrikaans
-南非荷兰	afrikaans
+南美	amerika selatan
+南边	selatan|n
+南非	afrika selatan
 南非荷兰语	afrikaans
-受	bantut,berpendidikan,bersenyawa,berubat,betah,boleh tahan,buta huruf|adj,cedera
-受伤	cedera,jejas,kecederaan,luka|n,kerentanan
+南面	selatan|n
+受	luka|n,sakat|v,derita|v,betah,boleh tahan,bantut,cedera,jejas
+受事	benda|n
+受众	penonton|n
+受伤	luka|n,cedera,jejas,kecederaan
 受到	terjamin
 受到保	terjamin
 受到保证	terjamin
@@ -71,238 +41,148 @@
 受感	terharu
 受感动	terharu
 受扰	sakat|v
-受损	rugikan
-受损失	rugikan
+受格	matlamat|n
 受治	berubat
 受治疗	berubat
+受益	laba|n
 受窘	ripuh
 受罪	kena denda
-受者	penerima
-受胎	bersenyawa,senyawa
+受胎	senyawa,bersenyawa
 受苦	derita|v
 受薪	makan gaji
 受薪工	makan gaji
 受薪工作	makan gaji
-受训	latih,magang|n,pelatih|n
+受训	pelatih|n,magang|n,latih
 受训的	magang|n
 受训者	pelatih|n
+受词	benda|n
 受诱	pikat|v,terpikat
 受诱惑	pikat|v,terpikat
-受过	berpendidikan,buta huruf|adj,terdidik,terpelajar
-受过教	berpendidikan,buta huruf|adj,terdidik,terpelajar
-受过教育	berpendidikan,buta huruf|adj,terdidik,terpelajar
-受过教育的	berpendidikan,terdidik,terpelajar
+受过教育	terdidik,terpelajar,berpendidikan
+受过教育的	terdidik,terpelajar,berpendidikan
 受通	diberitahukan
 受通知	diberitahukan
-受阻	bantut,terbantut,tergendala,terhalang
-受阻碍	terbantut,tergendala,terhalang
+受阻	bantut,terbantut,terhalang,tergendala
+受阻碍	terbantut,terhalang,tergendala
 受难	mangsa|n
 受难者	mangsa|n
 受雇	makan gaji
 受雇用	makan gaji
-哗	bising|adj,gempita,gugup,hiru-hara,huru,tenar|adj
-哗的	gempita
-块	bingkah,blok,bongkah,gumpal|cls,gumpalan,kepal|v,ketul,kopah
-块一	berketul-ketul
-块一块	berketul-ketul
-块一块的	berketul-ketul
+块	massa|n,kepal|v,gumpal|cls,tumbung|n,tepek,blok,ketul,pukal
 块团	gumpal|cls
-块地	babut|n
-块地毯	babut|n
 块根	umbi|n
-块的	berketul-ketul,kertang
-套	sarung|n,setel,berangus,berselimut|v,jata|n,jerat,jirat|n,kondom|n
-套的	seberhana
-字	perkataan|n,aa|n,abc|n,abdb,abese|n,abim,abjad|n,abjadkan|v
-字上	pepet
-字上面	pepet
-字上面的	pepet
-字上面的符	pepet
+套	sarung|n,setel
+套儿	skim|n
+套子	peti|n
+套房	rata|adj
+套装	sut|n
+字	perkataan|n,inisial|n,tulisan|n,huruf|n,bersurat|v,bausastera|n,transliterasi|n,vokabulari
 字上面的符号	pepet
-字之	belas|num
-字之接	belas|num
-字之接尾	belas|num
 字之接尾语	belas|num
-字会	palang merah
 字体	corat-coret
 字体潦	corat-coret
 字体潦草	corat-coret
-字典	bausastera|n,mengamuskan|v
-字员	jurutaip
-字塔	limas|n,piramid
-字塔形	limas|n
-字形	sengkang|v
-字形的	sengkang|v
-字性	palang|n
-字机	mesin taip|n
-字架	beremban,penyaliban|n,regat|v,salib|n
-字架上	penyaliban|n
-字架上钉	penyaliban|n
-字架上钉死	penyaliban|n
-字架上钉死的	penyaliban|n
-字架上钉死的刑	penyaliban|n
-字架上钉死的刑罚	penyaliban|n
-字架光	beremban
-字架光线	beremban
-字母	alfabet|n,bersurat|v,huruf|n,tulisan|n,aa|n,abc|n,abdb,abese|n
-字母的	alias,teta|n
-字母的第	alias,teta|n
-字母的第一	alias
-字母的第一个	alias
-字母的第一个字	alias
-字母的第八	teta|n
-字母的第八字	teta|n
-字母缩	aa|n,abdb,abim,atm,bbnu|n,bi|n,bm,bn
-字母缩拼	abim,jakoa,kementah,kj,mageran,mib,palapes,petronas
-字母缩拼词	abim,jakoa,kementah,kj,mageran,mib,palapes,petronas
-字母缩略	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
-字母缩略词	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
-字母脱	caya|v,dahlah,dak|adv,duk|v,jap|adv,kimak,laman|n,lau|conj
-字母脱落	caya|v,dahlah,dak|adv,duk|v,jap|adv,kimak,laman|n,lau|conj
-字母脱落的	caya|v,dahlah,dak|adv,duk|v,jap|adv,kimak,laman|n,lau|conj
-字母表	abjad|n,alfabet|n,abc|n,abese|n,slomang|n
-字母表的	slomang|n
-字母表的第	slomang|n
-字母表的第二	slomang|n
-字母表的第二个	slomang|n
-字母表的第二个字	slomang|n
-字母表的第二个字母	slomang|n
-字母顺	abjadkan|v,menurut abjad
-字母顺序	abjadkan|v,menurut abjad
-字母顺序排	abjadkan|v
-字母顺序排列	abjadkan|v
-字母顺序的	menurut abjad
+字元	aksara|n
+字典	bausastera|n
+字号	kedai|n
+字母	tulisan|n,huruf|n,bersurat|v,abjad|n
+字母字母表	alfabet|n
+字母表	abjad|n
 字汇	vokabulari
-字法	ortografi|n
-字电	teleprinter
-字电报	teleprinter
-字电报机	teleprinter
-字的	patah|v
-字的单	patah|v
-字的单位	patah|v
-字直	kuda padi|n
-字直译	kuda padi|n
-字直译文	kuda padi|n
-字直译文翻	kuda padi|n
-字直译文翻译	kuda padi|n
-字者	pengeja|n
-字记	banji|n
-字记号	banji|n
+字符	aksara|n
 字译	transliterasi|n
-字路	parapatan,perapatan
 字迹	bekas tangan
 字首	inisial|n
-彗	bintang berekor|n,bintang kotek,komet|n,kotek|n
-彗星	bintang berekor|n,bintang kotek,komet|n,kotek|n
-志	ambisi,bairup,berazam|adj,bercita-cita,jalur gemilang,kolum,komrad|n,lambang|n
-志愿	ambisi,tekad|n,sukarelawan|n
-志愿的	sukarelawan|n
+彗	komet|n,bintang berekor|n,bintang kotek
+彗星	komet|n,bintang berekor|n,bintang kotek
+志	tekad|n,ambisi
+志向	matlamat|n,cita-cita|n
+志工	sukarelawan|n
+志愿	tekad|n,ambisi
 志愿者	sukarelawan|n
-志栏	kolum
-志的	muna
-拗	menguk,bengal,melentur
+志愿者志愿的自愿	sukarelawan|n
+志气	azam|n,cita-cita|n
+拗	menguk,melentur
 拗弯	melentur
-旗	bendera|n,bendera merah|n,ceongsam|n,cogan|n,kain rentang|n,memasang,panji-panji|n,tiang bendera
-旗帜	cogan|n,kain rentang|n
+旗	bendera|n,cogan|n,ceongsam|n,tiang bendera
+旗子	panji-panji|n
+旗帜	cogan|n
+旗帜显著	kain rentang|n
+旗帜显著的	kain rentang|n
+旗标	panji-panji|n
 旗竿	tiang bendera
 旗袍	ceongsam|n
-棗	tamar|n
-汗	keringat|n,peluh|n,air peluh,apak,belengas,berkeringat|v,berpeluh|v,kebah
+棗延伸阅读	tamar|n
+汗	peluh|n,keringat|n,panau|n,air peluh
 汗斑	panau|n
+汗毛	rambut|n
 汗水	air peluh
 汗流	belengas
 汗流浃	belengas
 汗流浃背	belengas
-汗的	apak,ketibas|n
-狗	anjing|n,anjing jantan|n,anjing sokom|n,asu jantan|n,asuk|n,daging anjing|n,kuyuk|n,anak anjing|n
-狗吠	gonggong|v,kengkang,salak|n,dengkung
+汗漫	luas|adj
+汗衫	kemeja|n
+狗	anjing|n,asuk|n,kuyuk|n,asu jantan|n,anjing jantan|n,anjing sokom|n,daging anjing|n,gonggong|v
+狗吠	gonggong|v,salak|n,kengkang,dengkung
 狗吠声	dengkung
-狗症	gila anjing
-狗舍	rumah anjing|n,rumah asu|n
-獗	bermaharajalela
-盗	kleptokrasi|n,lanun|n,pencuri|n,pencurian|n,penyamun|n,perampok,perompak|n,peronda
+狗狗	anjing|n
+狗玩儿的	binatang|n
+狗舍	rumah asu|n,rumah anjing|n
+盗	pencuri|n,songlap|v,pencurian|n
 盗用	songlap|v
 盗窃	pencurian|n
 盗贼	pencuri|n,kleptokrasi|n
 盗贼统	kleptokrasi|n
 盗贼统治	kleptokrasi|n
-穗	keruh,lapih,mayang
-穗状	lapih,mayang
+穗状	lapih
 穗状的	lapih
-穗状花	mayang
-穗的	keruh
-穗花	mayang
-罗	asam jawa|n,borneo,cerewet,croatia,inderaloka|n,kaherah,kahirah,kecubung
-罗勒	lampes|n,ruku-ruku,selasih|n
-罗勒属	lampes|n,selasih|n
-罗勒属植	lampes|n,selasih|n
-罗勒属植物	lampes|n,selasih|n
+罗	rum,pedoman|n,kompas,rembat,ruku-ruku
+罗勒	ruku-ruku
 罗勒属植物名	selasih|n
+罗勒属植物罗勒	lampes|n
 罗嗉	cerewet
 罗嗉的	cerewet
-罗地	croatia,kroasia
-罗地亚	croatia,kroasia
 罗望	asam jawa|n
 罗望子	asam jawa|n
-罗木	kelembak
-罗河	nil,sungai nil
-罗洲	borneo,kucing borneo|n,kucing merah|n,kucing merah borneo|n
-罗洲人	kucing borneo|n,kucing merah|n,kucing merah borneo|n
-罗洲的	kucing borneo|n,kucing merah|n,kucing merah borneo|n
-罗盘	kompas,pedoman|n
-罗网	rembat,racik
-罗花	kecubung
-罗花属	kecubung
-罗花属之	kecubung
-罗花属之植	kecubung
-罗花属之植物	kecubung
-罗马	rum,perumian|n,rumi|adj
-罗马化	rumi|adj,perumian|n
-罗马化天	perumian|n
-罗马化天主	perumian|n
-罗马化天主教	perumian|n
+罗盘	pedoman|n,kompas
+罗网	rembat
+罗马	rum,rumi|adj
+罗马化	rumi|adj
 罗马化天主教化	perumian|n
 罗马的	rumi|adj
-苗	benih|n,zariah,panjang lampai,renceng,semai|v,semaian
+苗	benih|n,zariah,semaian
 苗圃	semaian
 苗条	panjang lampai,renceng
 苗条的	renceng
-著	bernamaan,bumiputera|n,ciptaan,colok mata,gubah,kain rentang|n,karya|n,kesohor
-著作	ciptaan,gubah,karya|n,pencabulan hak cipta|n
-著作权	pencabulan hak cipta|n
-著名	terkenal|adj,bernamaan,kesohor,masyhur|adj,menak,terkemuka
-著名的	bernamaan,kesohor,masyhur|adj,menak,terkemuka
-著的	colok mata,kain rentang|n,mongkok,terkemuka
+著	terkenal|adj,karya|n,ciptaan,gubah
+著作	karya|n,ciptaan,gubah
+著名	terkenal|adj,masyhur|adj,menak,terkemuka,kesohor,bernamaan
+著名的	masyhur|adj,menak,terkemuka,kesohor,bernamaan
 蝗	pelesit
 蝗虫	pelesit
-街	jalan|n,berjaja,lebuh|n,lebuh raya|n,menampan|v,menjaja,rua
+街	jalan|n,menampan|v,rua
 街区	menampan|v
-街叫	berjaja,menjaja
-街叫卖	berjaja,menjaja
 街道	rua
-诗	puisi,sajak,syair,aliterasi,ayat|n,dikir,gaban|adj,pantun|n
+诗	puisi,sajak,syair,penyajak
 诗人	penyajak
-诗文	pantun|n
 诗歌	aliterasi
 诗歌头	aliterasi
 诗歌头韵	aliterasi
-遗	antar,arisan,asiat,dengan|prep,dukacita,hak pusaka,harta pusaka,janda|n
-遗产	arisan,hak pusaka,harta pusaka,pusaka|n,warisan|n
+遗	kecewa|adj,warisan|n,sesalan|n,tinggal|v,lenyap|adj,pusaka|n,janda|n,sesali|v
+遗产	warisan|n,pusaka|n,arisan,hak pusaka,harta pusaka
 遗体	jenazah|n
-遗嘱	asiat,susulan
-遗嘱的	susulan
-遗嘱的附	susulan
+遗嘱	asiat
 遗嘱的附录	susulan
 遗失	lenyap|adj
+遗妻	balu|n
 遗孀	janda|n
 遗弃	tinggalkan
-遗憾	kecewa|adj,kilan,menyesali|v,sesalan|n,sesali|v,terkilan,dengan|prep,dukacita
+遗憾	kecewa|adj,sesalan|n,sesali|v,menyesali|v,dengan|prep,kilan,terkilan,dukacita
 遗憾地	dengan|prep
 遗憾的	dukacita
-遗留	mewariskan,tinggal|v
-遗腹	sampul tian|n
-遗腹子	sampul tian|n
+遗留	tinggal|v,mewariskan
 遗言	asiat
+遗迹	bekas|n
 遗送	antar
-鳗	sirat-sirat,belut|n,toman|n
+鳗	sirat-sirat,belut|n
 鳗鱼	belut|n

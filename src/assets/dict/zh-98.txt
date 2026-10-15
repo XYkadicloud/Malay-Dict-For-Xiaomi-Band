@@ -1,263 +1,161 @@
-卢	ruterfordium|n,hulu langat
-团	bongkah,gumpalan,kepal|v,pukal,pungkah,rejimen|n,rombongan,anggota|n
-团体	geng|n,grup|n,perbadanan,perhimpunan,pertubuhan,syarikat|n,anggota|n
-团体之	anggota|n
-团体之成	anggota|n
+belah四分五裂	berpecah
+bena不理不睬	bena tak
+卢	ruterfordium|n
+团	kepal|v,sekutu|n,grup|n,rejimen|n,perpaduan|n,pukal,pungkah,bongkah
+团体	grup|n,syarikat|n,geng|n,pertubuhan,perhimpunan,perbadanan
 团体之成员	anggota|n
-团团	bergumpal-gumpal,berpual-pual,pual
-团团的	bergumpal-gumpal
-团团转	berpual-pual,pual
-团子	onde-onde
-团的	bergumpal-gumpal,mendora
-团的一	mendora
-团的一种	mendora
-团结	bersatu|v,menyatupadukan,perpaduan|n,sekutu|n,bersatupadu,gembleng,solidarita
-团结一	bersatupadu,gembleng,solidarita
-团结一致	bersatupadu,gembleng,solidarita
-团转	berpual-pual,pual
+团团	pual,berpual-pual
+团团转	pual,berpual-pual
+团结	sekutu|n,perpaduan|n,bersatu|v,menyatupadukan,gembleng,solidarita,bersatupadu
+团结一	gembleng,solidarita,bersatupadu
+团结一致	gembleng,solidarita,bersatupadu
 团长	kolonel
-团食	lontong
-团食品	lontong
-奢	boros,lanja,mubazir|adj
-奢侈	boros,mubazir|adj
-奢侈的	boros,mubazir|adj
-巢	sarang|n,bersarang|v,medok,sambang,sialang,uritan
-巢状	medok
-形	abses|n,adjektif|n,akhdar|adj,aneka ragam,aneliada,anwar,apa hal|adv,araknid|n
-形之	pendaga
-形之衣	pendaga
-形之衣箱	pendaga
-形体	wujud,berbadan
-形动	aneliada
-形动物	aneliada
+团队	tim|n
+奢侈	mubazir|adj,boros
+奢侈的	mubazir|adj,boros
+巢	sarang|n
+巢穴	sarang|n
+形	rupa|n,bentuk|n,jelma|v,kedudukan|n,corak,sosok,wujud,embih
+形体	wujud
+形像	rupa|n
+形制	rupa|n,struktur|n
 形势	kedudukan|n
-形变	saraf
-形变化	saraf
-形容	memerikan,mensifatkan,adjektif|n,kata sifat|n
-形容词	adjektif|n,kata sifat|n
-形容词的	adjektif|n,kata sifat|n
-形就	demikian halnya
-形就是	demikian halnya
-形就是这	demikian halnya
-形就是这样	demikian halnya
-形式	bentuk|n,corak,macam|n,rupa|n,tokoh,akhdar|adj,aneka ragam,anwar
-形形	arna-warni,bermacam-macam,poligon
-形形色	arna-warni,bermacam-macam
+形容	memerikan,mensifatkan
+形容词形容词	adjektif|n,kata sifat|n
+形容词形容词的	adjektif|n,kata sifat|n
+形式	rupa|n,macam|n,corak,tokoh
+形形	bermacam-macam
+形形色	bermacam-macam
 形形色色	bermacam-macam,arna-warni
 形形色色的	arna-warni
-形态	bentuk|n,corak,embih,ideologi|n
-形成	jelma|v,menjelma,abses|n,baheula
-形成脓	abses|n
-形成脓肿	abses|n
-形摆	tombol
-形摆手	tombol
-形柄	limas|n
-形柄勺	limas|n
-形物	panah|n
-形状	embih,rupa|n,sosok
-形病	koronavirus|n
-形病毒	koronavirus|n
-形的	bentuk jantung|adj,bujur|adj,bulat bujur,bulat panjang,buntar,cembung,gerigi|n,ikal
-形的佬	jorong
-形的佬叶	jorong
-形的佬叶盒	jorong
-形的短	petaram
-形的短剑	petaram
-形皮	ketipung
-形皮鼓	ketipung
-形箱	kendaga
-形糯	ketupat|n
-形糯米	ketupat|n
-形糯米粽	ketupat|n
-形纲	araknid|n
-形纲动	araknid|n
-形纲动物	araknid|n
-形色	arna-warni,bermacam-macam
-形色色	arna-warni,bermacam-macam
-形色色的	arna-warni
-形花	biku|n
-形花边	biku|n
-形蚊	singkil
-形蚊帐	singkil
-形蚊帐顶	singkil
-形象	imej|n
-形迹	bakat|n
-形门	combol|n
-形门拉	combol|n
-形门拉手	combol|n
-形鱼	lapun
-形鱼井	lapun
-恢	pemulihan|n,pulih,restorasi|n
-恢复	pemulihan|n,pulih,restorasi|n
-慢	lambat|adj,angkuh,berakah,beringsut,berundan-undan,besar mulut,gonmel,ingsut
+形态	bentuk|n,corak,embih
+形成	jelma|v,menjelma
+形状	rupa|n,sosok,embih
+形胜	strategik|adj
+形色	rupa|n
+形象	rupa|n,rajah|n
+形象代言人	muka|n
+形貌	rupa|n
+形质	rupa|n,struktur|n
+形迹	cara|n,bekas|n
+恢	pemulihan|n,restorasi|n,pulih
+恢复	pemulihan|n,restorasi|n,pulih
+恢宏	luas|adj,babur|n
+恢恢	luas|adj
+慢	lambat|adj,perlahan jalan|n,ligas|n,laun,lagas
 慢不	tegun
 慢不来	tegun
-慢作	lagak
-慢作风	lagak
-慢吞	berundan-undan,undan
-慢吞吞	berundan-undan,undan
-慢吞吞地	berundan-undan,undan
-慢地	gonmel,perlahan|adj,perlahan-lahan|adv
-慢地工	gonmel
-慢地工作	gonmel
+慢吞	undan,berundan-undan
+慢吞吞	undan,berundan-undan
+慢吞吞地	undan,berundan-undan
 慢性	kronik|adj,rangai
 慢性的	kronik|adj,rangai
-慢慢	beringsut,gonmel,ingsut,memancit,pancit|v,perlahan|adj,perlahan-lahan|adv
-慢慢地	perlahan|adj,perlahan-lahan|adv,gonmel
-慢慢地工	gonmel
+慢慢	perlahan-lahan|adv,perlahan|adj,pancit|v,memancit,ingsut,beringsut
+慢慢地	perlahan-lahan|adv,perlahan|adj
 慢慢地工作	gonmel
-慢慢流	memancit,pancit|v
-慢慢流出	memancit,pancit|v
-慢慢移	beringsut,ingsut
-慢慢移动	beringsut,ingsut
-慢流	memancit,pancit|v
-慢流出	memancit,pancit|v
-慢的	laun,perlahan jalan|n,besar mulut,lembam,leput,petentangan,pongah,rangah
-慢移	beringsut,ingsut
-慢移动	beringsut,ingsut
+慢慢流	pancit|v,memancit
+慢慢流出	pancit|v,memancit
+慢慢移	ingsut,beringsut
+慢慢移动	ingsut,beringsut
+慢的	perlahan jalan|n,laun
 慢走	lagas
 慢跑	ligas|n
-拢	bertaut
-换	bersalin|v,pindah,tukar|v,berganti,bergilir,bertransformasi|v,ganti|v,gilir
+慢速	lambat|adj
+换	bersalin|v,tukar|v,pindah,sesaran|n,tukar langkah|n,urup wang,mengurup
 换步	tukar langkah|n
-换气	pengudaraan|n,zon pengudaraan|n
 换物	mengurup
+换算	terjemahan|n
 换置	sesaran|n
 换钱	urup wang
-敢	berani|adj,bergas|adj,gagah berani,komando,lanang,perkasa|adj
 敢死	komando
 敢死队	komando
-敢的	gagah berani,lanang,perkasa|adj
-止	abet|n,bahasa|n,bengkalai,beret,berhenti|v,bilik rehat|n,cegah|v,gaya usul
-止境	lagih
-止境的	lagih
-止境的发	lagih
-止境的发问	lagih
-止少	santung
-止少女	santung
-止少女嫁	santung
-止少女嫁给	santung
-止少女嫁给别	santung
-止少女嫁给别人	santung
-止少女嫁给别人的	santung
-止少女嫁给别人的头	santung
-止少女嫁给别人的头邪	santung
-止少女嫁给别人的头邪术	santung
+既已	telah|adv
+既往	lepas|adj
+止	henti|v
+止境	akhir|adj,had|n
 止步	henti|v
-止的	bilik rehat|n,haram|adj,teduh
-止禁	mutlak|adj
-止禁的	mutlak|adj
-止端	mengabet|v
-止端正	mengabet|v
-波	ombak|n,alun|n,beralun-alun,bergelombang,berhanyut-hanyut,dermaga,gelombang|n,gelombang mikro|n
-波动	beralun-alun,bergelombang,kibar|v
-波堤	dermaga,jeti|n
-波形	ikal,petaram
-波形的	ikal,petaram
-波形的短	petaram
+波	ombak|n,saluran|n,alun|n,gelombang|n,kibar|v,riak,parsi,keriting
+波兰人	galah|n
+波动	kibar|v,bergelombang,beralun-alun
+波形	ikal
+波形的	ikal
 波形的短剑	petaram
 波斯	parsi
+波束	sinar|n
 波浪	alun|n,ombak|n
 波涛	gelombang|n
 波状	parung
 波状剑	parung
-波纹	keriting,riak
-波逐	berhanyut-hanyut
-波逐流	berhanyut-hanyut
+波纹	riak,keriting
 波道	saluran|n
 波长	gelombang|n,jarak gelombang|n
-牢	bersungut-sungut,cengkaman,comel|adj,gerutu,jel,kejat,kerem,lantur
+波长波	jarak gelombang|n
+波长波长	jarak gelombang|n
+牢	comel|adj,jel,lantur,sungutan,cengkaman
 牢固	kejat
 牢固的	kejat
 牢握	cengkaman
+牢牢	erat|adv
 牢狱	jel
-牢的	lekit,terpaku|v
-牢骚	comel|adj,lantur,sungutan,bersungut-sungut,gerutu,mencomel,menggerutu,mengomel
+牢笼	perangkap|n,kurung|n
+牢靠	handal|adj
+牢靠妥当	handal|adj
+牢骚	comel|adj,lantur,sungutan
 瓢	kendi|n
-痢	ceret,ceret darah,cirit,desenteri,mejan
+痢	ceret,cirit,desenteri
 痢疾	ceret,cirit,desenteri
-矢	damak
-绢	besuta,madukara,pangsi,petola|n
-绢织	madukara
-绢织物	madukara
-罢	mogok|v,mogok duduk|n,pemogok|n,pemogokan|n
-罢工	mogok|v,pemogokan|n,mogok duduk|n,pemogok|n
+罢	mogok|v,pemogokan|n
+罢工	mogok|v,pemogokan|n,pemogok|n
 罢工者	pemogok|n
-询	mengusut,serep,soal|v,usut
-询问	mengusut,serep,soal|v,usut
-赢	menang|v,bolot,manfaat|n
+询	soal|v,usut,mengusut,serep
+询问	soal|v,usut,mengusut,serep
+赢	menang|v,manfaat|n,bolot
 赢利	manfaat|n
+赢家	juara|n
 赢得	bolot
-铢	landasan,tong|n
+铢	tong|n,landasan
 铢桶	tong|n
 铢站	landasan
-院	asrama|n,at,biah,biara|n,dekan|n,fakulti|n,hadat,halaman|n
-院外	sekular|adj
-院外的	sekular|adj
-院外的教	sekular|adj
-院外的教士	sekular|adj
+院	halaman|n
+院士	cendekiawan|n
 院子	halaman|n
-院议	senator
-院议员	senator
+院校	maktab|n,akademi|n
 院长	dekan|n
-離	pencil|v
-面	belah|n,lembar,lembaran,sukun|n,ajah,antara muka|n,apung-apung,aras air
-面上	apung-apung,jerewat
+面	belah|n,paras|n,sukun|n,roti|n,paung|n,interviu|n,selubung|n,temu bual|n
+面上	jerewat
 面上小	jerewat
 面上小疮	jerewat
 面会	perjumpaan
-面体	kiub
-面具	kedok|n,keduk,topeng|n
-面包	paung|n,roti|n,roti paun|n,kulur|n,mertabak,pembakar roti|n,pisau paung|n,pisau roti|n
-面包刀	pisau paung|n,pisau roti|n
-面包器	pembakar roti|n
+面具	topeng|n,kedok|n,keduk
+面前	kehadiran|n
+面包	roti|n,paung|n,roti paun|n,kulur|n,pisau roti|n,pisau paung|n,serdak roti|n
+面包刀	pisau roti|n,pisau paung|n
 面包屑	serdak roti|n
 面包果	kulur|n
-面包煎	mertabak
-面包煎蛋	mertabak
 面包煎蛋肉	mertabak
+面向	rupa|n
 面团	pes|n,tampal|v
-面图	pelan|n
-面孔	mengkung
-面孔低	mengkung
-面孔低凹	mengkung
+面子	muka|n,serbuk|n
+面孔	muka|n
 面孔低凹处	mengkung
-面对	berhadapan,menghadap|v,menghadapi,berhadap-hadapan,mendada|v
+面容	rupa|n
+面对	menghadap|v,berhadapan,menghadapi,berhadap-hadapan
 面对面	berhadap-hadapan
 面对面的	berhadap-hadapan
-面幂	merguk
-面幕	kelubung,telekung
-面挤	tekan tubi|n
-面挤凹	tekan tubi|n
-面有	kuatordesilion|num
-面有四	kuatordesilion|num
-面有四十	kuatordesilion|num
-面有四十五	kuatordesilion|num
-面有四十五个	kuatordesilion|num
-面有四十五个零	kuatordesilion|num
-面有四十五个零之	kuatordesilion|num
-面有四十五个零之数	kuatordesilion|num
+面幕	kelubung
+面庞	muka|n
+面影	muka|n
 面条	mi|n
-面的	berhadap-hadapan,bermuka dua|adj,pepet,rata|adj,regan|n,sakal,sembulu
-面的符	pepet
-面的符号	pepet
+面皮	muka|n,pipi|n
 面盆	besen
-面看	panggung|n
-面看台	panggung|n
-面笑	cerah muka
-面笑容	cerah muka
-面粉	tepung|n,onde-onde,sagun
-面粉和	onde-onde
-面粉和椰	onde-onde
-面粉和椰子	onde-onde
-面粉和椰子做	onde-onde
-面粉和椰子做成	onde-onde
-面纱	kerudung,purdah|n,selubung|n,tudung|n,lingkup
-面罩	mistar,selubung|n,berguk
-面覆	jata|n,lamina|n
-面覆盖	jata|n,lamina|n
+面目	rupa|n,kilas|n
+面粉	tepung|n
+面纱	selubung|n,purdah|n,tudung|n,kerudung
+面罩	selubung|n,mistar
 面试	temuduga|n
-面谈	interviu|n,inteviu,temu bual|n,temu duga|n,temuduga|n
+面谈	interviu|n,temu bual|n,temu duga|n,inteviu,temuduga|n
 面貌	paras|n
-面食	pasta|n
-面鼓	kendang
+面部	muka|n
+面镜	topeng|n
+面颊	pipi|n
+面颜	muka|n

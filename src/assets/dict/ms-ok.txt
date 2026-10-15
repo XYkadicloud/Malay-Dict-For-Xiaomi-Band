@@ -1,12 +1,12 @@
-okb	okb	n	词首字母缩略词
+okb	okb	n	词首字母缩略词	initialism of orang kaya baru (“nouveau riche  new money”)
 okey	okey		好	okay (Used to indicate agreement or acceptance)
-okl	okl	n	词首字母缩略词
+okl	okl	n	词首字母缩略词	initialism of orang kaya baru (“nouveau riche  new money”)
 okok	okok		贪心，贪婪
 oksigen	oksigen	n	氧气	oxygen (chemical element)
 oksigenkan	oksigenkan	v	氧合	to oxygenate
 oksihidrogen	oksihidrogen	adj	氢氧的  氧氢	oxyhydrogen (using a mixture of hydrogen and oxygen)
-oksijan	oksijan	n	荒废的
-okt	okt	n	词首字母缩略词
+oksijan	oksijan	n	荒废的	obsolete spelling of oksigen
+okt	okt	n	词首字母缩略词	Initialism of orang kena tuduh (“the accused”).
 oktagon	oktagon	n	多角形	A polygon that has eight sides; octagon.
 oktilion	oktilion	num	千的九次方	octillion
 oktodesilion	oktodesilion	num	& 10#1#0#8	octodecillion (10⁵⁷)

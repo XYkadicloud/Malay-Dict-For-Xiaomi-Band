@@ -1,92 +1,38 @@
-世	abad|n,abad pertengahan,abad tengah,afatdunia,akhirat,alam|n,almukhalis,baka|adj
-世主	almukhalis
+世	alam|n,kurun|n,dunia|n,abad|n,berzaman-zaman|v,johan
+世人	kaum|n
 世代	berzaman-zaman|v
-世俗	sekular|adj
-世俗的	sekular|adj
-世嫉	sinis|adj
-世嫉俗	sinis|adj
-世嫉俗的	sinis|adj
-世界	alam|n,dunia|n,johan,olimpiad|n,pasaran dunia,perang dunia kedua,perang dunia pertama,sedunia
+世伯	paman|n
+世界	alam|n,dunia|n,johan,perang dunia kedua,perang dunia pertama,pasaran dunia
 世界大	perang dunia kedua,perang dunia pertama
 世界大战	perang dunia kedua,perang dunia pertama
 世界市	pasaran dunia
 世界市场	pasaran dunia
-世界运	olimpiad|n
-世界运动	olimpiad|n
-世界运动大	olimpiad|n
-世界运动大会	olimpiad|n
-世纪	abad|n,kurun|n,abad pertengahan,abad tengah,berabad-abad|n,rebab
-世纪之	rebab
-世纪之三	rebab
-世纪之三弦	rebab
-世纪之三弦乐	rebab
-世纪之三弦乐器	rebab
+世纪	kurun|n,abad|n
 世袭	baka|adj,pusaka|n
 世袭的	baka|adj
 世袭遗	pusaka|n
 世袭遗产	pusaka|n
-化	abstraksi|n,adun,agen pengoksidaan|n,asimilasi|n,automasi|n,berpupur,bersosial|v,bersosialisasi|v
+世间	bumi|n
+化	kimia|n,jelma|v,dandan|v,fosil|n,adun,menjelma,pantis,samaran
 化为	cairkan
 化为液	cairkan
 化为液体	cairkan
-化剂	agen pengoksidaan|n
-化动	si|art
-化动物	si|art
-化动物名	si|art
-化动物名前	si|art
-化动物名前之	si|art
-化动物名前之接	si|art
-化动物名前之接头	si|art
-化动物名前之接头词	si|art
-化合	sebatian kimia|n,valens|n,valensi|n
-化合价	valens|n,valensi|n
+化合	sebatian kimia|n
+化合价效价	valensi|n
 化合物	sebatian kimia|n
-化天	perumian|n
-化天主	perumian|n
-化天主教	perumian|n
-化天主教化	perumian|n
-化妆	adun,berpupur,dandan|v,pantis,calak,pupur|n
-化妆品	calak,pupur|n
-化学	ilmu kimia,kimia|n
-化工	budayawan
-化工作	budayawan
-化工作者	budayawan
-化氢	hidrogen klorida|n,hidrogen peroksida|n
-化物	hidroksida|n,karbid
-化的	biadab|adj,birokratik|adj,budaya|n,lahak,popular,vulkanisasi
+化妆	dandan|v,adun,pantis,berpupur,pupur|n,calak
+化妆品	pupur|n,calak
+化学	kimia|n,ilmu kimia
+化日	cahaya matahari|n
 化石	fosil|n
-化碳	karbon dioksida
-化程	menyahserpih|v,nyahserpih|v
-化程序	menyahserpih|v,nyahserpih|v
-化等	petrol|n
-化等處	petrol|n
-化等處理	petrol|n
-化等處理而	petrol|n
-化裂	petrol|n
-化裂解	petrol|n
-化裂解和	petrol|n
-化裂解和烷	petrol|n
-化裂解和烷基	petrol|n
-化裂解和烷基化	petrol|n
-化裂解和烷基化等	petrol|n
-化裂解和烷基化等處	petrol|n
-化裂解和烷基化等處理	petrol|n
-化裂解和烷基化等處理而	petrol|n
-化装	samaran,temasya
-化装游	temasya
-化装游行	temasya
-化装游行盛	temasya
+化装	samaran
 化装游行盛会	temasya
-化论	evolusi|n
 化身	jelma|v,menjelma
-化钠	natrium hidroksida|n
-化锅	kawah peleburan|n
-化锌	zink fosfida|n,zink hidroksida|n,zink klorida|n,zink oksida|n
-咖	duit kopi|n,gulai|n,gulai ayam,gulai daging,gulai ikan,gulai kambing,hampas kopi,kahwa|n
-咖啡	duit kopi|n,kahwa|n,kopi|n,kopi o|n,hampas kopi,kedai kopi|n,kopitiam|n,losmen
-咖啡店	kedai kopi|n,kopitiam|n,losmen
+咖	kopi|n,kahwa|n,kari|n,kopi o|n,duit kopi|n,lauk-pauk
+咖啡	kopi|n,kahwa|n,kopi o|n,duit kopi|n,kopitiam|n,kedai kopi|n,losmen,hampas kopi
+咖啡店	kopitiam|n,kedai kopi|n,losmen
 咖啡渣	hampas kopi
-咖喱	kari|n,lauk-pauk,gulai|n,gulai ayam,gulai daging,gulai ikan,gulai kambing,karipap|n
+咖喱	kari|n,lauk-pauk,gulai|n,karipap|n,gulai daging,gulai ayam,gulai ikan,gulai kambing
 咖喱包	karipap|n
 咖喱汤	gulai|n
 咖喱牛	gulai daging
@@ -95,15 +41,17 @@
 咖喱羊肉	gulai kambing
 咖喱鱼	gulai ikan
 咖喱鸡	gulai ayam
-外	ablasi|n,ahli bedah|n,arakian,asing|adj,aspek|n,babas,bawa untung,belati|n
-外交	diplomat,diplomatik|adj
+咖逼	kopi|n
+外交	diplomatik|adj,diplomat
 外交官	diplomat
+外交手腕	diplomatik|adj
 外交的	diplomatik|adj
 外人	mendonan
-外侧	rubing,timbau|n
-外侧板	rubing,timbau|n
-外国	negeri asing,rantau|n,asing|adj,belati|n,makhluk asing|n,mendonan,musafir,orang asing
-外国人	makhluk asing|n,mendonan,musafir,orang asing,xenofobia|n
+外伤	tuna|n
+外侧	rubing
+外侧板	rubing
+外国	rantau|n,asing|adj,negeri asing,belati|n,makhluk asing|n,mendonan,musafir,orang asing
+外国人	makhluk asing|n,mendonan,musafir,orang asing
 外国制	belati|n
 外国制的	belati|n
 外国的	asing|adj
@@ -112,46 +60,40 @@
 外地	buatan luar negeri
 外地产	buatan luar negeri
 外地产品	buatan luar negeri
-外套	berselimut|v,jata|n,lamina|n,tungkus|v
+外场	masyarakat|n
+外壳	peti|n,sampul|n
+外套	tungkus|v,berselimut|v
+外套外面覆盖	jata|n,lamina|n
+外带	selain|prep
 外形	wujud
-外支	katir|n
-外支架	katir|n
-外旋	ternyata|v
-外来	belati|n,imigrasi,imigresen|n,kata pinjaman|n
+外来	belati|n,imigresen|n,kata pinjaman|n,imigrasi
 外来的	belati|n
-外来移	imigrasi,imigresen|n
-外来移民	imigrasi,imigresen|n
+外来移	imigresen|n,imigrasi
+外来移民	imigresen|n,imigrasi
 外来语	kata pinjaman|n
 外沿	tembereng
 外洋	selebu
-外物	imbuh|n
-外的	khusus|adj,kita orang|pron,sekular|adj,terkecuali
-外的教	sekular|adj
-外的教士	sekular|adj
-外皮	jangat,pelupuk,selupat,ulas|n,kelesek,kelongsong,menguliti,ruyung|n
+外皮	ulas|n,pelupuk,selupat,jangat
 外科	pembedahan|n,ablasi|n,ahli bedah|n
 外科医	ahli bedah|n
 外科医生	ahli bedah|n
+外科学	pembedahan|n
+外科手术	pembedahan|n
 外科的	ablasi|n
-外线	inframerah|n,ultraungu|n
-外线的	inframerah|n,ultraungu|n
 外翻	lengset
-外膜	tuban-tuban
+外衣	rupa|n
 外表	semu
-外观	aspek|n,rupa|n
-外谋	bawa untung
-外谋生	bawa untung
+外观	rupa|n,aspek|n
+外观设计	kilas|n,reka bentuk|n
 外貌	rupa|n
 外阴	pundek|n
-外面	luar|prep,jata|n,lamina|n
-外面覆	jata|n,lamina|n
-外面覆盖	jata|n,lamina|n
-妖	bahadi,kelembai,mambang|n,momok,puaka|n,rukiah,sihir
-妖怪	momok,puaka|n
-妖术	rukiah,sihir
-妖精	kelembai,mambang|n
+外面	luar|prep
+妖	puaka|n,sihir,rukiah,momok,bahadi
+妖怪	puaka|n,momok
+妖术	sihir,rukiah
 妖魅	bahadi
-尖	baji,berjengket,busut jantan,dabus,gerigi|n,hujung|adj,jengket,jentik|n
+尖	mercu|n,hujung|adj,poros|n,puting|n,manara,mancung,baji,dabus
+尖利	tajam|adj
 尖削	mancung,lancip,runcing
 尖削的	lancip,runcing
 尖劈	baji
@@ -161,20 +103,12 @@
 尖声喊叫	jerit|n,pingkau,terpingkau
 尖头	puting|n,loncos
 尖头的	loncos
-尖庙	wilmana|n
-尖弹	jentik|n,menjentik
-尖弹击	jentik|n
-尖形	tirus
-尖的	busut jantan,loncong,pacak,suda|n
-尖的棍	pacak
-尖的棍棒	pacak
-尖的蚁	busut jantan
-尖的蚁冢	busut jantan
+尖尖	tajam|adj
+尖峰	mercu|n
 尖突	luncung
 尖突的	luncung
-尖端	hujung|adj,poros|n,puting|n,jerangkang,lancip
+尖端	hujung|adj,poros|n,puting|n,lancip
 尖端的	lancip
-尖端突	jerangkang
 尖端突出	jerangkang
 尖端突出的	jerangkang
 尖细	loncos
@@ -182,228 +116,71 @@
 尖而	mancung
 尖而高	mancung
 尖而高的	mancung
-尖走	berjengket,jengket,jinjit,menanjak,menjengket
-尖走路	jengket,jinjit
+尖酸	asid|n
 尖铁	sula
 尖铁舂	sula
-尖锐	mersik,nyaring,rancung,runcing
+尖锐	nyaring,rancung,runcing,mersik
 尖锐声	mersik
 尖锐的	nyaring,rancung,runcing
-尖锥	dabus,limas|n
-尖锥形	limas|n
-尖锥形柄	limas|n
+尖锥	dabus
 尖锥形柄勺	limas|n
 尖顶	mercu|n,lonjong
 尖顶的	lonjong
-尖齿	gerigi|n
-尖齿形	gerigi|n
-尖齿形的	gerigi|n
-岖	lekak-lekuk
-岖不	lekak-lekuk
-岖不平	lekak-lekuk
-崖	tebing|n,topes,tubir|n
-怖	menyeramkan,ngeri
-或	at,atau|conj,bangkali,barangkali|adv,baruh|n,bekal|n,belacan|n,bidai
-或丝	dawai
-或书	kelatu
-或书本	kelatu
-或书本打	kelatu
-或书本打头	kelatu
-或产	wiladan
-或产妇	wiladan
-或产妇四	wiladan
-或产妇四五	wiladan
-或产妇四五月	wiladan
-或产妇四五月后	wiladan
-或产妇四五月后清	wiladan
-或产妇四五月后清洗	wiladan
-或产妇四五月后清洗腹	wiladan
-或产妇四五月后清洗腹部	wiladan
-或产妇四五月后清洗腹部之	wiladan
-或产妇四五月后清洗腹部之仪	wiladan
-或产妇四五月后清洗腹部之仪式	wiladan
-或佛	at
-或佛教	at
-或佛教寺	at
-或佛教寺院	at
-或出	membayang|v
-或出现	membayang|v
-或出现在	membayang|v
-或出现在脑	membayang|v
-或出现在脑海	membayang|v
-或出现在脑海里	membayang|v
-或四	pantun|n
-或四句	pantun|n
-或四句体	pantun|n
-或四句体之	pantun|n
-或四句体之马	pantun|n
-或四句体之马来	pantun|n
-或四句体之马来诗	pantun|n
-或四句体之马来诗文	pantun|n
-或填	memakal,pakal|n
-或填塞	memakal,pakal|n
-或填塞船	memakal,pakal|n
-或填塞船缝	memakal,pakal|n
-或处	pakai buang|adj
-或处置	pakai buang|adj
-或处置的	pakai buang|adj
-或妻	duai,ipar|n
-或妻的	duai,ipar|n
-或妻的兄	duai,ipar|n
-或妻的兄弟	duai,ipar|n
-或妻的兄弟姐	duai,ipar|n
-或妻的兄弟姐妹	duai,ipar|n
-或姐	kak|n
-或姐姐	kak|n
-或导	dalang|n
-或导演	dalang|n
-或弯	jenguk
-或弯身	jenguk
-或弯身探	jenguk
-或弯身探望	jenguk
-或指	kudung
-或曾	ibu bapa datuk nenek|n
-或曾祖	ibu bapa datuk nenek|n
-或曾祖母	ibu bapa datuk nenek|n
-或朝	periai
-或朝臣	periai
-或此	guano
-或此种	guano
-或此种肥	guano
+崖	tebing|n
+崖壑	lembah|n
+崖谷	lembah|n
+帖子	utusan|n,ajak|n
 或此种肥料	guano
-或海	baruh|n
-或海的	baruh|n
-或海的低	baruh|n
-或海的低地	baruh|n
 或然	bangkali
 或然也	bangkali
 或然也许	bangkali
-或用	bekal|n
-或用品	bekal|n
-或瞄	rambang
-或瞄准	rambang
-或神	hadrat
-或神前	hadrat
-或禁	mengkalas,mengkalas cuci
-或禁止	mengkalas,mengkalas cuci
-或移	engsot
-或移动	engsot
-或筋	puris
-或老	gelabir,gelambir
-或老人	gelabir,gelambir
-或老人颈	gelabir,gelambir
-或老人颈部	gelabir,gelambir
-或老人颈部下	gelabir,gelambir
-或老人颈部下垂	gelabir,gelambir
-或老人颈部下垂的	gelabir,gelambir
-或老人颈部下垂的皮	gelabir,gelambir
-或老人颈部下垂的皮肉	gelabir,gelambir
-或者	atau|conj,barangkali|adv
-或藤	bidai
-或藤片	bidai
-或藤片编	bidai
-或藤片编成	bidai
-或藤片编成的	bidai
-或藤片编成的帘	bidai
-或虾	belacan|n
-或虾膏	belacan|n
-或表	pupu
-或表兄	pupu
-或表兄弟	pupu
-或表兄弟姐	pupu
-或表兄弟姐妹	pupu
-或许	jangan-jangan,rasanya,kontinjen|n
-或许发	kontinjen|n
+或者	barangkali|adv,atau|conj
+或许	jangan-jangan,rasanya
 或许发生	kontinjen|n
 或许发生的	kontinjen|n
-或贵	nyal
-或贵妇	nyal
-或贵妇的	nyal
-或贵妇的称	nyal
-或贵妇的称号	nyal
-或跳	celat
-或跳远	celat
-或野	sesapan
-或野兽	sesapan
-或野兽喝	sesapan
-或野兽喝水	sesapan
-或野兽喝水之	sesapan
-或野兽喝水之处	sesapan
-或铁	pendongkok
-或铁环	pendongkok
-或马	cemara|n
-或马的	cemara|n
-或马的尾	cemara|n
-或马的尾毛	cemara|n
-或鳏	bujang talan
-或鳏夫	bujang talan
-抖	bergetar,gegar,gelegar,geletar,gementar,gentar|n,getar,gigil|v
-抖动	gelegar,gentar|n,menggetar,pegar|n,retik
+抖	gentar|n,pegar|n,gelegar,retik,keletar,menggetar
+抖动	gentar|n,pegar|n,gelegar,retik,menggetar
 抖战	keletar
-挖	gali|v,korek|v,mencebak,menggali,mengorek,menyodok,cebak,colek|v
+挖	korek|v,gali|v,mencebak,menggali,menyodok,mengorek,colek|v,penggalian|n
 挖出	colek|v,cungkil
 挖取	colek|v
-挖掘	cebak,gorek,keduk,kenjang,penggalian|n
+挖掘	penggalian|n,cebak,gorek,keduk,kenjang
 挖洞	melubangi
-挖苦	menempelak,tempelak,lancap|v
+挖苦	lancap|v,tempelak,menempelak
 挖苦的	lancap|v
-暖	berdiang,berganggang
-栖	amfibia,bertengger,dualam,hinggap|v,reban|n,tenggek|v
-栖动	amfibia,dualam
-栖动物	amfibia,dualam
-栖息	bertengger,hinggap|v,reban|n
-栖息之	reban|n
-栖息之所	reban|n
+栖	hinggap|v,tenggek|v,bertengger
+栖息	hinggap|v,bertengger
+栖息在…上	menghinggapi
 栖止	tenggek|v
-殖	abaimana|n,ayuk-ayutan|n,berbiak,biak,butuh|n,dekolonisasi|n,faraj|n,jajah|v
-殖器	abaimana|n,butuh|n,faraj|n,palat|n,pukas,puki|n
-殖快	peridi
-殖快的	peridi
-殖民	jajah|v,menjajah|v,dekolonisasi|n,jajahan|n,koloni,kolonial,kolonialis,kolonialisme|n
+殖	jajah|v,menjajah|v
+殖利	laba|n,hasil|n
+殖民	jajah|v,menjajah|v,jajahan|n,penjajah|n,penjajahan|n,kolonialisme|n,kolonial,koloni
 殖民主	kolonialisme|n
 殖民主义	kolonialisme|n
-殖民化	dekolonisasi|n,nyahjajah|v,penyahjajahan|n
-殖民地	jajahan|n,koloni,kolonial,kolonialis,terjajah|v
-殖民地主	kolonialis
-殖民地主义	kolonialis
+殖民地	jajahan|n,koloni,kolonial
 殖民地主义者	kolonialis
 殖民地的	kolonial
-殖民统	penjajah|n,penjajahan|n
-殖民统治	penjajahan|n,penjajah|n
+殖民统	penjajahan|n
+殖民统治	penjajahan|n
 殖民统治者	penjajah|n
 殖民者	penjajah|n
-殖神	ayuk-ayutan|n
-準	slanga|n
-準的	slanga|n
-準的用	slanga|n
-準的用詞	slanga|n
 炖	kukus|adj
-猖	bermaharajalela,maharajalela|n
+猖	maharajalela|n,bermaharajalela
 猖狂	maharajalela|n
 猖獗	bermaharajalela
-砖	bata,batu bata|n,batu jubin,batu-bata|n,brikuet|n,darul iman,darul ridzuan,jubin
+砖	bata
 砖块	batu bata|n,batu-bata|n
-编	menjalin,anyam|v,anyaman,bagur,bajet|n,bidai,bukukan,daftarkan
-编入	bajet|n
-编入预	bajet|n
-编入预算	bajet|n
+编	menjalin,edit|v,anyam|v,pengedit|n,menyunting|v,selimpat,gubah,daftarkan
 编写	gubah
-编制	gubah
-编制花	gubah
-编制花环	gubah
+编制花环创作	gubah
 编带	selimpat
-编成	bidai,bukukan,samir
-编成之	samir
-编成之屋	samir
-编成之屋顶	samir
+编成	bukukan
 编成书	bukukan
-编成的	bidai
-编成的帘	bidai
 编排	susunan
-编纂	leksikografi|n,pekamus|n,penyusun kamus|n,perkamusan|n
-编纂者	pekamus|n,penyusun kamus|n
-编织	anyam|v,jalin,menganyam,rajut,anyaman,bagur
-编织品	bagur
+编曲	persediaan|n
+编目	daftar|n
+编码	kanun|n
+编织	anyam|v,rajut,jalin,menganyam,anyaman
 编织物	anyaman
 编结	jalin
 编绞	idas
@@ -412,52 +189,27 @@
 编者的话	lidah pengarang
 编著	menggubah
 编表	daftarkan
-编辑	edit|v,menyunting|v,penyusun,redaksi|n,sidang pengarang
+编辑	edit|v,menyunting|v,redaksi|n,penyusun,sidang pengarang
 编辑者	penyusun
 编辑部	redaksi|n,sidang pengarang
 编边	legu
-编预	bajet|n
-编预算	bajet|n
 肖	kekotaan|adj,imejan|n
 肖像	imejan|n
 脖	leher|n
 脖子	leher|n
-莖	butoh|n
-袖	imam,jurumudi,kutang,lengan|n,pemimpin|n,pesa
-袖衣	kutang
-袖衣著	kutang
-視	mak kau hijau
-視頻	mak kau hijau
-首	kayau|v,aa|n,abdb,abim,adam,adi|n,akuan,anak sulung|n
-首先	adam,anak sulung|n,kaola|pron,kesatu|adj,mengawal,mukadam,mula-mula
+颖悟	cerlang|adj,pandai|adj
+首	kayau|v,kesatu|adj,adi|n,perdana menteri|n,ketua|n,bendahara|n,kaola|pron,ibu negara|n
+首先	kesatu|adj,kaola|pron,anak sulung|n,mengawal,adam,mukadam,mula-mula
 首创	merintis
-首字	aa|n,abdb,abim,atm,bbnu|n,bi|n,bm,bn
-首字母	aa|n,abdb,abim,atm,bbnu|n,bi|n,bm,bn
-首字母缩	aa|n,abdb,abim,atm,bbnu|n,bi|n,bm,bn
-首字母缩拼	abim,jakoa,kementah,kj,mageran,mib,palapes,petronas
-首字母缩拼词	abim,jakoa,kementah,kj,mageran,mib,palapes,petronas
-首字母缩略	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
-首字母缩略词	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
-首字母脱	caya|v,dahlah,dak|adv,duk|v,jap|adv,kimak,laman|n,lau|conj
-首字母脱落	caya|v,dahlah,dak|adv,duk|v,jap|adv,kimak,laman|n,lau|conj
-首字母脱落的	caya|v,dahlah,dak|adv,duk|v,jap|adv,kimak,laman|n,lau|conj
-首席	peguam negara|n,perdana menteri|n
-首席检	peguam negara|n
-首席检察	peguam negara|n
+首席	perdana menteri|n
 首席检察官	peguam negara|n
 首席部	perdana menteri|n
 首席部长	perdana menteri|n
-首府	ibu kata,ibu negara|n
-首相	bendahara|n,perdana menteri|n
+首府	ibu negara|n,ibu kata
+首相	perdana menteri|n,bendahara|n
+首脑	hulu|n,puncak|n
 首要	adi|n
-首都	balik pulau,ibu kata,ibu kota|n,ibu negara|n,ibu negeri|n,sao tome dan principe
-首都圣	sao tome dan principe
-首都圣多	sao tome dan principe
-首都圣多美	sao tome dan principe
+首选	yuran|n
+首都	ibu negara|n,ibu kota|n,ibu negeri|n,balik pulau,ibu kata
 首长	penghulu|n
-首领	imam,ketua|n,perpatih
-首龙	linggi
-首龙骨	linggi
-首龙骨的	linggi
-首龙骨的夹	linggi
-首龙骨的夹板	linggi
+首领	ketua|n,imam,perpatih

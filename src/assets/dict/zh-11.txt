@@ -1,380 +1,238 @@
-下	turun|v,anak buah|n,anting,anugerah|n,aria,asar rendah,asar tinggi,baginda|pron
-下一	berikutnya|adj,di samping,selepas itu|adv
-下一个	berikutnya|adj,di samping,selepas itu|adv
-下一个的	berikutnya|adj,di samping,selepas itu|adv
-下下	golak-galik
-下个	bulan baru,jujuh
+下	turun|v
+下一个下一个	berikutnya|adj,selepas itu|adv,di samping
+下一个下一个的	berikutnya|adj,selepas itu|adv,di samping
+下一次	hadapan|det
+下不来	canggung|adj
+下个	jujuh,bulan baru
 下个不	jujuh
 下个不停	jujuh
 下个月	bulan baru
-下人	sepok|adj
 下令	bertitah
 下决	bertekad
 下决心	bertekad
-下凝	canguk,mencanguk
-下凝望	canguk,mencanguk
-下刺	rujah
-下动	kemut,mengemut,unggit,ungkang-ungkit
-下动荡	unggit,ungkang-ungkit
-下午	petang|n,asar rendah,asar tinggi
-下午三	asar tinggi
-下午三时	asar tinggi
-下午三时左	asar tinggi
+下列	berikutnya|adj
+下列各项	berikutnya|adj
+下午	petang|n
 下午三时左右	asar tinggi
-下午四	asar rendah
-下午四时	asar rendah
-下午四时左	asar rendah
 下午四时左右	asar rendah
-下去	turun padang|v,turun-menurun
-下垂	lelai,luyut,anting,gelabir,gelambir,jumbil,kulai,lampai
-下垂摆	kulai
+下半天	sore|n
+下去	turun padang|v
+下垂	lelai,luyut,lampai,lempai,longlai,anting
 下垂摆动	kulai
 下垂摆动的	kulai
 下垂物	anting
-下垂的	lampai,lempai,longlai,gelabir,gelambir,jumbil
-下垂的皮	gelabir,gelambir,jumbil
-下垂的皮肉	gelabir,gelambir
+下垂的	lampai,lempai,longlai
 下大	hujan lebat|n
 下大雨	hujan lebat|n
-下子	seimbas,sejurus
-下巴	dagu|n,berdagu
-下巴坐	berdagu
-下巴坐着	berdagu
-下弯	melendut
-下弯曲	melendut
-下摇	enjut,mengenjut
-下摇曳	enjut,mengenjut
-下文	konteks|n
-下来	terduduk|v
-下毛	lalam|n
-下毛毛	lalam|n
-下毛毛雨	lalam|n
+下巴	dagu|n
+下巴颏	dagu|n
+下方	bawah|prep
 下沟	mepas
-下流	cabul,carut,cemar,lucah|adj
+下流	cabul,carut,cemar
 下游	hilir|n
-下的	baki,bawahan,gubang,jongkat-jangkit,ketinggalan|n,substandard|adj
-下的切	gubang
-下的切口	gubang
-下端	siring|n
-下端的	siring|n
-下端的外	siring|n
-下端的外皮	siring|n
 下级	bawahan
 下级的	bawahan
-下贱	anugerah|n,hina|adj,hina-dina,hina-hina
-下贱的	hina|adj,hina-dina,anugerah|n,hina-hina
-下起	unggit
-下起伏	unggit
+下贱	hina|adj,hina-dina
+下贱的	hina|adj,hina-dina
 下跌	pelosot,terpelosot
+下边	bawah|prep
 下部	buntut|n
 下锭	labuh|adj
 下降	turun|v
-下面	bawah|prep,kebawah|prep
+下面	bawah|prep
+下颏	dagu|n
 下颚	dagu|n
-下飞	tukik
-下食	hidang
-下食物	hidang
-事	amal,amalan,atas hal itu,bagi perkara itu,basahan|adj,bencana|n,berbual|v,bercerita|v
-事业	feel,usaha|n,amal,kerjaya|n,komited|adj
-事业的	komited|adj
-事中	pak kaduk
-事中之	pak kaduk
-事中之痴	pak kaduk
-事中之痴汉	pak kaduk
-事人	litigan|n
-事件	insiden|n,kejadian|n,peri|n,perihal|n,peristiwa|n,perkara|n,tidak apa,bagi perkara itu
-事会	pantita
+事	hal|n,usaha|n,perkara|n,peristiwa|n,fakta|n,feel,urusan
+事业	usaha|n,feel
+事事	segala|pron
+事件	peri|n,perihal|n,kejadian|n,perkara|n,peristiwa|n,insiden|n,tidak apa
 事体	jelempah
 事体横	jelempah
 事体横陈	jelempah
-事先	mempreviu|v,pratonton|n,previu|n
-事先查	mempreviu|v,pratonton|n,previu|n
-事先查看	mempreviu|v,pratonton|n,previu|n
+事例	contoh|n
+事儿	bisnes|n
+事先	previu|n,mempreviu|v,pratonton|n
+事先查	previu|n,mempreviu|v,pratonton|n
+事先查看	previu|n,mempreviu|v,pratonton|n
+事关	peri|n
 事务	perkara|n,urusan
+事务所	kantor|n
+事务繁忙	sibuk|adj
 事变	peristiwa|n
-事处	ibu pejabat|n,jabatan|n
-事实	fakta|n,pada hakikatnya,sebetulnya
-事实上	pada hakikatnya,sebetulnya
-事情	hal|n,perkara|n,atas hal itu,hal ehwal
-事操	rumit|adj
-事操心	rumit|adj
-事操心的	rumit|adj
-事法	mahkamah tentera|n
-事法庭	mahkamah tentera|n
-事法庭审	mahkamah tentera|n
-事法庭审判	mahkamah tentera|n
-事物	berbual|v,pemboleh ubah|n,semuanya|n
-事的	perarakan tentera|n
-事部	sidang pengurus
+事实	fakta|n,sebetulnya,pada hakikatnya
+事实上	sebetulnya,pada hakikatnya
+事情	hal|n,perkara|n
+事故	kemalangan|n,gawak|v
+事权	murka|v
+事物	benda|n
+事理	logika|n
+事由	fiil|n,jirim|n
+事端	perihal|n
 事项	hal|n
-例	adat|n,amalan,contoh|n,contoh jawapan,contohnya|prep,ibarat,ikutan|n,kebiasaan
+例	contoh|n,misal|n,uswah|n,percontohan|n,komku|n,contohnya|prep,ibarat,sebagai contoh
 例外	pengecualian|n,khusus|adj,terkecuali
+例外字	pengecualian|n
 例外的	khusus|adj,terkecuali
 例如	misalnya|prep,umpamanya
-例子	contoh|n,contohnya|prep,ibarat,misal|n,percontohan|n,sebagai contoh,uswah|n
+例子	contoh|n,misal|n,uswah|n,percontohan|n,contohnya|prep,ibarat,sebagai contoh
 例证	komku|n
-個	mak kau hijau
-個男	mak kau hijau
-個男孩	mak kau hijau
-個男孩打	mak kau hijau
-個男孩打架	mak kau hijau
-個男孩打架互	mak kau hijau
-個男孩打架互罵	mak kau hijau
-個男孩打架互罵的	mak kau hijau
-個男孩打架互罵的視	mak kau hijau
-個男孩打架互罵的視頻	mak kau hijau
-压	hempap,memecit,menggetu,menghempap,menindih,pijit,aniaya|n,barotrauma|n
+压	aniaya|n,pijit,hempap,memecit,menghempap,menggetu,menindih,tindas|v
 压住	menekan
-压倒	pereh
-压倒的	pereh
-压出	hempit,himpit,lesit,perah|v
-压到	terhempap
+压出	perah|v,lesit,hempit,himpit
 压制	paksa|v
-压力	desakan,tekan|v,tekanan
-压器	jangka tekanan
-压性	barotrauma|n
-压性创	barotrauma|n
-压性创伤	barotrauma|n
+压力	tekan|v,tekanan,desakan
 压挤	picit
-压榨	memeras,mengempa,perah|v,peras|v,tindas|v,kilang|n,sengkalan
+压根	sekadar|adv
+压榨	tindas|v,kilang|n,perah|v,peras|v,memeras,mengempa,sengkalan
 压榨机	kilang|n
 压榨板	sengkalan
-压死	tindas|v
 压破	cekah
-压碎	memamar,pamar,lepik,lumat|adj
+压碎	lumat|adj,pamar,memamar,lepik
 压碎声	lepik
 压碎的	lumat|adj
 压缩	pemeluwapan|n,rut
 压舱	tolak bara
 压舱物	tolak bara
-压表	voltameter
 压轧	getu
-压迫	aniaya|n,menganiayai,menindas|v,paksa|v,seksakan,tekan|v,tindas|v,tindasan
-喋	beleter,epeh,leter,mericau
-喋不	beleter,epeh,leter,mericau
-喋不休	beleter,epeh,leter,mericau
-喋不休地	beleter,epeh
-喋不休地说	beleter,epeh
-喋不休地说话	beleter
-喋喋	beleter,epeh,leter,mericau
-喋喋不	beleter,epeh,leter,mericau
-喋喋不休	leter,mericau,beleter,epeh
-喋喋不休地	beleter,epeh
-喋喋不休地说	epeh,beleter
+压迫	aniaya|n,tindas|v,paksa|v,tekan|v,menindas|v,tindihkan,seksakan,menganiayai
+喋喋	leter,mericau
+喋喋不	leter,mericau
+喋喋不休	leter,mericau
+喋喋不休地说	epeh
 喋喋不休地说话	beleter
-國	dam|adj,inggeris
-國的	inggeris
 國際	dam|adj
 國際跳	dam|adj
 國際跳棋	dam|adj
-型	angkang,berjenis-jenis,betung|n,cetakan,gaya rambut|n,kategori|n,kelebut,kerakah
-型帆	kerakah
-型帆船	kerakah
-型斗	selempada
-型斗蚊	selempada
-型模	pembukuan|n
-型模法	pembukuan|n
-型的	betung|n,komputer riba|n,kuda padi|n,laptop|n
-型的竹	betung|n
-型盒	selepi
-型盒子	selepi
-型短	pendawa
-型短剑	pendawa
-型舯	angkang
-型舯舡	angkang
-律	aturan,bioritma|n,disiplin,fardu|n,filipina,hukum|n,hukuman,irama
-律上	fardu|n
-律上的	fardu|n
-律上的义	fardu|n
-律上的义务	fardu|n
-律宾	filipina
+型号	model|n
+型态	rupa|n
+律	loyar|n
+律动	ritma|n
 律师	loyar|n,peguam|n
-律法	mufti|n
-律法典	mufti|n
-律法典学	mufti|n
-律法典学者	mufti|n
-律的	merdu
-斋	aidilfitri,buka puasa,lebaran,puasa|n,rukun islam|n,selamat hari raya|int
-斋功	rukun islam|n
+律师律	peguam|n
+律师律师	peguam|n
+戋戋	kecil|adj
+斋	puasa|n
 斋戒	puasa|n
-斋节	aidilfitri,lebaran,selamat hari raya|int
-斋节快	selamat hari raya|int
-斋节快乐	selamat hari raya|int
-朋	berteman,boifren|n,campur gaul,gelfren|n,habib,handai taulan,kawan|n,konco|n
-朋友	habib,kawan|n,konco|n,rakan|n,rodong,sobat|n,teman|n,berteman
+朋	teman|n,kawan|n,konco|n,rakan|n,sobat|n,rodong,habib
+朋友	teman|n,kawan|n,konco|n,rakan|n,sobat|n,rodong,habib,handai taulan
 朋友们	handai taulan
-朋友态	meminta|v
-朋友态度	meminta|v
-朋友态度对	meminta|v
-朋友态度对待	meminta|v
-朋友态度对待请	meminta|v
-朋友态度对待请求	meminta|v
-枋	secang|n
-栋	setul,turus|n
+栋	turus|n
 栋梁	turus|n
 栋科	setul
 栋科植	setul
 栋科植物	setul
-残	ampas,bengis|adj,brutal|adj,cacat badan,hampas,kebengisan,kebuasa,keganasan|n
+残	sisa|n,kekejaman|n,hampas,tual,puntung,rampung,tunggak,tunggul
 残余	kerapis,koret,reja
 残害	rompong
 残害的	rompong
 残屑	reja
-残干	menunggak,puntung,tual,tunggak
+残干	tual,puntung,tunggak,menunggak
 残废	cacat badan,kompong
 残废的	kompong
-残忍	brutal|adj,zalim|adj
-残忍的	brutal|adj,zalim|adj
-残暴	kebuasa,bengis|adj,kebengisan,lalim,rengus,zalim|adj
-残暴的	bengis|adj,lalim,rengus,zalim|adj
+残忍	zalim|adj,brutal|adj
+残忍的	zalim|adj,brutal|adj
+残暴	zalim|adj,bengis|adj,kebuasa,lalim,rengus,kebengisan
+残暴的	zalim|adj,bengis|adj,lalim,rengus
 残暴行	kebengisan
 残暴行为	kebengisan
-残杀	membunuh|v
+残杀者	pembunuh|n
 残杯	udap-udapan
 残杯冷	udap-udapan
 残杯冷炙	udap-udapan
 残枝	tunggul
-残物	ampas,hampas,sisa|n
-残缺	rampung,kompong,kudung,rompeng,ruit
-残缺不	ruit
+残物	sisa|n,hampas,ampas
+残破	pokah|adj
+残缺	rampung,kudung,kompong,rompeng
 残缺不全	ruit
 残缺不全的	ruit
-残缺的	kompong,kudung,rompeng
+残缺的	kudung,kompong,rompeng
 残酷	kekejaman|n,keganasan|n,kejam|v,lalim
 残酷的	kejam|v,lalim
 残酷行	keganasan|n
 残酷行为	keganasan|n
-洋	agar-agar|n,anak-anakan,bawang|n,berlengah-lengah,cara barat,dansa|n,dian|n,jeladeri|n
-洋作	cara barat
-洋作风	cara barat
+洋	kaleng|n,dian|n,bawang|n,lantin,kojoh,lempah
 洋囡	anak-anakan
 洋囡囡	anak-anakan
 洋娃	orang-orangan
 洋娃娃	orang-orangan
-洋布	kain belacu
-洋洋	berlengah-lengah
-洋洋的	berlengah-lengah
+洋洋	luas|adj
 洋溢	kojoh,lempah
 洋灯	dian|n,lantin
-洋特	mayung
-洋特产	mayung
-洋特产之	mayung
-洋特产之食	mayung
-洋特产之食用	mayung
-洋特产之食用鱼	mayung
-洋的	berlengah-lengah
-洋舞	dansa|n
-洋菜	agar-agar|n
+洋碱	sabun|n
+洋芋	kentang|n
 洋葱	bawang|n
 洋铁	kaleng|n,kaling
 洋铁罐	kaling
-王	baginda|pron,permaisura,raja|n,syah|n,abdi|n,aji|n,astana|n,ayapan
+王	raja|n,syah|n,baginda|pron,bupala|n,permaisura,astana|n,putera|n,titah|n
 王位	singgahsana|n
 王冠	mahkota|n
-王加	nobat
-王加冕	nobat
-王加冕时	nobat
-王加冕时敲	nobat
-王加冕时敲击	nobat
-王加冕时敲击之	nobat
-王加冕时敲击之皮	nobat
-王加冕时敲击之皮鼓	nobat
 王后	suri|n
 王命	titah|n
-王国	darul|n,kedatuan|n,united kingdom
+王国	darul|n,kedatuan|n
 王妃	tuan puteri
-王子	bupala|n,pangeran|n,panmgera,putera|n,raja|n,tengku
-王室	bukit aman,jempana|n,keluarga diraja|n
+王子	raja|n,bupala|n,putera|n,pangeran|n,tengku,panmgera
+王室	jempana|n,keluarga diraja|n,bukit aman
 王宫	astana|n,keraton
-王宮	abdi|n
-王宮僕	abdi|n
-王宮僕人	abdi|n
-王宮僕人穿	abdi|n
-王宮僕人穿的	abdi|n
-王座	peterana,takhta|n
-王或	hadrat
-王或神	hadrat
-王或神前	hadrat
-王族	ayapan,engku,gahara
-王族的	gahara,engku
-王族的尊	engku
+王座	takhta|n,peterana
+王族	gahara
+王族的	gahara
 王族的尊称	engku
-王族赐	ayapan
-王族赐给	ayapan
-王族赐给的	ayapan
-王族赐给的食	ayapan
-王族赐给的食物	ayapan
-王星	neptun
 王牌	terup
 王牌游	terup
 王牌游戏	terup
-王的	santapan
-王的进	santapan
-王的进宴	santapan
 王蟹	mimi
-看	dilangut|v,lihat|v,longok,melihat|v,memandang|v,menengok|v,pandang|v,tengok|v
+看	pandang|v,menengok|v,lihat|v,memandang|v,tengok|v,melihat|v,dilangut|v,sekolah tinggi|n
 看不	bunian|n,ghaib,halimunan
 看不见	bunian|n,ghaib,halimunan
 看不见的	bunian|n,ghaib,halimunan
-看到	celik
-看到的	celik
-看台	panggung|n
 看守	berjaga,keladau,menjaga,menunggui
+看客	penonton|n
+看家	khas|adj
 看得	kelihatan|v
 看得到	kelihatan|v
-看护	asuh|v,mangku,pengasuh,rawat|v,pembela|n
+看护	asuh|v,rawat|v,pengasuh,mangku,pembela|n
 看护者	pembela|n
 看法	buah fikiran,cerapan,hemat
-看的	hensem|adj,jelik,mat skodeng|n
-看的人	mat skodeng|n
-看见	abrit|adj,abung|n,menampak,nampak|v,sekolah tinggi|n
+看见	sekolah tinggi|n,nampak|v,abrit|adj,abung|n,menampak
 看轻	menghinakan
 看顾	bela
-程	acara|n,agenda|n,berangkat|v,gitar tenor|n,jadual waktu,jurutera,kejuruteraan|n,kelui|n
-程学	kejuruteraan|n
-程师	jurutera
-程序	acara|n,mengolah|v,pemasaan|n,pengeditan|n,penjepunan|n,kelui|n,menyahserpih|v,nyahserpih|v
-程度	peringkat,pulik,sedajat
-程步	tatacara|n
-程纲	sukatan
-程纲要	sukatan
-程表	jadual waktu
-笋	rebung|n
-肋	cincang|v,iga rusuk,selangka,tulang rusuk|n
+程	acara|n,mengolah|v,pemasaan|n,pengeditan|n,penjepunan|n,peringkat
+程序	acara|n,mengolah|v,pemasaan|n,pengeditan|n,penjepunan|n
+程度	peringkat
+程式	rupa|n
+肋	tulang rusuk|n,selangka,iga rusuk
 肋条	cincang|v
 肋条肉	cincang|v
-肋骨	iga rusuk,selangka,tulang rusuk|n
-芋	keladi|n,pancang,birah|n,keluna,rami|n,sengkuang|n,talas|n
-芋之	keluna
-芋之一	keluna
-芋之一种	keluna
+肋骨	tulang rusuk|n,selangka,iga rusuk
+芋	keladi|n,pancang,rami|n,sengkuang|n
 芋头	talas|n
-芋根	talas|n
+芋头芋	talas|n
+芋头芋根	talas|n
 芋豆	sengkuang|n
 芋麻	rami|n
-蚋	agas|n,ama,rengit|n,sera
-袋	kandung|n,kantung,beg|n,beg jinjing|n,buntil,dubuk|n,guni|n,kadut
-袋中	sarungkan
+蚋	rengit|n,agas|n,sera,ama
+袋	kandung|n,kantung,beg|n,dubuk|n,kanggaru|n,kocek
 袋子	beg|n,kocek
 袋狼	dubuk|n
-袋的	sumpit|n
-袋的一	sumpit|n
-袋的一种	sumpit|n
 袋鼠	kanggaru|n
-谋	bahal|adj,bawa untung,berontak,bersekongkolan,bersubahat,bida,bunuh|v,cari makan
+谋	bunuh|v,berontak,celaga,cari makan,cari rezeki,mencari hidup,cari untung
 谋利	cari untung
 谋反	berontak
 谋杀	bunuh|v
 谋灰	celaga
-谋生	cari makan,cari rezeki,mencari hidup,bawa untung
+谋生	cari makan,cari rezeki,mencari hidup
+谋略	strategi|n
+谋计	skim|n
 趋	trend|n
 趋势	trend|n
-醋	azijn|n,cuka|n,sarak
-醋的	sarak
-醋的贝	sarak
-钋	polonium|n
-锋	pelopor,penganjur|n,perintis|n,rempuh,tajam|adj
+趋向	trend|n
+醋	cuka|n,azijn|n
+钋钋	polonium|n
+钋钋P	polonium|n
+钋钋Po	polonium|n
+锋	tajam|adj
 锋利	tajam|adj
-開	pencil|v
-鞋	kasut|n,kaus,sepatu|n,buka kasut,capal|n,cerpu,sandal,selipar|n
+鞋	kasut|n,sepatu|n,kaus,tukang kasut
 鞋匠	tukang kasut
+鞋子	sepatu|n
+鞋跟	tumit|n

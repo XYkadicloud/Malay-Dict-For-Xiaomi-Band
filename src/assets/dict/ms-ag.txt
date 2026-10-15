@@ -16,8 +16,7 @@ agensi	agensi	n	代理机构	agency
 agih	agih		分配
 agik	agik	adv	两者择一	alternative spelling of lagi (“again  more”)
 agitasi	agitasi	n	煽动	agitation
-agogo	a go go	n	两者择一
-agogo	agogo	n	摇摆舞的	go-go
+agogo	a go go	n	两者择一	alternative form of agogo (“go-go”)
 agresi	agresi		侵略，侵犯
 agresif	agresif	adj	侵略的	aggressive
 agsa	agsa		独身汉，未婚之青年

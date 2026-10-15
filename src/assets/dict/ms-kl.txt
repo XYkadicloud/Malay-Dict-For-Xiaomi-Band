@@ -1,6 +1,6 @@
-kl	kl		词首字母缩略词
+kl	kl		词首字母缩略词	initialism of Kuala Lumpur: the capital of Malaysia
 klac	klac	n	抓紧	clutch
-klang	klang		两者择一
+klang	klang		两者择一	alternative form of Kelang
 klaring	klaring	adj	两者择一	alternative spelling of kelaring
 klasifikasi	klasifikasi		分类，类别
 klasik	klasik	adj	古典的	classic  classical

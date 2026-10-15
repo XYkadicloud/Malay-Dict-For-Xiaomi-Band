@@ -1,0 +1,76 @@
+trace	bekas|n,jejak|n
+track	jalan|n,jejak|n,denai
+trade secret	rahsia perniagaan|n
+trade union	kongsi|n
+trading	niaga|n
+trading goods that are sold to foreign countries	eksport|n
+tradition	resam|n
+traditional male headgear	tengkolok|n
+traffic	lengang|adj
+traffic light	lampu isyarat|n
+traffic moving pedestrians or vehicles	lalu lintas|n
+traffic signal	lampu isyarat|n
+tragedy	tragedi|n
+tragic	tragik|adj
+trail	denai
+train	tren|n,ketapi|n,kereta api|n,kereta lipan|n
+trainer	pelatih|n,jurulatih|n
+tranquil free from disturbance	tenteram|adj
+tranquility	sejahtera|n
+trans fat	lemak trans|n
+trans woman	bencong|n
+transcript	transkrip|n
+transformation	transformasi|n
+transfusion	transfusi|n
+transitional phase between dry season and wet season	pancaroba|n
+transitive formal active of letak	meletakkan|v
+transitive of tumpu	menumpukan|v
+translation	terjemahan|n,alih bahasa|n
+transliteration	transliterasi|n
+transparent	jernih|adj
+transparent open	telus|adj
+transverse	lintang|adj
+transvestite	bapuk|n,pondan|n
+trap	perangkap|n
+trash	sampah|n
+travel	perjalanan|n
+traveling	cengkerama|n
+tray	talam|n,dulang|n
+treason	derhaka|n,khianat|n
+treatment	layanan|n,rawatan|n
+treatment for healing a physical or mental illness withou	terapi|adj
+trebuchet	manjanik|n
+tredecillion	tredesilion|num
+tree	kayu|n,pohon|n,pokok|n,syajarat|n
+trees	deret|cls
+treeshrew	tupai akar|n,tupai muncung|n
+trembling	gentar|n
+tremor	gempa|n
+trend	trend|n
+trending	sohor kini|adj
+triangle	segi telu|n,segi tiga|n
+tribe	puak|n
+tribunal	mahkamah|n
+tribute	ufti|n
+triceps	jantung tangan|n
+trick	muslihat|n
+tricked	terperdaya|v
+trickery	pilin|n,muslihat|n
+trickster	loki
+trigeminal nerve	saraf trigeminal|n
+trigger	sentil|n
+trigonometry	trigonometri|n
+trilingual	tribahasa|adj
+trillion	trilion|num,setrilion|num
+trinity	triniti|n
+trip	perjalanan|n
+tripped on something stone	tersandung|v
+troops	kawad|n
+tropical american shrub or small tree having huge deeply	papaya
+trousers	celana|n,seluar|n
+truce	gencatan senjata|n
+truck	trak|n
+true	sejati|adj,sungguh|adj
+true indigo	tarum|n
+truly	hak|n,benar|adj
+truthful	jujur|adj

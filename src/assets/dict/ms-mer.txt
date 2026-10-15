@@ -21,8 +21,8 @@ merajuk	merajuk	v	发牢骚，埋怨	to sulk; to pout
 merak	merak	n	孔雀	A peafowl.
 merakam	merakam		录音
 merakap	merakap		十分愚味的，毫无学识的
-merakyat	merakyat	v	传播
-merakyatkan	merakyatkan	v	活跃的
+merakyat	merakyat	v	传播	To be spread amongst the people.
+merakyatkan	merakyatkan	v	活跃的	Active of rakyatkan.
 meralip	meralip		打瞌睡
 meramalkan	meramalkan		预言
 meramas	meramas		搓捏
@@ -31,7 +31,7 @@ merambong	merambong		岛	Pulau Merambong (a shoal in Johor  Malaysia)  formerly 
 merambu	merambu		流浪
 merampas	merampas		抢劫
 merampat	merampat		乱砍
-merampok	merampok	v	打抢
+merampok	merampok	v	打抢	Active of rampok.
 meramu	meramu		采集
 merana	merana		久病
 meranap	meranap		夷平
@@ -73,7 +73,7 @@ mercuapi	mercu api	n	灯塔	lighthouse
 mercun	mercun	n	爆竹，鞭爆，烟花，炮仗	firecracker
 mercutanda	mercu tanda	n	陆标	landmark (notable feature of a location)
 merdaka	merdaka	n	拼错	misspelling of merdeka
-merdeheka	merdeheka	adj	两者择一
+merdeheka	merdeheka	adj	两者择一	alternative form of merdeka (“free; independent”)
 merdeka	merdeka	adj	自由，独立，解放的	free (not imprisoned or enslaved)
 merdu	merdu		和谐的，悦耳的，合旋律的
 merebahkan	merebahkan		推倒
@@ -81,10 +81,10 @@ merebak	merebak		散布，扩张，传染
 merebus	merebus		煮
 merebut	merebut		抢，夺取
 merecik	merecik		溅，泼
-mereformasi	mereformasi	v	活跃的
+mereformasi	mereformasi	v	活跃的	Active of reformasi.
 meregangkan	meregangkan		拉紧
-meregas	meregas	v	活跃的
-meregat	meregat	v	活跃的
+meregas	meregas	v	活跃的	Active of regas.
+meregat	meregat	v	活跃的	Active of regat.
 merehatkan	merehatkan	v	休息	To rest something.
 merejah	merejah		冲，闯
 merejam	merejam		投石
@@ -106,7 +106,7 @@ merentang	merentang		伸展
 merentap	merentap		用力拉
 merentas	merentas		横过
 merenung	merenung	v	瞪视	to stare; to gaze; to look intently.			menatap,memerhati
-merenungi	merenungi	v	活跃的
+merenungi	merenungi	v	活跃的	active of renung (“to ponder  to contemplate  to reflect on”)
 merenungkan	merenungkan		深思
 merenyam	merenyam		痒，奇痒的
 merepek	merepek		唠叨
@@ -142,7 +142,7 @@ merogoh	merogoh		摸，掏
 merogol	merogol		强奸
 merojol	merojol		探出
 merokok	merokok	v	吸烟	to smoke
-merompak	merompak	v	抢劫
+merompak	merompak	v	抢劫	Active of rompak (“to rob”).
 meronda	meronda		巡逻
 merongkok	merongkok		弯腰曲背
 meronta	meronta		挣扎
@@ -161,7 +161,7 @@ merundingkan	merundingkan		谈论，谈判
 merunduk	merunduk		低垂
 merundung	merundung		打扰
 merunggai	merunggai	n	辣木属	moringa  drumstick  horseradish tree
-merungut	merungut	v	不高兴，生气；发牢骚
+merungut	merungut	v	不高兴，生气；发牢骚	active of rungut.; to complain; to grumble
 merunjung	merunjung		刺入，插
 merunsing	merunsing		脾气暴躁
 meruntuhkan	meruntuhkan		摧毁
@@ -170,4 +170,4 @@ merunut	merunut	v	正式的	Formal active of runut.
 merunuti	merunuti	v	正式的	Formal active of runuti.
 merupakan	merupakan	v	表现	to represent  take the form of  to be
 merus	merus		山崩，地崩	See Meros.
-merusuk	merusuk	v	沿边
+merusuk	merusuk	v	沿边	active of rusuk (“to stab (in the flank)”); to move towards or into something (from the side)

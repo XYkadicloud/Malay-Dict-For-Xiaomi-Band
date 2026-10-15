@@ -25,7 +25,7 @@ rolis	rolis		点名
 roman	roman	n	相貌，容貌；爱情小说	a novel  story written in long prose
 romantik	romantik		浪漫的
 romba	romba		警标，记号
-rombak	rombak	v	解结，拆掉
+rombak	rombak	v	解结，拆掉	to be demolished  dismantled; to re-arrange; reorganise; revise; revamp something
 rombeng	rombeng		褴褛的
 rombong	rombong		一堆，堆积
 rombongan	rombongan		团，组
@@ -64,7 +64,7 @@ rosak	rosak	adj	损坏，毁坏的	out of order  damaged
 rosakhati	rosak hati		伤心，心碎了
 rosot	rosot		滑溜，减退，降低
 rotan	rotan	n	藤	rattan (any of several species of climbing palm of the genus Calamus)
-rotcai	rotcai	n	两者择一
+rotcai	rotcai	n	两者择一	alternative form of roti canai.
 roti	roti	n	面包	bread (baked dough made from cereals)
 roticanai	roti canai	n	印度煎饼	roti canai
 rotijohn	roti john	n	<法>烤肉	roti john

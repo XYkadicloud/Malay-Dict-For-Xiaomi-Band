@@ -1,76 +1,37 @@
-个	aksara|n,alias,antena seantero,berempat-empat,berempatan,beret,berikutnya|adj,berminggu-minggu
-个一	berempatan,bertiga
-个一起	bertiga
-个一齐	berempatan
-个不	beret,jujuh
-个不停	beret,jujuh
-个两	dua-dua
-个两个	dua-dua
-个两个地	dua-dua
-个人	individu|n,ulat arkitek|n,individualis|n,individualisme|n,peribadi|adj,perseorangan,pribadi,tinggi diri|adj
-个人主	individualis|n,individualisme|n,tinggi diri|adj
-个人主义	individualisme|n,individualis|n,tinggi diri|adj
+个人	individu|n,peribadi|adj,ulat arkitek|n,pribadi,individualisme|n,perseorangan
+个人主	individualisme|n
+个人主义	individualisme|n,tinggi diri|adj
 个人主义的	tinggi diri|adj
 个人主义者	individualis|n
-个人的	peribadi|adj,perseorangan,pribadi
+个人的	peribadi|adj,pribadi,perseorangan
+个体	individu|n
 个别	tuto tuds|n
 个别指	tuto tuds|n
 个别指导	tuto tuds|n
-个四	berempat-empat
-个四个	berempat-empat
-个四个地	berempat-empat
-个地	berempat-empat,dua-dua
-个字	alias,slomang|n
-个字母	slomang|n
-个性	aksara|n,individualiti|n,keperibadian,pribadi,watak|n
-个星	berminggu-minggu
-个星期	berminggu-minggu
-个月	bulan baru,bulan sudah,bulan yang lalu
-个理	fasal itu
-个理由	fasal itu
-个的	berikutnya|adj,di samping,selepas itu|adv,tupai terbang|n
-个零	kuatordesilion|num
-个零之	kuatordesilion|num
-个零之数	kuatordesilion|num
-伪	cangkuk|n,cangkukan,farisi|n,hipokrit|n,kamuflag|n,karut,menyamarkan,munafik|n
-伪君	farisi|n,hipokrit|n,munafik|n
-伪君子	farisi|n,hipokrit|n,munafik|n
-伪的	cangkuk|n,cangkukan,karut
-伪装	kamuflag|n,menyamarkan,samaran,senjata|n
+个子	susuk|n
+个性	aksara|n,watak|n,individualiti|n,pribadi,keperibadian
+个股	bahagian|n
+伪	senjata|n,kamuflag|n,samaran,menyamarkan
+伪劣	palsu|adj
+伪君	farisi|n,munafik|n,hipokrit|n
+伪君子	farisi|n,munafik|n,hipokrit|n
+伪装	senjata|n,kamuflag|n,samaran,menyamarkan
 伪造	cangkuk|n,cangkukan
 伪造的	cangkuk|n,cangkukan
-努	ainu,berikhtiar,berusaha,lasah,usaha|n
-努人	ainu
-努力	berikhtiar,berusaha,lasah,usaha|n
-匪	penculik
-咪	mengiau,ngiau
-咪叫	mengiau
-咪咪	mengiau,ngiau
+努	usaha|n,berusaha,lasah,berikhtiar
+努力	usaha|n,berusaha,lasah,berikhtiar
+咪咪	ngiau,mengiau
 咪咪叫	mengiau
 咪咪地	ngiau
 咪咪地叫	ngiau
-咪地	ngiau
-咪地叫	ngiau
-堪	lunyai
-太	angkasa lepas,angkasa luar,angkasawan|n,bagal,berjemur,cahaya matahari|n,damai,gundik
-太人	yahudi
+太公	baba|n,aki|n
 太古	sedekala
-太复	zionis|n,zionisme|n
-太复国	zionis|n,zionisme|n
-太复国主	zionis|n,zionisme|n
-太复国主义	zionis|n,zionisme|n
-太复国主义者	zionis|n
-太复国主义者的	zionis|n
-太大	bagal,longgar,mak kau hijau
-太大的	bagal,longgar,mak kau hijau
-太大的實	mak kau hijau
-太大的實際	mak kau hijau
-太大的實際含	mak kau hijau
-太大的實際含義	mak kau hijau
-太太	isteri|n,nyi,nyonya|n,gundik
-太子	panmgera,putera|n,raha muda,raja|n,tengku mahkota
-太平	damai,lautan pasifik,lautan teduh
-太平洋	lautan pasifik,lautan teduh
+太大	longgar,bagal
+太大的	longgar,bagal
+太太	isteri|n,nyonya|n,nyi
+太子	raja|n,putera|n,panmgera,raha muda,tengku mahkota
+太平	damai,lautan teduh,lautan pasifik
+太平洋	lautan teduh,lautan pasifik
 太平的	damai
 太热	ronyoh
 太热的	ronyoh
@@ -79,277 +40,199 @@
 太监	sida-sida
 太短	singkat|adj,senting
 太短的	senting
-太空	angkasa lepas,angkasa luar,angkasawan|n
+太空	angkasa luar,angkasa lepas,angkasawan|n
 太空人	angkasawan|n
-太迟	suntuk,terlambat
-太阳	hujan panas|n,matahari|n,suria|n,syamsi|n,syamsu|n,berjemur,cahaya matahari|n,kamariah
-太阳光	cahaya matahari|n,nur|n
+太虚	syurga|n
+太过	pun|adv
+太迟	terlambat,suntuk
+太阳	matahari|n,suria|n,syamsi|n,nur|n,syamsu|n,hujan panas|n,cahaya matahari|n,kelicap|n
+太阳光	nur|n,cahaya matahari|n
 太阳年	kamariah
 太阳穴	pelipis
+太阳窝	kuil|n
 太阳鸟	kelicap|n
-宪	carta|n,dasar negeri,perlembagaan|n,piagam|n
-宪法	carta|n,perlembagaan|n,dasar negeri
+宪	carta|n,piagam|n,perlembagaan|n
+宪法	carta|n,perlembagaan|n
 宪章	piagam|n
-循	edaran,mendaur-ulang
-循环	edaran,mendaur-ulang
-怪	ajaib|adj,aneh|adj,budaya songsang|n,buruk|adj,cepat tangan,gila bahasa,menyalahkan,momok
+循	edaran
+循环	edaran
+怪	budaya songsang|n
 怪人	budaya songsang|n
-怪癖	cepat tangan,gila bahasa,sasar|adj
-怪癖的	gila bahasa,sasar|adj
-怪的	ajaib|adj,rempang,sentakan|n
-怪的人	sentakan|n
-截	memutuskan,punggal,puntung,tangkap layar|n
-截图	tangkap layar|n
+怪异	aneh|adj
+怪癖	sasar|adj,gila bahasa
+怪癖的	sasar|adj,gila bahasa
+怪秘	aneh|adj
+截	punggal,memutuskan
 截断	memutuskan
 截短	punggal,puntung
 截短的	puntung
 挪	norway
 挪威	norway
-措	mangut
+措举	tatacara|n
+措施	tatacara|n
 搪	enamel
 搪瓷	enamel
-未	agsa,anak dara,andartu|n,ayam dara,bakal|n,bakal isteri,bangkang,basah lembab
-未加	mentah|adj
-未加精	mentah|adj
 未加精制	mentah|adj
 未加精制的	mentah|adj
-未婚	agsa,anak dara,andartu|n,bakal isteri,bujang|n,jejaka,lajang,tunangan
-未婚之	agsa
-未婚之青	agsa
+未婚	bujang|n,andartu|n,lajang,tunangan,anak dara,bakal isteri
 未婚之青年	agsa
 未婚夫	tunangan
 未婚女	andartu|n
 未婚女人	andartu|n
-未婚妻	bakal isteri,tunangan
+未婚妻	tunangan,bakal isteri
 未婚少	anak dara
 未婚少女	anak dara
-未婚男	bujang|n,jejaka,lajang
+未婚男	bujang|n,lajang
 未婚男人	lajang
 未婚男女	bujang|n
-未婚男青	jejaka
 未婚男青年	jejaka
 未完	bangkang
 未完成	bangkang
-未干	basah lembab
-未干透	basah lembab
-未干透的	basah lembab
 未开	biadab|adj
 未开化	biadab|adj
 未开化的	biadab|adj
-未成	bawah umur,kebabal|n,koment,muda|adj
+未成	muda|adj,koment,bawah umur
 未成年	bawah umur
-未成熟	kebabal|n,koment,muda|adj
-未成熟果	kebabal|n
+未成熟	muda|adj,koment
 未成熟果实	kebabal|n
-未成熟的	koment,muda|adj
-未断	kutai
+未成熟的	muda|adj,koment
 未曾	belum pernah
-未来	masa depan|n,bakal|n,hadapan|det
-未来的	bakal|n,hadapan|det
+未来	masa depan|n,hadapan|det,bakal|n
+未来的	hadapan|det,bakal|n
 未煮	mentah|adj
-未熟	jerkat,tengkaluk
-未熟的	jerkat
-未熟的槟	jerkat
 未熟的槟榔	jerkat
-未熟而	tengkaluk
-未熟而可	tengkaluk
-未熟而可食	tengkaluk
-未熟而可食之	tengkaluk
-未熟而可食之果	tengkaluk
 未熟而可食之果实	tengkaluk
-未生	ayam dara
-未生蛋	ayam dara
-未生蛋的	ayam dara
-未生蛋的雌	ayam dara
 未生蛋的雌鸡	ayam dara
+未经	tanpa|prep
 未预	malang tidak berbau|n
 未预料	malang tidak berbau|n
 未预料的	malang tidak berbau|n
-枪	bedil,lembing|n,das,empat puluh lima|num,hormat senjata|n,kabal,laras|n,mesingan|n
-枪不	kabal,pelias,wutuh
-枪不人	wutuh
-枪不人的	wutuh
-枪不入	kabal,pelias
-枪不入的	kabal
-枪声	das,tus
-枪弹	mimis,peluru|n
-枪的	tela,temin
-枪的药	tela
-枪的药池	tela
-枪的铁	temin
-枪的铁圈	temin
-枪立	turun senjata|n
-枪立正	turun senjata|n
-枪立正的	turun senjata|n
-枪立正的姿	turun senjata|n
-枪立正的姿势	turun senjata|n
+枪	lembing|n,bedil,laras|n,peluru|n,das,mimis
+枪声	das
+枪声西班牙语.图斯	tus
+枪子	peluru|n
+枪弹	peluru|n,mimis
 枪筒	laras|n
-枪致	hormat senjata|n
-枪致敬	hormat senjata|n
-株	babit,menunggak,tual,tunggak,wikang|n
+株	tual
 株干	tual
-株式	wikang|n
-株式会	wikang|n
-株式会社	wikang|n
-株式会社远	wikang|n
-株式会社远藤	wikang|n
-株式会社远藤公	wikang|n
-株式会社远藤公司	wikang|n
+株式会社	sendirian berhad|n
 株连	babit
 株连他	babit
 株连他人	babit
-横	absisa|n,balut rokok,baring|v,beremban,bergelempangan,bergelimpangan,berkaparan,bungkang
+横	palang|n,sengkang|v,baring|v,rasuk|v,lintang|adj,maharajalela|n,persilangan|n,gelegar
 横切	kelar
-横卧	baring|v,bergelempangan,bergelimpangan,bungkang,gelimpang,lantar
-横地	sewenang-wenang,wenang
-横坐	absisa|n
-横坐标	absisa|n
+横卧	baring|v,lantar,bungkang,gelimpang,bergelimpangan,bergelempangan
+横坐标横坐标	absisa|n
 横堵	tekang
 横支	kalang alas
 横支木	kalang alas
 横断	rintas
-横木	balut rokok,palang|n,sengkang|v,pabuan
+横是	agaknya|adv
+横木	palang|n,sengkang|v
 横栓	selarak
 横桁	gelegar
-横梁	beremban,rasuk|v,tekang
+横梁	rasuk|v,tekang,beremban
+横直	apa-apa|pron
 横线	mistar
-横置	jelempah
 横蛮	perusa
 横蛮的	perusa
-横行	maharajalela|n,memeper,peper
+横行	maharajalela|n,peper,memeper
 横衍	balut rokok
 横越	persilangan|n
-横躺	superman|n
-横躺的	superman|n
 横过	merentas
-横阵	bergelimpangan,gelimpang
+横阵	gelimpang,bergelimpangan
 横阻	lintang|adj,melintangi
-横陈	gelempang,kapar,berkaparan,jelempah
+横陈	kapar,gelempang
 横隔	diafragma
 横隔膜	diafragma
-氪	kripton|n
-洪	air bah|n,bah|n,banjir|n,keairan|adj
-洪水	air bah|n,bah|n,banjir|n,keairan|adj
-洪水浸	keairan|adj
+氪氪	kripton|n
+氪氪K	kripton|n
+氪氪Kr	kripton|n
+洪	bah|n,banjir|n,air bah|n
+洪水	bah|n,banjir|n,air bah|n
 洪水浸没	keairan|adj
 洪水浸没的	keairan|adj
+洪涝	bah|n
+洪灾	bah|n
 溪	paluh
-爪	cakar|n,ahana,ari|n,bercalar,ejaan jawi,gambuh,gamelan|n,jawa
-爪哇	jawa,ahana,ari|n,gambuh,gamelan|n,kawi,misa|n,pendawa
+溪壑	lembah|n
+溪径	cara|n,saluran|n
+溪谷	lembah|n
+爪	kakitangan|n,cakar|n,jawa,luku
+爪哇	jawa,ari|n,gamelan|n,ahana
 爪哇乐	gamelan|n
 爪哇乐队	gamelan|n
-爪哇型	pendawa
-爪哇型短	pendawa
 爪哇型短剑	pendawa
-爪哇官	misa|n
-爪哇官衔	misa|n
-爪哇官衔名	misa|n
 爪哇戏	ahana
 爪哇戏剧	ahana
 爪哇的	ari|n,jawa
-爪哇舞	wiring
-爪哇舞蹈	wiring
 爪哇舞蹈名	wiring
-爪哇语	kawi
-爪哇贵	rangga
-爪哇贵族	rangga
-爪哇贵族的	rangga
-爪哇贵族的称	rangga
 爪哇贵族的称号	rangga
-爪哇马	gambuh
-爪哇马都	gambuh
-爪哇马都拉	gambuh
-爪哇马都拉战	gambuh
-爪哇马都拉战争	gambuh
+爪哇野牛(产于南亚和东南亚	banteng|n
 爪哇马都拉战争舞	gambuh
 爪威	ejaan jawi,tulisan jawi
-爪威文	ejaan jawi,tulisan jawi
+爪威文	tulisan jawi,ejaan jawi
+爪威文法	ejaan jawi
 爪抓	luku
 爪牙	kakitangan|n
-爪痕	bercalar
-猪	babi|n,kambing batu|n,babi hutan|n,babi rusa|n,landak|n,moyong,muncung,nangoi
+猪	kambing batu|n,muncung,sampil
 猪笼	moyong
 猪笼草	moyong
 猪腿	sampil
 猪鼻	muncung
-瞪	kasima,langah,longong,menganga,merenung|v
-瞪口	langah,longong,menganga
-瞪口呆	langah,longong,menganga
-瞪目	kasima
-瞪目呆	kasima
+瞪	merenung|v
 瞪视	merenung|v
-粪	guano
-纪	abad|n,abad pertengahan,abad tengah,adik perempuan|n,bapa cik|n,batu piagam,bawat|adj,berabad-abad|n
-纪之	rebab
-纪之三	rebab
-纪之三弦	rebab
-纪之三弦乐	rebab
-纪之三弦乐器	rebab
-纪人	makelar,peraih,tengkulak
-纪元	tahun masihi|n
+纪	disiplin,memperingati
 纪律	disiplin
-纪念	memperingati,batu piagam,cenderamata|n,jubli,kenang-kenangan,tugu|n,ulang tahun|n
+纪念	tugu|n,memperingati,cenderamata|n,kenang-kenangan,batu piagam
 纪念品	cenderamata|n,kenang-kenangan
-纪念碑	batu piagam,tugu|n
-纪最	bapa cik|n
-纪最小	bapa cik|n
-纪最小的	bapa cik|n
-纪最小的人	bapa cik|n
-纪较	adik perempuan|n,yayi|n
-纪较小	adik perempuan|n,yayi|n
-纪较小者	adik perempuan|n,yayi|n
-肪	debab|adj,kebayakan,lemak|n,lemak trans|n,tambun|adj
-肪酸	lemak trans|n
-航	babas,belayar,empar,empul,hilir|n,malim,memeper,meniti|v
+纪念碑	tugu|n,batu piagam
+缪巧	skim|n,pelan|n
+航	syarikat penerbangan|n,pelayaran,malim,belayar
 航业	pelayaran
+航司	syarikat penerbangan|n
+航图	carta|n
 航海	pelayaran
 航程	pelayaran
-航线	syarikat penerbangan|n,empar,memeper,peper
+航空公司	syarikat penerbangan|n
+航站	pelabuhan|n,lapangan terbang|n
+航线	syarikat penerbangan|n
 航者	malim
-航行	belayar,meniti|v,empul,hilir|n
-航行于	meniti|v
-航路	babas,rempat
-航路外	babas
-莪	damansara,kepurun,rumbia|n,sagu|n,selangor,serampin,uba
-莪州	damansara,selangor
-莪树	rumbia|n
-莪的	serampin
-莪的席	serampin
-莪粉	uba
-莪粉之	uba
-莪粉之大	uba
-莪粉之大桶	uba
-莪羹	kepurun
-薪	gaji buta|n,gaji pokok,makan gaji,musara,separuh masa|n,ujrah|n
-薪工	makan gaji
-薪工作	makan gaji
-薪水	gaji buta|n,musara,ujrah|n
-蚪	berudu|n,gerundang
-褪	luntur,lusuh,pudar
-褪色	luntur,lusuh,pudar
-褪色的	luntur,lusuh,pudar
-讪	kongkalikung
-贪	bakhil,dahagi,gelojoh|adj,haloba,hina-hina,kaki tidur|n,lahap,loba
-贪吃	pajuh,rakus|adj
-贪吃的	pajuh,rakus|adj
-贪婪	haloba,meliak,ogok,okok,loba,sekut,tamak|adj
-贪婪的	loba,sekut,tamak|adj
-贪心	haloba,ogok,okok,bakhil,dahagi,serakah
-贪心的	bakhil,dahagi,serakah
+航行	belayar
+航行航行于	meniti|v
+薪	musara
+薪俸	gaji|n
+薪水	musara
+薪水给...加薪	gaji buta|n
+薪水近义词	ujrah|n
+薪给	gaji|n,pendapatan|n
+薪资	gaji|n
+薪酬	gaji|n,pahala|n
+薪金	gaji|n,pendapatan|n
+褪色	lusuh,pudar,luntur
+褪色的	lusuh,pudar,luntur
+贪	rasuah|n,syahwat|n,meliak,ogok,okok,haloba,lahap
+贪吃	rakus|adj,pajuh
+贪吃的	rakus|adj,pajuh
+贪婪	meliak,tamak|adj,ogok,okok,haloba,sekut,loba
+贪婪的	tamak|adj,sekut,loba
+贪心	ogok,okok,haloba,dahagi,bakhil,serakah
+贪心的	dahagi,bakhil,serakah
 贪欲	syahwat|n,dahagi
 贪欲的	dahagi
 贪污	rasuah|n
 贪睡	kaki tidur|n
 贪睡者	kaki tidur|n
-贪贱	hina-hina
-贪贱的	hina-hina
-贪食	lahap,gelojoh|adj
+贪食	gelojoh|adj,lahap
 贪食的	gelojoh|adj
-踪	kehilangan|n
-邪	berniat jahat|adj,durjana|n,jahat|adj,kejahatan|n,rasuk|v,santung,selesema,sihir
-邪恶	jahat|adj,kejahatan|n,berniat jahat|adj,durjana|n
-邪恶的	durjana|n,berniat jahat|adj
-邪感	selesema
-邪感冒	selesema
-邪术	sihir,santung,tumbal
-钪	skandium|n
+踪影	bekas|n,kehadiran|n
+踪迹	bekas|n
+邪	jahat|adj,kejahatan|n,sihir
+邪乎	mantul|adj
+邪恶	jahat|adj,kejahatan|n,durjana|n
+邪恶的	durjana|n
+邪术	sihir
+邪门	aneh|adj
+钪钪	skandium|n
+钪钪S	skandium|n
+钪钪Sc	skandium|n

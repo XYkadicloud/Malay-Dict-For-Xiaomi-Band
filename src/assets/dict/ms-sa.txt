@@ -1,4 +1,4 @@
-sa	sa	num	荒废的
+sa	sa	num	荒废的	obsolete spelling of se
 saabien	saabien	n		Sabians (an unknown religious group mentioned in the Qur'an)
 saat	saat	n	秒 瞬间	second (unit of time)
 saatini	saat ini		此时，现在
@@ -46,7 +46,7 @@ safir	safir		旅人，旅客
 saga	saga	n	相思豆	jequirity (Abrus precatorius)
 sagai	sagai		镜鱼，竹夹鱼
 sagang	sagang		倾斜的，斜的
-sagar	sagar	n	糖，糖块
+sagar	sagar	n	糖，糖块	alternative form of sakar
 sagu	sagu	n	沙莪，沙谷米，西米	sago (a powdered starch obtained from certain palms used as a food thickener)
 saguhati	saguhati		安慰奖
 sagun	sagun		用面粉，椰，炒成的菜
@@ -66,7 +66,7 @@ sahut	sahut	v	回答	to answer; to reply; to respond (to a call  question  or gr
 said	said		出生于星期五的男孩之名	v express in words\nv report or maintain\nv express a sup…
 saidina	saidina		主人
 saido	saido		主，神主
-saikoloji	saikoloji	n	荒废的
+saikoloji	saikoloji	n	荒废的	obsolete form of psikologi
 sailan	sailan		锡兰	Ceylon (former name of Sri Lanka: an island country in South Asia)
 sains	sains	n	科学	science
 sainskomputer	sains komputer	n	计算机科学	computer science
@@ -76,7 +76,7 @@ sair	sair		地狱火
 sairah	sairah		传记
 sais	sais	n	司机	chauffeur  driver
 saiz	saiz	n	尺寸，大小	size
-saja	saja	adv	两者择一
+saja	saja	adv	两者择一	alternative form of sahaja
 sajak	sajak		韵文，诗
 saji	saji	n	食品，贡献	serving
 sajian	sajian	n	大盘子	dish; serving
@@ -100,7 +100,7 @@ saksama	saksama	adj	详细的，认真的，公平的	thorough  astute.
 saksi	saksi	n	证明，证据，证人	witness
 sakti	sakti		神力，魔力	The divine energy  personified as the wife of a deity\n…
 saku	saku		手袋，衣袋
-sal	sal	adv	围巾
+sal	sal	adv	围巾	alternative form of apa pasal
 salad	salad		莴苣	food mixtures either arranged on a plate or tossed and se…
 salah	salah	adj	错误	wrong; incorrect; false (not correct or true; containing an error or mistake).		betul
 salahsilah	salahsilah		族谱
@@ -115,10 +115,10 @@ salasilah	salasilah	n	家谱	lineage  genealogy
 salat	salat		祈祷	n the second pillar of Islam is prayer; a prescribed litu…
 salawat	salawat		祈祷
 saleh	saleh		畸形的，异形的	A prophet of Islam who prophesied to the people of Thamud.
-saler	saler	v	荒废的
+saler	saler	v	荒废的	obsolete spelling of salir
 sali	sali		强壮的，坚硬的
 salib	salib	n	十字架	cross (shape)
-salih	salih		虔诚的
+salih	salih		虔诚的	alternative form of Saleh
 salika	salika		城璧，堡垒
 salin	salin	v	变化	To change  to replace.
 salinan	salinan		副本，抄本
@@ -129,9 +129,9 @@ salji	salji	n	雪	snow
 salju	salju	n	雪	snow
 salla	salla		仁慈，大恩，祝福
 salmon	salmon		鲑	any of various large food and game fishes of northern wat…
-salor	salor	v	荒废的
+salor	salor	v	荒废的	obsolete spelling of salur
 salung	salung		笛
-salur	salur	v	引入，导向
+salur	salur	v	引入，导向	alternative form of alur
 saluran	saluran	n	导管，水道，波道	channel (natural or man-made deeper course through shallow body of water)
 saluranelektrik	saluran elektrik		电线
 salurdarah	salurdarah		血管
@@ -145,7 +145,6 @@ saman	saman		传票，召唤	large ornamental tropical American tree with bipinn
 samar	samar	adj	昏暗的，模糊的	dim  faint  unclear  vague  indistinct
 samaran	samaran		化装，伪装
 samarata	sama rata		同样平
-samarata	samarata		平等的
 samarium	samarium	n	钐  钐Sm	samarium (chemical element)
 samasama	sama-sama	int	不客气	together
 sambal	sambal	n	食欲刺激物，辣酱	sambal
@@ -174,7 +173,7 @@ sampanberkung	sampan berkung		舢舨
 sampang	sampang		土漆，假漆
 sampar	sampar		传染病，疫病，牛瘟
 sampil	sampil		牛腿，猪腿
-sampin	sampin	n	两者择一
+sampin	sampin	n	两者择一	alternative form of samping
 samping	samping	n	边，侧，缘	side; flank (the position or area next to something).
 sampir	sampir		刀剑之护手
 sampiran	sampiran		吊钩，屏风
@@ -224,7 +223,7 @@ sanggerah	sanggerah	v	拉	to draw or let out blood
 sanggit	sanggit		摩擦作声，碰撞作声
 sanggul	sanggul	n	发髻	female hair bun
 sanggulbulat	sanggul bulat		圆形的
-sanggup	sanggup	v	能够，可以
+sanggup	sanggup	v	能够，可以	to be willing; to be ready; to be prepared (to do something  usually s; to be able; to be capable (to have the capacity or strength to do some
 sangir	sangir		犬齿，大牙
 sangka	sangka	v	估计，预料，推测	to suspect (to believe to be guilty or questionable).
 sangkak	sangkak		阻塞，妨害，抗拒
@@ -262,11 +261,10 @@ sapkok	sapkok	v	烟	To smoke.
 sapot	sapot	v	支持	to support
 sapta	sapta	num	七	seven
 sapu	sapu	v	扫	broom
-sapuloh	sapuloh	num	荒废的
+sapuloh	sapuloh	num	荒废的	obsolete spelling of sepuluh
 saput	saput		膜，角膜，薄皮
 saputangan	sapu tangan		手巾
-saputangan	saputangan	n	手帕	handkerchief
-sara	sara		抚养金，津贴金
+sara	sara		抚养金，津贴金	acronym of Sumbangan Asas Rahmah (“Rahmah Basic Cash Donation”)  a ser
 sarabara	sara bara		混乱
 saraf	saraf		词形变化	nerve (neurons with their connective tissue sheaths  bloo…
 sarafabdusen	saraf abdusen	n	精神	Abucens nerve (nerve)
@@ -282,7 +280,7 @@ sarat	sarat		满载的，重荷的
 sarau	sarau		吊篮，悬架，鱼篮
 sarawak	sarawak		沙捞越	Sarawak (state in Malaysia)
 sardin	sardin		沙丁鱼
-sarekat	sarekat	n	两者择一
+sarekat	sarekat	n	两者择一	alternative form of serikat and syarikat
 sari	sari		印度妇女的服装，精髓，摘要	a dress worn primarily by Hindu women; consists of severa…
 saribunga	saribunga		花萼
 saring	saring		滤，链；选择	-ing form of sare
@@ -315,8 +313,8 @@ sat	sat	adj	最高	the highest value card in a playing card
 satah	satah	n	平面	plane  flat  level surface
 sate	sate	n	烤肉串	satay (dish)
 satelit	satelit	n	卫星	satellite; moon
-sato	sato	n	两者择一
-satru	satru	n	荒废的
+sato	sato	n	两者择一	alternative form of satwa
+satru	satru	n	荒废的	obsolete form of seteru (“enemy”)
 satu	satu	num	一	one		Saya ada satu buku.
 satuan	satuan	n	单位	unit
 satubelas	satu belas	num	十一	eleven
@@ -325,8 +323,8 @@ satubilion	satu bilion	num	十亿	one billion
 satujuta	satu juta	num	百万	one million
 satukan	satukan		结合为一，合一
 satulikur	satu likur	num	二十一	twenty-one
-satupuloh	satu puloh	num	荒废的
-satupuluh	satu puluh	num	两者择一
+satupuloh	satu puloh	num	荒废的	obsolete spelling of satu puluh
+satupuluh	satu puluh	num	两者择一	alternative form of sepuluh
 satupuluhdelapan	satu puluh delapan	num	十八	eighteen
 satupuluhdua	satu puluh dua	num	十二	twelve
 satupuluhempat	satu puluh empat	num	十四	fourteen
@@ -342,7 +340,7 @@ satupuluhtiga	satu puluh tiga	num	十三	thirteen
 satupuluhtujuh	satu puluh tujuh	num	十七	seventeen
 saturatus	satu ratus	num	百	one hundred
 saturatusribu	satu ratus ribu	num	十万	one hundred thousand
-saturibu	satu ribu	num	同义词
+saturibu	satu ribu	num	同义词	synonym of seribu
 saturibujuta	satu ribu juta	num	十亿	one billion
 satusatu	satu-satu	adv	逐一	one by one; one at a time (singly; in succession).
 satusatunya	satu-satunya		唯一的

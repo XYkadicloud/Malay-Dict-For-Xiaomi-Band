@@ -1,19 +1,19 @@
 di	di	prep	被，为 ~ dalam 在…里面 ~ depan 在…之前	Used to indicate location or direction; in  at  on.
 dia	dia	pron	他，她，它	Genderless third person pronoun; he  she  it.
-diabadikan	diabadikan	v	消极的
-diabahkan	diabahkan	v	消极的
-diabaikan	diabaikan	v	消极的
-diabar	diabar	v	消极的
-diabdikan	diabdikan	v	消极的
-diabjadkan	diabjadkan	v	消极的
-diabsahkan	diabsahkan	v	消极的
-diabstrakkan	diabstrakkan	v	消极的
-diabui	diabui	v	消极的
-diabuk	diabuk	v	消极的
-diabur	diabur	v	消极的
-diacak	diacak	v	消极的
-diacan	diacan	v	消极的
-diacapi	diacapi	v	消极的
+diabadikan	diabadikan	v	消极的	third-person passive of abadikan (“to immortalize; to eternalize”)
+diabahkan	diabahkan	v	消极的	Third-person passive of abahkan.
+diabaikan	diabaikan	v	消极的	Third-person passive of abaikan.
+diabar	diabar	v	消极的	Third-person passive of abar.
+diabdikan	diabdikan	v	消极的	Third-person passive of abdikan.
+diabjadkan	diabjadkan	v	消极的	Third-person passive of abjadkan.
+diabsahkan	diabsahkan	v	消极的	Third-person passive of mengabsahkan (“to validate”).
+diabstrakkan	diabstrakkan	v	消极的	Third-person passive of mengabstrakkan (“to abstract”).
+diabui	diabui	v	消极的	Third-person passive of mengabui.
+diabuk	diabuk	v	消极的	Third-person passive of mengabuk.
+diabur	diabur	v	消极的	Third-person passive of abur.
+diacak	diacak	v	消极的	Third-person passive of mengacak.
+diacan	diacan	v	消极的	Third-person passive of acan.
+diacapi	diacapi	v	消极的	Third-person passive of acapi.
 diafragma	diafragma		横隔膜
 diagram	diagram		图解	a drawing intended to explain how something works; a draw…
 dialek	dialek	n		A dialect.
@@ -24,159 +24,159 @@ diamati	diamati	v	观测的	observed by
 diambil	diambil		被拿走
 diamdiam	diam-diam		安静，静默，不讲话的，不动的
 dian	dian	n	蜡烛，洋灯	wax candle
-dianalisis	dianalisis	v	消极的
+dianalisis	dianalisis	v	消极的	Third-person passive of analisis.
 diang	diang		已故，亡故
-dianimasikan	dianimasikan	v	消极的
+dianimasikan	dianimasikan	v	消极的	Third-person passive of animasikan.
 diantara	di antara		在…之间
 diaorang	dia orang	pron	第三	Third person plural pronoun; they  them.
 diarea	diarea	n	腹泻  腹泻	diarrhea
 diari	diari	n	日记  日记簿	diary: A daily log of experiences  especially those of the writer.
 diatas	di atas	prep	在…之上	above
-dibadutbadutkan	dibadut-badutkan	v	消极的
-dibaguskan	dibaguskan	v	消极的
-dibahagi	dibahagi	v	分开的
-dibaharui	dibaharui	v	消极的
-dibahas	dibahas	v	消极的
-dibahaskan	dibahaskan	v	消极的
-dibanci	dibanci	v	消极的
-dibandarkan	dibandarkan	v	消极的
-dibaui	dibaui	v	消极的
+dibadutbadutkan	dibadut-badutkan	v	消极的	Third-person passive of membadut-badutkan.
+dibaguskan	dibaguskan	v	消极的	third-person passive of baguskan (“to make (something) good”)
+dibahagi	dibahagi	v	分开的	to be divided; to be shared; to be distributed.
+dibaharui	dibaharui	v	消极的	Third-person passive of baharui.
+dibahas	dibahas	v	消极的	Third-person passive of bahas (“to debate; to examine”).
+dibahaskan	dibahaskan	v	消极的	Third-person passive of bahaskan (“to debate something; to discuss”).
+dibanci	dibanci	v	消极的	Third-person passive of banci.
+dibandarkan	dibandarkan	v	消极的	Third-person passive of membandarkan.
+dibaui	dibaui	v	消极的	Third-person passive of membaui.
 dibawah	di bawah		在…之下
-dibayangbayangi	dibayang-bayangi	v	消极的
-dibayangbayangkan	dibayang-bayangkan	v	消极的
-dibayangi	dibayangi	v	消极的
-dibayangkan	dibayangkan	v	消极的
-dibayar	dibayar	v	消极的
-dibekaskan	dibekaskan	v	消极的
+dibayangbayangi	dibayang-bayangi	v	消极的	Third-person passive of bayang-bayangi.
+dibayangbayangkan	dibayang-bayangkan	v	消极的	Third-person passive of bayang-bayangkan.
+dibayangi	dibayangi	v	消极的	Third-person passive of bayangi.
+dibayangkan	dibayangkan	v	消极的	Third-person passive of bayangkan.
+dibayar	dibayar	v	消极的	third-person passive of bayar (“paid [by]”)
+dibekaskan	dibekaskan	v	消极的	Third-person passive of bekaskan.
 dibelakang	di belakang		在…之后
-diberi	diberi	v	消极的
-diberikan	diberikan	v	消极的
+diberi	diberi	v	消极的	Third-person passive of beri.
+diberikan	diberikan	v	消极的	Third-person passive of berikan (“to give”).
 diberitahukan	diberitahukan		受通知，被通知
-diberus	diberus	v	消极的
-dibincangkan	dibincangkan	v	消极的
-dibuat	dibuat	v	消极的
-dibuka	dibuka	v	消极的
-dibundarkan	dibundarkan	v	消极的
-dicapati	dicapati	v	消极的
-dicelakakan	dicelakakan	v	消极的
-dicemeti	dicemeti	v	消极的
-dicetekkan	dicetekkan	v	消极的
-dicipta	dicipta	v	消极的
-dicontoh	dicontoh	v	消极的
-dicontohkan	dicontohkan	v	消极的
-dicurigai	dicurigai	v	消极的
+diberus	diberus	v	消极的	Third-person passive of berus.
+dibincangkan	dibincangkan	v	消极的	Third-person passive of membincangkan.
+dibuat	dibuat	v	消极的	passive of buat; made; passive of buat
+dibuka	dibuka	v	消极的	passive of buka
+dibundarkan	dibundarkan	v	消极的	third-person passive of membundarkan (“to round”)
+dicapati	dicapati	v	消极的	Third-person passive of capati.
+dicelakakan	dicelakakan	v	消极的	Third-person passive of mencelakakan.
+dicemeti	dicemeti	v	消极的	third-person passive of cemeti
+dicetekkan	dicetekkan	v	消极的	Third-person passive of mencetekkan (“to make shallow”).
+dicipta	dicipta	v	消极的	third-person passive of mencipta (“to create”)
+dicontoh	dicontoh	v	消极的	third-person passive of mencontoh (“to consider as an example”)
+dicontohkan	dicontohkan	v	消极的	third-person passive of mencontohkan (“to consider or give as an examp
+dicurigai	dicurigai	v	消极的	Third-person passive of mencurigai.
 didalam	di dalam	prep	内部	in  inside  within (concrete)
-didapat	didapat	v	消极的
-didegilkan	didegilkan	v	消极的
-diderma	diderma	v	消极的
-didermakan	didermakan	v	消极的
+didapat	didapat	v	消极的	Third-person passive of dapat.
+didegilkan	didegilkan	v	消极的	third-person passive of degilkan (“to make stubborn”)
+diderma	diderma	v	消极的	Third-person passive of derma (“to donate”).
+didermakan	didermakan	v	消极的	Third-person passive of dermakan (“to donate something”).
 didih	didih	v	沸腾	to boil (of liquid  to begin to turn into a gas)
 didik	didik	v	教育，教养，养育	To educate.
 didis	didis		切成薄片
-diduduki	diduduki	v	消极的
-didudukkan	didudukkan	v	消极的
-didukung	didukung	v	消极的
-diedit	diedit	v	消极的
-dieksport	dieksport	v	消极的
-dielokkan	dielokkan	v	消极的
+diduduki	diduduki	v	消极的	third-person passive of menduduki (“to occupy”)
+didudukkan	didudukkan	v	消极的	third-person passive of mendudukkan (“to make someone sit”)
+didukung	didukung	v	消极的	Third-person passive of dukung.
+diedit	diedit	v	消极的	Third-person passive of edit (“to edit”).
+dieksport	dieksport	v	消极的	Third-person passive of eksport (“to export”).
+dielokkan	dielokkan	v	消极的	Third-person passive of mengelokkan.
 diem	diem	adj	安静	quiet (with little sound)
-diertikan	diertikan	v	消极的
-difahami	difahami	v	消极的
-difardukan	difardukan	v	消极的
-difasihkan	difasihkan	v	消极的
-difikir	difikir	v	消极的
-difikiri	difikiri	v	消极的
-difikirkan	difikirkan	v	消极的
-diformalkan	diformalkan	v	消极的
-difrancaiskan	difrancaiskan	v	消极的
+diertikan	diertikan	v	消极的	Third-person passive of ertikan (“to interpret; to make someone unders
+difahami	difahami	v	消极的	passive of fahami
+difardukan	difardukan	v	消极的	Third-person passive of fardukan.
+difasihkan	difasihkan	v	消极的	Third-person passive of fasihkan.
+difikir	difikir	v	消极的	third-person passive of fikir (“to think”)
+difikiri	difikiri	v	消极的	passive of fikiri
+difikirkan	difikirkan	v	消极的	passive of fikirkan
+diformalkan	diformalkan	v	消极的	Third-person passive of formalkan.
+difrancaiskan	difrancaiskan	v	消极的	Third-person passive of francaiskan.
 difteria	difteria		白喉
-diganggu	diganggu	v	消极的
-digedangkan	digedangkan	v	消极的
-digosok	digosok	v	消极的
+diganggu	diganggu	v	消极的	Third-person passive of mengganggu.
+digedangkan	digedangkan	v	消极的	third-person passive of gedangkan (“to make big”)
+digosok	digosok	v	消极的	third-person passive of menggosok (“to brush”)
 digraf	digraf	n	二合字母	A digraph; a pair of letters  especially a pair representing a single phoneme.
-dihadiahi	dihadiahi	v	消极的
-dihadiahkan	dihadiahkan	v	消极的
-dihitung	dihitung	v	消极的
+dihadiahi	dihadiahi	v	消极的	Third-person passive of hadiahi.
+dihadiahkan	dihadiahkan	v	消极的	Third-person passive of hadiahkan.
+dihitung	dihitung	v	消极的	passive of hitung
 dihitunghitung	dihitung-hitung	v	病人	patient of hitung-hitung (“to be counted up  to be taken into account”)
 diikat	diikat	v	忙得不可开交的	tied up
-diiklankan	diiklankan	v	消极的
+diiklankan	diiklankan	v	消极的	Third-person passive of iklankan.
 diikuti	diikuti	v	跟随的	followed
-diimaginasikan	diimaginasikan	v	消极的
-diimbuh	diimbuh	v	消极的
-diimplementasikan	diimplementasikan	v	消极的
-diimport	diimport	v	消极的
-diinsafi	diinsafi	v	消极的
-diinsafkan	diinsafkan	v	消极的
-diinspirasi	diinspirasi	v	消极的
-diislamkan	diislamkan	v	消极的
-diistirahatkan	diistirahatkan	v	消极的
-dijajah	dijajah	v	消极的
-dijawab	dijawab	v	消极的
-dijelaskan	dijelaskan	v	消极的
-dijemur	dijemur	v	消极的
-dijengah	dijengah	v	消极的
-dijepunkan	dijepunkan	v	消极的
-dijerkah	dijerkah	v	消极的
-dijinggakan	dijinggakan	v	消极的
-dijustifikasikan	dijustifikasikan	v	消极的
-dik	dik	n	两者择一
-dikafirkan	dikafirkan	v	消极的
-dikait	dikait	v	消极的
-dikamuskan	dikamuskan	v	消极的
-dikarang	dikarang	v	消极的
-dikata	dikata	v	消极的
-dikatai	dikatai	v	消极的
-dikatakan	dikatakan	v	消极的
-dikatakatai	dikata-katai	v	同义词
-dikategorikan	dikategorikan	v	消极的
+diimaginasikan	diimaginasikan	v	消极的	Third-person passive of imaginasikan.
+diimbuh	diimbuh	v	消极的	third-person passive of imbuh
+diimplementasikan	diimplementasikan	v	消极的	Third-person passive of implementasikan (“to implement”).
+diimport	diimport	v	消极的	Third-person passive of import (“to import”).
+diinsafi	diinsafi	v	消极的	third-person passive of menginsafi (“to be aware of”)
+diinsafkan	diinsafkan	v	消极的	third-person passive of menginsafkan (“to make (someone) aware of (som
+diinspirasi	diinspirasi	v	消极的	third-person passive of menginspirasi (“to inspire”)
+diislamkan	diislamkan	v	消极的	Third-person passive of islamkan.
+diistirahatkan	diistirahatkan	v	消极的	Third-person passive of mengistirahatkan.
+dijajah	dijajah	v	消极的	third-person passive of jajah (“to explore; to annex; to colonise”)
+dijawab	dijawab	v	消极的	Third-person passive of menjawab.
+dijelaskan	dijelaskan	v	消极的	Third-person passive of jelaskan.
+dijemur	dijemur	v	消极的	passive of jemur; passive of jemur; sun-dried
+dijengah	dijengah	v	消极的	third-person passive of menjengah (“to peep; to visit”)
+dijepunkan	dijepunkan	v	消极的	Passive of jepunkan.
+dijerkah	dijerkah	v	消极的	third-person passive of menjerkah
+dijinggakan	dijinggakan	v	消极的	third-person passive of jinggakan (“to make orange”)
+dijustifikasikan	dijustifikasikan	v	消极的	Passive of justifikasikan.
+dik	dik	n	两者择一	alternative form of adik
+dikafirkan	dikafirkan	v	消极的	Third-person passive of kafirkan.
+dikait	dikait	v	消极的	Third-person passive of mengait.
+dikamuskan	dikamuskan	v	消极的	third-person passive of mengamuskan (“to add (a word) to the dictionar
+dikarang	dikarang	v	消极的	Third-person passive of karang.
+dikata	dikata	v	消极的	Third-person passive of mengata.
+dikatai	dikatai	v	消极的	Third-person passive of mengatai.
+dikatakan	dikatakan	v	消极的	Third-person passive of mengatakan.
+dikatakatai	dikata-katai	v	同义词	Synonym of dikatai.
+dikategorikan	dikategorikan	v	消极的	Third-person passive of kategorikan.
 dikau	dikau	pron	你	you  your
-dikaunseling	dikaunseling	v	消极的
-dikedutkan	dikedutkan	v	消极的
+dikaunseling	dikaunseling	v	消极的	Third-person passive of kaunseling.
+dikedutkan	dikedutkan	v	消极的	Passive of kedutkan.
 dikir	dikir		圣歌，赞美诗
 dikit	dikit	n	少许，一点点，不多的	A small amount  a small quantity.
-dikotai	dikotai	v	消极的
-dikotakan	dikotakan	v	消极的
+dikotai	dikotai	v	消极的	Third-person passive of mengotai.
+dikotakan	dikotakan	v	消极的	Third-person passive of mengotakan.
 diktator	diktator		独裁者
-dikurniakan	dikurniakan	v	有天才的
-dilabel	dilabel	v	消极的
-dilabuhkan	dilabuhkan	v	消极的
+dikurniakan	dikurniakan	v	有天才的	to be gifted  to be bestowed with  to be endowed with  to be granted.
+dilabel	dilabel	v	消极的	third-person passive of label
+dilabuhkan	dilabuhkan	v	消极的	third-person passive of melabuhkan (“to lower”)
 dilah	dilah	n	灯 照亮  逻辑模拟分析系统	lamp; lantern
-dilakukan	dilakukan	v	消极的
-dilancarkan	dilancarkan	v	消极的
+dilakukan	dilakukan	v	消极的	passive of lakukan
+dilancarkan	dilancarkan	v	消极的	third-person passive of lancarkan (“to make smooth; to launch”)
 dilangut	dilangut	v	看	looked or stared up at; to have the head lifted upward (passively).
 dilarang	dilarang	adv	显示	Used to show that an action is prohibited.
-dilarangkan	dilarangkan	v	消极的
-dilawan	dilawan	v	消极的
-dilebarkan	dilebarkan	v	消极的
-dilepaskan	dilepaskan	v	消极的
-dilestarikan	dilestarikan	v	消极的
-diletak	diletak	v	消极的
+dilarangkan	dilarangkan	v	消极的	Third-person passive of larangkan.
+dilawan	dilawan	v	消极的	Third-person passive of lawan.
+dilebarkan	dilebarkan	v	消极的	Third-person passive of lebarkan.
+dilepaskan	dilepaskan	v	消极的	passive of lepaskan
+dilestarikan	dilestarikan	v	消极的	Passive of lestarikan.
+diletak	diletak	v	消极的	passive of letak; passive of letak; placed
 diletakkan	diletakkan	v	消极的	passive transitive of letakkan (“placed”)
-dilokap	dilokap	v	消极的
-dilosen	dilosen	v	消极的
-dimakan	dimakan	v	消极的
-dimampankan	dimampankan	v	消极的
+dilokap	dilokap	v	消极的	Third-person passive of lokap.
+dilosen	dilosen	v	消极的	third-person passive of melosen (“to put lotion on (something)”)
+dimakan	dimakan	v	消极的	passive of makan
+dimampankan	dimampankan	v	消极的	Passive of mampankan.
 dimana	di mana	adv	在哪里	where?
-dimasak	dimasak	v	消极的
-dimasamkan	dimasamkan	v	消极的
-dimasuki	dimasuki	v	消极的
-dimasukkan	dimasukkan	v	消极的
-dimelayukan	dimelayukan	v	消极的
-dimengerti	dimengerti	v	消极的
-dimeterai	dimeterai	v	消极的
-dimisalkan	dimisalkan	v	消极的
-dimuatturun	dimuat turun	v	消极的
-dimudahkan	dimudahkan	v	消极的
-dimuktamadkan	dimuktamadkan	v	消极的
-dimungkinkan	dimungkinkan	v	消极的
+dimasak	dimasak	v	消极的	passive of masak; cooked; passive of masak
+dimasamkan	dimasamkan	v	消极的	third-person passive of masamkan (“to make sour”)
+dimasuki	dimasuki	v	消极的	third-person passive of memasuki (“to enter”)
+dimasukkan	dimasukkan	v	消极的	third-person passive of memasukkan (“to put in”)
+dimelayukan	dimelayukan	v	消极的	Passive of melayukan (“to translate into Malay; to Malayise”).
+dimengerti	dimengerti	v	消极的	Third-person passive of mengerti.
+dimeterai	dimeterai	v	消极的	third-person passive of memeterai (“to stamp”)
+dimisalkan	dimisalkan	v	消极的	third-person passive of memisalkan (“to compare; to assume”)
+dimuatturun	dimuat turun	v	消极的	Third-person passive of muat turun.
+dimudahkan	dimudahkan	v	消极的	Third-person passive of memudahkan.
+dimuktamadkan	dimuktamadkan	v	消极的	third-person passive of muktamadkan (“to finalize”)
+dimungkinkan	dimungkinkan	v	消极的	Third-person passive of memungkinkan.
 din	din	n	宗教信仰	religion (system of beliefs dealing with soul  deity and/or life after death)
-dinakali	dinakali	v	消极的
+dinakali	dinakali	v	消极的	Third-person passive of menakali.
 dinamik	dinamik	adj	有生气的，生气蓬勃的	dynamic
 dinamit	dinamit		炸药
 dinamo	dinamo		发电机
-dinasionalisasikan	dinasionalisasikan	v	消极的
+dinasionalisasikan	dinasionalisasikan	v	消极的	Third-person passive of nasionalisasikan.
 dinasti	dinasti	n	朝代	dynasty
-dinda	dinda	n	两者择一
+dinda	dinda	n	两者择一	alternative form of adik
 dinding	dinding	n	内部的	inner wall of a house
 dingin	dingin	adj	冷的，冻的	cold (having a low temperature)
 dinginbeku	dinginbeku		冻结，凝结
@@ -184,81 +184,81 @@ dinginhati	dingin hati		不高兴的，冷淡的
 dingkis	dingkis		海鱼的一种
 dingo	dingo	n	澳洲野犬	dingo (wild dog native to Australia)
 dinihari	dinihari		黎明，破晓
-dinyahjajah	dinyahjajah	v	消极的
-dioder	dioder	v	消极的
-dioksidakan	dioksidakan	v	消极的
-dioksigenkan	dioksigenkan	v	消极的
+dinyahjajah	dinyahjajah	v	消极的	third-person passive of nyahjajah (“to decolonize”)
+dioder	dioder	v	消极的	Third-person passive of mengoder (“to order”).
+dioksidakan	dioksidakan	v	消极的	passive of mengoksidakan
+dioksigenkan	dioksigenkan	v	消极的	Third-person passive of oksigenkan.
 diorang	diorang	pron	他们	they; them; their
-dipalingkan	dipalingkan	v	消极的
-dipanggil	dipanggil	v	消极的
-dipantau	dipantau	v	消极的
-diparkir	diparkir	v	消极的
-dipasang	dipasang	v	消极的
-dipasarkan	dipasarkan	v	消极的
-dipaut	dipaut	v	消极的
-dipecut	dipecut	v	消极的
-dipegang	dipegang	v	消极的
-dipekakkan	dipekakkan	v	消极的
-dipendapkan	dipendapkan	v	消极的
-dipendekkan	dipendekkan	v	消极的
-dipeningkan	dipeningkan	v	消极的
-diperbaharu	diperbaharu	v	消极的
+dipalingkan	dipalingkan	v	消极的	third-person passive of memalingkan (“to turn (something)”)
+dipanggil	dipanggil	v	消极的	third-person passive of panggil
+dipantau	dipantau	v	消极的	third-person passive of pantau
+diparkir	diparkir	v	消极的	Third-person passive of parkir (“to park”).
+dipasang	dipasang	v	消极的	passive of pasang
+dipasarkan	dipasarkan	v	消极的	Third-person passive of memasarkan.
+dipaut	dipaut	v	消极的	Third-person passive of paut.
+dipecut	dipecut	v	消极的	Passive of pecut.
+dipegang	dipegang	v	消极的	passive of pegang (“grasp  hold”)
+dipekakkan	dipekakkan	v	消极的	third-person passive of memekakkan (“to deafen”)
+dipendapkan	dipendapkan	v	消极的	passive of pendap (“to press down; to conceal”); be pressed down; be c
+dipendekkan	dipendekkan	v	消极的	Third-person passive of pendekkan.
+dipeningkan	dipeningkan	v	消极的	Passive of peningkan.
+diperbaharu	diperbaharu	v	消极的	Third-person passive of perbaharu.
 diperbuat	diperbuat	v	消极的	is made
-dipercontohkan	dipercontohkan	v	消极的
-diperelok	diperelok	v	消极的
-diperjelas	diperjelas	v	消极的
-diperkatakan	diperkatakan	v	消极的
+dipercontohkan	dipercontohkan	v	消极的	third-person passive of mempercontohkan (“to give as an example”)
+diperelok	diperelok	v	消极的	Third-person passive of memperelok.
+diperjelas	diperjelas	v	消极的	Third-person passive of perjelas.
+diperkatakan	diperkatakan	v	消极的	Third-person passive of memperkatakan.
 diperkaya	diperkaya	v	使富足	Enrich or to enrich
-diperkotakan	diperkotakan	v	消极的
-diperlebar	diperlebar	v	消极的
-dipermudah	dipermudah	v	消极的
-dipertontonkan	dipertontonkan	v	消极的
-dipertuan	dipertuan	v	消极的
-dipinta	dipinta	v	消极的
-diplagiat	diplagiat	v	消极的
+diperkotakan	diperkotakan	v	消极的	Third-person passive of memperkotakan.
+diperlebar	diperlebar	v	消极的	Third-person passive of perlebar.
+dipermudah	dipermudah	v	消极的	Third-person passive of mempermudah.
+dipertontonkan	dipertontonkan	v	消极的	third-person passive of mempertontonkan (“to display”)
+dipertuan	dipertuan	v	消极的	passive of pertuan: to be lorded over; to be considered as a lord
+dipinta	dipinta	v	消极的	Passive of pinta.
+diplagiat	diplagiat	v	消极的	Third-person passive of plagiat (“to plagiarize”).
 diploma	diploma		证书，文凭	a document certifying the successful completion of a cour…
 diplomasi	diplomasi		交际手腕
 diplomat	diplomat		外交官	an official engaged in international negotiations\nn. a p…
 diplomatik	diplomatik	adj	外交的	diplomatic
-diponteng	diponteng	v	消极的
-dipotong	dipotong	v	消极的
-dipreviu	dipreviu	v	消极的
-dipunyai	dipunyai	v	消极的
-dipunyakan	dipunyakan	v	消极的
-diputihkan	diputihkan	v	消极的
-diputihkanmata	diputihkan mata	v	消极的
+diponteng	diponteng	v	消极的	Third-person passive of ponteng.
+dipotong	dipotong	v	消极的	passive of potong
+dipreviu	dipreviu	v	消极的	Third-person passive of mempreviu.
+dipunyai	dipunyai	v	消极的	Third-person passive of punyai (“to have; to own”).
+dipunyakan	dipunyakan	v	消极的	Passive of punyakan.
+diputihkan	diputihkan	v	消极的	Third-person passive of putihkan.
+diputihkanmata	diputihkan mata	v	消极的	Third-person passive of putihkan mata.
 diraja	diraja	adj	皇家的，皇室的	royal
-dirakyatkan	dirakyatkan	v	消极的
-dirampok	dirampok	v	消极的
-dirasuahi	dirasuahi	v	消极的
-direformasi	direformasi	v	消极的
-diregas	diregas	v	消极的
-diregat	diregat	v	消极的
-direhatkan	direhatkan	v	消极的
+dirakyatkan	dirakyatkan	v	消极的	Third-person passive of rakyatkan.
+dirampok	dirampok	v	消极的	Third-person passive of rampok.
+dirasuahi	dirasuahi	v	消极的	Third-person passive of rasuahi.
+direformasi	direformasi	v	消极的	Third-person passive of reformasi.
+diregas	diregas	v	消极的	Passive of regas.
+diregat	diregat	v	消极的	Passive of regat.
+direhatkan	direhatkan	v	消极的	Third-person passive of merehatkan.
 direksi	direksi		方向，方位，命令，吩咐
 direktor	direktor		经理，董事
 dirgahayu	dirgahayu	v	万岁	long live
 diri	diri	n	自己 身体	to stand
 dirisendiri	diri sendiri		自身，自己
-dirompak	dirompak	v	消极的
-dirumikan	dirumikan	v	消极的
-dirunut	dirunut	v	消极的
-dirunuti	dirunuti	v	消极的
+dirompak	dirompak	v	消极的	Third-person passive of rompak (“to rob”).
+dirumikan	dirumikan	v	消极的	third-person passive of merumikan (“to romanise”)
+dirunut	dirunut	v	消极的	Third-person passive of runut.
+dirunuti	dirunuti	v	消极的	Third-person passive of runuti.
 dirus	dirus		浇，洒
-dirusuk	dirusuk	v	消极的
-dis	dis		n.；狄斯(阴间的神)
-disabarkan	disabarkan	v	消极的
+dirusuk	dirusuk	v	消极的	third-person passive of rusuk (“to stab (in the flank)”)
+dis	dis		n.；狄斯(阴间的神)	abbreviation of Disember (“December”)
+disabarkan	disabarkan	v	消极的	third-person passive of menyabarkan
 disainer	disainer		设计者
-disajikan	disajikan	v	消极的
+disajikan	disajikan	v	消极的	third-person passive of menyajikan (“to serve (food)”)
 disamping	di samping		下一个 下一个的	next to; beside; besides
-disamun	disamun	v	消极的
+disamun	disamun	v	消极的	Third-person passive of samun (“to rob”).
 disana	di sana		在那里
-disayangi	disayangi	v	消极的
-disembah	disembah	v	消极的
+disayangi	disayangi	v	消极的	passive of sayang.
+disembah	disembah	v	消极的	Third-person passive of menyembah (“to worship; to revere”).
 disember	disember		十二月	December (twelfth month of the Gregorian calendar)
-disesali	disesali	v	消极的
-disesalkan	disesalkan	v	消极的
-diseterika	diseterika	v	消极的
+disesali	disesali	v	消极的	third-person passive of menyesali (“to regret; to blame”)
+disesalkan	disesalkan	v	消极的	third-person passive of menyesalkan (“to regret”)
+diseterika	diseterika	v	消极的	Third-person passive of menyeterika (“to iron”).
 disini	di sini		在这里
 disiplin	disiplin		秩序，纪律
 diskaun	diskaun	n	折扣	discount
@@ -268,30 +268,30 @@ diskriminasikaum	diskriminasi kaum	n	种族歧视	racial discrimination
 diskriminasiras	diskriminasi ras	n	种族歧视	racial discrimination
 diskriminasisosial	diskriminasi sosial	n	社会的	social discrimination
 diskusi	diskusi		讨论
-disosialkan	disosialkan	v	消极的
+disosialkan	disosialkan	v	消极的	Third-person passive of sosialisasikan.
 disprosium	disprosium	n	镝  镝Dy	dysprosium (chemical element)
-distrim	distrim	v	消极的
-disulam	disulam	v	绣花的
-disurat	disurat	v	消极的
-disurati	disurati	v	消极的
-diswastakan	diswastakan	v	消极的
-ditanam	ditanam	v	消极的
-ditangkap	ditangkap	v	消极的
-ditegur	ditegur	v	消极的
+distrim	distrim	v	消极的	Third-person passive of strim.
+disulam	disulam	v	绣花的	to be embroidered.; to be interwoven; to be interspersed.
+disurat	disurat	v	消极的	third-person passive of menyurat (“to write”)
+disurati	disurati	v	消极的	third-person passive of menyurati (“to write on; to write a letter to”
+diswastakan	diswastakan	v	消极的	third-person passive of menswastakan (“to privatise”)
+ditanam	ditanam	v	消极的	passive of tanam; planted; passive of tanam
+ditangkap	ditangkap	v	消极的	passive of menangkap (“captured; caught; arrested”)
+ditegur	ditegur	v	消极的	Third-person passive of tegur.
 ditektif	ditektif		暗探
-ditelefon	ditelefon	v	消极的
-ditengok	ditengok	v	消极的
-diterima	diterima	v	消极的
-ditinjau	ditinjau	v	消极的
-ditipu	ditipu	v	消极的
-ditolehkan	ditolehkan	v	消极的
-ditonton	ditonton	v	消极的
-ditranskrip	ditranskrip	v	消极的
-ditumbuk	ditumbuk	v	消极的
-ditunggang	ditunggang	v	消极的
+ditelefon	ditelefon	v	消极的	third-person passive of menelefon (“to call (with a telephone)”)
+ditengok	ditengok	v	消极的	third-person passive of menengok (“to look at; to watch (TV  etc.)”)
+diterima	diterima	v	消极的	third-person passive of menerima (“to receive; to accept”)
+ditinjau	ditinjau	v	消极的	Passive of tinjau.
+ditipu	ditipu	v	消极的	third-person passive of menipu (“to deceive; to lie”)
+ditolehkan	ditolehkan	v	消极的	Third-person passive of menolehkan.
+ditonton	ditonton	v	消极的	third-person passive of menonton (“to watch”)
+ditranskrip	ditranskrip	v	消极的	third-person passive of transkrip (“to transcribe”)
+ditumbuk	ditumbuk	v	消极的	passive of tumbuk; pounded; passive of tumbuk
+ditunggang	ditunggang	v	消极的	Third-person passive of tunggang.
 diversiti	diversiti	n	差异	diversity
-divideokan	divideokan	v	消极的
+divideokan	divideokan	v	消极的	third-person passive of memvideokan (“to video”)
 divisyen	divisyen	n	分	division (commonly used in military and sports)
-diwajibkan	diwajibkan	v	消极的
-dizeroks	dizeroks	v	消极的
-dizumkan	dizumkan	v	消极的
+diwajibkan	diwajibkan	v	消极的	Third-person passive of wajibkan.
+dizeroks	dizeroks	v	消极的	third-person passive of zeroks
+dizumkan	dizumkan	v	消极的	third-person passive of zumkan (“to zoom”)

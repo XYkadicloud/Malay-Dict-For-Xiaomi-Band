@@ -1,14 +1,14 @@
 ci	ci	n	河	river (large stream which drains a landmass)
 cicak	cicak	n	壁虎，蜥蜴	lizard
 cicakkubin	cicak kubin		疾走
-cicik	cicik	adj	两者择一
+cicik	cicik	adj	两者择一	alternative form of jijik
 cicip	cicip	v	味道	to taste
 cicir	cicir		滴漏
 cicit	cicit	n	曾孙	great-grandchild (child of someone's grandchild)
 cicitlakilaki	cicit laki-laki	n	曾孙	great-grandson
 cicitlelaki	cicit lelaki	n	曾孙	great-grandson
 cicitperempuan	cicit perempuan	n	曾孙女	great-granddaughter
-cik	cik	n	小姐
+cik	cik	n	小姐	alternative form of pak cik
 cika	cika		胶肠，腹痛，虎烈拉，霍乱
 cikadung	cikadung	n	女孩	A girl wearing a veil.
 cikgu	cikgu	n	老师	A teacher

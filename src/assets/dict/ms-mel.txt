@@ -1,10 +1,10 @@
 mel	mel	n	邮船，客船，邮政	mail
 melabel	melabel	v	放	to put a label on something
 melabuh	melabuh	v	锚 抛锚停泊	to anchor (of a ship  etc.)
-melabuhkan	melabuhkan	v	放下，抛投
+melabuhkan	melabuhkan	v	放下，抛投	active of labuhkan
 melabur	melabur	v	粉刷；投资	to invest
 melafazkan	melafazkan		宣读
-melahirkan	melahirkan	v	分娩，表现
+melahirkan	melahirkan	v	分娩，表现	active of lahirkan
 melainkan	melainkan	conj	但，而，除了，除非	Unless.
 melaka	melaka		大战科植物名，马六甲树	Malacca (a state of Malaysia; capital and largest city: Malacca)
 melakonkan	melakonkan		扮演
@@ -20,7 +20,7 @@ melampiri	melampiri		附上
 melampung	melampung		漂，浮
 melamun	melamun	v	作白日梦	to daydream  to be lost in thought.
 melanau	melanau		语言	Their language.
-melancarkan	melancarkan	v	发射，进行
+melancarkan	melancarkan	v	发射，进行	active of lancarkan
 melancong	melancong	v	游玩	to travel
 melanda	melanda		冲进
 melanggan	melanggan		订购
@@ -80,7 +80,7 @@ melencong	melencong		偏向，出轨
 melendut	melendut		向下弯曲
 melengahkan	melengahkan		忽略
 melengahlengah	melengah-lengah		消磨时间
-melengkung	melengkung	v	变成弓形
+melengkung	melengkung	v	变成弓形	active of lengkung.
 melenguh	melenguh		喘气
 melentikkan	melentikkan		向上 弯曲
 melenting	melenting		弹回，反弹
@@ -93,7 +93,7 @@ melerai	melerai		瓦解打架
 meleraikan	meleraikan		分解
 meleser	meleser		拖，拉
 meleset	meleset		滑脱
-melestarikan	melestarikan	v	活跃的
+melestarikan	melestarikan	v	活跃的	Active of lestarikan.
 meletakkan	meletakkan	v	放，安置	transitive formal active of letak
 meletakkankepala	meletakkan kepala	v	打击	to hit the sack; to sleep
 meleter	meleter		唠唠叨叨
@@ -113,11 +113,11 @@ melintangi	melintangi		横阻
 melintas	melintas		掠过，抄捷径
 meliputi	meliputi		遮蔽
 melir	melir		烂疮爆破
-melirang	melirang	n	两者择一
+melirang	melirang	n	两者择一	alternative form of belerang
 melirik	melirik		斜视
 melit	melit		好问的，好奇的
 mellotron	mellotron	n	美乐特朗	mellotron
-melokap	melokap	v	活跃的
+melokap	melokap	v	活跃的	Active of lokap.
 melolong	melolong		嚎啕，大哭
 melompat	melompat	v	跳
 melompati	melompati		跳过

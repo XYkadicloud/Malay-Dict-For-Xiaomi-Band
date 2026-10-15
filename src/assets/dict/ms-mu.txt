@@ -30,10 +30,10 @@ mufarik	mufarik		分离，分隔，疏远
 muflis	muflis	adj	破产	bankrupt (having been legally declared insolvent)
 mufti	mufti	n	大法官，法理学者，回教法律法典学者	mufti (Muslim scholar)
 mughayat	mughayat		崇高的，极上的，最上的
-muhamad	muhamad		两者择一
+muhamad	muhamad		两者择一	alternative form of Muhammad
 muhammad	muhammad		男人	a male given name from Arabic
 muharam	muharam		回历正月	Muharram (the first month of the Islamic calendar)
-muhd	muhd		两者择一
+muhd	muhd		两者择一	alternative form of Muhammad; contraction of Muhammad
 muhibah	muhibah		亲善，和蔼，亲密
 muhsin	muhsin		诚实的，贞洁的
 mujahadat	mujahadat		圣战
@@ -81,7 +81,7 @@ munsyibahasa	munsyi bahasa		语文教师，语言学家
 muntah	muntah	v	呕吐，喷出，退色	to vomit
 muntaha	muntaha		末了，结束，最后
 muntil	muntil		矮胖的，善于奉承的，马来剑
-mur	mur	adj	两者择一
+mur	mur	adj	两者择一	alternative form of murah
 murabahah	murabahah	n		murabaha
 murad	murad	n	目的，企图，意旨，宗旨	myrtle
 murah	murah	adj	便宜	cheap (inexpensive)		mahal

@@ -1,4 +1,4 @@
 zebra	zebra		斑马 zebra	any of several fleet black-and-white striped African equines
 zed	zed	n	名字	The name of the Latin script letter Z/z.
-zenggi	zenggi	n	两者择一
+zenggi	zenggi	n	两者择一	alternative form of zanggi
 zeroks	zeroks	n	静电复印术  静电复印术	xerography

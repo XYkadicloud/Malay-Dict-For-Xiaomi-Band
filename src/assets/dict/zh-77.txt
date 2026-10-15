@@ -1,504 +1,290 @@
-仍	alaupunbegitu,alaupundemikian,juga|adv,lamun|v,masih|adv
-仍旧	alaupunbegitu,alaupundemikian,juga|adv
-仍然	alaupundemikian,lamun|v,masih|adv
-位	aras air,bahara,berpuluh|num,bilah|n,darjat|n,direksi,duduknya,dukung|v
-位于	menempatkan,terletak|v
-位名	mayam
-位数	penjodoh bilangan|n
-位数词	penjodoh bilangan|n
-位权	hun|n
-位的	luang|adj,perpuluhan|adj
-位素	isotop|n
-位置	duduknya,letak|v,lokasi|n,pekerma|n
-位转	metatesis|n
-位转换	metatesis|n
-免	supaya jangan,ampunan,bebas dari cukai,elak|v,kebal|adj,mazul,menghindarkan,pasir ris
-免疫	kebal|adj,pasir ris
-免疫吸	pasir ris
-免疫吸附	pasir ris
-免疫吸附剂	pasir ris
+仍	juga|adv,masih|adv,lamun|v,alaupundemikian,alaupunbegitu
+仍旧	juga|adv,alaupundemikian,alaupunbegitu
+仍然	masih|adv,lamun|v,alaupundemikian
+位	lokasi|n,letak|v,pekerma|n,duduknya
+位于	terletak|v,menempatkan
+位子	nama|n,stul|n
+位次	nama|n
+位置	lokasi|n,letak|v,pekerma|n,duduknya
+位面	satah|n
+免	supaya jangan,mazul,bebas dari cukai
+免受	kebebasan|n
+免疫	kebal|adj
 免疫的	kebal|adj
 免税	bebas dari cukai
 免职	mazul
-免费	percit|v,percuma|adj
-免费的	percit|v,percuma|adj
-前	hadapan|det,bahawa|conj,barut gantung,bekas|n,bekas menteri,dahulu|adv,dahulu kala,dahulukan
-前之	barut gantung,si|art
-前之接	si|art
-前之接头	si|art
-前之接头词	si|art
-前之涎	barut gantung
-前之涎布	barut gantung
-前任	bekas|n,bekas menteri
+免费	percuma|adj,percit|v
+免费的	percuma|adj,percit|v
+前	hadapan|det
+前不见古人，后不见来者	khusus|adj
+前任	bekas menteri
 前任部	bekas menteri
 前任部长	bekas menteri
-前伸	jangkau|v,menjangkau
-前伸出	jangkau|v,menjangkau
+前儿	dulu|adv
+前半天	pagi|n
+前半晌	pagi|n
 前厅	pendopo
-前句	bahawa|conj
-前句的	bahawa|conj
-前句的连	bahawa|conj
-前句的连接	bahawa|conj
-前句的连接词	bahawa|conj
-前史	prasejarah|n
-前后	imbuhan|n,kelibat
-前后桨	kelibat
-前后缀	imbuhan|n
-前后缀词	imbuhan|n
+前台	pentas|n
+前后文	konteks|n
 前夕	menjelang
 前天	kelmarin|n
-前扑	jerembap
-前扑倒	jerembap
-前滑	lungsur|v
-前滑倒	lungsur|v
-前的	mantan|adj,prasejarah|n,prasekolah|n
+前晌	pagi|n
+前来	dulu|adv
+前段时间	baru|adj
 前置	kata sendi nama|n,sendi-nama
 前置词	kata sendi nama|n,sendi-nama
 前肢	lengan|n
-前言	haluan kata,mukadimah,pendahuluan|n
-前跃	terpa|v
+前胸	dada|n
+前言	pendahuluan|n,haluan kata,mukadimah
 前进	mara
-前面	depan|prep,hadap|v,hadapan|det,sadar,kemuka
-反	antikristus|n,antul,balik-balik,bangkang,bangkangan,bantahan|n,belot,berbalik
-反主	budaya tentangan|n
-反主流	budaya tentangan|n
-反主流文	budaya tentangan|n
+前途	cengkerama|n
+前面	hadapan|det,depan|prep,hadap|v,sadar
+前额	dahi|n
+反	tindak balas|n,sebaliknya|adv,maklum balas|n,derhaka|n,suap balik|n,membayangkan|v,putar balik,mengkis
 反主流文化	budaya tentangan|n
 反之	sebaliknya|adv
-反侧	kelusuh-kelasah
+反光镜	cermin|n
 反动	reaksi,reaksion
 反动的	reaksion
-反反	berdolok-dalik,bolak-balik,dolak-dalik
-反反复	berdolok-dalik,dolak-dalik
-反反复复	berdolok-dalik,dolak-dalik
-反反复复的	berdolok-dalik,dolak-dalik
+反反	bolak-balik
+反反复复	dolak-dalik,berdolok-dalik
+反反复复的	dolak-dalik,berdolok-dalik
 反反覆	bolak-balik
 反反覆覆	bolak-balik
-反叛	belot,berontak,dahagi,derhaka|n,rontak
+反叛	derhaka|n,dahagi,belot,berontak,rontak
+反叛分子	pemberontak|n
 反响	bergaung
-反复	berdolok-dalik,dolak-dalik
-反复复	berdolok-dalik,dolak-dalik
-反复复的	berdolok-dalik,dolak-dalik
-反对	bangkang,melawan|v,membangkang,memberontak,menentang,parti pembangkang|n,sanggah,terhadap|prep
-反对基	antikristus|n
-反对基督	antikristus|n
+反对	terhadap|prep,melawan|v,parti pembangkang|n,bangkang,sanggah,menentang,membangkang,memberontak
 反对基督者	antikristus|n
-反对者	pembangkang,pembantah
-反尔	berdolok-dalik,dolak-dalik
-反尔的	berdolok-dalik,dolak-dalik
-反常	gila bahasa,rempang
-反常的	gila bahasa,rempang
-反应	antul,gerak balas,reaksi,sambutan,tindak balas|n,waalaikumussalam
-反式	lemak trans|n
-反式脂	lemak trans|n
-反式脂肪	lemak trans|n
+反对者	pembantah,pembangkang
+反射	renungan|n
+反射作用	renungan|n
+反射光	renungan|n
+反常	rempang,gila bahasa
+反常的	rempang,gila bahasa
+反应	tindak balas|n,antul,sambutan,reaksi,gerak balas,waalaikumussalam
 反式脂肪酸	lemak trans|n
-反弹	berbalik,jelungkap,lantun,melantun,melenting
-反抗	bangkangan,berontak,dahagi,membangkang,membantah,menderhaka,menentang,mengkis
+反弹	jelungkap,berbalik,melenting,lantun,melantun
+反思	renungan|n
+反抗	mengkis,dahagi,berontak,songsong,menentang,bangkangan,menderhaka,membangkang
+反抗者	pemberontak|n
 反摺	lingkap
-反映	lenggung,membayangkan|v,mencerminkan
+反映	membayangkan|v,lenggung,mencerminkan
 反曲	geleding
-反的	berbual|v
-反的事	berbual|v
-反的事物	berbual|v
-反者	pemberontak|n
+反照	renungan|n
 反而	malah,malahan
-反胃	dugal,jeluak,medu,muak,mual,sengkak
-反覆	balik-balik,putar balik,bolak-balik,kerapkali,serompok
+反胃	muak,medu,mual,dugal,jeluak,sengkak
+反覆	putar balik,balik-balik,kerapkali
 反覆再	kerapkali
 反覆再三	kerapkali
-反覆无	serompok
 反覆无常	serompok
 反覆无常的	serompok
-反覆覆	bolak-balik
 反跳	pantul
 反面	sakal
 反面的	sakal
 反馈	maklum balas|n,suap balik|n
 反驳	bangkang
-响	akustik|n,bawa jalan,berdenging-denging,berderai-derai,berdering,bergaung,bergema,bertalun-talun
-响乐	simfoni|n
-响亮	gemuruh,nyaring
+响	pandu|n,memandu|v,bawa jalan
+响亮	nyaring
 响亮的	nyaring
-响力	pengaruh|n
-响导	bawa jalan,memandu|v,pandu|n
-响效	akustik|n
-响效果	akustik|n
-响者	pempengaruh|n
-响鼻	mendengus|v
-响鼻子	mendengus|v
+响声	hingar|n
+响导	pandu|n,memandu|v,bawa jalan
+响当当	riuh|adj
 巍	mongkok
 巍立	mongkok
-忍	brutal|adj,derita|v,menderita|v,rasai,sabarkan|v,tahan|v,toleran,zalim|adj
-忍受	derita|v,menderita|v,rasai,tahan|v
-忍的	brutal|adj,zalim|adj
+忍	derita|v,menderita|v,tahan|v,rasai
+忍受	derita|v,menderita|v,tahan|v,rasai
+忍耐	kesabaran|n
+忍耐力	kesabaran|n
 恍	inga|v,malan,teringa-inga
 恍惚	inga|v,malan,teringa-inga
-才	ahlak,bakat|n,bakat seni,berbakat,dikurniakan|v,fasih lidah|adj,jalan tol|n,jauhari
-才好	petah lidah
-才好的	petah lidah
-才干	kemampuan,berbakat
-才的	dikurniakan|v,fasih lidah|adj,jauhari
-才的人	fasih lidah|adj,jauhari
-才能	ahlak,bakat|n,pembawaan,jalan tol|n
-才能通	jalan tol|n
-才能通行	jalan tol|n
-才能通行的	jalan tol|n
-才能通行的道	jalan tol|n
-才能通行的道路	jalan tol|n
-拍	memarap,menepuk,parap|v,bergambar,bertampar,bertepuk,dabik,dedas
+才	bakat|n,ahlak,kemampuan,pembawaan
+才分	bakat|n
+才华横溢	gemilang|adj
+才干	kemampuan
+才能	bakat|n,ahlak,pembawaan
+拍	parap|v,memarap,menepuk,tepuk|v,tepak,tepek,lendat,menepak
 拍人	tepam
 拍人肩	tepam
 拍人肩头	tepam
-拍击	dabik,membanting,tepek,gelepar,gelupur,jelepak,letuk
-拍击声	jelepak,letuk
+拍击	tepek,dabik,membanting,gelupur,letuk,jelepak
+拍击声	letuk,jelepak
 拍击翅	gelupur
 拍击翅膀	gelupur
-拍卖	lelong|n,melelong,malakat
+拍卖	melelong,lelong|n,malakat
+拍卖会	lelong|n
 拍卖场	malakat
-拍声	dedas,letap
-拍手	bertepuk,tepuk|v
-拍打	bertampar,lendat,menebah,menepak,mengirai,tepak,tepuk|v
-拍照	bergambar,swafoto|n
+拍卖拍	lelong|n
+拍卖拍卖	lelong|n
+拍手	tepuk|v,bertepuk
+拍打	tepuk|v,tepak,lendat,menepak,mengirai,menebah,bertampar
+拍案惊奇	mantul|adj
+拍照	bergambar
 拍翅	menggelepar,lepuk
 拍翅的	lepuk
-拍马	kaki bodek|n,mat bodek|n,peleceh
-拍马屁	kaki bodek|n,mat bodek|n,peleceh
-拍马屁的	peleceh
+拍马	mat bodek|n,kaki bodek|n
+拍马屁	mat bodek|n,kaki bodek|n
 拍马屁的人	peleceh
-拍马屁者	kaki bodek|n,mat bodek|n
-操	beroperasi|v,bersenam,genggam|n,kawad|n,kelola|v,padang|n,pemanipulasi|n,rumit|adj
-操作	beroperasi|v,kelola|v,pemanipulasi|n,sistem pengendalian|n
-操作系	sistem pengendalian|n
-操作系统	sistem pengendalian|n
+拍马屁者	mat bodek|n,kaki bodek|n
+操	kawad|n,genggam|n,kelola|v,padang|n,beroperasi|v
+操作	kelola|v,beroperasi|v,pemanipulasi|n
+操作系统操作系统	sistem pengendalian|n
 操作者	pemanipulasi|n
 操场	padang|n
-操心	rumit|adj
-操心的	rumit|adj
 操纵	genggam|n
 操练	kawad|n
-棍	antan|n,belantan,gada,batan,cokmar|n,cota,memangkung,memepah
-棍击	memepah,pepah
-棍击之	memepah,pepah
-棍打	memangkung,pangkung
-棍棒	cokmar|n,tembung|v,pacak
-母	induk|n,aa|n,abc|n,abdb,abese|n,abim,abjad|n,abjadkan|v
-母亲	bonda|n,bu|n,ibu|n,ibunda|n,ina|n,mak|n,uma|n,umm
+棍	antan|n,gada,belantan,cokmar|n,tembung|v,pangkung,memangkung
+棍打	pangkung,memangkung
+棍杖	staf|n
+棍棒	cokmar|n,tembung|v
+母	bu|n,induk|n,noktah|n,ibunda|n,ibu|n,ina|n,uma|n,bonda|n
+母亲	bu|n,ibunda|n,ibu|n,ina|n,uma|n,bonda|n,mak|n,mamak|n
 母亲的	mamak|n
+母体	kependudukan|n,emak ayah|n
 母兽	induk|n
-母再	tiri|adj
-母再婚	tiri|adj
-母再婚而	tiri|adj
-母再婚而构	tiri|adj
-母再婚而构成	tiri|adj
-母再婚而构成的	tiri|adj
-母再婚而构成的亲	tiri|adj
-母再婚而构成的亲缘	tiri|adj
-母再婚而构成的亲缘关	tiri|adj
-母再婚而构成的亲缘关系	tiri|adj
-母子	anak-beranak
-母子女	anak-beranak
-母狗	anjing betina|n,asu betina|n
-母的	alias,perinduan,piatu,teta|n
-母的第	alias,teta|n
-母的第一	alias
-母的第一个	alias
-母的第一个字	alias
-母的第八	teta|n
-母的第八字	teta|n
-母系	adat perpatih,matrilineal|adj
-母系的	matrilineal|adj
-母系社	adat perpatih
-母系社会	adat perpatih
-母系社会风	adat perpatih
-母系社会风俗	adat perpatih
-母缩	aa|n,abdb,abim,atm,bbnu|n,bi|n,bm,bn
-母缩拼	abim,jakoa,kementah,kj,mageran,mib,palapes,petronas
-母缩拼词	abim,jakoa,kementah,kj,mageran,mib,palapes,petronas
-母缩略	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
-母缩略词	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
-母胞	adelfogami|n
-母胞结	adelfogami|n
-母胞结合	adelfogami|n
-母脱	caya|v,dahlah,dak|adv,duk|v,jap|adv,kimak,laman|n,lau|conj
-母脱落	caya|v,dahlah,dak|adv,duk|v,jap|adv,kimak,laman|n,lau|conj
-母脱落的	caya|v,dahlah,dak|adv,duk|v,jap|adv,kimak,laman|n,lau|conj
-母表	abc|n,abese|n,abjad|n,alfabet|n,slomang|n
-母表的	slomang|n
-母表的第	slomang|n
-母表的第二	slomang|n
-母表的第二个	slomang|n
-母表的第二个字	slomang|n
-母表的第二个字母	slomang|n
-母语	bahasa ibunda|n
+母狗	asu betina|n,anjing betina|n
+母系的母系	matrilineal|adj
+母系的母系的	matrilineal|adj
+母线	bas|n
+母群体	kependudukan|n
+母语本国语言	bahasa ibunda|n
 母音	noktah|n,vokal|n
-母顺	abjadkan|v,menurut abjad
-母顺序	abjadkan|v,menurut abjad
-母顺序排	abjadkan|v
-母顺序排列	abjadkan|v
-母顺序的	menurut abjad
-母鸡	ayam betina,ibu ayam|n,induk ayam
-湍	jeram,riam|n
-湍流	jeram,riam|n
-珍	gewang|n,koleksi,mutiara|n,nadirat,selenggara
+母鸡	ibu ayam|n,induk ayam,ayam betina
+湍	riam|n,jeram
+湍急	cepat|adj
+湍流	riam|n,jeram
+珍	mutiara|n,selenggara,nadirat,koleksi
 珍品	nadirat
+珍奇	aneh|adj
 珍惜	selenggara
 珍爱	selenggara
 珍珠	mutiara|n,gewang|n
 珍珠母	gewang|n
 珍藏	koleksi
-种	cendara|n,cengal|n,menumbuhkan,sepat|n,spesies|n,aneka,aneka ragam,aragas
-种书	kitab-kemitab
-种书籍	kitab-kemitab
-种事	hal ehwal,komited|adj
-种事业	komited|adj
-种事业的	komited|adj
-种事情	hal ehwal
-种人	samsam
-种原	sebab-musabab
-种原因	sebab-musabab
-种各	arna-warni,batu-batan,beraneka,beras petas,beras-petas,berjenis-jenis,bermacam-macam,bunga-bungaan
-种各样	arna-warni,batu-batan,beraneka,beras petas,beras-petas,berjenis-jenis,bermacam-macam,bunga-bungaan
-种各样的	arna-warni,batu-batan,beraneka,beras petas,beras-petas,bunga-bungaan,kayu-kayan,kayu-kayuan
-种各样的木	kayu-kayan,kayu-kayuan
-种各样的木材	kayu-kayan,kayu-kayuan
-种各样的石	batu-batan
-种各样的石头	batu-batan
-种各样的米	beras petas,beras-petas,petas
-种各样的花	bunga-bungaan
-种各样菜	lauk-pauk
-种各样菜色	lauk-pauk
-种壳	biji-bijian
-种壳类	biji-bijian
-种大	pukat|n
-种大渔	pukat|n
-种大渔网	pukat|n
-种子	benih|n,bibit|n,biji|n,biji benih|n,semai|v,zariah,biji-bijian
-种子核	biji-bijian
-种山	pergam|n
-种山鸠	pergam|n
-种形	aneka ragam
-种形式	aneka ragam
-种情	dalam keadaan
-种情况	dalam keadaan
-种情况之	dalam keadaan
-种情况之下	dalam keadaan
-种捕	kelong
-种捕鱼	kelong
-种捕鱼用	kelong
-种捕鱼用具	kelong
-种族	kabilah,perkauman,puak|n,diskriminasi kaum|n,diskriminasi ras|n,genosid|n,rasial,rasis|adj
-种族主	rasis|adj,rasisme|n
-种族主义	rasisme|n,rasis|adj
-种族主义的	rasis|adj
-种族主义者	rasis|adj
-种族名	semang
-种族歧	diskriminasi kaum|n,diskriminasi ras|n
-种族歧视	diskriminasi kaum|n,diskriminasi ras|n
+珍贵	indah|adj
+珍重	indah|adj
+种	spesies|n,kategori|n,sepat|n,cengal|n,macam|n,cendara|n,bagai|conj,biji|n
+种子	biji|n,benih|n,bibit|n,semai|v,biji benih|n,zariah
+种族	puak|n,kabilah,perkauman,genosid|n,rasisme|n,diskriminasi ras|n,diskriminasi kaum|n,rasial
+种族主	rasisme|n
+种族主义	rasisme|n
+种族主义者种族主义	rasis|adj
+种族主义者种族主义的	rasis|adj
+种族歧	diskriminasi ras|n,diskriminasi kaum|n
+种族歧视	diskriminasi ras|n,diskriminasi kaum|n
 种族灭	genosid|n
 种族灭绝	genosid|n
 种族的	rasial
-种果	buah-buahan
-种果子	buah-buahan
-种树	petaling,pulai,senamaki
-种树之	pulai
-种树之名	pulai
-种树木	senamaki
-种树的	petaling
-种树的名	petaling
-种树的名称	petaling
-种植	bertanam,mengkuang|n
-种植物	mengkuang|n
-种泥	betutu
-种泥鱼	betutu
-种灾	geruh-gerah,mala petaka|n
-种灾害	mala petaka|n
-种灾难	geruh-gerah
-种热	gelama
-种热带	gelama
-种热带鱼	gelama
-种猴	jelotong,jelutung|n
-种猴子	jelotong,jelutung|n
-种甘	umbuk-umbai
-种甘言	umbuk-umbai
-种的	panca|num,teraling
-种的鹦	teraling
-种的鹦鹉	teraling
-种种	berbagai,geruh-gerah,hal ehwal,sebab-musabab
+种植	bertanam
+种种	berbagai,hal ehwal,geruh-gerah,sebab-musabab
 种种事	hal ehwal
 种种事情	hal ehwal
 种种原	sebab-musabab
 种种原因	sebab-musabab
 种种灾	geruh-gerah
 种种灾难	geruh-gerah
-种类	aneka,bagai|conj,jenis|n,kategori|n,macam|n,neka,berjenis-jenis
-种类型	berjenis-jenis
-种肥	guano
-种肥料	guano
-种胶	jelutung|n
-种胶树	jelutung|n
-种舞	dansa-dansi,joget|v
-种舞蹈	dansa-dansi,joget|v
-种艰	pahit getir
-种艰苦	pahit getir
-种花	arnasari
+种类	kategori|n,macam|n,bagai|conj,jenis|n,aneka,neka
+种群	ummah|n,kependudukan|n
 种苗	semai|v
-种菜	pauk lauk
-种菜肴	pauk lauk
-种蔓	pakma
-种蔓草	pakma
-种蔓草之	pakma
-种蔓草之名	pakma
-种蔬	mayur
-种蔬菜	mayur
-种蜥	biawak
-种蜥蜴	biawak
-种金	pancalogam
-种金属	pancalogam
-种金属的	pancalogam
-种金属的混	pancalogam
-种金属的混合	pancalogam
-种金属的混合金	pancalogam
-种长	nafiri
-种长喇	nafiri
-种长喇叭	nafiri
-种颜	pancalogam
-种颜色	pancalogam
-种颜色的	pancalogam
-种颜色的岩	pancalogam
-种颜色的岩石	pancalogam
-种香	pawah,piah,rempah-piah
-种香料	pawah,piah,rempah-piah
-种马	dodol,kuda padi|n,makyung
-种马来	dodol,makyung
-种马来歌	makyung
-种马来歌剧	makyung
-种马来糕	dodol
-籍	jelempah,keji,kewarganegaraan|n,kitab,kitab-kemitab,pustaka|n
-绍	memperkenalkan
-苍	cakerawala|n,kubah,lalat|n,lesi,pasi,pucat|adj,pucat lesi,pucung|n
-苍天	cakerawala|n,wati
-苍白	lesi,pasi,pucat|adj,pucat lesi
-苍白无	lesi,pucat lesi
-苍白无血	lesi,pucat lesi
+苍	lalat|n,cakerawala|n,pucung|n
+苍天	cakerawala|n
+苍天尾词表示女性	wati
+苍白	pucat|adj
 苍白无血色	lesi,pucat lesi
 苍白的	pucat|adj
 苍穹	kubah
 苍穹顶	kubah
+苍老	buruk|adj
+苍茫	luas|adj
 苍蝇	lalat|n
 苍鹭	pucung|n
 藍	belau|adj
 藍色	belau|adj
-藍色的	belau|adj
-衍	balut rokok,eka|num,lesau,tapai|n,teka|v
-衍塞	lesau
-衍塞责	lesau
-衍生	eka|num,tapai|n,teka|v
-衍生词	eka|num,tapai|n,teka|v
-衍生词汇	eka|num,tapai|n,teka|v
-词	aa|n,abdb,abim,ac,adakah|v,adicita|n,adjektif|n,adverba|n
+衍生词汇語彙	eka|num
+词	kamus|n,vokabulari
+词人墨客	katib|n
 词典	kamus|n
 词形	saraf
 词形变	saraf
 词形变化	saraf
-词汇	bahasa|n,laburan|n,loghat|n,vokabulari,eka|num,tapai|n,teka|v
-词的	adjektif|n,kata sifat|n
-词表	wati
-词表示	wati
-词表示女	wati
-词表示女性	wati
-词首	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
-词首字	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
-词首字母	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
-词首字母缩	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
-词首字母缩略	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
-词首字母缩略词	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
-词首字母脱	caya|v,dahlah,dak|adv,duk|v,jap|adv,kimak,laman|n,lau|conj
-词首字母脱落	caya|v,dahlah,dak|adv,duk|v,jap|adv,kimak,laman|n,lau|conj
-词首字母脱落的	caya|v,dahlah,dak|adv,duk|v,jap|adv,kimak,laman|n,lau|conj
-遍	menyelongkar,merata,rata-rata,selongkar
-配	agih,alih suara|n,bahagi|v,berjodoh,bilik acu|n,catu,catuan,dabing|n
-配偶	jodoh,poligami|n
-配合	selaras|adj,sesuai padan,suai
+词条	istilah|n
+词汇	vokabulari
+词目	istilah|n
+词语	kalimah|n,istilah|n
+词首字母缩略词	aa|n,bi|n,it|n,pj|n,pm|n,yb|n,dun|n,krt|n
+词首字母脱落	dak|adv,laman|n,duk|v,jap|adv,lau|conj,leh|v,lum|adv,mas|n
+词首字母脱落的	dak|adv,laman|n,duk|v,jap|adv,lau|conj,leh|v,lum|adv,mas|n
+配	selaras|adj,kuota|n,suai,jodoh,catuan,sesuai padan,perlengkapan
+配件	aandeel|n
+配偶	jodoh
+配合	selaras|adj,suai,sesuai padan
 配备	perlengkapan
+配套完善	komprehensif|adj
 配成	berjodoh
 配成双	berjodoh
-配某	mengembani
-配某任	mengembani
-配某任务	mengembani
-配某任务给	mengembani
-配某任务给某	mengembani
-配某任务给某人	mengembani
-配给	catuan,catu,mencatu
-配车	bilik acu|n
-配车间	bilik acu|n
-配间	galeri|n
-配音	alih suara|n,dabing|n
-配音复	alih suara|n,dabing|n
-配音复制	alih suara|n,dabing|n
+配给	catuan
+配重	berat|adj
+配音	dabing|n,alih suara|n
+配音复	dabing|n,alih suara|n
+配音复制	dabing|n,alih suara|n
 配额	kuota|n
-重	berat|adj,bobot|n,pemberat|n,acuh,agung|adj,aksen|n,ambil berat,atad
-重之	keletuk
-重之敲	keletuk
-重之敲击	keletuk
-重之敲击声	keletuk
+重	berat|adj,bobot|n,pemberat|n,keperluan|n,aksen|n,bina|v,menghargai|v,peduli|v
 重伤	perih
-重击	hempap,menghempap,berdebuk,debuk,gedegang|n
-重击声	berdebuk,debuk,gedegang|n
-重击声的	gedegang|n
-重压	empap,henyak|v
+重击	hempap,menghempap,debuk,berdebuk
+重击声	debuk,berdebuk
+重力	graviti|n
+重压	henyak|v,empap
 重叠	tumpang tindih|n
-重声	deram
-重声音	deram
-重复	lipat|v,meraba-raba|v,mubazir|adj,tertoleh-toleh|v
+重型	parang|n
+重复	mubazir|adj,lipat|v,meraba-raba|v,tertoleh-toleh|v
 重复地	tertoleh-toleh|v
-重复的	meraba-raba|v,mubazir|adj
+重复的	mubazir|adj,meraba-raba|v
+重大	perlu|v
 重婚	bigami|n
+重度	serius|adj
 重建	bina|v,rekonstruksi
 重患	seman
+重振	pemulihan|n
 重提	mengulangi
-重整	petrol|n
 重新	semula|adv,penghutanan semula|n
 重新造	penghutanan semula|n
 重新造林	penghutanan semula|n
-重点	atad,tekanan
-重申	ungkit|v
-重的	agung|adj,parah,payah|adj,pengar,perdata|n,rodan,serius|adj
+重样	serupa|adj
+重点	atad
 重荷	sarat
 重荷的	sarat
-重要	keperluan|n,penting|adj,betapa pentingnya,ciri penting,mustahak,terutama,vital
+重获	pemulihan|n
+重要	keperluan|n,penting|adj,vital,mustahak,ciri penting
 重要特	ciri penting
 重要特点	ciri penting
-重要的	mustahak,vital,terutama
+重要的	vital,mustahak
 重覆	lipat ganda
 重覆的	lipat ganda
-重视	acuh,ambil berat,mementingkan,menghargai|v,mengindahkan,mengutamakan,peduli|v,mengetepikan
+重视	menghargai|v,peduli|v,acuh,mengindahkan,ambil berat,mementingkan,mengutamakan
 重踏	hentak|v,henyak|v,menghenyak,letum-letam
 重踏声	letum-letam
+重身子	hamil|adj
 重返	ulang|v
-重重	mala-petaka|n
-重量	beratnya,keberatan,bahara
+重量	keberatan,beratnya,bahara
 重量单	bahara
 重量单位	bahara
-重音	aksen|n,menekankan
-重音念	menekankan
-铍	berilium|n
+重音	aksen|n
+铍铍	berilium|n
+铍铍B	berilium|n
+铍铍Be	berilium|n
 镍	nikel|n
-降	aria,jatuh|v,menyerah,merendahkan,pantekosta,payung terjun|n,rosot,serah|v
-降下	aria,jatuh|v
-降临	pantekosta
-降临节	pantekosta
+降	timpa|v,rosot,merendahkan
+降下	jatuh|v,aria
 降低	rosot
+降号	rata|adj
+降幅	titis|n
+降生	kelahiran|n
 降祸	timpa|v
 降级	merendahkan
-降落	timpa|v,payung terjun|n,timpakan
-降落伞	payung terjun|n
-雍	anak lidah|n,anak tekak|n,uvula|n
-雍垂	anak lidah|n,anak tekak|n,uvula|n
-鳍	radai,ridip,sirip|n
-黍	jagung|n,kelongsong,tongkol
-黍的	tongkol
-黍的梗	tongkol
-黍的梗心	tongkol
-黍的梗心果	tongkol
-黍的梗心果实	tongkol
+降落	timpa|v
+降落伞跳伞	payung terjun|n
+雍容	natural|adj
+雍容大度	karim|adj
+雍睦	manja|adj
+雍雍	aman|adj
+鳍	sirip|n,radai,ridip

@@ -1,290 +1,268 @@
-habis	abis tu|adv,bistu|adv
 habit	canda|n
-habitual	pemabuk|n
-habitually	kaki dadah|n
-habuk	habok|n
-hack	cincang|v,tetak|v
-hadiahi	dihadiahi|v,menghadiahi|v
-hadiahkan	dihadiahkan|v,menghadiahkan|v
-hadis	hadith|n
-hadith	hadis|n,rawi|n
-hadiths	berhadis|v
+habitually uses drugs	kaki dadah|n
+hadith	hadis|n
+hadith narrator	rawi|n
 hafnium	hafnium|n
-haid	datang bulan|n
-hair	bulu|n,rambut|n,remang|n,sanggul|n,uban|n
-hairdress	andam|v,dandan|v
+hahaha	kahkah
+hair	rambut|n
+hair or word	akar|n
 hairpiece	rambut palsu|n
 hairstyle	gaya rambut|n
 hairy	randuk|adj
-hajj	pergi haji|v
-hajji	haji|n
-hal	apahal|adv,pahal|adv,pehal|adv
-halaman	laman|n
-half	majoriti|n,separuh|num,setengah|n,setengah dozen|num
+hajji a muslim who has participated in a hajj	haji|n
+half	separuh|num
+half a dozen	setengah dozen|num
 half-baked	kepalang|adj
 half-hearted	kepalang|adj
 half-time	separuh masa|n
-hall	balai|n,dewan|n,pendapa|n,peseban|n
-hallucinate	berhalusinasi|v
+hall	balai|n,dewan|n,pendapa|n
 hallucination	halusinasi|n
-halt	berhenti|v
-hammer	martil|n,palu|n,tukul|n,tukul dan sabit|n
+hammer	palu|n,tukul|n,martil|n
+hammer and sickle	tukul dan sabit|n
 hammock	buaian rajut|n
-hand	cekup|v,sambut|v,serah|v,tampar|n,tangan|n,timba|n
-handbag	beg tangan|n
+hand	hulur|v,sengal|adj,tangan|n
+hand bucket	timba|n
 handball	bola baling|n
 handcuffs	gari|n
+handheld short firearm weapon	pistol|n
 handkerchief	saputangan|n
 handsome	hensem|adj,tampan|adj
 handyman	tukang|n
-hang	gantung|v,sangkut|v
-hanger	penyangkut baju|n
 hanging	penggantungan|n
-hantu	antu|n
-happen	berlaku|v
-happens	mogok kilat|n
-happy	bahagia|adj,bahagiakan|v,ria|adj,riang|adj,selamat hari jadi|int,selamat hari lahir
+happening	perlahan|adj
+happy	ria|adj,riang|adj
+happy and content	bahagia|adj
+happy birthday	selamat hari jadi|int,selamat hari lahir
 haram	haram|adj
-harapan	ph
-harassment	gangguan seksual|n
 harbour	labuhan|n,pelabuhan|n
-hard	air liat|n,bahu jalan|n,hentam|v,kencang|adj,keras|adj,minuman keras|n
+hard	keras|adj,payah|adj,susah|adj,kencang|adj,musykil|adj
+hard and lacking holes or hollows	pejal|adj
+hard liquor	minuman keras|n
+hard shoulder	bahu jalan|n
+hard water	air liat|n
+hard white substance covering the crown of a tooth nn a	enamel
 hard-working	tekun|adj
+hardens	plaster
 hardheaded	keras kepala|adj
-hardship	derita|v,kesukaran|n,kesusahan|n
-hardwood	bintangur|n,ibu kayu|n,merbau|n
+hardship	kesukaran|n,kesusahan|n
+hardwood	ibu kayu|n
+hardwood trees of genus calophyllum	bintangur|n
 hardworking	rajin|adj,ringan tulang|adj
 hare	kelinci|n
-hargai	menghargai|v
-hari	hari raya haji,hari raya korban,hari raya puasa,tengari|n
-harimau	maung|n,rimau|n
-haris	harith
-harlequin	itik badut|n
+harlequin duck	itik badut|n
 harmful	melarat|adj,memudaratkan|adj
+harmonica a musical wind instrument with a series of hol	harmonika
 harmonious	selaras|adj
 harpoon	serampang|n,tempuling|n
-harun	haron
-harvest	tuai|v,tuaian|n
-has	duda|n,haji|n,kata|n,komku|n,mualaf|n,oktagon|n
+harvest	tuaian|n
+has	telah|adv
+has been made clear or proven	ternyata|v
 hashtag	tanda pagar|n
 hassium	hassium|n
 hastily	cepat-cepat|adv
 hat	topi|n
-hatch	tetas|v
-hate	menyampah|v
 hatred	benci|v
-haul	hela|v,heret|v
-have	berabangkan|v,berabarkan|v,berbaloi|v,berbekas|v,berbeza|v,beremosi|v
-having	antarabangsa|adj,berabang|adj,bererti|adj,berhadiah|adj,berjawab|adj,berkebolehan|adj
+have	telah|adv
+have to	harus|v
+having a bad smell	busuk|adj
+having a brown-like colour	kerbing|adj
+having a cushion	berkusyen|v
+having a fever	demam|n
+having a great width	lebar|adj
+having a lot of scratches	calar-balar|adj
+having a prize	berhadiah|adj
+having a prohibition or ban on it	berlarangan|adj
+having a very pointed or cutting quality	tajam-tajam|adj
+having an answer	berjawab|adj
+having an appearance similar to a cape	menanjung|adj
+having and providing useful information regarding something	informatif|adj
+having brothers	berabang|adj
+having firm belief	yakin|adj
+having intervals or interspaces	jarang|adv
+having little thickness	nipis|adj
+having lost one's sense of touch on the skin	lali|adj
+having luck	bertuah|adj
+having meaning	bererti|adj
+having no money	pokai|adj
+having no water left	tuntas|adj
+having similarity to	mirip|adj
+having strong faith in god	soleh|adj
+having the ability	berkebolehan|adj
+having the best of both worlds	seperti gergaji dua mata
+having the same pronunciation	sekata|adj
 hay	jerami|n
 hazardous	berbahaya|adj
-haze	jerebu|n
+haze fine solid particles suspended in the air	jerebu|n
 hazy	kabur|adj
-he	beliau|pron
-head	cef|n,dongak|v,hulu|n,junjung|v,kalang ulu|n,kepala|n
+he	ia|pron,dia|pron,beliau|pron,baginda|pron
+head	ulu|adj,hulu|n,kepala|n,penggawa|n,kepala otak|n
+head of government	ketua kerajaan|n
+head of state	ketua negara|n
 headache	sakit kepala|n
-headdress	tanjak|n
-headgear	tengkolok|n
-headhunt	kayau|v
-headmaster	cikgu besar|n,pengetua|n
-headmistress	cikgu besar|n,pengetua|n
+headmaster	pengetua|n,cikgu besar|n
+headmistress	pengetua|n,cikgu besar|n
 headquarters	ibu pejabat|n
-headscarf	awning|n
 headshake	geleng|n
 headstream	hulu sungai|n
-headteacher	cikgu besar|n,guru besar|n,pengetua|n
+headteacher	pengetua|n,cikgu besar|n
 health	kesihatan|n
-healthy	nyaman|adj,segar|adj,sihat|adj,waras|adj
-hear	dengar|v
-heard	nyata|adj
-hearing	telinga|n
+healthy	segar|adj,sihat|adj,nyaman|adj
+hearing a legal procedure done before a judge	pembicaraan
 hearsay	angin-angin|n,khabar angin|n
-heart	hafal|v,jantung|n,jantung hati|n,kalbu|n,lebar-lebu|n,serangan jantung|n
+heart	kalbu|n,jantung|n
+heart attack	serangan jantung|n
 heart-shaped	bentuk jantung|adj
 heartache	pedih hati|n
-heartwood	ibu kayu|n,teras|n
-heat	haba|n,puteri lilin|n,terma|n
+heartwood	ibu kayu|n
+heartwood the hard	teras|n
+heat conduction	haba|n
 heater	pemanas|n
-heave	angkat|v
-heaven	firdaus|n,jannah|n,kayangan|n,syurga|n
-heavenly	keinderaan|n
-heavily	henyak|v
-heavy	deras|adj,lebat|adj,lori|n,parang|n
+heaven	jannah|n,syurga|n,kayangan|n
+heavy	deras|adj,lebat|adj,parang|n
 hebrews	yahudi
-heck	apa benda|pron
-heed	endah|v,hirau|v
 heel	tumit|n
-heels	tinggung|v
 hehe	hihi
-heimii	cengal|n
 heir	waris|n
-hela	menghela|v
-helai	sehelai|cls
-held	bertempat|v
 helicopter	helikopter|n
 helium	helium|n
 hell	neraka|n
 hellish	jahanam|adj
 hello	halo,helo
-helm	kemudi|n
+helm of ship	kemudi|n
 helmet	topi keledar|n
-help	membantu|v,menolong|v,tolong|v
-helpful	abang polis|n
-hemidacytlus	cecak|n
-hempedal	empedal|n,lempedal
-hendak	nak|prep
+hemidacytlus frenatus	cecak|n
 henna	inai|n,pacar|n
-herb	herba|n
-herbivore	herbivor|n,maun|n
+herbivore	maun|n,herbivor|n
 herder	gembala|n
-here	ini|pron,nah
-heresy	ajaran sesat|n
-heritage	warisan|n
-hermit	umang-umang|n
-hero	pahlawan|n,wira|n
+here	nah
+heresy	bidaah|n,ajaran sesat|n
+heritage	darah|n,warisan|n
+hermit crab	umang-umang|n
+hero	wira|n,pahlawan|n
 heroism	kewiraan|n
 heron	pucung|n
 hesitant	gamer|adj
-hesitation	er
-hey	hoi,weh,wei,woi,ya|int
+hey	ya|int,hoi
+hey exclamation to get attention	weh,wei,woi
 hiatus	hiatus|n
-hibernate	berhibernasi|v
 hibernation	hibernasi|n
-hibiscus	bunga raya|n,worawari|n
-hidden	art berat|n
-hide	lindung|v,pendap|v,sembunyi|v,simpan|v
-hidung	hidong|n,taik hidung|n
+hibiscus	worawari|n,bunga raya|n
 hierarchy	hierarki|n
-high	julang|v,julang senjata|n,khayal|adj,menjulang|v,pijau|n,sekolah menengah|n
-high-five	sep|n
-higher	lantik|v
-highest	firdaus|n,sat|adj
-highlands	tanah tinggi cameron
-highness	duli yang maha mulia
+high	khayal|adj,tinggi|adj
+high port arms	julang senjata|n
+high school	sekolah menengah|n
+high-pitched bird sound	kicau|n
+high-ranking official in some malay sultanates under the	temenggung
+highly infectious often fata	cacar
+highway	tol|n
 hijab	tudung|n
-hijau	ijo|adj
-hijri	bulan puasa|n
 hilarious	lucu|adj
-hill	bukit|n,huma|n,puntuk|n
+hill	bukit|n,puncak|n
 hillbilly	sepok|adj
 hillock	guar|n
-hilt	candung|n
-hilus	tampuk|n
-himself	mat pen|n
-hinder	cegah|v,halang|v
 hindrance	aral|n,halangan|n
-hindu	betara|n,betari|n
-hindus	indera|n
 hinge	engsel|n
 hip	pinggul|n
 hippopotamus	badak air|n
-hispida	gadung|n
-hissing	desis|n
-historical	bunduki|n,sejarawi|adj
+his highness	duli yang maha mulia
+his majesty	paduka|n,duli yang maha mulia
+historical	sejarawi|adj
+historical coin minted in venice	bunduki|n
 history	babad|n,sejarah|n
-hit	hentam|v,langgar lari|n,meletakkan kepala|v,mengorat|v,pangkong|v,parap|v
-hitam	bukit kayu hitam,itam|adj
-hitch	tumpang|v
-hitung	dihitung|v,menghitung|v
-hitung-hitung	dihitung-hitung|v
+histrionicus histrionicus	itik badut|n
+hit and run	langgar lari|n
+hit with the palm of the hand	tampar|n
 hoarse	parau|adj
 hockey	hoki|n
 hoe	cangkul|n
-hoi	oi
-hold	ampu|v,berisi|v,bermoreh|v,kendong|v,paut|v,pegang|v
-holding	pautan|n,tuntun|v
-hole	liang|n,lubang|n
-holes	pejal|adj
+hold	kendong|v,dipegang|v
+hole	lubang|n
 holiday	hari raya|n
 holland	holanda,wolanda
 hollow	lekuk|n,lubang|n
-hollowed	teropong|n
 holmium	holmium|n
-holy	begawan|adj,kudus|adj,pawitera|adj
-home	balik kampung|n,selamat pulang
-homeland	ibu pertiwi|n,tanah air|n
-homelessness	gelandangan|n,tuna wisma|n
+holy	kudus|adj,begawan|adj,pawitera|adj
+homeboy	sahabat|n
+homeland	tanah air|n,ibu pertiwi|n
+homelessness	tuna wisma|n,gelandangan|n
 homestay	inap desa|n,rumah inap|n
-honest	jujur|adj,reda|adj,tulus|adj
+homophonous	sekata|adj
+honest	jujur|adj,tulus|adj
 honey	madu|n,misan|n
 honeymoon	bulan madu|n
 honor	izzat|n
 honorary	kehormat|adj
-honorific	bera|n
-honour	kawalan kehormatan|n,martabat|n
-honourable	yang berhormat|pron
-hood	tedung|n
-hook	cangkuk|n,kait|n,mata kail|n,mengait|v,sangkut|v
-hope	asa|n,berharap|v,doa|n,harap|v,mudah-mudahan|adv,tanjung harapan
-hopefully	barangkali|adv,moga|adv,semoga|adv
-horizon	horizon|n,kaki langit|n,ufuk|n
-horizontal	horizontal|adj,lintang|adj,mengufuk|adj,vertikal|adj
-horn	hon|n,tanduk|n
+honour	martabat|n
+hook	cangkuk|n
+hope	asa|n
+hopefully	moga|adv,semoga|adv,barangkali|adv,mudah-mudahan|adv
+horizon	horizon|n
+horizontal	lintang|adj,mengufuk|adj,horizontal|adj
+horn	tanduk|n
 hornet	tebuan|n
-horse	berkuda|v,kuda|n,kuda laut|n,mencari jejak dalam air|v,ringkik|n
+horse	pelarian|n
 horsefly	langau|n
-horseradish	merunggai|n
-horses	surai|n
-horseshoe	belangkas|n,ladam|n
-hospital	hospital|n,rumah sakit|n,sepital|n
-hostile	kafir harbi|n
-hot	hangat|adj,panas|adj,pedas|adj,stim|n
-hotel	cef|n,hotel|n,ketua jurumasak|n
+horseradish tree	merunggai|n
+horseshoe crab	belangkas|n
+hospital	sepital|n,hospital|n,rumah sakit|n
+hot	pedas|adj,hangat|adj
+hot because of direct heating of the sun	panas|adj
+hot gaseous form of water	stim|n
+hotel	hotel|n
 hound	anjing pemburu|n
 hour	jam|n
-hours	jam kerja|n
-house	bait|n,cecak|n,dinding|n,mencit|n,ruang|n,teratak|n
+house	bait|n,teratak|n
+house lizard	cecak|n
+house mouse	mencit|n
 housemaid	amah|n
-how	amacam|adv,apa macam|adv,apa pasal|adv,bagaimana|adv,berapa|adv,bisa mengabet|v
+housemaid etc	pesuruh|n,suruhan|n
+how	amacam|adv,apa macam|adv,macam mana|adv
+how are you	apa khabar|int
+how come	apa pasal|adv
+how in what way or manner	bagaimana|adv
+how many	berapa|adv
+how much	berapa|adv
 howdah	rengga|n
 however	namun|adv,walau bagaimanapun|conj
-howl	lolong|n
-http	cecikut|n,kuki|n
-hug	peluk|v
+http cookie	kuki|n,cecikut|n
 huge	besau|adj
-hujan	ujan|n
-hujung	hujong|adj,ujung|adj
-hull	sekam|n
-hulu	hulu langat,ulu|adj
-human	hak asasi manusia|n,insan|n,manusia|n,manusiawi|adj,nara|n
-humans	manusiawi|adj
+hulu langat a district of selangor	hulu langat
+human	nara|n,insan|n,manusia|n,manusiawi|adj
+human being	insan|n,manusia|n
+human right	hak asasi manusia|n
+humans	segar|adj
 humid	lembap|adj
 humidity	kelembapan|n
+humongous	raksasa|adj
 humor	kejenakaan|n
-humorous	lawak|adj
 humour	kelucuan|n
 hump	bonggol|n
-humpback	paus kelasa|n
 humpbacked	bongkok|adj
 hunchbacked	bongkok|adj
-hunched	kebongkokkan|n
-hundred	dua ratus|num,empat ratus|num,enam ratus|num,keti|num,lapan ratus|num,lima ratus|num
-hung	berlabuh|v,labuh|adj,nekshar|adj,parlimen tergantung|n
+hundred	ratus|num
+hundred thousand	keti|num,ratus ribu|num
+hung	nekshar|adj
+hung parliament	parlimen tergantung|n
 hungary	hungary
-hunger	mogok lapar|n,mogok makan|n
-hungry	lapar|adj
-hunt	buru|v
-hunter	pemburu|n
-hurl	lontar|v
+hunger strike	mogok lapar|n,mogok makan|n
+hungry affected by hunger	lapar|adj
 hurriedly	acak-acak|adv
-hurry	cepat-cepat|adv
-hurt	pening kepala|adj
-husband	laki|n,mempersuamikan|v,suami|n
-husk	antah|n,sekam|n
+husband	laki|n,suami|n
+husk	antah|n
 husky	huski|n
-hutan	utan|n
-hyacinth	bakong|n,lembayung|n
-hybrid	pisang raja|n,punti|n
-hydrant	pili bomba|n
 hydraulic	hidraulik|adj
-hydrogen	bom hidrogen|n,elektrod hidrogen piawai|n,hidrogen|n,hidrogen karbonat|n,hidrogen klorida|n,hidrogen peroksida|n
+hydrogen	hidrogen|n
+hydrogen bomb	bom hidrogen|n
+hydrogen bond	ikatan hidrogen|n
+hydrogen carbonate	hidrogen karbonat|n
+hydrogen chloride	hidrogen klorida|n
+hydrogen ion	ion hidrogen|n
+hydrogen peroxide	hidrogen peroksida|n
 hydrology	hidrologi|n
-hydroxide	hidroksida|n,natrium hidroksida|n,zink hidroksida|n
+hydroxide	hidroksida|n
 hyena	dubuk|n
 hygrometer	higrometer|n
-hypertension	hipertegangan|n,hipertensi|n
+hypertension	hipertensi|n,hipertegangan|n
 hypochondria	hipokondria|n
 hypocrisy	kemunafikan|n
-hypocrite	hipokrit|n,munafik|n
-hypocritical	kemunafikan|n
 hypothermia	hipotermia|n

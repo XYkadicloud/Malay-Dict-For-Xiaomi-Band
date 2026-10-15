@@ -1,5 +1,5 @@
 mbok	mbok	n	姐妹	sister
-mbs	mbs		词首字母缩略词
-mbsa	mbsa		词首字母缩略词
-mbsj	mbsj		词首字母缩略词
-mbsp	mbsp		词首字母缩略词
+mbs	mbs		词首字母缩略词	initialism of Majlis Bandaraya Seremban (“Seremban City Council”)
+mbsa	mbsa		词首字母缩略词	initialism of Majlis Bandaraya Shah Alam (“Shah Alam City Council”)
+mbsj	mbsj		词首字母缩略词	initialism of Majlis Bandaraya Subang Jaya (“Subang Jaya City Council”
+mbsp	mbsp		词首字母缩略词	initialism of Majlis Bandaraya Sebarang Prai (“Sebarang Prai City Coun

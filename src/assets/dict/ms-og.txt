@@ -2,5 +2,5 @@ oga	oga		水烟筒
 ogah	ogah		动摇，震动，不情愿的
 ogakogak	ogak-ogak		扮小丑，小花脸
 ogalagil	ogal-agil		摇动
-ogo	ogo		[医] 毁形性鼻咽炎
+ogo	ogo		[医] 毁形性鼻咽炎	abbreviation of Ogos (“August”)
 ogok	ogok		贪心，贪婪

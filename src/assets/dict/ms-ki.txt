@@ -31,7 +31,7 @@ kilap	kilap		闪耀，闪光
 kilas	kilas	n	藤条	a glance  look  flash  or instantaneous movement
 kilat	kilat	n	闪电	lightning (flash of light)
 kilau	kilau		电光
-kilikili	kili-kili	n	牛鼻环圈
+kilikili	kili-kili	n	牛鼻环圈	alternative form of kekili (“swivel; reel; nose ring”)
 kilir	kilir		磨锐，磨利
 kilo	kilo		公斤 公里	n one thousand grams; the basic unit of mass adopted unde…
 kilowat	kilowat		千瓦

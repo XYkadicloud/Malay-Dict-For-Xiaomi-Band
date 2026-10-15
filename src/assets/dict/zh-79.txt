@@ -1,22 +1,15 @@
-乏	jerih,kekurangan|n,kesip,payah|adj,penat|adj,rendah diri|adj,tekur
-乏信	rendah diri|adj
-乏信心	rendah diri|adj
-乏信心的	rendah diri|adj
-乏的	payah|adj,tekur
-住	bersemayam,aboi|n,alang|n,anak negeri,berhuni,bermastautin,berpenduduk|adj,boleh tahan
-住于	mendiami
+住	bersemayam,inap|v,aboi|n,alang|n,kediaman,penghuni,perumahan,menginap
 住址	aboi|n,alang|n
 住宅	kediaman
 住家	perumahan
 住宿	inap|v,menginap
-住所	darul aman,darul ehsan,darul khusus,darul makmur,tempat|n
-住树	serangkak
-住树身	serangkak
-住民	penghuni,anak negeri,pribumi
-住的	berhuni,berpenduduk|adj,huni,inap desa|n,rumah inap|n
-住的时	inap desa|n,rumah inap|n
-住的时期	inap desa|n,rumah inap|n
-偏	abnormal|adj,condong kepala,ekstremis|n,lencong,melencong,menyebelahi,omnivor|n,prasangka
+住所	tempat|n,darul aman,darul ehsan,darul khusus,darul makmur
+住民	penghuni
+俏丽	gelis|adj
+俏皮	bestari|adj
+俏美	gelis|adj
+偏	abnormal|adj,menyebelahi,prasangka,condong kepala
+偏偏	cuma|adv,persis|adv
 偏僻	terpencil|adj
 偏僻的	terpencil|adj
 偏向	lencong,melencong
@@ -27,52 +20,46 @@
 偏离	abnormal|adj
 偏袒	menyebelahi
 偏见	prasangka
-偏食	omnivor|n
-偏食的	omnivor|n
-偏食的人	omnivor|n
-像	seperti|prep,akan-akan,album,arca|n,bagaikan|prep,bak,bayangkan|v,berhala|n
-像出	radai
-像出游	radai
-像制	videografi|n
-像制作	videografi|n
+偏远	terpencil|adj
+像	seperti|prep
+像样	bagus|adj
+像模像样	bagus|adj
 像片	gambar|n,album
 像片簿	album
-像的	imaginatif|adj
-减	luang|adj,jatuh|v,jualan murah,kemerosotan,luak|v,mengurangkan,menyusuti,menyusutkan
-减价	jualan murah,obral
-减少	luak|v,menyusuti,menyusutkan,surut,susut|v,mengurangkan
+减	luang|adj,reda|adj,rosot,ringankan,kemerosotan
+减压病	pun|adv
+减压症	pun|adv
+减少	luak|v,susut|v,surut,menyusuti,menyusutkan
 减轻	reda|adj,ringankan
-减退	kemerosotan,reda|adj,rosot
-协	asosiasi,cecikut|n,janji|n,kuki|n,laras|n,mas kahwin|n,muafakat|n,pakat|v
-协会	asosiasi,perhimpunan,persatuan|n,sukan elektronik|n
-协会接	sukan elektronik|n
-协会接口	sukan elektronik|n
-协定	teriti,mas kahwin|n
-协约	janji|n,muafakat|n,pakat|v,perjanjian|n,teriti
-协议	muafakat|n,cecikut|n,kuki|n
+减退	reda|adj,rosot,kemerosotan
+协	janji|n,perjanjian|n,muafakat|n,laras|n,pakat|v,perhimpunan,asosiasi,teriti
+协会	persatuan|n,perhimpunan,asosiasi
+协会关	persatuan|n
+协会关联	persatuan|n
+协助	perkhidmatan|n
+协定	teriti
+协约	janji|n,perjanjian|n,muafakat|n,pakat|v,teriti
+协议	muafakat|n
+协议书	protokol|n
 协调	laras|n
-坏	bermasam muka|v,jahat|adj,aswas,binasa|adj,buruk|adj,cedera,fitnah|n,gempur
-坏名	umpat
-坏名誉	umpat
-坏地	bermasam muka|v
+坏	jahat|adj,buruk|adj,nakal|adj,pelasuh
+坏了	pucuk|n
 坏念	aswas
 坏念头	aswas
 坏掉	pokah|adj
 坏掉的	pokah|adj
-坏术	pelias
-坏的	bermasam muka|v,buruk|adj,nakal|adj,judas,kolokan,lecuh,lohoh,ranah
-坏者	perosak|n
+坏的	buruk|adj,nakal|adj
+坏的坏坏	bermasam muka|v
+坏的坏坏地	bermasam muka|v
 坏蛋	pelasuh
-奏	berpuput,gesek biola,memperdengarkan,menggamit,menggesek
-奏小	gesek biola
-奏小提	gesek biola
-奏小提琴	gesek biola
-屏	sadang,sading,sampiran,tangkap layar|n
-屏幕	sadang,sading,tangkap layar|n
+坏鸟	pokah|adj
+嫏嬛	perpustakaan|n
+屏	sampiran
+屏幕	tangkap layar|n
 屏幕截	tangkap layar|n
 屏幕截图	tangkap layar|n
 屏风	sampiran
-捏	cubit|v,jentik|n,mencubit,pecal,sepit|n,terap,bancuh|v,berjinjit-jinjit
+捏	cubit|v,sepit|n,jentik|n,pecal,terap,mencubit,bancuh|v
 捏出	lecit
 捏皱	kumal
 捏皱的	kumal
@@ -80,67 +67,29 @@
 捏足	berjinjit-jinjit
 捏足走	berjinjit-jinjit
 捏足走路	berjinjit-jinjit
-描	bercat|adj,gambarkan,lukis,mensifatkan,pengimbas|n
-描仪	pengimbas|n
+描	gambarkan,mensifatkan
+描写	huraian|n
 描画	bercat|adj
 描画的	bercat|adj
 描述	gambarkan,mensifatkan
-敏	akas,bijak|adj,gancang,jeraus,langkas,lincah,sigap
-敏捷	akas,lincah,gancang,jeraus,langkas
-敏捷的	gancang,jeraus,langkas
+敏	lincah,akas
+敏捷	lincah,akas,jeraus,gancang,langkas
+敏捷的	jeraus,gancang,langkas
 敏锐	sigap
 敏锐的	sigap
-族	adat perpatih,akuarium|n,ayapan,bangsa|n,bangsawan|n,diskriminasi kaum|n,diskriminasi ras|n,engku
-族主	nasionalis|n,nasionalisme|n,rasis|adj,rasisme|n
-族主义	nasionalis|n,nasionalisme|n,rasis|adj,rasisme|n
-族主义的	rasis|adj
-族主义者	nasionalis|n,rasis|adj
-族名	semang
-族或	periai
-族或朝	periai
-族或朝臣	periai
-族歧	diskriminasi kaum|n,diskriminasi ras|n
-族歧视	diskriminasi kaum|n,diskriminasi ras|n
-族母	adat perpatih
-族母系	adat perpatih
-族母系社	adat perpatih
-族母系社会	adat perpatih
-族母系社会风	adat perpatih
-族母系社会风俗	adat perpatih
-族灭	genosid|n
-族灭绝	genosid|n
-族的	engku,gahara,kenasionalan,raden,rangga,rasial,ronggeng
-族的土	ronggeng
-族的土风	ronggeng
-族的土风舞	ronggeng
-族的尊	engku,raden
-族的尊称	engku,raden
-族的称	rangga
-族的称号	rangga
-族称	tun
-族称号	tun
-族衔	maharaja besar
-族衔头	maharaja besar
-族衔头名	maharaja besar
+族	salahsilah
+族类	lumba|n
+族群	ummah|n
 族谱	salahsilah
-族赐	ayapan
-族赐给	ayapan
-族赐给的	ayapan
-族赐给的食	ayapan
-族赐给的食物	ayapan
-族馆	akuarium|n
-杏	aprikot|n,badam|n
+杏	aprikot|n
 杏仁	badam|n
+杏仁杏	badam|n
+杏仁杏仁	badam|n
 杏子	aprikot|n
-柏	asfalt|n,asflat,konifer|n
-柏油	asfalt|n,asflat
-柏油铺	asfalt|n
-柏油铺成	asfalt|n
-柏油铺成的	asfalt|n
-柏目	konifer|n
-柏目植	konifer|n
-柏目植物	konifer|n
-每	saban,tiap|det,berita harian,berita mingguan,dua-dua,harian|adv,langkau sehari,masing|det
+柏	asflat
+柏油	asflat
+柏油用柏油铺成的以柏油铺	asfalt|n
+每	tiap|det,harian|adv,seorang|cls,saban,sehari-hari,tiap-tiap orang,tiap-tiap hari
 每个	masing|det,setiap|adj
 每人	seorang|cls,tiap-tiap orang
 每件	semuanya|n
@@ -149,8 +98,10 @@
 每周	berita mingguan
 每周新	berita mingguan
 每周新闻	berita mingguan
+每处	mana-mana|adv
 每天	sehari-hari
-每日	harian|adv,tiap-tiap hari,berita harian,upah hari
+每常	acap|adv
+每日	harian|adv,tiap-tiap hari,upah hari,berita harian
 每日新	berita harian
 每日新闻	berita harian
 每日费	upah hari
@@ -158,112 +109,66 @@
 每次	dua-dua
 每次两	dua-dua
 每次两个	dua-dua
-每隔	langkau sehari,selang dua hari
+每每	acap|adv
+每隔	langkau sehari,berselang,selang dua hari
+每隔…	berselang
 每隔一	langkau sehari
 每隔一天	langkau sehari
 每隔两	selang dua hari
 每隔两天	selang dua hari
-畏	gempak|adj,gerun,jera,jeri,tumang,xenofobia|n
-畏惧	gerun,jera,jeri,tumang,xenofobia|n
-畏惧和	xenofobia|n
-畏惧和憎	xenofobia|n
-畏惧和憎恨	xenofobia|n
-畏惧和憎恨外	xenofobia|n
-畏惧和憎恨外国	xenofobia|n
-畏惧和憎恨外国人	xenofobia|n
-畏的	gempak|adj
-筏	lanting,rakit|n
-经	alkitab,ayat|n,baca doa,belanja|n,berdagang,berida,berkhutbah,berlian|n
-经不	senggugut
-经不调	senggugut
-经不通	senggugut
+浏览量	lengang|adj
+畏	tumang,jeri,jera,gerun
+畏怯	goy|adj
+畏惧	tumang,jeri,jera,gerun
+经	pengarah|n,belanja|n,biaya|n,pengurus|n,pengalaman|n,ekonomi|n,sering|adv,pengurusan|n
+经典	klasik|adj
+经历	pengalaman|n
 经厉	mengalami
 经句	nas
-经台	mimber
 经商	berdagang
 经常	sering|adv,malar
 经常的	malar
-经意	meling
-经意的	meling
+经手人	ejen|n
 经期	haid
-经来	datang haid
-经来潮	datang haid
-经济	ekonomi|n,iktisad,nasi campur|n,perekonomian,ekonometrik|n
-经济学	ekonomi|n,iktisad,ekonometrik|n
-经理	direktor,pengarah|n,pengurus|n
+经济	ekonomi|n,nasi campur|n,iktisad,perekonomian
+经济学	ekonomi|n,iktisad
+经理	pengarah|n,pengurus|n,direktor
 经由	via
-经病	latah
-经痛	ngilu|n
-经的	surah|n
-经的章	surah|n
-经紧	goy|adj,gubra|adj
-经紧张	goy|adj,gubra|adj
-经紧张的	goy|adj,gubra|adj
-经纪	makelar,peraih,tengkulak
-经纪人	makelar,peraih,tengkulak
+经纪	peraih,tengkulak,makelar
+经纪人	peraih,tengkulak,makelar
 经线	garis bujur
-经营	mengelola,mengusahakan,menyelenggarakan,pengurusan|n
-经诗	ayat|n
-经诵	qari,qariah
-经诵读	qari,qariah
-经诵读者	qari,qariah
+经营	pengurusan|n,mengelola,mengusahakan,menyelenggarakan
+经营者	pengurus|n
 经费	belanja|n,biaya|n,mesara
-经过	lalu|v,melalui|prep,melampaui,rasai
-经销	dalal
-经销商	dalal
-经雕	berlian|n
-经雕琢	berlian|n
-经雕琢的	berlian|n
-经雕琢的宝	berlian|n
+经过	melalui|prep,lalu|v,rasai,melampaui
+经过．通过	via
+经销商	agensi|n,penjual|n
+经销商佣金	dalal
 经雕琢的宝石	berlian|n
-经验	pengalaman|n,berida
-经验的	berida
-苏	andalas,leter,omel,rumbai,rusia,secang|n,sepang|n,sultan|n
+经验	pengalaman|n
+苏	rusia,secang|n,sepang|n,sultan|n
 苏丹	sultan|n,sultanah
 苏丹后	sultanah
+苏打灰	abu|n
 苏木	sepang|n
 苏枋	secang|n
-苏的	rumbai
 苏联	rusia
-苏门	andalas
-苏门答	andalas
-苏门答腊	andalas
-苏门答腊岛	andalas
-苏门答腊岛之	andalas
-苏门答腊岛之古	andalas
+苏联对105号元素的命名	bohrium|n
 苏门答腊岛之古名	andalas
-苏非	tasawuf|n
-苏非派	tasawuf|n
-苏非派禁	tasawuf|n
-苏非派禁欲	tasawuf|n
-苏非派禁欲神	tasawuf|n
-苏非派禁欲神秘	tasawuf|n
-苏非派禁欲神秘主	tasawuf|n
 苏非派禁欲神秘主义	tasawuf|n
-藏	awet|adj,berselindung,bersembunyi,jegung,kejar-kejaran,koleksi,memendamkan,menyembunyikan
-藏处	jegung
-藏物	simpanan
+藏	sorok
 藏起	menyembunyikan
 藏起来	menyembunyikan
 藏身	sorok
-赏	angsirih,ganjar,kera sumbang,mengganjar,menikmati,pahala|n,puji
-赏者	kera sumbang
+藏身处	naungan|n
+赏	angsirih
 赏钱	angsirih
-量	amaun|n,kuantiti|n,menakar,menyukat,adad,bahara,banyaknya,batu duga
-量单	bahara,mayam,nali
-量单位	bahara,mayam,nali
-量单位名	mayam
-量员	juruukur|n
-量学	handasah
-量的	perkasa|adj
-量经	ekonometrik|n
-量经济	ekonometrik|n
-量经济学	ekonometrik|n
-量词	buah|n
-量配	catu,mencatu
-量配给	catu,mencatu
-量铅	batu duga
-顏	jingga|adj
-顏色	jingga|adj
-鳏	bujang|n,bujang talan,duda|n,randa
-鳏夫	bujang|n,duda|n,randa,bujang talan
+量	kuantiti|n,amaun|n,menakar,menyukat
+量纲	matra|n
+量表	sisik|n
+雏型	model|n
+鳏	bujang|n,randa
+鳏夫	bujang|n,randa,duda|n
+鳏夫鳏	duda|n
+鳏夫鳏夫	duda|n
+黏人	manja|adj

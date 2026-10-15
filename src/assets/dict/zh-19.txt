@@ -1,52 +1,59 @@
-专	absolutisme|n,adikara,ahli|n,ahli bahasa,ainu,akademi|n,arbaa,bisa mengabet|v
+专	juara|n,pakar|n,istilah|n,ahli|n,mahir|adj,juru|n,takbir raya|n,leka
 专业	ikhtisas,profesional
 专业的	ikhtisas,profesional
-专利	monopoli,pajak
-专利权	monopoli,pajak
+专人	pakar|n
+专利	pajak,monopoli
+专利权	pajak,monopoli
 专制	adikara,absolutisme|n
 专制主	absolutisme|n
 专制主义	absolutisme|n
 专员	pesuruhjaya
-专家	ahli|n,juara|n,juru|n,pakar|n,ahli bahasa,teknokrasi|n,teknokrat|n,teknokratik|adj
-专家官	teknokratik|adj
-专家官员	teknokratik|adj
-专家官员组	teknokratik|adj
-专家官员组成	teknokratik|adj
-专家官员组成的	teknokratik|adj
-专家政	teknokrasi|n
-专家政治	teknokrasi|n
-专家政治论	teknokrasi|n
-专家治	teknokrat|n
-专家治国	teknokrat|n
-专家治国论	teknokrat|n
-专家治国论者	teknokrat|n
+专家	juara|n,pakar|n,ahli|n,juru|n
+专属	peribadi|adj
 专心	leka
-专才	mahir|adj,jauhari
-专才的	jauhari
-专才的人	jauhari
-专有	ainu,arbaa,brunei,februari,jun,pesakit,poskad|n,prasejarah|n
+专才	mahir|adj
+专有	jun,februari,september,kata nama khas|n,pesakit
+专有九	september
+专有九月	september
+专有二	februari
+专有二月	februari
+专有六	jun
+专有六月	jun
+专有史前	prasejarah|n
+专有史前的	prasejarah|n
 专有名	kata nama khas|n
 专有名词	kata nama khas|n
-专横	sewenang-wenang,wenang
-专横地	sewenang-wenang,wenang
+专有吠陀延伸阅读	weda
+专有明信片	poskad|n
+专有病	pesakit
+专有病人	pesakit
+专有阿伊努人	ainu
+专案	projek|n
+专横	wenang,sewenang-wenang
+专横地	wenang,sewenang-wenang
 专用	istilah|n
 专科	akademi|n
 专科学	akademi|n
 专科学校	akademi|n
-专称	khoja
+专科院校	akademi|n
+专程	zanggi|n
 专类	tesaurus|n
 专类辞	tesaurus|n
 专类辞典	tesaurus|n
 专辑	takbir raya|n
-专门	bisa mengabet|v,jargon|n,khas|adj,pakar|n
+专门	khas|adj,pakar|n,jargon|n,bisa mengabet|v
 专门人	pakar|n
+专门人员	pakar|n
 专门人才	pakar|n
+专门医师	pakar|n
+专门家	pakar|n
 专门技	bisa mengabet|v
 专门技术	bisa mengabet|v
 专门术	jargon|n
 专门术语	jargon|n
 专门的	khas|adj
-吓	ancam,dahsyat|n,gertak|n,jelengar,kejut|v,ketakutan|adj,menakutkan|v,mengacu
+专项	khas|adj
+吓	menakutkan|v,jelengar
 吓了	kejut|v,peranjat,terperanjat
 吓了一	kejut|v,peranjat,terperanjat
 吓了一跳	kejut|v,peranjat,terperanjat
@@ -54,186 +61,130 @@
 吓人的	dahsyat|n
 吓住	jelengar
 吓惊	menakutkan|v
-吓的	ketakutan|adj
-墓	aruga,jirat|n,kubur|n,lahad|n,makam|n,nisan|n,pasaroan
+墓	jirat|n,aruga,nisan|n,pasaroan
 墓地	pasaroan
 墓石	nisan|n
-墓穴	lahad|n
-妓	geisya|n,lacur,lanji,loki,lonte,moler,pelacur|n,rumah ayam|n
-妓女	lacur,lanji,pelacur|n
+妓	pelacur|n,lacur,lanji
+妓女	pelacur|n,lacur,lanji
 妓院	rumah ayam|n
-库	garaj|n,garasi|n,gudang|n,kepuk,khazanah,lidah buaya|n,peti sejuk beku|n,tengkalang
-库拉	lidah buaya|n
-库拉索	lidah buaya|n
-库拉索芦	lidah buaya|n
+妓院妓	rumah ayam|n
+妓院妓院	rumah ayam|n
+库房	gudang|n
 库拉索芦荟	lidah buaya|n
-弓	busur|n,gandi,panah|n,bentuk|n,kebongkokkan|n,kedik,lastik|n,lentik
-弓形	bentuk|n,lentik,melengkung|v,panah|n
+弓	busur|n,panah|n,gandi
+弓形	panah|n,lentik
+弓形形式	bentuk|n
 弓形物	panah|n
 弓形的	lentik
 弓箭	pemanah|n
 弓箭手	pemanah|n
 弓行	kedik
 弓行的	kedik
-弓身	kebongkokkan|n
-弓身的	kebongkokkan|n
-抓	garit,garu|v,garuk,garut,gores,kais,kakas,mencakar
+抓	garu|v,gores,garut,kais,garuk,garit,kakas,mencakar
 抓伤	luku
-抓住	mencengkam,pegang|v
+抓住	pegang|v,mencengkam
+抓力	genggam|n
 抓取	tangkap|v
-抓土	kais
 抓握	kaut
-抓搔	mencakar,calar-calar
+抓搔	mencakar
 抓痕	calar
 抓紧	klac|n
-搓	memilin,memintal,pecal,pilin|n,ramas|v,idas,kusal,lenyeh
+抓马	sandiwara|n
+搓	pilin|n,ramas|v,memilin,pecal,memintal,idas,kusal,lenyeh
 搓卷	kusal
 搓成	untal
 搓成丸	untal
-搓捏	meramas,uli
+搓捏	uli,meramas
 搓揉	lenyeh
 搓然	idas
 搓绉	peronyok
-易	belus,bengkeng,celus,enteng,fasiliti|n,galgal,garing|adj,kerentanan
 易分	longkah
 易分离	longkah
 易分离的	longkah
 易受	kerentanan
 易受伤	kerentanan
 易变	pemboleh ubah|n
-易变的	pemboleh ubah|n
-易变的事	pemboleh ubah|n
 易变的事物	pemboleh ubah|n
 易弯	lentuk
 易弯的	lentuk
 易忘	mamang
 易忘的	mamang
-易怒	bengkeng,galgal,pemarah,runsing
-易怒的	bengkeng,galgal,runsing,pemarah
+易怒	galgal,runsing,bengkeng,pemarah
+易怒的	galgal,runsing,bengkeng,pemarah
 易怒的人	pemarah
 易感	rentan
 易感染	rentan
 易感染的	rentan
-易燃	petrol|n
-易燃的	petrol|n
-易燃的液	petrol|n
-易燃的液態	petrol|n
-易燃的液態烴	petrol|n
-易燃的液態烴類	petrol|n
-易燃的液態烴類組	petrol|n
-易燃的液態烴類組成	petrol|n
 易生	rentan
 易生病	rentan
-易的	enteng,memudahkan|v,plastis|adj,suang
-易碎	garing|adj,peroi,raka,rangup,rapuh|adj,relai,repas,repis
-易碎的	garing|adj,peroi,raka,rangup,rapuh|adj,relai,repas,repis
-易秘	rahsia perniagaan|n
-易秘密	rahsia perniagaan|n
-易老	periuk belanga|n
-易老式	periuk belanga|n
-易老式电	periuk belanga|n
-易老式电话	periuk belanga|n
-易老式电话服	periuk belanga|n
-易老式电话服务	periuk belanga|n
+易碎	rapuh|adj,garing|adj,raka,peroi,repas,rangup,relai,repis
+易碎的	rapuh|adj,garing|adj,raka,peroi,repas,rangup,relai,repis
 易脆	lambuk
 易脆的	lambuk
-易脱	belus,celus,reput
-易脱落	celus,reput
-易脱落的	celus,reput
-易醒	tidur ayam
-易醒的	tidur ayam
-栓	pasak|n,pemalam|n,sumbat|n,tumang,palam|v,pili bomba|n,selarak
+易脱	reput,celus
+易脱落	reput,celus
+易脱落的	reput,celus
+栓	pasak|n,pemalam|n,sumbat|n,tumang,palam|v
 栓塞	palam|v
-氓	bangsat,penjahat|n,perewa,samseng|n
-沓	morat-marit
-皓	serlah
 皓洁	serlah
 皓洁的	serlah
 皓白	serlah
 皓白的	serlah
-經	petrol|n
-經過	petrol|n
-經過蒸	petrol|n
-經過蒸餾	petrol|n
-經過蒸餾重	petrol|n
-經過蒸餾重整	petrol|n
-缓	luang|adj,lagas,laun,lembam,leput,memancit,pancit|v,penampan|n
+缓	luang|adj,lagas
 缓冲	penampan|n
 缓冲器	penampan|n
 缓和	penyederhanaan|n
-缓慢	laun,lembam,leput
-缓慢的	laun,lembam,leput
+缓慢	laun,leput,lembam
+缓慢的	laun,leput,lembam
 缓步	tardigrada|n
 缓步的	tardigrada|n
-缓流	memancit,pancit|v
-缓流出	memancit,pancit|v
-缓缓	memancit,pancit|v
-缓缓流	memancit,pancit|v
-缓缓流出	memancit,pancit|v
+缓缓	pancit|v,memancit
+缓缓流	pancit|v,memancit
+缓缓流出	pancit|v,memancit
 缓驰	lagas
-脓	nanah|n,abses|n,bubul,cabuk,punat|n,puru,ruam|n,torek
-脓头	punat|n,ruam|n
-脓疮	cabuk,puru,bubul
-脓病	torek
-脓肿	abses|n
-莓	strawberi|n
-蔓	berjangkit,jalar,jangkit|v,jelar,jilat|v,lampar,lepa|adj,melarat|adj
-蔓延	berjangkit,jalar,jangkit|v,jelar,lampar,lepa|adj,melarat|adj,meluas
+脓	nanah|n,punat|n,puru,cabuk
+脓头	punat|n
+脓疮	puru,cabuk
+脓肿形成脓肿	abses|n
+蔓	lepa|adj,jangkit|v,melarat|adj,jalar,jelar,lampar,rambak,merambak
+蔓延	lepa|adj,jangkit|v,melarat|adj,jalar,jelar,lampar,rambak,merambak
 蔓延的	rampak
 蔓生	riap
 蔓生的	riap
-蔓草	pakma,penggaga
-蔓草之	pakma,penggaga
-蔓草之一	penggaga
 蔓草之一种	penggaga
-蔓草之名	pakma
-蚓	cacing|n,cacing tanah|n
-蜓	kelang-kelok,pepatung|n,sibu-sibu,sibur-sibur
-褓	amah|n,inang|n,inang pergasuh,lampin|n
-褓姆	amah|n,inang|n,inang pergasuh
-誓	beri sumpah,berikrar,bersumpah,idah,iktikad,iktiraf,mengikrarkan,nazar
-誓约	iktikad,sumpah|n,idah
-誓言	nazar,sumpah|n
-谓	cuai|adj
-谓的	cuai|adj
-输	alah|adj,kalah|v,angkut|v,cecikut|n,eksport|n,kuki|n,mengeksport|v,mengeksportkan
+褓	inang|n,amah|n,inang pergasuh
+褓姆	inang|n,amah|n,inang pergasuh
+誓	sumpah|n,iktikad,nazar
+誓约	sumpah|n,iktikad
+誓言	sumpah|n,nazar
+输	kalah|v,angkut|v,transfusi|n,pemindahan darah|n
 输入	pengimport|n
 输入者	pengimport|n
-输出	eksport|n,mengeksport|v,mengeksportkan,pengeksportan|n
-输协	cecikut|n,kuki|n
-输协议	cecikut|n,kuki|n
-输掉	alah|adj
-输血	pemindahan darah|n,transfusi|n
+输出	eksport|n,pengeksportan|n,mengeksport|v,mengeksportkan
+输出品	eksport|n
+输水管	paip|n
+输血	transfusi|n,pemindahan darah|n
+输被be输掉詞彙	alah|adj
 输送	angkut|v
-钓	anduhan,joran,kail,kucing ikan|n,ladung,lempoyan,mata kail|n,memancing|v
+钓	mata kail|n,memancing|v,pemancing|n,kucing ikan|n,kail,anduhan,mepas,joran
 钓丝	lempoyan,ladung
 钓丝之	ladung
 钓丝之锤	ladung
 钓竿	joran
 钓绳	anduhan
-钓钩	mata kail|n,seruit
-钓钩等	seruit
-钓钩等的	seruit
-钓钩等的倒	seruit
+钓钩	mata kail|n
 钓钩等的倒钩	seruit
-钓鱼	kail,kucing ikan|n,memancing|v,mepas,pemancing|n,pancing|n
+钓鱼	memancing|v,pemancing|n,kucing ikan|n,kail,mepas,pancing|n
 钓鱼桿	pancing|n
-霓	neon|n
 霓虹	neon|n
 霓虹灯	neon|n
-鬓	jambang pasu
-鬓胡	jambang pasu
-鬓胡子	jambang pasu
-麓	kaki bukit|n
-麓小	kaki bukit|n
-麓小丘	kaki bukit|n
-鼓	dram,gendang,ajak|n,anak telinga,berangsang,berkepak-kepak,dorongan,galakkan
+颓然	kecewa|adj
+鼓	ajak|n,dram,gendang,perap|n,uja|v,hasut,galakkan,gelupur
 鼓动	hasut
-鼓励	ajak|n,dorongan,galakkan,giatkan,memberanikan,menggalakkan,menguja,perangsang
-鼓噪	hiruk-piruk,kebisingan
-鼓声	ketung
-鼓手	rebana
-鼓翼	berkepak-kepak,gelepar,gelupur,menggelupur,perap|n
+鼓励	ajak|n,uja|v,galakkan,giatkan,menggalakkan,dorongan,perangsang,memberanikan
+鼓噪	kebisingan,hiruk-piruk
+鼓点	ritma|n
+鼓翼	perap|n,gelupur,gelepar,menggelupur,berkepak-kepak
 鼓胀	segah
 鼓胀的	segah
 鼓舞	berangsang

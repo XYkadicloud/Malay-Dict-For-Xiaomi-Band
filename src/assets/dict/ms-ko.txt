@@ -1,4 +1,4 @@
-ko	ko	pron	两者择一
+ko	ko	pron	两者择一	alternative form of kau
 kobah	kobah		皮鼓，木杵
 kobak	kobak		剥皮，剥削
 kobalt	kobalt	n	钴	cobalt (chemical element)
@@ -65,7 +65,7 @@ koment	koment		矮小的，未成熟的
 komentar	komentar		批评，评论
 komet	komet	n	彗星	comet
 komik	komik	n	连环漫画	comic  story of sequential cartoon images
-kominis	kominis	n	两者择一
+kominis	kominis	n	两者择一	alternative form of komunis
 komisen	komisen	n	佣金	commission (fee)
 komisi	komisi	n	委任状	commission:
 komited	komited	adj	献身于某种事业的  委托的	committed
@@ -93,7 +93,7 @@ komunikasi	komunikasi	n	交流	communication
 komunis	komunis	n	共产主义者	A communist.
 komunisme	komunisme	n	共产主义	Communism.
 komuniti	komuniti	n	社区	community
-komunizem	komunizem	n	两者择一
+komunizem	komunizem	n	两者择一	alternative form of komunisme
 konbif	konbif	n	咸牛肉	corned beef
 konco	konco	n	朋友	friend.
 kondangan	kondangan		宾客，招待
@@ -136,7 +136,7 @@ kontroversi	kontroversi	n	论争	controversy
 konven	konven	n	女修道会  召集	convent
 konvensyen	konvensyen	n	大会	convention
 konvoi	konvoi		舰队
-konvokesen	konvokesen	n	两者择一
+konvokesen	konvokesen	n	两者择一	alternative form of konvokesyen (“convocation”)
 konvokesyen	konvokesyen	n	开始	commencement or graduation ceremony
 konyong	konyong		突然
 kopah	kopah		块，堆
@@ -178,13 +178,13 @@ kosek	kosek		淘洗
 kosel	kosel		犹豫
 kosong	kosong	adj	空的 零	Not containing anything; empty.		penuh
 koswe	koswe	n	堤道	causeway
-kot	kot	adv	两者择一
+kot	kot	adv	两者择一	alternative form of kut
 kota	kota	n	城市 城堡	A fort.
 kotabelud	kota belud		哥打	Kota Belud (a city in Kota Belud district  Sabah  Malaysia)
 kotabharu	kota bharu		哥打	Kota Bharu (the capital city of Kelantan  Malaysia)
-kotai	kotai	v	消极的
+kotai	kotai	v	消极的	First-person and second-person passive of mengotai.
 kotak	kotak	n	盒子，匣，抽屉	box (cuboid container)
-kotakan	kotakan	v	消极的
+kotakan	kotakan	v	消极的	First-person and second-person passive of mengotakan.
 kotakinabalu	kota kinabalu		亚庇哥打基	Kota Kinabalu (the capital city of Sabah  Malaysia)
 kotek	kotek	n	摇尾 咯咯叫 彗星 阴茎	tail
 koteng	koteng		孤独，单独

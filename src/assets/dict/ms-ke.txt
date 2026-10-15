@@ -63,9 +63,9 @@ kebersihan	kebersihan		整洁，清洁
 kebesaran	kebesaran		伟大，尊贵
 kebetulan	kebetulan	adv	恰巧，刚好	coincidentally
 kebiasaan	kebiasaan		习惯，惯例
-kebijaksaanbuatan	kebijaksaan buatan	n	同义词
+kebijaksaanbuatan	kebijaksaan buatan	n	同义词	synonym of kecerdasan buatan (“artificial intelligence”)
 kebijaksanaan	kebijaksanaan		智能，机智
-kebijaksanaanbuatan	kebijaksanaan buatan	n	同义词
+kebijaksanaanbuatan	kebijaksanaan buatan	n	同义词	synonym of kecerdasan buatan (“artificial intelligence”)
 kebil	kebil		眨眼睛
 kebilangan	kebilangan		显着的
 kebimbangan	kebimbangan		忧虑，不安	worry; anxiety; concern; apprehension (a feeling of uneas…
@@ -114,7 +114,7 @@ kecenderungan	kecenderungan		倾向，兴趣，嗜好
 kecepatan	kecepatan	n	速率	speed  velocity
 kecerdasan	kecerdasan		智慧
 kecerdasanbuatan	kecerdasan buatan	n	人工智能	artificial intelligence
-kecerdikanbuatan	kecerdikan buatan	n	同义词
+kecerdikanbuatan	kecerdikan buatan	n	同义词	synonym of kecerdasan buatan (“artificial intelligence”)
 kecewa	kecewa	adj	失望，遗憾	disappointed
 kecil	kecil	adj	小	small  little		Rumah ini kecil.	besar
 kecilhati	kecil hati		愠怒，生气，痛心
@@ -232,7 +232,7 @@ kejelasan	kejelasan	n	品质	The state or quality of being clear; clarity.
 kejenakaan	kejenakaan	n	幽默	humor
 keji	keji		声名狼籍，可憎的
 kejinggaan	kejinggaan	adj		orange-like
-kejinggajinggaan	kejingga-jinggaan	adj	同义词
+kejinggajinggaan	kejingga-jinggaan	adj	同义词	synonym of kejinggaan
 kejituan	kejituan	n	精确	accuracy
 kejohanan	kejohanan	n	冠军身份	championship (competition to determine a champion)
 kejora	kejora		金星
@@ -318,7 +318,7 @@ kelarutan	kelarutan	n	解决	solution; the act of dissolving
 kelas	kelas	n	班级 课	class
 kelasah	kelasah		蛀虫，腐朽
 kelasi	kelasi	n	水手	A sailor.
-kelasik	kelasik	adj	两者择一
+kelasik	kelasik	adj	两者择一	alternative form of klasik
 kelat	kelat		酸味，酸的
 kelati	kelati		槟榔实的剪
 kelatu	kelatu		用手或书本打头
@@ -341,7 +341,7 @@ kelekit	kelekit		尼古丁，烟油
 kelelawar	kelelawar	n	蝙蝠	bat (small flying mammal)
 kelelut	kelelut		破坏，伸舌
 kelemahan	kelemahan	n	虚弱	weakness
-kelemari	kelemari	adv	荒废的
+kelemari	kelemari	adv	荒废的	obsolete form of kelmarin (“yesterday”)
 kelemayar	kelemayar		萤火虫
 kelembahang	kelembahang		天南星亚科植物
 kelembai	kelembai		女妖精
@@ -361,7 +361,7 @@ kelepai	kelepai		垂悬，悬荡
 kelepasan	kelepasan		假期
 kelepet	kelepet		折，折入
 kelepik	kelepik		摇鼓，悬垂摇动，撕裂声
-kelepir	kelepir	n	同义词
+kelepir	kelepir	n	同义词	Synonym of buah pelir (“testicle”)
 kelepit	kelepit		悬垂摇动状
 kelereng	kelereng		玻璃弹子
 kelesa	kelesa		淡水鱼，怠惰的，疏忽的
@@ -379,7 +379,7 @@ kelewang	kelewang		军刀
 kelewat	kelewat		迟，非，常，很
 keleweh	keleweh		撅嘴
 keli	keli		鲇鱼
-kelian	kelian	n	两者择一
+kelian	kelian	n	两者择一	alternative form of galian (“surface mine; alluvial mine”)
 keliar	keliar		闲逛
 kelibang	kelibang		虫类群集飞舞
 kelibat	kelibat		船之前后桨
@@ -451,7 +451,7 @@ kelurut	kelurut		疽
 kelus	kelus		剥皮，脱皮
 kelusuhkelasah	kelusuh-kelasah		辗转反侧
 kem	kem	n	露营	camp
-kemabukan	kemabukan	adj	酒醉的
+kemabukan	kemabukan	adj	酒醉的	To be in a drunken state; drunk.
 kemahiranhidup	kemahiran hidup	n	生活	living skills
 kemahuan	kemahuan		愿望，希望
 kemain	kemain	adv	两者择一	alternative spelling of bukan main.
@@ -472,13 +472,12 @@ kemangi	kemangi		肉桂属
 kemarahan	kemarahan	n	愤怒，生气	anger
 kemarau	kemarau	n	苦旱，旱天	drought; dry season (a prolonged period of abnormally low rainfall).
 kemari	kemari		到这里来
-kemarin	kemarin	n	昨天			esok
+kemarin	kemarin	n	昨天	alternative form of kelmarin		esok
 kemaruk	kemaruk		很想
 kemas	kemas	adj	收拾，整理，捆	tidy; neat
 kemasaman	kemasaman	n	酸味	sourness
 kemasammasaman	kemasam-masaman	adj	相当	quite sour
 kemaskini	kemas kini	n	更新	update
-kemaskini	kemaskini	n	拼错	misspelling of kemas kini
 kemasukan	kemasukan	n	准许进入	admission
 kematian	kematian	n	死亡	death; demise
 kembacang	kembacang	n	芒果  芒果Mangifera ind	a type of mango  Mangifera foetida
@@ -537,7 +536,7 @@ kenan	kenan	v	准许，批准，同意	agree
 kenang	kenang		回忆，追想	to recall; to remember fondly; to reminisce (to think abo…
 kenangan	kenangan	n	记忆	memory; recollection; remembrance (something remembered from the past).
 kenangkenangan	kenang-kenangan		记念，纪念品
-kenap	kenap	adv	侍者
+kenap	kenap	adv	侍者	alternative form of kenapa
 kenapa	kenapa	adv	为什么？何故？	Why; for what reason.
 kenari	kenari		金丝雀
 kenas	kenas		灶砺
@@ -588,7 +587,7 @@ kepalabutuh	kepala butuh	n	阴茎头	glans penis
 kepalang	kepalang	adj	通常，平凡	half-hearted; incomplete; half-baked.
 kepalaotak	kepala otak	n	头	head  brain (mental faculty)
 kepalapusing	kepala pusing	adj	晕眩的	dizzy; giddy
-kepalingan	kepalingan	adj	最上的
+kepalingan	kepalingan	adj	最上的	superlative
 kepam	kepam		腐朽的，湿热的，发霉的
 kepandaian	kepandaian		本领，技能，技术
 keparat	keparat		异端的，无宗教信仰的
@@ -609,13 +608,13 @@ kepiat	kepiat		椰渣
 kepil	kepil		邻近，在旁
 kepimpinan	kepimpinan	n	领导能力	leadership
 keping	keping	cls	片 张	Classifier for thin  flat  and wide objects.
-kepintaranbuatan	kepintaran buatan	n	同义词
+kepintaranbuatan	kepintaran buatan	n	同义词	synonym of kecerdasan buatan (“artificial intelligence”)
 kepit	kepit	v	挟着，挟带	to carry under the arm.
 kepiting	kepiting	n	小螃蟹	crab
 kepolisan	kepolisan	adj	关联	Relating to the police.
 kepolisian	kepolisian	adj	警察	police
 kepompong	kepompong	n	蛹	chrysalis
-kepten	kepten	n	两者择一
+kepten	kepten	n	两者择一	alternative form of kapten
 kepuh	kepuh		包满的，膨胀的
 kepuk	kepuk		箱，米桶，仓库
 kepul	kepul		密集，群集	A traditional Malay unit of volume  equivalent to an impe…
@@ -707,7 +706,7 @@ keretaapi	kereta api	n	火车	train (line of connected cars or carriages)
 keretakebal	kereta kebal	n	槽	tank (armoured fighting vehicle)
 keretalembu	kereta lembu		牛车
 keretalipan	kereta lipan	n	火车	train
-keretapi	keretapi	n	火车
+keretapi	keretapi	n	火车	nonstandard form of kereta api
 keriau	keriau		疾呼，呼吁，大喊
 keridik	keridik		蟋蟀
 kerik	kerik		刮掉
@@ -734,7 +733,7 @@ kerongcong	kerongcong		歌名，叮当声
 kerongkong	kerongkong	n	咽喉，食道	throat  gullet
 kerongkongan	kerongkongan		咽喉
 kerongtang	kerongtang		干固
-keropeng	keropeng	n	疮，痂
+keropeng	keropeng	n	疮，痂	alternative form of keruping (“scab”)
 keropok	keropok		虾饼	A type of food made from a dough of sago flour mixed with…
 keropoklekor	keropok lekor	n	马来西亚的 马来西亚人	Malaysian fish snack originated from Terengganu
 keropokudang	keropok udang	n	明虾	prawn crackers originally from Javanese cuisine.
@@ -789,7 +788,7 @@ kesalahan	kesalahan	n	错误	error (mistake)
 kesalasilahan	kesalasilahan	adj	关联	relating to lineage or genealogy
 kesalingan	kesalingan	n	互助论	mutualism
 kesamping	kesamping		到一旁
-kesamunan	kesamunan	v	抢夺
+kesamunan	kesamunan	v	抢夺	to be robbed of something; to lose something due to robbery
 kesan	kesan	n	痕迹，足迹，影响	impression  indentation or mark left by something
 kesana	ke sana		到那边去，去那儿
 kesanfotoelektrik	kesan fotoelektrik	n	光电效应	photoelectric effect
@@ -818,7 +817,7 @@ keseriusan	keseriusan	n	品质	The state or quality of being serious; seriousnes
 kesesakan	kesesakan	n	拥挤	congestion  jam
 kesesalan	kesesalan	n	悔悟	regretfulness
 kesesuaian	kesesuaian	n	适合	suitability
-kesian	kesian	adj	两者择一
+kesian	kesian	adj	两者择一	alternative form of kasihan
 kesibukan	kesibukan		忙碌
 kesihatan	kesihatan	n	健康	health
 kesilapan	kesilapan	n	错误	error (mistake)
@@ -829,7 +828,7 @@ kesohor	kesohor		著名的
 kesosialan	kesosialan	n	品质	The state or quality of being sosial; sociality.
 kesot	kesot		拖着臀部移动
 kespesifikan	kespesifikan	n	品质	The quality or state of being specific; specificity.
-kestela	kestela		两者择一
+kestela	kestela		两者择一	alternative form of Kastela
 kesturi	kesturi		麝香猫，麝香
 kesudahan	kesudahan		结果，终於
 kesukaan	kesukaan	n	兴趣	like (something that is liked)
@@ -941,7 +940,7 @@ keuntungan	keuntungan	n	增益	gain
 keupayaan	keupayaan	n	能力	capability
 keuskupan	keuskupan	n	主教教区	diocese
 kevoivodaan	kevoivodaan	n		voivodeship
-kewajiban	kewajiban	n	两者择一
+kewajiban	kewajiban	n	两者择一	alternative form of kewajipan
 kewajipan	kewajipan	n	责任	An obligation:
 kewangan	kewangan	n	财政	finance
 kewarganegaraan	kewarganegaraan	n	国籍	nationality  citizenship

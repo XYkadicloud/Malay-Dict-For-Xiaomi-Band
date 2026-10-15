@@ -1,1 +1,1 @@
-tp	tp	conj	[计]；磁带
+tp	tp	conj	[计]；磁带	abbreviation of tapi (“but”)

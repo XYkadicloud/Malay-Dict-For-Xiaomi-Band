@@ -1,0 +1,1568 @@
+to	ka|n,hendak|prep,kepada|prep,until
+to abduct	culik|v
+to abolish	mansuh|v
+to absorb	serap|v
+to abstract	mengabstrakkan|v
+to accept	diterima|v,menerima|v
+to accompany	ikut|v,iring
+to accuse someone of being a kafir	kafirkan|v
+to achieve something	capai|v,mencapai|v
+to acquire	boleh|v
+to act	lakon|v,beraksi|v,berbuat|v,perbuat|v
+to act blindly	babi buta|v,buta tuli|v
+to act or be stubborn	berdegil|v,berkeras kepala|v
+to activate	mengaktifkan|v
+to add	ambah|v,tambah|v,menambah|v,bertambah
+to add fuel to the fire	mencurah minyak ke api|v
+to add something	menambahkan|v
+to add to the dictionary	mengamuskan|v
+to adhere	lekat|v
+to advertise provide information about a product	iklankan|v
+to advise	nasihat|v
+to affect	peri|n
+to agree	pakat|v,setuju|v
+to aim	hala|v
+to allow	biar|v,benarkan|v
+to alphabetize	abjadkan|v
+to anchor of a ship	melabuh|v
+to animate	animasikan|v
+to annex	dijajah|v,menjajah|v,terjajah|v
+to announce	ucap|v
+to annoy to interru	ganggu
+to answer	balas|v,sahut|v,menjawab|v
+to appear	jelma|v,terbit|v,kelihatan|v
+to appear circular	membulat|v,membundar|v
+to appear like a shadow or blurry	membayang|v
+to appear or seem like a shadow	berbayang|v
+to apply for	mohon|v
+to appoint someone to higher status	lantik|v
+to approve	pakat|v
+to argue	balah|v,gaduh|v
+to arise	timbul|v
+to arouse	uja|v
+to arrange	isih|v,susun|v
+to arrange to set up	atur|v
+to arrive	tiba|v
+to ascend	naik|v
+to ask	soal|v,minta|v,tanya|v,bertanya|v
+to ask for apology	minta maaf|v
+to assault	serang|v,menyerang|v
+to assemble	himpun|v
+to assimilate into malay customs and culture	masuk melayu|v
+to assist	tolong|v
+to assume	dimisalkan|v,menganggap|v
+to attach	semat|v,cantum|v,sambung|v
+to attack	serang|v,hinggap|v,menyerang|v,serbu
+to attack with one's foot	terajang|v
+to attain	jangkau|v
+to authorise	benarkan|v
+to avenge	balas dendam|v
+to avoid	elak|v
+to await	menanti
+to babble	repet|v,merepet|v,berkicau|v
+to babysit	asuh|v
+to ball up of rice	kepal|v
+to ban	tegah|v,menegah|v,larangkan|v
+to bark	gonggong|v
+to be	ialah|part,adalah|part,merupakan|v
+to be a regular customer or patron of a service	langgan|v
+to be a slave	mengabdi|v
+to be able	sanggup|v
+to be able to	boleh|v,dapat|v
+to be able to be answered	terjawab|v
+to be able to be described	terkata|v,terkatakan|v
+to be able to be patient	tersabar|v
+to be able to monitor	terpantau|v
+to be able to speak or say	terkata|v,terkata-kata|v
+to be acquainted with	kenal|v
+to be advantageous	berfaedah|v
+to be afflicted with	hidap|v
+to be agape	inga|v
+to be alone with an unmarried partner in a hidden and obscured place	berkhalwat|v
+to be angry	membawang|v
+to be aware of	insafi|v,menginsafi|v
+to be based	berdasar|v
+to be bestowed with	dikurniakan|v
+to be blurred from looking directly to light source	bekemayau|v
+to be buried	semadi|v
+to be calm	bersabar|v
+to be capable	berupaya|v
+to be capable to have the capacity or strength to do some	sanggup|v
+to be careful with something or someone	awas|v
+to be centered	tertumpu|v
+to be clear and open	berjelas-jelas|v
+to be concentrated	tertumpu|v
+to be considered as a lord	dipertuan|v
+to be deafened	terpekak|v
+to be demolished	rombak|v
+to be different	berbeza|v
+to be directed	tertumpu|v
+to be distributed	dibahagi|v
+to be divided	dibahagi|v
+to be done	selesai|v
+to be drifted by the wind	bias|v
+to be embroidered	disulam|v
+to be employed	bekerja|v
+to be endowed with	dikurniakan|v
+to be evil or to behave evilly	menakal|v
+to be filled with	berisi|v
+to be focused	tertumpu|v
+to be founded	berdasar|v
+to be frozen	terpaku|v
+to be gifted	dikurniakan|v
+to be granted	dikurniakan|v
+to be hung vertically of curtains	berlabuh|v
+to be idle	menganggur|v
+to be in a drunken state	kemabukan|adj
+to be in a partnership or federation	bersekutu|v
+to be in action	beraksi|v
+to be in excess	berlebih|v
+to be in love	bercinta|v
+to be in operation	beroperasi|v
+to be in solitude	berkhalwat|v
+to be independent and self-sufficient	berdikari|v
+to be inspired	terinspirasi|v
+to be interspersed	disulam|v
+to be interwoven	disulam|v
+to be laid out	terbentang|v
+to be lost in thought	lamun|v,melamun|v
+to be lovestruck	kasmaran|v
+to be madly in love	kasmaran|v
+to be monitored	berpantau|v,terpantau|v
+to be more than enough	berlebih|v
+to be nailed	terpaku|v
+to be naughty or to behave naughtily	menakal|v
+to be nauseous	luak|v
+to be noisy	memekak|v
+to be of the assumption that something is easy or simple	bermudah-mudah|v
+to be on bad terms	bermasam muka|v
+to be patient	bersabar|v
+to be perched of a bird	tercatuk|v
+to be pregnant	mengandung|v
+to be prepared to do something	sanggup|v
+to be present	hadir|v
+to be profitable	berfaedah|v
+to be ready	sanggup|v
+to be released	terlepas|v
+to be reminded of	teringat|v
+to be responsible	jamin|v
+to be responsible for	berwajib|v
+to be robbed of something	kesamunan|v
+to be seasoned	makan garam|v
+to be served	tersaji|v
+to be set free	terlepas|v
+to be shared	dibahagi|v
+to be spread amongst the people	merakyat|v
+to be spread out	terbentang|v
+to be startled	tersentak|v
+to be stunned unable to move	terpaku|v
+to be surplus or abundant	berlebih|v
+to be suspicious of	mencurigai|v
+to be suspicious of each other	curiga-mencurigai|v
+to be taken aback	tersentak|v
+to be taken into account	dihitung-hitung|v
+to be touched adversely	kena|v
+to be transfixed	terpaku|v
+to be unemployed	menganggur|v
+to be unfolded	terbentang|v
+to be useful	berfaedah|v
+to be very angry	murka|v
+to be washed away	hanyut|v
+to be willing	sanggup|v
+to be wrapped around	libat|v
+to beach	dampak|v
+to bear	lahir|v,tahan|v
+to beat	pukul|v
+to become	menjadi|v
+to become ash	mengabu|v
+to become bigger or to increase in size	membesar|v
+to become drowsy	antuk|v
+to become known worldwide	mendunia|v
+to become or seem orange	menjingga|v
+to become paralyzed	lumpuh|v
+to become short	memendek|v
+to become silent	membisu|v
+to become smelly or smellier	membusuk|v
+to become sour	memasam|v
+to become to come into existence as	jadi|v
+to become white	memutih|v
+to become wide or wider	melebar|v
+to bedaub or n	bedung
+to befall	timpa|v
+to begin to turn into a gas	didih|v
+to behave in a certain way	mengabet|v
+to behead	pancung|v
+to bend	membongkok|v
+to besmear	labur|v
+to besprinkle	siram|v
+to bestow	mengurniakan|v
+to bet	tikam|v
+to bite	gigit|v,patuk|v
+to blame	disesali|v,sesalkan|v,menyesalkan|v
+to blame each other	bersesalan|v
+to blaze	marak|v
+to bleed	berdarah|v
+to blink	kedip|v
+to block	sekat|v,halang|v,menampan|v
+to block something by building a wall-like structure	empang|v
+to bloom	mekar|v
+to blow	tiup|v,puput|v,bertiup|v
+to blow to expel air from the mouth	hembus|v
+to boil	mendidih|v
+to boil of liquid	didih|v
+to book	tempah|v
+to bore	gerek|v,menggerek|v
+to borrow	pinjam|v
+to bother	ganggu
+to bounce back	bingkas|v
+to brand	selar|v
+to break	pecah|v
+to break a promise	jual janji|v
+to break one's fast	berbuka|v
+to break up	clash|v
+to breathe	bernafas|v
+to breed	pelihara|v,biak
+to bribe	rasuahi|v
+to bring about misfortune to someone	mencelakakan|v
+to bring back or restore	tarik balik|v
+to bring up again	ungkit|v
+to bring upon oneself	kena|v
+to brush	gosok|v,menggosok|v
+to budge	ganjak|v
+to build	bina|v
+to build a fort on something	mengotai|v
+to bump	singgung|v
+to bundle up	tungkus|v
+to burn	tunu|v,bakar|v
+to butt	sondol
+to buy	beli|v
+to calculate	reken|v
+to call	seru|v,menelefon|v
+to call back to request someone's return	tarik balik|v
+to call out loudly	laung|v
+to call out people's name to find out or determine who is not present	mengabsen|v
+to captivate	tawan|v
+to capture	tawan|v,tangkap|v
+to care	endah|v,kisah|v,peduli|v
+to care about	mempedulikan|v,menghiraukan|v
+to care for	asuh|v
+to caress	usap
+to carry	bawa|v
+to carry someone or something with a cloth sling	dukung|v
+to carry something on the head	junjung|v
+to carry to transport coffin	usung|v
+to carry under one's arm	mengelek|v
+to carry under the arm	kepit|v
+to cast	lempar|v
+to catch	tangkap|v
+to catch on of a disease	hinggap|v
+to catch sight of	nampak|v
+to categorise	kategorikan|v
+to cause embarrassment	memalukan|v
+to cause someone to become dizzy	peningkan|v
+to cause something to have wrinkles or folds of fabric	kedutkan|v
+to cause something to peel off	kelupaskan|v
+to cause to run smoothly	menggalirkan|v
+to cease	berhenti|v
+to change	ubah|v,salin|v,tukar|v,berubah|v
+to change clothes	bersalin|v
+to change into	jadi|v
+to charge an electronic device	mengecas|v
+to chase	kejar|v
+to chat	obrol|v,berbual|v,berkata-kata|v
+to chatter	repet|v,merepet|v,berkicau|v
+to cheat	ponteng|v
+to check	uji|v
+to cheer	sorak|v
+to chew	mamah|v
+to chew or munch	kunyah|v
+to choose to pick	pilih|v
+to chop	kerat|v,tetak|v,cincang|v
+to chronicle	royat|v
+to chuckle	ketawa|v
+to claim oneself to be	mengaku|v
+to clap	tepuk|v
+to clarify	perjelas|v
+to clean something by using water or other liquid	mencuci|v
+to cleanse morally	membersihkan|v
+to clear	tebas
+to clear weeds	tajak|v
+to climb	naik|v,panjat|v
+to cling	lekat|v
+to close	kejam|v,pejam|v,picing|v,menutup|v
+to close a box	tutup|v
+to clown	membadut|v
+to coat	labur|v
+to cockblock	potong stim|v
+to coil	belit|v
+to collapse	roboh|v,runtuh|v
+to collapse of large upright ob	tumbang
+to collect or pool money for a particular purpose	langgam|v
+to colonise	dijajah|v,menjajah|v,terjajah|v
+to come	mai|v,mari|v,datang|v
+to come along	turut|v
+to come down	lungsur|v
+to come from	berasal|v
+to come to mind	terfikir|v
+to commit suicide	bunuh diri|v
+to compel	paksa|v
+to compete	adu|v
+to complain	merungut|v
+to complete	selesai|v
+to comprise	liput|v
+to conceal	pendap|v,dipendapkan|v
+to concentrate attention	tumpu|v
+to concern oneself	peduli|v
+to conduct	memimpin|v
+to confer a title	menggelar|v
+to confirm	mengesahkan|v
+to confront or face something or someone	mendada|v
+to congratulate	tahniah|v
+to connect	cantum|v,hubung|v,sambung|v
+to conquer	tawan|v
+to consent	berkenan|v
+to consider	anggap
+to consider as an example	mencontohkan|v
+to contain	berisi|v,menguasai|v
+to contain adverts or ads	beriklan|v
+to contain fish	berikan|v
+to contain lotion	berlosen|v
+to contain or include a telephone	bertelefon|v
+to contain or use batteries	berbateri|adj
+to contain oxygen	beroksigen|v
+to contemplate	fikirkan|v,merenungi|v
+to contest	adu|v
+to continue	lanjutkan|v,meneruskan|v
+to continue or resume	menyambung|v
+to contribute	sumbang|v
+to control emotions	menguasai|v
+to converse	berbual|v
+to convert someone to islam	islamkan|v
+to convert to islam	masuk islam|v
+to cook for eating	masak|v,tanak|v
+to cook something by partial contact with or full immersion in hot oil	goreng|v
+to copulate	ayut|v,kongkek|v
+to copy	mencontohi|v
+to correct	membetulkan|v
+to cough	batuk|v
+to counsel	nasihat|v
+to count	kira|v,hitung|v
+to cover	liput|v,tekap
+to cover with a thin protective lining	sarap|v
+to crave	idam|v
+to crawl	merangkak|v
+to create	buat|v,membuat|v,mencipta|v
+to create as a mark on something	bekaskan|v
+to croon	ulit|v
+to crop up of feelings	timbul|v
+to cross	rentas
+to cross in a straight line of a road	regat|v
+to crowd	hurung|v
+to crush	menindas|v
+to cry	tangis|v,menangis|v
+to cultivate land or soil	gembur|v
+to cup one's hand to scoop up something or cover over it	cekup|v
+to curb	menguasai|v
+to curl	gulung|v
+to cut	kerat|v,potong|v
+to cut across to pass through or	rentas
+to cut down	tebang|v,tebas
+to cut of grass	regas|v
+to cut off	membantai|v
+to cycle	berbasikal|v
+to dampen or spoil one's excitement or enthusiasm	potong stim|v
+to dance	menari|v
+to dance to joget	joget|v
+to dare	cabar|v
+to dash across	lintas|v
+to date	kapel|v
+to daub a wall	labur|v
+to daydream	lamun|v,melamun|v
+to deactivate	menyahaktifkan|v
+to deafen	pekakkan|v,memekakkan|v
+to debate something	bahaskan|v
+to decapitate	pancung|v
+to deceive	menipu|v,mengabui mata|v,menganwar-anwarkan|v
+to decide	tentukan|v
+to decolonize	nyahjajah|v
+to decompose	mekar|v
+to decorate	hias|v
+to deem	anggap
+to deep-fry	goreng jeluk|v
+to deflate due to having been punctured	pancit|v
+to deflect	bias|v
+to defragment	nyahserpih|v,menyahserpih|v
+to defrost	nyahfros|v
+to delay	tunda|v
+to delegate	utus|v
+to deliver	hantar|v
+to demonstrate	tunjuk|v
+to depart	berangkat|v
+to descend	turun|v
+to desire	mahu|v
+to desist	berhenti|v
+to destroy	musnah|v
+to detach	tanggal|v
+to detach to set apart or cut off from others	pencil|v
+to detect something	membaui|v
+to deter	cegah|v
+to determine	tentukan|v,hitamkan dan putihkan|v
+to develop	cuci|v
+to devote	curah|v
+to die	mampus|v,mangkat|v,meninggal|v,pulang ke rahmatullah|v
+to dig	gali|v,korek|v
+to dip	celup|v
+to direct	hala|v,memimpin|v
+to disable	menyahaktifkan|v
+to discard	buang|v
+to discover	menemui|v,mengetahui|v
+to discriminate	berdiskriminasi|v
+to discriminate against	diskriminasikan|v,mendiskriminasikan|v
+to discuss	ngomong|v,dibahaskan|v,membahaskan|v,membincangkan|v
+to disentangle	huraikan|v
+to disinfect	nyahkuman|v,nyahjangkit|v
+to display	tunjuk|v,pertontonkan|v,mempertontonkan|v
+to display or show	tayang|v
+to dissolve	larut|v,hancur|v
+to distance	jauhkan|v
+to distort the truth	menganwar-anwarkan|v
+to disturb	mengganggu|v,ganggu
+to disturb someone	menakali|v
+to disturb the peace	mengganggu keamanan|v
+to dive	selam|v
+to divert	bias|v
+to divide	bagi|v,bahagi|v
+to divorce	cerai|v
+to do	berbuat|v,perbuat|v,melakukan|v
+to do a sembah gesture	mengangkat sembah|v
+to do nothing	menganggur|v
+to do one's best	pulun|v
+to do something	lakukan|v
+to do something with a deliberate purpose or strategy to entice	memancing|v
+to do the best	berupaya|v
+to dock of a boat	berlabuh|v
+to dodge	egos|v
+to donate	berderma|v
+to donate something	dermakan|v
+to download	muat turun|v
+to drag	hela|v,heret|v,larat|v,seret|v
+to draw	menarik|v
+to draw off sword	hunus|v
+to draw or let out blood	sanggerah|v
+to dream	bermimpi|v
+to dream to hope	impi|v
+to drench	simbah|v
+to drift	larat|v,hanyut|v
+to drink	minum|v
+to drink coffee	mengopi|v
+to drip	titik|v
+to drive away	usir|v,halau|v
+to drop	jatuh|v,luruh|v
+to dry in the sun	jemur|v
+to dunk	celup|v
+to eat	makan|v,santap|v
+to ebb	susut|v
+to edit	edit|v
+to educate	didik|v
+to eject	bura|v
+to eject food from the mouth	luah|v
+to elevate	junjung|v
+to embarrass	memalukan|v,putihkan mata|v
+to embezzle and launder public funds	songlap|v
+to embrace	peluk|v
+to embroider	sulam|v,menyulam|v
+to emerge	terbit|v,timbul|v
+to enable	mengaktifkan|v
+to enclose with a fence	memagari|v
+to encounter	temu|v,jumpa|v,tembung|v
+to encourage	uja|v
+to endow	mengurniakan|v
+to endure	tahan|v
+to endure hardship	derita|v
+to engage in idle talk	obrol|v
+to engage in recreations	berekreasi|v
+to engage in trivial conversation	obrol|v
+to enlarge	membesarkan|v
+to enslave	abdikan|v
+to enter	masuk|v,masuki|v,memasuki|v
+to entertain	hibur|v
+to entwine	belit|v
+to envelop	menyelubungi|v
+to equate	misalkan|v,memisalkan|v
+to erode	hakis|v
+to escalate	menjadi-jadi|v
+to escape	terlepas|v
+to escort	iring
+to estimate	hitung-hitung|v
+to eternalize	diabadikan|v,mengabadikan|v
+to evacuate	singkir|v
+to exaggerate	sembang kote|v,sembang konek|v
+to examine	dibahas|v,membahas|v
+to examine critically or carefully	periksa|v
+to excite	uja|v
+to exclaim	seru|v
+to execute by the keris	salang|v
+to exercise	senam|v
+to exit	keluar|v
+to expect to remain in a place or	menanti
+to experience	mengalami
+to explain	jelaskan|v,menyatakan|v
+to explore	jajah|v,jelajah|v,terokai|v
+to expose	dedah|v
+to extend	terbentang|v
+to extend an arm	hulur|v
+to extinguish	hapus|v
+to extract	peras|v,menarik|v
+to face	hadap|v,menghadap|v
+to face the king	berseba|v
+to face the king at the palace hall	seba|v
+to fail	gagal|v
+to fail to keep one's word	jual janji|v
+to faint to lose consciousness	pengsan|v
+to fall	jatuh|v,luruh|v
+to fall down	tumbang
+to fall down of loose clothing worn around	londeh
+to fall into something	surup|v
+to fall of accidental or involuntary manner - fruits	gugur|v
+to fall upon	timpa|v
+to fasten	semat|v
+to feast	santap|v
+to feel	terasa|v
+to feign	mengacah|v
+to feign repeatedly	mengacah-acah|v
+to fell	tebang|v
+to fence in	memagari|v
+to fetch to lay hold of something	ambil|v
+to fiddle with	kodek|v
+to fight	gaduh|v,berjuang
+to fight especially for a principle	juang|v
+to fill	mengisi|v
+to fill something with water	acapi|v
+to fill up	mengisi|v
+to finalize	muktamadkan|v
+to find out	mengetahui|v
+to finish	kautim|v,selesai|v
+to fix	membaiki|v,tentukan|v
+to flare up	marak|v
+to flaunt	beraksi|v
+to flay	lapah|v
+to flee	cabut|v
+to flicker	mengelip|v
+to flinch suddenly	tersentak|v
+to float	apung|v
+to float away	hanyut|v
+to flog a dead horse	mencari jejak dalam air|v
+to flow	salir|v
+to fly	layang|v,terbang|v
+to focus	tumpu|v
+to fold	lipat|v
+to follow	ikut|v,berikut|v
+to follow to go somewhere with	iring
+to forbid	tegah|v,larang|v,menegah|v
+to force	paksa|v
+to forge through	meranduk|v
+to forget	lupa|v
+to form something into a ball	kepal|v
+to free	membebaskan|v
+to frighten	takutkan|v
+to fruit	berbuah|v
+to fry	goreng|v
+to gain international recognition	mendunia|v
+to gain possession of	ambil|v
+to gamble to place a wager	tikam|v
+to gape	nganga|v
+to gargle	kumur|v
+to gather	himpun|v
+to gather a fruit using pole	alap|v
+to gather into a bunch or sheaf	gemal|v
+to gaze	renung|v,pandang|v,merenung|v,memandang|v
+to gaze fixedly	tenung|v
+to get	ambil|v,dapat|v,memperoleh|v
+to get lost	pergi mampus|v
+to get married	kahwin|v
+to get some fresh air	makan angin|v
+to get up	bangun|v
+to gift	mengurniakan|v
+to gift someone	hadiahi|v
+to gift something	hadiahkan|v
+to give	beri|v,kasi|v,serah|v
+to give a bribe to someone	rasuahi|v
+to give a side-glance	jeling|v
+to give an answer to a question	menjawab|v
+to give as an example	mempercontohkan|v
+to give birth	lahir|v
+to give birth to	lahirkan|v
+to give birth typically used for animals	beranak|v
+to give reminders and so on	wahai
+to give way	sisih|v
+to glance	menjengah|v
+to glide	luncur|v
+to go	alih|v,pergi|v
+to go along	menurut|v
+to go back	pulang|v,kembali|v,patah balik|v
+to go down	turun|v
+to go down to the ground and see for oneself the problems of the people	turun padang|v
+to go global	mendunia|v
+to go home	pulang|v
+to go horseback riding	berkuda|v
+to go in the direction of	menuju|v
+to go off course	bias|v
+to go on a hajj	pergi haji|v
+to go out	keluar|v
+to go outside	makan angin|v
+to go past	lalu|v
+to go through	tembus|v
+to go through a period of time or a phase of life	meniti|v
+to go through something to learn or get to know more about it	terokai|v
+to go to hell	pergi mampus|v
+to go towards	mengabah|v
+to go up	naik|v
+to gore	sondol
+to gossip	membawang|v
+to graduate	bergraduasi|v
+to graft	cantum|v
+to grant	mengurniakan|v
+to grant a franchise	francaiskan|v
+to grant freedom	membebaskan|v
+to grasp	gemal|v,pegang|v
+to grill	panggang|v
+to grip or clutch with the fingers almost enclosing something	cekak|v
+to groan	rintih
+to grow	tumbuh|v,bertambah
+to grow upwards	sulur|v
+to grow worse or stronger	menjadi-jadi|v
+to grumble	merungut|v
+to grunt usually to express anger	mendengus|v
+to guarantee	jamin|v
+to guard	intip|v
+to guess	duga|v,teka|v
+to guide	tuntun|v,memimpin|v
+to guide to physically direct someo	pimpin
+to gush out	percit|v
+to hack	tetak|v,cincang|v
+to hairdress	andam|v,dandan|v
+to hallucinate	berhalusinasi|v
+to halt	berhenti|v
+to hand over	serah|v
+to hang	gantung|v,sangkut|v
+to happen	berlaku|v
+to harvest	tuai|v
+to hatch	tetas|v
+to haul	hela|v,heret|v
+to have	punyai|v
+to have a base of	berdasar|v
+to have a committee	berjawatankuasa|v
+to have a cramp	ganjat|v
+to have a lineage	berzuriat|v
+to have a mark	berbekas|v
+to have a mentality	bermentaliti|v
+to have a pencil	berpensel|v
+to have a rampart	berkota|v
+to have a shield	berperisai|v
+to have a thing	kapel|v
+to have a transcript	bertranskrip|v
+to have an estate	berladang|v
+to have an obligation	berkewajipan|v
+to have an owner	berpunya|v
+to have as a rampart	berkotakan|v
+to have as a wall	berabarkan|v
+to have as one's brother	berabangkan|v
+to have creases or folds of fabric	berkedut|v
+to have difference	berbeza|v
+to have emotions	beremosi|v
+to have friendly	borak
+to have inspiration	berinspirasi|v
+to have knowledge	berinformasi|v
+to have lived long and are thus highly experienced	makan garam|v
+to have more than one wife at the same time	berpoligami|v
+to have offspring	meninggalkan zuriat|v
+to have or include a drawer	berlaci|v
+to have orange	berjingga|v
+to have permission to	boleh|v
+to have rights	berhak|adj
+to have sex	bersekedudukan|v
+to have something stolen	kecurian|v
+to have the head lifted upward	dilangut|v
+to have the possibility of	berkemungkinan|v
+to have wheels	beroda|v
+to have worth	berbaloi|v
+to head	memimpin|v
+to head towards	menuju|v
+to headhunt	kayau|v
+to hear	dengar|v
+to heave	angkat|v
+to heed	endah|v,hirau|v
+to help	tolong|v,membantu|v,menolong|v
+to hibernate	berhibernasi|v
+to hide	pendap|v,simpan|v,lindung|v,sembunyi|v
+to hinder	cegah|v,halang|v
+to hit	pukul|v,sepuk|v,sambar|v,pangkong|v
+to hit a flat surface	tebah|v
+to hit hard	hentam|v
+to hit on to approach and speak to someone	mengorat|v
+to hit the sack	meletakkan kepala|v
+to hit with the blunt side of something	parap|v
+to hit with the knuckles	sekeh|v
+to hitch a ride	tumpang|v
+to hold	berisi|v,pegang|v
+to hold a supper after tarawih prayers	bermoreh|v
+to hold apart or astretch	sengkang|v
+to hold something by the palms upwards	ampu|v
+to hold tightly	paut|v
+to holiday to spend time away from w	bercuti
+to hook to suspend something on a peg	sangkut|v
+to hope	harap|v,berharap|v
+to hug	peluk|v
+to hunt	buru|v
+to hurl	lempar|v,lontar|v
+to identify	cam|v
+to ignore	capak|v
+to imagine	bayangkan|v,imaginasikan|v
+to immerse	benam
+to immortalize	abadikan|v
+to impede	halang|v
+to implement	implementasikan|v
+to improve	memperbaik|v,memperelok|v
+to incise	toreh|v
+to include	termasuk|v
+to increase	ambah|v,menambah|v,bertambah
+to increase something	menambahkan|v
+to incur	kena|v
+to infect	hinggap|v,jangkit|v
+to inflate	busung|v
+to inform	maklum|v,bagitahu|v,beritahu|v
+to inquire	bertanya|v
+to inquire secretly	risik|v
+to insert	letak|v
+to insist	desak|v
+to inspect	periksa|v
+to inspire	menginspirasi|v
+to insult	ejek|v,maki|v,menganjing|v
+to intend	berniat|v
+to intensify	menjadi-jadi|v
+to interfere	ganggu
+to interpret	ertikan|v
+to interrogate	soal|v
+to intimidate	takutkan|v
+to invest	melabur|v
+to investigate discreetly	risik|v
+to investiture	lantik|v
+to invite	jemput|v,panggil|v
+to iron	menyeterika|v
+to isolate	pencil|v
+to jab upwards	menujah|v
+to jerk	sentak|v
+to jerk or move suddenly due to shock or surprise	tersentak|v
+to jerk or tug something suddenly	menyentak|v
+to join	turut|v,cantum|v,sambung|v
+to joke	beracah-acah|v
+to jump from a higher place to a lower place	terjun|v
+to justify	justifikasikan|v
+to kafirize	kafirkan|v
+to keep	pelihara|v
+to keep a lookout over	intip|v
+to keep away	jauhkan|v
+to keep on feigning	mengacah-acah|v
+to keep or fulfil a promise	memperkotakan|v
+to keep watch on	intip|v
+to kick	sepak|v,tendang|v,terajang|v
+to kidnap	culik|v
+to kill	bunuh|v,membunuh|v
+to kiss	cium|v
+to know	tahu|v,kenal|v
+to know how to behave	bisa mengabet|v
+to ladle	mencedok|v
+to lapidate	rejam|v
+to last for a very long time	berzaman|v
+to laugh	ketawa|v,tertawa|v,berkahkah|v
+to laugh show mirth by peculiar movement of the muscles	gelak
+to launch	dilancarkan|v
+to lavish of feelings	curah|v
+to lay eggs	bertelur|v
+to lay out	bentang|v
+to layover	singgah|v
+to lead	memimpin|v
+to lead by holding one's hand	tuntun|v
+to lead by the hand	pimpin
+to lean	sandar|v
+to leap down	terjun|v
+to learn	belajar|v
+to learn by heart	hafal|v
+to leave	keluar|v,beredar|v,berangkat|v
+to leave a mark	membekas|v
+to leave quickly	cabut|v
+to let	biar|v
+to let slip	meluputkan|v
+to let some liquid fall one drop at a time	titik|v
+to let something drop or fall on another	entak|v
+to lie	abab|v,nipu|v,bedek|v,ditipu|v
+to lie down	baring|v
+to lie on one's back	lentang|v
+to lie on one's side	mengiring|v
+to lie on top of	tindih|v
+to lie supine	lentang|v
+to lift	angkat|v,junjung|v
+to lift or raise high	menjulang|v
+to light up	tunu|v
+to like	suka|v
+to link	hubung|v,sambung|v
+to live	duk|v,tinggal|v
+to liven up	menghidupkan|v
+to loathe or hate upon	menyampah|v
+to long for	rindu|v
+to look	tampak|v,pandang|v,kelihatan|v
+to look after	kawal|v
+to look at	lihat|v,tengok|v,menengok|v
+to look carefully esp at a close distance from the naked eye	belek|v
+to look for	cari|v,cahari|v,mencari|v
+to look for or study the cause of something	menyusur galur|v
+to look intently	renung|v,merenung|v
+to look or gander at something	tandang|v
+to look or stare up	melangut|v
+to look out to look at something by ex	jenguk
+to look up	dongak|v,tengadah|v,langut
+to look upward	tengadah|v
+to look with one eye while closing another	bidik|v
+to loot	sakar|v
+to lord over	pertuan|v
+to lose	hilang|v
+to lose something due to robbery	kesamunan|v
+to lose the power of movement	lumpuh|v
+to love	suka|v
+to lower	turunkan|v,menurunkan|v
+to lower of curtains	labuhkan|v
+to lurk	pendap|v
+to make	buat|v,membuat|v,perbuat|v
+to make a choice	pilih|v
+to make a mistake	bersalah|v
+to make a move	beraksi|v
+to make a noise	bergeming|v
+to make a point	mengutarakan|v
+to make a rushing or splashing sound of heavy rain	derau|v
+to make an effort	berupaya|v
+to make aware of	insafkan|v,menginsafkan|v
+to make big	gedangkan|v
+to make bigger	membesarkan|v
+to make easy	memudahkan|v
+to make feel regretful	sesalkan|v,menyesalkan|v
+to make fluent	fasihkan|v
+to make formal	formalkan|v
+to make free-running	melincirkan|v
+to make fun of	ejek|v,usik|v,bergarah|v,menganjing|v
+to make funny	membadut-badutkan|v
+to make good	baguskan|v,membaguskan|v
+to make orange	jinggakan|v
+to make pickles or achar	mengacar|v
+to make possible	memungkinkan|v
+to make shallow	mencetekkan|v
+to make smooth	lancarkan|v,melincirkan|v,menggalirkan|v
+to make someone become someone's husband	mempersuamikan|v
+to make someone happy and content	bahagiakan|v
+to make someone patient	menyabarkan|v
+to make someone unders	diertikan|v
+to make someone understand	mengertikan|v
+to make something appear known to the public	tayang|v
+to make something be under one's ownership	punyakan|v
+to make something become japanese	jepunkan|v
+to make something become new or newer	perbaharu|v
+to make something better	memperelok|v
+to make something clearer	menyatakan|v
+to make something full	mengisi|v
+to make something go down	menurunkan|v
+to make something good	mengelokkan|v
+to make something obligatory	wajibkan|v
+to make something obligatory for muslims	fardukan|v
+to make something short	pendekkan|v
+to make something white	putihkan|v
+to make something wide	lebarkan|v
+to make sour	masamkan|v
+to make stubborn	degilkan|v
+to make sustainable	mampankan|v
+to malayise	dimelayukan|v,memelayukan|v
+to manage	urus|v
+to manage or direct an organisation or undertaking	kelola|v
+to manifest	jelma|v
+to manifesto	bermanifesto|v
+to manufacture	mengeluarkan|v
+to mark	bekaskan|v
+to market	menjual|v,memasarkan|v
+to marry	nikah|v,kahwin|v,mempersuami|v
+to massage	urut|v
+to masticate	mamah|v
+to masturbate	lancap|v,main sabun|v
+to measure	ukur|v
+to measure something precisely in carpentry	jangka|v
+to meet	temu|v,jumpa|v,tembung|v
+to melt	hancur|v
+to memorise	hafal|v
+to mention	sebut|v
+to meow	mengeong|v
+to mince	cincang|v
+to mind	kisah|v,mempedulikan|v,menghiraukan|v
+to mislead	acan|v,menganwar-anwarkan|v
+to miss	meluputkan|v
+to miss an opportunity	terlepas|v
+to mix	bancuh|v,campur|v
+to moan	rintih
+to mob	kerumun|v
+to mock	ejek|v,maki|v,menganjing|v
+to mock or ridicule	mengatai|v
+to monitor i e watching over something or someone	pantau|v
+to move	pindah
+to move aside	sisih|v,singkir|v
+to move away	jauhkan|v
+to move slightly	ganjak|v
+to move through the air	layang|v
+to move to change place or posture	alih|v
+to move towards or into something	merusuk|v
+to multiply	biak
+to multiply to become grea	bertambah
+to munch	mamah|v
+to mutter in discontent	rungutnya|v
+to narrate	royat|v,bercerita|v
+to nationalize	nasionalisasikan|v
+to navigate	meniti|v
+to neglect	abaikan|v
+to neigh	meringkik|v
+to nod to lower and raise the head quickly	angguk
+to not allow	larang|v
+to not budge	geming|v
+to not move	geming|v
+to not work hard for something	bermudah-mudah|v
+to notch	tetak|v
+to notice	perasan|v
+to notify	bagitahu|v,beritahu|v
+to nurse	asuh|v,rawat|v
+to obey	mematuhi|v
+to observe	awas|v,tinjau|v,perhati|v
+to observe to notice or view	mengamati
+to obstruct	sekat|v,halang|v,menampan|v
+to obtain	memperoleh|v
+to occur	berlaku|v
+to offer	tawar|v,menawarkan|v
+to open	buka|v,selak|v
+to open up a new area for it to be a village or a farm	teroka|v
+to open wide	dedah|v
+to operate	beroperasi|v
+to oppress	menindas|v
+to order	oder|v,susun|v,mengoder|v
+to order someone to do something	suruh|v
+to organise	isih|v
+to organize	susun|v
+to originate	berhulu|v
+to originate from	berasal|v
+to overflow	melimpah|v
+to overlap	tindih|v
+to own	dipunyai|v,mempunyai|v
+to own a violin	berbiola|v
+to oxidise	mengoksida|v,mengoksidakan|v
+to oxygenate	oksigenkan|v
+to pack food so it can be consumed elsewhere	tapau|v
+to pan-fry	goreng tohor|v
+to pant when mourning or crying	sedu|v
+to pare	raut|v
+to participate	turut|v
+to pass	lalu|v
+to pass away	mangkat|v,meninggal|v,meninggal dunia|v
+to pass by	lalu|v,lewat|adj
+to pass over	lewat|adj
+to paste	tampal|v
+to pat	tepuk|v
+to pay	bayar|v
+to pay attention	awas|v,endah|v,kisah|v
+to pay attention to	perhati|v,mempedulikan|v,menghiraukan|v
+to pay someone a wage or an upah	upah|n
+to peck	catuk|v
+to peck of birds	patuk|v
+to peek	jenguk
+to peel	kupas|v
+to peel off of skin	kelupas|v
+to peep	menjengah|v
+to peer	jenguk
+to penetrate	tembus|v
+to perceive visually	nampak|v
+to perforate	tebuk|v
+to perform	melakukan|v,sembahkan|v,menyembahkan|v,persembahkan|v
+to perform abdest	berabdas|v
+to perform an action	berbuat|v
+to perish	mampus|v
+to permit	benarkan|v
+to perspire	berpeluh|v
+to pick	petik|v
+to pick up	kutip|v,memungut|v
+to pick up or collect	pungut|v
+to pick up something with the fingers	cekut|v
+to pierce	cucuk|v,tembus|v
+to pile up	bertambun|v
+to pin	semat|v
+to pinch	cubit|v
+to pinch to compress something bet	picit
+to pitch	lontar|v
+to place	letak|v,taruh|v,dudukkan|v,mendudukkan|v
+to plagiarize	mengabuk|v
+to plant	semai|v,tanam|v
+to plant by scattering	menyemai|v
+to plant on dry soil	berladang|v
+to play	main|v,bermain|v
+to plough	gembur|v
+to pluck	petik|v
+to plug or stuff an orifice with material	palam|v
+to point	hala|v
+to point something towards	abahkan|v
+to poke	jolok
+to ponder over	memikirkan|v
+to possess	rasuk|v,adakah|v
+to pounce	terkam|v
+to pour liquid onto	simbah|v
+to pour out	curah|v
+to pout	merajuk|v
+to practise polygamy	berpoligami|v
+to prattle	repet|v,merepet|v
+to pray	bersembahyang|v
+to predict	ramal|v
+to present	mempersembahkan|v
+to preserve	lestarikan|v
+to press	tekan|v,picit
+to press down heavily	henyak|v
+to press flat against to cover something with	tekap
+to pretend to not to know	sadin|v
+to prevent	cegah|v
+to preview	mempreviu|v
+to privatise	menswastakan|v
+to proceed with	lanjutkan|v
+to process	mengolah|v
+to prod upwards usually using a long	jolok
+to produce	mengeluarkan|v
+to profess	anut|v
+to prohibit	tegah|v,menegah|v,larangkan|v
+to propose	aju|v,lamar|v,saran|v
+to protest	bantah|v
+to provide counseling to someone	kaunseling|v
+to pry out	colek|v
+to pull	hela|v,heret|v
+to pull or tug suddenly	sentak|v
+to pull so it comes towards one	tarik|v
+to pull up of fabric	selak|v
+to pull with a hook	mengait|v
+to punch	tumbuk|v
+to purify	membersihkan|v
+to push	tolak|v,dorong|v,sorong|v
+to push with the head or snout especia	sondol
+to put	bubuh|v,letak|v,taroh|v,taruh|v
+to put a label on something	melabel|v
+to put a pan above a fire to cook	jerang|v
+to put an end to	hapus|v
+to put ash on something	mengabui|v
+to put forward an idea	aju|v
+to put in	masukkan|v,memasukkan|v
+to put lotion on	melosen|v
+to put something down with force	entak|v
+to quarrel	gaduh|v
+to question	soal|v
+to quiver usually due t	ketar
+to raid	serbu
+to raise	angkat|v,naikkan|v
+to raise one s face or eyes upward	langut
+to raise one s head upward	melangut|v
+to raise or lift high something especially on top of one's shoulders	julang|v
+to rake up old stories	ungkit|v
+to ram something or someone using one's own head	segok|v
+to randomly do	mengacak|v
+to ransack	barek|v
+to rape to force sexual intercourse or other penetrative	perkosa
+to rave to utte	igau
+to re-arrange	rombak|v
+to reach	tuju|v,jangkau|v
+to read	baca|v,membaca|v
+to rear	asuh|v,pelihara|v
+to rebound	bingkas|v,lenting|v
+to recall	mengingat|v,tarik balik|v,kenang
+to recede	susut|v
+to receive	terima|v,menerima|v
+to receive with both palms	tadah|v
+to recognise by sight	cam|v
+to reconcile	rujuk|v
+to record	rakam|v
+to rectify to make right	membetulkan|v
+to redeem or ransom	tebus|v
+to reflect on	merenungi|v
+to reform	baharui|v,reformasi|v
+to refract	bias|v
+to regale	santap|v
+to regard	memandang|v,menganggap|v,anggap
+to regret	sesali|v,menyesal|v,menyesali|v
+to relax	rilek|v
+to release	membebaskan|v
+to reload	muat semula|v
+to relocate to go from one place	pindah
+to remain motionless	geming|v
+to remain mute or speechless	membisu|v
+to remark	perasan|v
+to remember	ingat|v,teringat|v
+to remember fondly	kenang
+to remember what has been seen	cam|v
+to reminisce to think abo	kenang
+to remove	jauhkan|v
+to remove errors	membetulkan|v
+to remove frost from	nyahfros|v
+to remove something with a sharp object	kikis|v
+to rent	menyewa|v
+to repair	baharui|v
+to repeat	ulang|v
+to repeatedly turn	tertoleh-toleh|v
+to replace	ganti|v,salin|v
+to reply	balas|v,sahut|v
+to represent	merupakan|v
+to reproduce to produce offspring	biak
+to request	minta|v,mohon|v
+to reserve to arrange for a seat	tempah|v
+to reside	tinggal|v
+to resist	tahan|v
+to respond	balas|v
+to respond to a call	sahut|v
+to rest	jeda|v,beradu|v,sandar|v,berehat|v,beristirahat|v
+to rest oneself	mengistirahatkan diri|v
+to rest something	merehatkan|v,mengistirahatkan|v
+to restore	rujuk|v
+to resume	lanjutkan|v
+to retreat	undur|v,berkhalwat|v
+to return	pulang|v,kembali|v
+to revere	disembah|v
+to reverse	gostan|v
+to revolve	edar|v
+to ride a horse	berkuda|v
+to ride along	tumpang|v
+to ride or travel with bicycle	berbasikal|v
+to ridicule	bergarah|v
+to rinse	bilas|v
+to ripple	kocak|v
+to rise	terbit|v
+to roast	sangai|v
+to rob	sakar|v,sakau|v,rompak|v
+to rock	ayun|v
+to roll	guling|v,gulung|v
+to romanise	merumikan|v
+to roughly calculate	hitung-hitung|v
+to round	membundarkan|v
+to rouse	gera|v
+to row a boat	beciyau|v
+to rub	gosok|v,menggosok|v
+to rub clean to remove liquid	seka
+to rub gently to move one's hand s	usap
+to rub one surface against another	gesek|v
+to rub repeatedly especially of rubbing one's eyes with	genyeh
+to run	lari|v
+to run aground	dampak|v
+to run amok	amuk|v,mengamuk|v
+to run around in a disorderly manner	abrit-abritan|v
+to run away	cabut|v
+to run from	nyah|v
+to run into	tembung|v
+to run over	melimpah|v
+to run swiftly	menciput|v
+to rush at	serbu
+to rush or dash forward	luru|v
+to rush towards to run quickly towards someone	terpa|v
+to sacrifice one's own life	putih tulang|v
+to sail	berlayar|v
+to satisfy	puaskan|v
+to save	selamatkan|v
+to say	ucap|v,ujar|v,sebut|v,bilang|v,berkata|v,mengata|v,bertutur|v,bersembah|v,mengatakan|v
+to say ouch	mengaduh|v
+to say something about oneself	mengaku|v
+to scare	takutkan|v
+to scatter	tabur|v
+to scour	gosok|v,menggosok|v
+to scratch	garu|v
+to scrutinize	periksa|v
+to search	cari|v,cahari|v,mencari|v
+to seduce	goda|v,menggoda|v
+to see	nampak|v
+to seek	cari|v,mencari|v
+to seek revenge	balas dendam|v
+to seem	kelihatan|v
+to seize with arms	gelut|v
+to sell	jual|v,menjual|v,memasarkan|v
+to send	kirim|v
+to send a letter vi	via
+to send letters to each other	surat-menyurat|v
+to sense a feeling or sensation	terasa|v
+to separate	lerai|v,pisah|v
+to separate into parts	bahagi|v
+to serve	laden|v,mengabdi|v,menyajikan|v,menghidangkan|v
+to serve or prepare	bersaji|v
+to serve or wait on something or someone of food	layan|v
+to set at liberty	membebaskan|v
+to set free	membebaskan|v
+to set off	berangkat|v
+to sever	kerat|v
+to sever into parts	potong|v
+to sew	jahit|v
+to shade	menaungi|v
+to shadow	bayangi|v,menaungi|v
+to shake	goncang|v,ketar
+to shallow-fry	goreng tohor|v
+to sharpen	asah|v
+to shave	cukur|v,bercukur|v
+to shed usually in large quantities	luruh|v
+to shift	alih|v,ganjak|v,berubah|v
+to shiver	gigil|v,ketar
+to shoot	tembak|v
+to shout	seru|v,laung|v
+to shout in celebration	sorak|v
+to show	tunjuk|v
+to show off	beraksi|v
+to shower	mandi|v
+to shroud	menyelubungi|v
+to simplify	mempermudah|v
+to sing	nyanyi|v
+to sink	acop|v,benam
+to sink under water	tenggelam|v
+to sip	hirup|v
+to sit	terduduk|v,bertahana|v
+to sit around	duduk-duduk|v
+to sit at	duduki|v,menduduki|v
+to sit carried or piggybacked on someone	berdukung|v
+to sit cross-legged	duduk bersila|v,bersila panggung|v,duduk bersilang kaki|v,duduk bertindih lutut|v
+to sit on one's heels	tinggung|v
+to sit on the floor with both legs folded underneath the	bertimpuh
+to sit with one's legs folded to the back and one's knees touching the ground	duduk bersimpuh|v
+to sketch	lakar|v
+to skin	lapah|v
+to skip school or class	fly|v
+to slack off from work or task	curi tulang|v
+to slack off of works	mengular|v
+to slam down	henyak|v
+to slap	sepuk|v
+to slap on the face	tempeleng|v
+to slash	tajak|v,tetak|v
+to slash small plants	tebas
+to slaughter	membantai|v
+to sleep	tidur|v,beradu|v,meletakkan kepala|v
+to slide down	lungsur|v
+to slip down	lungsur|v,londeh
+to slosh	kocak|v
+to smell	hidu|v,berbau|v
+to smell bad	berbau|v
+to smell or sniff something	baui|v
+to smile	senyum|v
+to smoke	sapkok|v,merokok|v
+to smooth or level wood with a knife	tarah|v
+to snatch	rebut|v,sakau|v
+to sneeze	bersin|v
+to snort	mendengus|v
+to soak	rendam
+to sob	sedu|v
+to socialize	bersosial|v,bersosialisasi|v,sosialisasikan|v
+to solve a problem	solusi|n
+to somniloquize	igau
+to sow	semai|v,menyemai|v
+to span a certain age	jangkau|v
+to speak	ujar|v,cakap|v,bicara|v,sembang|v,bercakap|v,bertutur|v,berbahasa|v
+to speak about	memperkatakan|v
+to speak nonsense	sembang kote|v,sembang konek|v
+to spell	eja|v
+to spill	tumpah|v
+to spin	pusing|v
+to spit out	bura|v
+to splash	kocak|v,simbah|v
+to split	bahagi|v
+to split or snap	patah|v
+to spray	sembur|v
+to spread	tular|v,membentang|v
+to spread something amongst the people	rakyatkan|v
+to spurt out	percit|v
+to spy	risik|v
+to squat	jongkok|v,tinggung|v
+to squeeze	apit|v,perah|v,peras|v,ramas|v,picit
+to stab repeatedly	tikam-tikam|v
+to stake	cucuk|v
+to stall	mogok|v
+to stamp	memeterai|v
+to stamp with one's foot	hentak|v
+to stand	diri|n,berdiri|v
+to stand on one's own two feet	berdikari|v
+to stand stagnantly	congok|v
+to stare	tenung|v,merenung|v
+to startle	kejut|v
+to state	mengutarakan|v
+to stay	duk|v
+to stay and sleep	inap|v
+to steal	curi|v,sakau|v
+to steep	rendam
+to step	tindak|v,langkah|v
+to step aside	sisih|v,singkir|v
+to step on	pijak|v
+to step over	langkah|v
+to stick	lekat|v
+to stimulate	uja|v
+to stir a mixture until its composition becomes even	mengacau|v
+to stir-fry	goreng kilas|v
+to stitch	jahit|v
+to stitch a decorative design on fabric	menyulam|v
+to stomp	hentak|v,henyak|v
+to stone	rejam|v
+to stoop down	membongkok|v
+to stop	cegah|v,henti|v,mogok|v,berhenti|v,menampan|v
+to stop by	singgah|v
+to stopover	singgah|v
+to strand	dampak|v
+to strangle	cekik|v
+to strengthen a place with	mengotakan|v
+to stretch	nyunyut|v,terbentang|v
+to stretch out	hulur|v,membentang|v
+to stretch out both arms horizontally	depa|v
+to strew	tabur|v
+to stride	langkah|v
+to strike	pukul|v,sepuk|v,sambar|v,tumbuk|v,menyerang|v
+to strike down on	timpa|v
+to strike lightly with the beak or similar object	catuk|v
+to strip	lapah|v
+to strip pick off something by sliding motion	melurut|v
+to strive especially for a cause	berjuang
+to stroke	usap
+to struggle	juang|v,berjuang
+to study	belajar|v,ulang kaji|v
+to submerge	acop|v,tenggelam|v
+to submerge briefly in some liquid tea	celup|v
+to submerge to place or leave somethi	rendam
+to submerge to push or go down belo	benam
+to submit	aju|v,serah|v
+to subscribe	langgan|v
+to subside	susut|v
+to succeed in doing	dapat|v
+to suck	sedut|v
+to suck up	hirup|v
+to suddenly be sleepy	terkantuk|v
+to suddenly think of	terfikir|v
+to suffer	derita|v
+to suffer from	hidap|v
+to suffer to phys	mengalami
+to suggest	saran|v,cadang|v
+to sulk	merajuk|v
+to summon	seru|v
+to support	sapot|v,junjung|v
+to support on the shoulder	tanggung|v
+to surf	berselancar|v
+to surge	buak|v
+to surrender	putih mata|v
+to survey	riki|v
+to suspect	sangka|v
+to sustain	mengalami
+to swallow	teguk|v,telan|v
+to swarm	kerumun|v
+to swarm to suddenly ent	serbu
+to sway	ayun|v,imbas|v,lenggok|v
+to sweat	berkeringat|v
+to sweep	menyapu|v
+to swell	membengkak|v
+to swim	renang|v,berenang|v
+to swindle	ponteng|v
+to swing	ayun|v,buai|v
+to swing gracefully	lenggok|v
+to take	ambil|v
+to take a break	beristirahat|v
+to take a selfie	berswafoto|v
+to take a vacation	bercuti
+to take action	beraksi|v,melakukan|v
+to take as if with a ladle	mencedok|v
+to take away	tapau|v
+to take in hand what comes one's way	sambut|v
+to take notice of	hirau|v
+to take place	berlaku|v
+to take place or be held at	bertempat|v
+to take shelter	lindung|v
+to take turn drink and dance	beranggap|v
+to talk	cakap|v,bicara|v,bincang|v,sembang|v,bertutur|v,berbincang|v
+to talk in one's sleep	igau
+to talk incessantly and frivolously	repet|v,merepet|v
+to talk out of one's ass	sembang kote|v,sembang konek|v
+to tap	tepuk|v,tercatuk|v
+to taste	cecap|v,cicip|v
+to teach	ajar|v,mengajar|v
+to tear away	rebut|v
+to tear off the skin	lapah|v
+to tease	usik|v,sakat|v,bergarah|v
+to tell	maklum|v,bagitahu|v,beritahu|v,memperkatakan|v
+to tell a story	royat|v,bercerita|v
+to test	uji|v
+to the most advantage	seelok-eloknya|adv
+to think about	fikirkan|v,memikirkan|v
+to threaten	ugut|v
+to throng	kerumun|v
+to throw	lempar|v,lontar|v
+to throw an object	baling|v
+to throw in the towel	putih mata|v
+to thrust	jolok
+to thrust or shove something in front of someone	sua|v
+to tie	hubung|v,mengikat|v
+to till	gembur|v
+to tilt the head upwards	dongak|v
+to tinker	kodek|v
+to topple	tumbang
+to toss	lempar|v,lontar|v
+to touch	sentuh|v
+to trace	menyusurgalurkan|v
+to transfer	pindah
+to transform	bertransformasi|v
+to transform something	transformasikan|v
+to translate	terjemah|v
+to translate something into the malay language	melayukan|v
+to transport	angkut|v
+to travel	melancong|v
+to traverse	meniti|v,rentas
+to tread	tindak|v
+to tremble	ketar
+to trickle or flow gently	leleh|v
+to trim	raut|v
+to try	tray|v
+to turn	alih|v,edar|v,belok|v,putar|v,beleng|v,pusing|v,menoleh|v,berpaling|v,palingkan|v,memalingkan|v
+to turn into	menjadi|v
+to turn something	menolehkan|v
+to twinkle	mengelip|v
+to type of keyboard	taip|v
+to uncoil	orak|v
+to uncover	dedah|v,selak|v
+to undergo	mengalami
+to understand	reti|v,fahami|v
+to unfold	membentang|v
+to unify	bersatu|v
+to unite	cantum|v,bersatu|v
+to unravel	orak|v
+to untie	orak|v
+to unwind	orak|v
+to upload	muat naik|v
+to urbanize	membandarkan|v
+to urge	desak|v
+to urinate	kencing|v
+to use as a rampart	mengotakan|v
+to use hadiths as proof for something	berhadis|v
+to use letters	bersurat|v
+to use the pillow	berbantal|v
+to utter	ujar|v
+to validate	mengesahkan|v,mengabsahkan|v
+to veil	menyelubungi|v
+to verify	mengesahkan|v
+to vex	sakat|v
+to video or videotape	memvideokan|v
+to view	pandang|v,memandang|v
+to view to hold an opin	anggap
+to violate	langgar|v
+to visit	jengah|v,kunjung|v,melawat|v,dijengah|v
+to voice an opinion	menyuarakan|v
+to vomit	muntah|v
+to vote	undi|v
+to wade	meranduk|v
+to wade to walk through water	harung|v
+to wait	tunggu|v
+to wait for	menanti
+to wake someone up	gera|v
+to wake up	bangun|v
+to walk	berjalan|v
+to walk on	menjalani|v
+to wallow	berendam|v
+to want	mahu|v
+to want to eat	idam|v
+to ward off	tangkis|v
+to wash	basuh|v,mencuci|v
+to waste	bazir|v
+to waste something	abur|v
+to watch	jaga|v,perhati|v
+to watch over	kawal|v
+to watch performances	tonton|v,menonton|v
+to watch tv	ditengok|v
+to water	siram|v
+to wave hands	kibar|v
+to wear	pakai|v
+to weave	tenun|v
+to wed	nikah|v
+to weep	tangis|v
+to weigh	timbang|v
+to well up	buak|v
+to whet	asah|v
+to whimper to make a low	rintih
+to whip	cemeti|v
+to whiten	memutih|v,putihkan|v
+to widen	melebar|v
+to widen something	perlebar|v
+to wife to marry	memperisteri|v
+to win	menang|v
+to wind around	belit|v
+to winnow	tampi|v
+to winnow grain with winnowing basket	tenggek|v
+to wipe	seka
+to wish	impi|v
+to withdraw	menarik|v
+to withstand	tahan|v
+to work	bekerja|v
+to worry	risau|v
+to worship	sembah|v,menyembah|v
+to wrap	tungkus|v
+to wrap oneself in a blanket	berselimut|v
+to write a letter	menyurat|v
+to write a letter to	surati|v,disurati|v
+to write on	menyurati|v
+to write someone something	menyuratkan|v
+to write something	suratkan|v
+to write to form letters	tulis|v
+to yawn	uap|v,kuap|v,sangap|v
+to yearn for	rindu|v
+to yell	laung|v
+to zoom	zumkan|v
+toad	katak|n,kodok|n,katak puru|n
+toaster	pembakar roti|n
+tobacco	tembakau|n
+today	hari ini|adv,sekarang|adv
+tofu	tauhu|n,taukua|n
+together	bersama|prep,sama-sama|int,bersama-sama|adv
+toilet	tandas|n,bilik air|n
+tokay gecko	tokek|n
+tolerance	tolak ansur|n
+tolerant	bertolak ansur|adj
+toll	bea|n
+tom yam	tomyam|n
+tomato	rangam|n
+tomb	jirat|n,kubur|n,makam|n
+tomboy	tomboi|n
+tombstone	nisan|n
+tomorrow	esok|n
+tomorrow or overmorrow	esok lusa|n
+tongue	lidah|n
+tonsil	tonsil|n
+too	pun|adv,juga|adv
+too late	terlambat
+tool	alat|n
+tool for cooling down e g ice cubes	pendingin|n
+tools	alatan|n
+tooth	akar|n,danta|n,gerigi|n
+toothache	sakit gigi|n
+toothed or spiked wheel fixed to one's boot for prodding a horse rode on	pacu|n
+toothpaste	ubat gigi|n
+top a garment worn to cover the torso	baju|n
+top of a mountain	puncak|n
+topic	topik|n
+torch	obor|n,suluh|n,jamung|n
+torch ginger	kantan|n
+torn	pokah|adj
+torn or broken into tiny pieces	kecai|adj
+torn pieces of material	cebis|cls
+tornado	puting beliung|n
+tortoise	kura-kura|n
+torture	penderaan|n
+total	jumlah|n
+totaling	seramai
+totally	gerenti|adv
+tote bag	beg jinjing|n
+tottering	terhuyung-huyung|adj
+touchwood	rabuk|n
+tough not easy to do	payah|adj
+tourette syndrome	sindrom tourette|n
+tourism	pelancongan|n
+tourist	pelancong|n
+towards	ka|n,kepada|prep,mengarah|prep,until,ke arah
+towel	andok|n,anduk|n,tuala|n,kainsal|n
+tower	tiang|n,menara|n
+towing the act by which something is towed	penundaan|n
+towkay	tauke|n
+town	pekan|n
+toy	mainan|n

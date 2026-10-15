@@ -1,0 +1,50 @@
+t	utas
+table	meja|n,jadual|n
+taboo	pemali|n,pantang|n
+tachyon	takion|n
+tadpole	berudu|n
+tael	tahil|n
+tail	ekor|n,kotek|n
+tailless	togel|adj
+takbir a proclamation of the greatness of god	takbir|n
+take a break	leklu
+take care of	rawat|v
+take solid or liquid food into the mouth a little at a ti	sup|n
+take the form of	merupakan|v
+takes notes and ha	sekretaris
+taking caution	curiga|adj
+talisman	azimat|n
+talk	bual|n
+tall grass	lalang|n
+talon	cakar|n
+tamarind	asam jawa|n
+tanjong malim a town in kinta district	tanjung rambutan
+tanjong malim a town in muallim district	tanjong malim
+tank	tangki|n,kereta kebal|n
+tanning	samak|n
+tantalum	tantalum|n
+tap	tampar|n
+tapai a traditional asian food made from fermented carbo	tapai|n
+tapioca	ubi kayu|n
+tapir	tapir|n
+taqiyah	kopiah|n
+taqwa the care taken by a person to obey the commands of allah	takwa|n
+tardigrade	tardigrada|n
+tardy	lengah|adj
+target	sasaran|n
+tariff	cukai|n
+taro	talas|n
+taro etc	keladi|n
+tarsier	kera hantu|n
+task	gawai|n
+tasks etc	layan|v
+taste	rasa|n
+tasteless	hambar|adj
+tasty	enak|adj,sedap|adj
+tausug	suluk
+taut	regang|adj
+tawau a city in tawau district	tawau
+tax	cukai|n,kharajat|n
+taxes	bea|n
+taxi	taksi|n,teksi|n
+taxonomy	taksonomi|n

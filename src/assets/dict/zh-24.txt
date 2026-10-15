@@ -1,150 +1,114 @@
-丘	bintil,bisul lada,bukit-bukau,estet,guguk,kaki bukit|n,kebun getah,ladang getah
-丘状	monggok
-丘状的	monggok
-丘疹	bintil,bisul lada
-丘陵	bukit-bukau
-丘陵和	bukit-bukau
-丘陵和荒	bukit-bukau
+丘	bintil
+丘八	askar|n
+丘疹	bintil
 丘陵和荒野	bukit-bukau
-优	anugerah|n,elok|adj,julai,kelebihan|n,langkai,molek,permai,santing
+优	kelebihan|n,superioriti|n,yang berhormat|pron,zain
+优伶	pelakon|n,aktres|n
+优惠	diskaun|n
+优柔	landai|adj
+优渥	liberal|adj,karim|adj
 优点	kelebihan|n,yang berhormat|pron
-优美	zain,langkai,permai,santing
-优美的	langkai,permai,santing
+优秀	elok|adj
+优等	elok|adj
+优美	zain,permai,langkai,santing
+优美的	permai,langkai,santing
+优胜	elok|adj
 优良	elok|adj,molek
 优良的	elok|adj,molek
-优越	superioriti|n,anugerah|n
-优越的	anugerah|n
-优越的赐	anugerah|n
-优越的赐与	anugerah|n
-优越的赐与下	anugerah|n
-优越的赐与下贱	anugerah|n
-优越的赐与下贱的	anugerah|n
+优裕	cukup|adj
+优越	superioriti|n
 优雅	julai
 优雅的	julai
-倘	asalkan,namun|adv,nyampang,senyampang
-倘若	asalkan,namun|adv,nyampang,senyampang
+倘	namun|adv,asalkan,senyampang,nyampang
+倘若	namun|adv,asalkan,senyampang,nyampang
 刘	andam|v
 刘海	andam|v
-厘	bali,sentiliter
+厘	sentiliter
 厘付	sentiliter
-厘岛	bali
-喘	ungkap,asma,batuk sesak,cungap,engah,melenguh,mengah,mengih
-喘吁	engah,terengah-engah,terunkap
-喘吁吁	engah,terengah-engah,terunkap
-喘吁吁的	terunkap
-喘息	ngah-ngah,ngap,ngengap,sesak nafas,ungap
-喘气	melenguh,ngungap,termengah-mengah,ungkap
-喘病	asma,batuk sesak
-嘘	siuh
-嘘声	siuh
-嘘声赶	siuh
-娘	as|n,bedaya,gadis dara,kebaya,lelat,mempelai|n,pengantin,raja sehari|n
+喘	ungkap,ungap,ngungap,ngap,sesak nafas,ngengap,melenguh,ngah-ngah
+喘息	ungap,ngap,sesak nafas,ngengap,ngah-ngah
+喘气	ngungap,ungkap,melenguh,termengah-mengah
+嘘发出嘘声赶	siuh
+娘儿们	pp|n,bini|n
+娘妈	pp|n
+娘娘	bu|n,tante|n
 娘惹	kebaya
 娘惹衫	kebaya
-娘的	lelat
-娘的栳	lelat
-娘的栳叶	lelat
-娘科	as|n
-娘科植	as|n
-娘科植物	as|n
-官	abdi negara|n,abintara|n,adikung,akilrasmi,bentara,berita rasmi,biduanda,birokrasi|n
-官僚	birokrasi|n,birokratik|adj
+官	pangkat|n,gelar|n,pegawai|n,manteri,kedah darul aman,pahang darul makmur,perak darul ridzuan,selangor darul ehsan
+官僚	birokrasi|n
+官僚主义	birokrasi|n
+官僚习气	birokrasi|n
 官僚政	birokrasi|n
 官僚政治	birokrasi|n
-官僚的	birokratik|adj
-官及	perkelang
-官及部	perkelang
-官及部长	perkelang
-官及部长等	perkelang
-官及部长等之	perkelang
-官及部长等之称	perkelang
-官及部长等之称号	perkelang
-官吏	manteri,pegawai|n
-官员	kedah darul aman,pahang darul makmur,pegawai|n,perak darul ridzuan,selangor darul ehsan,terengganu darul iman,abdi negara|n,teknokratik|adj
-官员组	teknokratik|adj
-官员组成	teknokratik|adj
-官员组成的	teknokratik|adj
-官方	akilrasmi,berita rasmi,rasmi|adj
+官僚的机僚化	birokratik|adj
+官僚的机僚化的	birokratik|adj
+官吏	pegawai|n,manteri
+官员	pegawai|n,kedah darul aman,pahang darul makmur,perak darul ridzuan,selangor darul ehsan,terengganu darul iman
+官场	birokrasi|n
+官方	rasmi|adj,akilrasmi,berita rasmi
 官方代	akilrasmi
 官方代表	akilrasmi
 官方新	berita rasmi
 官方新闻	berita rasmi
 官方的	rasmi|adj
-官的	organik|adj,prefektur|n,serviks|n
-官的职	prefektur|n
-官的职位	prefektur|n
-官的颈	serviks|n
-官的颈部	serviks|n
-官衔	gelar|n,misa|n
-官衔名	misa|n
+官能	keupayaan|n,fakulti|n
+官衔	gelar|n
 官阶	pangkat|n
-尘	berdebu|adj,celaga,debu|n,duli|n,habu,habuk|n,kebul,lebu|n
+尘	duli|n,lebu|n,habuk|n,puyan|n,habu,kebul
 尘垢	puyan|n
-尘埃	duli|n,habu,habuk|n,kebul,lebu|n
-尘的	berdebu|adj
-帘	paldu,perdah,bidai,langsir|n,luyu
-帘垂	luyu
-帘垂下	luyu
-徘	hilir-mudik,kelana,rayau,senteri|n
-徘徊	hilir-mudik,kelana,rayau,senteri|n
+尘埃	duli|n,lebu|n,habuk|n,habu,kebul
+帘	paldu,perdah
+帘子	tirai|n
+徘	kelana,hilir-mudik,rayau
+徘徊	senteri|n,kelana,hilir-mudik,rayau
 徘徊者	senteri|n
-战	alah|adj,angkatan perang,babil,berjuang,berkobar,berperang,bertarung,bertempur
-战争	peperangan,perang|n,berkobar,gambuh,jihad,kobar
-战争爆	berkobar,kobar
-战争爆发	berkobar,kobar
-战争舞	gambuh
+战	juara|n,perang|n,perjuangan|n,pahlawan|n,strategi|n,perajurit|n,pertempuran|n,kampanye|n
+战争	perang|n,peperangan,kobar,berkobar
+战争爆	kobar,berkobar
+战争爆发	kobar,berkobar
+战事	perang|n
 战利	rampasan
 战利品	rampasan
 战地	medan perang
-战场	gelanggang perang,medan perang
-战士	juara|n,pahlawan|n,pejuang|n,pendekar,penjurit,perajurit|n,perwira
-战役	kampanye|n,pertempuran|n
+战场	medan perang,gelanggang perang
+战士	juara|n,pahlawan|n,perajurit|n,pejuang|n,perwira,penjurit,pendekar
+战役	pertempuran|n,kampanye|n
 战抖	ketar
-战斗	berjuang,bertarung,bertempur,juang|v,perjuangan|n,pesawat pejuang|n,pesawat tempur|n,sabung-menyabung
-战斗机	pesawat pejuang|n,pesawat tempur|n
-战术	taktik|n
-战栗	geletar,gementar,gigil|v,gogoh,cuak|adj
+战斗	perjuangan|n,juang|v,berjuang,bertarung,bertempur,pesawat tempur|n,pesawat pejuang|n
+战斗机	pesawat tempur|n,pesawat pejuang|n
+战斗者	pejuang|n
+战栗	gigil|v,cuak|adj,gogoh,geletar,gementar
 战栗的	cuak|adj
 战死	gugur|v
-战略	strategi|n,pengurusan strategik|n,strategik|adj
-战略的	pengurusan strategik|n,strategik|adj
-战的	militan|adj
-战科	melaka
-战科植	melaka
-战科植物	melaka
-战科植物名	melaka
+战略	strategi|n,strategik|adj,pengurusan strategik|n
+战略性	strategik|adj
+战略的	strategik|adj,pengurusan strategik|n
 战粟	ketir
 战胜	fatah|n
 战舰	kapal perang
-战败	alah|adj
-战部	angkatan perang
-战部队	angkatan perang
-折	kelepet,tekuk,terkelepet,bantut,berlibat,berliku-liku,biasan,biru-biru|n
+折	biru-biru|n,tekuk,kelepet,terkelepet,diskaun|n,patah|v,gobek,moler
 折入	kelepet,terkelepet
 折叠	lecik,berlibat
 折叠着	berlibat
-折声	letap
+折头	diskaun|n
 折射	biasan
 折射作	biasan
 折射作用	biasan
 折层	biru-biru|n
 折扣	diskaun|n
-折断	ledus,patah|v,sekah
-折的	berliku-liku,mencong,selekoh
+折断	patah|v,ledus,sekah
+折痕	biru-biru|n
 折皱	ropol
-折磨	gobek,menyeksa,moler,rundung,seksaan,seksakan
+折磨	gobek,moler,rundung,seksakan,seksaan,menyeksa
 折绉	tekuk
 折起	lingkap,menyingsing
 折骨	riuk
-掘	gali|v,korek|v,mencebak,menggali,cebak,cebakan,galian|n,garu|v
-掘地	memungut|v,pungut|v
-掘物	cebakan,galian|n
+掘	korek|v,gali|v,pungut|v,memungut|v,mencebak,menggali,sungkal,tugal
+掘地	pungut|v,memungut|v
 掘穴	tugal
 掘起	sungkal
-攘	lalulintas|n
-攘攘	lalulintas|n
 氘	deuterium|n
-甘	embuh,gambir|n,gantang|n,hampas tebu,keledek,kemenyan,lazat|adj,pelanduk|n
+甘	tebu|n,gambir|n,gantang|n,embuh,keledek
 甘冬	gantang|n
 甘吉	pelanduk|n
 甘吉儿	pelanduk|n
@@ -152,58 +116,41 @@
 甘愿	embuh
 甘文	kemenyan
 甘文烟	kemenyan
+甘甜	manis|adj
 甘芳	lazat|adj
 甘芳的	lazat|adj
 甘茨	keledek
 甘蔗	tebu|n,hampas tebu
 甘蔗渣	hampas tebu
-甘言	umbuk-umbai
 碘	iodin|n
-窘	putihkan mata|v,ripuh
-粘	melekat,rekat,adhesi,geluh,lahak,leceh,lekat|v,lendir|n
-粘住	melekap,tempel
-粘土	geluh,liat|adj
+粘	liat|adj,rekat,melekat,lendir|n,pulut|n,lindih,geluh,tempel
+粘住	tempel,melekap
+粘土	liat|adj,geluh
 粘汁	pulut|n
-粘液	lendir|n,lindih,tahi hidung|n
-粘物	selepet
-粘的	leceh,likat,pekat,serul
+粘液	lendir|n,lindih
 粘着	adhesi
-粘贴	melekatkan,menempel,merekat,lahak,lekat|v
-粘贴的	lahak,lekat|v
-缘	lereng|n,pinggir|n,samping|n,sembir,susur,tepi|n,aras,bingkai
-缘关	tiri|adj
-缘关系	tiri|adj
-缘帽	ketu
+粘贴	lekat|v,merekat,menempel,melekatkan,lahak
+粘贴的	lekat|v,lahak
+缘	pinggir|n,tepi|n,samping|n,lereng|n,sembir,susur,mena,rambu
+缘何	mengapa|adv
 缘故	mena
-缘有	gerigi|n
-缘有尖	gerigi|n
-缘有尖齿	gerigi|n
-缘有尖齿形	gerigi|n
-缘有尖齿形的	gerigi|n
-缘植	ketiran,pelasari
-缘植物	ketiran,pelasari
-缘的	rompang-ramping
-缘饰	rambu,sembir,sibar,simbat
-肘	siku|n,menyenggol,senggol,sigung,telekan,teleku
-肘推	sigung
-肘推开	sigung
-肘支	telekan,teleku
-肘支撑	telekan,teleku
-肘轻	menyenggol,senggol
-肘轻触	menyenggol,senggol
-蜘	araknid|n,bakung|n,kabang-kabang,labah|n,labah-labah|n,lelaba,lelabah,sepasan
-蜘蛛	araknid|n,bakung|n,labah|n,labah-labah|n,lelaba,lelabah,kabang-kabang,sepasan
-蜘蛛网	kabang-kabang,sesawang|n
+缘饰	rambu,sibar,simbat,sembir
+肘	siku|n
+肘子	siku|n
+膘肥	lemak|n
+蜘	labah|n,bakung|n,labah-labah|n,lelaba,lelabah
+蜘蛛	labah|n,bakung|n,labah-labah|n,lelaba,lelabah,sesawang|n,kabang-kabang
+蜘蛛网	sesawang|n,kabang-kabang
 貘	babi alu,badak tampung,tapir|n,tenuk|n
-辘	legar,gerodak,kerek
-辘声	legar,gerodak
+貘貘	tapir|n,tenuk|n
+辘	legar,kerek
+辘声	legar
 辘轳	kerek
 辘辘	gerodak
 辘辘声	gerodak
 锘	nobelium|n
-鞘	kelopak,sarung|n,seludang,invaginasi|n,sarung keris,sigi
-鞘的	sigi
-鞘的环	sigi
-题	alih kata,buah mulut,hal|n,isu|n,judul,lantur,latihan,masalah|n
-题的	rewel
-题目	judul,tema
+锘锘	nobelium|n
+鞘	sarung|n,kelopak,seludang
+题	tema,judul
+题目	tema,judul
+题解	kunci|n

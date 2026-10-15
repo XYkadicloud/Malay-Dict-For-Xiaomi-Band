@@ -1,207 +1,184 @@
-俄	anjing serigala rusia|n,borzoi|n,habsyah
-俄国	anjing serigala rusia|n,borzoi|n
-俄国狼	anjing serigala rusia|n,borzoi|n
-俄国狼狗	anjing serigala rusia|n,borzoi|n
-俄比	habsyah
-俄比亚	habsyah
-兄	adik beradik|n,adik lelaki|n,adik-beradik|n,biras,bung|n,duai,engko|n,ikhwan
-兄弟	adik beradik|n,adik lelaki|n,adik-beradik|n,bung|n,engko|n,ikhwan,nana|n,saudara|n
-兄弟姐	duai,ipar|n,pupu,sekadim,sepupu|n
-兄弟姐妹	duai,ipar|n,pupu,sekadim,sepupu|n
-兄弟的	ikhwan,kakanda|n
-兄弟的尊	kakanda|n
+俄国	borzoi|n,anjing serigala rusia|n
+俄国狼	borzoi|n,anjing serigala rusia|n
+俄国狼狗	borzoi|n,anjing serigala rusia|n
+兄	uda|n,bung|n,nana|n,engko|n,saudara|n,adik lelaki|n,adik-beradik|n,saudara-saudari|n
+兄弟	uda|n,bung|n,nana|n,engko|n,saudara|n,adik lelaki|n,adik-beradik|n,saudara-saudari|n
+兄弟的	ikhwan
 兄弟的尊敬	kakanda|n
+凄怆	sakit|adj
+凄楚	nestapa|n
 哄	bujuk,ilai,membujuk,mengilai
 哄笑	ilai,mengilai
 哄骗	bujuk,membujuk
-啄	catuk|v,memagut,mematuk,mencatuk,pagut,paruh,patuk|v,belatuk|n
-啄木	belatuk|n,jelatuk,pelatuk|n
-啄木鸟	belatuk|n,jelatuk,pelatuk|n
-寄	hantar|v,kirim|v,menghantar|v,mengirimkan,pengirim,benalu,bendalu|n,inkuilin|n
+啄	catuk|v,patuk|v,paruh,pagut,mencatuk,memagut,mematuk
+啄木	belatuk|n,pelatuk|n,jelatuk
+啄木鸟	belatuk|n,pelatuk|n,jelatuk
+寄	kirim|v,hantar|v,menghantar|v,mengirimkan,tumpang|v,pengirim
 寄出	mengutuskan
-寄居	inkuilin|n
-寄居动	inkuilin|n
-寄居动物	inkuilin|n
-寄居动物的	inkuilin|n
+寄存器	daftar|n
+寄存处	gudang|n
+寄居动物寄居动物	inkuilin|n
+寄居动物寄居动物的	inkuilin|n
 寄托	tumpang|v
-寄生	benalu,bendalu|n,kuman|n,kutu|n,menalu,parasit|n,sakat|v,umang-umang|n
+寄生	sakat|v,kutu|n,kuman|n,parasit|n,bendalu|n,umang-umang|n,benalu
 寄生动	parasit|n
 寄生动物	parasit|n
-寄生植	benalu,menalu,sakat|v
-寄生植物	benalu,sakat|v,menalu
+寄生植	sakat|v,benalu
+寄生植物	sakat|v,benalu
 寄生植物菌	menalu
 寄生生	bendalu|n
 寄生生物	bendalu|n
-寄生虫	kuman|n,kutu|n,parasit|n
+寄生虫	kutu|n,kuman|n,parasit|n
 寄生蟹	umang-umang|n
-寄的	kiriman
-寄的东	kiriman
-寄的东西	kiriman
+寄者	pengirim
 寄送	membingkis,penghantar
 寄送礼	membingkis
 寄送礼物	membingkis
 寄送者	penghantar
-屄	pukimak
-摄	bergambar,bupati|n,kabupaten|n,tukang gambar
-摄影	bergambar,tukang gambar
+摄影	tukang gambar
 摄影师	tukang gambar
+摄影机	kamera|n
 摄政	bupati|n,kabupaten|n
 摄政统	kabupaten|n
 摄政统治	kabupaten|n
 摄政者	bupati|n
-柄	gagang,hendel,kukut,puting|n,buah mulut,hulu|n,ketaban,limas|n
-柄勺	limas|n
+柄	puting|n,gagang,kukut,hendel
 柄茎	gagang
-柄锄	tembilang
 桄	aren|n
 桄榔	aren|n
-橄	ragbi|n,zabarjad,zaitun|n
+橄	zaitun|n
 橄榄	zaitun|n,ragbi|n,zabarjad
 橄榄球	ragbi|n
 橄榄石	zabarjad
-泄	air besar|n,beret,buang air,buangan,buka rahsia,kincit,kumuh|adj,membocorkan
-泄不	beret
-泄不止	beret
+泄	rancap,membocorkan
 泄漏	membocorkan,buka rahsia,pecah khabar
 泄漏秘	buka rahsia,pecah khabar
 泄漏秘密	buka rahsia,pecah khabar
-泄物	buangan,kumuh|adj
 泄精	rancap
-組	petrol|n
-組成	petrol|n
-组	rombongan,seksyen|n,setel,berbadan,flat,kongsi|n,membentuk,menubuhkan
+狄	dis
+狄斯	dis
+组	seksyen|n,setel,rombongan,syarikat|n,flat,syarik,rantam,menubuhkan
+组件	sidang|n,unit|n
 组合	rantam
 组员	syarik
+组图	citra|n,peta|n
 组屋	flat,rumah pangsa
-组成	teknokratik|adj
-组成的	teknokratik|adj
-组织	berbadan,membentuk,menubuhkan,organisasi,perhimpunan,pertubuhan,susunan,syarikat|n
+组成部分	aandeel|n
+组织	syarikat|n,menubuhkan,pertubuhan,perhimpunan,susunan,berbadan,membentuk,organisasi
 组织人	pengelola
 蓄	tumpukan
+蓄电池	bateri|n
 蓄积	tumpukan
-蛄	orong,udang laut
-规	adat|n,akaid,aturan,besar-besaran,cara besar-besaran,etika|n,haram|adj,hukum adat
-规则	aturan,peraturan|n,syarat,hukum adat,kegramatisan|n
-规定	preskriptif|adj
+规	adat|n,spesifikasi|n,tertib
+规则	peraturan|n,aturan,syarat
+规定	preskriptif|adj,mengkanunkan
+规定…	mengkanunkan
+规定…为	mengkanunkan
 规定的	preskriptif|adj
 规律	tertib
 规格	spesifikasi|n
-规模	cara besar-besaran
+规模	sisik|n
 规矩	adat|n
-规禁	haram|adj
-规禁止	haram|adj
-规禁止的	haram|adj
-规范	besar-besaran,etika|n
-规范的	besar-besaran
-评	bidas,gugat,kadaran|n,kecam,komen,komentar,kritik,kritikal|adj
-评价	menghargai|v,nilaian,penaksiran|n
+规范	panji-panji|n
+规范性	panji-panji|n,biasa|adj
+评	menghargai|v,kadaran|n,sebutan|n,penaksiran|n,ulasan,kecam,kritik,nilaian
+评价	menghargai|v,penaksiran|n,nilaian
 评估	kadaran|n
 评判	mengadili
-评的	kritikal|adj
-评论	kecam,komen,komentar,kritik,sebutan|n,ulasan
-资	aset|n,gaji|n,kapital,kapitalis|n,kapitalisme|n,kelayakan|n,kelulusan,laba modal|n
+评级	penilaian|n
+评论	sebutan|n,ulasan,kecam,kritik,komen,komentar
+资	maklumat|n,pemodal|n,aset|n,kelayakan|n,modal,majikan,kelulusan,kapital
 资产	aset|n
-资单	penyata gaji|n,slip gaji|n
-资已	pascabayar|adj
-资已付	pascabayar|adj
-资已付的	pascabayar|adj
+资俸	gaji|n
+资历	pengalaman|n
 资料	maklumat|n
-资方	majikan,pemodal|n
-资本	kapital,modal,kapitalis|n,kapitalisme|n,laba modal|n,pemodal|n
+资方	pemodal|n,majikan
+资本	modal,kapital,pemodal|n,laba modal|n,kapitalisme|n,kapitalis|n
 资本主	kapitalisme|n
 资本主义	kapitalisme|n
 资本利	laba modal|n
 资本利益	laba modal|n
-资本家	kapitalis|n,pemodal|n
+资本家	pemodal|n,kapitalis|n
 资格	kelayakan|n,kelulusan
-资者	pelabur|n
+资讯	maklumat|n
 资金	modal
-跄	gayang
-蹄	derap,ladam|n,lerap
-蹄声	derap,lerap
-蹄钉	ladam|n
-迄	santak,senggan,senggat,hinggakan,kini|adj
+迄	kini|adj,senggan,santak,senggat,hinggakan
 迄今	kini|adj
 迄止	hinggakan
 镄	fermium|n
-附	aksesori|n,ambai|n,anti-amerika|adj,apendik|n,belot,bersebelahan,bubuh tandatangan,hampiran
+镄镄	fermium|n
+附	lekat|v,apendik|n,lampiran|n,belot,lampir,hampiran,ikut serta,susulan
 附上	melampiri
 附件	aksesori|n
-附剂	pasir ris
-附加	membubuhkan,ambai|n,imbuh|n,imbuhan|n,timbauan,ziadah
-附加前	imbuhan|n
-附加前后	imbuhan|n
-附加前后缀	imbuhan|n
+附加	ambai|n,imbuh|n,membubuhkan,ziadah,timbauan
 附加前后缀词	imbuhan|n
 附加品	timbauan
 附加物	imbuh|n,ziadah
 附加的	ambai|n
-附属	anti-amerika|adj,kedaerahan|adj,sayap kanan|adj
-附属的	anti-amerika|adj,kedaerahan|adj,sayap kanan|adj
+附属	kedaerahan|adj,sayap kanan|adj,anti-amerika|adj
+附属的	kedaerahan|adj,sayap kanan|adj,anti-amerika|adj
 附带	terlompat|v,tertendang|v
 附带的	terlompat|v,tertendang|v
-附录	apendik|n,lampiran|n,susulan
+附录	apendik|n,lampiran|n
 附敌	belot
 附有	bubuh tandatangan
 附有签	bubuh tandatangan
 附有签名	bubuh tandatangan
-附着	lekap
+附栏	peti|n
 附言	susulan
 附贴	lekat|v
 附近	hampiran,bersebelahan
 附近的	bersebelahan
 附送	lampir
 附随	ikut serta
-雄	adiwira|n,balung|n,benangsari,berlidah fasih|adj,cepudebunga,hero,heroin,jago
+雄	jantan|adj,jago,benangsari
+雄伟	agung|adj
 雄性	jantan|adj,tomyam|n
 雄性动	tomyam|n
 雄性动物	tomyam|n
 雄的	jantan|adj
-雄蕊	benangsari,cepudebunga
-雄蕊的	cepudebunga
-雄蕊的花	cepudebunga
-雄蕊的花粉	cepudebunga
+雄蕊	benangsari
 雄蕊的花粉囊	cepudebunga
 雄辩	berlidah fasih|adj
 雄辩的	berlidah fasih|adj
 雄鸡	jago,balung|n
 雄鸡冠	balung|n
-鳄	aligator,buaya|n
-鳄鱼	buaya|n,aligator
+魄力	resolusi|n
+鳄	buaya|n
+鳄鱼	buaya|n
 鹄	sekip
-黄	abad emas|n,abad keemasan|n,anjing koreng|n,aurum|n,belut|n,biring,bogam|n,cadangan emas
+鹄的	matlamat|n
+黄	aurum|n,kuning|adj,kencana|n,belut|n,isyak|n,loyang|n,gangsa|n,bogam|n
 黄姜	nasi kunyit
 黄姜饭	nasi kunyit
-黄昏	isyak|n,limur,senja|n,senjakala,mambang|n
-黄昏的	mambang|n
-黄昏的天	mambang|n
+黄昏	isyak|n,senja|n,limur,senjakala
 黄昏的天色	mambang|n
-黄牛	ulat tiket|n
-黄瓜	ketimun,lepang,mentimun,timun|n
-黄的	biring
+黄油	mentega|n
+黄澄澄	keemasan|adj
+黄牛	lembu|n
+黄瓜	timun|n,lepang,ketimun,mentimun
+黄绿色的（yellowish	yg|conj
 黄缎	tetampam
 黄缎肩	tetampam
 黄缎肩巾	tetampam
-黄色	anjing koreng|n,kuning|adj,jingga|adj,lucah|adj,mambang|n,seleguri
+黄色	kuning|adj,mambang|n,lucah|adj
 黄色妖	mambang|n
 黄色妖精	mambang|n
-黄色的	anjing koreng|n,lucah|adj
+黄色的	lucah|adj
+黄色黄色	anjing koreng|n
+黄色黄色的	anjing koreng|n
 黄芽	kubis|n
 黄芽白	kubis|n
-黄蜂	penyengat,tebuan|n,naning
-黄道	mintakulburuj|n,zodiak|n
-黄道带	mintakulburuj|n,zodiak|n
-黄酱	mayones|n
-黄金	aurum|n,bogam|n,kencana|n,abad emas|n,abad keemasan|n,cadangan emas,keemasan|adj,urung
+黄蜂	tebuan|n,penyengat
+黄道	zodiak|n,mintakulburuj|n
+黄道带	zodiak|n,mintakulburuj|n
+黄金	aurum|n,kencana|n,bogam|n,keemasan|adj,abad emas|n,abad keemasan|n,urung
 黄金似	keemasan|adj
 黄金似的	keemasan|adj
-黄金储	cadangan emas
-黄金储备	cadangan emas
 黄金储备量	cadangan emas
 黄金时	abad emas|n,abad keemasan|n
 黄金时代	abad emas|n,abad keemasan|n
 黄金矿	urung
-黄铁	pirit|n
-黄铁矿	pirit|n
-黄铜	gangsa|n,kuningan|n,loyang|n,tembaga kuning|n
+黄铁矿黄铁矿	pirit|n
+黄铜	loyang|n,gangsa|n,kuningan|n,tembaga kuning|n
 黄鳝	belut|n

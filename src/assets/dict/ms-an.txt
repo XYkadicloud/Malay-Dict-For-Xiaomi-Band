@@ -2,7 +2,7 @@ ana	ana	pron	我	I (personal pronoun)
 anaianai	anai-anai	n	白蚁	termite (insect)
 anak	anak	n	孩子	An offspring.		Anak itu kecil.
 anakalang	anak alang	n	第三	third child
-anakanak	anak-anak	n	复数的
+anakanak	anak-anak	n	复数的	plural of anak; children.
 anakanakan	anak-anakan		洋囡囡，木偶人
 anakanda	anakanda		吾儿
 anakangah	anak angah	n	秒	second child
@@ -29,8 +29,8 @@ anakikan	anak ikan	n	油炸食物	fishling  fry
 anakkapal	anak kapal	n	水手	A sailor.
 anakkembar	anak kembar		双生子
 anakkunci	anak kunci	n	锁匙	key
-anaklakilaki	anak laki-laki	n	两者择一
-anaklakilakicicit	anak laki-laki cicit	n	两者择一
+anaklakilaki	anak laki-laki	n	两者择一	alternative form of anak lelaki (“son”)
+anaklakilakicicit	anak laki-laki cicit	n	两者择一	alternative form of anak lelaki cicit (“great-great-grandson”)
 anaklelaki	anak lelaki	n	儿子	son (male child)
 anaklelakicicit	anak lelaki cicit	n	玄孙	great-great-grandson
 anaklidah	anak lidah	n	ms-noun head j انق ليده 懸雍垂 1965  Ahm…	Uvula (appendage that hangs from the palate)
@@ -54,14 +54,14 @@ anaktekak	anak tekak	n	ms-noun head j انق تکق 懸雍垂 近义词	Uvula (a
 anaktelinga	anak telinga		耳鼓
 anaktunggal	anak tunggal	n	独生子	only child
 analek	analek	n	文选	analects
-analisa	analisa	n	分析
+analisa	analisa	n	分析	dated form of analisis
 analisis	analisis	n	分析  分析机	An analysis.
 analogi	analogi		类似，相似
-anam	anam	num	荒废的
+anam	anam	num	荒废的	obsolete spelling of enam
 anarki	anarki		无政府状态
 anarkisme	anarkisme	n	无政府主义  无政府主义	anarchism
 anas	anas		男人	a male given name from Arabic
-anat	anat	adj	两者择一
+anat	anat	adj	两者择一	alternative form of lahanat
 anatomi	anatomi		解剖学
 ancam	ancam		威胁，恐吓
 anda	anda	pron	你	Second person singular pronoun; you.
@@ -121,7 +121,7 @@ angkatandarat	angkatan darat		陆军
 angkatanlaut	angkatan laut		舰队
 angkatanperang	angkatan perang		作战部队
 angkatanudara	angkatan udara		空军
-angkatsembah	angkat sembah	v	两者择一
+angkatsembah	angkat sembah	v	两者择一	Alternative form of mengangkat sembah (“to do a sembah gesture”).
 angkecil	angkecil		零钱
 angkertas	angkertas		纸币，钞票
 angkuh	angkuh		傲慢，骄傲
@@ -147,7 +147,7 @@ anjar	anjar		锚
 anjing	anjing	n	狗	dog (animal)
 anjingair	anjing air	n	水獭	otter (mammal)
 anjingajak	anjing ajak	n	迷路的狗	stray dog
-anjinganjing	anjing-anjing	n	复数的
+anjinganjing	anjing-anjing	n	复数的	plural of anjing
 anjingarau	anjing arau	n	黑色	black and white striped dog
 anjingbetina	anjing betina	n	母狗	bitch (female canine); female dog
 anjingchow	anjing chow	n	食物	chow (dog breed)
@@ -206,7 +206,7 @@ antu	antu	n	两者择一	alternative spelling of hantu
 antuk	antuk	v	相撞，冲突，打瞌睡	to become drowsy
 antul	antul		跳跃，反应，掷去
 anu	anu	n	某某	An unknown quantity or variable; an unknown.
-anuar	anuar		两者择一
+anuar	anuar		两者择一	alternative form of Anwar
 anugerah	anugerah	n	由优越的赐与下贱的，恩赐	award; prize (a mark of recognition given in honor of an achievement).
 anuiti	anuiti		年金
 anut	anut	v	跟从，信仰	to profess

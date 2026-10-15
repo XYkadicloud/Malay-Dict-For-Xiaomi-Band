@@ -1,15 +1,13 @@
-三	tiga|num,tiga ribu|num,tri|num,anak alang|n,asar tinggi,beca|n,belah tiga,bertiga
+三	tri|num,tiga|num,tiga ribu|num
+三不五时	acap|adv
 三个	bertiga
 三个一	bertiga
 三个一起	bertiga
+三五	beberapa|adj
 三人	triniti|n
 三人一	triniti|n
 三人一组	triniti|n
-三分	hangat-hangat tahi ayam
-三分钟	hangat-hangat tahi ayam
-三分钟热	hangat-hangat tahi ayam
-三分钟热度	hangat-hangat tahi ayam
-三十	perang tiga puluh tahun,tiga puluh|num,tiga puluh dua|num,tiga puluh empat|num,tiga puluh enam|num,tiga puluh lima|num,tiga puluh satu|num,tiga puluh sembilan|num
+三十	tiga puluh|num,perang tiga puluh tahun,tiga puluh dua|num,tiga puluh enam|num,tiga puluh lima|num,tiga puluh satu|num,tiga puluh tiga|num,tiga puluh empat|num
 三十一	tiga puluh satu|num
 三十七	tiga puluh tujuh|num
 三十三	tiga puluh tiga|num
@@ -18,31 +16,24 @@
 三十五	tiga puluh lima|num
 三十六	tiga puluh enam|num
 三十四	tiga puluh empat|num
-三叉	saraf trigeminal|n,serampang|n,trisula|n
-三叉戟	serampang|n,trisula|n
+三叉	trisula|n,serampang|n,saraf trigeminal|n
+三叉戟	trisula|n,serampang|n
 三叉矛	trisula|n
 三叉神	saraf trigeminal|n
 三叉神经	saraf trigeminal|n
-三地	berulang-ulang
-三头	jantung tangan|n
-三头肌	jantung tangan|n
-三弦	rebab
-三弦乐	rebab
-三弦乐器	rebab
-三方	belah tiga
+三合土	konkrit|adj
+三天两头	acap|adv
+三头肌三头肌	jantung tangan|n
+三文治	sandwic|n
 三日	tulat|n
 三日后	tulat|n
-三时	asar tinggi
-三时左	asar tinggi
-三时左右	asar tinggi
 三明	sandwic|n
 三明治	sandwic|n
 三月	bulan tiga|n,mac,maret
-三次	kuintilion|num
-三次方	kuintilion|num
+三点全露	telanjang|adj
 三界	tribuana
 三百	tiga ratus|num
-三角	cinta segi tiga|n,kuda-kuda,panji-panji|n,segi telu|n,segi tiga|n,trigonometri|n
+三角	panji-panji|n,segi telu|n,segi tiga|n,trigonometri|n,cinta segi tiga|n,kuda-kuda
 三角学	trigonometri|n
 三角小	panji-panji|n
 三角小旗	panji-panji|n
@@ -55,150 +46,133 @@
 三钩	tempuling|n
 三钩鱼	tempuling|n
 三钩鱼叉	tempuling|n
-争	adu|v,aduan,balah|v,bantah|v,bantah-bentuh,bengkelai,bentuh,berbantah
-争取	berjuang,juang|v,memperjuangkan
-争吵	bantah|v,bengkelai,berbantah,bergaduh,bersangketa,bertengkar,gaduh-gadah,pergaduhan
-争执	bertelagah,guam|n,telagah
-争斗	adu|v,aduan,berjuang,juang|v,sabung
-争爆	berkobar,kobar
-争爆发	berkobar,kobar
+争	perang mulut|n,isu|n,adu|v,juang|v,gaduh|v,bantah|v,balah|v,berjuang
+争取	juang|v,berjuang,memperjuangkan
+争吵	bantah|v,bergaduh,gaduh-gadah,singgit,bengkelai,berbantah,bertengkar,pergaduhan
+争夺战	perjuangan|n
+争战	perjuangan|n
+争执	telagah,bertelagah
+争斗	adu|v,juang|v,berjuang,aduan,sabung
 争端	isu|n
-争舞	gambuh
-争论	bantah|v,bantah-bentuh,bengkelai,bentuh,bertelagah,bertikai,gaduh|v,gaduh-gadah
-争辩	balah|v,bantah-bentuh,bentuh,polemik|n
+争议	polemik|n
+争论	perang mulut|n,gaduh|v,bantah|v,tengkar,gaduh-gadah,bentuh,perbalahan,telagah
+争辩	polemik|n,balah|v,bentuh,bantah-bentuh
 争辩的	polemik|n
-厉	amati,bengis|adj,mengalami
-厉的	amati,bengis|adj
-厉的检	amati
-厉的检查	amati
-吉	gitar|n,gitar akustik|n,gitar bes|n,gitar elektrik|n,jip,kedah,kelantan,keling
-吉他	gitar|n,gitar akustik|n,gitar bes|n,gitar elektrik|n
-吉儿	pelanduk|n
+厉害	ganas|adj
+吉他	gitar|n
 吉兰	kelantan
 吉兰丹	kelantan
 吉兰丹州	kelantan
-吉利	sial|adj
-吉利的	sial|adj
+吉士	mat|n,keju|n
 吉宁	keling
 吉宁人	keling
+吉恩	gen|n
 吉打	kedah
 吉打州	kedah
 吉普	jip
 吉普车	jip
-吉柿	manggustan|n
-吉的	naas,nahas
-吉祥	kidal|adj
-吉祥的	kidal|adj
-喉	difteria,halkum|n,ipuh|n,kerongkong|n,kerongkongan,lekum,merih,rengkung
+喉	tenggorok,tenggorokan
 喉咙	tenggorok,tenggorokan
-喉软	suldi
-喉软骨	suldi
+喉头	kerongkong|n
 喉通	sengkul
 喉通病	sengkul
-嘉	karnival|n
+喉部	kerongkong|n,leher|n
+嘉宾	tamu|n
 嘉年	karnival|n
 嘉年华	karnival|n
 嘉年华会	karnival|n
-安	aman dan damai,aman sentosa,amanah,ampere,anwar,aswas,atur|v,belisah|adj
+嘉许	madah|n
+安	diem|adj,lega|adj,atur|v,selamat|adj,reka|v,sejahtera|n,diam|adj,hiburan|n
 安乐	kesenangan|n,sentosa|adj
 安乐的	sentosa|adj
-安全	amanah,keamanan|n,keselamatan|n,sejahtera|n,sekuriti|n,selamat|adj,aman sentosa,kedongkok
+安保	selamat|adj
+安全	selamat|adj,sejahtera|n,keamanan|n,sekuriti|n,keselamatan|n,amanah,kedongkok
+安全性	selamat|adj
 安全装	kedongkok
 安全装置	kedongkok
+安危	selamat|adj
+安吉尔	malaikat|n
 安圈	menjerat
 安圈套	menjerat
-安地	dengan selamatnya
 安培	ampere
-安宁	aman dan damai,sakinat,tenteram|adj
-安宁的	sakinat,tenteram|adj
-安官	konstabel|n
-安定	ketenangan|n,resah|adj
-安定的	resah|adj
+安好	telaga|n
+安宁	tenteram|adj,sakinat
+安宁的	tenteram|adj,sakinat
+安定	ketenangan|n
 安息	kemenyan
 安息香	kemenyan
-安慰	hibur|v,hiburan|n,lipur,saguhati
+安慰	hiburan|n,hibur|v,lipur,saguhati
 安慰奖	saguhati
 安抚	hiburan|n,membelai
 安拉	dewata mulia raya
-安排	atur|v,isih|v,letak|v,reka|v,urus|v
+安排	atur|v,reka|v,letak|v,urus|v,isih|v
 安放	bubuh|v
-安瓦	anwar,madani,pmx
-安瓦尔	madani,pmx
-安瓦爾	anwar
-安的	belisah|adj,kebat-kebit,lasak,lenyar,risau|v
-安第	kucing andes|n,kucing banjaran andes|n
-安第斯	kucing andes|n,kucing banjaran andes|n
-安第斯山	kucing andes|n,kucing banjaran andes|n
+安琪儿	malaikat|n
+安瓦	pmx,madani
+安瓦尔	pmx,madani
+安生	diem|adj,aman|adj
+安稳	tetap|adj,bunyi|n
 安第斯山脉	kucing andes|n,kucing banjaran andes|n
 安第斯山脉的	kucing andes|n,kucing banjaran andes|n
-安置	bubuh|v,meletakkan|v,reka|v
+安置	reka|v,bubuh|v,meletakkan|v
 安胎	selusuh
 安胎药	selusuh
 安華	anwar
 安装	implementasi|n
 安装启	implementasi|n
 安装启用	implementasi|n
+安谧	aman|adj
 安逸	lega|adj
-安静	diam|adj,diam-diam,diem|adj,mantap,pendiam|n,damai
+安静	diem|adj,diam|adj,pendiam|n,diam-diam,mantap,damai
 安静的	damai
-尉	leftenan|n
-愉	cerah muka,gerang,kegembiraan,langu|n,marghub,meriah,nyaman|adj,runsing
-愉快	cerah muka,gerang,kegembiraan,seronok|adj,langu|n,marghub,meriah,nyaman|adj
-愉快的	marghub,meriah,nyaman|adj,langu|n
-按	memijat,pijat|n,pijit,bulanan,knob,lulut,lurut|v,mengusut
-按抚	mengusut,usut
-按摩	lulut,lurut|v,memijat,picit,pijat|n,pijit,ramas|v,urut|v
+安顿	aman|adj
+愉	seronok|adj,gerang,cerah muka,kegembiraan
+愉快	seronok|adj,nyaman|adj,gerang,cerah muka,kegembiraan,meriah,marghub
+愉快的	nyaman|adj,meriah,marghub
+愉悦	nikmat|n
+按	pijat|n,pijit,memijat,lurut|v,urut|v,ramas|v,picit,usut
+按天	harian|adv
+按抚	usut,mengusut
+按摩	lurut|v,urut|v,ramas|v,pijat|n,picit,lulut,pijit,memijat
+按日	harian|adv
 按月	bulanan
 按月的	bulanan
+按理	biasanya|adv
+按说	biasanya|adv
 按钮	knob
-掉	alah|adj,bantun,bertas|v,hambus,hapus|v,kerik,kikis|v,lapan puluh enam|num
-掉入	terperangkap,terserling
-掉入陷	terperangkap,terserling
-掉入陷阱	terperangkap,terserling
-掉的	pokah|adj
+掉	rontok
+掉入	terserling,terperangkap
+掉入陷	terserling,terperangkap
+掉入陷阱	terserling,terperangkap
 掉落	rontok
-掉针	bertas|v
-掉针缝	bertas|v
-掉针缝的	bertas|v
-掉针缝的线	bertas|v
-有	ada|v,berabangkan|v,berabarkan|v,berbaloi|v,berbekas|v,beremosi|v,berinformasi|v,berinspirasi|v
+有	berzuriat|v,ada|v,beroda|v,ganjat|v,punyai|v,berkota|v,berlaci|v,berbaloi|v
+有…	berhulu|v,bermakna,berlengan
+有…意	bermakna
+有…意义	bermakna
+有…柄	berhulu|v
+有…柄的	berhulu|v
+有…的性格	bersifat
+有…的距离	berjarak
+有…的风格	bergaya
+有…袖	berlengan
+有…袖子	berlengan
+有…题目	berjudul
+有…题目的	berjudul
 有一	persetua,sekali persetua
 有一次	persetua,sekali persetua
 有丈	berlaki
 有丈夫	berlaki
 有丈夫的	berlaki
-有专	jauhari
-有专才	jauhari
-有专才的	jauhari
 有专才的人	jauhari
-有些	mata jahat|n
-有些人	mata jahat|n
-有些人具	mata jahat|n
-有些人具有	mata jahat|n
-有些人具有目	mata jahat|n
-有些人具有目视	mata jahat|n
-有些人具有目视他	mata jahat|n
-有些人具有目视他人	mata jahat|n
-有些人具有目视他人而	mata jahat|n
-有些人具有目视他人而使	mata jahat|n
-有些人具有目视他人而使之	mata jahat|n
-有些人具有目视他人而使之遭	mata jahat|n
-有些人具有目视他人而使之遭殃	mata jahat|n
-有些人具有目视他人而使之遭殃的	mata jahat|n
-有些人具有目视他人而使之遭殃的能	mata jahat|n
+有了胎	hamil|adj
 有些人具有目视他人而使之遭殃的能力	mata jahat|n
-有人	abid|n,bahagiakan|v,koruptor|n,mempersuamikan|v,menyabarkan|v,pembincang|n,pendukung|n,pengganggu|n
-有人居	berhuni,berpenduduk|adj,huni
-有人居住	berhuni,berpenduduk|adj,huni
-有人居住的	berhuni,berpenduduk|adj,huni
+有人	pendukung|n,abid|n,koruptor|n,penjawab|n,penjelas|n,perasuah|n,bahagiakan|v,pembincang|n
+有人居住	berpenduduk|adj,huni,berhuni
+有人居住的	berpenduduk|adj,huni,berhuni
 有什	buat apa
 有什么	buat apa
 有什么用	buat apa
-有代	francaisi|n
-有代销	francaisi|n
-有代销权	francaisi|n
-有代销权的	francaisi|n
-有代销权的人	francaisi|n
+有代销权的人特许证持有人	francaisi|n
 有价	berharga,bernilai
 有价值	berharga,bernilai
 有会	beranggota
@@ -207,23 +181,17 @@
 有信心	beritikad
 有倾	berhaluan
 有倾向	berhaluan
-有关	berhubung,bersangkutan,hidraulik|adj,relativiti|n,relevan|adj,sangkut-paut
-有关的	hidraulik|adj
+有关	relevan|adj,relativiti|n,berhubung,bersangkutan,sangkut-paut
 有关系	relativiti|n,sangkut-paut,berhubung
 有关系的	berhubung
-有关联	bersangkutan,relevan|adj
+有关联	relevan|adj,bersangkutan
 有关联的	relevan|adj
 有分	bercabang
 有分店	bercabang
 有利	berfaedah|v
 有利的	berfaedah|v
-有刺	berduri,serangkak
-有刺的	serangkak
-有刺的带	serangkak
-有刺的带绑	serangkak
-有刺的带绑住	serangkak
-有刺的带绑住树	serangkak
-有刺的带绑住树身	serangkak
+有别	pemboleh ubah|n
+有刺	berduri
 有剩	bersisa
 有剩余	bersisa
 有力	kuat|adj
@@ -235,38 +203,16 @@
 有包	libat|v
 有包装	libat|v
 有包装的	libat|v
-有化	menswastakan|v,miliknegara,nasionalisasi|n,penswastaan|n
 有区	berbeza|v
 有区别	berbeza|v
-有历	bersejarah
-有历史	bersejarah
-有历史意	bersejarah
 有历史意义	bersejarah
 有历史意义的	bersejarah
-有口	fasih lidah|adj
-有口才	fasih lidah|adj
-有口才的	fasih lidah|adj
-有口才的人	fasih lidah|adj
 有可	sepertinya|adv
 有可能	sepertinya|adv
 有可能的	sepertinya|adv
-有名	kata nama khas|n
-有名词	kata nama khas|n
-有吸	amang|n,magnet|n
-有吸引	amang|n,magnet|n
-有吸引力	amang|n,magnet|n
-有吸引力的	amang|n,magnet|n
+有吸引力	amang|n
+有吸引力的	amang|n
 有吸引力的人	magnet|n
-有四	kuatordesilion|num
-有四十	kuatordesilion|num
-有四十五	kuatordesilion|num
-有四十五个	kuatordesilion|num
-有四十五个零	kuatordesilion|num
-有四十五个零之	kuatordesilion|num
-有四十五个零之数	kuatordesilion|num
-有回	lorek
-有回纹	lorek
-有回纹装	lorek
 有回纹装饰	lorek
 有回纹装饰的	lorek
 有在	hadir|v
@@ -276,110 +222,77 @@
 有天	dikurniakan|v
 有天才	dikurniakan|v
 有天才的	dikurniakan|v
-有太	mak kau hijau
-有太大	mak kau hijau
-有太大的	mak kau hijau
-有太大的實	mak kau hijau
-有太大的實際	mak kau hijau
-有太大的實際含	mak kau hijau
-有太大的實際含義	mak kau hijau
-有好	bintangnya terang
-有好运	bintangnya terang
 有婚	berpinang
 有婚约	berpinang
 有婚约的	berpinang
 有孕	hamil|adj
 有孕的	hamil|adj
-有学	arif,golok kayu
-有学识	golok kayu
-有学识的	golok kayu
-有学识的人	golok kayu
+有学	arif
 有学问	arif
 有学问的	arif
 有孩	beranak|v
 有孩子	beranak|v
-有害	memudaratkan|adj,penanggalan|n
-有害的	memudaratkan|adj,penanggalan|n
-有害的女	penanggalan|n
-有害的女鬼	penanggalan|n
-有尖	gerigi|n
-有尖齿	gerigi|n
-有尖齿形	gerigi|n
-有尖齿形的	gerigi|n
-有尾	berekor,dogel
-有尾巴	berekor,dogel
+有害	memudaratkan|adj
+有害的	memudaratkan|adj
+有尾	berekor
+有尾巴	berekor
 有尾巴的	berekor
-有干	berbekal
-有干粮	berbekal
-有弹	belantik,kenjal,melar,mulur
+有希望地	barangkali|adv
+有弹	melar,mulur,kenjal
 有弹力	mulur
 有弹力的	mulur
-有弹性	belantik,kenjal,melar,mulur
-有弹性捕	belantik
-有弹性捕器	belantik
-有弹性的	kenjal,melar,mulur
-有彈	elastik|adj
-有彈性	elastik|adj
-有彈性的	elastik|adj
+有弹性	melar,mulur,kenjal
+有弹性的	melar,mulur,kenjal
+有彈性的延伸阅读	elastik|adj
 有形	berbadan
 有形体	berbadan
-有意	bercadang,bermaksud,keberertian|n,semaja,sengaja
-有意义	keberertian|n
+有心眼	tajam|adj,pandai|adj
+有情有义	setia|adj
+有意	bercadang,bermaksud,semaja,sengaja
+有意义	perlu|v
+有意思	kelucuan|n
 有意的	semaja,sengaja
+有意识	siuman|adj
 有才	berbakat
 有才干	berbakat
 有指	berkuku
 有指甲	berkuku
-有插	bergambar
-有插图	bergambar
-有收	emak angkat|n,ibu angkat|n,mak angkat|n
-有收养	emak angkat|n,ibu angkat|n,mak angkat|n
-有收养关	emak angkat|n,ibu angkat|n,mak angkat|n
-有收养关系	emak angkat|n,ibu angkat|n,mak angkat|n
-有收养关系的	emak angkat|n,ibu angkat|n,mak angkat|n
-有效	berkuatkuasa|v,keabsahan|n,manjur,mempan,mengabsahkan|v
+有插图摄影	bergambar
+有收养关系	ibu angkat|n,mak angkat|n,emak angkat|n
+有收养关系的	ibu angkat|n,mak angkat|n,emak angkat|n
+有效	berkuatkuasa|v,keabsahan|n,mempan,manjur
 有效性	keabsahan|n
-有效的	berkuatkuasa|v,manjur,mempan
+有效的	berkuatkuasa|v,mempan,manjur
 有教	bestari|adj,budi bahasa
 有教养	bestari|adj,budi bahasa
 有教养的	bestari|adj,budi bahasa
-有斑	berbelang-belang,bercapuk,berintik-rintik,telang
+有斑	telang,bercapuk,berintik-rintik,berbelang-belang
 有斑点	bercapuk,berintik-rintik
 有斑点的	bercapuk,berintik-rintik
-有斑纹	berbelang-belang,telang
-有斑纹的	berbelang-belang,telang
-有方	genggang|adj
-有方格	genggang|adj
-有方格的	genggang|adj
+有斑纹	telang,berbelang-belang
+有斑纹的	telang,berbelang-belang
+有新意	moden|adj
 有方格的布	genggang|adj
-有日	daeng|n,ekspot|n,impot|adj,katerangan|n,puteh|adj,sharikat|n,tanjong|n
-有日期	daeng|n,ekspot|n,impot|adj,katerangan|n,puteh|adj,sharikat|n,tanjong|n
-有日期的	daeng|n,ekspot|n,impot|adj,katerangan|n,puteh|adj,sharikat|n,tanjong|n
-有时	kadang|adv,kadang-kadang|adv,sekali-sekali,ada kala
+有日	daeng|n,impot|adj,puteh|adj,ekspot|n,tanjong|n,sharikat|n,katerangan|n
+有日期	daeng|n,impot|adj,puteh|adj,ekspot|n,tanjong|n,sharikat|n,katerangan|n
+有日期的	daeng|n,impot|adj,puteh|adj,ekspot|n,tanjong|n,sharikat|n,katerangan|n
+有时	kadang-kadang|adv,kadang|adv,sekali-sekali,ada kala
 有时候	ada kala
 有智	berbenak
 有智力	berbenak
-有机	berkesempatan,berpeluang,cerdik|adj
-有机会	berkesempatan,berpeluang
-有机智	cerdik|adj
-有机智的	cerdik|adj
-有权	berhak|adj,berkuasa,hakmilik,milik|n,pemilikan|n
-有权力	berkuasa,berhak|adj
+有机	berpeluang,berkesempatan
+有机会	berpeluang,berkesempatan
+有权	berhak|adj,berkuasa
+有权力	berhak|adj,berkuasa
 有权力的	berhak|adj
-有条	apik,bersyarat,genggang|adj
+有条	bersyarat
 有条件	bersyarat
 有条件的	bersyarat
-有条纹	genggang|adj
-有条纹的	genggang|adj
 有条纹的布	genggang|adj
-有柱	semberip
-有柱脚	semberip
-有柱脚的	semberip
-有柱脚的铜	semberip
 有柱脚的铜盘	semberip
-有根	berdasar|v,bukan-bukan
-有根据	berdasar|v,bukan-bukan
-有根据的	berdasar|v,bukan-bukan
+有根	berdasar|v
+有根据	berdasar|v
+有根据的	berdasar|v
 有毒	beracun
 有毒的	beracun
 有水	bermutu
@@ -399,21 +312,18 @@
 有湿气的	embal
 有火	berapi
 有火的	berapi
-有灵	animisme
-有灵论	animisme
 有烟	berasap
 有烟的	berasap
 有爪	bercalar
 有爪痕	bercalar
 有牙	bergigi
 有牙齿	bergigi
-有物	kepunyaan|n,milik|n,simpanan
 有理	beralasan
 有理由	beralasan
-有生	animasikan|v,berjiwa,bernyawa,dinamik|adj
-有生命	berjiwa,bernyawa
-有生命的	berjiwa,bernyawa
-有生气	animasikan|v,dinamik|adj
+有生	dinamik|adj,bernyawa,berjiwa
+有生命	bernyawa,berjiwa
+有生命的	bernyawa,berjiwa
+有生气	dinamik|adj
 有生气的	dinamik|adj
 有用	berguna|adj,bermanfaat
 有用的	berguna|adj,bermanfaat
@@ -421,13 +331,10 @@
 有白	beruban
 有白发	beruban
 有白发的	beruban
-有的	akaf,hartawan,kesemuanya|pron,pelik|adj,sayur-mayur|n,uolls|pron
-有的产	akaf
-有的产业	akaf
+有的时候	kadangkala|adv
 有皱	berkedut|v
 有皱纹	berkedut|v
-有益	beret
-有益的	beret
+有益	berguna|adj
 有盐	asin|adj,payau
 有盐分	asin|adj
 有盐分的	asin|adj
@@ -436,41 +343,24 @@
 有盖	bertutup
 有盖子	bertutup
 有盖子的	bertutup
-有目	bertujuan,mata jahat|n
+有目	bertujuan
+有目无睹	buta|adj
 有目的	bertujuan
-有目视	mata jahat|n
-有目视他	mata jahat|n
-有目视他人	mata jahat|n
-有目视他人而	mata jahat|n
-有目视他人而使	mata jahat|n
-有目视他人而使之	mata jahat|n
-有目视他人而使之遭	mata jahat|n
-有目视他人而使之遭殃	mata jahat|n
-有目视他人而使之遭殃的	mata jahat|n
-有目视他人而使之遭殃的能	mata jahat|n
-有目视他人而使之遭殃的能力	mata jahat|n
 有睡	molor
 有睡意	molor
 有睡意的	molor
-有确	absah|adj,sah|adj
-有确实	absah|adj,sah|adj
-有确实根	absah|adj,sah|adj
+有知识者	ahli fikir|n
 有确实根据	absah|adj,sah|adj
 有确实根据的	absah|adj,sah|adj
-有礼	adib,beradab,berbahasa|v,budi bahasa,halus bahasa,hormat|adj,sopan,sopan santun|adj
-有礼的	sopan
-有礼貌	berbahasa|v,halus bahasa,tertib sopan,adib,beradab,budi bahasa,hormat|adj,sopan santun|adj
-有礼貌的	adib,beradab,budi bahasa,hormat|adj,sopan santun|adj
-有空	sempat|adj,hampa udara
-有空气	hampa udara
+有礼	hormat|adj,berbahasa|v,sopan santun|adj,budi bahasa,beradab,halus bahasa,tertib sopan
+有礼貌	berbahasa|v,hormat|adj,sopan santun|adj,halus bahasa,tertib sopan,budi bahasa,beradab
+有礼貌的	hormat|adj,sopan santun|adj,budi bahasa,beradab
+有礼貌的学者	adib
+有穷	terbatas|adj
+有空	sempat|adj
 有答	berjawab|adj
 有答案	berjawab|adj
 有答案的	berjawab|adj
-有签	bubuh tandatangan
-有签名	bubuh tandatangan
-有篱	berpagar
-有篱笆	berpagar
-有篱笆的	berpagar
 有精	bersemangat
 有精神	bersemangat
 有精神的	bersemangat
@@ -479,10 +369,8 @@
 有纹理的	lekir
 有线	bergaris
 有线条	bergaris
-有经	berida
-有经验	berida
-有经验的	berida
-有缺	bercacat,rompes
+有经验的berik制动器	berida
+有缺	rompes,bercacat
 有缺口	rompes
 有缺口的	rompes
 有缺点	bercacat
@@ -490,27 +378,25 @@
 有罅	gela
 有罅隙	gela
 有罅隙的	gela
-有罪	berdosa,pasik
-有罪的	berdosa,pasik
-有翅	berkepak,bersayap,daun kupang|n,daun kurap|n,gelenggang|n
-有翅决	daun kupang|n,daun kurap|n,gelenggang|n
-有翅决明	daun kupang|n,daun kurap|n,gelenggang|n
+有罪	pasik,berdosa
+有罪的	pasik,berdosa
+有翅	daun kurap|n,gelenggang|n,daun kupang|n,berkepak,bersayap
+有翅决	daun kurap|n,gelenggang|n,daun kupang|n
+有翅决明	daun kurap|n,gelenggang|n,daun kupang|n
 有翅膀	berkepak,bersayap
-有者	empu|n,pemilik|n,pemunya|n,yang empunya
+有肩膀	handal|adj
 有胆	perkasa|adj
 有胆量	perkasa|adj
 有胆量的	perkasa|adj
-有能	berupaya|v,cekap|adj
-有能力	berupaya|v,cekap|adj
-有能力的	berupaya|v,cekap|adj
+有能	cekap|adj,berupaya|v
+有能力	cekap|adj,berupaya|v
+有能力的	cekap|adj,berupaya|v
 有脚	berkaki
 有脚的	berkaki
-有血	beradik|adj
-有血亲	beradik|adj
-有血亲关	beradik|adj
+有节制	sederhana|adj
 有血亲关系	beradik|adj
 有血亲关系的	beradik|adj
-有裂	bersela,gela,rongak
+有裂	gela,rongak,bersela
 有裂口	rongak
 有裂口的	rongak
 有裂缝	bersela,gela
@@ -522,35 +408,29 @@
 有证	berdalil
 有证据	berdalil
 有证据的	berdalil
-有责	berkewajipan|v,bertugas,prihatin|adj
-有责任	berkewajipan|v,bertugas,prihatin|adj
+有责	berkewajipan|v,bertugas
+有责任	berkewajipan|v,bertugas
 有责任心	prihatin|adj
 有责任心的	prihatin|adj
 有趣	lucu|adj
-有踢	tengar|n
-有踢马	tengar|n
-有踢马刺	tengar|n
-有踢马刺的	tengar|n
-有边	berjumbai,jumbai
-有边饰	berjumbai,jumbai
-有边饰的	berjumbai,jumbai
+有边	jumbai,berjumbai
+有边饰	jumbai,berjumbai
+有边饰的	jumbai,berjumbai
 有钩	gancu
 有钩长	gancu
 有钩长竿	gancu
 有钱	kaya-raya|adj,hartawan
 有钱人	hartawan
 有钱的	hartawan
-有错	bergalah
-有错误	bergalah
 有阶	berkasta
 有阶级	berkasta
 有阶级的	berkasta
-有限	berhad|n,maskapai,terbatas|adj,terhad|adj
+有限	terbatas|adj,berhad|n,terhad|adj,maskapai
 有限公	maskapai
 有限公司	maskapai
 有限制	terhad|adj
 有限制的	terhad|adj
-有限的	berhad|n,terbatas|adj
+有限的	terbatas|adj,berhad|n
 有风	berangin
 有风的	berangin
 有魔	penderah
@@ -558,186 +438,126 @@
 有魔力的	penderah
 有鳞	bersisik
 有鳞的	bersisik
-有鼻	cengei
-有鼻音	cengei
-枉	percit|v,percuma|adj
-枉费	percit|v,percuma|adj
-枉费的	percit|v,percuma|adj
-栉	sisir,bonggol|n,menggul,serit
+枉费	percuma|adj,percit|v
+枉费的	percuma|adj,percit|v
+栉	sisir
 殉	syahib
 殉教	syahib
-沉	pegun,terpegun,benam,berat mulut,bersemadi,bersut,deram,enap
-沉思	bersemadi,kelamun,lenggung,lengung,mengelamun,mengung,menung,nalar
+沉	pegun,terpegun,semadi|v,tenggelam|v,mendak,mengung,menung,temenung
+沉凝	rendah|adj
+沉寂	kesunyian|n
+沉思	semadi|v,mengung,menung,temenung,nalar,lengung,lenggung,bersemadi
 沉思的	muna
-沉没	benam,gelagapan,karam,ringas,tenggelam|v
-沉淀	mendak,mendam,enap,enapan,menakung,mendakan|n,sedimen|n
-沉淀物	enap,enapan,mendakan|n,sedimen|n
+沉沉	dalam-dalam|adv
+沉没	tenggelam|v,benam,karam,gelagapan,ringas
+沉淀	mendak,mendam,sedimen|n,mendakan|n,enap,enapan
+沉淀物	sedimen|n,mendakan|n,enap,enapan
 沉溺	tenggelam|v
-沉的	gabak,gobar,kebam,kemalai,kusam,morong,pengar,redup
+沉潜	diem|adj
+沉甸甸	parang|n
+沉痛	hebat|adj,pahit|adj
 沉着	tenang hati
 沉着的	tenang hati
-沉落	puruk,terbenam,terpuruk
-沉重	teruk,deram,keletuk,pengar
-沉重之	keletuk
-沉重之敲	keletuk
-沉重之敲击	keletuk
+沉稳	tetap|adj
+沉落	puruk,terpuruk,terbenam
+沉重	teruk,deram
 沉重之敲击声	keletuk
 沉重声	deram
 沉重声音	deram
-沉重的	pengar
+沉闷	parang|n
 沉静	mendak
 沉香	kelembak,gaharu
 沉香木	gaharu
-沉默	berat mulut,pegan
-沉默寡	berat mulut
+沉默	pegan
 沉默寡言	berat mulut
 沉默寡言的	berat mulut
 沉默的	pegan
-涉	arung,burung randuk|n,campur tangan|n,ganggu,hirau|v,meranduk|v,randai,randuk|adj
-涉水	arung,meranduk|v,burung randuk|n,randai
+涉	randuk|adj,arung
+涉嫌人	suspek|n
+涉水	arung,burung randuk|n,randai
 涉水而	randai
 涉水而过	randai
 涉水鸟	burung randuk|n
 涉渡	randuk|adj
-溉	genang|n,irigasi,menyeroka
-炉	ketuhar|n,kikir,tungku,jerang|v,pendandang|n,penunu|n,relau
-炉上	jerang|v
-玉	jagung|n,kelongsong,kesuma|n,permata|n,tongkol,zabarjad,zamrud|n
-玉蜀	jagung|n,kelongsong,tongkol
-玉蜀黍	jagung|n,kelongsong,tongkol
-玉蜀黍的	tongkol
-玉蜀黍的梗	tongkol
-玉蜀黍的梗心	tongkol
-玉蜀黍的梗心果	tongkol
+炉	ketuhar|n,kikir,tungku
+炉子	ketuhar|n
+玉米	jagung|n
+玉蜀	jagung|n,kelongsong
+玉蜀黍	jagung|n,kelongsong
 玉蜀黍的梗心果实	tongkol
-琉	lampan
-琉琅	lampan
-眉	alis,bulu mansu|n,bercelak,bulan perbani,celak,kening|n,kenyit,kerut
-眉月	bulan perbani
-眉毛	alis,bulu mansu|n,kening|n
-眉黛	bercelak,celak
-粉	bedak,bubuk|n,habuk|n,pupogh|n,serbuk|n,abuk|v,baja serbuk,bancuh|v
-粉之	uba
-粉之大	uba
-粉之大桶	uba
-粉刷	labur|v,lumas,melabur|v,mengapuri
+眉	alis,kening|n
+眉宇	rupa|n,dahi|n
+眉毛	kening|n,alis,bulu mansu|n
+眉毛眉	bulu mansu|n
+眉清目秀	gelis|adj
+眉目	persediaan|n,logika|n
+眉眼	rupa|n
+粉	serbuk|n,pupogh|n,bubuk|n,habuk|n,merah jambu|adj,labur|v,bedak,debu|n
+粉丝	kipas|n
+粉刷	labur|v,melabur|v,lumas,mengapuri
 粉刺	jerewat
-粉和	onde-onde
-粉和椰	onde-onde
-粉和椰子	onde-onde
-粉和椰子做	onde-onde
-粉和椰子做成	onde-onde
-粉囊	cepudebunga
-粉末	abuk|v,bubuk|n,debu|n,baja serbuk,memirik,pirik,pudi
+粉底	alas|n
+粉末	bubuk|n,debu|n,abuk|v,baja serbuk
 粉末肥	baja serbuk
 粉末肥料	baja serbuk
-粉碎	berpesai,bersepai,ganyang,ketai,luluh,memamar,menghancurkan,pamar
+粉碎	serbuk|n,hancur|v,pesai,lumat|adj,berpesai,luluh,terban,pecahkan
 粉碎物	lebu|n
 粉碎的	hancur|v,lumat|adj
 粉笔	kapur|n
 粉米	habuk|n
-粉粽	bugis
+粉红	merah jambu|adj
+粉红色	merah jambu|adj
 粉羹	kepurun
 粉色	merah jambu|adj
-粉饼	emping
-肉	abon|n,daging|n,bagup,bifstik,binatang maging,buah pala|n,cincang|v,daging kambing|n
-肉串	sate|n
-肉丸	perkedil
-肉体	jasad|n,jisim,jasmani|n,jiwa raga
-肉体和	jiwa raga
-肉体和灵	jiwa raga
+肉	daging|n,abon|n,jasad|n,kayu manis|n,kulit kayu manis|n,kuah,jisim,dendeng
+肉体	jasad|n,jasmani|n,jisim
 肉体和灵魂	jiwa raga
 肉体的	jasmani|n
-肉刀	parang|n
-肉动	karnivor|n,pemangsa|n
-肉动物	karnivor|n,pemangsa|n
 肉干	dendeng,topek
-肉强	undang-undang rimba|n
-肉强食	undang-undang rimba|n
-肉强食的	undang-undang rimba|n
-肉强食的原	undang-undang rimba|n
-肉强食的原则	undang-undang rimba|n
 肉扒	bifstik
-肉板	landas cencang|n
 肉桂	kayu manis|n,kulit kayu manis|n,kemangi
 肉桂属	kemangi
 肉欲	giur|adj
 肉欲的	giur|adj
 肉汁	kuah
-肉片	dendeng
 肉瘤	bagup
-肉的	maging|n,makan daging
-肉类	binatang maging
-肉类的	binatang maging
-肉类的动	binatang maging
-肉类的动物	binatang maging
-肉结	gagah|adj
-肉结实	gagah|adj
-肉豆	buah pala|n
-肉豆蔻	buah pala|n
-脉	arteri pulmonari|n,banjaran,busung darah,gunung-ganang,gunung-gemunung,kucing andes|n,kucing banjaran andes|n,nadi
-脉搏	nadi,nyut-nyut,urat nadi
+肉类	daging|n
+肉豆蔻肉豆蔻	buah pala|n
+脉	urat|n,nyut-nyut,nadi,busung darah,urat nadi
+脉搏	nyut-nyut,nadi,urat nadi
 脉瘤	busung darah
-脉的	kucing andes|n,kucing banjaran andes|n
 脉筋	urat|n
-茉	melati|n,melur|n
+脉络	lasam|adj
+茉	melur|n
 茉莉	melur|n,melati|n
 茉莉花	melati|n
-莉	melati|n,melur|n
-莉花	melati|n
-誉	aib,fadihat,izzat|n,kehormat|adj,kehormatan,pamur,umpat
-誉的	kehormat|adj
 踉	gayang
 踉跄	gayang
-辉	caguk,gemerlap,gemilang|adj,gilang,gilang-cemerlang,gilang-gemilang,perlang,semarak
 辉煌	gemilang|adj
 辉煌的	gemilang|adj
-辉的	gemerlap,gilang-cemerlang,gilang-gemilang,perlang
-选	lek|n,analek|n,antologi|n,calon|n,calonkan,ikhtiar|n,jago,johan pahlawan
-选举	memilih,pilih|v,pilihan raya|n,pilihanraya|n,pungutan suara|n,reformasi pengundian|n
+选	juara|n,pemain|n,lek|n,pilihan|n,pemilihan|n,pilihan raya|n,pengundi|n,pilih|v
+选举	pilihan raya|n,pilih|v,pungutan suara|n,memilih,pilihanraya|n,reformasi pengundian|n
 选举人	reformasi pengundian|n
 选举人的	reformasi pengundian|n
-选人	calon|n,calonkan
-选手	jago,juara|n,pemain|n,johan pahlawan
-选择	memilih,pemilihan|n,pilih|v,pilihan|n,saring,ikhtiar|n,opsyen|n,opsyenal|adj
-选择或	rambang
-选择或瞄	rambang
-选择或瞄准	rambang
+选手	juara|n,pemain|n,jago
+选择	pilihan|n,pemilihan|n,pilih|v,opsyen|n,saring,memilih
 选择权	opsyen|n
-选择的	opsyenal|adj
 选民	pengundi|n
 选集	antologi|n
-醉	budu|n,kemabukan|adj,mabuk|adj,pelik bin ajaib|adj,pemabuk|n,ubat bius
-醉了	mabuk|adj,pemabuk|n
-醉了的	mabuk|adj,pemabuk|n
-醉如	budu|n
-醉如泥	budu|n
-醉如泥的	budu|n
-醉的	kemabukan|adj
-醉药	ubat bius
-钉	memaku,paku,pasak|n,kancing|n,ladam|n,menjilid,pating,penyaliban|n
+选项	opsyen|n,pilihan|n
+醉醺醺	kemabukan|adj
+钉	pasak|n,paku,memaku,semat|v,ragum
 钉上	timbau|n
 钉上舷	timbau|n
 钉上舷板	timbau|n
-钉住	paku
-钉成	menjilid
-钉成册	menjilid
+钉住羊齿植物	paku
+钉子	kuku|n
 钉拔	ragum
-钉死	penyaliban|n
-钉死的	penyaliban|n
-钉死的刑	penyaliban|n
-钉死的刑罚	penyaliban|n
-钉牢	semat|v,terpaku|v
-钉牢的	terpaku|v
-钉钉	terpaku|v
-钉钉牢	terpaku|v
-钉钉牢的	terpaku|v
-锉	dabung,kikir,kukur|n
+钉牢	semat|v
+锉	kikir
 锉刀	kikir
-阉	kasim,ayam kasi,ayam kebiri,kembiri
+阉	kasim,kembiri,ayam kasi,ayam kebiri
 阉割	kembiri
 阉鸡	ayam kasi,ayam kebiri
-霉	basi|adj,bedebah|adj,geruh|n,hapak,kepam,kulat|n,lacur,lapuk|adj
-霉的	basi|adj,bedebah|adj,geruh|n,hapak,kepam,lapuk|adj,mala|adj,musibat
 霉臭	hapak
 霉臭的	hapak

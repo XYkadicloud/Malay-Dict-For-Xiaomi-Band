@@ -25,7 +25,7 @@ orangtua	orang tua	n	老人	old person
 orangutan	orang utan	n	猩猩  猩猩	orangutan (arboreal anthropoid ape).
 orbit	orbit	n	轨道	orbit
 oren	oren	n	橙子	orange (fruit or colour)
-org	org	n	[计] 域名(代表组织机构)
+org	org	n	[计] 域名(代表组织机构)	abbreviation of orang (“people”)
 organ	organ	n	人体器官；风琴	organ:
 organik	organik	adj	器官的	organic (relating to the compounds of carbon)
 organisasi	organisasi		组织，机构

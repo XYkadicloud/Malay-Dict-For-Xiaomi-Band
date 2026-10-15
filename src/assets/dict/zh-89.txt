@@ -1,304 +1,144 @@
-乙	dua puluh lima|num,lima likur|num,parasetamol|n
-乙胺	dua puluh lima|num,lima likur|num
-乙酰	parasetamol|n
-乙酰氨	parasetamol|n
-乙酰氨基	parasetamol|n
-乙酰氨基酚	parasetamol|n
-仙	bidadari|n,dewa|n,dewi|n,hiang|n,inai|n,kaktus|n,kektas,nargis|n
-仙人	hiang|n,kaktus|n,kektas
-仙人掌	kaktus|n,kektas
-仙人掌属	kaktus|n
-仙们	yang-yang|n
+仙	hiang|n,bidadari|n,dewi|n,peri-peri|n
+仙人	hiang|n,kektas
+仙人掌	kektas
+仙人掌仙人掌属	kaktus|n
 仙女	bidadari|n,dewi|n,peri-peri|n
-仙花	inai|n
-余	beta|pron,amatur|adj,baki,bara|n,bersisa,kerapis,koret,lestari|adj
+余	beta|pron,bara|n,baki
+余地	jidar|n
+余存	keseimbangan|n
 余烬	bara|n
-余爱	amatur|adj
-余爱好	amatur|adj
-余爱好者	amatur|adj
-余的	lestari|adj,mubazir|adj
 余额	baki
-叙	imbas kembali|n,memerikan,menceritakan,merencanakan,naratif|adj,nukilkan,puisi naratif|n,rawikan
-叙利	suryani|adj,syria
-叙利亚	syria,suryani|adj
+叙	sebut|v,naratif|adj,puisi naratif|n,memerikan,rawikan,merencanakan,nukilkan,menceritakan
+叙利	suryani|adj
+叙利亚	suryani|adj
+叙利亚叙利亚	syria
 叙利亚的	suryani|adj
 叙说	menceritakan
-叙述	memerikan,merencanakan,naratif|adj,nukilkan,puisi naratif|n,rawikan,riwayatkan,sebut|v
-孙	anak cucu,anak lelaki cicit|n,bani,cicit|n,cicit laki-laki|n,cicit lelaki|n,cicit perempuan|n,cucu|n
-孙女	cucu perempuan|n,cicit perempuan|n,cucu saudari|n
-孙子	cucu|n,cucu laki-laki|n,cucu lelaki|n,cucunda,suli
-彙	alah|adj,eka|num,kosa kata|n,suku kata|n,suria|n,takhta|n,teka|v
-彙表	kosa kata|n
-忙	sibuk|adj,abuh|adj,bergegas-gegas,birit,boleh tolong|int,diikat|v,gapah,gegas
+叙述	sebut|v,naratif|adj,puisi naratif|n,memerikan,rawikan,merencanakan,nukilkan,riwayatkan
+孙	cucu|n,cucu lelaki|n,cucu laki-laki|n,cucu perempuan|n,suli,cucunda
+孙女	cucu perempuan|n
+孙子	cucu|n,cucu lelaki|n,cucu laki-laki|n,suli,cucunda
+忙	sibuk|adj,kecuh,kesibukan
 忙乱	kecuh,siah
 忙乱的	siah
-忙吗	boleh tolong|int
-忙地	gulut,tergulut-gulut
-忙得	diikat|v
-忙得不	diikat|v
-忙得不可	diikat|v
-忙得不可开	diikat|v
 忙得不可开交	diikat|v
 忙得不可开交的	diikat|v
-忙忙	bergegas-gegas,birit,gapah,gesa-gesa,gopoh-gapoh,gopohgapah,gulut,terburu-buru
-忙忙地	gulut,tergulut-gulut
-忙的	gegas,kirap,lipas kudung|n,udap-udap
-忙碌	kesibukan,abuh|adj,pragmatik|adj
-忙碌的	abuh|adj,pragmatik|adj
-拙	bagal,cempelang,gabas,kecanggungan|n,kekok,tolol|adj
+忙碌	pragmatik|adj,kesibukan
+忙碌的	pragmatik|adj
+忙碌的肿胀	abuh|adj
 拙劣	gabas
 拙劣的	gabas
-拙的	bagal,cempelang,kekok,tolol|adj
-教	ajar|v,mengajar|v,abet|n,agama|n,ajaran|n,akaf,akafkan,akaid
-教上	fasik,nahi
-教上的	fasik,nahi
-教上的禁	nahi
-教上的禁令	nahi
-教上的罪	fasik
-教上的罪人	fasik
-教主	maulud
-教主穆	maulud
-教主穆罕	maulud
-教主穆罕默	maulud
-教主穆罕默德	maulud
-教主穆罕默德的	maulud
-教主穆罕默德的诞	maulud
-教主穆罕默德的诞辰	maulud
-教主穆罕默德的诞辰日	maulud
+拙笨	canggung|adj
+教	ajar|v,mengajar|v,pelatih|n,gereja|n,pendidikan|n,profesor|n,kuliah|n,abet|n
 教义	rukun|n
-教信	din|n,ibadat,kalimah|n,keparat
-教信仰	din|n,ibadat,keparat
-教信仰的	keparat
-教信条	kalimah|n
-教养	didik|v,mendidik,bestari|adj,budi bahasa
-教养的	bestari|adj,budi bahasa
-教化	pelihara|v,perumian|n
-教区	mukim|n,keuskupan|n
-教历	ramadan
-教历九	ramadan
-教历九月	ramadan
+教养	didik|v,mendidik
+教化	pelihara|v
+教区	mukim|n
+教员	guru|n
 教唆	abet|n,ocok
-教商	khoja
-教商人	khoja
-教商人专	khoja
-教商人专称	khoja
-教圣	alkitab,kaabah
-教圣堂	kaabah
-教圣经	alkitab
-教堂	gereja|n,akaf,bilal|n,gendang raya,lebai|n,mimber
-教堂内	mimber
-教堂内之	mimber
-教堂内之讲	mimber
-教堂内之讲经	mimber
+教堂	gereja|n
 教堂内之讲经台	mimber
-教堂庙	lebai|n
-教堂庙祝	lebai|n
-教堂所	akaf
-教堂所拥	akaf
-教堂所拥有	akaf
-教堂所拥有的	akaf
-教堂所拥有的产	akaf
-教堂所拥有的产业	akaf
-教堂的	gendang raya
-教堂的鼓	gendang raya
-教堂祈	bilal|n
-教堂祈祷	bilal|n
-教堂祈祷召	bilal|n
-教堂祈祷召唤	bilal|n
-教堂祈祷召唤人	bilal|n
-教士	paderi|n,sekular|adj
-教大	jami
-教大寺	jami
-教大寺院	jami
-教学	madrasah|n,mualim,ulama
-教学校	madrasah|n
-教学者	mualim,ulama
 教室	bilik darjah
-教寺	at
-教寺院	at
-教小	surau|n
-教小寺	surau|n
-教小寺院	surau|n
-教巫	bomor|n,poyang|n
-教巫医	bomor|n,poyang|n
-教师	pengajar|n,munsyi bahasa,rubiah,ustaz|n,ustazah|n
-教律	fardu|n
-教律上	fardu|n
-教律上的	fardu|n
-教律上的义	fardu|n
-教律上的义务	fardu|n
-教徒	kafir,lahad|n,mengislamkan|v,muslim,nasrani,sami|n,serani,songkok|n
-教徒墓	lahad|n
-教徒墓穴	lahad|n
-教徒戴	songkok|n
-教徒戴的	songkok|n
-教徒戴的帽	songkok|n
-教徒祈	telekung
-教徒祈祷	telekung
-教徒祈祷用	telekung
-教徒祈祷用之	telekung
-教徒祈祷用之面	telekung
-教徒祈祷用之面幕	telekung
-教性	penunggang agama|n
-教性的	penunggang agama|n
-教戒	syara
-教戒律	syara
-教战	jihad
-教战争	jihad
-教授	mahaguru|n,profesor|n,profesor madya|n
-教教	fardu|n,keuskupan|n,syariat|n,ustaz|n,ustazah|n
-教教区	keuskupan|n
-教教师	ustaz|n,ustazah|n
-教教律	fardu|n
-教教律上	fardu|n
-教教律上的	fardu|n
-教教律上的义	fardu|n
-教教律上的义务	fardu|n
-教教规	syariat|n
+教师	pengajar|n
+教授	profesor|n,mahaguru|n
 教材	kuliah|n
-教法	mufti|n
-教法律	mufti|n
-教法律法	mufti|n
-教法律法典	mufti|n
-教法律法典学	mufti|n
-教法律法典学者	mufti|n
 教派	mazhab
-教的	candi,keagamaan,masihi|adj,parti ajaran sesat,sami|n,tahfiz|n
-教的寺	candi
-教的寺庙	candi
 教科	buku teks|n
 教科书	buku teks|n
+教科书式	klasik|adj
 教练	pelatih|n
-教者	mualap
-教育	ajaran|n,asuhan,didik|v,mendidik,pendidikan|n,reformasi pendidikan|n,berpendidikan,buta huruf|adj
-教育的	berpendidikan,terdidik,terpelajar
-教规	akaid,haram|adj,syariat|n
-教规禁	haram|adj
+教育	pendidikan|n,didik|v,reformasi pendidikan|n,asuhan,mendidik
+教规	akaid
 教规禁止	haram|adj
 教规禁止的	haram|adj
 教训	ajaran|n,pengajaran
-教长	khatib
-教长老	khatib
-橙	jingga|adj,kemungkas,limau purut|n,oren|n
+教训教	ajaran|n
+教训教育	ajaran|n
+教长	dekan|n
+曙光	fajar|n
+橙	oren|n
 橙子	oren|n
-橙椒	kemungkas
 橙色	jingga|adj
-橙色的	jingga|adj
-橙黄	jingga|adj
-橙黄色	jingga|adj
-毙	mati lemas,rajam
+橙色的金黄色	jingga|adj
+橙黄色顏色	jingga|adj
 烙	selar|v
 烙印	selar|v
-牙	bergigi,berus|n,berus gigi|n,cabut gigi,carta|n,danta|n,doktor gigi|n,gading|n
+烙铁	besi|n
+牙	danta|n,ngilu|n,gusi|n,berus|n,gigi|n,berus gigi|n,sakit gigi|n,tukang gigi
 牙买	jamaica
 牙买加	jamaica
-牙人	peringgi|adj,portugis
-牙利	hungary
+牙关	rahang|n
 牙刷	berus|n,berus gigi|n
-牙医	tukang gigi,doktor gigi|n
-牙医师	doktor gigi|n
+牙医	tukang gigi
 牙床	gusi|n
 牙痛	ngilu|n,sakit gigi|n
-牙科	doktor gigi|n
-牙科医	doktor gigi|n
-牙科医生	doktor gigi|n
+牙科医生牙医师	doktor gigi|n
 牙膏	ubat gigi|n
-牙语	carta|n,moler,popular,ronda,tus
-牙齿	danta|n,gigi|n,bergigi
-瑙	akik|n
-留	baik-baik,banduan|n,bermastautin,cadangkan,cam|v,hinggap|v,hirau|v,lapih
-留心	baik-baik,cam|v,hirau|v,perhatian|n
+牙膏牙	ubat gigi|n
+牙膏牙膏	ubat gigi|n
+牙齿	danta|n,gigi|n
+留	perhatian|n,hirau|v,cam|v,renung|v,peka,baik-baik,mastautin
+留心	perhatian|n,hirau|v,cam|v,baik-baik
 留意	peka
-留所	lokap|n
 留神	renung|v
-留者	banduan|n
+留言	utusan|n
 留辫	lapih
 留辫的	lapih
 留驻	mastautin
-站	berdiri|v,bangun|v,congok|v,galon|n,landasan,mengusulkan,pelantar|n,perhentian|n
+硙硙	keras|adj
+站	berdiri|v,pelantar|n,bangun|v,congok|v,senang diri|n
 站台	pelantar|n
+站地	perhentian|n
 站立	bangun|v,congok|v,senang diri|n
-糙	bagur,gabah,gabas,gerutu,kasap,kasar|adj,kesat,kisat
-糙的	gabas,gerutu,kasap,kasar|adj,kesat,leler,menggerutu,sembulu
+糙	gabah
 糙米	gabah
-糙编	bagur
-糙编织	bagur
-糙编织品	bagur
-给	bagi|v,beri|v,memberi|v,untuk|prep,ayapan,bekalkan,buruk siku,catu
-给了	buruk siku
-给了人	buruk siku
-给了人家	buruk siku
-给了人家东	buruk siku
-给了人家东西	buruk siku
-给了人家东西再	buruk siku
-给了人家东西再向	buruk siku
-给了人家东西再向人	buruk siku
-给了人家东西再向人要	buruk siku
+给	bagi|v,untuk|prep,beri|v,memberi|v,tawaran|n,tawar|v,katering|n,menawarkan|v
+给...装备电子计算机	komputerisasi|n
+给…	meneteki
+给…喂	meneteki
+给…喂奶	meneteki
 给了人家东西再向人要回	buruk siku
-给予	menawarkan|v,tawar|v,tawaran|n
-给体	penderma|n
+给予	tawaran|n,tawar|v,menawarkan|v
+给予物	tawaran|n
 给养	katering|n
-给别	santung
-给别人	santung
-给别人的	santung
-给别人的头	santung
-给别人的头邪	santung
-给别人的头邪术	santung
-给新	lelat
-给新娘	lelat
-给新娘的	lelat
-给新娘的栳	lelat
-给新娘的栳叶	lelat
-给某	mengembani
-给某人	mengembani
-给的	ayapan
-给的食	ayapan
-给的食物	ayapan
-给费	membiayai
-给费用	membiayai
-蛙	kodok|n,katak|n,kuak
+给力	keren|adj
+蛙	kodok|n,kuak
 蛙叫	kuak
-蝙	cencadu,kelawar|n,kelelawar|n,keluang|n
+蝙	kelawar|n,kelelawar|n,keluang|n
 蝙蝠	kelawar|n,kelelawar|n,keluang|n,cencadu
 蝙蝠类	cencadu
-裙	miniskirt|n,sarung|n,skirt|n
+裙	skirt|n
 裙子	skirt|n
-诙	kelakar|n,lawak|adj
-诙谐	kelakar|n,lawak|adj
+诙	kelakar|n
+诙谐	lawak|adj,kelakar|n
 诙谐的	lawak|adj
 蹙	mengerutkan,kerut
 蹙额	kerut
-这	ini|pron,begini|adv,dalam keadaan,demikian|adv,demikian halnya,demikian itu,di sini,kemari
+这	ini|pron
 这一	demikian itu
 这一来	demikian itu
+这一阵子	baru|adj
 这个	ini|pron
 这么	sekian
 这么多	sekian
 这就	yakni
 这就是	yakni
-这样	demikian|adv,kian,begini|adv,demikian halnya
-这种	dalam keadaan
-这种情	dalam keadaan
-这种情况	dalam keadaan
-这种情况之	dalam keadaan
-这种情况之下	dalam keadaan
-这里	sini|adv,di sini,kemari
-这里来	kemari
-铙	canang|n
-铙钹	canang|n
-静	aman|adj,bilik rehat|n,damai,diam|adj,diam-diam,diem|adj,elektrik statik|n,hening
+这样	demikian|adv,kian
+这里	sini|adv
+静	hening,statik|adj,elektrik statik|n,diam-diam,mandik
 静坐	mogok duduk|n
 静坐罢	mogok duduk|n
 静坐罢工	mogok duduk|n
 静宁	tenteram|adj
 静宁的	tenteram|adj
-静寂	senyap|adj
+静寂	diem|adj
+静态	diem|adj
 静止	mandik,bilik rehat|n
 静止的	bilik rehat|n
-静电	elektrik statik|n,statik|adj,zeroks|n
-静电复	zeroks|n
-静电复印	zeroks|n
-静电复印术	zeroks|n
-静的	hening,aman|adj,damai,sengap,sepi|adj,sunyi|adj,teduh
+静电	statik|adj,elektrik statik|n
+静电复印术静电复印术	zeroks|n
+静的	hening
+静谧	diem|adj
+静音	diem|adj
 静默	diam-diam,sengap
 静默的	sengap

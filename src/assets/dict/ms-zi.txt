@@ -3,7 +3,7 @@ ziarah	ziarah		参拜，朝觐
 zib	zib	n	其他形式 。 狼 近义词 /	wolf (animal)
 zigot	zigot	n	合子	zygote (fertilized egg cell)
 zikir	zikir		圣歌，赞美诗
-zilofon	zilofon	n	两者择一
+zilofon	zilofon	n	两者择一	alternative form of xilofon
 zimmah	zimmah		人民
 zimmi	zimmi	n	保护国，属国	a non-Muslim subject of a Muslim government.
 zina	zina		通奸，私通

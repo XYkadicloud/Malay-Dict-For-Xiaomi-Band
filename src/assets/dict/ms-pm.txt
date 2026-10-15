@@ -1,2 +1,2 @@
-pm	pm	n	词首字母缩略词
+pm	pm	n	词首字母缩略词	initialism of perdana menteri (“prime minister”)
 pmx	pmx		安瓦尔	Anwar Ibrahim  a Malaysian politician and Prime Minister

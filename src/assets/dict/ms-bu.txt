@@ -114,7 +114,7 @@ bukukan	bukukan		记人，登记，出成书，编成书
 bukukemajuan	buku kemajuan		成绩单
 bukulali	buku lali	n	踝关节	ankle
 bukulima	buku lima	n	拳头	fist
-bukunota	buku nota	n	同义词
+bukunota	buku nota	n	同义词	Synonym of buku catatan (“notebook”)
 bukupanduan	buku panduan		参考书，指南
 bukurampaian	buku rampaian		笔记簿
 bukurujukan	buku rujukan		参考书
@@ -158,8 +158,8 @@ bulatpipih	bulat pipih		扁圆形
 buldozer	buldozer		铲泥机
 buletin	buletin	n	公告	bulletin
 bulibuli	buli-buli		小瓶子
-bulih	bulih	v	荒废的
-buloh	buloh	n	荒废的
+bulih	bulih	v	荒废的	obsolete form of boleh
+buloh	buloh	n	荒废的	obsolete spelling of buluh
 bultsuara	bult suara		导口同声，一致的
 bulu	bulu	n	体毛	body hair
 buluh	buluh	n	竹子	bamboo
@@ -198,7 +198,7 @@ bungkam	bungkam	adj	默不作声	silent; speechless; dumbfounded (unwilling or u
 bungkang	bungkang		卧倒，横卧
 bungkus	bungkus	cls	包扎，包裹，包，捆，束	counter for wrapped or packaged objects
 bungkusan	bungkusan		包裹，包装
-bungsu	bungsu	adj	荒废的
+bungsu	bungsu	adj	荒废的	obsolete form of bongsu
 buni	buni	n	隐匿	concealment			peruan hitam
 bunian	bunian	n	看不见的	invisible elves of the forest
 buntak	buntak		矮壮的
@@ -264,7 +264,7 @@ busutjantan	busut jantan		大而尖的蚁冢
 buta	buta	adj	盲，瞎，盲目的	blind
 butaayam	buta ayam		夜盲
 butahuruf	buta huruf	adj	文盲，没受过教育	Unable to read and write; illiterate.
-butak	butak	adj	荒废的
+butak	butak	adj	荒废的	obsolete form of botak
 butakayu	buta kayu		文盲，愚笨
 butang	butang	n	钮，钮扣	button
 butarabun	buta rabun		近视眼

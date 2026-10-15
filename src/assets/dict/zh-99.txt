@@ -1,164 +1,109 @@
-代	abad emas|n,abad keemasan|n,agen,agensi|n,akil,akilrakyat,akilrasmi,algebra
-代之	oneng
-代之子	oneng
-代之子孙	oneng
+代	naib|n,wakil|n,you|pron,proksi|n,kod,agen,akil,mewakili
+代价	kos|n,rega|n
 代号	kod
-代子	piut|n
-代子孙	piut|n
-代学	kronologi|n
-代数	algebra
-代替	betol|adj,habok|n,hadith|n,ketjap|n,masok|v,ramadhan,repablik|n
-代替的	betol|adj,habok|n,hadith|n,ketjap|n,masok|v,ramadhan,repablik|n
-代爪	kawi
-代爪哇	kawi
-代爪哇语	kawi
-代理	akil,naib|n,proksi|n,agen,agensi|n,ejen|n,pemangku
+代志	benda|n,jirim|n
+代步车	kenderaan|n
+代理	naib|n,ejen|n,proksi|n,agensi|n,akil,agen,pemangku
 代理人	agen,pemangku
-代理商	akil,ejen|n
+代理商	ejen|n,akil
 代理机	agensi|n
 代理机构	agensi|n
-代用	kaduk
-代用品	kaduk
-代的	bahari,kontemporari|adj,kuna,mesir purba,purba|adj,rejam|v
-代的人	kontemporari|adj
-代的死	rejam|v
-代的死刑	rejam|v
-代表	agen,akil,mewakili,naib|n,wakil|n,akilrakyat,akilrasmi
+代码	kanun|n
+代表	naib|n,wakil|n,agen,akil,mewakili
+代表性	wakil|n
 代词	you|pron
-代销	francaisi|n
-代销权	francaisi|n
-代销权的	francaisi|n
-代销权的人	francaisi|n
-代风	beregek|adj,regek|adj
-代风格	beregek|adj,regek|adj
-代风格的	beregek|adj,regek|adj
-佣	dalal,komisen|n,orang gaji
+代销店	agensi|n
+佣	komisen|n,orang gaji
 佣人	orang gaji
-佣金	dalal,komisen|n
-口	abtar|adj,abuya|n,air liur,air ludah,alasan|n,babil,balah|v,banci penduduk
-口中	gumam
-口中而	gumam
-口中而言	gumam
-口中而言语	gumam
+佣金	komisen|n
+佣钱	komisi|n
+口	pelabur|n,abuya|n,haus|adj,balah|v,gincu|n,slogan|n,dahaga|adj,cogan kata|n
 口令	abuya|n
-口号	cogan kata|n,semboyan kata,slogan|n
+口号	slogan|n,cogan kata|n,semboyan kata
 口吃	gagap,gelagapan,tergagap
 口吃的	tergagap
-口同	bult suara
-口同声	bult suara
-口呆	langah,longong,menganga,nganga|v
-口呆望	nganga|v
-口哨	siul,siulan
+口哨	siulan
 口哨声	siulan
-口唇	birat,kelum
-口唇之	birat
-口唇之伤	birat
 口唇之伤痕	birat
-口商	pengeksport|n
-口嚼	sirih|n
-口嚼的	sirih|n
-口嚼的栳	sirih|n
-口嚼的栳叶	sirih|n
 口头	lisan|adj
 口头的	lisan|adj
 口套	berangus,selongsong
-口径	empat puluh lima|num,pemuras
-口径的	empat puluh lima|num
-口径的手	empat puluh lima|num
-口径的手枪	empat puluh lima|num
-口径短	pemuras
-口径短枪	pemuras
-口才	fasih lidah|adj,petah lidah
+口子	lubang|n,abtar|adj
+口实	gaji|n
+口才	petah lidah
 口才好	petah lidah
 口才好的	petah lidah
-口才的	fasih lidah|adj
-口才的人	fasih lidah|adj
+口服	lisan|adj
+口条	lidah|n
 口水	air liur,air ludah
-口涎	air ludah,liung
-口渴	dahaga|adj,haus|adj,kehausan
+口涎	liung,air ludah
+口渴	haus|adj,dahaga|adj,kehausan
 口琴	harmonika
-口疮	guam|n,seriawan
-口的	lazat|adj,rompes,rongak,ruam|n
-口的脓	ruam|n
-口的脓头	ruam|n
 口瞪	kasima
 口瞪目	kasima
 口瞪目呆	kasima
-口税	cukai eksport,cukai import
 口粮	pelabur|n,rangsum
 口紅	gincu|n
-口红	cat bibir,lipstik|n
+口红	lipstik|n,cat bibir
 口络	simpai
-口统	banci penduduk
-口统计	banci penduduk
+口罩	topeng|n
 口若	lagih
 口若悬	lagih
 口若悬河	lagih
 口衔	menggonggong
 口袋	poket|n
-口角	babil,balah|v,bergaduh,kelahi,perbalahan,tikai
-口语	pelat|n
-口说	meriam buluh
-口说白	meriam buluh
-口说白话	meriam buluh
-口调	banci penduduk
-口调查	banci penduduk
-口针	kerosang
-口铁	kaling,kupi|n,timah putih,tin|n
-口铁罐	kupi|n,tin|n
-口铁罐头	kupi|n,tin|n
-口难	tungkap
-口难言	tungkap
+口角	balah|v,babil,kelahi,bergaduh,perbalahan
 口音	menekankan
 口香	kayu sugi|n
 口香藤	kayu sugi|n
-季	awal musim hujan,monsun|n,musim|n,musim hujan|n,musim kemarau|n,musim panas|n,musim sejuk|n,piantan
-季之	awal musim hujan
-季之开	awal musim hujan
-季之开始	awal musim hujan
+口齿	umur|n
+嗣后	lepas|adj
+嫣然	lawa|adj,manis|adj
+季	musim|n,monsun|n
+季候	musim|n
+季度	musim|n
+季父	paman|n
 季节	musim|n,piantan
 季节的	piantan
 季风	monsun|n
-扣	kancing|n,menyemat,aduh,buah baju,butang|n,diskaun|n,kelandara,kerosang
+扣	kancing|n,menyemat,tolak|v,semat|v,sudip,kerosang,peniti
 扣住	semat|v
 扣减	tolak|v
 扣板	sudip
-扣环	aduh
-扣结	kelandara
-扣结帆	kelandara
-扣结帆桁	kelandara
-扣结帆桁的	kelandara
-扣结帆桁的圈	kelandara
 扣针	kerosang,peniti
-捣	tumbuk|v,ganggu,gempur,irik,kecai|adj,lenyek,lesung|n,luluh
-捣乱	ganggu,mengacau|v,pengacau
+扣问	aju|v
+捣	tumbuk|v,lesung|n,mengacau|v,ganggu,pirik,irik,memirik,luluh
+捣乱	mengacau|v,ganggu,pengacau
 捣乱者	pengacau
 捣击	irik
 捣成	kecai|adj
 捣成碎	kecai|adj
 捣成碎片	kecai|adj
-捣毁	gempur,menghancurkan,ubrak-abrik
-捣碎	lenyek,luluh,melenyek,memirik,pipis,pirik
+捣毁	gempur,ubrak-abrik,menghancurkan
+捣碎	pirik,memirik,luluh,pipis,lenyek,melenyek
 捣臼	lesung|n
-散	bebar,berai|adj,bergoyang kaki,berhamburan,berjalan-jalan,berkecah,berpesai,berselerak
-散乱	berai|adj,berkecah,berpesai,bertebaran,cerai-berai|adj,kucar,merbang,pesai
-散乱的	berselerak,camuk,kapar,kusau,kusut,perai,renak,selerak|adj
+散	berai|adj,serak|n,cerai-berai|adj,pesai,berpesai,tebar,pesiar,bubar
+散乱	berai|adj,serak|n,cerai-berai|adj,pesai,berpesai,sepuk|v,selerak|adj,pontang-panting
+散乱的	sepuk|v,selerak|adj,kapar,kusau,kusut,perai,camuk,renak
 散会	bubar
-散布	berhamburan,bertabur,hambur,merebak,rambat,rebak,sambur,tebar
+散失	kalah|v
+散客	muat|adj
+散布	tebar,rebak,sambur,hambur,rambat,merebak,berhamburan,temabur
 散开	bubar,perai
 散开的	perai
-散播	berhamburan,hambur,mengaur-aurkan,menghamburkan
+散户	individu|n
+散播	hambur,berhamburan,menghamburkan,mengaur-aurkan
 散文	prosa
-散步	berjalan-jalan,bersiar-siar,pesiar
-散而	tempuras
-散而逃	tempuras
+散步	pesiar,berjalan-jalan,bersiar-siar
 散钱	duit kecil
-档	arkib|n,fail|n,pengarkiban|n,selarak
-档案	fail|n,arkib|n
-档案馆	arkib|n
-楣	ambang|n
-正	adalat,ajah,ajaran sesat|n,amat|adv,aniaya|n,asli|adj,baiki,begitu|adv
+档	fail|n
+档案	fail|n
+档案分配区	lemak|n
+档次	rata|adj,kelas|n
+正	hadapan|det,benar|adj,betul|adj,integriti|n,hadap|v,lohor|n,ajah,adalat
 正义	adalat
+正值	jujur|adj
+正儿八经	serius|adj
 正六	kiub
 正六面	kiub
 正六面体	kiub
@@ -166,166 +111,103 @@
 正因	justeru
 正因为	justeru
 正在	sedang|adv
-正地	lungguh
-正地坐	lungguh
-正字	ortografi|n
-正字法	ortografi|n
-正常	ajaran sesat|n,suwajar
-正常的	suwajar,ajaran sesat|n
-正常的人	ajaran sesat|n
-正式	formal|adj,formalkan|v,informal|adj,keadaannya|n,mekak|v,melarangkan|v,memberikan|v,memberus|v
+正好	baru|adj
+正字法延伸阅读	ortografi|n
+正常	suwajar
+正常的	suwajar
+正式	formal|adj,informal|adj,mencuri|v,merunut|v,memberus|v,meneliti|v,mengabar|v,mengedit|v
 正式宣	merasmikan
 正式宣布	merasmikan
-正式的	formal|adj,formalkan|v,informal|adj,melarangkan|v,memberikan|v,memberus|v,memelayukan|v,memendekkan|v
-正当	mustahak,patut|adj,sembada,semenggah,timu-timu
-正当的	mustahak,patut|adj,sembada,semenggah,timu-timu
-正方	persegi|n,rajah empat persegi,sesiku|n
-正方形	persegi|n,rajah empat persegi,sesiku|n
-正月	muharam
-正派	serong hati
-正派的	serong hati
-正的	amat|adv,asli|adj,begitu|adv,hakikat,kaya raya|adj,misoa|n,mustakim,pencong
-正的姿	turun senjata|n
-正的姿势	turun senjata|n
+正式的	formal|adj,informal|adj,mencuri|v,merunut|v,memberus|v,meneliti|v,mengabar|v,mengedit|v
+正当	patut|adj,mustahak,sembada,semenggah,timu-timu
+正当的	patut|adj,mustahak,sembada,semenggah,timu-timu
+正方	persegi|n,sesiku|n,rajah empat persegi
+正方形	persegi|n,sesiku|n,rajah empat persegi
+正正	kemas|adj
+正版	absah|adj
 正直	integriti|n
-正确	benar|adj,betul|adj,bolak,jitu|adj,perdata|n,piawai|adj,sahih,sepatutnya
+正确	benar|adj,betul|adj,jitu|adj,tepat|adj,perdata|n,piawai|adj,sepatutnya,sahih
 正确地	sepatutnya
-正确的	jitu|adj,perdata|n,piawai|adj,sahih,tepat|adj
-正要	dekam
-正要扑	dekam
-正要扑过	dekam
+正确的	jitu|adj,tepat|adj,perdata|n,piawai|adj,sahih
+正经	bagus|adj,serius|adj
+正统	sah|adj
 正要扑过去	dekam
-正面	ajah,hadap|v,hadapan|det,panggung|n
+正规地	biasanya|adv
+正面	hadapan|det,hadap|v,ajah,panggung|n
 正面看	panggung|n
 正面看台	panggung|n
-泣	esak,meratap,merengek,ngihngih,ratap,teresak-esak,terisak-isak
-泣声	ngihngih
-瓣	kelopak,selampit,kelopak bunga,pangsa,petaling jaya
-瓣形	petaling jaya
-痣	belak,porong
-癣	kudis,losong,kurap|n,lumut|n,nyiat-nyiat,panau|n
-癣治	nyiat-nyiat
-癣治疗	nyiat-nyiat
-癣治疗剂	nyiat-nyiat
-癣治疗剂的	nyiat-nyiat
-癣治疗剂的药	nyiat-nyiat
-癣治疗剂的药草	nyiat-nyiat
-督	alkitab,antikristus|n,datin,gabenor jeneral|n,kristian,laksamana|n,lelar,masihi|adj
-督人	pengawas
-督员	penyelia
-督器	monitor|n,pemantau|n
-督夫	datin
-督夫人	datin
-督官	penyelia
-督教	alkitab,kristian,masihi|adj,nasrani
-督教圣	alkitab
-督教圣经	alkitab
-督教徒	nasrani
-督教的	masihi|adj
-督者	antikristus|n
-绣	menyulam|v,bersulam,bersungkit,disulam|v,kida-kida,madukara,rakam|v,rompok
+正餐	makanan|n
+瓣	selampit,kelopak
+癣	kudis,losong
+督察	merinyu|n
+绣	menyulam|v,rakam|v
 绣上	bersulam
 绣师	rakam|v
-绣绢	madukara
-绣绢织	madukara
-绣绢织物	madukara
 绣花	disulam|v
 绣花的	disulam|v
-绣边	rompok
-臣	patik|pron,canselor|n,manteri,pacal|pron,patih,periai,wazir|n
+臣	patik|pron,pacal|pron
 臣仆	pacal|pron
-苣	cikori|n,salad
-荣	aman dan makmur,bangga,berbangga,berseri,izzat|n,kebanggaan,kehormat|adj,kehormatan
+臣虏	kaula|n
+荣	izzat|n,kehormatan
 荣光	berseri
 荣光焕	berseri
 荣光焕发	berseri
-荣的	megah,mewah|adj
-荣誉	izzat|n,kehormatan,kehormat|adj
+荣誉	izzat|n,kehormat|adj,kehormatan
 荣誉的	kehormat|adj
-董	antik,direktor,pengarah|n,sidang pengurus
-董事	direktor,pengarah|n,sidang pengurus
+董	pengarah|n,direktor
+董事	pengarah|n,direktor,sidang pengurus
 董事部	sidang pengurus
-蓣	gadung|n
-蓣属	gadung|n
-衣	kemeja|n,baju|n,baju dalam,baju hujan|n,benara|n,bilik persalinan|n,buka kain,bundle|n
-衣主	mata angin|n
-衣主教	mata angin|n
-衣之	senteng
-衣之一	senteng
-衣之一种	senteng
-衣冠	simbai
-衣冠楚	simbai
+衣	kemeja|n,lengan|n,kekek|adj,pakaian|n,kolar|n,baju|n,bundle|n,penyangkut baju|n
 衣冠楚楚	simbai
 衣冠楚楚的	simbai
-衣匠	benara|n,dobi|n,manatu
-衣室	bilik persalinan|n
-衣工	pembasuh
-衣工人	pembasuh
-衣服	baju|n,bundle|n,kain baju,pakaian|n,cuci baju,dobi|n
-衣服者	dobi|n
-衣机	mesin basuh|n
+衣带	tali pinggang|n
+衣服	pakaian|n,baju|n,bundle|n,kain baju
 衣架	penyangkut baju|n
+衣物	sendat|adj
 衣着	kain baju
-衣箱	pendaga
-衣者	benara|n
 衣茎	upih
-衣著	kutang
+衣衫	sendat|adj
 衣袋	kocek,saku
 衣袖	lengan|n
 衣裆	kekek|adj
 衣襟	pesak
 衣领	kolar|n
-解	aci,anatomi,apal,asit,autopsi|n,bebaskan,berbuka|v,berdamai
-解人	asit,hakam
-解决	aci,kelarutan|n,mengatasi,solusi|n,urai,usai
+解	pengertian|n,ertian|n,solusi|n,leraian|n,kelarutan|n,keterangan|n,keluar baris,orak|v
+解像度	resolusi|n
+解决	solusi|n,kelarutan|n,aci,urai,usai,mengatasi
 解决问	urai
 解决问题	urai
-解冻	nyahfros|v
-解剖	membedah,uraian,anatomi,autopsi|n
+解剖	uraian,membedah,anatomi
 解剖学	anatomi
 解去	papas
-解和	petrol|n
-解和烷	petrol|n
-解和烷基	petrol|n
-解和烷基化	petrol|n
-解和烷基化等	petrol|n
-解和烷基化等處	petrol|n
-解和烷基化等處理	petrol|n
-解和烷基化等處理而	petrol|n
-解开	erak,kasyaf|n,mengorak,mengungkai,orak|v,rungkai,terurai|adj,ungkai
+解开	orak|v,terurai|adj,kasyaf|n,erak,ungkai,mengorak,rungkai,mengungkai
 解开的	curai
 解开纠	huraikan|v
 解开纠结	huraikan|v
-解打	melerai
-解打架	melerai
-解放	bebaskan,merdeka|adj
+解放	merdeka|adj,bebaskan
 解放的	merdeka|adj
-解救	selamatkan|v
-解散	keluar baris,membubarkan,menyurai,pembubaran
+解散	keluar baris,menyurai,pembubaran,membubarkan
+解数	keupayaan|n
 解析	leraian|n
+解析度	resolusi|n
 解毒	penawar
 解毒剂	penawar
-解的	musykil|adj
 解禁	berbuka|v
 解积	uraian
+解答	resolusi|n
 解结	rombak|v
 解聘	pecat
 解脱	lucut
 解衣	buka kain
-解调	modem|n
-解调器	modem|n
-解释	dalil,ertian|n,ertikan|v,jelaskan|v,keterangan|n,memaparkan,membayankan,mengertikan|v
+解释	pengertian|n,ertian|n,keterangan|n,mengertikan|v,ertikan|v,jelaskan|v,memaparkan,dalil
+解释。批评	mengagihkan
 解释清	menjelaskan|v
 解释清楚	menjelaskan|v
 解除	melucukan,buka puasa
 解除食	buka puasa
 解除食禁	buka puasa
-解雇	buang kerja,memecat,pecat
-遣	bersuka-suka,cengkerama|n,menyahaktifkan|v,utus|v
-遣使	utus|v
-遣使节	utus|v
-遣散	menyahaktifkan|v
+解雇	pecat,memecat,buang kerja
 酣	nyenyak
 酣睡	nyenyak
-镣	kongkong,pasung,rantaikan
-镣铐	pasung,rantaikan
+镣	kongkong,pasung
+镣铐	pasung

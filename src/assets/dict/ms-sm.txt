@@ -1,2 +1,2 @@
-sm	sm	adv	理科硕士\n[计]；仿真器
-smk	smk	n	词首字母缩略词
+sm	sm	adv	理科硕士\n[计]；仿真器	abbreviation of Sebelum Masihi (“Before Christ”): BC
+smk	smk	n	词首字母缩略词	initialism of sekolah menengah kebangsaan (“state secondary school”); initialism of sekolah menengah kejuruan (“vocational high school”)

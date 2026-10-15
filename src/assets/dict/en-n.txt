@@ -1,108 +1,169 @@
-na	kenaifan|n
+n 100 kopecks equal 1 ruble in russia	kopek
+n a broad flat muscle on either side of the back	lat,latu
+n a character printer connected to a telegraph that opera	teleprinter
+n a city in indonesia	medan
+n a conversation between two persons nn the lines spoken	dialog
+n a decree that prohibits something nn 100 bani equal 1 l	bani
+n a deer of southern asia with antlers that have three tines	sambur
+n a dome-shaped shrine erected by buddhists nv drink exce	topes
+n a hardy cabbage with coarse curly leaves that do not fo	kail
+n a large retail store organized into departments offerin	emporium
+n a large structure at an airport where aircraft can be s	hangar
+n a mechanism that can move automatically	robot
+n a member of the algonquian people formerly living in wi	sauk
+n a member of the siouan people formerly living in the mi	maha
+n a midwestern state in north central united states in th	oh
+n a militant organization of irish nationalists who used	iras
+n a quantity of no importance	nil,nada
+n a quantity of no importance nn a code of letters and di	zip
+n a silvery soft waxy metallic element of the alkali meta	nas
+n a slow pace of running nn a smooth three-beat gait	lopes
+n a supernatural eagle-like being that serves as vishnu's	garuda
+n a white metallic element that burns with a brilliant li	ca
+n a white soft metallic element that tarnishes readily	las
+n an acute viral disease marked by inflammation of nerve	polio
+n an amber	sera
+n an amino acid that is found in the central nervous syst	gaba
+n an artificial language for international use that rejec	ros
+n an informal term for a father	papas
+n any of several small ungulate mammals of africa and asi	das
+n any of the mos	veda
+n battles in world war ii in the pacific	makin
+n capital of the people's republic of china in the hebei	peking
+n capital of vanuatu	vila
+n caraway	carum
+n city in eastern belgium	luik
+n class of cold-blooded air-breathing vertebrates with co	reptilia
+n east indian cereal grass whose seed yield a somewhat bi	ragi
+n east indian tree bearing a profusion of intense vermili	palas
+n goods carried by a large vehicle nv remove with or as i	lading
+n goods on the sea bed that is attached to	ligan
+n one of the two competitions in the next to the last rou	semi
+n one thousand grams	kilo
+n russian poet	blok
+n small deer of japan with slightly forked antlers	sika
+n tall evergreen of japan and china yielding valuable sof	sugi
+n the 13th letter of the greek alphabet	nus
+n the angular distance of a celestial point m	ha
+n the arch of bone beneath the eye that forms the promine	malar
+n the babylonian goddess of healing and consort of ninurt	gula|n
+n the basic unit of money in georgia nn gulls	laris
+n the body of mullahs muslim scholars trained in islam a	ulama
+n the cardinal number that is the sum of eleven and one n	dozen
+n the extremity of the superior limb	manus
+n the fifth month of the hindu calendar	sawan
+n the largest and southernmost island in the marianas whi	gu
+n the posterior part of the mandible that is more or less	ramus
+n the second pillar of islam is prayer	salat
+n type genus of the pipidae	pipa
+n vice president of the united states under bill clinton	gores
+na vet	kenaifan|n
 nacre	gewang|n
-nail	cagu|n,kuku|n,pasak|n
-nailed	terpaku|v
+nail	kuku|n,pasak|n,sangkut|v
 naive	naif|adj
-nak	nk|v
-naked	bogel|adj,telanjang|adj
-name	aaron,abdul,abdullah,agus,ahmad,anas
+naked	telanjang|adj
+name	bersalin|v
+name tag	tanda nama|n
+name word or phrase indicating a particular person	isim|n,nama|n
 namely	iaitu|adv
-nanas	lanas|n,nenas
 nape	tengkuk|n
 narcissus	nargis|n
-narrate	bercerita|v,royat|v
-narrative	naratif|adj,puisi naratif|n
-narrator	rawi|n
-narrow	sempit|adj,takar|n,titi|n
-nasal	hingus|n
-nasi	nasi goreng|n,nasi lemak|n,nasik lemak|n,naslem|n
-nasib	sib|n
-nasional	bn,petronas,pn
-nasionalisasikan	dinasionalisasikan|v,menasionalisasikan|v
-nation	nasional|adj,negara|n
-national	hari kebangsaan,sekolah kebangsaan|n
-national-type	sekolah jenis kebangsaan|n
+narrative	naratif|adj
+narrative poetry	puisi naratif|n
+narrow	sempit|adj
+narrow path specifically a path in the jun	denai
+nasal mucus	hingus|n
+naseberry	sawo|n
+nasi goreng	nasi goreng|n
+nasi lemak	nasi lemak|n
+nation	negara|n
+national	nasional|adj
+national day of brunei	hari kebangsaan
+national school	sekolah kebangsaan|n
+national-type school	sekolah jenis kebangsaan|n
 nationalisation	nasionalisasi|n
 nationalism	nasionalisme|n
 nationalist	nasionalis|n
 nationalistic	nasionalistik|adj
 nationality	kebangsaan|n,kewarganegaraan|n
-nationalize	nasionalisasikan|v
-native	bahasa ibunda|n,bumiputera|n,jeluang|n,natif|adj
-natural	asli|adj,guni|n,natural|adj
-nature	perangai|n,semula jadi|n,usul|n
-naughtily	menakal|v
+native	natif|adj
+native language	bahasa ibunda|n
+native to sumatra	nangoi
+natural	natural|adj
+nature	alam|n,usul|n,perangai|n,semula jadi|n
 naughtiness	kenakalan|n
-naughty	menakal|v,nakal|adj
-nauseous	luak|v
-naval	laksamana|n,pangkalan tentera laut|n
+naughty	nakal|adj
+naval base	pangkalan tentera laut|n
+naval officer of the highest rank	laksamana|n
 navel	pusar|n,pusat|n
-navigate	meniti|v
 navy	tentera laut|n
 nazism	nazisme
 near	dekat|adj
 nearsightedness	rabun jauh|n
 neat	kemas|adj
-necessary	perlu|v,usah|adj
+necessary	perlu|v
 necessity	keperluan|n
 neck	leher|n
-necklace	kalung|n
-need	keperluan|n,usah|adj
+need	keperluan|n
 needle	jarum|n
-needlework	suji|n
 needy	miskin|adj
-negara	negara brunei darussalam,negara-negara,rukun negara
-negates	tidak|adv
-negative	ayaw|n,jangan|adv,tak payah|adv
-negeri	darul khusus,negeri sembilan,nismilan,ns
-neglect	abaikan|v
-neglected	keterabaian|v,terabai|v
-neglectful	abai|adj,alpa|adj,cuai|adj,lalai|adj,pengabai|n
+negara brunei darussalam	negara brunei darussalam
+negates verbs	tidak|adv
+negative imperative marker	tak payah|adv
+negeri sembilan	nismilan,darul khusus,negeri sembilan
+neglected	terabai|v
+neglectful	abai|adj,alpa|adj,cuai|adj,lalai|adj
+neglectful person	pengabai|n
 neglectfulness	keabaian|n
-neglecting	pengabaian|n
 negligence	taksir|n
 negotiator	perunding|n
-neigh	meringkik|v,ringkik|n
 neighbour	jiran|n
-neobalanocarpus	cengal|n
+neither gray nor white	zain
+neobalanocarpus heimii	cengal|n
 neodymium	neodimium|n
 neon	neon|n
 neonate	anak merah|n
-nephew	anak buah|n,lut
+nephew	anak buah|n,anak saudara|n
 neptune	neptun
 neptunium	neptunium|n
-nerve	saraf abdusen|n,saraf trigeminal|n
-nervous	gelisah|adj,goy|adj,gubra|adj
+nerve neurons with their connective tissue sheaths	saraf
+nervous	goy|adj,gubra|adj,gelisah|adj,cemas
 nest	sarang|n
-net	jala|n,jaring|n,kelambu|n,payang|n,pukat|n
-netherlands	belanda|adj
+net a mesh of string	jaring|n
 netizen	warga maya|n
 netting	rajutan|n
-nettle	jelatang|n,latang|n
-network	jaringan|n,rangkaian|n
-neurocarpum	berunai|n
+network	rangkaian|n,jaringan|n
 never	pernah|adv,tidak pernah|adv
+never mind	tak apa
 nevertheless	walau bagaimanapun|conj
-new	baharu|adj,kebaharuan|n,perbaharu|v,perjanjian baru,tahun baru,tahun baru cina
-newcomer	sengkek|n
-news	akhbar|n,berita|n,khabar|n,warta|n
+new	baharu|adj
+new money	okb|n,okl|n
+new testament	perjanjian baru
+new year	tahun baru
+newcomer pure ethnic chinese	sengkek|n
+news	warta|n,akhbar|n,berita|n,khabar|n
 newspaper	koran|n,surat khabar|n
-next	berikutnya|adj,di samping,esok-esok|adv,hadapan|det,pula|adv,selepas itu|adv
-ngai	capa|n
-niaga	berniaga|n
-nice	abang bomba,bagus|adj
+next	pula|adv,hadapan|det,berikutnya|adj
+next in order	selepas itu|adv
+next time	esok-esok|adv
+next to	di samping
+ngai camphor	capa|n
+nice	bagus|adj
 niceness	kebagusan|n
 niche	lahad|n,relung|n
 nickel	nikel|n
 niece	anak buah|n,anak saudari|n
-nigeria	nigeria
-night	malam|n,malam raya|n,pasar malam|n,rabun ayam|n,semalam|n
+nigeria a country in west africa	nigeria
+night	malam|n
+night blindness	rabun ayam|n
+night market	pasar malam|n
+night-blooming cereus	kengwa|n
 nightfall	isyak|n
 nightmare	mimpi ngeri|n
-nightshade	terung masam|n
-nigriceps	baung pisang|n
-nine	nawa|num,sembilan|num,sembilan ratus|num,sembilan ribu|num
-nineteen	satu puluh sembilan|num,sembilan belas|num,sepuluh sembilan|num
+nine	nawa|num,sembilan|num
+nine hundred	sembilan ratus|num
+nine thousand	sembilan ribu|num
+nineteen	sembilan belas|num,sepuluh sembilan|num,satu puluh sembilan|num
 ninety	sembilan puluh|num
 ninety-eight	sembilan puluh lapan|num
 ninety-five	sembilan puluh lima|num
@@ -113,68 +174,87 @@ ninety-seven	sembilan puluh tujuh|num
 ninety-six	sembilan puluh enam|num
 ninety-three	sembilan puluh tiga|num
 ninety-two	sembilan puluh dua|num
-ninth	bulan puasa|n,kesembilan|num
+ninth	kesembilan|num
 niobium	niobium|n
-nipple	dot|n,puting|n
-nitrate	sendawa|n,tingkal|n
-nitrogen	nitrogen|n,zat lemas|n
-nivea	rami|n
+nipple	puting|n
+nitrogen	nitrogen|n
+nn manual stimulation of the ge	feel
+no longer working but receiving pensions	pencen|adj
+no problem	tak apa
 nobelium	nobelium|n
 nobility	tahana|n
 noble	mulia|adj
 nobleman	bangsawan|n
-noise	bahana|n,bergeming|v,hingar|n
-noisy	bising|adj,gegap gempita|adj,geng baju merah|n,memekak|v,riuh|adj
-non-commissioned	pegawai tidak tauliah|n
-non-muslim	jirat|n,kafir harbi|n,kafir zimmi|n,orang bukan islam|n,orang bukan muslim|n,zimmi|n
+noise	hingar|n
+noisy	riuh|adj,bising|adj,gegap gempita|adj
+non-commissioned officer	pegawai tidak tauliah|n
+non-living inner part of a tree trunk	ibu kayu|n
+non-muslim grave	jirat|n
 non-professional	amatur|adj
 nonillion	nonilion|num
-nonsense	sembang konek|v,sembang kote|v
-nonstandard	arkaif,bahru,banteng|n,begedil,bharu,biadap
-noodle	bihun|n,mi|n,mi segera|n
-noodles	ramen|n
-noon	tengah hari|n,zuhur|n
-norm	normatif|adj
-normal	abnormal|adj,biasa|adj
+nonstandard form of banting	banteng|n
+nonstandard form of hempedal	empedal|n
+nonstandard form of kereta api	keretapi|n
+nonstandard form of puntianak	pontianak|n
+nonstandard spelling of surat khabar	suratkhabar|n
+nonstandard spelling of susyi	sushi|n
+nonstandard spelling of tempe	tempeh|n
+noodle	mi|n
+noon	zuhur|n,tengah hari|n
+normal	biasa|adj
 normally	biasanya|adv
-north	amerika utara,itik badut|n,laut utara,macedonia utara,utara|n
+normally rectangular piece of stiff paper	kad|n
+normative	normatif|adj
+north	utara|n
+north america	amerika utara
+north macedonia	macedonia utara
+northeast district	jelutong
 norway	norway
-nose	depan hidung,hidung|n
+nose	hidung|n
+nose ring	kili-kili|n
 nostalgia	nostalgia|n
-notary	notari awam|n
-notch	takah|n
+not	dak|adv,tak|adv,bukan|adv,tidak|adv,andak|adv,endak|adv
+not believing in the existence of god	ateistik|adj
+not concrete	niskala|adj
+not containing anything	kosong|adj
+not dark	terang|adj
+not different	sama|adj
+not domesticated	liar|adj
+not enough	kurang|adj
+not factual	silap|adj
+not fake	original|adj
+not formal	informal|adj
+not including the back	abdomen|n
+not loose	sendat|adj
+not new	lama|adj
+not straight	bengkok|adj,bengkong|adj
+not tight	renggang|adj
+not want	taknak|v
+not wearing any clothes	telanjang|adj
+not wrong	betul|adj
+not yet	belum|adv
+notary public	notari awam|n
 note	catatan|n
-notebook	buku catatan|n
-notes	buku catatan|n
-nothing	menganggur|v,rendang|n
-notice	hirau|v,notis|n,perasan|v
-notify	bagitahu|v,beritahu|v
-noun	kata nama|n,kata nama am|n,kata nama khas|n,penyaji|n,yang|art
+notebook a book in which notes or memoranda are written	buku catatan|n
+notice	notis|n
+noun	kata nama|n
 nourishing	berkhasiat|adj
-novel	roman|n
 novelty	kebaharuan|n
-november	bulan sebelas|n,nov
+november	bulan sebelas|n
 novemdecillion	novemdesilion|num
-now	sekarang|adv,tadi|adv
-nowhere	tempat jin buang anak|n
+now	la ni|adv,sekarang|adv
 nuance	nuansa|n
 nuclear	nuklear|adj
-nucleus	nuklear|adj
-nuh	noh
 null	batal|adj
-number	bilangan|n,leraian|n,nombor|n,nombor perdana|n,sifar|num
-numbers	likur|num
+number	nombor|n,bilangan|n
+number or rate of something	persen
 numbfish	pari kebas|n
 numeral	angka|n
-nurse	asuh|v,jururawat|n,rawat|v
+nurse	jururawat|n
 nursemaid	amah|n
-nusantara	kenusantaraan|adj,nusantara
+nusantara the planned capital city of indonesia	nusantara
 nusantaran	kenusantaraan|adj
-nut	kacang|n
-nutmeg	buah pala|n,pala|n
+nut	kacang|n,bebenang|n
+nutmeg	pala|n,buah pala|n
 nutritious	berkhasiat|adj
-nuts	kacang puteh|n
-nyahjajah	dinyahjajah|v,menyahjajah|v
-nyala	menyala|v
-nyonya	nonya|n,nyonya|n
-nyunyut	nyonyot|v
+nuts	masuk air|adj

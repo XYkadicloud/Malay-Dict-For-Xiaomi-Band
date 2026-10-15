@@ -1,14 +1,13 @@
-丸	gelintir,kelapir,buah pelir,gentel,guli|n,gulikan,menguntal,mimis
-伸	arih,anjur,bentang|v,biofizik|n,canda|n,dasa|num,depang,elastik|adj
-伸出	hulur|v,jelir,julur,kedang,lunjur,mengunjurkan,menjelir,menjulur
-伸出浮	tonjol
+丸	gelintir,kelapir
+伸	arih,bentang|v,jelar,pentang,lunjur,rengut,kelelut,mangkih
+伸出	hulur|v,unjuk,lunjur,senggau,julur,kedang,persil,unjur
 伸出浮肿	tonjol
 伸出浮肿的	tonjol
 伸向	sohor kini|adj
 伸头	jengah|v
 伸头探	jengah|v
 伸头探望	jengah|v
-伸展	bentang|v,jelar,julur,kedang,lunjur,menganjur,merentang,senggau
+伸展	bentang|v,jelar,lunjur,senggau,julur,kedang,menganjur,merentang
 伸开	pentang,depang
 伸开双	depang
 伸开双臂	depang
@@ -22,256 +21,181 @@
 伸手想拿	jengkau,jingkau
 伸直	lunjur,melunjurkan
 伸突	mangkih
-伸缩	melar
-伸缩的	melar
-伸舌	jelih,kelelut
+伸舌	kelelut,jelih
 伸诉	rengut
 伸长	anjur,kejai,membujur,menghulur
-伸閱	piring|n
-伸閱讀	piring|n
-伸阅	biofizik|n,canda|n,dasa|num,elastik|adj,fizikal|adj,khinzir|n,komrad|n,lontar peluru|n
-伸阅读	biofizik|n,canda|n,dasa|num,elastik|adj,fizikal|adj,khinzir|n,komrad|n,lontar peluru|n
-伸颈	jenguk,menjengah|v
+伸颈	menjengah|v
 伸颈张	menjengah|v
 伸颈张望	menjengah|v
-伸颈或	jenguk
-伸颈或弯	jenguk
-伸颈或弯身	jenguk
-伸颈或弯身探	jenguk
 伸颈或弯身探望	jenguk
-券	bunduki|n,ulat tiket|n
-券黄	ulat tiket|n
-券黄牛	ulat tiket|n
-吸	hisap|n,irup,isap,kesip,menghirup,menghisap,menyedut,nyunyut|v
-吸入	hidu|v,hisap|n,pedap,sedut|v
-吸力	graviti|n
+吸	hisap|n,serap|v,nyunyut|v,isap,kesip,irup,menghisap,menyedut
+吸入	sedut|v,hidu|v,hisap|n,pedap
 吸叫	serap|v
 吸墨	sap
 吸墨水	sap
 吸墨水纸	sap
 吸干	mengelap
-吸引	afsun|n,amang|n,magnet|n,menawan,terpesona
+吸引	afsun|n,menawan
 吸引人	menawan
-吸引住	terpesona
-吸引力	afsun|n,amang|n,magnet|n
-吸引力的	amang|n,magnet|n
-吸引力的人	magnet|n
-吸收	isap,mesra|adj,absorptif|adj,berdaya serap|adj,masuk melayu|v,penyerap|n
-吸收剂	penyerap|n
-吸收器	penyerap|n
+吸引力	afsun|n
+吸收	mesra|adj,isap,absorptif|adj,berdaya serap|adj,masuk melayu|v
+吸收器吸收剂	penyerap|n
 吸收性	absorptif|adj,berdaya serap|adj
 吸收性的	absorptif|adj,berdaya serap|adj
 吸收进	masuk melayu|v
-吸毒	kaki dadah|n,mat dadah|n
-吸毒者	kaki dadah|n,mat dadah|n
-吸气	sedut|v
-吸水	kertas pedap,kertas tap,lap|n
-吸水纸	kertas pedap,kertas tap,lap|n
+吸毒	mat dadah|n,kaki dadah|n
+吸毒者	mat dadah|n,kaki dadah|n
+吸水	lap|n,kertas tap,kertas pedap
+吸水纸	lap|n,kertas tap,kertas pedap
 吸烟	merokok|v,perokok|n
 吸烟者	perokok|n
 吸者	penghisap
 吸血	tenggelung
 吸血鬼	tenggelung
-吸附	pasir ris
-吸附剂	pasir ris
 吸食	menyunyut
-咸	masin|adj,air masin|n,garamabu,ikan asin,konbif|n,payau
+咸	masin|adj,air masin|n,garamabu,ikan asin
 咸水	air masin|n,garamabu
 咸牛	konbif|n
 咸牛肉	konbif|n
-咸的	payau
+咸盐	garam|n
 咸鱼	ikan asin
-夸	berakah,gembur|v,memamerkan,membesarkan|v,memegahkan,memperbesarkan,mengagung-agungkan,menyombongkan
+夸	peraga,berakah,memamerkan,memegahkan,menyombongkan
 夸口	berakah
-夸大	gembur|v,membesarkan|v,memperbesarkan,mengagung-agungkan,sembang konek|v,sembang kote|v
-夸示	memamerkan,peraga
+夸大	gembur|v,membesarkan|v,sembang kote|v,sembang konek|v,mengagung-agungkan,memperbesarkan
+夸示	peraga,memamerkan
 夸耀	memegahkan,menyombongkan
-尸	bangkai|n,autopsi|n,koroner|n,mayat|n,pacai,rahap
-尸体	mayat|n,autopsi|n
-尸体解	autopsi|n
-尸体解剖	autopsi|n
-尸官	koroner|n
-尸布	rahap,pacai
-尸布上	pacai
-尸布上的	pacai
-尸布上的白	pacai
-尸布上的白檀	pacai
-尸布上的白檀香	pacai
-尸布上的白檀香粉	pacai
-岸	tebing|n,darat|n,kinabatangan,lendih,mendamparkan,mendarat,rantau|n,seberang|n
-岸地	mendamparkan
-岸地的	mendamparkan
-岸地的洗	mendamparkan
-岸边	terdampar
-常	kelewat,abdi|n,acak|adj,acapkali|adv,ajaran sesat|n,beria-ria,biasa|adj,biasanya|adv
-常会	cakapan sehari-hari
-常会话	cakapan sehari-hari
-常常	acak|adj,acapkali|adv,kerap|adj,madang,semedang,senantiasa,seringkali,ulang kali
+尸	bangkai|n,mayat|n,rahap
+尸体	mayat|n
+尸布	rahap
+岸	tebing|n
+岸然	serius|adj
+岸边	pesisir|n
+常	pemalar|n,kerap|adj,acak|adj,kelewat,madang,acapkali|adv,semedang,senantiasa
+常任	kekal|adj
+常常	kerap|adj,acak|adj,madang,acapkali|adv,semedang,senantiasa,seringkali,ulang kali
+常态	biasa|adj
 常数	pemalar|n
-常明	cemerlang|adj
-常明亮	cemerlang|adj
-常是	abdi|n
-常是王	abdi|n
-常是王宮	abdi|n
-常是王宮僕	abdi|n
-常是王宮僕人	abdi|n
-常是王宮僕人穿	abdi|n
-常是王宮僕人穿的	abdi|n
-常烈	kebayakan
-常烈啤	kebayakan
-常烈啤酒	kebayakan
-常的	ajaran sesat|n,bukan barang-barang,dahsyat|n,ghalib,gila bahasa,hebat|adj,lasak,luar biasa|adj
-常的人	ajaran sesat|n
+常时	biasanya|adv,acap|adv
+常法	konvensyen|n
 常识	budi bicara
-常饮	pemakanan|n
-常饮食	pemakanan|n
-常高	beria-ria
-常高兴	beria-ria
-庸	leta,mubah
+常驻	kekal|adj,penduduk|n
 庸俗	leta
 庸俗的	leta
-庸的	mubah
-悸	berdenyut,denyut,temut
-悸动	berdenyut,denyut,temut
-核	isirung,bawasir,biji-bijian,cocokkan,gundu,inti,kelentit|n,kuliji
+悸	temut,denyut,berdenyut
+悸动	temut,denyut,berdenyut
+核	isirung,inti,kuliji
 核壳	kuliji
 核子	nuklear|adj
 核子的	nuklear|adj
+核定	azam|n
 核对	cocokkan
 核心	inti
-核树	sentul|n
-核的	lekang,longkah
-永	abad al-abad|n,abadi|adj,abadiah|adj,kekal|adj,kekal-abadi,mengabadikan|v,selama-lamanya|adv,selamanya|adv
-永久	mengabadikan|v
+核球	teras|n
+永	kekal|adj,abad al-abad|n,selamanya|adv
+永不	tidak pernah|adv
+永世	abad al-abad|n
+永久	kekal|adj,abad al-abad|n
+永久性	kekal|adj
 永恒	abadi|adj,abadiah|adj,kekal-abadi
 永恒不	kekal-abadi
 永恒不变	kekal-abadi
 永恒的	abadi|adj,abadiah|adj
-永远	abad al-abad|n,kekal|adj,selamanya|adv,selama-lamanya|adv
+永矢	abad al-abad|n
+永远	kekal|adj,abad al-abad|n,selama-lamanya|adv,selamanya|adv
 永远的	selama-lamanya|adv
-沸	didih|v,gelegak,gelogok,golak,luap,meluap,mendidih|v,menggelegak
+沸	didih|v,mendidih|v,gelogok,luap,gelegak,golak,meruap,ruap
 沸滚	golak
-沸腾	didih|v,gelegak,gelogok,golak,luap,meluap,mendidih|v,menggelegak
-涸	alahan
-涸的	alahan
-涸的河	alahan
-涸的河床	alahan
-游	ambal,aneka ragam,berarak,berenang|v,berjalan-jalan,bertualang,darmawisata,embara
+沸腾	didih|v,mendidih|v,gelogok,luap,gelegak,golak,meruap,ruap
+游	pelancong|n,najam|n,permainan|n,pawai|n,jajah|v,menjajah|v,jelajah|v,renang|v
 游上	mundar-mandir
 游上游	mundar-mandir
 游上游下	mundar-mandir
-游下	mundar-mandir
-游业	pelancongan|n
-游乐	taman hiburan|n
-游乐场	taman hiburan|n
 游击	gerila|n,gerilawan
 游击队	gerila|n,gerilawan
 游击队员	gerilawan
-游历	jajah|v,jelajah|v,kunjungan,menjajah|v,menjelajah
-游客	musafir,pelancong|n
-游戏	permainan|n,gelembung-gelembungan,hibira|n,lerap,permainan video|n,tempong,terup
+游动	mudah alih|adj
+游历	jajah|v,menjajah|v,jelajah|v,kunjungan,menjelajah
+游园会	adil|adj
+游客	pelancong|n,musafir
+游戏	permainan|n
 游星	najam|n
 游民	kelana
-游泳	berenang|v,renang|v,kolam mandi
+游泳	renang|v,berenang|v,kolam mandi
 游泳池	kolam mandi
 游牧	nomad
 游牧民	nomad
 游牧民族	nomad
-游玩	berjalan-jalan,melancong|v,pelesir,pesiar
-游艺	aneka ragam,pestaria
-游艺会	aneka ragam,pestaria
-游荡	bertualang,embara
-游行	berarak,pawai|n,perarakan,perbarisan|n,ambal,temasya
-游行盛	temasya
-游行盛会	temasya
+游玩	melancong|v,pesiar,pelesir,berjalan-jalan
+游离	gratis|adj
+游艺	pestaria,aneka ragam
+游艺会	pestaria,aneka ragam
+游荡	embara,bertualang
+游行	pawai|n,perbarisan|n,berarak,perarakan
 游览	darmawisata
-炸	menggoreng,merendang,pengeboman,anak ikan|n,ayam goreng|n,bahan letupan|n,bom|n,dinamit
-炸圈	donat|n
-炸圈饼	donat|n
+炸	bom|n,pengeboman,merendang,menggoreng,ayam goreng|n,bahan letupan|n,dinamit,meledakkan
 炸土	kerepek kentang|n
 炸土豆	kerepek kentang|n
 炸土豆片	kerepek kentang|n
-炸声	letus
 炸弹	bom|n
-炸机	pengebom
 炸毁	meledakkan
-炸糕	jeluari
-炸糕饼	jeluari
-炸药	bahan letupan|n,dinamit,kordit|n
+炸药	bahan letupan|n,dinamit
 炸薯	kentang goreng|n
 炸薯条	kentang goreng|n
-炸食	anak ikan|n
-炸食物	anak ikan|n
 炸鸡	ayam goreng|n
+爸爸	baba|n
 簸	tampi|v,kisai,menampi
 簸筛	kisai
 簸米	menampi
-纸	kapal terbang kertas|n,kertas|n,akhbar|n,angkertas,carta|n,daun pakau,fail|n,kadbod
+纸	carta|n,fail|n,kertas|n,kapal terbang kertas|n,wau|n,tukil|n,kalamdan,angkertas
+纸剂	carta|n
 纸夹	fail|n
 纸币	angkertas
-纸牌	carta|n,daun pakau,kartu,pakau,terup
+纸牌	carta|n,daun pakau,kartu,pakau
 纸盒	kalamdan
 纸筒	tukil|n
 纸鸢	wau|n
-缸	akuarium|n,kolah,silinder|n,tab mandi|n
-耸	jongkar,julang|v,kebongkokkan|n,lonjak,menjulang|v,mongkok,tersergam
+耸	lonjak
 耸出	jongkar
-耸的	mongkok,tersergam
-耸肩	lonjak,kebongkokkan|n
-耸肩弓	kebongkokkan|n
+耸肩	lonjak
 耸肩弓身	kebongkokkan|n
 耸肩弓身的	kebongkokkan|n
-脸	ajah,berseba|v,muka|n,seba|v,wajah|n,fadihat,mewek,ogak-ogak
-脸去	paling|adv
-脸欲	mewek
-脸欲苦	mewek
-脸的	selamba|adj
+脸	muka|n,wajah|n,seba|v,berseba|v,ajah,singki|n
+脸孔	muka|n
+脸巴子	pipi|n
+脸庞	muka|n
+脸皮	muka|n,pipi|n
 脸盆	singki|n
+脸盘儿	muka|n
 脸色	pasi
 脸色苍	pasi
 脸色苍白	pasi
-蒸	mengukus,ap,bertangas,kukus|adj,petrol|n,sejat,sejatan,stim|n
+脸蛋	muka|n,pipi|n
+脸蛋儿	muka|n,pipi|n
+脸蛋子	muka|n,pipi|n
+脸部	muka|n
+脸面	muka|n
+脸颊	pipi|n
+芸苔子	rogol|n
+芸薹	rogol|n
+蒸	wap|n,stim|n,mengukus,uap|v,kukus|adj,sejat,ap,sejatan
 蒸发	sejat,sejatan
-蒸气	ap,uap|v,bertangas,uap air
-蒸气浴	bertangas
-蒸汽	stim|n,wap|n
-蒸餾	petrol|n
-蒸餾重	petrol|n
-蒸餾重整	petrol|n
+蒸气	uap|v,ap
+蒸汽	wap|n,stim|n
 蒸馏	kukus|adj
-蘸	cecap|v
-蘸食	cecap|v
-蘸食物	cecap|v
-蘸食物来	cecap|v
-蘸食物来尝	cecap|v
-蘸食物来尝味	cecap|v
-蘸食物来尝味道	cecap|v
-许	agaknya|adv,bangkali,barangkali|adv,benarkan|v,boleh jadi|int,dikit|n,francaisi|n,francaisor|n
-许发	kontinjen|n
-许发生	kontinjen|n
-许发生的	kontinjen|n
-许可	benarkan|v,ijazah,izin|n,keizinan,membekas|v,membolehkan,memperbolehkan
+许	izin|n,benarkan|v,membekas|v,ijazah,keizinan
+许可	izin|n,benarkan|v,membekas|v,ijazah,keizinan,membolehkan,memperbolehkan
+许可…诺言	menjanjikan
 许可证	membolehkan,memperbolehkan
-许的	insya allah
-许的话	insya allah
-许者	francaisor|n
-许证	francaisi|n
-许证持	francaisi|n
-许证持有	francaisi|n
-许证持有人	francaisi|n
-许进	kemasukan|n
-许进入	kemasukan|n
-贸	perdagangan,perniagaan,rahsia perniagaan|n
-贸易	perdagangan,perniagaan,rahsia perniagaan|n
-贸易秘	rahsia perniagaan|n
-贸易秘密	rahsia perniagaan|n
-逸	lega|adj,lepas|adj,minggat
-霸	ketuanan|n
+许诺	ikrar|n
+贸	perniagaan,perdagangan
+贸易	perniagaan,perdagangan
+贸易秘密商业秘密	rahsia perniagaan|n
 霸主	ketuanan|n
 霸主地	ketuanan|n
 霸主地位	ketuanan|n
+霸气	agresif|adj
 骸	bangkai|n,kerangka
 骸骨	bangkai|n,kerangka
-鲸	paus omura|n,paus|n,paus balin|n,paus biru|n,paus kelabu|n,paus kelasa|n,paus kepala busur|n,paus pandu|n
-鲸科	paus kelabu|n
+鲸	paus|n
+鲸捕鲸使惨败	paus omura|n
 鲸鱼	paus|n

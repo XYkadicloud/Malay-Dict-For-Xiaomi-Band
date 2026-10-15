@@ -30,7 +30,7 @@ kacanggoreng	kacang goreng		炒豆，炒花生
 kacanghijau	kacang hijau	n	绿豆	mung bean; green gram
 kacangpanjang	kacang panjang	n	豆子  油嘴	yardlong bean (Vigna unguiculata subsp. sesquipedalis)
 kacangputeh	kacang puteh	n	不同的	various kinds of nuts traditionally sold by Indian vendors at cinemas
-kacangputih	kacang putih	n	两者择一
+kacangputih	kacang putih	n	两者择一	alternative form of kacang puteh
 kacangtanah	kacang tanah	n	花生	peanut
 kacau	kacau		打扰，混乱	chaotic; messy; confused; disordered (in a state of confu…
 kacaubilau	kacau-bilau		混乱，骚乱，乱七八糟
@@ -89,7 +89,6 @@ kajialamhaiwan	kaji alam haiwan	n	动物生态学	zooecology (branch of ecology)
 kajialamhayat	kaji alam hayat	n	生态学	ecology (branch of biology)
 kajian	kajian		研究
 kajiangkasa	kaji angkasa	n	高空气象学  空气学	aerology (branch of meteorology)
-kajiangkasa	kajiangkasa		气象学
 kajibahasa	kaji bahasa	n	语文学	philology (historical linguistics)
 kajihaiwan	kajihaiwan		动物学
 kajimanusia	kajimanusia		人类学
@@ -129,7 +128,6 @@ kaku	kaku		硬，坚的，僵硬
 kala	kala	n	期间	time; period; era; season (a specific point in time  epoch  or duration).
 kalah	kalah	v	输	defeated  lost		menang
 kalajengking	kala jengking	n	蝎子	scorpion
-kalajengking	kalajengking		蝎
 kalak	kalak		颠倒，杂乱无章
 kalakian	kalakian		其时，其次，再者
 kalam	kalam	n	笔	pen
@@ -148,8 +146,8 @@ kaleidoskop	kaleidoskop		万花筒
 kalendar	kalendar	n	日历	calendar (system by which time is divided)
 kalendargregory	kalendar gregory	n	格列高利历	Gregorian calendar.
 kaleng	kaleng	n	洋铁，白铁	tin (metal  element)
-kaler	kaler	n	同义词
-kali	kali	v	回，次，乘，倍数
+kaler	kaler	n	同义词	Synonym of warna (“colour”)
+kali	kali	v	回，次，乘，倍数	obsolete form of gali
 kalian	kalian	pron	秒	Second person plural pronoun; you (plural)  you all  you guys.
 kalifornium	kalifornium	n	锎  锎Cf	californium (chemical element)
 kalih	kalih		移动，转移
@@ -159,7 +157,7 @@ kalimat	kalimat	n	句子	sentence
 kaling	kaling		马口铁，洋铁罐
 kalium	kalium	n	钾  钾K	potassium (the chemical element)
 kalkulator	kalkulator	n	计算者	calculator
-kalo	kalo	conj	两者择一
+kalo	kalo	conj	两者择一	alternative form of kalau (“if”)
 kalong	kalong	n	狐蝠	A fruit bat or megabat.
 kalori	kalori		卡路里
 kalsium	kalsium	n	钙	calcium (chemical element)
@@ -177,8 +175,8 @@ kambeli	kambeli		毛布，羝毯
 kambi	kambi		框架
 kambing	kambing	n	山羊	goat (animal)
 kambingbatu	kambing batu	n	猪	A pig.
-kambingbebiri	kambing bebiri	n	两者择一
-kambingbiribiri	kambing biri-biri	n	绵羊
+kambingbebiri	kambing bebiri	n	两者择一	alternative form of biri-biri
+kambingbiribiri	kambing biri-biri	n	绵羊	alternative form of biri-biri
 kambinghitam	kambing hitam	n	替罪羔羊	scapegoat  black sheep
 kambingranduk	kambing randuk		公羊
 kambus	kambus		切断，填土，填塞
@@ -186,11 +184,11 @@ kamera	kamera	n	照相机	camera (device for taking photos or videos)
 kamfor	kamfor	n	樟脑  樟脑	camphor
 kami	kami	pron	我们	Exclusive first person plural pronoun; we  us (excluding the person spoken to).
 kamiran	kamiran	n	整体	integral
-kamis	kamis		两者择一
+kamis	kamis		两者择一	alternative form of Khamis
 kampanye	kampanye	n	战役	campaign (series of operations undertaken to achieve a set goal)
 kampar	kampar		金宝	Kampar (a town in the state of Perak  Malaysia)
 kampit	kampit		草袋
-kampong	kampong	n	荒废的
+kampong	kampong	n	荒废的	obsolete spelling of kampung
 kampung	kampung	n	村庄	village (a rural habitation of size between a hamlet and a town)
 kampus	kampus		大学校园	campus (grounds or property of a university or a tertiary…
 kamu	kamu	pron	你，你们	you (singular  familiar)
@@ -323,12 +321,11 @@ kasi	kasi	v	弹性	to give
 kasih	kasih	n	爱，爱情	love  care  affection
 kasihan	kasihan	adj	可怜，怜惜	pitiful
 kasihsayang	kasih sayang	n	关爱
-kasihsayang	kasih-sayang		恋爱，爱情
 kasim	kasim		阉
 kasima	kasima		口瞪目呆，愕然
 kasino	kasino	n	卡西诺赌场	casino
 kasip	kasip		迟，延迟
-kasmaran	kasmaran	v	恋爱
+kasmaran	kasmaran	v	恋爱	to be lovestruck  to be madly in love
 kasta	kasta	n	阶级，等级	caste:
 kastam	kastam		关税，关税局
 kastard	kastard	n	蛋奶糕  乳蛋糕	custard
@@ -345,7 +342,7 @@ katahubung	kata hubung	n	连接词	conjunction
 katai	katai	adj	假装的	Affected by dwarfism; dwarf.
 katak	katak	n	青蛙	frog (amphibian)  toad.			kodok
 katakan	katakan	v	不定式 不定式的	Infinitive of mengatakan.
-katakatai	kata-katai	v	同义词
+katakatai	kata-katai	v	同义词	Synonym of katai.
 katakerja	kata kerja	n	动词  动词	verb
 katakpuru	katak puru	n	蟾蜍	toad
 katalaluan	kata laluan	n	密码	password
@@ -407,13 +404,12 @@ kawasanperindustrian	kawasan perindustrian	n	工业区	industrial park; industri
 kawasanrehat	kawasan rehat	n	支托区	rest area; service area
 kawat	kawat	n	丝，铁丝	wire
 kawi	kawi		古代爪哇语
-kawin	kawin	v	两者择一
+kawin	kawin	v	两者择一	alternative form of kahwin
 kawula	kawula	n	奴隶	slave
 kaya	kaya	adj	富有	Rich:		miskin
 kayangan	kayangan	n	天堂	paradise  heaven (the abode of the gods)
 kayap	kayap		疗疮
 kayaraya	kaya raya	adj	真正的	Very rich
-kayaraya	kaya-raya		富裕，有钱
 kayau	kayau	v	首，猎人头	to headhunt
 kayu	kayu	n	木头	tree; plant (especially in botanical  compound  or literary contexts).
 kayuapi	kayu api	n	木柴	firewood
@@ -421,5 +417,5 @@ kayuh	kayuh	n	桨，桡	oar
 kayukayan	kayu-kayan		各种各样的木材
 kayukayuan	kayu-kayuan		各种各样的木材
 kayumanis	kayu manis	n	肉桂	cinnamon
-kayuputih	kayu putih	n	同义词
+kayuputih	kayu putih	n	同义词	synonym of gelam (“cajuput tree; Melaleuca leucadendra”)
 kayusugi	kayu sugi	n	口香藤	miswak; chewstick.

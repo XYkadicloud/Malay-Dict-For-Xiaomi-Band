@@ -93,7 +93,7 @@ depanhidung	depan hidung		在...之下	under someone's nose
 depoh	depoh	n	停车场	depot (storage facility  esp. one for vehicles)
 dera	dera		鞭刑，体刑
 derai	derai		滴滴声，淅沥声，分散，四散
-derajat	derajat	n	两者择一
+derajat	derajat	n	两者择一	alternative form of darjah
 deram	deram		轰隆声，吼声，沉重声音
 deraman	deraman		男人	a male given name from Arabic
 derana	derana	adj	病人	patient

@@ -1,2 +1,2 @@
-lg	lg	conj	abbr.；水平规
-lge	lge		词首字母缩略词
+lg	lg	conj	abbr.；水平规	abbreviation of lagi (“again”)
+lge	lge		词首字母缩略词	initialism of Lim Guan Eng (Malaysian politician and accountant)

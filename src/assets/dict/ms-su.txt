@@ -12,7 +12,7 @@ suap	suap		一口，一满口
 suapbalik	suap balik	n	反馈	feedback
 suar	suar		烽火，灯火
 suara	suara	n	声音	voice  utterance
-suari	suari	n	花枕，火鸡
+suari	suari	n	花枕，火鸡	alternative form of kasuari
 suasana	suasana		空气，气候，环境
 suasti	suasti	n	财富	fortune  prosperity
 suatu	suatu	det	某一，一个	certain  particular			satu,sebuah,seekor,seorang
@@ -64,7 +64,6 @@ sukatan	sukatan		容量，容积，课程纲要
 sukma	sukma	n	魂，生命	soul  life
 suku	suku	n	四分之一	quarter  fourth  ¹⁄₄ (mathematics)
 sukukata	suku kata	n	音節 語彙 延伸阅读	syllable
-sukukata	sukukata		音节
 sukun	sukun	n	面，包果	breadfruit  fruit of the tropical tree Artocarpus altilis
 sula	sula		尖铁舂	A genus of sea birds including the booby and the common\n…
 sulah	sulah		光秃的
@@ -84,7 +83,7 @@ suluk	suluk		退居，引退	Tausug; Suluk
 sulung	sulung	adj	年长的，最长的	earliest; eldest
 sulur	sulur	v	突出，发出，茁芽	to grow upwards (shoot or bud)
 sulurbulur	sulur-bulur		纠缠
-suma	suma	adj	两者择一
+suma	suma	adj	两者择一	alternative form of semua
 sumbang	sumbang	v	有助于	to contribute
 sumbangan	sumbangan	n	捐赠物	donation  contribution
 sumbangsih	sumbangsih		赞助，支持
@@ -98,7 +97,7 @@ sumpah	sumpah	n	誓言，誓约	oath
 sumpahseranah	sumpah seranah	n	咒骂	curse
 sumpahsumpah	sumpah-sumpah	n	变色龙	chameleon  any species belonging to the Chameleonidae family			bunglon,kameleon,kelelesa
 sumpit	sumpit	n	草袋的一种，使用吹箭	a blowpipe (weapon).
-sumpitan	sumpitan	n	吹箭
+sumpitan	sumpitan	n	吹箭	alternative form of sumpit (“blowpipe”)
 sumsum	sumsum		髓，骨髓
 sumur	sumur		井
 sunat	sunat	n	割礼	circumcision (excising foreskin from penis)
@@ -107,7 +106,7 @@ sundari	sundari		女人名，深爰的
 sungai	sungai	n	河	river (large stream which drains a landmass)
 sungainil	sungai nil		尼罗河
 sungaiujong	sungai ujong		芙蓉	Seremban (the capital city of Negeri Sembilan  Malaysia)
-sungei	sungei	n	荒废的
+sungei	sungei	n	荒废的	obsolete spelling of sungai
 sungguh	sungguh	adj	实在的，真实的，历害的	true; real; authentic (in accordance with fact or reality).
 sungguhhati	sungguh hati		热心的
 sungguhpun	sungguhpun		虽然，纵使
@@ -133,10 +132,10 @@ sup	sup	n	汤	take solid or liquid food into the mouth a little at a ti…
 supaya	supaya	conj	俾使，以致	so that (in order to)
 supayajangan	supaya jangan		否则，免
 superioriti	superioriti	n	优越	superiority
-superlatif	superlatif	adj	最上的
+superlatif	superlatif	adj	最上的	superlative
 superman	superman	n	说谎 横躺的	lying flat on the stomach when riding the motorcycle
 supik	supik	n	塑料袋	plastic bag (East coast)
-supir	supir	n	同义词
+supir	supir	n	同义词	synonym of pemandu (“chauffeur; driver”)  Indonesian informal spelling
 sura	sura		回历一月	one of the sections (or chapters) in the Koran
 surah	surah	n	可兰经的章	sura
 surai	surai	n	髻，鬃，分离	mane of horses  lions
@@ -148,10 +147,8 @@ suratjemputan	surat jemputan		请柬
 suratkan	suratkan	v	赤裸的	bare form of menyuratkan (“to write someone something; to write something”)
 suratkawat	surat kawat		电报
 suratkhabar	surat khabar	n	报纸	newspaper
-suratkhabar	suratkhabar	n	报纸
 suratlahir	surat lahir		报生纸
 suratmenyurat	surat menyurat		通讯
-suratmenyurat	surat-menyurat	v	书信	to send letters to each other
 suratubat	surat ubat	n	处方	prescription
 surau	surau	n	回教小寺院	a small room in any public building where Muslims pray.
 suri	suri	n	王后	queen (female monarch  queen regnant)
@@ -168,7 +165,7 @@ suryani	suryani	adj	叙利亚的	Syriac
 susah	susah	adj	困难 麻烦	difficult; hard; arduous (not easy to do  understand  or solve).		senang
 susahhati	susah hati		烦恼
 susahkan	susahkan		使困难，使麻烦
-sushi	sushi	n	n. 寿司（生鱼片冷饭团）
+sushi	sushi	n	n. 寿司（生鱼片冷饭团）	nonstandard spelling of susyi
 susila	susila	n	礼仪	appropriate social behaviour  decorum
 suspek	suspek	n	被怀疑者	suspect (person who is suspected of something)
 suspens	suspens		忧虑，挂虑

@@ -1,7 +1,7 @@
-it	it	n	词首字母缩略词
+it	it	n	词首字母缩略词	initialism of teknologi maklumat (“information technology”)
 itali	itali		意大利	Italy (a country in Southern Europe)
-itam	itam	adj	两者择一
-itek	itek	n	两者择一
+itam	itam	adj	两者择一	alternative form of hitam (“black”)
+itek	itek	n	两者择一	alternative form of itik
 iterbium	iterbium	n	镱  镱Yb	ytterbium (chemical element)
 itik	itik	n	鸭子	duck
 itikad	itikad		信心，决心

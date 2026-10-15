@@ -1,7 +1,7 @@
 taasub	taasub	adj	狂热者	fanatic
 tabib	tabib	n	医生	doctor  physician
 tabik	tabik	n	行礼	salute  greeting
-tabir	tabir	n	同义词
+tabir	tabir	n	同义词	synonym of langsir (“curtain”)
 tabmandi	tab mandi	n	浴缸	bathtub
 tabuh	tabuh	n	长的	a long mosque drum
 tabung	tabung	n	任何的 任何	any tube (anything that is hollow and cylindrical in shape)
@@ -34,37 +34,37 @@ tahuncahaya	tahun cahaya	n	光年	lightyear (astronomical distance)
 tahunlompat	tahun lompat	n	闰年	leap year
 tahunmasihi	tahun masihi	n	耶稣纪元	Anno Domini  AD
 taifah	taifah	n	分支	An offshoot of a larger religion or denomination; a sect.
-taik	taik	n	两者择一
-taikhidung	taik hidung	n	同义词
+taik	taik	n	两者择一	alternative form of tahi: poop; shit; defecation
+taikhidung	taik hidung	n	同义词	synonym of tahi hidung
 taip	taip	v		to type (of keyboard  typewriter)
 tajak	tajak	v	猛砍	to slash; to clear weeds (using a tajak).
 tajam	tajam	adj	锋利	sharp:		tumpul
 tajamtajam	tajam-tajam	adj	真正的	very sharp; having a very pointed or cutting quality
 tak	tak	adv	听起来像...	not (negates the meaning of the verb)			gak
-takada	tak ada	prep	两者择一
-takah	takah	n	同义词
-takakan	tak akan	adv	两者择一
-takapa	tak apa		两者择一
+takada	tak ada	prep	两者择一	alternative form of tidak ada
+takah	takah	n	同义词	synonym of takok: notch  especially for climbing trees.
+takakan	tak akan	adv	两者择一	alternative form of tidak akan
+takapa	tak apa		两者择一	alternative form of tidak apa (“it's okay; never mind; no problem”).
 takar	takar	n	陶制容器	an earthenware vessel with a narrow neck; a glass or porcelain ginger jar
 takat	takat	prep	向上的	up to; as far as; until (indicating a limit in space  time  or degree).
 takbir	takbir	n	宣言	takbir: A proclamation of the greatness of God  "Allahu akbar".
 takbirraya	takbir raya	n	专辑	a special takbir prayer to God uttered before the Eid al-Fitr prayers.
-takda	takda	prep	两者择一
+takda	takda	prep	两者择一	alternative form of tidak ada
 takguna	tak guna	adj	无用的	useless  futile; alternative form of tidak berguna
 takhta	takhta	n	王座，寶座 近义词 語彙	throne
 takhtarawan	takhta rawan	n	国王	king's palanquin
 takion	takion	n	超光速粒子	tachyon
-takkan	takkan	adv	两者择一
+takkan	takkan	adv	两者择一	alternative form of tidak akan
 takleh	takleh	v	无法	Cannot.
 taknak	taknak	v	需要的东西	not want
 takorganik	tak organik	adj	无机的	inorganic (relating to a compound that does not contain carbon)
-takpa	takpa		两者择一
+takpa	takpa		两者择一	alternative form of tidak apa
 takpayah	tak payah	adv	否定	Negative imperative marker  similar to English imperative don't.
-takpernah	tak pernah	adv	两者择一
+takpernah	tak pernah	adv	两者择一	alternative form of tidak pernah (“never”)
 takraw	takraw	n	藤	a rattan ball used in the game sepak takraw
 takrif	takrif	n	定义	definition
 taksa	taksa	adj	公开	Open to multiple interpretations; ambiguous.
-takse	takse	n	两者择一
+takse	takse	n	两者择一	alternative form of taksir
 taksi	taksi	n	出租车 乘出租车 用出租车送	taxi
 taksir	taksir	n	疏忽	negligence; carelessness
 taksonomi	taksonomi	n	分类学	taxonomy
@@ -73,7 +73,7 @@ takut	takut	adj	害怕	afraid		berani
 takutkan	takutkan	v	使惊吓 惊恐	to frighten; to scare; to intimidate (to cause someone to feel fear)
 takwa	takwa	n	小心	taqwa: the care taken by a person to obey the commands of Allah.
 takwimgregory	takwim gregory	n	格列高利历	Gregorian calendar.
-takyah	takyah	adv	音节主音 音节的
+takyah	takyah	adv	音节主音 音节的	syllabic abbreviation of tak payah
 takziah	takziah	n	哀悼	condolence ("expression of sympathy when someone has died")
 talam	talam	n	托盘	tray
 talas	talas	n	芋头  芋根	taro
@@ -91,7 +91,7 @@ tamanpermainan	taman permainan	n	运动场	playground
 tamantemaair	taman tema air	n	水上公园	water park
 tamar	tamar	n	棗 延伸阅读	date (fruit)
 tamat	tamat	adj	完成的	finished; ended; completed; concluded (having come to an end).
-tamba	tamba	v	其他形式
+tamba	tamba	v	其他形式	obsolete spelling of tambah
 tambah	tambah	v	增加	to add; plus (to perform the mathematical operation of addition).		kurang
 tambak	tambak	n	堤防	embankment  dyke
 tamban	tamban	n	沙丁鱼	sardine  several fishes in the suborder Clupeoidei
@@ -141,7 +141,7 @@ tanglunglabu	tanglung labu	n	杰克博士	jack-o'-lantern
 tani	tani	n	农业	farming
 tanih	tanih	n	土壤	soil (a layer of earth)
 tanjak	tanjak	n	传统的	a traditional Malay headdress for men  especially nobility and royalty
-tanjong	tanjong	n	有日期的
+tanjong	tanjong	n	有日期的	dated form of tanjung
 tanjongmalim	tanjong malim		角	Tanjong Malim (a town in Muallim district  Perak  Malaysia)
 tanjung	tanjung	n	岬	cape (headland)
 tanjungharapan	tanjung harapan		岬	Cape of Good Hope
@@ -164,13 +164,13 @@ tapaktangan	tapak tangan	n	手掌	palm (of the hand)
 tapakweb	tapak web	n	网站	website
 tapatapa	tapa-tapa	n	匹头	pieces of fish sliced very thin  spiced  salted and dried in the sun
 tapau	tapau	v	取走	to take away  to pack food so it can be consumed elsewhere
-tapi	tapi	conj	但是
+tapi	tapi	conj	但是	alternative form of tetapi (“but”)
 tapir	tapir	n	貘  貘	tapir
 tarah	tarah	v	平滑的	to smooth or level wood with a knife
 tarbus	tarbus	n	土耳其无边毡帽	fez (hat)
 tardigrada	tardigrada	n	缓步的	tardigrade
-tarek	tarek	v	荒废的
-tarekan	tarekan	n	两者择一
+tarek	tarek	v	荒废的	obsolete spelling of tarik
+tarekan	tarekan	n	两者择一	alternative form of tarikan
 tarian	tarian	n	跳舞	A dance; synonym of tari
 tarif	tarif	n	关税	a tariff
 tarik	tarik	v	拉	to pull (apply force to (something) so it comes towards one)		tolak
@@ -180,7 +180,7 @@ tarikh	tarikh	n	日期	date (the description of the current time  day  month  ye
 tariktali	tarik tali	n	用力拉	tug of war
 taroh	taroh	v	放	to put
 tarok	tarok	v	两者择一	alternative spelling of taruh (“to put”)
-tarong	tarong	n	荒废的
+tarong	tarong	n	荒废的	obsolete spelling of terung
 taruh	taruh	v	放	to put  to place
 taruk	taruk	n	射击	shoot (emerging stem and embryonic leaves of a new plant); bud
 tarukangsoka	taruk angsoka	n	美丽的	beautiful ears
@@ -199,7 +199,7 @@ taubat	taubat	v	后悔	Repent
 taufan	taufan	n	台风	typhoon
 taufik	taufik		男人	a male given name from Arabic
 tauhu	tauhu	n	豆腐	tofu (protein-rich food made from curdled soybean milk)
-tauk	tauk	v	两者择一
+tauk	tauk	v	两者择一	alternative form of tahu (“to know”)
 tauke	tauke	n	<马来语>中国商人	towkay; shopkeeper; shop owner; business owner
 taukua	taukua	n	豆腐	tofu (protein-rich food made from curdled soybean milk)
 taun	taun	n	传染病	epidemic.

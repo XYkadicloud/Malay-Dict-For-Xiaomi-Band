@@ -14,7 +14,7 @@ akanakan	akan-akan		好像
 akandatang	akan datang		将要来临的
 akang	akang	n	年长的	older sister			kakak
 akantetapi	akan tetapi		但是
-akapela	a kapela	n	荒废的
+akapela	a kapela	n	荒废的	obsolete spelling of a cappella
 akar	akar	n	根	root (of a plant  tooth  hair or word).
 akarkepuk	akar kepuk		贮根
 akartunjang	akar tunjang		直根
@@ -55,7 +55,7 @@ aksi	aksi	n	行动	action (something done so as to accomplish a purpose)
 akta	akta	n	行动	act (statute)
 aktif	aktif	adj	活动，积极 kita bola sepak	Active:
 aktinium	aktinium	n	锕  锕Ac	actinium (chemical element)
-aktivitet	aktivitet	n	同义词
+aktivitet	aktivitet	n	同义词	synonym of aktiviti
 aktiviti	aktiviti	n	活动	activity
 aktres	aktres	n	女演员	actress
 aktu	aktu		时候，时间，时刻

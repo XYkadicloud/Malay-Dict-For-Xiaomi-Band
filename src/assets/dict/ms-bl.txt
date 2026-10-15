@@ -1,4 +1,4 @@
-blm	blm	adv	[化]；双层脂膜
-bln	bln	conj	[经] 十亿
+blm	blm	adv	[化]；双层脂膜	abbreviation of belum (“not yet”)
+bln	bln	conj	[经] 十亿	abbreviation of bulan (“month”)
 blok	blok		座，块	n Russian poet (1880-1921)
 blokkomunis	blok komunis	n	东方人	The Eastern Bloc.

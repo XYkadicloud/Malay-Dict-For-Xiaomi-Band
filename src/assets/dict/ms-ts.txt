@@ -1,2 +1,2 @@
-ts	ts	n	[计] 正文段
+ts	ts	n	[计] 正文段	abbreviation of Teknologis.
 tsunami	tsunami	n	海啸 延伸阅读	tsunami

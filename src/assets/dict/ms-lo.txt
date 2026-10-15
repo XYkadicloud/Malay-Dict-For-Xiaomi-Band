@@ -14,11 +14,11 @@ loghat	loghat	n		dialect (form of a language unique to one particular area)
 logika	logika	n	逻辑	logic:
 loha	loha		午前，上午
 lohoh	lohoh		腐臭的，败坏的
-lohor	lohor	n	中午，正午
+lohor	lohor	n	中午，正午	alternative form of zuhur
 loji	loji	n	寓所，工厂，工场	big building.
 lojik	lojik		逻辑
 lok	lok	adj	弯曲的	crooked (having one or more bends or angles)
-loka	loka	n	同义词
+loka	loka	n	同义词	synonym of dunia (“world”)
 lokan	lokan	n	灶蛎，蚝	a type of edible large clam (Polymesoda placans)
 lokap	lokap	n	拘留所	A temporary jail; a lockup.
 lokasi	lokasi	n	位置	location

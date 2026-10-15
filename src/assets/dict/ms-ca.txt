@@ -42,7 +42,7 @@ cahayamata	cahaya mata		爱人，庞儿
 cahayamatahari	cahaya matahari	n	太阳光	sunlight
 cainis	cainis	n	中文	a Chinese person  especially one who behaves in an arrogant  rude manner.
 cair	cair	adj	液体，流质的	thin: of low viscosity or low specific gravity.
-cairan	cairan	n	两者择一
+cairan	cairan	n	两者择一	alternative form of cecair
 cairkan	cairkan		化为液体，使之溶解
 caj	caj	n	指控	charge (money levied for a service)
 cakap	cakap	v	说 讲	to talk; to speak.		Dia cakap bahasa Melayu.
@@ -80,9 +80,9 @@ cambah	cambah		芽，幼芽
 cambang	cambang		颊，髯
 cambuk	cambuk		鞭，皮鞭
 camca	camca	n	汤匙	spoon
-camna	camna	adv	音节主音 音节的
+camna	camna	adv	音节主音 音节的	syllabic abbreviation of macam mana
 camne	camne	adv	照拼法发音	pronunciation spelling of camna  representing schwa-variety Malay
-camni	camni	adv	音节主音 音节的
+camni	camni	adv	音节主音 音节的	syllabic abbreviation of macam ini
 campah	campah		淡而无味
 campak	campak	n	丢，抛，掷，扔	measles
 campin	campin		冠军
@@ -93,7 +93,7 @@ campurbaur	campur baur		混入，渗入
 campurgaul	campur gaul		来往，交朋友
 campurtangan	campur tangan	n	干涉，参与	intervention
 camti	camti		鞭，藤条
-camtu	camtu	adv	音节主音 音节的
+camtu	camtu	adv	音节主音 音节的	syllabic abbreviation of macam itu
 camuk	camuk		散乱的
 can	can	n	机会	chance (of opportunity)
 canai	canai	n	磨石，磨力石	grindstone  millstone (an abrasive wheel for sharpening  polishing or grinding)
@@ -104,7 +104,7 @@ candat	candat		锚
 candi	candi		佛庙，兴都教的寺庙
 candu	candu	n	鸦片	opium (drug from opium poppy)
 candung	candung	n	帕兰刀	A type of parang whose blade and hilt are made of the same type of metal.
-cane	cane	adv	两者择一
+cane	cane	adv	两者择一	alternative form of macam mana
 cangak	cangak		仰望，向上看
 canggah	canggah		叉，分叉
 canggar	canggar	n	阳物	penis erection
@@ -126,7 +126,7 @@ cantum	cantum	v	结合，合并	to join; to connect; to attach; to unite; to gra
 cantumkan	cantumkan		合并，联合，刊载
 cap	cap	n	印章，图章，商标，印	seal; stamp
 capa	capa	n	艾纳香脑	Ngai camphor (Blumea balsamifera)
-capab	capab	n	两者择一
+capab	capab	n	两者择一	alternative form of capap
 capah	capah	n	木盆，木盘，大浅盘	a round shallow wooden tub  platter or plate
 capai	capai	v	握住，捉住，掌握，达到，取得，获得	to achieve something.
 capaian	capaian	n	通路	access
@@ -143,7 +143,7 @@ capik	capik		跛的；瘫痪
 capit	capit	n	螯	A pincer
 capjari	cap jari	n	指纹，手指印	fingerprint
 capmohor	cap mohor		图章，玺
-capub	capub	n	两者择一
+capub	capub	n	两者择一	alternative form of capap
 capuk	capuk		斑点
 cara	cara	n	方法，样式，时装，习惯，象	manner  means  method  way
 carabarat	cara barat		西洋作风

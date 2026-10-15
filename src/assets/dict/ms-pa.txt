@@ -1,4 +1,4 @@
-pabila	pabila	conj	两者择一
+pabila	pabila	conj	两者择一	alternative form of apabila
 pabrik	pabrik	n	工厂	factory (manufacturing place)
 pabuan	pabuan		船之帆桁，掌帆之横木
 pacai	pacai		葬礼时撒于尸布上的白檀香粉
@@ -47,9 +47,9 @@ pagipagi	pagi-pagi		大清早
 pagoda	pagoda		塔，宝塔	an Asian temple; usually a pyramidal tower with an upward…
 pagut	pagut		啄， 咬
 paha	paha	n	大腿	thigh (upper leg)
-pahal	pahal	adv	两者择一
+pahal	pahal	adv	两者择一	alternative form of apa hal.; What is wrong?
 pahala	pahala	n	报酬，奖赏，功绩，善事	reward
-paham	paham	n	两者择一
+paham	paham	n	两者择一	alternative form of faham
 pahang	pahang		彭亨	Pahang (a state of Malaysia)
 pahangdarulmakmur	pahang darul makmur		官员	official name of Pahang: a state of Malaysia.
 pahar	pahar	n	高脚盆	bronze or copper legged tray
@@ -78,9 +78,8 @@ pakatan	pakatan	n	联盟	alliance  pact
 pakau	pakau		纸牌
 pakbelang	pak belang	n	老虎	tiger (The mammal Panthera tigris)
 pakcik	pak cik	n	叔父	uncle (parent's brother)
-pakcik	pakcik	n	叔，舅	alternative spelling of pak cik
 pakej	pakej	n	包裹	A package:
-paket	paket	n	两者择一
+paket	paket	n	两者择一	alternative form of peket
 pakkaduk	pak kaduk		马来民间故事中之痴汉
 pakma	pakma		一种蔓草之名
 paksa	paksa	v	强迫，压迫，压制	to force  to compel
@@ -243,7 +242,7 @@ papaya	papaya		木瓜	tropical American shrub or small tree having huge deeply�
 paprik	paprik	n	填补	Pad prik.
 para	para	n	诸位，们，全部，所有	shelf
 paradoks	paradoks	n	似非而是的论点	paradox
-paraf	paraf	n	荒废的
+paraf	paraf	n	荒废的	obsolete form of parap
 paragraf	paragraf		段，段落
 parah	parah		严重的，危险的
 parak	parak		分离，隔开，分别，区别
@@ -274,7 +273,7 @@ parkiran	parkiran	n	停车场	car park  parking lot
 parlimen	parlimen	n	国会，议院	parliament
 parlimentergantung	parlimen tergantung	n	hang的过去式和过去分词	hung parliament
 parsi	parsi		波斯	An old name of Iran used before 1935.
-partai	partai	n	两者择一
+partai	partai	n	两者择一	alternative form of parti (“political party”)
 parti	parti	n	党，政党，集会	A party:
 partiajaransesat	parti ajaran sesat		伊斯兰教的	Pan-Malaysian Islamic Party
 partikerajaan	parti kerajaan	n	判决	Ruling or governing party.
@@ -289,9 +288,9 @@ parut	parut	n	疤痕	scar
 pas	pas	adj	通行证，适合的，刚好	apheretic form of lepas.
 pasah	pasah		离婚，取消婚约
 pasak	pasak	n	钉，木钉，栓，楔	pin; nail; peg; wedge; bolt
-pasal	pasal	n	章节，段，项
+pasal	pasal	n	章节，段，项	alternative form of fasal
 pasang	pasang	num	一双	pair; couple
-pasanggerahan	pasanggerahan	n	两者择一
+pasanggerahan	pasanggerahan	n	两者择一	alternative form of pesanggerahan
 pasar	pasar	n	市场	A market.		Saya pergi pasar.
 pasaran	pasaran	n	市场	A market:
 pasarandunia	pasaran dunia		世界市场
@@ -314,7 +313,7 @@ pasportinternasional	pasport internasional		国际护照
 pasportterhad	pasport terhad		限制护照
 pasta	pasta	n	意大利面食  糊剂	pasta
 pasti	pasti	adj	确实的，一定的，必然的	sure  certain
-pastu	pastu	adv	两者择一
+pastu	pastu	adv	两者择一	alternative form of lepas tu
 pasu	pasu	n	盆	pot
 pasuk	pasuk		群，集团，军队，队伍
 pasukan	pasukan	n	部队，队伍	team
@@ -331,7 +330,7 @@ patani	patani			Patani (a historical region of Thailand)
 patas	patas		楼上	A West African long-tailed monkey (Cercopithecus ruber)…
 patera	patera	n	叶	leaf (part of a plant)
 pateri	pateri		焊，焊接
-pati	pati		精华，精髓，要素，要点
+pati	pati		精华，精髓，要素，要点	acronym of pendatang asing tanpa izin (“illegal immigrant”  literally
 patih	patih		服从的，顺从的，大臣，宰相
 patik	patik	pron	臣，奴	I  me  my (exclusive use to face royalties)
 patil	patil		小斧，用斧砍

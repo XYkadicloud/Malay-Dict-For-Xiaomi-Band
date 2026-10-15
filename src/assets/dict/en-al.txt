@@ -1,0 +1,347 @@
+alarm	penggera|n
+albania	albania
+alchemy	alkimia|n
+alcohol	alkohol|n
+alcoholic	mat botol|n,kaki botol|n,kaki minum|n
+alcoholic beverage	arak|n
+alcoholic beverages	minuman keras|n
+alexandria	iskandariah
+algae	ganggang|n
+algeria	aljazair
+algorithm	algoritma|n
+alien	makhluk asing|n
+all	semua|pron,sekalian|det,serba
+all kinds of	pelbagai|adj
+all kinds of vegetable	sayur-mayur|n
+all of them	semuanya|n,kesemuanya|pron
+all right	baiklah|int
+allah	allah,dewata mulia raya
+allahu akbar	takbir|n
+allegedly	konon|adv,kononnya|adv
+allergic	alah|adj
+allergy	alergi|n
+alleviated feeling free from pain	lega|adj
+alliance	pakatan|n,perikatan|n
+allied	bersekutu|v
+allium sativum	dasun|n
+allotment	bahagian|n
+allure	pukau|n
+alluvial mine	kelian|n
+ally	sekutu|n
+almond	badam|n
+almost	hampir|adv
+alms	derma|n,sedekah|n
+alocasia spp	birah|n
+aloe vera	lidah buaya|n
+along	sepanjang|prep
+alor setar the capital city of the state of kedah	alor setar
+alphabetization	pengabjadan|n
+alpinia javanica	tepus|n
+already	telah|adv
+already late	terlambat
+also	pun|adv,juga|adv
+also known as kratom	ketum|n
+alt of jinn	jin
+alt of kadiaster	kadi
+alt of sangu	sanga
+altar	mazbah|n
+alternative form of -lah	le|part
+alternative form of aba	aba-aba|n
+alternative form of abad al-abad	abad al-abid|n
+alternative form of abad al-abid	abad alabid|n
+alternative form of abadiah	abadiat|adj,abadiyyat|adj
+alternative form of abah	aba|n
+alternative form of abalone	abalon|n
+alternative form of abonemen	berabonemen|v
+alternative form of adik	adi|n,dik|n,ading|n,dinda|n,adinda|n
+alternative form of adik lelaki	adik laki-laki|n
+alternative form of aduh	adoi,waduh
+alternative form of agogo	a go go|n
+alternative form of ahad	wahid|num
+alternative form of air	aer|n
+alternative form of alpa	lepa|adj
+alternative form of alur	alir|v,salur|v
+alternative form of anak lelaki	anak laki-laki|n
+alternative form of anak lelaki cicit	anak laki-laki cicit|n
+alternative form of anwar	anuar
+alternative form of apa hal	pahal|adv,pehal|adv,apahal|adv
+alternative form of apa pasal	sal|adv,pesal|adv,apasal|adv,apesal|adv
+alternative form of apabila	pabila|conj
+alternative form of argus	arkus|n
+alternative form of asin	masin|adj
+alternative form of atau	atawa|conj
+alternative form of atlet	atlit|n
+alternative form of atuk	atok|n
+alternative form of ayub	ayob,ayyub
+alternative form of ayun	hayun|v
+alternative form of ayut	ayuk|v
+alternative form of baitulmuqaddis	baitulmaqdis
+alternative form of bapa	bapak|n
+alternative form of bayang	bayangan|n,bayang-bayang|n
+alternative form of bayangi	bayang-bayangi|v
+alternative form of bayangkan	bayang-bayangkan|v
+alternative form of bayu	wayu|n
+alternative form of belau	berlau|adj
+alternative form of belerang	belirang|n,melirang|n,welirang|n
+alternative form of bengkarung	cengkarung|n,mengkarung|n
+alternative form of bentara	abintara|n
+alternative form of berani	bran|adj,beran|adj
+alternative form of berapa	berap|det
+alternative form of berbayang	berbayang-bayang|v
+alternative form of beriani	briyani|n
+alternative form of berkewajipan	berkewajiban|v
+alternative form of berma	biram|adj
+alternative form of berzaman-zaman	zaman-berzaman|adv
+alternative form of biji	bijik|n
+alternative form of binturung	benturung|n
+alternative form of biri-biri	bebiri|n,kambing bebiri|n,kambing biri-biri|n
+alternative form of capap	capab|n,capub|n
+alternative form of cecair	cairan|n
+alternative form of cerutu	cerut|n
+alternative form of coklat	cokelat|n
+alternative form of cucu lelaki cucu	cucu laki-laki cucu|n
+alternative form of cucuk	cocok|v
+alternative form of dajal	dajjal|n
+alternative form of darjah	derajat|n
+alternative form of daud	daut,dawud
+alternative form of dengan	ngan|prep
+alternative form of di sebalik mata invisible	sebalik mata|adj
+alternative form of duyung	dugong|n
+alternative form of e-mel	emel|n
+alternative form of emak	mak|n,umak|n
+alternative form of eru	ru|n
+alternative form of esok	besok|n,beresok|n
+alternative form of esok-esok	seksok|adv
+alternative form of faham	paham|n
+alternative form of fardu	fardhu|n
+alternative form of fasal	pasal|n
+alternative form of fasilitator	fasi|n
+alternative form of federesyen	federesen|n
+alternative form of fidah	fidzah|n
+alternative form of fikir	pikir|n
+alternative form of galian surface mine	kelian|n
+alternative form of gatal itchy	gatai|adj
+alternative form of habis tu	bistu|adv,abis tu|adv
+alternative form of haris	harith
+alternative form of harun	haron
+alternative form of hidung	hidong|n
+alternative form of hijau	ijo|adj
+alternative form of hitam	itam|adj
+alternative form of hoi	oi
+alternative form of hujan	ujan|n
+alternative form of hujung	ujung|adj
+alternative form of ia	iya
+alternative form of imigresen	imigresyen|n
+alternative form of insang	isang|n
+alternative form of ismail	ismael
+alternative form of isnin	senin,senayan
+alternative form of itik	itek|n
+alternative form of jahe	jahi|n
+alternative form of jari kelengkeng	kelengkeng|n
+alternative form of jawapan	jawaban|n
+alternative form of jawi-jawi	jejawi|n
+alternative form of jempana	cempana|n
+alternative form of jijik	cicik|adj
+alternative form of juga	gak|adv
+alternative form of jurubahasa	juru bahasa|n
+alternative form of kacang puteh	kacang putih|n
+alternative form of kahwin	kawin|v
+alternative form of kalau	kalo|conj
+alternative form of kapten	kepten|n
+alternative form of kasihan	kesian|adj
+alternative form of kastela	kestela
+alternative form of kasuari	suari|n
+alternative form of kau	ko|pron
+alternative form of kekili swivel	kili-kili|n
+alternative form of kelang	klang
+alternative form of kelmarin	kemarin|n
+alternative form of keluarga	kuarga|n
+alternative form of kenapa	kenap|adv
+alternative form of keruping	keropeng|n
+alternative form of kewajipan	kewajiban|n
+alternative form of khamis	kamis
+alternative form of klasik	kelasik|adj
+alternative form of komunis	kominis|n
+alternative form of komunisme	komunizem|n
+alternative form of konvokesyen	konvokesen|n
+alternative form of kugiran	kumpulan gitar rancak|n
+alternative form of kurang	kureng|adv
+alternative form of kut	kot|adv
+alternative form of labi-labi	lelabi|n
+alternative form of lah	la|part
+alternative form of lahanat	anat|adj,hanat|adj
+alternative form of lelaki	laki-laki|adj
+alternative form of lembap	lem|adj
+alternative form of lembayung	remayung|n,rembayung|n
+alternative form of lepas tu	astu|adv,pastu|adv
+alternative form of lesung pipi	lesung pipit|n
+alternative form of lut	luth
+alternative form of macam mana	cane|adv,acane|adv,acanoi|adv
+alternative form of maghreb	maghrib
+alternative form of magis	magik|adj
+alternative form of malaysia	mesia
+alternative form of mampus	mam|v
+alternative form of mana	manoi|adv
+alternative form of manggis mangosteen	manggista|n,manggistan|n
+alternative form of mantra	mantera|n
+alternative form of mat tiarap	mat terap|n
+alternative form of mayones	mayonis|n
+alternative form of membohong	mohong|v
+alternative form of menangis	nangis|v
+alternative form of menduduki	mengeduduki|v
+alternative form of mengangkat sembah	angkat sembah|v
+alternative form of mengantuk	ngantuk|adj
+alternative form of menganwar-anwarkan	menganwarkan|v
+alternative form of mengerti	reti|v
+alternative form of mengkuang	bengkuang|n
+alternative form of menipu to deceive	nipu|v
+alternative form of menurut abjad	menurut urutan abjad
+alternative form of menyesal	nyesal|v
+alternative form of merdeka free	merdeheka|adj
+alternative form of mudah alih	mudalih|adj
+alternative form of muhammad	muhd,mohamad,mohamed,muhamad
+alternative form of murah	mur|adj
+alternative form of nanas	lanas|n
+alternative form of nasi lemak	naslem|n
+alternative form of nuh	noh
+alternative form of nyonya	nonya|n
+alternative form of nyunyut	nyonyot|v
+alternative form of pagi-pagi	pepagi|adv
+alternative form of pak cik	cik|n
+alternative form of parti	partai|n
+alternative form of pegang	peygang|v
+alternative form of peket	paket|n
+alternative form of penglihatan	pelihatan|n
+alternative form of perahu	perau|n
+alternative form of perempuan	pempuan|n,pompuan|n
+alternative form of pergi	pigi|v
+alternative form of peria	pria|n
+alternative form of pesanggerahan	pasanggerahan|n
+alternative form of pragmatik	pragmatis|adj
+alternative form of prisma	prizam|n
+alternative form of pula	lak|adv
+alternative form of punya	nya|part
+alternative form of purata	pukul rata|n
+alternative form of putera	putra|n
+alternative form of rabu	arbaa
+alternative form of roti canai	rotcai|n
+alternative form of sahaja	je|adv,saja|adv
+alternative form of sahaja only	aje|adv
+alternative form of sakar	sagar|n,syagar|n,syakar|n
+alternative form of salasilah	silsilah|n
+alternative form of saleh	salih
+alternative form of samping	sampin|n
+alternative form of samudera	semedera|n
+alternative form of sangat-sangat	sesangat|adv
+alternative form of sanggama	senggama|n
+alternative form of satwa	sato|n
+alternative form of sempoa	cepua|n,sepua|n
+alternative form of semua	suma|adj
+alternative form of sengal-sengal ubi	sengsengub|adj
+alternative form of sengkek	singkek|n
+alternative form of seorang	sorang|cls
+alternative form of sepuluh	satu puluh|num
+alternative form of serikat and syarikat	sarekat|n
+alternative form of sesi	sesyen|n
+alternative form of setengah	steng|n,seteng|n
+alternative form of siapa-siapa	sesiapa|pron
+alternative form of singapura	singkapor
+alternative form of sinisisme	sinisme|n
+alternative form of siuh	syuh,syiuh
+alternative form of sonder	zonder|prep
+alternative form of stesen	stesyen|n
+alternative form of sumpah-sumpah	sesumpah|n
+alternative form of sumpit	sumpitan|n
+alternative form of syamsi	syamsu|n
+alternative form of syurga	swarga|n
+alternative form of tahi poop	taik|n
+alternative form of tahu	tauk|v
+alternative form of tak organik	tidak organik|adj
+alternative form of taksir	takse|n
+alternative form of tarikan	tarekan|n
+alternative form of telefon	telepon|n
+alternative form of tengah hari	tengari|n
+alternative form of terbayang	terbayang-bayang|v
+alternative form of terima	tima|v
+alternative form of tetapi	tapi|conj
+alternative form of tiba-tiba	tetiba|adv
+alternative form of tidak ada	takda|prep,tiada|v,tak ada|prep
+alternative form of tidak akan	takkan|adv,tak akan|adv
+alternative form of tidak apa	takpa
+alternative form of tidak apa it's okay	tak apa
+alternative form of tidak berguna	tak guna|adj
+alternative form of tidak pernah	tak pernah|adv
+alternative form of tidak tahu	titau|prep
+alternative form of tionghoa	tionghua|adj
+alternative form of tomyam	toye|n
+alternative form of tujuh	tujoh|num
+alternative form of tumandang	temandang|n
+alternative form of ujrah	ujrat|n
+alternative form of universiti	universitas|n
+alternative form of walau bagaimanapun	walaubagaimanapun|conj
+alternative form of warga maya	wargamaya|n
+alternative form of wilmana	walmana|n,walimana|n
+alternative form of wizurai	waizuri|n
+alternative form of wolanda	wilanda
+alternative form of xilofon	zilofon|n
+alternative form of yaakub	yakub
+alternative form of yang a deity	hiang|n,yang-yang|n
+alternative form of yusuf	eusof,yusof,yusop,euysof
+alternative form of zadah	jadah|n
+alternative form of zanggi	janggi|n,zenggi|n
+alternative form of zink	seng|n
+alternative form of zuhrah	zuhara,zuhrat,zuharah
+alternative form of zuhur	lohor|n,zohor|n
+alternative form of zuriat	duriat|n
+alternative letter-case form of ilahi	ilahi|adj
+alternative letter-case form of japen	japen
+alternative spelling of -mu	mu|pron
+alternative spelling of abiad	abyad|adj
+alternative spelling of agama	ugama|n
+alternative spelling of air	aek|n
+alternative spelling of alur	alor|n
+alternative spelling of anas	annas
+alternative spelling of apa pasal	ape pasal|adv
+alternative spelling of bagitahu	bagitau|v
+alternative spelling of bagitau	gitau|v
+alternative spelling of bahasa wechat	bahasa wicet|n
+alternative spelling of balik	balek|adv
+alternative spelling of bandar raya	bandaraya|n
+alternative spelling of bankrap	bangkrap|adj
+alternative spelling of bapuk	bapok|n
+alternative spelling of bukan main	kemain|adv
+alternative spelling of dah tu	dahtu|adv
+alternative spelling of hantu	antu|n
+alternative spelling of icibos	ichibos|n
+alternative spelling of kasihan	sian|adj
+alternative spelling of kelaring	klaring|adj
+alternative spelling of kuala lumpur	kolumpur
+alternative spelling of lagi again	agik|adv
+alternative spelling of layang-layang	kelayang|n
+alternative spelling of macam mana	cemana|adv
+alternative spelling of maha kaya	mahakaya|n
+alternative spelling of mak cik	makcik|n
+alternative spelling of muka	muke|n
+alternative spelling of orang putih	omputih|n
+alternative spelling of paha	peha|n
+alternative spelling of pak cik	pakcik|n
+alternative spelling of pergi	pegi|v
+alternative spelling of popular	populer|adj
+alternative spelling of pun	pon|adv
+alternative spelling of rege	reggae|n
+alternative spelling of sahaja	jak|adv
+alternative spelling of sependa	spenda|n
+alternative spelling of soalan	soklan|n
+alternative spelling of supir synonym of pemandu	sopir|n
+alternative spelling of tacod	tachod
+alternative spelling of taruh	tarok|v
+alternative spelling of tidur	tidok|v,tiduk|v
+alternative spelling of wechat	wicet
+alternative world	isekai|n
+although	meski|conj,sambil|conj,mahupun|conj,meskipun|conj,walaupun|conj,sekalipun|conj,kendatipun|conj
+although used to introduce	sedangkan
+altruistic	altruistik|adj
+alum	tawas|n
+aluminium	aluminium|n
+always	selalu|adv,sentiasa|adv
+always goes out somewhere wasting times	kaki rambu|n

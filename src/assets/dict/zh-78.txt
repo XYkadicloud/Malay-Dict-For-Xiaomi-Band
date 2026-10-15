@@ -1,183 +1,122 @@
-乎	ampir,cemas-cemas,hampir|adv,hampir-hampir,imbas-imbas,nampaknya,nyaris,tekis
-乎一	imbas-imbas
-乎一样	imbas-imbas
-乎要	hampir-hampir
-从	ab|n,dari|prep,adikung,anut|v,belum pernah,dahulu|adv,dengar-dengaran,dulu|adv
+从	ab|n,dari|prep
+从…	menjak
+从…之	menjak
+从…之后	menjak
 从不	tidak pernah|adv
-从中	singkek|n
-从中国	singkek|n
-从中国新	singkek|n
-从中国新来	singkek|n
-从中国新来的	singkek|n
-从中国新来的华	singkek|n
-从中国新来的华侨	singkek|n
-从前	dahulu|adv,dulu|adv,persetua,purbakala,sekali persetua,mantan|adj
+从业人员	pekerja|n
+从先	dulu|adv
+从前	dulu|adv,dahulu|adv,mantan|adj,purbakala,persetua,sekali persetua
 从前的	mantan|adj
+从动	kaula|n
 从员	iringan|n
-从命	junjung titah
-从命令	junjung titah
-从官	juak,juak-juak,perwara
 从未	belum pernah
-从武	adikung
-从武官	adikung
-从的	dengar-dengaran,patih
-低	rendah|adj,air perbani,baruh|n,benak|n,berbisik-bisik,bisik|n,boikot,bukau
-低体	hipotermia|n
-低体温	hipotermia|n
-低凹	lentur|n,mengkung
-低凹处	mengkung
+从来	tidak pernah|adv
+从来不	tidak pernah|adv
+从没	tidak pernah|adv
+低	rendah|adj,lembah|n,pamah|n,labuhkan|v,benak|n,turunkan|v,ulit|v,bisik|n
+低体温低温	hipotermia|n
+低凹	lentur|n
 低凹的	lentur|n
 低制	boikot
 低劣	min|n
 低劣的	min|n
 低吟	senandung
 低哼	senandung
-低唱	kidung,ulit|v
-低地	bukau,lembah|n,pamah|n,baruh|n
-低垂	merunduk,rungkau,ruyup,landuh,landung
+低唱	ulit|v,kidung
+低地	lembah|n,pamah|n,bukau
+低垂	rungkau,ruyup,merunduk,landuh,landung
 低垂的	landuh,landung
-低头	ganggal,menunduk,runduk,tekur,jurah
+低头	ganggal,tekur,runduk,menunduk,jurah
 低头敬	jurah
 低头敬礼	jurah
-低悬	rungkau,rungkup
+低廉	rendah|adj,murah|adj
+低悬	rungkup,rungkau
 低押	cagar,cagaran
 低押品	cagaran
 低泽	lepan
-低温	hipotermia|n
-低潮	timpas,air perbani,perbani
-低的	labuhkan|v,turunkan|v,jongkat-jangkit
+低潮	timpas
+低点	rendah|adj
+低的	labuhkan|v,turunkan|v
+低矮	rendah|adj,pendek|adj
+低级	rendah|adj
 低能	benak|n
-低语	berbisik-bisik,bisik|n
+低语	bisik|n,berbisik-bisik
+低调	diem|adj
+低谷	lembah|n
 低贱	hina|adj,hina-dina
 低贱的	hina|adj,hina-dina
+低迷	rendah|adj
 低陷	lekung
 低陷的	lekung
-低音	gitar bes|n
-低音电	gitar bes|n
-低音电吉	gitar bes|n
 低音电吉他	gitar bes|n
 低飞	layah,layap
 偎	lindih
 偎依	lindih
-华	bangsa cina,china,cina,elit|n,inti,inti-pati,intisari,karnival|n
+华	china,bangsa cina
 华丽	perlenteh
 华丽的	perlenteh
-华人	bangsa cina,china,cina
+华人	cina,china,bangsa cina
 华人的	cina
-华会	karnival|n
-华侨	singkek|n
-华的	cina
 华美	warna-warni|adj
 华美的	warna-warni|adj
-哎	aduh
 哎唷	aduh
-噎	esak,isak,mengih,serdawa,teresak-esak,terisak-isak
-噎噎	terisak-isak
-噎噎地	terisak-isak
-噎噎地哭	terisak-isak
-噎噎地哭泣	terisak-isak
-噎地	terisak-isak
-噎地哭	terisak-isak
-噎地哭泣	terisak-isak
-坎	akan
-坎人	akan
-城	pura,puri|n,bandar|n,bandar raya|n,benteng|n,budak bandar|n,cyberjaya,jerantut
-城堡	benteng|n,kota|n,puri|n
-城市	bandar|n,bandar raya|n,cyberjaya,kota|n,madinat,budak bandar|n,urbanisme|n
-城市居	urbanisme|n
-城市居民	urbanisme|n
-城市居民的	urbanisme|n
-城市居民的生	urbanisme|n
-城市居民的生活	urbanisme|n
-城市居民的生活方	urbanisme|n
+哎唷扣	aduh
+哎唷扣环	aduh
+城	puri|n,bandar|n,pura,benteng|n,kota|n,bandar raya|n,jitra,maran
+城堡	puri|n,benteng|n,kota|n
+城市	bandar|n,kota|n,bandar raya|n,cyberjaya,madinat,budak bandar|n
 城市居民的生活方式	urbanisme|n
 城市男	budak bandar|n
 城市男孩	budak bandar|n
+城池	bandar|n
 城璧	salika
-城路	ronda
-城镇	jerantut,jitra,maran,sekinchan,ulu tiram
+城镇	jitra,maran,jerantut,sekinchan,ulu tiram
+城阙	bandar|n
 奎	kuinin
 奎宁	kuinin
-屎	sanga
-慎	baik-baik,cermat|adj,perdata|n,telatan
-慎的	cermat|adj,telatan
 慎重	perdata|n
 慎重的	perdata|n
-扎	ikat|n,jurai,balut|n,belingkas,bolot,bungkus|cls,gaba-gaba,gelalar
-扎的	gaba-gaba
-扎的花	gaba-gaba
-扎的花彩	gaba-gaba
-擎	enjin
-李	bagasi|n,barang-barang,begej|n,kedondong
+扎	ikat|n,jurai
+扎实	praktis|adj
+扎扎实实	praktis|adj,handal|adj
+李	kedondong
 李树	kedondong
 桎	pasung,sengkela
 桎梏	pasung,sengkela
-济	bantuan,dana|n,derma|n,ekonometrik|n,ekonomi|n,iktisad,nasi campur|n,perekonomian
-济品	dana|n,derma|n,sedekah|n
-济学	ekonometrik|n,ekonomi|n,iktisad
-煎	menggoreng,merendang,dadar,mertabak,perkedil,rendang|n,roti canai|n,telur dadar|n
+煎	merendang,menggoreng,dadar
+煎熬	sengsara|n
 煎糕	dadar
-煎肉	perkedil
-煎肉丸	perkedil
-煎蛋	dadar,mertabak,telur dadar|n
+煎蛋	telur dadar|n
 煎蛋卷	telur dadar|n
-煎蛋肉	mertabak
-煎饼	roti canai|n
-绎	datang bertapak
-绎而	datang bertapak
-绎而来	datang bertapak
-胎	ovari|n,bersenyawa,plasenta|n,selusuh,senyawa,tayar|n,tiub,tuban-tuban
-胎于	tayar|n
+狎昵	kamu|pron
+胎	ovari|n,plasenta|n,uri,tiub
 胎儿	tuban-tuban
 胎儿外	tuban-tuban
 胎儿外膜	tuban-tuban
 胎盘	plasenta|n,uri
 胎管	tiub
-胎药	selusuh
-虎	baham,cicak|n,cika,gelogok,harimau|n,harimau belang|n,harimau dandi|n,harimau jadi-jadian
-虎口	jengkal|n
-虎咽	baham,gelogok,kerkak,kerkan,kerkap,lalah,sengam
+苎麻	meluru|v
+虎	tembakul
 虎头	ragum
 虎头钳	ragum
 虎烈	cika
 虎烈拉	cika
-虎的	jadi-jadian
-虎的人	jadi-jadian
-虎鱼	tembakul,ikan pirana|n,lisah,pirana|n
-蛎	lokan|n,tiram|n
-蝎	jengking,kalajengking|n,kala jengking|n,ketungging|n
+虎鱼	tembakul
+蝎	jengking,kalajengking|n,kala jengking|n
 蝎子	kala jengking|n
-赎	menebus,mesara,tebus|v,tebusan
-赎回	menebus,tebus|v
+赎	tebus|v,tebusan,menebus
+赎回	tebus|v,menebus
 赎罪	tebus|v
 赎身	mesara
 赎身金	mesara
 赎金	tebusan
-迎	ahlan,mengalu-alukan,menyambut,panembrama,sambut|v,sambutan,selamat datang|int,selamat pulang
+迎	sambut|v,sambutan,songsong
 迎接	sambut|v,sambutan,songsong
-迎歌	panembrama
-過	petrol|n
-過蒸	petrol|n
-過蒸餾	petrol|n
-過蒸餾重	petrol|n
-過蒸餾重整	petrol|n
-郎	lelat,mempelai|n,pawai|n,pengantin,peterana,sigar
-郎之	sigar
-郎之头	sigar
-郎之头巾	sigar
-郎送	lelat
-郎送给	lelat
-郎送给新	lelat
-郎送给新娘	lelat
-郎送给新娘的	lelat
-郎送给新娘的栳	lelat
-郎送给新娘的栳叶	lelat
-野	anjing hutan|n,anjing serigala|n,anoa|n,ayam hutan,babi hutan|n,babi rusa|n,belantara,belibis
-野兽	binatang liar,mergastua,sesapan
-野兽喝	sesapan
-野兽喝水	sesapan
-野兽喝水之	sesapan
-野兽喝水之处	sesapan
+郎中	tabib|n
+野	buas|adj,jalang|adj,jangla,babi rusa|n,babi hutan|n,kucing liar|n,nangoi,belibis
+野兽	mergastua,binatang liar
+野味	gem|n
+野心	cita-cita|n
 野性	jalang|adj
 野性的	jalang|adj
 野棕	nifas
@@ -185,86 +124,76 @@
 野檬	kandis
 野檬果	kandis
 野檬果树	kandis
-野牛	seladang,anoa|n,tembadau|n
+野牛	seladang
 野牡	senduduk
 野牡丹	senduduk
-野犬	dingo|n
-野狗	anjing hutan|n,anjing serigala|n
-野猪	babi hutan|n,babi rusa|n,nangoi
+野猪	babi rusa|n,babi hutan|n,nangoi
 野猫	kucing liar|n
-野生	beruas,durian punggai,pauh|n,pungai,tepus|n
+野生	pauh|n,tepus|n,pungai,durian punggai
 野生姜	tepus|n
-野生山	beruas
-野生山竹	beruas
-野生山竹果	beruas
 野生山竹果树	beruas
-野生榴	durian punggai,pungai
-野生榴莲	durian punggai,pungai
+野生榴	pungai,durian punggai
+野生榴莲	pungai,durian punggai
 野生芒	pauh|n
 野生芒果	pauh|n
-野的	buas|adj,jalang|adj,jangla,galak|adj,ketus,nakal|adj
-野芋	keluna
-野芋之	keluna
-野芋之一	keluna
+野的	buas|adj,jalang|adj,jangla
 野芋之一种	keluna
-野芒	embacang|n,gelugur,kemang
-野芒果	embacang|n,gelugur,kemang
+野芒	embacang|n,gelugur
+野芒果	embacang|n,gelugur
 野芒果树	gelugur
-野芒果的	kemang
-野芒果的一	kemang
 野芒果的一种	kemang
-野菜	bermi
-野菜之	bermi
-野菜之一	bermi
 野菜之一种	bermi
 野葛	lakum
-野蛮	biadab|adj,buas|adj,ganas|adj
-野蛮的	biadab|adj,buas|adj,ganas|adj
+野蛮	buas|adj,ganas|adj,biadab|adj
+野蛮的	buas|adj,ganas|adj,biadab|adj
 野象	gajah liar
 野餐	berkelah,perkelahan
-野鸡	ayam hutan,beroga
-野鸭	belibis,seluit,itik kecil|n
-镎	neptunium|n
-风	angin|n,bayu|n,pawana|n,adat|n,adat istiadat,adat perpatih,akordion|n,angin sepoi bahasa
-风云	semak samun|n
-风俗	adat|n,resam|n,adat istiadat,adat perpatih,istiadat|n
-风俗习	adat istiadat,istiadat|n
-风俗习惯	adat istiadat,istiadat|n
+野鸡	beroga,ayam hutan
+野鸭	belibis,seluit
+镎镎	neptunium|n
+镎镎N	neptunium|n
+镎镎Np	neptunium|n
+风	angin|n,bayu|n,pawana|n,adat|n,gaya|n,paras|n,resam|n,peminat|n
+风云	cuaca|n
+风俗	adat|n,resam|n,istiadat|n,adat istiadat
+风俗习	istiadat|n,adat istiadat
+风俗习惯	istiadat|n,adat istiadat
 风信	lembayung|n
 风信子	lembayung|n
+风光	adegan|n,pandangan|n
 风力	jangka angin
 风力表	jangka angin
-风吹	tiup|v,desir
-风吹细	desir
-风吹细沙	desir
+风吹	tiup|v
 风吹细沙声	desir
-风声	besing,desing
-风姿	gaya usul,paras|n,susuk badan
-风干	darul iman,darul ridzuan
-风干土	darul iman,darul ridzuan
-风干土坯	darul iman,darul ridzuan
-风干砖	darul iman,darul ridzuan
-风情	genit
-风情的	genit
-风扇	kaki jiwang|n,peminat|n
+风声	bual|n,warta|n
+风姿	paras|n,gaya usul,susuk badan
+风干土坯风干砖	darul iman,darul ridzuan
+风扇	peminat|n,kaki jiwang|n
 风景	pemandangan
+风暴	ribut|n
+风机	kipas|n
 风枪	senapang angin
-风格	gaya|n,gaya bahasa,stail|n,beregek|adj,regek|adj
-风格的	beregek|adj,regek|adj
-风湿	demam urat,pirai,sengal|adj
+风格	gaya|n,stail|n,gaya bahasa
+风气	atmosfera|n
+风波	krisis|n
+风泼	gila|adj
+风流	goyang|adj
+风湿	sengal|adj,pirai,demam urat
 风湿病	demam urat
-风湿症	pirai,sengal|adj
-风琴	organ|n,akordion|n
-风的	berangin,puputan
+风湿症	sengal|adj,pirai
+风潮	alun|n
+风琴	organ|n
+风的	puputan
 风的怒	puputan
 风的怒号	puputan
-风窗	tingkap magun
-风筝	layang-layang|n,lelayang|n,wau|n
-风箱	hubub|n,puputan
-风舞	ronggeng
-风航	empul
-风航行	empul
-风车	kincir angin|n,baling-baling|n,bonceng
+风窗	jendela|n
+风筝	wau|n,lelayang|n,layang-layang|n
+风箱	puputan
+风箱手风箱	hubub|n
+风纪	tegas|adj
+风范	cara|n,model|n
+风调	aksara|n
+风车	kincir angin|n,baling-baling|n
 风车旋	baling-baling|n
 风车旋转	baling-baling|n
 风速	jangka angin
@@ -272,20 +201,11 @@
 风邪	selesema
 风邪感	selesema
 风邪感冒	selesema
-风雨	padau,prahara|n
-风雨时	padau
-风雨时使	padau
-风雨时使用	padau
-风雨时使用的	padau
-风雨时使用的坚	padau
-风雨时使用的坚固	padau
-风雨时使用的坚固之	padau
+风险	risiko|n
 风雨时使用的坚固之帆	padau
 风骚	genit
 风骚的	genit
-风鸡	baling-baling|n
-风鸡标	baling-baling|n
-黎	dinihari,fajar|n,lubnan,subuh|n
+黎	fajar|n,subuh|n,dinihari
 黎巴	lubnan
 黎巴嫩	lubnan
-黎明	dinihari,fajar|n,subuh|n
+黎明	fajar|n,subuh|n,dinihari

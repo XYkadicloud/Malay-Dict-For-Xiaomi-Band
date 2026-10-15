@@ -1,0 +1,9 @@
+type	jenis|n,macam|n
+type of cetacean in the family ziphiidae	paus paruh|n
+typewriter	mesin taip|n,taip|v
+typhoon	taufan|n,prahara|n
+typically as a strike	hartal|n
+typically develops inside the body of a hor	bot
+typically snails but also including bivalves	siput|n
+tyranny	aniaya|n
+tyre	tayar|n

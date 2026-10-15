@@ -1,2 +1,2 @@
-jpm	jpm		词首字母缩略词
-jpn	jpn		词首字母缩略词
+jpm	jpm		词首字母缩略词	initialism of Jabatan Perdana Menteri (“Prime Minister's Department”).
+jpn	jpn		词首字母缩略词	initialism of Jabatan Pendaftaran Negara (“National Registration Depar

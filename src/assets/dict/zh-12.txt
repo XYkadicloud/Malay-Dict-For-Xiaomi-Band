@@ -1,167 +1,111 @@
-二	dua|num,dua ribu|num,bandung|n,bulan dua|n,bulan dua belas|n,digraf|n,disember,dua belas|num
-二个	slomang|n
-二个字	slomang|n
-二个字母	slomang|n
-二乙	dua puluh lima|num,lima likur|num
-二乙胺	dua puluh lima|num,lima likur|num
-二价	harga mati
-二十	dua puluh|num,kodi,dua likur|num,dua puluh dua|num,dua puluh empat|num,dua puluh enam|num,dua puluh lapan|num,dua puluh pitu|num
-二十一	dua puluh satu|num,satu likur|num,selikur|num
-二十七	dua puluh pitu|num,dua puluh tujuh|num,tujuh likur|num
-二十三	dua puluh telu|num,dua puluh tiga|num,telu likur|num,tiga likur|num
+二	dua|num,dwi|num,dua ribu|num
+二十	dua puluh|num,kodi,selikur|num,dua likur|num,enam likur|num,satu likur|num,telu likur|num,tiga likur|num
+二十一	selikur|num,satu likur|num,dua puluh satu|num
+二十七	tujuh likur|num,dua puluh pitu|num,dua puluh tujuh|num
+二十三	telu likur|num,tiga likur|num,dua puluh telu|num,dua puluh tiga|num
 二十个	kodi
-二十九	dua puluh sembilan|num,sembilan likur|num
+二十九	sembilan likur|num,dua puluh sembilan|num
 二十二	dua likur|num,dua puluh dua|num
-二十八	dua puluh lapan|num,lapan likur|num
-二十六	dua puluh enam|num,enam likur|num
-二十四	dua puluh empat|num,empat likur|num
+二十八	lapan likur|num,dua puluh lapan|num
+二十六	enam likur|num,dua puluh enam|num
+二十四	empat likur|num,dua puluh empat|num
 二合	digraf|n
 二合字	digraf|n
 二合字母	digraf|n
-二天	keesokan
-二打	gros
-二月	bulan dua|n,februari,bulan dua belas|n,disember,safar
+二手	penolong|n
+二月	bulan dua|n
+二次	saat|n
+二次方	persegi|n
 二氧	karbon dioksida
 二氧化	karbon dioksida
 二氧化碳	karbon dioksida
-二物	bandung|n
 二百	dua ratus|num
 二的	dwi|num
-二节	ruas
-二节间	ruas
-二节间的	ruas
+二者	berdua|det
 二节间的段	ruas
-册	jilid,atlas,berdaftar,daftar|n,daftar alamat,daftarkan,menjilid,pendaftaran
-册子	risalah
-册的	berdaftar
-厌	jenuh|adj,adawat|n,benci|v,jelak|adj,jemu,kebencian,lenggana,luah|v
-厌恶	jemu,kebencian,menyampah|v,muak,misoginis|n
-厌恶女	misoginis|n
-厌恶女人	misoginis|n
-厌恶女人的	misoginis|n
+二话	bantahan|n
+册	jilid
+厌	jenuh|adj,menyampah|v,muak,jemu,kebencian
+厌恶	menyampah|v,muak,jemu,kebencian
 厌恶女人的人	misoginis|n
-厌的	jelak|adj,lenggana,menggerek|v,menjemukan,orang lanat,someng
-厌的人	menggerek|v
-厌的家	orang lanat
-厌的家伙	orang lanat
-同	algebra,sambil|conj,aad,aci,adicita|n,aktivitet|n,akur,angguk
+同	sambil|conj,juga|adv,teman|n,kenan|v,rela|adj,liga|n,izin|n,kebenaran|n
 同一	sedajat
 同一程	sedajat
 同一程度	sedajat
 同中	konsentrik|adj
 同中心	konsentrik|adj
 同中心的	konsentrik|adj
-同义	adicita|n,aktivitet|n,asu|n,berbincang-bincang|v,bersembahkan|v,bersesal|v,bersesal-sesalan|v,boring|adj
-同义词	adicita|n,aktivitet|n,asu|n,berbincang-bincang|v,bersembahkan|v,bersesal|v,bersesal-sesalan|v,boring|adj
-同之	bezanya
-同之处	bezanya
+同义词	supir|n,asu|n,esa|num,loka|n,telu|num,kaler|n,tabir|n,takah|n
 同事	sejawat
-同伴	saki,teman|n
-同位	isotop|n
-同位素	isotop|n
+同伴	teman|n,saki
+同位素同位素	isotop|n
 同僚	sejawat
 同化	asimilasi|n
-同声	bult suara
-同学	rakan sekelas|n
 同年	sebaya,seumur
 同年龄	sebaya,seumur
-同志	komrad|n
-同性	musahaqah|n
-同性恋	musahaqah|n
-同性恋爱	musahaqah|n
-同性恋爱的	musahaqah|n
-同情	belas kasihan,hiba,iba hati,iba kasihan,simpati|adj,syafakat,timbang|v
-同意	aci,akur,berkenan|v,berpakat,bulat hati,embuh,izin|n,kabul
+同情	simpati|adj,timbang|v,belas kasihan,hiba,iba kasihan,iba hati,syafakat
+同意	kenan|v,rela|adj,izin|n,kebenaran|n,muafakat|n,berkenan|v,embuh,kabul
 同意义	seerti|adj
-同时	dalam pada itu,gus|adv,sambil|conj,seiring,sekali gus time,kontemporari|adj
+同时	sambil|conj,gus|adv,seiring,dalam pada itu,sekali gus time
 同时代	kontemporari|adj
-同时代的	kontemporari|adj
-同时代的人	kontemporari|adj
-同样	jua,juga|adv,demikan juga,sama rata,seragam|adj
+同时代的人同时代	kontemporari|adj
+同时代的人同时代的	kontemporari|adj
+同时发生	gus|adv
+同时期	kontemporari|adj
+同样	juga|adv,seragam|adj,jua,demikan juga,sama rata
 同样平	sama rata
 同样式	seragam|adj
 同样式的	seragam|adj
 同样的	demikan juga
+同款	serupa|adj
 同母	perinduan
+同母异父	separuh|num
 同母的	perinduan
 同游	jajah|v,menjajah|v
-同点	bezanya,persamaan|n
+同父异母	separuh|num
 同班	rakan sekelas|n
 同班同	rakan sekelas|n
 同班同学	rakan sekelas|n
-同的	berlainan,dayung-mayung|n,kacang puteh|n,mirip|adj,sebaik|adj,sebiru|adj,secantik|adj,selancar|adj
 同盟	liga|n
-同等	pulik,sejajar,ugahari,setara,setaraf
+同盟军	sekutu|n
+同盟国	sekutu|n
+同盟者	sekutu|n
+同等	sejajar,ugahari,pulik,setara,setaraf
 同等的	setara
 同等程	pulik
 同等程度	pulik
 同等级	setaraf
 同类	mirip|adj,semuka
 同类的	mirip|adj,semuka
-同胞	perinduan,sekadim
-同胞兄	sekadim
-同胞兄弟	sekadim
-同胞兄弟姐	sekadim
+同胞	perinduan
 同胞兄弟姐妹	sekadim
 同胞的	perinduan
-同谋	bahal|adj,bersubahat,konspirasi|n,sekongkol
-同轭	gu
-同轭之	gu
-同轭之两	gu
+同谋	bahal|adj,konspirasi|n,sekongkol,bersubahat
 同轭之两牛	gu
-和	a,dan|conj,serta|conj,aman dan damai,aman dan makmur,aman sentosa,angin sepoi bahasa,anteng|n
-和主	republikanisme|n
-和主义	republikanisme|n
+和	serta|conj,dan|conj,a
+和...一起走动	abrit-abritan|v
+和…一样多	seramai
 和合	sesuai padan
-和国	republik|n,republik congo,republik czech,republik dominika,republik rakyat china
-和平	damai,kedamaian|n,perdamaian,sakinat,sentosa|adj,aman dan damai,aman dan makmur,aman sentosa
-和平与	aman sentosa
-和平与安	aman sentosa
+和平	kedamaian|n,sentosa|adj,tenteram|adj,damai,sakinat,perdamaian,aman dan damai,aman dan makmur
 和平与安全	aman sentosa
 和平安	aman dan damai
 和平安宁	aman dan damai
 和平的	tenteram|adj
 和平繁	aman dan makmur
 和平繁荣	aman dan makmur
-和憎	xenofobia|n
-和憎恨	xenofobia|n
-和憎恨外	xenofobia|n
-和憎恨外国	xenofobia|n
-和憎恨外国人	xenofobia|n
 和我	mani
-和新	riyal|n
-和新加	riyal|n
-和新加坡	riyal|n
-和新加坡元	riyal|n
-和椰	onde-onde
-和椰子	onde-onde
-和椰子做	onde-onde
-和椰子做成	onde-onde
-和灵	jiwa raga
-和灵魂	jiwa raga
-和烷	petrol|n
-和烷基	petrol|n
-和烷基化	petrol|n
-和烷基化等	petrol|n
-和烷基化等處	petrol|n
-和烷基化等處理	petrol|n
-和烷基化等處理而	petrol|n
-和的	anteng|n,jinak,lemah-lembut,pincang,santun,sempoi|adj,ugahari
+和数	jumlah|n
+和气	manja|adj
 和睦	damai,setiakawan
-和荒	bukit-bukau
-和荒野	bukit-bukau
-和蔼	keramahan|n,muhibah,peramah
-和蔼可	peramah
-和蔼可亲	peramah
-和蔼可亲的	peramah
+和缓	landai|adj
+和蔼	keramahan|n,muhibah
 和蔼可亲的人	peramah
-和解	berdamai,temukan,mendamaikan
-和谐	kapas|n,janggal,merdu
-和谐的	merdu,janggal
-和风	angin sepoi bahasa,silir
-娌	biras
-完	habis|v,bangkang,belaka,beres,bulat|adj,hilang pintang,jauh berbeza,kautim|v
-完全	belaka,segenap,sempurnakan,serba,bulat|adj,hilang pintang,jauh berbeza,komplit|adj
+和解	temukan,berdamai
+和谐	merdu
+和谐的	merdu
+和风	silir,angin sepoi bahasa
+完	lengkap|adj,habis|v,kelakonan|n,serba,selesai|v,kautim|v,beres,langsai
+完全	sempurna|adj,serba,siap|adj,komplit|adj,bulat|adj,segenap,belaka,sempurnakan
 完全不	jauh berbeza
 完全不同	jauh berbeza
 完全光	punah
@@ -170,202 +114,85 @@
 完全决裂	patah arang
 完全准	siapkan
 完全准备	siapkan
-完全毁	ranah
+完全地	gerenti|adv
 完全毁坏	ranah
 完全毁坏的	ranah
-完全消	hilang pintang,pintang
-完全消失	hilang pintang,pintang
-完全的	bulat|adj,komplit|adj,lompi,melulu,sempurna|adj,siap|adj
-完善	menyempurnakan,selengkapnya
+完全消	pintang,hilang pintang
+完全消失	pintang,hilang pintang
+完全的	sempurna|adj,siap|adj,komplit|adj,bulat|adj,melulu,lompi
+完善	selengkapnya
 完善的	selengkapnya
 完备	siap|adj
 完备的	siap|adj
-完成	kautim|v,kelakonan|n,melangsungkan,mengamalkan,menghabiskan,mustaid,rampung,selesai|v
-完成的	tamat|adj,tersurat|v,tertuduh|v
+完成	kelakonan|n,tersurat|v,selesai|v,kautim|v,rampung,tamat|adj,mustaid,tertuduh|v
+完成的	tersurat|v,tamat|adj,tertuduh|v
 完整	lengkap|adj,utuh
+完整性	integriti|n
 完整的	utuh
 完毕	langsai
 完满	sempurna|adj
 完满的	sempurna|adj
-完结	beres,ludis,mustaid
-完美	rapi,sempurna|adj
-完美的	rapi,sempurna|adj
-希	asa|n,berhajat,berharap|v,embuh,harap|v,harapan|n,hendak|prep,ingin|adv
-希望	asa|n,berhajat,berharap|v,embuh,harap|v,harapan|n,hendak|prep,ingin|adv
-希腊	slomang|n,teta|n,yunani
+完璧之身	suci|adj
+完结	beres,mustaid,ludis
+完美	sempurna|adj,rapi
+完美无瑕	sempurna|adj
+完美的	sempurna|adj,rapi
+希	niat|n,asa|n,nak|prep,hendak|prep,maksud|n,moga|adv,kehendak,mudah-mudahan|adv
+希奇	aneh|adj
+希奇古怪	aneh|adj,gila|adj
+希尔	bukit|n
+希望	niat|n,asa|n,nak|prep,hendak|prep,maksud|n,moga|adv,kehendak,mudah-mudahan|adv
+希腊	yunani
 希腊人	yunani
-希腊字	slomang|n,teta|n
-希腊字母	slomang|n,teta|n
-希腊字母的	teta|n
-希腊字母的第	teta|n
-希腊字母的第八	teta|n
 希腊字母的第八字	teta|n
-希腊字母表	slomang|n
-希腊字母表的	slomang|n
-希腊字母表的第	slomang|n
-希腊字母表的第二	slomang|n
-希腊字母表的第二个	slomang|n
-希腊字母表的第二个字	slomang|n
-希腊字母表的第二个字母	slomang|n
-掌	capai|v,genggam|n,genggaman,jabat,jitak,kaktus|n,kektas,kemudi|n
-掌之	setelempap,telempap
-掌之宽	setelempap
-掌之阔	telempap
+希腊字母表的第二个字母β	slomang|n
+掌	kemudi|n,genggam|n,capai|v,tempeleng|v,telempap,lampang,pengemudi,jitak
 掌击	tempeleng|v
-掌尺	telempap,tempap
-掌属	kaktus|n
-掌帆	pabuan
-掌帆之	pabuan
-掌帆之横	pabuan
+掌子面	muka|n
+掌尺	telempap
 掌帆之横木	pabuan
-掌心	merangkap
-掌心捕	merangkap
-掌心捕捉	merangkap
-掌掴	jitak,lampang
-掌握	capai|v,genggam|n,genggaman,jabat
-掌握一	jabat
-掌握一份	jabat
-掌握一份工	jabat
+掌掴	lampang,jitak
+掌握	genggam|n,capai|v,genggaman
 掌握一份工作	jabat
-掌示	kuit
-掌示意	kuit
 掌舵	kemudi|n,pengemudi
-涌	besut,buak|v,bubus,gelora|n,gerobok|n,lancur,lembak,mancit
-涌出	besut,buak|v,bubus,mancit,membesut,membubus
-涌流	lancur,terkini|adj
+涌	terkini|adj,lancur
+涌出	buak|v,mancit,bubus,besut,membesut,membubus
+涌流	terkini|adj,lancur
 涌进	membanjiri
-瞌	antuk|v,berantuk,kantuk|n,lenggut,mengantuk|adj,meralip,ralip,sengguk
-瞌睡	kantuk|n,mengantuk|adj,antuk|v,berantuk,lenggut,meralip,ralip,sengguk
+瞌	kantuk|n,mengantuk|adj
+瞌睡	kantuk|n,mengantuk|adj,ralip
 瞌睡的	ralip
-砌	patio|n
-砌空	patio|n
-碌	abuh|adj,kesibukan,pragmatik|adj
-碌的	abuh|adj,pragmatik|adj
-而	a,melainkan|conj,alhasil,ambar,bayak,belus,bersila,bersimpuh
-而上	mudik
-而不	meriam buluh
-而不行	meriam buluh
-而且	dah tu|adv,dan lagi,syahadan
-而久	lama-kelamaan,lama-lama|adv,lambat-laun
-而久之	lama-kelamaan,lama-lama|adv,lambat-laun
-而乱	pikau,terpikau
-而乱喊	pikau,terpikau
-而乱喊乱	pikau,terpikau
-而乱喊乱叫	pikau,terpikau
-而使	mata jahat|n
-而使之	mata jahat|n
-而使之遭	mata jahat|n
-而使之遭殃	mata jahat|n
-而使之遭殃的	mata jahat|n
-而使之遭殃的能	mata jahat|n
-而使之遭殃的能力	mata jahat|n
-而划	lais
-而发	unai
-而发臭	unai
-而发臭的	unai
-而可	tengkaluk
-而可食	tengkaluk
-而可食之	tengkaluk
-而可食之果	tengkaluk
-而可食之果实	tengkaluk
-而同	serempak,serentak|adj
-而圆	busut betina
-而圆的	busut betina
-而圆的蚁	busut betina
-而圆的蚁冢	busut betina
-而坐	bersila,lungguh,sanding,timpuh
-而坐着	sanding
-而尖	busut jantan
-而尖的	busut jantan
-而尖的蚁	busut jantan
-而尖的蚁冢	busut jantan
-而引	rahu
-而引起	rahu
-而引起亏	rahu
-而引起亏蚀	rahu
-而引起亏蚀的	rahu
-而引起亏蚀的巨	rahu
-而引起亏蚀的巨龙	rahu
-而弯	capang
-而弯的	capang
-而成	simbar
-而成的	simbar
-而成的大	simbar
-而成的大浪	simbar
-而无	ambar,campah,hambar|adj
-而无味	ambar,campah,hambar|adj
-而易	belus,tidur ayam
-而易脱	belus
-而易醒	tidur ayam
-而易醒的	tidur ayam
-而是	paradoks|n
-而是的	paradoks|n
-而是的论	paradoks|n
-而是的论点	paradoks|n
-而未	kutai
-而未断	kutai
-而来	datang bertapak
-而构	tiri|adj
-而构成	tiri|adj
-而构成的	tiri|adj
-而构成的亲	tiri|adj
-而构成的亲缘	tiri|adj
-而构成的亲缘关	tiri|adj
-而构成的亲缘关系	tiri|adj
-而烂	restung
-而烂鼻	restung
-而眼	luyu
-而眼帘	luyu
-而眼帘垂	luyu
-而眼帘垂下	luyu
-而矮	bayak
-而矮的	bayak
-而粗	gondok
-而粗大	gondok
-而粗大的	gondok
+砌基脚	alas|n
+而	melainkan|conj,a
+而且	dah tu|adv,syahadan,dan lagi
 而结	alhasil
 而结果	alhasil
 而结果是	alhasil
-而脆	bersimpuh
-而脆坐	bersimpuh
-而至	datang bertapak
-而行	kedek-kedek,kerumit,lonjak,loso,menepi,menyisi,papah,rangkak|n
-而言	gumam
-而言语	gumam
-而走	lilau
-而跑	kengkang
-而过	randai
-而逃	tempuras
-而难	maung|n
-而难闻	maung|n
-而难闻的	maung|n
-而高	langsar,mancung
-而高的	langsar,mancung
-肌	aduktor|n,gagah|adj,jantung tangan|n,otot|n,urat daging
-肌肉	otot|n,urat daging,gagah|adj
+肌	otot|n,urat daging
+肌体	lasam|adj
+肌肉	otot|n,gagah|adj,urat daging
 肌肉结	gagah|adj
 肌肉结实	gagah|adj
-舌	lisan|adj,babil,bacar,berkicau|v,celoteh,gagap,jelih,kelelut
-舌声	letis
+肌肤	kulit|n,isi|n
+舌	lisan|adj,lidah|n,babil
 舌头	lidah|n
 舌战	babil
-舌的	bacar,lidas
-舌鸟	merbah
-貌	adat|n,adib,air muka,ajah,bahasa|n,beradab,berbahasa|v,budi bahasa
-貌好	hensem|adj
-貌好看	hensem|adj
-貌好看的	hensem|adj
-貌的	adib,beradab,budi bahasa,hormat|adj,sopan santun|adj
+萌芽	butir|n
+貌相	rupa|n
+貌美	gelis|adj
+貌美如花	lawa|adj
 踌	kimbang
 踌躇	kimbang
-钌	rutenium|n
-锌	ayan|n,timah sari|n,zink|n,zink fosfida|n,zink hidroksida|n,zink karbonat|n,zink klorida|n,zink kromat|n
-锌于	ayan|n,zink|n
+钌钌	rutenium|n
+钌钌R	rutenium|n
+钌钌Ru	rutenium|n
+锌	timah sari|n,zink sari
 锌板	zink sari
-验	autopsi|n,berida,cubaan|n,cubakan,imtihan,koroner|n,makmal|n,manjur
-验员	koroner|n
-验室	makmal|n
-验尸	autopsi|n,koroner|n
-验尸官	koroner|n
-验的	berida,manjur,mujarab
+锌镀	ayan|n,zink|n
+锌镀锌	ayan|n,zink|n
+锌镀锌于	ayan|n,zink|n
+验	verifikasi|n
+验尸官检验员	koroner|n
+验尸尸体解剖	autopsi|n
 验证	verifikasi|n
+龌龊	mala|adj

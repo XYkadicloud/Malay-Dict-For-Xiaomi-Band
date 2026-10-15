@@ -1,3 +1,3 @@
 yogia	yogia		适当的，适合的，合宜的
 yogurt	yogurt	n	酸乳酪  酸乳	yogurt
-you	you	pron	代词
+you	you	pron	代词	second-person pronoun.

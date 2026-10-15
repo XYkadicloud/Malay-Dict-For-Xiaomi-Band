@@ -1,2 +1,2 @@
-dbkl	dbkl		词首字母缩略词
-dbp	dbp		词首字母缩略词
+dbkl	dbkl		词首字母缩略词	initialism of Dewan Bandaraya Kuala Lumpur (“Kuala Lumpur City Hall”)
+dbp	dbp		词首字母缩略词	initialism of Dewan Bahasa dan Pustaka (“Institute of Language and Lit; initialism of Dewan Bahasa dan Pustaka Brunei (“Language and Literatur

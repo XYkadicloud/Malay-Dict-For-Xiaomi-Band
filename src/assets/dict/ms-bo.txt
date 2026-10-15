@@ -1,4 +1,4 @@
-boat	boat	v	荒废的
+boat	boat	v	荒废的	obsolete form of buat
 bobok	bobok		睡觉
 bobos	bobos		破，漏
 bobot	bobot	n	重	weight
@@ -26,7 +26,7 @@ bolakeranjang	bola keranjang	n	篮球	basketball
 bolasepak	bola sepak	n	足球	football  soccer
 bolatampar	bola tampar	n	排球	volleyball
 bolatangkis	bola tangkis	n	羽球	The sport of badminton.
-boleh	boleh	v	可以 能
+boleh	boleh	v	可以 能	To be able to; can.; To have permission to; may  can.; To acquire.
 bolehjadi	boleh jadi	int	也许
 bolehlah	bolehlah		好
 bolehtahan	boleh tahan		受得了，顶得住
@@ -67,7 +67,7 @@ borak	borak		闲谈，聊天	to have friendly  informal conversation  usually ab
 borang	borang	n	表格	form  a blank document or template to be filled in by the user
 borangpermintaan	borang permintaan		申请表格
 borek	borek		痘疤，麻斑
-boring	boring	adj	同义词
+boring	boring	adj	同义词	Synonym of bosan (“bored”)
 borjuis	borjuis	n	中产阶级分子	Bourgeois:
 borneo	borneo		婆罗洲	Borneo (an island of Southeast Asia)
 borok	borok		疮，溃烂

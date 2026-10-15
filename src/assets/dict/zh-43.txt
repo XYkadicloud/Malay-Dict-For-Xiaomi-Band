@@ -1,73 +1,60 @@
-享	berfoya-foya,berjoli,bersenang-senang,foya,menikmati,nikmat|n,pelesir,selamat menjamu selera
-享乐	berfoya-foya,berjoli,bersenang-senang,foya,pelesir,nikmat|n
++。百科全書	ensiklopedia|n
++詞彙表其他形式	kosa kata|n
+丫头	awek|n
+享	berjoli,pelesir,menikmati,foya,berfoya-foya,selamat menjamu selera,bersenang-senang
+享乐	nikmat|n,berjoli,pelesir,foya,berfoya-foya,bersenang-senang
 享乐的	nikmat|n
 享受	menikmati,selamat menjamu selera
-别	ad hoc,alias,banglo,berbeza|v,berdiskriminasi|v,beza|n,cerai|v,gelar|n
-别人	santung
-别人的	santung
-别人的头	santung
-别人的头邪	santung
-别人的头邪术	santung
-别位	losi
-别名	alias,gelar|n
-别墅	banglo,vila
+别具匠心	pandai|adj
+别名	gelar|n
+别名alif阿拉伯字母的第一个字	alias
+别墅	vila,banglo
 别扭	kekok
 别扭的	kekok
 别担	jangan risau|int
 别担心	jangan risau|int
-别指	tuto tuds|n
-别指导	tuto tuds|n
-别的	ad hoc,khas|adj,khusus|adj,masing-masing|adj
+别样	khas|adj
+别的	lain|adj
+别致	khusus|adj
+别论	bantahan|n
 别说	jangankan
 别针	peniti
-劫	camar|n,jarah,menjarah,menyamun|v,merampas,merompak|v,rampas,rampok|n
-劫掠	rampas,rampok|n
-含	kemam,kulum,berbateri|adj,berikan|v,beriklan|v,berlosen|v,beroksigen|v,bertelefon|v
+劫	rampok|n,rampas
+劫掠	rampok|n,rampas
+含	makna|n,kulum,kemam,genang|n,sipu
 含义	makna|n
+含含糊糊	samar|adj
 含在	gumam,mengulum
 含在口	gumam
 含在口中	gumam
 含在嘴	mengulum
 含在嘴里	mengulum
+含意	erti|n
 含有	mengandungi
 含泪	genang|n
-含物	gumam
-含物口	gumam
-含物口中	gumam
-含物口中而	gumam
-含物口中而言	gumam
+含混	samar|adj
 含物口中而言语	gumam
-含的	terangkum|adj
 含盐	sira
 含盐地	sira
 含盐地方	sira
+含糊	samar|adj
 含羞	sipu,mimosa,semalu
 含羞草	mimosa,semalu
-含義	mak kau hijau
-垫	alas|n,bantal|n,galangkan,kusyen|n,lapik,mengalas,metai,pacal|pron
+垫	alas|n,bantal|n,kusyen|n,tilam|n,lapik,metai,galangkan
 垫子	alas|n,tilam|n
 垫席	lapik,metai
 垫敷	pelapik
 垫敷物	pelapik
+垫款	pendahuluan|n
 垫褥	bantal|n,kusyen|n
 垫起	galangkan
-夫	belandung,berlaki,bibi|n,bujang|n,bujang talan,datin,drebar|n,duai
-夫一	monogami|n,monogani
-夫一妻	monogami|n,monogani
-夫一妻制	monogami|n,monogani
-夫人	bibi|n,nyi,nyonya|n,puan|n,datin
+夫	puan|n,bibi|n,nyonya|n,nyi
+夫人	puan|n,bibi|n,nyonya|n,nyi
 夫妻	sekelamin
 夫妻俩	sekelamin
-夫或	duai,ipar|n
-夫或妻	duai,ipar|n
-夫或妻的	duai,ipar|n
-夫或妻的兄	duai,ipar|n
-夫或妻的兄弟	duai,ipar|n
-夫或妻的兄弟姐	duai,ipar|n
-夫或妻的兄弟姐妹	duai,ipar|n
-夫球	golf
-夫的	berlaki
-宫	astana|n,bahasa dalam,bedaya,dayang|n,istana|n,keraton,mahligai,pagar sesat|n
+夫婿	laki|n
+夫或妻的兄弟姐妹	ipar|n,duai
+宫	istana|n,puri|n,dayang|n,perwara,mahligai
 宫女	dayang|n,perwara
 宫庭	bedaya
 宫庭舞	bedaya
@@ -75,115 +62,90 @@
 宫廷	bahasa dalam
 宫廷用	bahasa dalam
 宫廷用语	bahasa dalam
-宫殿	istana|n,mahligai,puri|n
-披	merbang,sebai,selepang,sengkuap
+宫殿	istana|n,puri|n,mahligai
+披	merbang,sengkuap,selepang
 披屋	sengkuap
 披挂	selepang
 披散	merbang
 披肩	sebai
 披肩布	sebai
-挫	bantut,kikuk,lacur,menggagalkan,sengkol|n,tuberkulosis|n
+挫	sengkol|n,lacur,bantut,menggagalkan
 挫伤	sengkol|n
 挫劣	kikuk
 挫劣的	kikuk
-挫性	tuberkulosis|n
-挫性结	tuberkulosis|n
-挫性结核	tuberkulosis|n
-挫折	bantut,lacur,menggagalkan
-攫	cekau,kaki ragut|n,mat ragut|n,sambar|v
+挫折	lacur,bantut,menggagalkan
+攫	cekau
 攫取	cekau
-攫夺	kaki ragut|n,mat ragut|n
-攫夺者	kaki ragut|n,mat ragut|n
+攫夺	mat ragut|n,kaki ragut|n
+攫夺者	mat ragut|n,kaki ragut|n
 攫掠	sambar|v
 攫掠物	sambar|v
 斫	pancung|v,tebak
 斫掉	tebak
-末	abuk|v,akhirulkalam,baja serbuk,bubuk|n,debu|n,hujung|adj,kiamat,memirik
-末了	akhirulkalam,muntaha,mutamad
+末	punca|n,hujung|adj,muntaha,akhirulkalam,mutamad,kiamat
+末了	muntaha,akhirulkalam,mutamad
+末儿	serbuk|n
+末叶	akhir|adj
+末子	serbuk|n
 末尾	punca|n
 末日	kiamat
+末期	akhir|adj
+末梢	akhir|adj
 末端	hujung|adj
-末肥	baja serbuk
-末肥料	baja serbuk
-沫	busa|n,air liur,berbusa,buih,gelembung,kekat
-沫的	kekat
-漫	komik|n,manga|n,mat bunga|n,pudat,romantik,rubu,siar
-漫无	rubu
-漫无目	rubu
-漫无目的	rubu
-漫无目的地	rubu
-漫无目的地步	rubu
+末篇	akhir|adj
+沫	busa|n
+漫	siar
 漫无目的地步行	rubu
 漫步	siar
 漫溢	pudat
 漫溢的	pudat
-漫画	komik|n,manga|n
-漫的	mat bunga|n,romantik
-猫	kucing|n,kucing hutan|n,burung hantu|n,burung pungguk,hidung dicium pipi digigit,jampuk,kesturi,kucing liar|n
-猫叫	mengeong|v,ngeong|n,ngiau
-猫叫声	mengeong|v,ngeong|n,ngiau
-猫哭	hidung dicium pipi digigit
-猫哭老	hidung dicium pipi digigit
-猫哭老鼠	hidung dicium pipi digigit
-猫哭老鼠假	hidung dicium pipi digigit
-猫哭老鼠假慈	hidung dicium pipi digigit
+漫漫	lama|adj
+炫酷	keren|adj
+猫	kucing|n,kucing hutan|n
+猫叫	ngiau
+猫叫声	ngiau
+猫叫声猫叫	ngeong|n,mengeong|v
 猫哭老鼠假慈悲	hidung dicium pipi digigit
-猫声	kus
-猫头	burung hantu|n,burung pungguk,jampuk,pungguk|n
-猫头鹰	burung hantu|n,burung pungguk,jampuk,pungguk|n
-玫	air mawar|n,mawar|n,ros
+猫头	pungguk|n,burung pungguk
+猫头鹰	pungguk|n,burung pungguk
+猫头鹰走私	burung hantu|n
+玫	mawar|n
 玫瑰	mawar|n,air mawar|n,ros
 玫瑰花	ros
 玫瑰香	air mawar|n
 玫瑰香水	air mawar|n
-疫	abak,kebal|adj,kuarantin,pasir ris,sampar
-疫停	kuarantin
-疫停船	kuarantin
-疫吸	pasir ris
-疫吸附	pasir ris
-疫吸附剂	pasir ris
+疫	sampar
 疫病	sampar
-疫的	kebal|adj
 瘫	capik,tepok
 瘫痪	capik,tepok
-箫	serunai
-紫	ultraungu|n,ungu|adj,violet
-紫外	ultraungu|n
-紫外线	ultraungu|n
-紫外线的	ultraungu|n
+紫	ungu|adj,violet
+紫外线的紫外线	ultraungu|n
+紫外线的紫外线的	ultraungu|n
 紫色	ungu|adj,violet
-纫	jahit-menjahit,punding
-芫	daun ketumbar|n,ketumbar|n
 芫荽	ketumbar|n,daun ketumbar|n
 芫荽叶	daun ketumbar|n
-茫	inga|v,mangut,teringa-inga
+芫荽芫	ketumbar|n
+芫荽芫荽	ketumbar|n
+茫	inga|v,teringa-inga
 茫然	inga|v,teringa-inga,mangut
 茫然失	mangut
 茫然失措	mangut
-莫	mosko
+莫不是	barangkali|adv,agaknya|adv
 莫斯	mosko
 莫斯科	mosko
 螫	gigit|v
-被	di|prep,gebar|n,selimut|n,abras|adj,babas,banduan|n,bengik|adj,berseliput
-被代	betol|adj,habok|n,hadith|n,ketjap|n,masok|v,ramadhan,repablik|n
-被代替	betol|adj,habok|n,hadith|n,ketjap|n,masok|v,ramadhan,repablik|n
-被代替的	betol|adj,habok|n,hadith|n,ketjap|n,masok|v,ramadhan,repablik|n
+被	di|prep,selimut|n,gebar|n,tersebut|det,orang kena tuduh|n,cadar,lerek,ragung
+被代	betol|adj,habok|n,masok|v,hadith|n,ketjap|n,repablik|n,ramadhan
+被代替	betol|adj,habok|n,masok|v,hadith|n,ketjap|n,repablik|n,ramadhan
+被代替的	betol|adj,habok|n,masok|v,hadith|n,ketjap|n,repablik|n,ramadhan
 被传	tersebar
 被传开	tersebar
-被偷	curian|adj
-被偷窃	curian|adj
-被偷窃的	curian|adj
 被关	tertutup
 被关上	tertutup
-被冲	terdampar
-被冲上	terdampar
-被冲上岸	terdampar
 被冲上岸边	terdampar
-被动	pasif|adj
-被动的	pasif|adj
 被包	terkepung
 被包围	terkepung
-被单	cadar,gebar|n
+被单	gebar|n,cadar
 被压	pereh,terhempap,tertindih
 被压倒	pereh
 被压倒的	pereh
@@ -194,31 +156,26 @@
 被吸	terpesona
 被吸引	terpesona
 被吸引住	terpesona
-被吹	babas
-被吹出	babas
-被吹出航	babas
-被吹出航路	babas
-被吹出航路外	babas
 被告	orang kena tuduh|n
 被夹	tersepit
 被强	bengik|adj,terpaksa
-被强迫	terpaksa,bengik|adj
+被强迫	bengik|adj,terpaksa
 被强迫的	bengik|adj
-被忽	keterabaian|v,terabai|v
-被忽视	keterabaian|v,terabai|v
-被忽视的	keterabaian|v,terabai|v
+被忽	terabai|v,keterabaian|v
+被忽视	terabai|v,keterabaian|v
+被忽视的	terabai|v,keterabaian|v
 被怀	suspek|n
 被怀疑	suspek|n
 被怀疑者	suspek|n
-被感	abras|adj
-被感染	abras|adj
-被感染的	abras|adj
+被感染的被感染	abras|adj
+被感染的被感染的	abras|adj
 被打	tokek|n
 被打开	tokek|n
 被扯	rabit
 被扯破	rabit
 被扼	tercekik
 被扼死	tercekik
+被拒之人	buang|v
 被拘	banduan|n
 被拘留	banduan|n
 被拘留者	banduan|n
@@ -228,22 +185,24 @@
 被拿走	diambil
 被接	terkabul
 被接受	terkabul
-被掩	berseliput,seliput
-被掩盖	berseliput,seliput
-被掩盖着	berseliput,seliput
+被掩	seliput,berseliput
+被掩盖	seliput,berseliput
+被掩盖着	seliput,berseliput
 被提	tersebut|det
 被插	tersisip
 被插入	tersisip
 被撞	ragung,terlanggar
-被放	terbiar,terletak|v
+被放	terletak|v,terbiar
 被放在	terletak|v
 被放弃	terbiar
 被烧	terbakar
 被烧光	terbakar
 被牵	terbabit,terlibat,tersangkut
 被牵连	terbabit,terlibat,tersangkut
-被绊	sandung,tersandung|v
-被绊倒	sandung,tersandung|v
+被疑者	suspek|n
+被窝	katil|n
+被绊	tersandung|v,sandung
+被绊倒	tersandung|v,sandung
 被绑	terikat
 被绑住	terikat
 被罚	kena denda
@@ -253,10 +212,9 @@
 被虐	masokisme|n
 被虐待	masokisme|n
 被虐待狂	masokisme|n
-被褥	selimutkan
-被诅	laknatullah|n,waknat|adj
-被诅咒	laknatullah|n,waknat|adj
-被诅咒的	laknatullah|n,waknat|adj
+被诅	waknat|adj,laknatullah|n
+被诅咒	waknat|adj,laknatullah|n
+被诅咒的	waknat|adj,laknatullah|n
 被辗	lerek
 被迷	terpesona
 被迷住	terpesona
@@ -267,57 +225,35 @@
 被隔	terpencil|adj
 被隔离	terpencil|adj
 被隔离的	terpencil|adj
-讫	lunas
-贫	fakir,kemiskinan|n,miskin|adj,sengsara|n,tidapa,udap-udapan
+贫	miskin|adj,kemiskinan|n
+贫乏	kekurangan|n,terbatas|adj
 贫困	sengsara|n
 贫困的	sengsara|n
-贫穷	kemiskinan|n,miskin|adj,fakir
+贫气	min|n
+贫相	min|n
+贫穷	miskin|adj,kemiskinan|n,fakir
 贫穷的	fakir
 贫穷的人	fakir
 贫苦	udap-udapan
 贫苦的	udap-udapan
-贫血	tidapa
-贫血因	tidapa
-贫血因素	tidapa
-身	agsa,badan|n,batu loncatan,bawa diri,berbakti,bercacah,bogel|adj,bujang|n
-身不	lumpuh|v
-身不遂	lumpuh|v
-身于	berbakti,komited|adj,menceburkan
-身于某	komited|adj
-身于某种	komited|adj
-身于某种事	komited|adj
-身于某种事业	komited|adj
-身于某种事业的	komited|adj
-身份	hina mulianya,identiti|n,jati diri|n,kejohanan|n
-身体	badan|n,diri|n,jasad|n,tubuh|n,bulu rama,jasmani|n,jelum,kebendaan
-身体上	bulu rama
-身体上的	bulu rama
-身体上的毛	bulu rama
+身	jasad|n,identiti|n,badan|n,tubuh|n,jati diri|n,diri|n,sosok,susuk badan
+身价	baloi|n
+身份	identiti|n,jati diri|n,hina mulianya
+身体	jasad|n,badan|n,tubuh|n,jasmani|n,diri|n,kebendaan
 身体的	jasmani|n,kebendaan
-身向	serondong
-身向过	serondong
-身屈	dekam
-身屈腿	dekam
+身子	kesihatan|n,kehamilan|n
+身孕	hamil|adj,kehamilan|n
+身形	rajah|n
+身影	rajah|n
 身心	jiwa raga
-身房	gimnasium|n
-身探	jenguk
-身探望	jenguk
-身术	pelias
+身态	rajah|n,acah|v
+身才	rajah|n,susuk|n
 身材	sosok,susuk badan
-身汉	agsa,bujang|n,lajang,lamban,sarjana muda|n
-身班	moreng
-身班痕	moreng
-身班痕的	moreng
-身的	bogel|adj,kebongkokkan|n
-身衣	sika
-身金	mesara
-身阶	batu loncatan
-身食	zawadah
-身食物	zawadah
-身體	fizikal|adj
-身體的	fizikal|adj
-辫	lapih,selimpat,tocang
+身段	rajah|n
+辫	selimpat
 辫带	selimpat
-辫的	lapih
 钫	fransium|n
-锫	berkelium|n
+钫钫	fransium|n
+锫锫	berkelium|n
+锫锫B	berkelium|n
+锫锫Bk	berkelium|n

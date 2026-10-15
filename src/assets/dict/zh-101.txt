@@ -1,567 +1,308 @@
-以	agah,agar|conj,asfalt|n,belakang|n,biar|v,bisa|adj,boleh|v,dahulu|adv
-以下	substandard|adj
-以下的	substandard|adj
-以为	menyangka,palatau|n
-以为博	palatau|n
-以为博学	palatau|n
-以为博学的	palatau|n
-以为博学的人	palatau|n
-以便	agar|conj,biar|v
+以...为条件	berpencen|v
+以…	berjudul,mencalitkan,berdindingkan,mencontengkan
+以…为	berjudul,berdindingkan
+以…为墙	berdindingkan
+以…为提	berjudul
+以…为支柱	bertopang
+以…为根据	beralaskan
+以…作为抵押	cagarkan
+以…做借口	berdalih
+以…涂	mencalitkan,mencontengkan
+以…涂污	mencalitkan,mencontengkan
+以为	menyangka
+以便	biar|v,agar|conj
 以前	dahulu|adv,dahulu kala
-以及	dan sterusnya,gagah|adj,kedap
-以及不	kedap
-以及不能	kedap
-以及不能渗	kedap
+以及	gagah|adj
 以及不能渗透	kedap
 以及不能渗透的	kedap
-以及其	dan sterusnya
-以及其他	dan sterusnya
-以及其他等	dan sterusnya
 以及其他等等	dan sterusnya
 以及强	gagah|adj
 以及强壮	gagah|adj
-以及活	gagah|adj
 以及活耀	gagah|adj
 以及活耀的	gagah|adj
-以后	belakang|n,esok-esok|adv,kelak|adj,kemudian|adv,semenjak|conj,sementelah
+以后	semenjak|conj,belakang|n,kelak|adj,kemudian|adv,esok-esok|adv,sementelah
 以实	ismail
 以实玛	ismail
 以实玛利	ismail
 以往	lepas|adj,silam
 以往的	lepas|adj,silam
-以拇	ibu jari|n
-以拇指	ibu jari|n
-以拇指拨	ibu jari|n
-以拇指拨弄	ibu jari|n
 以掌	kuit
 以掌示	kuit
 以掌示意	kuit
-以放	serampin
-以放硕	serampin
-以放硕莪	serampin
-以放硕莪的	serampin
-以放硕莪的席	serampin
-以朋	meminta|v
-以朋友	meminta|v
-以朋友态	meminta|v
-以朋友态度	meminta|v
-以朋友态度对	meminta|v
-以朋友态度对待	meminta|v
-以朋友态度对待请	meminta|v
-以朋友态度对待请求	meminta|v
-以杆	mengumpil,umpil
-以杆起	mengumpil,umpil
-以杆起之	mengumpil,umpil
-以柏	asfalt|n
-以柏油	asfalt|n
-以柏油铺	asfalt|n
-以棍	memepah,pepah
-以棍击	memepah,pepah
-以棍击之	memepah,pepah
-以椰	onde-onde
-以椰糖	onde-onde
-以椰糖作	onde-onde
-以椰糖作馅	onde-onde
-以椰糖作馅的	onde-onde
-以椰糖作馅的团	onde-onde
+以朋友态度对待请求请求	meminta|v
+以杆	umpil,mengumpil
+以杆起	umpil,mengumpil
+以杆起之	umpil,mengumpil
+以棍	pepah,memepah
+以棍击	pepah,memepah
+以棍击之	pepah,memepah
 以椰糖作馅的团子	onde-onde
-以氧	pengoksigenan|n
-以氧气	pengoksigenan|n
-以氧气处	pengoksigenan|n
 以氧气处理	pengoksigenan|n
-以污	selepet
-以污粘	selepet
-以污粘物	selepet
-以熏	rabun|adj
-以熏蚊	rabun|adj
 以目	agah
 以目示	agah
 以目示意	agah
-以竿	memepah,pepah
-以竿击	memepah,pepah
-以竿击之	memepah,pepah
-以肘	telekan,teleku
-以肘支	telekan,teleku
-以肘支撑	telekan,teleku
+以竿	pepah,memepah
+以竿击	pepah,memepah
+以竿击之	pepah,memepah
+以肘	teleku,telekan
+以肘支	teleku,telekan
+以肘支撑	teleku,telekan
 以致	supaya|conj
-以船	perahu|n
-以船运	perahu|n
 以色	rejim zionis
 以色列	rejim zionis
-以被	selimutkan
-以被褥	selimutkan
-以装	gaba
-以装饰	gaba
-以装饰牌	gaba
-以装饰牌楼	gaba
-以装饰牌楼的	gaba
-以装饰牌楼的椰	gaba
-以装饰牌楼的椰叶	gaba
 以角	tebuk|v
 以角抵	tebuk|v
 以角抵之	tebuk|v
-以赴	dengan sesungguhnya
 以重	menekankan
 以重音	menekankan
 以重音念	menekankan
-以金	sadur
-以金属	sadur
-以金属色	sadur
-以金属色彩	sadur
-以金属色彩的	sadur
-以面	lingkup
-以面纱	lingkup
 以鼻	sedut|v
 以鼻吸	sedut|v
 以鼻吸气	sedut|v
-健	afiat,alpa|adj,aras,bangkut,bina badan|n,bugar,cegak,gagah perkasa
-健全	bangkut,waras|adj
-健全的	waras|adj
-健壮	cegak
-健壮的	cegak
-健康	kesihatan|n,sehat|adj,sihat|adj,aras,bugar,urip
-健康的	aras,bugar,urip
+健	kesihatan|n,sihat|adj,alpa|adj,bina badan|n,sehat|adj
+健全	bunyi|n
+健壮	segar|adj
+健康	kesihatan|n,sihat|adj,sehat|adj,bugar,urip
+健康的	bugar,urip
+健康的分界	aras
 健忘	alpa|adj,mamang
 健忘的	mamang
-健的	bugar,gagah perkasa,gempal,sasa
+健旺	segar|adj
 健美	bina badan|n
 健身	gimnasium|n
 健身房	gimnasium|n
-入	asak,bajet|n,baur,bebek|n,belian|n,benam,berdudukan|adj,bersekolah
-入困	terkurung|adj
-入困境	terkurung|adj
-入困境的	terkurung|adj
+入	pikat|v,penagihan|n,berdudukan|adj,invaginasi|n,lepik,terpikat,bersekolah
 入场	bunduki|n
 入场券	bunduki|n
-入境	imigrasi,imigresen|n
 入学	bersekolah
 入席	berdudukan|adj
-入水	bebek|n,cebur,gelabur,junam,lucup
-入水中	bebek|n,cebur,gelabur,junam,lucup
-入滚	celur
-入滚水	celur
-入滚水中	celur
-入的	belian|n,kabal,kemik,pendatang|n,tatah|n,terhimpit|adj
-入的货	belian|n
-入的货物	belian|n
-入睡	lepik,mengulit,terlena
-入者	pengimport|n
-入药	koyok|n
-入药品	koyok|n
-入迷	penagihan|n,pikat|v,terpikat
-入陷	terperangkap,terserling
-入陷阱	terperangkap,terserling
+入木三分	hebat|adj
+入球	matlamat|n
+入睡	lepik
+入迷	pikat|v,penagihan|n,terpikat
 入鞘	invaginasi|n
-入预	bajet|n
-入预算	bajet|n
-剥	gelotak,mengelupas|v,mengupas,berpesai,kaup,kelus,kerosok,kobak
-剥削	kaup,kobak,memeras,peras|v
+剥	mengelupas|v,gelotak,mengupas,peras|v,lapah|v,selinap,kopek,kaup
+剥削	peras|v,kaup,memeras,kobak
 剥去	luruh|v
-剥开	lerak,mengopek,retas
-剥皮	kelus,kobak,kopak,kopek,kubak,lapah|v,menguliti,selinap
+剥开	retas,lerak,mengopek
+剥皮	lapah|v,selinap,kopek,kelus,kopak,menguliti,kobak,kubak
 剥落	sungkap
-剥鱼	kulipas
-剥鱼鳞	kulipas
-剥鳞	kerosok
-剥鳞声	kerosok
-句	ayat|n,bahawa|conj,kalimah|n,kalimat|n,lafaz,majmuk,nas,noktah|n
-句体	pantun|n
-句体之	pantun|n
-句体之马	pantun|n
-句体之马来	pantun|n
-句体之马来诗	pantun|n
-句体之马来诗文	pantun|n
+句	kalimah|n,noktah|n,ayat|n,kalimat|n
 句号	noktah|n
-句子	ayat|n,kalimah|n,kalimat|n
-句法	sintaksis
+句子	kalimah|n,ayat|n,kalimat|n
 句点	noktah|n
-句的	bahawa|conj
-句的连	bahawa|conj
-句的连接	bahawa|conj
-句的连接词	bahawa|conj
-哥	abang|n,burung pialing,colombia,kak|n,kopenhagen,kota belud,kota bharu,kota kinabalu
+哥	abang|n,kota belud,kota bharu
 哥伦	colombia
 哥伦比	colombia
 哥伦比亚	colombia
-哥哥	abang|n,kak|n
-哥哥或	kak|n
-哥哥或姐	kak|n
-哥哥或姐姐	kak|n
-哥或	kak|n
-哥或姐	kak|n
-哥或姐姐	kak|n
-哥打	kota belud,kota bharu,kota kinabalu
-哥打基	kota kinabalu
+哥哥	abang|n
+哥打	kota belud,kota bharu
 哥本	kopenhagen
 哥本哈	kopenhagen
 哥本哈根	kopenhagen
-奥	olimpiad|n
-奥林	olimpiad|n
-奥林匹	olimpiad|n
-奥林匹克	olimpiad|n
-奥林匹克世	olimpiad|n
-奥林匹克世界	olimpiad|n
-奥林匹克世界运	olimpiad|n
-奥林匹克世界运动	olimpiad|n
-奥林匹克世界运动大	olimpiad|n
+啥子	apa|pron
+奥妙	hebat|adj
+奥援	sokong|n
 奥林匹克世界运动大会	olimpiad|n
-履	kasut|n,kaus,afa,bayar kaul,beluncas|n,menepati,menunaikan,pelaksanaan
-履带	beluncas|n
-履带车	beluncas|n
-履行	afa,menepati,menunaikan,pelaksanaan,bayar kaul
+奥秘	rahsia|adj,teka-teki|n
+履	kasut|n,kaus,afa,menunaikan,pelaksanaan,menepati
+履行	afa,menunaikan,pelaksanaan,menepati,bayar kaul
 履行诺	bayar kaul
 履行诺言	bayar kaul
-工	alku,ayub,bangsal,banting tulang,bekerja|v,bengkel|n,berkuli,berusaha
-工业	industri,perusahaan|n,kawasan perindustrian|n,perindustrian,revolusi perindustrian,sukan elektronik|n
+峥嵘	mantul|adj
+工	gaji|n,kilang|n,fiil|n,bengkel|n,tugas|n,perabot|n,tu|det,peranti|n
+工业	perusahaan|n,industri,kawasan perindustrian|n,perindustrian,revolusi perindustrian
 工业区	kawasan perindustrian|n
-工业协	sukan elektronik|n
-工业协会	sukan elektronik|n
-工业协会接	sukan elektronik|n
-工业协会接口	sukan elektronik|n
 工业的	perindustrian
 工业革	revolusi perindustrian
 工业革命	revolusi perindustrian
-工人	buruh,pekerja|n,bangsal,mekanik|adj,pembasuh
+工人	pekerja|n,buruh,bangsal
 工人宿	bangsal
 工人宿舍	bangsal
-工作	ayub,bekerja|v,fiil|n,jam kerja|n,karier|n,kerja|n,tugas|n,usahakan
+工会	tu|det
+工作	fiil|n,tugas|n,kerja|n,ayub,kakitangan|n,karier|n,bekerja|v,jam kerja|n
 工作人	kakitangan|n
 工作人员	kakitangan|n
 工作地	tempat kerja
 工作地点	tempat kerja
-工作者	budayawan,jurnalis,sosiawan
+工作室	bengkel|n
+工作面	muka|n
 工兵	sapir
-工具	implementasikan|v,pendingin|n,penebuk|n,penyaman|n,perabot|n,peranti|n,perkakas,radas
-工匠	karyawan|n,kipu,tukang|n,utas
-工半	separuh masa|n
-工半薪	separuh masa|n
-工厂	kilang|n,loji|n,pabrik|n
-工场	bengkel|n,loji|n,woksyop|n
-工头	alku,bos|n,mandur
-工智	kecerdasan buatan|n
-工智能	kecerdasan buatan|n
-工程	jurutera,kejuruteraan|n
+工具	perabot|n,peranti|n,penebuk|n,penyaman|n,pendingin|n,implementasikan|v,perkakas,radas
+工匠	utas,tukang|n,karyawan|n,kipu
+工厂	kilang|n,pabrik|n,loji|n
+工商业	bisnes|n
+工商界	perusahaan|n
+工场	bengkel|n,woksyop|n,loji|n
+工坊	bengkel|n
+工头	bos|n,mandur,alku
+工学	kejuruteraan|n
+工房	bengkel|n
+工程	kejuruteraan|n,jurutera
 工程学	kejuruteraan|n
 工程师	jurutera
-工者	pemogok|n
-工艺	teknologi|n,politeknik,vokasional
+工艺	teknologi|n,vokasional,politeknik
 工艺学	politeknik
 工艺学院	politeknik
 工艺的	vokasional
-工資	ujrah|n
-工资	gaji|n,upah|n,upah gaji,penyata gaji|n,slip gaji|n
-工资单	penyata gaji|n,slip gaji|n
-拥	akaf,ampunya,bebang,bekat,belai,berdakap,dakap,desak|v
-拥抱	belai,berdakap,dakap,lekap,memeluk,merangkum,peluk|v,rangkum
-拥挤	bebang,bekat,desak|v,jejal,kecuh,kesesakan|n,morat-marit,sesak|adj
-拥挤的	hempit,himpit,impit,padat|adj
-拥有	ampunya,empunya|n,kepunyaan|n,malik,memiliki,mempunyai|v,punya|v,akaf
+工资	gaji|n,upah|n,upah gaji,slip gaji|n,penyata gaji|n
+工资单	slip gaji|n,penyata gaji|n
+工钱	gaji|n
+拥	desak|v,peluk|v,kesesakan|n,sesak|adj,jejal,morat-marit,belai,kecuh
+拥戴	sokong|n
+拥抱	peluk|v,belai,lekap,rangkum,dakap,memeluk,berdakap,merangkum
+拥挤	padat|adj,desak|v,kesesakan|n,sesak|adj,jejal,morat-marit,kecuh,bebang
+拥挤的	padat|adj,impit,hempit,himpit
+拥有	punya|v,empunya|n,kepunyaan|n,mempunyai|v,pemilik|n,empu|n,malik,memiliki
 拥有权	hakmilik
-拥有的	akaf
-拥有的产	akaf
-拥有的产业	akaf
-拥有者	empu|n,pemilik|n,pemunya|n
+拥有者	pemilik|n,empu|n,pemunya|n
 拥满	pudat
 拥满的	pudat
-日	hari|n,suria|n,abun-abun|n,ahad|num,almanak,angan-angan|n,artaharian,batuk jerih
-日之	roji
-日之粮	roji
-日冕	koronavirus|n
-日冕形	koronavirus|n
-日冕形病	koronavirus|n
+拥趸	kipas|n
+日	harian|adv,hari|n,tarikh|n,kalendar|n,kapel|v,maghrib,haribulan,almanak
+日光	cahaya matahari|n
 日冕形病毒	koronavirus|n
-日利	nigeria
-日利亚	nigeria
-日历	almanak,kalendar|n
-日后	tulat|n,tungging
-日咳	batuk jerih,batuk rejan
-日子	haribulan,hari besar,hari raya|n,libur
-日常	cakapan sehari-hari,lasak,pemakanan|n
+日刊	harian|adv
+日历	kalendar|n,almanak
+日头	matahari|n
+日子	haribulan
+日常	pemakanan|n,lasak,cakapan sehari-hari
 日常会	cakapan sehari-hari
 日常会话	cakapan sehari-hari
 日常的	lasak
 日常饮	pemakanan|n
 日常饮食	pemakanan|n
-日快	selamat hari jadi|int
-日快乐	selamat hari jadi|int
-日报	artaharian,harian|adv
-日新	berita harian
-日新闻	berita harian
-日月	rahu
-日月而	rahu
-日月而引	rahu
-日月而引起	rahu
-日月而引起亏	rahu
-日月而引起亏蚀	rahu
-日月而引起亏蚀的	rahu
-日月而引起亏蚀的巨	rahu
-日月而引起亏蚀的巨龙	rahu
-日期	haribulan,kapel|v,tarikh|n,bertarikh,daeng|n,ekspot|n,impot|adj,katerangan|n
-日期的	bertarikh,daeng|n,ekspot|n,impot|adj,katerangan|n,pentarikhan|n,puteh|adj,sharikat|n
-日本	jepang,jepun,manga|n,ramen|n,wikang|n
+日志	balak|n
+日怪	aneh|adj
+日报	harian|adv,artaharian
+日月	musim|n
+日期	tarikh|n,kapel|v,haribulan
+日本	manga|n,ramen|n
 日本人	ramen|n
-日本株	wikang|n
-日本株式	wikang|n
-日本株式会	wikang|n
-日本株式会社	wikang|n
-日本株式会社远	wikang|n
-日本株式会社远藤	wikang|n
-日本株式会社远藤公	wikang|n
+日本天然漆	jepun,jepang
 日本株式会社远藤公司	wikang|n
+日本海事协会（Nippon	nk|v
 日本漫	manga|n
 日本漫画	manga|n
-日梦	abun-abun|n,angan-angan|n,mangut,melamun|v
-日的	ahad|num
 日落	maghrib
-日葵	bunga matahari|n
-日薪	separuh masa|n
 日蚀	gerhana matahari
-日记	diari|n
-日记簿	diari|n
-日费	upah hari
-日费用	upah hari
-来	datang|v,akan datang,akhirat,alim,asal|n,bakal|n,baktang|v,bangkit
+日語	suria|n
+日語彙	suria|n
+日记日记簿	diari|n
+来	datang|v
 来世	akhirat,negeri akhirat
-来临	akan datang
-来临的	akan datang
-来乳	getah perca|n,getah taban|n
-来乳胶	getah perca|n,getah taban|n
-来亚	persekutuan tanah melayu,sakai|n
-来亚的	sakai|n
-来亚的沙	sakai|n
-来亚的沙盖	sakai|n
-来亚的沙盖族	sakai|n
-来亚联	persekutuan tanah melayu
-来亚联合	persekutuan tanah melayu
-来亚联合邦	persekutuan tanah melayu
-来人	bangsa melayu,jawi|n,melayu
-来人的	melayu
-来剑	muntil
-来半	tanah melayu|n
-来半岛	tanah melayu|n
-来去	golak-galik
-来去去	golak-galik
 来回	alim
-来土	bomoh|n
-来土医	bomoh|n
+来头	ayaw|n
+来客	tamu|n
 来宾	tetamu
-来尝	cecap|v
-来尝味	cecap|v
-来尝味道	cecap|v
-来幸	bawa untung
-来幸运	bawa untung
-来式	linggi
-来式船	linggi
-来式船首	linggi
-来式船首龙	linggi
-来式船首龙骨	linggi
-来式船首龙骨的	linggi
-来式船首龙骨的夹	linggi
-来式船首龙骨的夹板	linggi
-来往	campur gaul,lalu-lalang,ulang-alik
-来往往	lalu-lalang,ulang-alik
-来忽	bebar
-来忽去	bebar
-来挤	berasak-asakan,berhimpit-himpit
-来挤去	berasak-asakan,berhimpit-himpit
-来文	melayu,pengajian melayu
-来文研	pengajian melayu
-来文研究	pengajian melayu
-来暹	samsam
-来暹锣	samsam
-来暹锣的	samsam
-来暹锣的混	samsam
-来暹锣的混种	samsam
-来暹锣的混种人	samsam
-来来	golak-galik,lalu-lalang,ulang-alik
+来往	campur gaul
+来朝	esok|n
+来来	golak-galik,ulang-alik,lalu-lalang
 来来去	golak-galik
 来来去去	golak-galik
-来来往	lalu-lalang,ulang-alik
-来来往往	lalu-lalang,ulang-alik
-来椰	gelamai
-来椰糕	gelamai
-来椰糕名	gelamai
-来歌	bangsawan|n,makyung
-来歌剧	bangsawan|n,makyung
+来来往	ulang-alik,lalu-lalang
+来来往往	ulang-alik,lalu-lalang
 来此	mari|v
-来歪	erutbenyut
-来歪去	erutbenyut
-来民	pak kaduk,ronggeng
-来民族	ronggeng
-来民族的	ronggeng
-来民族的土	ronggeng
-来民族的土风	ronggeng
-来民族的土风舞	ronggeng
-来民间	pak kaduk
-来民间故	pak kaduk
-来民间故事	pak kaduk
-来民间故事中	pak kaduk
-来民间故事中之	pak kaduk
-来民间故事中之痴	pak kaduk
-来民间故事中之痴汉	pak kaduk
 来源	asal|n,punca|n,sumber|n
-来滚	guling-gantang
-来滚去	guling-gantang
-来潮	datang haid
-来熊	beruang madu|n
-来獾	teledu|n
-来的	bakal|n,belati|n,hadapan|det,jawi|n,jelimput,sewajarnya,singkek|n
-来的华	singkek|n
-来的华侨	singkek|n
-来的方	jelimput
-来的方向	jelimput
-来移	imigrasi,imigresen|n
-来移民	imigrasi,imigresen|n
-来糕	dodol
-来翻	membalik-balik
-来翻去	membalik-balik
-来者	sengkek|n
-来舞	wayangbangsawan
-来舞台	wayangbangsawan
-来舞台戏	wayangbangsawan
-来西	bunga raya|n,keropok lekor|n,malaysia,malaysia boleh,ringgit malaysia,riyal|n
-来西亚	bunga raya|n,keropok lekor|n,malaysia,malaysia boleh,ringgit malaysia,riyal|n
-来西亚人	keropok lekor|n,ringgit malaysia
-来西亚和	riyal|n
-来西亚和新	riyal|n
-来西亚和新加	riyal|n
-来西亚和新加坡	riyal|n
-来西亚和新加坡元	riyal|n
-来西亚国	bunga raya|n
-来西亚国花	bunga raya|n
-来西亚的	keropok lekor|n,ringgit malaysia
-来诗	pantun|n
-来诗文	pantun|n
-来语	kata pinjaman|n
-来走	hilir-mudik
-来走去	hilir-mudik
-来踢	memacu
-来踢马	memacu
-查	amati,audit,banci|n,banci penduduk,bongkar,endap,geladah,geledah
-查员	penyelidik
-查官	inspektor
+来！	mari|v
+查	audit,menjabarkan
 查帐	audit,juruaudit
 查帐员	juruaudit
-查看	mempreviu|v,pratonton|n,previu|n
 查证	menjabarkan
-桥	jambatan|n,kertak,titian,jambatan gantung|n,jejatas,kup,palemban,ponton
-步	berjalan-jalan,berkemajuan,bersiar-siar,cepat jalan|n,derap,henti|v,jalan kaki,kemajuan|n
-步人	pemacu|n,perentak jantung|n
-步伐	langkah|v,tindak|v,tingkah,derap
+桥	jambatan|n,titian,kertak
+桥接器	jambatan|n
+桥梁	jambatan|n
+桥段	adegan|n,jambatan|n
+桥面	tingkat|n
+步	tindakan|n,tingkah,langkah|v,tindak|v,setapak|n,jalan kaki
+步伐	tingkah,langkah|v,tindak|v,derap
 步伐声	derap
-步地	terpacu-pacu
-步声	derap
+步兵	kaki|n
+步子	tatacara|n
 步法	tindakan|n
-步的	progresif,tardigrada|n
-步行	jalan kaki,cepat jalan|n,rubu
-步行进	cepat jalan|n
+步行	jalan kaki
+步调	tatacara|n
 步陡	tindak|v
 步骤	setapak|n
-泥	ketam nipah|n,selut,becak,bergelumang,betutu,bingkah,budu|n,buldozer
+泥	ketam nipah|n,lumpur|n,selut,toman|n,gambut|n,lopak,geluh,lodak
 泥土	geluh,nampal
 泥块	bingkah
-泥塘	londang,lopak
-泥机	buldozer
-泥污	lumpur|n,bergelumang,gelumang,kertang
-泥污的	bergelumang,gelumang,kertang
-泥泞	lolok,becak,cincai|adj,lecah,lecak,lopong,selut
-泥泞的	becak,cincai|adj,lecah,lecak,lopong,selut
+泥塘	lopak,londang
+泥巴	lumpur|n
+泥水	lumpur|n
+泥污	lumpur|n,gelumang,kertang,bergelumang
+泥污的	gelumang,kertang,bergelumang
+泥泞	cincai|adj,lolok,lecah,lopong,selut,lecak
+泥泞的	cincai|adj,lecah,lopong,selut,lecak
+泥泞的斑点	becak
 泥浆	lumpur|n,turap
+泥淖	lumpur|n
 泥滓	lodak
 泥煤	gambut|n
-泥的	budu|n,lopong
-泥鱼	betutu
 泥鳗	toman|n
-滥	empoh,gabas,kojoh,melimpah|v,penderaan|n,sebak|adj,senak
+滥	penderaan|n
 滥用	penderaan|n
-滥造	gabas
-滥造的	gabas
-燥	kutai,menggelisah,tahi hidung|n,usang
-燥不	menggelisah
-燥不安	menggelisah
-燥的	tahi hidung|n,usang
-燥的鼻	tahi hidung|n
-燥的鼻粘	tahi hidung|n
-燥的鼻粘液	tahi hidung|n
-略	aa|n,abdb,agresi,agresif|adj,anak saudara|n,angkasa,atm,bbnu|n
+略	rumusan
 略咸	payau
 略咸的	payau
-略地	hitung-hitung|v
 略字	rumusan
-略的	agresif|adj,pengurusan strategik|n,strategik|adj
-略者	penceroboh,pengagresif|n
-略词	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
+略略	lebih kurang|adv,sekilas|adv
+略码	kanun|n
 略语	rumusan
-知	bagitahu|v,beritahu|v,cendekiawan|n,diberitahukan,entah,ilmu|n,ilmu pegetahuan,insafi|v
-知不	terlena
-知不觉	terlena
-知不觉入	terlena
-知不觉入睡	terlena
-知书	notis|n
-知去	sesat barat
-知去向	sesat barat
-知摩	musa
-知摩西	musa
-知的	jahil|adj,masyhur|adj,palatau|n,sedia maklum
-知觉	lasa
-知觉的	lasa
-知识	ilmu|n,ilmu pegetahuan,makrifat|n,pengetahuan|n,cendekiawan|n,intelektual
+盥洗室	bilik air|n,tandas|n
+知	ilmu|n,pengetahuan|n,makrifat|n,maklum|v,mengetahui|v,tahu|v,ilmu pegetahuan
+知觉	kesedaran|n
+知识	ilmu|n,pengetahuan|n,makrifat|n,cendekiawan|n,ilmu pegetahuan,intelektual
 知识份	cendekiawan|n
 知识份子	cendekiawan|n
 知识分	intelektual
 知识分子	intelektual
-知道	maklum|v,mengetahui|v,tahu|v,entah,insafi|v,insafkan|v,menginsafkan|v,tidak tahu|v
+知遇之恩	kawalan|n
+知道	maklum|v,mengetahui|v,tahu|v,insafi|v,insafkan|v,menginsafkan|v
 知道的	insafi|v,insafkan|v,menginsafkan|v
-祥	kidal|adj
-祥的	kidal|adj
-童	bikir,budak sekolah,kanak-kanak|n,pengakap
+童	bikir
+童儿	manai|n
 童子	pengakap
 童子军	pengakap
+童稚	kanak|n
 童贞	bikir
-腥	hamis,hanyir|adj,manus,pedar|adj
-腥味	hamis
-腥臭	hanyir|adj,manus,pedar|adj
+腥臭	pedar|adj,hanyir|adj,manus
 腥臭味	manus
-腥臭的	hanyir|adj,pedar|adj
-若	asalkan,berbilang,lagih,namun|adv,nyampang,sementang,senyampang
+腥臭的	pedar|adj,hanyir|adj
+若	berbilang
+若即若离	samar|adj
 若干	berbilang
-若悬	lagih
-若悬河	lagih
-补	menampal,calon|n,jerumat,kodek|v,lompok,majun,membetulkan|v,memburu
+补	menampal,majun,tempel
 补助	sambilan|adj
 补助物	sambilan|adj
-补品	tonik
 补片	lompok
-补者	calon|n
+补益	guna|n
 补药	majun
 补贴	tempel,musara
 补贴金	musara
 补锅	kodek|v
 补锅匠	kodek|v
-该	alih kata,atas hal itu,bagi perkara itu,jahanam|adj,patut|adj,seharusnya,tentang hal itu
+该	tentang hal itu
 该事	tentang hal itu
 该变	alih kata
 该变话	alih kata
 该变话题	alih kata
 该死	jahanam|adj
 该死的	jahanam|adj
-该项	atas hal itu,bagi perkara itu
-该项事	atas hal itu,bagi perkara itu
-该项事件	bagi perkara itu
-该项事情	atas hal itu
-遥	lonco,ongah-angih
-遥摆	ongah-angih
-遥摆摆	ongah-angih
+遥远	terpencil|adj
 遥遥	ongah-angih
 遥遥摆	ongah-angih
 遥遥摆摆	ongah-angih
-酥	gi|n,minyak sapi|n,perata|n
-酥油	gi|n,minyak sapi|n
-酥点	perata|n
-酥点心	perata|n
-铥	tulium|n
-镥	lutetium|n
-饥	alas perut,bulur|adj,kebuluran|n,kelaparan
-饥物	alas perut
+酥	gi|n
+酥松	goyang|adj
+酥油	gi|n
+铥铥	tulium|n
+铥铥T	tulium|n
+铥铥Tm	tulium|n
+镥镥	lutetium|n
+镥镥L	lutetium|n
+镥镥Lu	lutetium|n
+饥	bulur|adj,kebuluran|n,kelaparan
+饥荒	kepayahan|n,hutang|n
 饥饿	bulur|adj,kebuluran|n
 饥馑	kelaparan

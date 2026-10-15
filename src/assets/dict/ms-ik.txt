@@ -4,7 +4,7 @@ ikanasin	ikan asin		咸鱼
 ikanbadut	ikan badut	n	小丑鱼	clownfish; anemonefish
 ikanbilis	ikan bilis	n	江鱼仔	dried anchovies
 ikancumicumi	ikan cumi-cumi		乌贼
-ikanduyung	ikan duyung	n	美人鱼
+ikanduyung	ikan duyung	n	美人鱼	synonym of duyung
 ikankering	ikan kering	n	弄干了的	dried fish
 ikanmas	ikan mas		金鱼
 ikanmulung	ikan mulung		鳝鱼

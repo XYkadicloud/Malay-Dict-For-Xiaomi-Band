@@ -1,7 +1,10 @@
-俭	irit,jimat|adj
-六	enam|num,enam ratus|num,enam ribu|num,anak putih|n,bulan enam|n,dua puluh enam|num,empat puluh enam|num,enam belas|num
-六两	kati
-六十	enam puluh|num,enam puluh dua|num,enam puluh empat|num,enam puluh lapan|num,enam puluh lima|num,enam puluh satu|num,enam puluh sembilan|num,enam puluh tiga|num
+mano的复数形式	mani
+manīt的变形	mani
+ms-nounheadjانقتکق懸雍垂近义词	anak tekak|n
+ms-nounheadjانقليده懸雍垂1965	anak lidah|n
+muda副部长	menteri|n
+六	enam|num,enam ribu|num,enam ratus|num
+六十	enam puluh|num,enam puluh dua|num,enam puluh lima|num,enam puluh satu|num,enam puluh tiga|num,enam puluh empat|num,enam puluh lapan|num,enam puluh tujuh|num
 六十一	enam puluh satu|num
 六十七	enam puluh tujuh|num
 六十三	enam puluh tiga|num
@@ -10,93 +13,50 @@
 六十五	enam puluh lima|num
 六十八	enam puluh lapan|num
 六十四	enam puluh empat|num
-六夜	kunut
-六夜晚	kunut
-六夜晚的	kunut
-六夜晚的祈	kunut
-六夜晚的祈祷	kunut
-六尺	tembung|v
-六尺长	tembung|v
-六尺长的	tembung|v
 六尺长的棒	tembung|v
-六弦	gambus|n,gitar|n
+六弦	gitar|n
 六弦琴	gitar|n
-六弦琵	gambus|n
-六弦琵琶	gambus|n
-六月	bulan enam|n,jun
-六甲	melaka,semambu
-六甲树	melaka
-六甲藤	semambu
-六面	kiub
-六面体	kiub
-凭	bismillah,bukti,diploma,ijazah,kelulusan,sandar|v,sijil
-凭上	bismillah
-凭上帝	bismillah
-凭上帝的	bismillah
+六月	bulan enam|n
+凭	bukti
 凭上帝的名	bismillah
+凭什么	mengapa|adv
 凭证	bukti
-叭	hon|n,nafiri,pemuras,sangkakala|n,trompet
-叭枪	pemuras
-哭	menangis|v,cengeng,hidung dicium pipi digigit,lalak,lenggek,melolong,meratap,merengek
+哭	menangis|v,raung,rengek,meratap,merengek
 哭叫	raung
-哭声	lenggek
-哭泣	meratap,merengek,ngihngih,terisak-isak
+哭泣	meratap,merengek,ngihngih
 哭泣声	ngihngih
-哭老	hidung dicium pipi digigit
-哭老鼠	hidung dicium pipi digigit
-哭老鼠假	hidung dicium pipi digigit
-哭老鼠假慈	hidung dicium pipi digigit
-哭老鼠假慈悲	hidung dicium pipi digigit
 哭诉	rengek
-园	perlak|n,bustan|n,dusun,estet,kampus,kebun|n,kebun binatang|n,kebun getah
-园丘	estet,ladang getah,kebun getah
-园主	pekebun kecil
-园之	patio|n,seri taman
-园之中	seri taman
-园之中央	seri taman
-园之间	patio|n
-园之间的	patio|n
-园之间的一	patio|n
-园之间的一片	patio|n
-园之间的一片供	patio|n
-园之间的一片供晴	patio|n
-园之间的一片供晴天	patio|n
-园之间的一片供晴天休	patio|n
-园之间的一片供晴天休息	patio|n
-园之间的一片供晴天休息用	patio|n
-园之间的一片供晴天休息用的	patio|n
-园之间的一片供晴天休息用的石	patio|n
-园之间的一片供晴天休息用的石砌	patio|n
-园之间的一片供晴天休息用的石砌空	patio|n
-园地	medan,perlak|n
+园	perlak|n,kebun|n,medan,ladang getah,estet
+园丘	ladang getah,estet
+园区	taman|n
+园囿	taman|n
+园地	perlak|n,medan
 园子	kebun|n
-园锥	runjung
-园锥形	runjung
-峭	curam|adj
-峭的	curam|adj
+园林	taman|n
+园游会	adil|adj
+峭壁	curam|adj
 彭	pahang
 彭亨	pahang
-恭	dengan hormat,silu
-恭敬	dengan hormat,silu
-恭敬的	dengan hormat,silu
-扭	belit|v,memilin,menguk,pilin|n,bergumul,erut,geleding,geliat
-扭伤	kehel,kelenyuk,seliuh,selodok,terkehel,terseliuh
+恭敬	silu,dengan hormat
+恭敬的	silu,dengan hormat
+恭维	madah|n
+扭	belit|v,pilin|n,menguk,memilin,gulat,memulas,geleding,getil
+扭伤	kelenyuk,kehel,seliuh,selodok,terkehel,terseliuh
 扭出	perah|v
 扭干	pelintir
 扭弯	geliat,menekuk
-扭打	bergumul,gumul
+扭打	gumul,bergumul
 扭拧	getil,getu
 扭斗	gulat
 扭曲	geliat,erut,pelikuk
 扭曲的	erut,pelikuk
-扭歪	geleding,kerekut,memulas,lenting|v,pekuk,pelikuk
-扭歪的	lenting|v,pekuk,pelikuk
-扭的	kekok
-扭转	memiuh,memulas,piuh,liut,piak,piat
+扭歪	lenting|v,memulas,geleding,kerekut,pelikuk,pekuk
+扭歪的	lenting|v,pelikuk,pekuk
+扭转	memulas,piuh,memiuh,liut,piak,piat
 扭转的	liut,piak,piat
-拭	seka,apus,mengelap,usap
+拭	seka
 拭去	apus
-揭	buka rahsia,geroda|n,merasmikan,singkap
+揭	merasmikan,singkap
 揭发	buka rahsia
 揭发秘	buka rahsia
 揭发秘密	buka rahsia
@@ -104,117 +64,82 @@
 揭开	singkap
 揭路	geroda|n
 揭路荼	geroda|n
-潭	lobok
-灭	padam|adj,abadikan|v,banteras,basmi,berantas,binasa|adj,genosid|n,hancur luluh
+潭奥	hebat|adj,dalam|prep
+灭	padam|adj,binasa|adj,mampus|v,punah,jahanamkan
 灭亡	binasa|adj,jahanamkan
-灭擦	hapus|v
-灭擦掉	hapus|v
-灭的	malaun|n
-灭绝	mampus|v,punah,genosid|n
-热	panas|adj,angat,asyik|adj,bakti|n,berahi,berapi-api,bintat,cinta berahi
+灭失	kehilangan|n
+灭绝	mampus|v,punah
+热	hangat|adj,ramai|adj,panas|adj,hasrat|n,maksud|n,selera|n,idam|v,asyik|adj
 热中	kocah
-热器	pemanas|n
-热带	iklim panas,tropika,gelama,jitah,merbau|n,senggulung
-热带产	jitah
-热带产葛	jitah
-热带产葛之	jitah
+热乎	hangat|adj
+热带	merbau|n,tropika,iklim panas
 热带产葛之类	jitah
-热带白	senggulung
-热带白脚	senggulung
-热带白脚虫	senggulung
 热带白脚虫类	senggulung
 热带的	merbau|n
-热带鱼	gelama
-热度	hangat-hangat tahi ayam
-热心	leka,selera|n,penggemar|n,sungguh hati
+热心	selera|n,leka,penggemar|n,sungguh hati
 热心家	penggemar|n
 热心的	sungguh hati
-热恋	dendam berahi,gila berahi
-热望	empik,hasrat|n,idam|v,maksud|n
+热恋	gila berahi,dendam berahi
+热情	gembira|adj
+热望	hasrat|n,maksud|n,idam|v,empik
+热气	wap|n
 热水	termos
 热水瓶	termos
 热烈	hangat|adj,riah
 热烈的	hangat|adj,riah
 热爱	asyik|adj,bakti|n,berahi,cinta berahi,dendam berahi
 热狂	kocah
-热疾	demam berselang
-热病	kepialu,demam gigil,latah,tifoid
-热症	sakit demam
+热病	kepialu
 热痱	bintat
-热的	angat,hangat|adj,palak,berapi-api,fanatik|adj,kepam,kuap|v,ronyoh
+热的	hangat|adj,palak,angat
 热石	plaster
 热石膏	plaster
-热罨	temah,tuam
-热罨法	temah,tuam
-热者	taasub|adj
+热络	manja|adj,aktif|adj
+热罨	temah
+热罨法	temah
+热门	hangat|adj
 热闹	ramai|adj
-热风	samum
-狭	bandar seri begawan,bbb,bebang,langsar,picik,terik
+狭	picik,bebang
 狭小	picik
 狭小的	picik
 狭的	picik
 狭窄	bebang,terik
 狭窄的	terik
+狭窄部分	sempit|adj
 狭长	langsar
 狭长的	langsar
-狭鼻	bandar seri begawan,bbb
-狭鼻猴	bandar seri begawan,bbb
-獭	anjing air|n,berang-berang|n,kukang
-班	banjo|n,bank harimau,berjaga,berpesai,carta|n,dalang|n,giliran,kastela
-班主	dalang|n
-班主或	dalang|n
-班主或导	dalang|n
-班主或导演	dalang|n
-班克	bank harimau
-班剥	berpesai,pesai
+狭隘	sempit|adj
+班	kelas|n,pesai,berpesai
+班上	kelas|n
+班剥	pesai,berpesai
 班卓	banjo|n
 班卓琴	banjo|n
-班同	rakan sekelas|n
-班同学	rakan sekelas|n
-班牙	carta|n,kastela,moler,popular,ronda,sepanyol,tus
-班牙语	carta|n,moler,popular,ronda,tus
-班痕	moreng
-班痕的	moreng
-班的	nifas
 班级	kelas|n
 班长	ketua darjah
-短	pendek|adj,aligator,badik,batan,birai,bref|n,cerita pendek|n,cerpen|n
-短不	conggah-cangkih
-短不齐	conggah-cangkih
-短剑	badik,golok|n,keris,pendawa,petaram
-短叹	keluh-kesah
-短叹不	keluh-kesah
-短叹不安	keluh-kesah
-短地	secara ringkas
+短	pendek|adj,nam|num,golok|n,pandak,kutung,seluar pendek|n,keris,birai
+短促	singkat|adj
+短剑	golok|n,keris,badik
 短墙	birai
 短小	kedih,tengkes
 短小的	kedih,tengkes
+短时储存	stor|n
 短暂	fana
 短暂的	fana
-短枪	pemuras
 短棍	batan
 短波	gelombang pendek
-短的	kutung,nam|num,pandak,katik,puntung,senting
-短篇	cerita pendek|n,cerpen|n,cerpernis
-短篇小	cerita pendek|n,cerpen|n,cerpernis
-短篇小说	cerita pendek|n,cerpen|n,cerpernis
+短的	nam|num,pandak,kutung
+短简	singkat|adj
+短篇	cerpen|n,cerita pendek|n
+短篇小	cerpen|n,cerita pendek|n
+短篇小说	cerpen|n,cerita pendek|n
 短篇小说家	cerpernis
-短者	mondok
-短而	gondok
-短而粗	gondok
+短缺	kekurangan|n
 短而粗大	gondok
 短而粗大的	gondok
-短脚	tempang
 短节	katam
-短衣	senteng
-短衣之	senteng
-短衣之一	senteng
 短衣之一种	senteng
-短裙	miniskirt|n
 短裤	seluar pendek|n
-短語	hangat-hangat tahi ayam,mak kau hijau
-短語中	mak kau hijau
-短語中的	mak kau hijau
+短語三分钟热度	hangat-hangat tahi ayam
 短音	bref|n,tanda singkat|n
 短音符	bref|n,tanda singkat|n
 短颈	itik kecil|n
@@ -223,109 +148,81 @@
 短鼻	aligator
 短鼻鳄	aligator
 短鼻鳄鱼	aligator
-祭	khatib,korban|n,libur,puja,semah
+祭	korban|n,puja,libur,semah,khatib
 祭司	khatib
 祭品	korban|n,semah
 祭拜	puja
 祭日	libur
-竭	jengkau,sekuat-kuat
-竭力	sekuat-kuat,jengkau
-竭力想	jengkau
-竭力想得	jengkau
+竭	sekuat-kuat
+竭力	sekuat-kuat
 竭力想得到	jengkau
-续	berderet-deret,bertalu-talu,berturut-turut,beruntun-runtun,durasi|n,jujuh,keselanjaran|n,lanjutan
-续不	berderet-deret,bertalu-talu,jujuh
-续不断	berderet-deret,bertalu-talu,jujuh
-续不断的	bertalu-talu
-续地	terus menerus
-续时	durasi|n
-续时间	durasi|n
-续的	malar
+续	sambungan
+续增	imbuh|n
 续编	sambungan
 胭	gincu|n
 胭脂	gincu|n
 腭	rahang|n,tulang rahang
-臭	busuk|adj,kebusukan,apak,aring,bangar,basat,basi|adj,deodoran|n
+臭	busuk|adj,kebusukan,petai|n,wasap|n,pijat-pijat|n,aring,basat,tengik
 臭名	nama busuk
-臭味	aring,tengik,apak,manus,maung|n,sengit
-臭味的	apak,manus,sengit
+臭味	aring,tengik,manus,apak,sengit
+臭味的	manus,apak,sengit
 臭恶	sengit
 臭恶的	sengit
-臭气	hancing,wasap|n
-臭氧	ozon|n
+臭气	wasap|n,hancing
+臭氧延伸阅读	ozon|n
 臭烘	konjak|n
 臭烘烘	konjak|n
-臭的	basi|adj,hanyir|adj,hapak,ketibus|n,kohong,lahak,lohoh,parat
-臭药	deodoran|n
-臭虫	basat,pepijat|n,pijat-pijat|n,pinding
+臭虫	pijat-pijat|n,basat,pinding,pepijat|n
+臭虫臭	pepijat|n
+臭虫臭虫	pepijat|n
 臭豆	petai|n
-蛭	lintah|n,pacat
-语	afrikaans,ahli bahasa,algebra,assalam,awalan,bahasa|n,bahasa dalam,bahasa ibunda|n
+语	lisan|adj,nahu|n,morfem|n,munsyi|n,iban,melanau,lafaz,jalan bahasa
 语句	lafaz
-语声	desus
-语如	awalan
+语域	daftar|n
+语境	konteks|n
 语录	kutipan
+语意	erti|n
 语文	filologi|n,kaji bahasa|n,munsyi bahasa
 语文学	filologi|n,kaji bahasa|n
 语文教	munsyi bahasa
 语文教师	munsyi bahasa
 语根	pokok kata
-语法	jalan bahasa,nahu|n,pramasastera nahu,gramatis|adj,kegramatisan|n,tatabahasa|n
+语法	nahu|n,gramatis|adj,jalan bahasa,pramasastera nahu,tatabahasa|n
 语法学	tatabahasa|n
 语法的	gramatis|adj
-语法规	kegramatisan|n
-语法规则	kegramatisan|n
-语源	algebra
-语的	ekabahasa|adj,nekabahasa
+语源同。代数	algebra
 语素	morfem|n
-语言	iban,lisan|adj,melanau,munsyi|n,ahli bahasa,bahasa ibunda|n,ilmu bahasa,linguistik|n
+语言	lisan|adj,munsyi|n,iban,melanau,linguistik|n,munsyi bahasa,ahli bahasa,ilmu bahasa
 语言专	ahli bahasa
 语言专家	ahli bahasa
-语言学	ilmu bahasa,linguistik|n,munsyi bahasa
+语言学	linguistik|n,ilmu bahasa,munsyi bahasa
 语言学家	munsyi bahasa
 语言结	susunan bahasa
 语言结构	susunan bahasa
-轭	kubang|n,celung,gu
-轭之	gu
-轭之两	gu
-轭之两牛	gu
-遭	bintangnya gelap,mata jahat|n,menderita|v,sua|v,timpa|v
-遭受	menderita|v,timpa|v
-遭殃	mata jahat|n
-遭殃的	mata jahat|n
-遭殃的能	mata jahat|n
-遭殃的能力	mata jahat|n
-遭遇	sua|v,bintangnya gelap
-遭遇到	bintangnya gelap
-遭遇到不	bintangnya gelap
-遭遇到不幸	bintangnya gelap
+语词	kalimah|n
+语锋	topik|n
+轭	kubang|n
+遭	timpa|v,sua|v,menderita|v
+遭受	timpa|v,menderita|v
+遭遇	sua|v
 镭	radium|n
-闭	berkatup,berkurung,hartal|n,katup,kejam|v,kumat-kumit,kuncup,memejamkan
+闭	pejam|v,picing|v,rudu,merem,terserat,memejamkan
 闭塞	terserat
 闭目	picing|v
-闭眼	memejamkan,merem,pejam|v,rudu
+闭眼	pejam|v,rudu,merem,memejamkan
 闭着	kejam|v
 闭着眼	kejam|v
 闭门	berkurung
 闭门不	berkurung
 闭门不出	berkurung
-饭	beri biru|n,dandang|n,goreng|v,kanji|n,kerak|n,kersai,lemang|n,lepau
+饭	kerak|n,lepau
 饭团	lontong
 饭团食	lontong
 饭团食品	lontong
 饭店	lepau
-饭树	beri biru|n
 饭焦	kerak|n
-饭煮	kersai
-饭煮一	kersai
-饭煮一粒	kersai
-饭煮一粒一	kersai
 饭煮一粒一粒	kersai
 饭煮一粒一粒的	kersai
-饭菜	nasi bungkus,rantang
-饭菜的	rantang
-饭菜的食	rantang
-饭菜的食格	rantang
-饭锅	dandang|n
+饭馆	restoran|n
 髭	kumis|n,misai|n
-鹭	rajawali,pucung|n
+鹭	rajawali

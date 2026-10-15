@@ -7,7 +7,7 @@ ayak	ayak	n	细眼的筛	sifter  sieve
 ayakan	ayakan		筛，箕
 ayam	ayam	n	鸡	chicken  a domesticated subspecies of red junglefowl (Gallus gallus)
 ayamaduan	ayam aduan		斗鸡
-ayamayam	ayam-ayam	n	水鸟，水禽
+ayamayam	ayam-ayam	n	水鸟，水禽	synonym of jebung (“triggerfish”)
 ayambelanda	ayam belanda	n	火鸡	a type of bird; a turkey
 ayambetina	ayam betina		母鸡
 ayamdara	ayam dara		未生蛋的雌鸡
@@ -26,16 +26,16 @@ ayapan	ayapan		由王族赐给的食物
 ayat	ayat	n	可兰经诗，句子	sentence
 ayatollah	ayatollah	n	阿亚图拉	ayatollah (a religious leader in Twelverism)
 ayaw	ayaw	n	否定	a negative desire  influence
-ayer	ayer	n	荒废的
-ayob	ayob		两者择一
+ayer	ayer	n	荒废的	obsolete spelling of air
+ayob	ayob		两者择一	alternative form of Ayub
 ayon	ayon	adv	直到	until
 ayu	ayu	adj	秀丽的	dainty (Delicately small and pretty)
 ayub	ayub		工作	Job.
 ayuh	ayuh		呜呼，哀哉，伤感，悲叹
-ayuk	ayuk	v	两者择一
+ayuk	ayuk	v	两者择一	alternative form of ayut
 ayukayutan	ayuk-ayutan	n	男性生殖神	priapus  priapism
 ayun	ayun	v	使摇动，荡样	to swing; to sway; to rock (to move back and forth or from side to side).
 ayunan	ayunan		摇篮，秋迁，吊床
 ayunda	ayunda	n	年长的	older sister
 ayut	ayut	v	交媾	to copulate (to engage in sexual intercourse)
-ayyub	ayyub		两者择一
+ayyub	ayyub		两者择一	alternative form of Ayub

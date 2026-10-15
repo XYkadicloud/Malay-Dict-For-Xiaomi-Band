@@ -12,7 +12,7 @@ sebaik	sebaik	adj	等同的	equative degree of baik: as good as; as kind as; as 
 sebaiknya	sebaiknya	adv	更可取地	preferably  better  one's best			semestinya,sepatutnya
 sebak	sebak	adj	涨溢，泛滥	flooded  inundated				tenang,lega
 sebal	sebal		幻觉的，悔恨的，愤怒的
-sebalikmata	sebalik mata	adj	两者择一
+sebalikmata	sebalik mata	adj	两者择一	Alternative form of di sebalik mata (“invisible; mystical”)
 sebaliknya	sebaliknya	adv	反之	on the contrary
 sebam	sebam		失去光泽的，晦暗的
 sebanding	sebanding		相称，调和
@@ -71,7 +71,7 @@ sedardiri	sedar diri		自觉
 sedat	sedat		迟钝的，愚笨的
 sedawa	sedawa		打呃
 sedegil	sedegil	adj	顽固的	as stubborn as
-sedegildegil	sedegil-degil	adj	同义词
+sedegildegil	sedegil-degil	adj	同义词	synonym of sedegil (“as stubborn as”)
 sedekah	sedekah	n	施舍物，救济品	charity; alms; a voluntary donation or gift given sincerely to help others.			derma,amal
 sedekala	sedekala		太古，过去
 sedemikian	sedemikian		那样的
@@ -214,7 +214,7 @@ seksa	seksa	n	痛苦的，悲痛的	punishment
 seksaan	seksaan		折磨
 seksakan	seksakan		折磨，压迫
 seksdesilion	seksdesilion	num	10的51次方	sexdecillion
-seksok	seksok	adv	两者择一
+seksok	seksok	adv	两者择一	alternative form of esok-esok
 sekstilion	sekstilion	num	千的七乘方	sextillion
 seksyen	seksyen	n	科，组，部门	section:
 sekta	sekta	n	宗派	sect
@@ -368,7 +368,7 @@ seluruh	seluruh	det	全部，整个	the whole  the entire
 selusuh	selusuh		安胎药；滑，溜下
 selusup	selusup		潜入
 selut	selut		泥，泥泞的
-semadi	semadi	v	沉思，默想
+semadi	semadi	v	沉思，默想	to be buried
 semah	semah		生贽，祭品，供品
 semai	semai	v	种苗，种子	to sow (seeds)  to plant (by scattering seeds)			tabur
 semaian	semaian		苗圃
@@ -376,7 +376,6 @@ semaja	semaja		有意的，故意的
 semak	semak	n	批改 丛林	bush
 semakin	semakin		愈来愈…	increasingly; more and more; getting; becoming (indicatin…
 semaksamun	semak samun	n	实习医生风云	scrubs  bushes  thicket
-semaksamun	semak-samun		矮丛林
 semalam	semalam	n	昨天	for one night		esok
 semalammalaman	semalam-malaman		一整晚
 semalu	semalu		含羞草
@@ -389,7 +388,7 @@ semangka	semangka	n	西瓜	watermelon (fruit)
 semarak	semarak		光辉，光彩
 semaram	semaram		海鲈
 semasa	semasa	adj	当…的时候	Of the same time or era; contemporary.
-semasamasa	semasa-masa	adv	同义词
+semasamasa	semasa-masa	adv	同义词	synonym of semasa
 semat	semat	v	钉牢，扣住，刺住	to pin; to fasten; to attach.
 semata	semata	adv	唯一的	only; solely; merely; purely.
 sematamata	semata-mata	adv	只是，全是	solely  purely  only
@@ -443,7 +442,7 @@ sembunyi	sembunyi	v	隐藏，匿藏	to hide
 sembur	sembur	v	喷射，吐射，吐出	to spray (to project a liquid in a disperse manner)
 semburit	semburit		鸡奸，男色
 semedang	semedang		随时，常常
-semedera	semedera	n	两者择一
+semedera	semedera	n	两者择一	alternative form of samudera
 sememeh	sememeh		涂污，沾污
 semenanjung	semenanjung	n	半岛	peninsula (a piece of land projecting into water)
 semenda	semenda		招婿
@@ -510,7 +509,7 @@ senapangdualaras	senapang dua laras		双筒枪
 senarai	senarai	n	名单，目录	list
 senat	senat		国会
 senator	senator		上议院议员	a member of a senate
-senayan	senayan		两者择一
+senayan	senayan		两者择一	alternative form of Isnin
 senda	senda		玩耍，戏谑，调笑 senda
 sendagurau	senda-gurau		玩耍，戏谑，调笑
 sendal	sendal		嵌楔	A light thin stuff of silk.
@@ -525,7 +524,7 @@ sendirianberhad	sendirian berhad	n	私人的	private limited company;Ltd..
 sendu	sendu		忧愁，悲伤
 senduduk	senduduk		野牡丹
 senduk	senduk	n	匙，勺	ladle
-seng	seng	n	两者择一
+seng	seng	n	两者择一	alternative form of zink
 sengaja	sengaja		故意的，有意的
 sengal	sengal	adj	风湿症，骨节痛	sore (of muscle  hand  leg etc)
 sengalsengalubi	sengal-sengal ubi	adj	白痴的	Idiotic.
@@ -536,7 +535,7 @@ sengau	sengau		用鼻音说话，用鼻子
 sengelat	sengelat		推托者，善于闪避的人
 senget	senget	adj	歪斜的，倾斜的	atilt  askew  leaning
 senggak	senggak		喝采，欢呼
-senggama	senggama	n	两者择一
+senggama	senggama	n	两者择一	alternative form of sanggama
 senggan	senggan		迄，到此为止
 senggang	senggang		闲空
 senggat	senggat		迄
@@ -566,13 +565,13 @@ sengkuang	sengkuang	n	芋豆	jicama (Pachyrhizus erosus)
 sengkuap	sengkuap		披屋，天幕
 sengkul	sengkul		喉通病，跛的
 sengsara	sengsara	n	苦痛的，艰难的，贫困的	suffering
-sengsengub	sengsengub	adj	两者择一
+sengsengub	sengsengub	adj	两者择一	alternative form of sengal-sengal ubi.
 seni	seni	n	艺术	art
 senibina	seni bina	n	建筑学	architecture
 senigai	senigai		梯子
 senilukis	seni lukis		美术
 seniman	seniman	n	艺术家	artist (male)
-senin	senin		两者择一
+senin	senin		两者择一	alternative form of Isnin
 senipahat	seni pahat		雕刻
 seniwati	seniwati	n	女艺术家	female equivalent of seniman
 senja	senja	n	黄昏	dusk  twilight — the time of day just after sunset but before nightfall.
@@ -657,7 +656,7 @@ september	september		专有 九月	September (ninth month of the Gregorian calen
 septendesilion	septendesilion	num	& 10#1#0#2	septendecillion
 septik	septik		腐败性的
 septilion	septilion	num	一千的八次方	septillion
-sepua	sepua	n	两者择一
+sepua	sepua	n	两者择一	alternative form of sempoa
 sepucuk	sepucuk	cls	异常的	singular form of pucuk
 sepuh	sepuh		红色涂料，镀金
 sepui	sepui	adj	光	light  gentle  breezy
@@ -789,7 +788,6 @@ serpih	serpih	n	破碎，缺损	chip
 serpihan	serpihan	n	碎片	debris
 serta	serta	conj	和，与，共	as well as; and
 sertamerta	serta-merta		立刻，立即，马上
-sertamerta	sertamerta		立刻，立即
 sertu	sertu		洗净
 seru	seru	v	呼喊，叫，嚷	to call; to shout; to exclaim; to summon.
 seruan	seruan		号召，呐喊
@@ -817,9 +815,9 @@ sesaknafas	sesak nafas		气喘，喘息
 sesal	sesal	n	懊悔，后悔	regret
 sesalan	sesalan	n	遗憾	regret:
 sesali	sesali	v	遗憾	to regret
-sesalkan	sesalkan	v	同义词
-sesalmenyesali	sesal-menyesali	v	同义词
-sesangat	sesangat	adv	两者择一
+sesalkan	sesalkan	v	同义词	synonym of sesali (“to regret; to blame”); to make (someone) feel regretful
+sesalmenyesali	sesal-menyesali	v	同义词	synonym of bersesalan (“to blame each other”)
+sesangat	sesangat	adv	两者择一	alternative form of sangat-sangat.
 sesap	sesap		饮水，舐
 sesapan	sesapan		水槽，鸟或野兽喝水之处
 sesar	sesar		推开
@@ -830,15 +828,15 @@ sesawang	sesawang	n	蜘蛛网	web-like; spiderweb
 sesawi	sesawi		大芥，芥菜
 seseorang	seseorang	n	某人	someone
 sesi	sesi	n	期间	A session:
-sesiapa	sesiapa	pron	两者择一
+sesiapa	sesiapa	pron	两者择一	alternative form of siapa-siapa
 sesiku	sesiku	n	正方形	L square; T-square
 sesium	sesium	n	铯	caesium (a metallic chemical element)
 sesuaipadan	sesuai padan		配合，和合
 sesuatu	sesuatu	pron	某一	something
-sesumpah	sesumpah	n	两者择一
+sesumpah	sesumpah	n	两者择一	alternative form of sumpah-sumpah (“chameleon”)
 sesungguhnya	sesungguhnya		实其
 sesungut	sesungut		触角， 触毛
-sesyen	sesyen	n	两者择一
+sesyen	sesyen	n	两者择一	alternative form of sesi
 set	set		一套，一局	a group of things of the same kind that belong together a…
 setahun	setahun		一年
 setaka	setaka		亭
@@ -855,12 +853,12 @@ setelah	setelah	conj	在...之后	after (subsequently to the time when).
 setelempap	setelempap		一掌之宽
 setem	setem		邮票	stamp  a small designed piece of paper with a face value…
 setempos	setem pos	n	邮票	postage stamp
-seteng	seteng	n	两者择一
+seteng	seteng	n	两者择一	alternative form of setengah
 setengah	setengah	n	一半	a half
 setengahdozen	setengah dozen	num	半打	half a dozen (six)
 seterap	seterap		责罚
 seterika	seterika	n	熨斗	iron (for pressing clothes)
-seteru	seteru	n	敌人，仇人
+seteru	seteru	n	敌人，仇人	Synonym of lawan (“enemy; opponent”)
 seterup	seterup		糖水
 setia	setia	adj	忠实的，诚实的	loyal
 setiakawan	setiakawan		融洽，和睦

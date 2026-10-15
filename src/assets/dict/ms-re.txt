@@ -58,7 +58,6 @@ rejuk	rejuk		跳，跳跃
 reka	reka	v	安排，安置，发明	create  invent
 rekaan	rekaan		小说，创作，作品
 rekabentuk	reka bentuk	n	设计	design
-rekabentuk	rekabentuk		设计
 rekacipta	rekacipta		发明，创造
 rekah	rekah		裂开
 rekat	rekat		粘，胶
@@ -80,12 +79,12 @@ remah	remah		碎屑，小片
 remaja	remaja		成年，年青
 remak	remak		宁愿
 remang	remang	n	毛发竖立，阴暗的	body hair
-remayung	remayung	n	两者择一
+remayung	remayung	n	两者择一	alternative form of lembayung
 rembah	rembah		滴流，淌流
 rembang	rembang	n	天顶，子午钱	apex; zenith
 rembas	rembas		破坏，毁坏
 rembat	rembat		陷阱，罗网
-rembayung	rembayung	n	两者择一
+rembayung	rembayung	n	两者择一	alternative form of lembayung
 rembes	rembes		滴落
 rembia	rembia		西米
 rembulan	rembulan	n	月亮	moon
@@ -164,7 +163,7 @@ repablik	repablik	n	被代替的	superseded spelling of republik
 repak	repak		脆的，朽的
 repang	repang		平的，平坦的
 repas	repas		脆的，易碎的
-repek	repek	v	闲谈，瞎说
+repek	repek	v	闲谈，瞎说	synonym of repet
 repes	repes		烦乱，不安
 repet	repet	v	闲谈，胡扯	To talk incessantly and frivolously; to babble  to prattle  to chatter.
 repis	repis		易碎的

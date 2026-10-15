@@ -1,291 +1,186 @@
-万	animisme,berjuta-juta,daulat|v,daulat tuanku,dirgahayu|v,entah-entah,juta|num,jutawan|n
 万一	entah-entah,nyampang
-万富	jutawan|n
-万富翁	jutawan|n
-万岁	daulat|v,dirgahayu|v,panjang umur|v,daulat tuanku
-万物	khalayak,animisme
-万物有	animisme
-万物有灵	animisme
+万岁	daulat|v,dirgahayu|v,panjang umur|v
+万有引力	graviti|n
+万物	khalayak
 万物有灵论	animisme
-万的	berjuta-juta,kuindesilion|num,kuintilion|num,nonilion|num,sentilion|num
-万的一	sentilion|num
-万的一百	sentilion|num
-万的一百次	sentilion|num
-万的一百次幂	sentilion|num
-万的三	kuintilion|num
-万的三次	kuintilion|num
-万的三次方	kuintilion|num
-万的九	nonilion|num
-万的九次	nonilion|num
-万的九次方	nonilion|num
-万的十	kuindesilion|num
-万的十五	kuindesilion|num
-万的十五次	kuindesilion|num
-万的十五次幂	kuindesilion|num
 万花	kaleidoskop
 万花筒	kaleidoskop
-万苦	pahit getir
-切	cencang,hiris,memotong|v,menampang,potong|v,sayung,tutuh,abtar|adj
+切	potong|v,memotong|v,abtar|adj,regas|v,sayung,cencang,tutuh,hiris
+切入	abtar|adj
+切刀	pisau|n
 切削	raut|v
-切割	hiris,mengerat,pangkas,sadau,tetak|v,turis
-切口	abtar|adj,regas|v,ubang,gubang
-切地	persis|adv
+切割	tetak|v,sadau,turis,pangkas,hiris,mengerat
+切口	abtar|adj,regas|v,ubang
+切合	senonoh|adj
+切合实际	praktis|adj
+切实	praktis|adj
 切开	belah|n,mengiris,rajang
-切成	didis,lawar,mendidis,mengiris
-切成薄	didis,lawar,mendidis,mengiris
-切成薄片	didis,lawar,mendidis,mengiris
+切成	lawar,mengiris,didis,mendidis
+切成薄	lawar,mengiris,didis,mendidis
+切成薄片	lawar,mengiris,didis,mendidis
 切掉	putus|adj
-切断	kambus,kerat|v,kutung,memancung,pegat,rompongkan,ternyata|v,ubang
+切断	kerat|v,pegat,kambus,ubang,kutung,memancung,rompongkan,rompong
+切断外旋证明	ternyata|v
 切断的	rompong
-切暴	selembana
-切暴风	selembana
 切望	empik
-切片	ketil,kongkang,mengetil,racikan,tembereng
+切杆	serpih|n
+切片	ketil,tembereng,racikan,kongkang,mengetil
 切球	legas
 切痕	ubang
-切的	murah hati,ramah-tamah,tegas|adj
 切短	guntung,sampun
-切碎	cebis|cls,suntih,cencangan
-切碎的	cencangan
-切碎的东	cencangan
+切碎	cebis|cls,suntih
 切碎的东西	cencangan
 切线	garisentuh
 切细	cencang,rajang
 切肉	parang|n
 切肉刀	parang|n
-唇	benta,bibir|n,birat,bunyi labial|n,kelum,ketap,mewek,uring
-唇之	birat
-唇之伤	birat
-唇之伤痕	birat
-唇的	bunyi labial|n,benta,uring
-唇的小	benta
-唇的小胧	benta
-唇的小胧包	benta
-唇的细	uring
-唇的细槽	uring
-喇	hon|n,nafiri,pemuras,sangkakala|n,trompet
-喇叭	sangkakala|n,trompet,hon|n,nafiri,pemuras
+切身	peribadi|adj
+切近	dekat|adj
+唇	bunyi labial|n
+唇的	bunyi labial|n
+唇舌	perang mulut|n
+喇	sangkakala|n,trompet
+喇叭	sangkakala|n,trompet,pemuras
 喇叭枪	pemuras
-备	alat|n,alatan|n,angcadangan,awangan,bak kut teh|n,bekal|n,berkemas,cadandan
-备办	jurusaji|n,katerer|n
-备办食	jurusaji|n,katerer|n
-备办食物	jurusaji|n,katerer|n
-备办食物者	jurusaji|n,katerer|n
+备办食物者	katerer|n,jurusaji|n
 备忘	catan
 备忘录	catan
-备的	awangan,siap|adj
-备量	cadangan emas
-备金	angcadangan
-妇	anita,balu|n,bidan|n,bujang|n,bujang talan,ginekologi|n,kekasih|n,lonte
-妇四	wiladan
-妇四五	wiladan
-妇四五月	wiladan
-妇四五月后	wiladan
-妇四五月后清	wiladan
-妇四五月后清洗	wiladan
-妇四五月后清洗腹	wiladan
-妇四五月后清洗腹部	wiladan
-妇四五月后清洗腹部之	wiladan
-妇四五月后清洗腹部之仪	wiladan
-妇四五月后清洗腹部之仪式	wiladan
-妇女	anita,orang rumah|n,sari
-妇女的	sari
-妇女的服	sari
-妇女的服装	sari
-妇或	bujang talan,nyal,wiladan
-妇或产	wiladan
-妇或产妇	wiladan
-妇或产妇四	wiladan
-妇或产妇四五	wiladan
-妇或产妇四五月	wiladan
-妇或产妇四五月后	wiladan
-妇或产妇四五月后清	wiladan
-妇或产妇四五月后清洗	wiladan
-妇或产妇四五月后清洗腹	wiladan
-妇或产妇四五月后清洗腹部	wiladan
-妇或产妇四五月后清洗腹部之	wiladan
-妇或产妇四五月后清洗腹部之仪	wiladan
-妇或产妇四五月后清洗腹部之仪式	wiladan
-妇或贵	nyal
-妇或贵妇	nyal
-妇或贵妇的	nyal
-妇或贵妇的称	nyal
-妇或贵妇的称号	nyal
-妇或鳏	bujang talan
-妇或鳏夫	bujang talan
-妇有	penanggalan|n
-妇有害	penanggalan|n
-妇有害的	penanggalan|n
-妇有害的女	penanggalan|n
-妇有害的女鬼	penanggalan|n
-妇的	nyal,tian|n
-妇的称	nyal
-妇的称号	nyal
-妇的肚	tian|n
-妇的肚子	tian|n
-妇科	ginekologi|n
-妇科医	ginekologi|n
-妇科医学	ginekologi|n
-妇科学	ginekologi|n
-娇	kolokan,manja|adj,senyum|v
-娇生	kolokan,manja|adj
-娇生惯	kolokan,manja|adj
-娇生惯养	kolokan,manja|adj
-娇生惯养的	kolokan,manja|adj
+备用	rizab|n
+妇	anita
+妇女	anita
+妇科医学妇科学	ginekologi|n
+妇道人家	pp|n
+娇	senyum|v
+娇滴滴	manis|adj
+娇生惯养	manja|adj,kolokan
+娇生惯养的	manja|adj,kolokan
 娇笑	senyum|v
-宇	at,jagat|n,setinggan
+宇	jagat|n
 宇宙	jagat|n
-崇	azhar,ibadat,memuja,menyembah|v,mughayat,mutabar,puja,rabbani
-崇拜	ibadat,memuja,menyembah|v,puja
-崇高	azhar,mughayat,rabbani,seri|n
-崇高的	mughayat,seri|n
-崇高至	rabbani
+崇	menyembah|v,puja,ibadat,memuja
+崇拜	menyembah|v,puja,ibadat,memuja
+崇高	seri|n,azhar,mughayat
+崇高的	seri|n,mughayat
 崇高至上	rabbani
 崇高至上的	rabbani
-庇	kota kinabalu,lindung|v,musytari,pelindung,selindung,suaka|n
-庇哥	kota kinabalu
-庇哥打	kota kinabalu
-庇哥打基	kota kinabalu
+庇	lindung|v,selindung
+庇佑	kawalan|n
 庇护	lindung|v,selindung,pelindung
+庇护所	naungan|n
 庇护者	pelindung
-庇物	musytari
+庇祐	kawalan|n
 庇芦	suaka|n
 庇芦地	suaka|n
-指	menunjuk,acaram bertunang,anjuran,arahan,ardi|n,bekas jari,berinai,berkuku
-指令	arahan,ardi|n,perintah|n,pesanan|n
-指关	buku jadi
-指关节	buku jadi
+指	perintah|n,petua|n,pesanan|n,ardi|n,cas|n,caj|n,tuduh|v,kuku|n
+指代婆羅洲.专有	brunei
+指令	perintah|n,pesanan|n,ardi|n,arahan
 指出	tunjuk|v,utarakan
-指南	buku panduan,petua|n,kompas,pedoman|n
-指南针	kompas,pedoman|n
-指印	bekas jari,cap jari|n
-指压	tindas|v
-指压死	tindas|v
-指向	sigi,tuju|v
-指头	cecap|v
-指头蘸	cecap|v
-指头蘸食	cecap|v
-指头蘸食物	cecap|v
-指头蘸食物来	cecap|v
-指头蘸食物来尝	cecap|v
-指头蘸食物来尝味	cecap|v
-指头蘸食物来尝味道	cecap|v
-指导	berpantau|v,kendali,bimbing,pimpin,tuto tuds|n
+指南	petua|n,buku panduan,pedoman|n,kompas
+指南针	pedoman|n,kompas
+指向	tuju|v,sigi
+指导	berpantau|v,kendali,pimpin,bimbing
 指导人	pimpin
+指导员	jurulatih|n
 指导引	bimbing
 指导引导	bimbing
-指尖	jentik|n,jinjit,menjentik
-指尖弹	jentik|n,menjentik
-指尖弹击	jentik|n
-指尖走	jinjit
-指尖走路	jinjit
+指导者	pengarah|n,jurulatih|n
+指导路线	panduan|n
 指引	bimbing,menuntun
-指拨	ibu jari|n
-指拨弄	ibu jari|n
-指挥	kundang,memerintah,komandan,lampu isyarat|n,markas,panglima|n
-指挥官	komandan,panglima|n
-指挥灯	lampu isyarat|n
-指挥部	markas
-指控	caj|n,cas|n,mengecas|v
-指携	membibir
-指携带	membibir
+指挥	panglima|n,kundang,memerintah,komandan
+指挥官	panglima|n,komandan
+指挥者	pengarah|n
+指挥部	ibu pejabat|n
+指控	cas|n,caj|n,mengecas|v
 指摘	gugat
-指某	calonkan
-指某某	calonkan
-指某某为	calonkan
-指某某为侯	calonkan
-指某某为侯选	calonkan
+指望	asa|n
 指某某为侯选人	calonkan
-指甲	kuku|n,berinai,berkuku,inai|n,pacar|n,tobak
+指标	tanda|n
+指环	cincin|n
+指甲	kuku|n,inai|n,pacar|n
 指甲花	inai|n,pacar|n
-指示	anjuran,arahan,kut|part,menunjukkan,penganjuran,petunjuk,tunjuk|v,utarakan
+指示	tunjuk|v,kut|part,anjuran,arahan,penganjuran,utarakan,petunjuk,menunjukkan
 指纹	cap jari|n
-指缝	celah jari
 指节	buku jari|n
-指责	kafirkan|v,mencacat,mencela,mengecam,tuduh|v
+指责	tuduh|v,kafirkan|v,mengecam,mencela,mencacat
 指领	pimpin
-文	abjad|n,adab|n,adib,alat tulis|n,alatulis,amoi|n,analek|n,ang
-文主	cauvinis|n
-文主义	cauvinis|n
-文主义者	cauvinis|n
-文件	dokumen,dokumentari|n,pelipat|n
+文	artikel|n,makalah|n,sastera|n,teks|n,persuratan|n,kerani|n,pustaka|n,adab|n
+文书	setiausaha|n,surat|n
+文人	cendekiawan|n
+文件	dokumen,pelipat|n
 文件夹	pelipat|n
-文件的	dokumentari|n
 文体	gaya bahasa,jalan bahasa
 文具	alat tulis|n,alatulis
-文凭	diploma,ijazah,kelulusan,sijil
-文化	budaya|n,kebudayaan|n,peradaban|n,budaya tentangan|n,budayawan
-文化工	budayawan
-文化工作	budayawan
+文凭	ijazah,diploma,sijil,kelulusan
+文化	budaya|n,peradaban|n,kebudayaan|n
 文化工作者	budayawan
 文化的	budaya|n
 文告	kenyataan|n
 文员	kerani|n
-文字	abjad|n
-文学	kesusasteraan,persuratan|n,sastera|n,adib,filologi|n,hidrologi|n,ijazah sarjana muda sastera,kaji bahasa|n
+文士	cendekiawan|n
+文娱	hiburan|n
+文字	aksara|n
+文学	sastera|n,persuratan|n,kesusasteraan,adib,sasterawan,ijazah sarjana muda sastera
 文学士	ijazah sarjana muda sastera
 文学家	adib,sasterawan
-文尼	slovenia
-文尼亚	slovenia
-文教	munsyi bahasa
-文教师	munsyi bahasa
-文明	peradaban|n,tamadun|n,bertamadun,masyarakat madani|n
-文明的	bertamadun,masyarakat madani|n
-文本	teks|n,cecikut|n,kuki|n
-文本传	cecikut|n,kuki|n
-文本传输	cecikut|n,kuki|n
-文本传输协	cecikut|n,kuki|n
-文本传输协议	cecikut|n,kuki|n
+文库	perpustakaan|n
+文明	peradaban|n,tamadun|n,masyarakat madani|n,bertamadun
+文明的	masyarakat madani|n,bertamadun
+文本	teks|n
+文案	setiausaha|n,kerani|n
+文档	fail|n,surat|n
+文气	landai|adj
 文法	nahu|n,pramasastera nahu
-文烟	kemenyan
+文牍	setiausaha|n
 文献	pustaka|n
-文的	bestari|adj
 文盲	buta huruf|adj,buta kayu,ummi
-文研	pengajian melayu
-文研究	pengajian melayu
 文硕	ijazah sarjana sastera
 文硕士	ijazah sarjana sastera
 文礼	adab|n
+文秘	setiausaha|n
 文稿	makalah|n
-文章	artikel|n,karangan,makalah|n
-文翻	kuda padi|n
-文翻译	kuda padi|n
+文章	artikel|n,karangan
+文职	pentadbiran|n
 文莱	brunei darussalam,dolar brunei,ringgit brunei
 文莱的	dolar brunei,ringgit brunei
 文藝	ensiklopedia|n
 文藝復	ensiklopedia|n
 文藝復興	ensiklopedia|n
+文质彬彬	landai|adj
+文辞	bahasa|n
 文选	analek|n
-文雅	arwah,halus|adj,kasar|adj,lemah-lembut,santun,sopan
-文雅的	arwah,halus|adj,santun,sopan,kasar|adj
+文雅	halus|adj,arwah,sopan,santun
+文雅的	halus|adj,arwah,sopan,santun
 文集	antologi|n
 文鸟	jelatik
-暇	aktuyanglapang,kelapangan,masa lapang|n,selesa
-暇的	selesa
-标	absisa|n,arkaif,bahasa baku|n,bahru,bairup,baku|adj,baling-baling|n,banteng|n
-标准	bahasa baku|n,baku|adj,batu uji,elektrod hidrogen piawai|n,ukuran,arkaif,bahru,banteng|n
-标准以	substandard|adj
+标	cogan|n,baku|adj,panji|n,slogan|n,lambang|n,cogan kata|n,label|n,bahasa baku|n
+标兵	model|n,contoh|n
+标准	baku|adj,bahasa baku|n,elektrod hidrogen piawai|n,piawai|adj,ukuran,batu uji,standardisasi|n
 标准以下	substandard|adj
 标准以下的	substandard|adj
-标准写	sastera|n
-标准写法	sastera|n
 标准化	standardisasi|n
-标准的	piawai|adj,arkaif,bahru,banteng|n,begedil,bharu,biadap,hingget
+标准的	piawai|adj
+标准规格	panji-panji|n
+标尺	staf|n
 标帜	cogan|n
 标度	skala
-标志	jalur gemilang,lambang|n,panji|n,bairup
-标枪	pendahan,seligi
-标相	sehaluan
-标相同	sehaluan
-标签	label|n,tanda pagar|n
-标语	cogan kata|n,slogan|n
-率	anjur,cepatan,frekuensi|n,gegabah,kadar|n,kecepatan|n,kekerapan|n,kekonduksian|n
-率的	gegabah,sahi
-率领	anjur,mengetuai,tuntun|v
-皇	nata,daulat tuanku,diraja|adj,hormat diraja|n,istana|n,kaisar|n,maharaja|n,maharaja besar
-皇万	daulat tuanku
-皇万岁	daulat tuanku
-皇后	permaisuri|n,raja permaisuri,ratu|n
+标度比	skala
+标度比率	skala
+标志	panji|n,lambang|n,jalur gemilang
+标杆	model|n,matlamat|n
+标枪	seligi,pendahan
+标格	aksara|n
+标桩	galah|n
+标牌	tanda|n
+标的	matlamat|n,tujuan|n
+标签	label|n
+标致	lawa|adj,gelis|adj
+标记	tanda|n,simbol|n
+标语	slogan|n,cogan kata|n
+标高	rata|adj
+率	tuntun|v,anjur,mengetuai
+率领	tuntun|v,anjur,mengetuai
+皇	nata,istana|n,kaisar|n,maharaja|n,raja besar|n,muluk,tengku,maharaja besar
+皇后	ratu|n,permaisuri|n,raja permaisuri
 皇室	diraja|adj
 皇室的	diraja|adj
 皇宫	istana|n
@@ -293,29 +188,21 @@
 皇家的	diraja|adj
 皇家礼	hormat diraja|n
 皇家礼炮	hormat diraja|n
-皇帝	kaisar|n,maharaja|n,maharaja besar,muluk,permaisura,raja besar|n
+皇帝	kaisar|n,maharaja|n,raja besar|n,muluk,maharaja besar,permaisura
 皇族	tengku
-皇的	perlenteh
-碇	betas
-薇	meur
-躇	kimbang
-钇	itrium|n
-锇	osmium|n
-震	bergegar,gegar,gempa|n,gempa bumi|n,gentar|n,goncang|v,gugat,kaget
-震动	bergegar,gegar,gentar|n,goncang|v,ketar,ogah,gempa|n
+醇美	kaya|adj
+钇钇	itrium|n
+钇钇Y	itrium|n
+锇锇	osmium|n
+锇锇O	osmium|n
+锇锇Os	osmium|n
+震	gentar|n,goncang|v,tersentak|v,ketar,gugat,ogah,gegar,keletar
+震动	gentar|n,goncang|v,ketar,ogah,gempa|n,gegar,bergegar
 震动的	gempa|n
-震惊	kaget,tersentak|v,kejutan|n,terkejut|adj
-震惊的	kejutan|n
-震惊的东	kejutan|n
-震惊的东西	kejutan|n
-震惊虾	terkejut|adj
-震惊虾了	terkejut|adj
-震惊虾了一	terkejut|adj
+震惊	tersentak|v,kaget
 震惊虾了一跳	terkejut|adj
 震荡	gugat,gempa|n
 震荡的	gempa|n
 震颤	keletar
-骇	cengang,kejut|v
-骇的	kejut|v
-鲇	keli,limbat,lundu,patin,usat
-鲇鱼	keli,limbat,patin,usat
+鲇	patin,limbat,keli,usat
+鲇鱼	patin,limbat,keli,usat

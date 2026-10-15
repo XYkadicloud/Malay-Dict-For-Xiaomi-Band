@@ -1,68 +1,68 @@
-e-mel	emel|n
+e g	pijar|n
+e g water	bengap|adj
 e-sports	e-sukan|n
-each	bersesalan|v,curiga-mencurigai|v,masing|det,roti paun|n,saling|adv,setiap|adj
+each	tiap|det,masing|det,setiap|adj
+each other	saling|adv
 eager	ingin|adv
-eagle	elang|n,helang|n,lang|n,pari burung|n,pari lang|n
-ear	kuping|n,radang telinga|n,telinga|n
-earlier	dahulu|adv,dulu|adv,tadi|adv
+eagle	lang|n,elang|n,helang|n
+eagle ray	pari lang|n,pari burung|n
+ear	kuping|n,telinga|n
+eardrum	gegendang
+earlier	dulu|adv,tadi|adv,dahulu|adv
 earliest	sulung|adj
-early	bodok|n,embun belum kering lagi|adv
+early in the morning	embun belum kering lagi|adv
 earnest	bersungguh|adj
 earnestly	bersungguh-sungguh|adv
-earring	anting-anting|n,subang|n
-ears	taruk angsoka|n
-earth	apa benda|pron,ardi|n,bentala|n,buana|n,bumi|n
-earth-bound	jembalang|n
-earthenware	kendi|n,takar|n,tempayan|n
+earring	subang|n,anting-anting|n
+earth	ardi|n,bumi|n,buana|n,bentala|n
+earthenware jar	kendi|n
 earthquake	gempa bumi|n
 earthworm	cacing tanah|n
-ease	kesenangan|n,mudah|adj,sejahtera|n,senang diri|n
-easily	kenyaringan|n,mudah|adj,sempol|adj
+ease	sejahtera|n,kesenangan|n
+easily	mudah|adj
+easily done	sempol|adj
 easiness	kemudahan|n
 east	timur|n
-eastern	blok komunis|n
-easy	bermudah-mudah|v,kemudahan|n,kerusi rehat|n,memudahkan|v,palingan|n,plastis|adj
+easy	senang|adj
+easy to be shaped	plastis|adj
 easygoing	santai|adj,sempoi|adj
-eat	idam|v,makan|v,santap|v
-eaten	moreh|n
 eatery	kedai makan|n,medan selera|n
-eating	gelojoh|adj,masak|v,tanak|v
-ebb	susut|v
 ebony	abnus|n
-echo	gaung|n,gema|n,guk|n,kumandang|n
+echo	guk|n,gema|n,gaung|n,kumandang|n
+echo a loud	bahana|n
 eclipse	gerhana|n
 ecology	ekologi|n,kaji alam hayat|n
 econometrics	ekonometrik|n
 economical	jimat|adj
-economy	ekonomi|n,nasi campur|n
-edge	ambang|n,ngilu|n,paksi|n,pinggir|n,tebing|n,tepi|n
-edible	lala|n,latuh|n,lokan|n,sayur|n,umbut|n
-edit	diedit|v,edit|v,mengedit|v,suntingan|n
-editing	pengeditan|n
+economy	ekonomi|n
+economy rice	nasi campur|n
+edge	tepi|n,ambang|n,tebing|n,pinggir|n
+edible palm pith	umbut|n
+edible seaweed	latuh|n
+edit	suntingan|n
 edition	edisi|n
-editor	pengedit|n
-editorial	redaksi|n
-educate	didik|v
-education	pendidikan|n,pendidikan fizikal|n,pendidikan jasmani|n,reformasi pendidikan|n,studen|n
+editorial staff	redaksi|n
+education	pendidikan|n
+education reform	reformasi pendidikan|n
 educator	guru|n
-eel	belut|n,belut tuna|n
-effect	kesan fotoelektrik|n
-effective	berkuatkuasa|v
-effeminate	pondan|n
-effort	ikhtiar|n,usaha|n
-egg	kuning telur|n,telur|n
-eggplant	terung ungu|n
-eggs	bertelur|v
+eel	belut|n
+effeminate man	pondan|n
+effort	tumpu|v,usaha|n,ikhtiar|n
+egg	telur|n
+egg yolk	kuning telur|n
+eggplant	terung ungu|n,terung
+eggs	sebiji|num
 egocentric	egosentrik|adj,tinggi diri|adj
 egocentrism	egosentrisme|n
-egoist	mat pen|n
 egotism	egotisme|n
-egypt	mesir,mesir purba
-ehsan	ehsan
-eid	aidilfitri,hari raya aidilfitri,malam raya|n
+egypt	mesir
+egyptian statesman who became president in 1981 after sad	mubarak
+eid al-fitr	aidilfitri,hari raya aidilfitri
 eider	itik baldu|n
-eight	asta|num,delapan|num,lapan|num,lapan ratus|num,lapan ribu|num,oktagon|n
-eighteen	delapan belas|num,lapan belas|num,satu puluh delapan|num,satu puluh lapan|num,sepuluh delapan|num,sepuluh lapan|num
+eight	asta|num,lapan|num,delapan|num,selapan|num
+eight hundred	lapan ratus|num
+eight thousand	lapan ribu|num
+eighteen	lapan belas|num,delapan belas|num,sepuluh lapan|num,sepuluh delapan|num,satu puluh lapan|num,satu puluh delapan|num
 eighth	kelapan|num
 eighty	lapan puluh|num
 eighty-eight	lapan puluh lapan|num
@@ -75,242 +75,257 @@ eighty-six	lapan puluh enam|num
 eighty-three	lapan puluh tiga|num
 eighty-two	lapan puluh dua|num
 einsteinium	einsteinium|n
-either	nasi|n
-eject	bura|v,luah|v
-ekor	seekor|cls
-eksport	dieksport|v,ekspot|n,mengeksport|v
-elaborate	malai|n
 elaboration	huraian|n
 elastic	elastik|adj
 elbow	siku|n
-elder	mamak|n,taci|n
+elder sister	taci|n
 eldest	sulung|adj
-election	pilihan raya|n,pilihan raya umum|n,pungutan suara|n
-electoral	reformasi pengundian|n
-electric	gitar elektrik|n,pagar elektrik|n,pari karan|n
-electrical	ribut petir|n
-electricity	bil api|n,elektrik|n,elektrik statik|n
-electrode	elektrod hidrogen piawai|n
+election	pilihan raya|n
+electoral reform	reformasi pengundian|n
+electric fence	pagar elektrik|n
+electric guitar	gitar elektrik|n
+electric ray	pari karan|n
+electrical storm	ribut petir|n
+electricity	arus|n,elektrik|n
+electricity bill	bil api|n
 electrolysis	elektrolisis|n
-electron	elektron|n,petala elektron|n
-electronic	elektronik|adj,mengecas|v,sukan elektronik|n
-electronics	type c|n
-element	unsur|n
-elephant	gajah|n,kusa|n,leman|n,liman|n
+electron	elektron|n
+electron shell	petala elektron|n
+electronic	elektronik|adj
+electronic sport	sukan elektronik|n
+element	unsur|n,kaleng|n
+elephant	leman|n,liman|n
 elevator	lif|n
-eleven	kesebelasan|n,satu belas|num,satu puluh satu|num,sebelas|num,sebelas ribu|num,sepuluh satu|num
+eleven	sebelas|num,satu belas|num,sepuluh satu|num,satu puluh satu|num
+eleven a football team of eleven players	kesebelasan|n
+eleven thousand	sebelas ribu|num
 eligibility	kelayakan|n
 elite	elit|n
-ellipsis	anak saudara|n,angkasa,berbuka|v,telerang|n,telunjuk|n,tepung penaik|n
+ellipsis of agensi angkasa negara	angkasa
+ellipsis of anak saudara lelaki	anak saudara|n
+ellipsis of batu telerang	telerang|n
+ellipsis of berbuka puasa	berbuka|v
+ellipsis of jari telunjuk	telunjuk|n
+ellipsis of tepung berserbuk penaik	tepung penaik|n
 elliptic	bujur|adj
-eloquent	berlidah fasih|adj,fasih lidah|adj
-else	kerelatifan|n,pendukung|n
-elucidation	penjelasan|n
-elves	bunian|n
+eloquent	fasih lidah|adj,berlidah fasih|adj
 email	e-mel|n
-emak	mak|n,umak|n
-emas	mas|n
 embankment	tambak|n
-embarrass	memalukan|v,putihkan mata|v
-embarrassment	memalukan|v
 embers	bara|n
-embezzle	songlap|v
 emblem	jata|n,lambang|n
-embrace	peluk|v
-embroider	menyulam|v,sulam|v
-embroidered	disulam|v
 embroidery	suji|n
 emerald	zamrud|n
-emerge	terbit|v,timbul|v
 emergency	darurat|n,kecemasan|n
-emirates	emiriah arab bersatu
-emotion	emosi|n
+emotion	emosi|n,gersang|adj
 emotional	emosional|adj
-emotions	beremosi|v
-empat	ampat|num,pat|num
-emperor	kaisar|n,maharaja|n,maharani|n,raja besar|n
+emperor	kaisar|n,maharaja|n,raja besar|n
 emphasis	penekanan|n
 empire	empayar|n
-employed	bekerja|v
 employee	pekerja|n
-employment	pekerjaan|n
+employment	pekerjaan|n,perkhidmatan|n
 empress	maharani|n
-empty	gersang|adj,hampa|adj,hana|adj,kosong|adj,lengang|adj,luang|adj
-enable	mengaktifkan|v
-enam	anam|num,nam|num
-enclose	memagari|v
-enclosure	kandang|n
-encounter	jumpa|v,tembung|v,temu|v
+empty	hampa|adj,sunyi|adj,kosong|adj,gersang|adj,lengang|adj
+empty and quiet	hana|adj
+empty not occupied	luang|adj
+enclosure	selubung|n
+encouragement	sorak|v
 encumbrance	beban|n
 encyclopedia	ensiklopedia|n
-end	akhir|adj,buntut|n,hapus|v
+end	akhir|adj
 endeavour	ikhtiar|n
 ended	tamat|adj
 endlessly	selama-lamanya|adv
-endmost	hujung|adj
+endmost last in a series	hujung|adj
 endo	wikang|n
-endowed	dikurniakan|v
-endure	derita|v,tahan|v
 enemy	musuh|n
-energy	tenaga keupayaan|n,tenaga kinetik|n
-engage	berekreasi|v,obrol|v
-engagement	pertunangan|n
-engaging	mujahid|n
+energy	jiwa|n
+energy the physical capacity of	kudrat
+engagement the period of time when marriage is planned or promised	pertunangan|n
+engineer a person who is qualified or professionally enga	jurutera
 engineering	kejuruteraan|n
 england	england
-english	bahasa orang putih,inggeris
-enjoy	selamat menjamu selera
-enjoyable	seronok|adj,syok|adj
+english language	bahasa orang putih
+enjoy your meal	selamat makan,selamat menjamu selera
+enjoyable	seronok|adj
 enjoyment	kegemaran|n
-enlarge	membesarkan|v
 enmity	adawat|n
 enormous	raksasa|adj
-enough	berlebih|v,cukup|adj,kurang|adj,sudahlah
-enrich	diperkaya|v
+enough	cukup|adj
+enrich or to enrich	diperkaya|v
 ensign	cogan|n
-enslave	abdikan|v
 enslavement	pengabdian|n
-entah	tah
-enter	masuk|v,masuki|v,memasuki|v
-entering	pecah masuk|n
-entertain	hibur|v
 entertainment	hiburan|n
-enthusiast	kaki karok|n,mat kereta|n,mat motor|n,penggemar|n
 enthusiastic	teruja|adj
 enthusiastically	bukan main|adv
-entire	seantero|det,sekeluarga|n,seluruh|det
-entity	entiti|n,rejim zionis
+entire	seantero|det
+entity	entiti|n
 envelope	sampul|n
 envious	dengki|adj
 environment	alam sekitar|n
 enzyme	enzim|n
+ephemeral	lenyap|adj
 epic	gaban|adj
 epidemic	taun|n,wabak|n
-epiphyllum	bakawali|n,kengwa|n
-equal	cupak|n,hun|n,sekedudukan|adj
+epiphyllum oxypetalum	kengwa|n
+epoch	kala|n,zaman|n
+equal	sekedudukan|adj
+equal to 100 cents nn	lira
+equal to 100 sen	rupiah
+equal to one cubic decimetre	liter|n
 equanimity	ketenangan|n
-equate	memisalkan|v,misalkan|v
-equative	sebaik|adj,sebiru|adj,secantik|adj,selancar|adj
+equative degree of baik as good as	sebaik|adj
+equative degree of biru	sebiru|adj
+equative degree of cantik	secantik|adj
+equative degree of lancar	selancar|adj
 equator	khatulistiwa|n
-equatorial	guinea khatulistiwa
+equatorial guinea	guinea khatulistiwa
 equilibrium	keseimbangan|n
-equipment	pawai|n,perkakasan|n
+equipment	perkakasan|n
+equipment carried in certain royal procession	pawai|n
 equivalence	persamaan|n
-equivalent	biarawati|n,mahasiswi|n,seniwati|n,siswi|n,wartawati|n
+equivalent to a hundr	kunca
+equivalent to an impe	kepul
+equivalent to an imperial pint	leng|n
+equivalent to english mary	maryam,meriam
+equivalent to four imperial gallons	sukat|n
+equivalent to sixteen imperial gallons	nalih|n
 er	er
-era	kala|n,semasa|adj
+era	kala|n,zaman|n
 eraser	pemadam|n
 erbium	erbium|n
 erect	tegak|adj
-erectile	mati pucuk|n
-erection	canggar|n
+erectile dysfunction	mati pucuk|n
 ereyesterday	kelmarin|n
-erode	hakis|v
-error	kesalahan|n,kesilapan|n,ralat|n
-erti	mengerti|v
-ertikan	diertikan|v,mengertikan|v
-eru	ru|n
-escalate	menjadi-jadi|v
-eschrichtius	paus kelabu|n
-esok	beresok|n,besok|n,sok|n
-esok-esok	seksok|adv
-esp	belek|v,sotong|n,tirai|n
+error	ralat|n,kesalahan|n,kesilapan|n
+eschrichtius robustus	paus kelabu|n
+esp of a screening or partitioning kind	tirai|n
+esp of the family loliginidae	sotong|n
+esp one for vehicles	depoh|n
+especially a pair representing a single phoneme	digraf|n
+especially a verbal one	perang mulut|n
+especially alocasia macrorrhizos	birah|n
+especially an elaborate one adorned with gold	malai|n
+especially armed jihad	mujahid|n
+especially by wrapping nv re	damping
+especially carefully or wi	mengamati
+especially due to chest tightness	bengik|adj
+especially due to oil	lincir|adj
+especially epiphyllum oxypetalum	bakawali|n
+especially food	ramuan|n
+especially for a festival	balik kampung|n
+especially for agriculture like paddy fields	petak|n
+especially for climbing trees	takah|n
+especially for head	kalang ulu|n
+especially in abundance	produktif|adj
+especially in schools	rumah|n
+especially involuntarily	juling|adj
+especially its fruit	limau|n
+especially nobility and royalty	tanjak|n
+especially of a human body	susuk|n
+especially of mosquitoes	jentik|n
+especially of the ear or nose	cuping|n
+especially on numbers or lottery	tikam|v
+especially one who behaves in an arrogant	cainis|n
+especially one who is frequently intoxicated	pemabuk|n
+especially one who is helpful or friendly	abang polis|n
+especially one who is seen as nice	abang bomba
+especially rose cordial syrup	bandung|n
+especially smartphones	type c|n
+especially the common minke whale	paus tombak|n
+especially the finished edg	hem
+especially the macaque	kera|n
+especially the southern pig-tailed macaque	beruk|n
+especially the steam	kuih
+especially those of the writer	diari|n
+especially with food	jenuh|adj
 essential	asasi|adj
-establishing	normatif|adj
-establishment	pemfrancaisan|n
-estate	hartanah|n,kawasan perindustrian|n
-estimate	hitung-hitung|v
+establishing or based on a norm or a standard	normatif|adj
 estimation	bebanjau|n
-eternal	abadi|adj,abadiah|adj,kekal|adj
-eternalised	terabadi|adj
+et cetera	dan|conj
+etc	jag|n,tol|n,wul|n,mudi|n,absen|adj,embun|n,hulur|v,hunus|v,kolar|n,labur|v
+etc by lifting	usung|v
+etc nn any of nu	bunting
+etc with lime	labur|v
+eternal	abadi|adj,kekal|adj,abadiah|adj
 eternally	selama-lamanya|adv
-ethical	berakhlak|adj
-ethics	akhlak|n,etika|n
+ethical	baik|adj,berakhlak|adj
+ethics	etika|n,akhlak|n
 ethiopia	habsyah
-ethnic	sengkek|n
-euphoria	euforia|n
+euphoria an excited state of joy	euforia|n
 europe	eropah
 european	peranggi|n
 europium	europium|n
 evade	egos|v
-evaporated	teh c|n
-even	genap|adj,mahupun|conj,meskipun|conj,rata|adj,sekalipun|conj,walau|conj
-event	peristiwa|n
+even	rata|adj,genap|adj,malah
+even if	walau|conj,sekalipun|conj
+even though	mahupun|conj,meskipun|conj,sedangkan
+event	tamu|n,peristiwa|n
 eventually	lama-lama|adv
 everlasting	abadi|adj,kekal|adj
 evermore	selalu|adv
-every	kesemua|det,semua|pron,serba salah|adj,setiap|adj,tiap|det
+every	tiap|det,setiap|adj
+every single	kesemua|det
+every the whole quantity	semua|pron
 everything	segala|pron,semuanya|n
-evil	jahat|adj,kejahatan|n,mata jahat|n
+evil	jahat|adj,kejahatan|n
+evil eye	mata jahat|n
 evil-minded	berniat jahat|adj
 evildoer	durjana|n
 evolution	evolusi|n
 ex-	mantan|adj
-exactly	gelen|n,itulah tu,persis|adv
-exaggerate	sembang konek|v,sembang kote|v
+exactly	persis|adv
+exactly 4 54609 litres	gelen|n
 examination	ujian|n
-examine	periksa|v
-example	contoh|n,contohnya|prep,mempercontohkan|v,mencontohkan|v,misal|n,misalnya|prep
+examine by taking x-rays nv take an x-ray of something o	x-ray
+example	misal|n,uswah|n,contoh|n,umpama|n,percontohan|n
+exasperated feeling strong disp	geram
 excavation	penggalian|n
-excellency	yang berhormat|pron
-excellent	cemerlang|adj,elok|adj
+excellent	elok|adj,cemerlang|adj
 except	kecuali|prep
 exception	pengecualian|n
-excess	berlebih|v,selebih|n
-excessive	gelojoh|adj
-excite	uja|v
-excited	euforia|n,teruja|adj
+excited	teruja|adj
 excitement	gembira|adj
-exclaim	seru|v
-exclamation	alamak,amboi,fuh,fuyoh,jeritan|n,weh
-exclusive	kami|pron,kita orang|pron
-excrement	air besar|n,tahi|n
-execute	salang|v
-executioner	maharajalela|n,pertanda|v
-exemplary	contohan|adj,teladan|n
-exercise	senam|v
+exclamation	jeritan|n
+exclusive first person plural pronoun	kami|pron,kita orang|pron
+excrement	tahi|n,air besar|n
+executioner	pertanda|v
+exemplary	teladan|n,contohan|adj
 exhaust	ekzos|n
 exhausted	penat|adj
 exhibiting	rasis|adj
-exilis	kijing|n
-existence	ateistik|adj,keadaan|n
-exit	keluar|v
+existence	keadaan|n
 expanse	bentangan|n
 expenditure	belanja|n
-expense	belanja|n,biaya|n
+expense	biaya|n,belanja|n
 expensive	mahal|adj,mubazir|adj
 experience	pengalaman|n
-expert	lebai|n,pakar|n,teknokrat|n
+expert	pakar|n
+expert in islam	lebai|n
 expired	luput|adj
-explain	jelaskan|v,menyatakan|v
-explanation	ertian|n,keterangan|n,pengertian|n,penjelasan|n
-explore	jajah|v,jelajah|v,terokai|v
-explosive	bahan letupan|n,letupan|adj
-export	pengeksportan|n
+explanation	ertian|n,keterangan|n,pengertian|n
+explanation or elucidation	penjelasan|n
+explosive	letupan|adj
+explosive any explosive substance	bahan letupan|n
+export	eksport|n,pengeksportan|n
 exportation	pengeksportan|n
 exporter	pengeksport|n
-expose	dedah|v
-express	ah|part,apakah,au,ekspres|adj,er,ewah
-expressing	amboi
-expression	aduh,alamak,cis,hampas,kus,mak kau hijau
-expressions	slanga|n
-expressway	ekspreswe|n,jalan ekspres|n,lebuh raya|n,lebuh raya ekspres|n
-extend	hulur|v
-extinguish	hapus|v
+express	ekspres|adj
+expression of dismay or disappointment	hampas
+expression while chasing away cats etc shoo go away begone	kus
+expressway	ekspreswe|n,lebuh raya|n,jalan ekspres|n,lebuh raya ekspres|n
 extinguished	padam|adj
-extinguisher	pemadam api|n
-extra	imbuh|n
-extract	menarik|v,peras|v
-extracts	fitoterapi|n
 extracurriculum	koku|n
-extraordinary	luar biasa|adj,mantul|adj
+extraordinary	mantul|adj,luar biasa|adj
 extrapolation	ekstrapolasi|n
 extravagant	mewah|adj
-extremely	bisa|adj,bulur|adj,gelemat|adj
-extremist	ekstremis|n,pelampau|n,penunggang agama|n
-eye	ain|n,bidik|v,korunk|pron,mata|n,mata jahat|n
+extremely dark	gelemat|adj
+extremely hungry	bulur|adj
+extremely painful	bisa|adj
+extremist	pelampau|n,ekstremis|n
+eye	ain|n,mata|n
+eye dialect spelling of korang	korunk|pron
 eye-catching	mencolok mata|adj
 eyeball	bebola mata|n
-eyebrow	bulu mansu|n,kening|n
+eyebrow	kening|n,bulu mansu|n
 eyelash	bulu mata|n
 eyesight	penglihatan|n

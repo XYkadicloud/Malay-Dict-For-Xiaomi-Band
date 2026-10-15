@@ -1,5 +1,5 @@
 mewah	mewah	adj	丰生的，丰饶的，繁荣的，茂盛的	luxurious  deluxe  extravagant
-mewajibkan	mewajibkan	v	活跃的
+mewajibkan	mewajibkan	v	活跃的	Active of wajibkan.
 mewakili	mewakili		代表
 mewariskan	mewariskan		遗留，传给
 mewek	mewek		呶唇，嚼咀，绷脸欲苦

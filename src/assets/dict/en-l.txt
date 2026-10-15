@@ -1,286 +1,265 @@
-labah	labah-labah|n
-label	dilabel|v,label|n,melabel|v
-labi-labi	lelabi|n
-labial	bunyi labial|n
-lable	mat bodek|n,mat botol|n,mat dadah|n
+l square	sesiku|n
+labor	tenaga|n
 laboratory	makmal|n
-labour	mogok kilat|n
-labuan	labuan
-labuhkan	melabuhkan|v
+labour strike that happens without giving any warning	mogok kilat|n
+labuan a federal territory of sabah	labuan
 labyrinth	pagar sesat|n
 lack	kekurangan|n
-lacking	pejal|adj
 ladder	tangga|n
-ladle	cedok|n,mencedok|v,senduk|n
-lady	empuan|n,nona|n,siti|n,wanita|n
+ladle	senduk|n
+lady	nona|n,siti|n,empuan|n,wanita|n
 lady-in-waiting	dayang|n
-lagi	agik|adv,lg|conj
-lah	la|part
-lahad	lahad datu
-lahanat	anat|adj,hanat|adj
-lahirkan	melahirkan|v
-laid	terbentang|v
+lagniappe	imbuh|n
+lahad datu a city in lahad datu district	lahad datu
 laid-back	santai|adj,sempoi|adj
 lake	danau|n,tasik|n
 laksa	laksa|n
-lakukan	dilakukan|v
 lamp	dilah|n,lampu|n,pelita|n
-lancar	selancar|adj
-lancarkan	dilancarkan|v,melancarkan|v
-land	daratan|n,keinderaan|n,lahan|n,orang asli|n,periuk api|n,reformasi agraria|n
+land	lahan|n,zamin|n,daratan|n
+land mine	periuk api|n
+land or agrarian reform	reformasi tanah|n,reformasi agraria|n
 landfill	tapak pelupusan sampah|n
 landlord	tuan tanah|n
 landmark	mercu tanda|n
 lane	lorong|n
-langat	hulu langat
 langkawi	langkawi
-langsat	dokong|n,langsat|n
-langsir	tabir|n
-language	bahasa|n,bahasa isyarat|n,bahasa orang putih,bahasa pasar|n,melanau,munsyi|n
-languages	linguistik|n
-lanka	seri langka,sri lanka
-lantern	dilah|n,lentera|n,pelita|n,tanglung|n
+langsat	langsat|n
+langsat or lanzone	dokong|n
+language	bahasa|n,cina
+language teacher	munsyi|n
+lantern	dilah|n,pelita|n,lentera|n
+lantern a case of transparent material made to protect a flame	tanglung|n
 lanthanum	lantanum|n
-lanzone	dokong|n
-lap	pangku|n,riba|n
-lapidate	rejam|v
-lapis	kek lapis|n,lazuardi|n
-laptop	komputer riba|n,laptop|n
-larang	melarang|v
-larangkan	dilarangkan|v,melarangkan|v
-large	balai|n,balang|n,genta|n,gimnasium|n,kapal|n,kenduri|n
-larger	mengkuang|n,taifah|n
-larva	renga|n,ulat|n
-last	berzaman|v
+lap	riba|n,pangku|n
+lapis lazuli	lazuardi|n
+laptop	laptop|n,komputer riba|n
+large	tempayan|n
+large bells for use especially in clock towers	genta|n
+large building for public uses	balai|n
+large game fish	permit
+large glass bottles with small mouth	balang|n
+large ornamental tropical american tree with bipinnate le	saman
+large wing-like fins	pari|n
+largest french-speaking city i	luik
+larva	ulat|n,renga|n
 lastborn	bongsu|adj
-lasting	awet|adj
-latent	haba|n,imej pendam|n
-later	esok-esok|adv,kelak|adj,nanti|adv
-lateral	lateral|adj,sisian|adj
+lasting for a long time	awet|adj
+latah a condition found in malaysia and nearby areas cha	latah
+latent heat	haba|n
+latent image	imej pendam|n
+later	kelak|adj,nanti|adv,esok-esok|adv
+lateral	sisian|adj,lateral|adj
 latex	getah|n
-lath	belebas|n
-latihan	palapes
-latin	abc|n,abese|n,ar|n,ef|n,es|n,hec|n
+latin	latin|n,rumawi
 latrine	jamban|n
-laugh	berkahkah|v,ketawa|v,tertawa|v
-laughter	dekah|n,kahkah
-launder	songlap|v
-laundryman	benara|n,dobi|n
+laughter more loud or boisterous	dekah|n
+laundryman	dobi|n,benara|n
 laureate	karyawan|n
-laut	tldb,tldm
 lava	lahar|n
-lavatory	tandas|n
-law	hukum|n,kanun|n,undang-undang rimba|n
-lawan	dilawan|v,melawan|v,seteru|n
+lavatory	tandas|n,bilik air|n
+law	hukum|n,kanun|n
+law of the jungle	undang-undang rimba|n
 lawrencium	lawrensium|n
-lawyer	loyar|n,peguam|n
-lay	bentang|v,bertelur|v
-layang-layang	kelayang|n,lelayang|n
-layer	alas|n,lapis|n,lapisan|n,petala|n
+layer	alas|n,lapis|n,petala|n,lapisan|n
 layout	persiapan|n
-layover	singgah|v
 laziness	kemalasan|n
-lazuli	lazuardi|n
-lazy	berat tulang|adj,kerusi rehat|n,liat|adj,pemalas|n
-lead	memimpin|v,plumbum|n,timah hitam|n,timbel|n,tuntun|v
-leader	aboi|n,ketua|n,pemimpin|n,pengepala|n,penghulu|n,tua-tua|n
+lazy	liat|adj,berat tulang|adj
+lazy person	pemalas|n
+lead	timbel|n,plumbum|n,timah hitam|n
+leader	tua-tua|n,pemimpin|n,penghulu|n,pengepala|n
+leader or head man	ketua|n
 leadership	kepimpinan|n
 leaf	daun|n,patera|n
+leafy	rimbun
 league	liga|n,serikat|n
-lean	kurus|adj,sandar|v
+leaking	tiris|adj
+lean	kurus|adj
 leaning	senget|adj
-leap	tahun lompat|n,terjun|v
-learn	belajar|v,hafal|v
+leap year	tahun lompat|n
 learning	ilmu|n
-leave	berangkat|v,beredar|v,cuti|n,cuti bersalin|n,membekas|v
-leaves	kauki|n,koki|n
+leave	cuti|n
+leaves etc	gugur|v
 lebanon	lubnan
-lebarkan	dilebarkan|v,melebarkan|v
-lect	lek|n
 lecture	kuliah|n
 lecturer	pensyarah|n
 ledge	tubir|n
 ledger	lejar|n
 leech	lintah|n
-left	hangat|adj,kiri|n,sayap kiri|adj,selebihnya|pron,tuntas|adj
+leek etc	bawang|n
+left	kiri|n
 left-handed	kidal|adj
-leftover	ketinggalan|n,sisa|n
-leg	kaki|n
+left-wing	sayap kiri|adj
+leftist	sayap kiri|adj
+leftover	sisa|n,ketinggalan|n
+leg	kaki|n,hulur|v
+leg etc	sengal|adj
 legal	absah|adj
 legality	keabsahan|n
-legged	pahar|n
 legitimate	sah|adj
-legless	ular|n
-legs	duduk bersimpuh|v,kaki bangku|n
-lelaki	adik laki-laki|n,anak laki-laki|n,anak laki-laki cicit|n,cucu laki-laki cucu|n,laki-laki|adj
-lemak	nasi lemak|n,naslem|n
 lemang	lemang|n
-lembap	lem|adj
-lembayung	remayung|n,rembayung|n
-lembut	lunak|adj
 lemongrass	serai|n
-lena	lenyap|adj
-lengkung	melengkung|v
 lengthy	lanjut|adj
-lens	kanta|n,kanta zum|n,lensa|n,lensa zum|n
-leopard	harimau akar|n,harimau bintang|n,harimau dahan|n,kucing batu|n,macan tutul|n
-lepas	astu|adv,pas|adj,pastu|adv
-lepaskan	dilepaskan|v
-leprosy	abras|adj,bodok|n
+lens	kanta|n,lensa|n
+leopard a large wild cat with a spotted coat	macan tutul|n,harimau bintang|n
+leopard cat	kucing batu|n
+leprosy in its early stage	bodok|n
 leprous	abras|adj
 lesbianism	musahaqah|n
-less	kurang|adj,lebih kurang|adv
+less	kurang|adj
+less commonly	gerila|n
 lesser	hina|adj
 lesson	kaji|n,pelajaran|n
-lestarikan	dilestarikan|v,melestarikan|v
-lesung	lesung pipit|n
-let	biar|v,entak|v,jom,lepaskan|v,meluputkan|v,sanggerah|v
-letak	diletak|v
-letakkan	diletakkan|v
-letter	huruf|n,menyurat|v,warkah|n
-letter-case	ilahi|adj,japen
-letters	abjad|n,bersurat|v,digraf|n,surat-menyurat|v
-level	firdaus|n,paras|n,petala|n,rata|adj,satah|n,sekedudukan|adj
-lever	pengumpil|n,pengungkil|n,pengungkit|n,tuas|n,tuil|n
+let go	lepaskan|v
+let's go	jom
+letter	huruf|n,warkah|n
+level	rata|adj,paras|n,petala|n
+level surface	satah|n
+leveled to the ground	ranap
+lever	tuas|n,tuil|n,pengumpil|n,pengungkil|n,pengungkit|n
+levy or duty etc assessed	kadaran|n
 lexicographer	pekamus|n,penyusun kamus|n
-lexicography	leksikografi|n,perkamusan|n
-lgbt	geng pelangi|n
-lgbtq	budaya songsang|n
-liability	berhad|n,liabiliti|n
+lexicography	perkamusan|n,leksikografi|n
+lgbt supporters and advocacy groups	geng pelangi|n
+lgbtq or queer culture	budaya songsang|n
+liability	liabiliti|n
 liberal	liberal|adj
 liberian	liberia|n
-liberty	kebebasan|n,membebaskan|v
+liberty	kebebasan|n
 librarian	pustakawan|n
 library	kutubkhanah|n,perpustakaan|n
 libya	libya
 licence	lesen|n
-license	lesen memandu|n,rebewis|n
 lick	jilat|v
 lid	penutup|n
-lidded	cembul|n
-lie	abab|v,baring|v,bedek|v,curi tulang|v,lentang|v,mengiring|v
-lies	kaki kelentong|n
-lieutenant	leftenan|n
-life	hidup|v,kehidupan|n,nyawa|n,putih tulang|v,sukma|n
-lifeless	gersang|adj
+lie down on the job	curi tulang|v
+life	hidup|v,luput|adj,nyawa|n,sukma|n,kehidupan|n
+lifeless lacking joy	gersang|adj
 lifestyle	gaya hidup|n
-lift	angkat|v,angkatan|n,julang|v,lif|n,menjulang|v
-lifting	usung|v
-light	cahaya|n,lampu isyarat|n,lempung|adj,lrt,luntang|n,mentol|n
+lift	lif|n,angkatan|n
+light	nur|n,pucat|adj,sepoi|adj,sepui|adj,cahaya|n,ringan|adj,lempung|adj
+light bulb	mentol|n
+light filled with light	terang|adj
+light rapid transit	lrt
 lighter	pemetik api|n
 lighthouse	mercu api|n,rumah api|n
-lightly	catuk|v
-lightning	halilintar|n,kilat|n
+lightning	kilat|n,halilintar|n,petir
+lights	padam|adj
 lightyear	tahun cahaya|n
-lihat	melihat|v
-like	ala|prep,amacam|adv,bagai|conj,bagaikan|prep,berbayang|v,bulan sabit|adj
+like	ala|prep,bagai|conj,laksana|prep,semisal|prep,seperti|prep,bagaikan|prep,kesukaan|n
+like a to	gerutu
+like chickens	reban|n
+like spirits	ciu|n
+like that	demikian|adv,macam itu|adv
+like this	macam ini|adv
+like what	amacam|adv
 likely	sepertinya|adv
-likes	pengganggu|n
-liking	pemberi|adj
-lily	bakung|n,seroja|n,teratai|n,tunjung|n
-lim	lge
-limau	abung|n
-limb	jari|n
-lime	kapur|n,limau nipis|n,limau purut|n
-limit	batas|n,had|n,had laju|n,tempoh|n
+liking to give	pemberi|adj
+lime	limau nipis|n
+lime calcium oxide	kapur|n
+limit	had|n,jangkau|v
+limit a restriction	batas|n
 limitation	batasan|n
-limited	berhad|n,sendirian berhad|n,terbatas|adj,terhad|adj
-line	beratur|v,deret|cls,garis|n,kawad|n,nirai|n,regat|v
-lineage	asal usul|n,berzuriat|v,darah|n,kesalasilahan|adj,perturunan|n,salasilah|n
-lined	anjing koreng|n
-link	hubung|v,hubungan|n,sambung|v
+limited	terhad|adj,terbatas|adj
+limiting visibility	jerebu|n
+line	garis|n,nirai|n
+line classifier for rows of houses	deret|cls
+line of soldiers	kawad|n
+line up	beratur|v
+lineage	darah|n,zuriat|n,salasilah|n,perturunan|n,susur galur|n
+lines	persilangan|n
+linguistics	linguistik|n
+link	hubungan|n
 lion	singa|n
 lionfish	lepu|n
 lions	surai|n
 lip	bibir|n
-lips	kecap|n,labial|adj
 lipstick	gincu|n,lipstik|n
-liquid	cecair|n,cerat|n,pencair|n
-liquor	arak|n,minuman keras|n
+liquid	cecair|n
 list	daftar|n,senarai|n
 listener	pendengar|n
-literal-minded	pembaris|n
-literature	persuratan|n,sastera|n
+liter	liter|n
+literally	pati
+literally face to face'	vis-a-vis
+literature	sastera|n,persuratan|n
+literature etc	karyawan|n
 lithium	litium|n
 litigant	litigan|n
 litigation	litigasi|n
-litres	gelen|n
-little	jari kelengkeng|n,kecil|adj,kelengkeng|n,nipis|adj,sedikit|adj,sikit|adj
-live	bara|n,daulat|v,dirgahayu|v,panjang umur|v,tinggal|v
-lived	makan garam|v
-lively	gegap gempita|adj,ramai|adj
-liven	menghidupkan|v
+litre	liter|n
+litter	usung|v
+little	kecil|adj
+live coal	bara|n
+livelihood	rezeki
+lively	ramai|adj,gegap gempita|adj,rancak
 liver	hati|n
-living	kemahiran hidup|n
-lizard	biancak|n,cecak|n,cicak|n
+living skills	kemahiran hidup|n
+lizard	cicak|n
+lo	singapura
 loan	pinjaman|n
 loanword	kata pinjaman|n
-loathe	menyampah|v
-lobe	cuping|n
+lobe a rounded projection or fleshy part	cuping|n
 localization	penyetempatan|n
-located	sedaerah|adj,terletak|v
-location	cawangan|n,di|prep,duduk|v,kat|prep,lokasi|n,perhentian|n
-loci	puaka|n
+located	terletak|v
+located between europe and the pacific ocean	asia
+located in e	kabul
+located in northeastern sumatra	medan
+location	duduk|v,lokasi|n
 lock	ibu kunci|n
 lockdown	sekatan pergerakan|n
-lockup	lokap|n
-log	balak|n,batang|cls,diari|n
-logic	logika|n
+lodge	pondok|n
+log	balak|n
+logic	akal|n,logika|n
 logical	masuk akal|adj
 loincloth	cawat|n
-loiterer	kaki rambu|n,mat rambu|n
-lokap	dilokap|v,melokap|v
+loiterer	mat rambu|n
 lonely	sepi|adj
 lonesome	sepi|adj
-long	awet|adj,berzaman|v,daulat|v,dirgahayu|v,jenawi|n,lama-lama|adv
-long-barreled	senapang|n
-long-distance	koc|n
-long-drawn	lolong|n
+long	panjang|adj
+long live	daulat|v,dirgahayu|v,panjang umur|v
+long-lasting	lanjut|adj
+long-winded	lanjut|adj
 longan	longan|n
-longer	pencen|adj
 longhouse	rumah panjang|n
-look	belek|v,bidik|v,cahari|v,cari|v,kawal|v,kelihatan|v
-looked	dilangut|v
-looking	bekemayau|v,dam|adj
+longing	dendam|n
+look	kilas|n
+look like	mirip|adj
+looked or stared up at	dilangut|v
+looking like a checkers board	dam|adj
 loom	abah-abah tenun|n
-loose	galir|n,goyang|adj,luntang|n,renggang|adj,sendat|adj
-loot	sakar|v
-lord	bapa kami,pamegat|n,pertuan|v,syah alam|n,yamtuan|n
-lorded	dipertuan|v
-lorentz	faktor lorentz|n
-lorry	lori|n
-lose	hilang|v,kesamunan|v,lumpuh|v,pengsan|v
-loss	kehilangan|n,kerugian|n,rugi|n
-lost	kalah|v,lamun|v,melamun|v,pergi mampus|v,sesat|adj
-lot	banyak|adj
-lotion	berlosen|v,losen|n,melosen|v
+loose	goyang|adj,renggang|adj
+loose because of wear	galir|n
+lord ruler	yamtuan|n
+lord's prayer	bapa kami
+lorentz factor	faktor lorentz|n
+loss	rugi|n,kerugian|n,kehilangan|n
+lost	kalah|v,sesat|adj
+lot	lut
+lotion	losen|n
 lotus	seroja|n,teratai|n,tunjung|n
-loud	bahana|n,dekah|n,riuh|adj,tempik|n
+loud	riuh|adj
+loud noise	bahana|n
 louse	kutu|n
-love	asmara|n,bercinta|v,cinta|n,cinta monyet|n,cinta segi tiga|n,cintan|n
+love	kasih|n,asmara|n,cintan|n,sayang|v,mengorat|v
+love addict	mat cintan|n
+love triangle	cinta segi tiga|n
 lovely	indah|adj
 lover	kekasih|n
-lovesick	mat cintan|n
-lovestruck	kasmaran|v
-low	cair|adj,rendah|adj,riam|n
-lower	baruh|n,labuhkan|v,perdu|n,regan|n,turunkan|v
+low	rendah|adj
+lower trunk	perdu|n
 lowly	hina|adj
 loyal	setia|adj
+ltd	sendirian berhad|n
 lubricant	pelincir|n
-luck	bertuah|adj,geruh|n,kemujuran|n,nasib|n,semoga berjaya|int,tuah|n
+luck	tuah|n,nasib|n,kemujuran|n
 lucky	mujur|adj,nasib baik|adj
 luggage	bagasi|n
 luminous	cerlang|adj
 lump	gumpal|cls,tumbung|n
-lumpur	kl
-lumpy	buku|n
-lunch	bekal|n
 lung	paru|n,paru-paru|n
-lurk	pendap|v
+lush	rimbun
 lust	syahwat|n
-lut	luth
 lutetium	lutetium|n
 luxurious	mewah|adj
 lychee	laici|n
-lying	superman|n
+lying flat on the stomach when riding the motorcycle	superman|n
 lyrics	lirik|n

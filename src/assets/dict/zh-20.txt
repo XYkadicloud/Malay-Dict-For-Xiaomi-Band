@@ -1,21 +1,11 @@
-且	a,adapun,apalagi,bahawa|conj,dah tu|adv,dan lagi,malah,malahan
-且说	adapun,bahawa|conj
-五	lima|num,lima ribu|num,panca|num,anak panjang|n,aneka warna,balingkawat|n,bangun-bangun|n,batu pelinggam
-五个	kuatordesilion|num
-五个零	kuatordesilion|num
-五个零之	kuatordesilion|num
-五个零之数	kuatordesilion|num
-五代	oneng,piut|n
-五代之	oneng
-五代之子	oneng
-五代之子孙	oneng
-五代子	piut|n
-五代子孙	piut|n
-五光	puspawarna
-五光十	puspawarna
+且	a,bahawa|conj,adapun
+且休	perhentian|n
+且说	bahawa|conj,adapun
+五	panca|num,lima|num,lima ribu|num
 五光十色	puspawarna
 五光十色的	puspawarna
-五十	lima puluh|num,jubli,lima puluh dua|num,lima puluh enam|num,lima puluh lapan|num,lima puluh satu|num,lima puluh sembilan|num,lima puluh tiga|num
+五分熟	sederhana|adj
+五十	lima puluh|num,lima puluh dua|num,lima puluh enam|num,lima puluh satu|num,lima puluh tiga|num,lima puluh lapan|num,lima puluh tujuh|num,lima puluh sembilan|num
 五十一	lima puluh satu|num
 五十七	lima puluh tujuh|num
 五十三	lima puluh tiga|num
@@ -23,280 +13,158 @@
 五十二	lima puluh dua|num
 五十八	lima puluh lapan|num
 五十六	lima puluh enam|num
-五十年	jubli
-五十年纪	jubli
 五十年纪念	jubli
-五口	empat puluh lima|num
-五口径	empat puluh lima|num
-五口径的	empat puluh lima|num
-五口径的手	empat puluh lima|num
-五口径的手枪	empat puluh lima|num
 五官	pancaindera|n
-五彩	pancawarna,aneka warna,balingkawat|n,bangun-bangun|n,batu pelinggam,benang raja|n,ganu|n,gegana|n
+五度	kelima|adj
+五彩	pancawarna,pelang,limar,aneka warna
 五彩丝	limar
 五彩丝带	limar
-五彩大	batu pelinggam,pelinggam
-五彩大理	batu pelinggam,pelinggam
-五彩大理石	batu pelinggam,pelinggam
+五彩大理石	pelinggam,batu pelinggam
+五彩宾纷	warna-warni|adj
 五彩的	pelang
-五彩缤	aneka warna,balingkawat|n,bangun-bangun|n,benang raja|n,ganu|n,gegana|n,lanum|n,mangun|n
-五彩缤纷	aneka warna,balingkawat|n,bangun-bangun|n,benang raja|n,ganu|n,gegana|n,lanum|n,mangun|n
-五彩缤纷的	balingkawat|n,bangun-bangun|n,benang raja|n,ganu|n,gegana|n,lanum|n,mangun|n,tali mangon|n
-五月	bulan lima|n,mei,nauzubillah,wiladan
-五月后	wiladan
-五月后清	wiladan
-五月后清洗	wiladan
-五月后清洗腹	wiladan
-五月后清洗腹部	wiladan
-五月后清洗腹部之	wiladan
-五月后清洗腹部之仪	wiladan
-五月后清洗腹部之仪式	wiladan
-五次	kuadrilion|num,kuindesilion|num
-五次幂	kuindesilion|num
-五次方	kuadrilion|num
+五彩缤	aneka warna
+五彩缤纷	aneka warna
+五月	bulan lima|n,mei,nauzubillah
+五月愿	bulan lima|n,mei,nauzubillah
+五月愿能	bulan lima|n,mei,nauzubillah
 五点	pukul lima
 五点种	pukul lima
-五的	said
-五的男	said
-五的男孩	said
-五的男孩之	said
-五的男孩之名	said
-五种	pancalogam
-五种金	pancalogam
-五种金属	pancalogam
-五种金属的	pancalogam
-五种金属的混	pancalogam
-五种金属的混合	pancalogam
 五种金属的混合金	pancalogam
+五线谱	staf|n
 五脚	kaki lima
 五脚基	kaki lima
-五裂	berpecah
 五觉	pancaindera|n
-尔	mika,mu|pron,albania,aljazair,anjing dalmatia|n,berdolok-dalik,beriani|n,dalmatia
-尔亚	beriani|n
-尔亚尼	beriani|n
-尔亚尼菜	beriani|n
-尔及	aljazair
-尔及利	aljazair
-尔及利亚	aljazair
-尔反	berdolok-dalik,dolak-dalik
-尔反尔	berdolok-dalik,dolak-dalik
-尔反尔的	berdolok-dalik,dolak-dalik
-尔夫	golf
-尔夫球	golf
-尔巴	albania
-尔巴尼	albania
-尔巴尼亚	albania
-尔特	sindrom klinefelter|n
-尔特综	sindrom klinefelter|n
-尔特综合	sindrom klinefelter|n
-尔特综合征	sindrom klinefelter|n
-尔的	berdolok-dalik,dolak-dalik
-尔维	serbia
-尔维亚	serbia
-尔都	urdu
-尔都语	urdu
-尔酸	limau purut|n
-尔酸橙	limau purut|n
-尔马	anjing dalmatia|n,dalmatia
-尔马提	anjing dalmatia|n,dalmatia
-尔马提亚	anjing dalmatia|n,dalmatia
-尔马提亚狗	anjing dalmatia|n
-应	adaptasi|n,ajib,alergi|n,antul,aplikasi|n,balasan|n,bekalan|n,bekalan air
+五音度	kelima|adj
+尔	mu|pron,mika
+尔来	baru|adj
+岔子	kemalangan|n
+应	patut|adj,lamar|v,pakai|v,sewajibnya|adv,aplikasi|n,ajib,melamar,seharusnya
 应允	menjanjikan
-应品	bekalan|n
-应当	ajib,seharusnya,sewajibnya|adv,semestinya
+应对	balasan|n
+应当	sewajibnya|adv,ajib,seharusnya,semestinya
 应当的	semestinya
 应征	lamar|v,melamar
-应性	alergi|n
-应用	aplikasi|n,pakai|v,statistik gunaan|n
-应用统	statistik gunaan|n
-应用统计	statistik gunaan|n
-应用统计学	statistik gunaan|n
+应得的东西	yuran|n
+应急	kecemasan|n
+应用	pakai|v,aplikasi|n
+应用统计应用统计学	statistik gunaan|n
 应该	patut|adj,seharusnya
-应链	rangkaian bekalan|n
-怔	lisah,lorat|adj
-怔忡	lisah,lorat|adj
-怔忡不	lisah,lorat|adj
-怔忡不安	lisah,lorat|adj
-悔	kesal,kesesalan|n,kilan,menyesal|v,sebal,sesal|n,taubat|v,terkilan
+怔忡	lorat|adj,lisah
+怔忡不	lorat|adj,lisah
+怔忡不安	lorat|adj,lisah
+悔	kesesalan|n
 悔恨	sebal
 悔恨的	sebal
 悔悟	kesesalan|n
-憔	kedengkik,kuyu,pucat|adj
-憔悴	kedengkik,kuyu,pucat|adj
-憔悴的	kedengkik,kuyu,pucat|adj
-搔	garit,garu|v,garuk,garut,gores,kais,kakas,menggaruk
+憔悴	pucat|adj,kuyu,kedengkik
+憔悴的	pucat|adj,kuyu,kedengkik
+搔	garu|v,gores,garut,kais,garuk,garit,kakas,menggaruk
 搔抓	geragas,menggaris
 搔痕	calar
-榔	aren|n,gudi,jerkat,kacip,kelati,pinang|n,pulau pinang,upih
-榔剪	kacip
-榔实	kelati
-榔实的	kelati
-榔实的剪	kelati
-榔屿	pulau pinang
-榔树	upih
-榔盆	gudi
-气	gas|n,aerodinamik|adj,aerologi|n,akar udara,animasikan|v,ap,asma,atmosfera|n
+气	gas|n,hawa|n,tenaga|n,iklim|n,imbas|v,bau|n,belon|n,mengah
 气体	gas|n
 气候	hawa|n,iklim|n,suasana,perubahan iklim|n
 气候变	perubahan iklim|n
 气候变化	perubahan iklim|n
-气力	tenaga|n,cangkul angin,jaring angin
-气动	aerodinamik|adj
-气动力	aerodinamik|adj
-气动力学	aerodinamik|adj
-气动力学的	aerodinamik|adj
-气压	barotrauma|n,jangka tekanan
+气力	tenaga|n
+气势汹汹	agresif|adj
+气压	jangka tekanan
 气压器	jangka tekanan
-气压性	barotrauma|n
-气压性创	barotrauma|n
 气压性创伤	barotrauma|n
-气味	bau|n,daba,pering
-气味强	pering
+气味	bau|n,daba
 气味强烈	pering
 气味强烈的	pering
-气喘	cungap,mengah,mengih,ngungap,senak nafas,sesak nafas,ungap,asma
-气喘吁	engah,terengah-engah,terunkap
+气喘	mengah,mengih,ungap,ngungap,sesak nafas,cungap,senak nafas,engah
+气喘吁	engah,terengah-engah
 气喘吁吁	engah,terengah-engah,terunkap
 气喘吁吁的	terunkap
 气喘病	asma
-气坏	judas
-气坏的	judas
-气处	pengoksigenan|n
-气处理	pengoksigenan|n
-气大	perus
-气大的	perus
-气学	aerologi|n,kaji angkasa|n
-气层	udarakasa|n
-气弄	mendengus|v
-气弄响	mendengus|v
-气弄响鼻	mendengus|v
-气弄响鼻子	mendengus|v
-气暴	bengkeng,merunsing
-气暴躁	bengkeng,merunsing
-气机	jet
-气根	akar udara,tunjang
+气圈	atmosfera|n
+气场	atmosfera|n
+气宇	cara|n
+气度	cara|n,kehadiran|n
+气态	cara|n
+气息	nafas|n
+气数	nasib|n
+气根	tunjang,akar udara
 气氛	daba
 气泡	gelembung
 气流	imbas|v
-气浴	bertangas
-气清	penyegar udara|n
-气清新	penyegar udara|n
-气清新剂	penyegar udara|n
 气球	belon|n
-气病	basal
-气的	dinamik|adj,embal,gusar,hangus,kebudak-budakan,lempam,maimun,membawang|v
 气管	lekum,merih
-气蓬	cegak,dinamik|adj
-气蓬勃	cegak,dinamik|adj
-气蓬勃的	cegak,dinamik|adj
-气象	aerologi|n,kaji angkasa|n,kajiangkasa|n
-气象学	kajiangkasa|n,aerologi|n,kaji angkasa|n
+气象	kajiangkasa|n
+气象学	kajiangkasa|n
 气逆	senak nafas
-气随	sempoi|adj
-气随和	sempoi|adj
-气随和的	sempoi|adj
-渔	biduk,nadir,nelayan|n,penjala,perikanan|n,pukat|n
+气韵	aksara|n
+渔	nelayan|n,nadir,penjala,biduk
 渔业	perikanan|n
+渔业捕	perikanan|n
+渔业捕鱼	perikanan|n
 渔夫	nelayan|n,penjala
-渔网	pukat|n
-渔舟	biduk,nadir
-演	aktres|n,assalam,awangan,berceramah,bersut,buka bicara,ceramah|n,dalang|n
-演出	lakon|v,pertunjukan,awangan,pembukuan|n
-演出合	pembukuan|n
-演出合同	pembukuan|n
+渔舟	nadir,biduk
+演	ucapan|n,pelakon|n,pidato|n,madah|n,ucap|v,ceramah|n,temasya,syarahan
+演出	lakon|v,pertunjukan
 演剧	temasya
-演员	pelakon|n,aktres|n
-演小	membadut|v
-演小丑	membadut|v
-演讲	berceramah,ceramah|n,pidato|n,syarahan,assalam,penceramah
-演讲后	assalam
-演讲后信	assalam
-演讲后信后	assalam
-演讲后信后的	assalam
-演讲后信后的祝	assalam
+演化	evolusi|n
+演员	pelakon|n
+演讲	pidato|n,ceramah|n,syarahan,berceramah,penceramah
 演讲后信后的祝语	assalam
 演讲者	penceramah
-演说	bersut,madah|n,pidato|n,ucap|v,ucapan|n,buka bicara
-演魔	sunglap mata
-演魔术	sunglap mata
-炔	gemilap,gilap-gemilap
-熔	kawah peleburan|n,lahar|n,lebur,mencairkan,pengimpalan|n,relau
-熔化	lebur,kawah peleburan|n,mencairkan
+演说	ucapan|n,pidato|n,madah|n,ucap|v
+演进	evolusi|n
+熔	lahar|n,lebur,relau
+熔化	lebur,kawah peleburan|n
 熔化锅	kawah peleburan|n
 熔岩	lahar|n
-熔接	pengimpalan|n
 熔炉	relau
-研	gilas,memipis,menggilas,moler,bahas|n,cara mengaji,cobek,kaji|n
-研磨	cobek
-研磨辣	cobek
-研磨辣椒	cobek
-研磨辣椒的	cobek
-研磨辣椒的陶	cobek
+研	siasat|n,kaji|n,moler,gilas,menggilas,memipis,bahas|n,sidik
+研析	penyelidikan|n
 研磨辣椒的陶盘	cobek
-研究	bahas|n,kaji|n,kajian,menelaah,selidik,siasat|n,sidik,cara mengaji
-研究的	cara mengaji
-研究的方	cara mengaji
+研究	siasat|n,kaji|n,bahas|n,sidik,selidik,menelaah,kajian
 研究的方法	cara mengaji
+研究院	akademi|n
 研讨	seminar
 研讨会	seminar
-研香	sengkalan
-研香料	sengkalan
-研香料用	sengkalan
-研香料用的	sengkalan
-研香料用的厚	sengkalan
-研香料用的厚板	sengkalan
-笔	kalam|n,pen|n,akhirulkalam,buku catatan|n,buku rampaian,cakar ayam|n,catatan|n,jurus
+笔	pen|n,kalam|n,catatan|n,nota,kalamdan,kelamdan,nama samaran
+笔会	pen|n
 笔名	nama samaran
+笔头	tersurat|v
+笔杆	pen|n
+笔杆子	pen|n
 笔盒	kalamdan,kelamdan
 笔直	jurus,lontos
 笔直的	jurus,lontos
 笔记	catatan|n,nota,buku catatan|n,buku rampaian
 笔记本	buku catatan|n
 笔记簿	buku rampaian
-笔迹	cakar ayam|n
-箔	kerajang|n,kerancang|n
-羔	geming|v,kambing hitam|n
-羔羊	geming|v,kambing hitam|n
-羔羊皮	geming|v
-輔	abjad|n
-輔音	abjad|n
-輔音音	abjad|n
-輔音音素	abjad|n
-輔音音素文	abjad|n
+羔羊	biri|n
 輔音音素文字	abjad|n
-途	adat resam,faedah|n,guna|n,ikhtiar|n,jelimput,nyasar,serbaguna|adj,sesat|adj
+途	ikhtiar|n
 途中	tengah jalan
 途径	ikhtiar|n
-途改	jelimput
-途改道	jelimput
-途的	serbaguna|adj
-钔	mendelevium|n
-锔	kurium|n
-阔	besarnya,bidang|n,dedah|v,lajur,langkah|v,lega|adj,lenggok|v,lintang|adj
+钔钔	mendelevium|n
+钔钔M	mendelevium|n
+钔钔Md	mendelevium|n
+锔锔	kurium|n
+锔锔C	kurium|n
+锔锔Cm	kurium|n
+阔	langkah|v,lintang|adj
 阔度	lintang|adj
 阔开	dedah|v
 阔开的	dedah|v
 阔条	lajur
 阔条状	lajur
-阔步	langkah|v,lenggok|v
-阔的	lega|adj,ombar
-隔	bucu,bahu jalan|n,diafragma,gegendang,kekar,kompartmen|n,langkau sehari,lat
-隔一	langkau sehari
-隔一天	langkau sehari
-隔两	selang dua hari
-隔两天	selang dua hari
-隔开	memencil,menyekat,menyisih,parak,sisih|v
+阔步	langkah|v
+阔气	karim|adj
+隔	bucu,pencil|v,sisih|v,memencil,parak,gegendang,kekar,langkau sehari
+隔开	sisih|v,memencil,parak,menyekat,menyisih
 隔散	kekar
 隔日	langkau sehari
-隔的	renggang|adj,terpencil|adj
-隔离	bahu jalan|n,terpencil|adj
+隔离	bahu jalan|n
 隔离墩	bahu jalan|n
-隔离的	terpencil|adj
-隔膜	gegendang,diafragma
+隔绝	terpencil|adj
+隔膜	gegendang
 隔開	pencil|v
-隔间	kompartmen|n
 颔	dagu|n,ganggal
 颔首	ganggal
 鲔	sembak

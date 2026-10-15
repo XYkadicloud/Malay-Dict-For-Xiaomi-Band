@@ -1,0 +1,735 @@
+a bag	beg|n
+a balance	teraju|n
+a balloon	belon|n
+a bank	bank|n
+a bantam chicken	ayam katik|n
+a barbed fish spear	tempuling|n
+a bastard	gampang|n
+a battle cry	tempik|n
+a beat	degup|n
+a bedbug	pepijat|n,pijat-pijat|n
+a bedstead	panggau|n
+a black and dark yellow striped dog	anjing ladang|n
+a black person from africa	zanggi|n
+a blank document or template to be filled in by the user	borang|n
+a blanket	gebar|n
+a blessing from god	restu|n
+a blessing of god	kurnia|n
+a blow	tangkis|v
+a blowpipe	sumpit|n
+a bottom	boti|n
+a bound beyond which one may not go	batas|n
+a bowhead whale	paus kepala busur|n
+a bread knife	pisau roti|n,pisau paung|n
+a bribe	rasuah|n
+a briber	perasuah|n
+a brownnoser	mat bodek|n,kaki bodek|n
+a brush	berus|n
+a bryde's whale	paus bryde|n
+a building for short-term stay	pondok|n
+a building or room for displaying works of art and others	galeri|n
+a bus coach	koc|n
+a bus for long-distance journeys or travels	koc|n
+a cabin	kabin|n
+a cabinet	kabinet|n
+a cable	kabel|n
+a cap with no brim or bill	beret
+a capital city	ibu negara|n
+a capitalist	pemodal|n,kapitalis|n
+a cappella	a cappella|n
+a captain	kapten|n,kapitan|n
+a car guy	mat kereta|n
+a car that is closed and that has front and rear seats an	sedan
+a card flat	kad|n
+a career	karier|n,kerjaya|n
+a cauldron	kancah|n
+a cause	juang|v
+a celt of ancient gaul nn an ancient region of western e	gaul
+a census	banci|n
+a century	abad|n
+a certain person	si fulan
+a certificate usually been used for bachelor's degree ij	ijazah
+a chadic language spoken south of lake chad	bata
+a charpoy	panggau|n
+a cheer	tempik|n
+a chef	cef|n,ketua jurumasak|n
+a chess piece	buah catur|n
+a chief	ketua|n
+a child born out of wedlock	gampang|n
+a chinese person	cainis|n
+a chinese temple	tokong|n
+a chirp	kicau|n
+a cicada	riang-riang|n
+a cigarette	rokok|n,koktang|n,sigaret|n
+a cimb bank	bank sotong
+a circuit of wires for the distribution of electricity nn	wiring
+a circular rounded projection or protuberance nn a round	knob
+a citizen	rakyat|n
+a city	bandar raya|n
+a city and district of pahang	bentong,temerloh
+a city boy or girl	budak bandar|n
+a city in the sepang district	cyberjaya
+a clam or oyster that produces pearls	pegoh|n
+a clarification	penjelasan|n
+a clarifier	penjelas|n
+a client	klien|n
+a climber	banar|n
+a close friend	member|n
+a clubber	kaki disko|n
+a clubbing guy	mat disko|n
+a cluster	kluster|n
+a cobra	tedung|n
+a coffin	keranda|n
+a coin	syiling|n
+a collarless men's undergarment for the upper part of the	singlet
+a communist	komunis|n
+a company	kompeni|n,syarikat|n
+a composition of sounds that produces a form and melody t	muzik|n
+a comrade	komrad|n
+a concept	konsep|n
+a conception of an idea or belief	wawasan|n
+a continent	benua|n
+a convention of social behaviour	tatasusila|n
+a coop used to keep poultry	reban|n
+a corner	juru|n,penjuru|n
+a corrupter	koruptor|n
+a counselor	kaunselor|n
+a counter	penghitung|n
+a country in southeast asia	brunei darussalam
+a country that uses the us dollar	negara dolar|n
+a cow	jawi|n
+a crack	belah|n
+a crocodile	buaya|n
+a crossbar	palang|n
+a cubic measure equal to a quarter of a gantang or 1 14 litres	cupak|n
+a cuirass or breastplate	curat
+a cultivated variety of the breadfruit	kulur|n
+a cure	syifa|n
+a curse	laknat|n
+a curtain	langsir|n
+a curve or bend in something	lentur|n
+a curved single-edged dagger	beladau|n
+a cushion	kusyen|n
+a cut	potongan|n
+a cutting tool	golok|n
+a dance	dansa|n,tarian|n
+a dancer	penari|n
+a daughter of the prophet muhammad	fatimah
+a deadly mixture of poison	santau|n
+a debate	debat|n
+a decagon	dekagon|n
+a decagram	dekagram|n
+a deceiver	mat kelentong|n,kaki kelentong|n
+a decree or	firman
+a degree of elevation	angkatan|n
+a demand	menyuarakan|v
+a design or figure that consists of recurring shapes or c	motif
+a device that has a helical function	skru|n
+a device to prevent overloading of a circuit	fius|n
+a dialect	dialek|n
+a diamond	intan|n
+a diamond or brilliant	berlian|n
+a digraph	digraf|n
+a directive	pesan
+a discusser	pembincang|n
+a discussion	perbincangan|n
+a disease of the sprue type attacking children	guam|n
+a disruption of a service	putus bekalan|n
+a district of kelantan	bachok
+a district of pahang	lipis,rompin
+a district of perak	manjung
+a district of selangor	sabak bernam
+a district of terengganu	kemaman
+a document certifying the successful completion of a cour	diploma
+a domesticated subspecies of red junglefowl	ayam|n
+a donor	penderma|n
+a draw	diagram
+a drawer of a desk and so on	laci|n,anak meja|n
+a drawing intended to explain how something works	diagram
+a dress worn primarily by hindu women	sari
+a drink that is a mixture of tea and coffee	cham|n
+a drug addict	mat dadah|n,kaki dadah|n
+a drug addicted person	mat gian|n,mat lalok|n
+a duty or obligation believing muslims must fulfil	fardu|n
+a fact	fakta|n
+a false killer whale	paus hitam|n
+a familiar term of address	mat|n
+a fan of sentimental music	kaki jiwang|n
+a fan or supporter of a musical artist	peminat|n
+a fan or supporter of a sports club	penyokong|n
+a fard	fardu|n
+a fascist	fasis|n
+a father	ayah|n,bapa|n
+a father of someone's parent	datuk|n
+a federal city	mosko
+a feeling of intense happiness	euforia|n
+a female emperor	maharani|n
+a female flight attendant	pramugari|n
+a female given name	maryam,meriam,zohrin
+a female given name from arabic	nisa,zaleha,farhana,rogayah,zabedah,farhanah,zubaidah
+a female given name from english	nelly
+a female given name from persian	jihan
+a female muslim	muslimah
+a female peranakan	nyonya|n
+a female person	minah|n,wanita|n
+a female teacher of arabic or islamic classes	ustazah|n
+a feminist	feminis|n
+a fence	pagar|n
+a festival holiday commemorating the birth of	krismas
+a few	sikit|adj,sedikit|adj
+a few moments ago	baru|adj
+a field	wong
+a fin whale	paus sirip|n
+a firefighter	abang bomba
+a firework	kembang api|n
+a fissure	belah|n
+a flat	capati|n
+a flat rice noodle	kuetiau|n
+a fleet of warships	armada|n
+a for medium and or small roundish items like balls	sebiji|num
+a form of address for the third child	alang|n
+a form of address to a chinese leader	aboi|n
+a formal sitting posture on the floor where both legs are	timpuh
+a fort	kota|n
+a fort or fortress	benteng|n
+a foul-smelling plant grown in asia	konjak|n
+a four-cornered matwork bag or basket	keban|n
+a franchise	francais|n
+a franchisee	francaisi|n
+a franchisor	francaisor|n
+a freshwater crab	yuyu|n
+a fruit bat or megabat	kalong|n
+a gallery	galeri|n
+a game played on a large open course with 9 or 18 holes	golf
+a garbage truck or dustcart	lori sampah|n
+a gay festivity	galas
+a gemstone made from diamond	berlian|n
+a general term for ghosts	hantu|n
+a general term for the surface of the earth	tanah|n
+a generation	generasi|n
+a generic name for onion	bawang|n
+a genius loci	puaka|n
+a genus of fishes	perca
+a genus of sea birds including the booby and the common n	sula
+a gift or present	hadiah|n
+a gift or tribute	persembahan|n
+a girl	minah|n
+a girl wearing a veil	cikadung|n
+a glance	kilas|n
+a glass or porcelain ginger jar	takar|n
+a globe	glob|n
+a globular water bottle used in asia nn burbot	lota
+a gold foil	kerajang|n
+a gold foil see emas kerancang	kerancang|n
+a gong	gong|n
+a grade point average of 4 00	four flat|n
+a graduate	siswazah|n
+a granary	jelapang|n
+a grandfather	datuk|n
+a gray whale	paus kelabu|n
+a greeting	tegur|n
+a groove or furrow especially one in soft earth caused b	rut
+a group of malaysian nationalist cyberwarriors who organise themselves	tentera bawang|n
+a group of robbers	rampok|n
+a group of royal dignitaries within the sultanate of brun	manteri
+a group of sporting activities including track and field	olahraga|n
+a group of things of the same kind that belong together a	set
+a group or organisation of criminals	geng|n
+a guinea pig	argus|n,tikus belanda|n
+a guy or dude	mamat|n
+a habitual drinker	pemabuk|n
+a half	setengah|n
+a handbag	beg tangan|n
+a heavy silk with a dull finish	gros
+a heavy truck	lori|n
+a hemoprotein composed of globin and heme that gives red	hemoglobin
+a herb	herba|n
+a herd of whales	gam
+a high-five	sep|n
+a high-voltage discharge of electricity within	petir
+a highly addic	heroin
+a hilus	tampuk|n
+a hindu demon who swallows the sun causing eclipses	rahu
+a hindu princess or the wife of a	rani
+a hindu religious teacher	swami
+a hissing sound	desis|n
+a holy war waged by muslims against infidels nn a holy s	jihad
+a honorific used in some royal titles	bera|n
+a hook	kait|n
+a hope	doa|n
+a horse	kuda|n
+a horse of a dark color	zain
+a horse's manner of moving nn a person's manner of walking	gait
+a horseshoe	ladam|n
+a hotel providing overnight lodging for travelers nn ine	hostel
+a humpback whale	paus kelasa|n
+a hunter	pemburu|n
+a hybrid banana	punti|n,pisang raja|n
+a hypocrite	munafik|n,hipokrit|n
+a in the petaling district	puchong
+a individuals who offer unregistered architectural or house design services	ulat arkitek|n
+a jester in a mak yong performance	peran|n
+a jihadist	mujahid|n
+a judge	hakim|n
+a jump	lompat|n
+a karaoke enthusiast	kaki karok|n
+a kettledrum see tymbal	timbal
+a killer whale	paus pembunuh|n
+a kind of boat or junk used in the seas of the malay n	tongkang
+a kind of edible venus clam	lala|n
+a kind of fish	baung|n
+a kind of grain plant	jelai|n
+a kind of lidded small spherical metal casket	cembul|n
+a kind of plant	jerangau|n
+a kind of tree	jelutung|n
+a kind of war	gerila|n
+a kingdom	kedatuan|n
+a know-it-all	palatau|n
+a label	label|n
+a labial sound	bunyi labial|n
+a ladle or scoop	cedok|n
+a large	kumbar|n
+a large cask especially one holding a volume equivalent t	tun
+a large constellation on the equator near pisces and aqua	cetus
+a large water vessel	kapal|n
+a lath	belebas|n
+a lawyer	loyar|n,peguam|n
+a lazy or easy chair	kerusi rehat|n
+a lect	lek|n
+a lecture	ceramah|n
+a level tract of land nn a shallow box in which seedling	flat
+a lever that is operated with the foot nv operate the pe	pedal
+a lieutenant	leftenan|n
+a light clear metallic sound as of a small bell nv cause	ting
+a light thin stuff of silk	sendal
+a little	sikit|adj,sedikit|adj
+a location of an organization with several locations	cawangan|n
+a lockup	lokap|n
+a log	batang|cls
+a loiterer	kaki rambu|n
+a loloish language	lolo
+a long mosque drum	tabuh|n
+a long straight sword	jenawi|n
+a long-drawn howl sound	lolong|n
+a long-tailed monkey native o	simpai
+a loose confed	komanwel
+a loose light float with a short baited line attached to it	luntang|n
+a loosely woven fabric used for flags	bunting
+a lorry	lori|n
+a lot	banyak|adj
+a loud shout	tempik|n
+a lovesick person	mat cintan|n
+a low waterfall	riam|n
+a lumpy joint	buku|n
+a magnet	magnet|n
+a major islamic prayer	solat|n
+a major prayer	sembahyang|n
+a malay condiment made from fermented shrimp paste	belacan|n
+a malaysian politician	kj,waf
+a malaysian politician and prime minister	pmx
+a male given name	ijat
+a male given name from arabic	nuh,anas,abdul,ahmad,anwar,haris,nabil,sehak,usman,naufal
+a male given name from english	aaron
+a male given name from javanese	kimi
+a male given name from latin	imadiyat
+a male given name from persian	johan,danish
+a male given name meaning handsome	agus
+a male person	mamat|n
+a male teacher of arabic or islamic classes	ustaz|n
+a mammal of the subfamily marmotini	tupai tanah|n
+a man distinguished by exceptional courage and nobility a	hero
+a man who has lost his wife whether by divorce or through her death	duda|n
+a market	pasar|n,pasaran|n
+a marmot	marmut|n
+a married woman	orang rumah|n
+a mat made from pandan leaves for people to si	tikar
+a maternal uncle or elder brother	mamak|n
+a mcdonald's restaurant	mekdi
+a megabat or a flying fox	keluang|n
+a member of a people who have no permanent home but move	nomad
+a member of a senate	senator
+a member of any of a large number of linguistically relat	bantu
+a member of the genus tragulus	pelanduk|n
+a member of the kafir people in northeastern afghanistan	kafir
+a member of the kshatriya social class in ancient hindu society	kesatria|n
+a mentality	mentaliti|n
+a message transmitted by telegraph	telegram
+a message transmitted by wireless telegraphy nn a photog	radiogram
+a messenger	acang-acang|n
+a metallic piece of currency	syiling|n
+a meter	meter|n
+a mica	abrak|n
+a microwave	gelombang mikro|n
+a minister	menteri|n
+a minister who beheads a criminal	maharajalela|n
+a mixed-race person	kacukan|n
+a mixture	rojak|n
+a mixture of lime or gypsum with sand and water	plaster
+a moan	keluh|n
+a mocking way of claiming to be afraid despite not feeling it in actuality	tacod
+a moist	vagina
+a moment	kejap|n
+a moment ago	tadi|adv
+a monitor lizard	biancak|n
+a mother	induk|n
+a mukim of selangor	damansara
+a muslim	muslim
+a muslim engaging in jihad	mujahid|n
+a muslim fundamentalist or islamist	walaun|n
+a muslim or hindu mendicant monk who is regarded as a hol	fakir
+a muslim who represents the mystical dimension of islam	sufi
+a mystical and heavenly land	keinderaan|n
+a name or title for god meaning the almighty	maha kaya
+a narcotic that is considered a hard drug	heroin
+a narrow trail cleared through a dense forest	rintis|n
+a necklace	kalung|n
+a negative desire	ayaw|n
+a nephew of abraham in the bible and quran	lut
+a net for fishing	pukat|n
+a non-muslim	orang bukan islam|n,orang bukan muslim|n
+a non-muslim subject of a muslim government	zimmi|n
+a non-muslim who is a hostile combatant against a muslim government	kafir harbi|n
+a non-muslim who is subject to a muslim government	kafir zimmi|n
+a nonpowered unit in a railroad train	gerabak|n
+a north american wild duck	itik badut|n
+a novel	roman|n
+a nyonya	nyonya|n
+a of or relating to or characteristic of feudalism	feudal
+a omura's whale	paus omura|n
+a one-horse sleigh consisting of a box on runners	pung
+a package	pakej|n
+a packet	peket|n
+a pair of letters	digraf|n
+a pair of weighing scales	teraju|n
+a paper	kertas|n
+a parachute	payung|n
+a parasite	bendalu|n
+a parent-in-law	mentua|n,mertua|n
+a parrot	nuri|n
+a part or division of something	juzuk|n
+a party	parti|n
+a pause during which things are calm or activities are di	letup
+a peafowl	merak|n
+a peel	kupasan|n
+a person	seorang|cls,penyokong|n
+a person afflicted with leprosy nn a pariah who is avoid	leper
+a person that carries other people's faults	alas kubur|n
+a person who cannot stand heat	puteri lilin|n
+a person who follows a polytheistic or pre-christian reli	pagan
+a person who has just converted to islam	mualaf|n
+a person who sleeps	penidur|n
+a pharmacist	juruubat|n,ahli farmasi|n
+a pheasant	kuau|n,kuang|n
+a philanthropist	dermawan|n
+a photo that is taken with a cinematographic camera	syot|n
+a pickle or achar	acar|n
+a pickup	pikap|n
+a picture representing a continuo	panorama
+a piece cut off	potongan|n
+a piece of solid or semisolid mucus in or removed from a nostril	tahi hidung|n
+a pig	kambing batu|n
+a pigeon	acang|n
+a pilot whale	paus pandu|n
+a pimp	barua|n
+a pincer	capit|n
+a pineapple	nanas|n
+a pipe	serombong|n
+a pistol gun	pistol|n
+a place for disposing of kitchen waste	acaran|n
+a place location	tempat|n
+a plane	ketam|n
+a plateau	penara|n
+a podcast	audio siar|n
+a point	poin|n
+a pointed	pen|n
+a police officer	piung|n,polis|n,mata-mata|n,abang polis|n
+a policy	polisi|n
+a polygon that has eight sides	oktagon|n
+a possession	kepunyaan|n
+a pot	periuk|n
+a pound	paun|n
+a prayer seeking for forgiveness from god	astaghfirullah
+a precaution or reminder	ikhtiyat|n
+a preface or foreword	prakata|n
+a preschool for children age 4 to 6 to prepare them for p	kindergarten
+a prescribed litu	salat
+a president	presiden|n
+a pretty boy	mat jambu|n
+a preview	previu|n
+a prophet in islam	idris
+a prophet of islam	hud
+a prophet of islam who prophesied to the people of thamud	saleh
+a prophet or messenger in islam	rasul|n
+a proverb or saying	pepatah|n
+a public limited liability company	berhad|n
+a public meeting or assembly for open discussion nn a pu	forum
+a public speech	ceramah|n
+a public talk	ceramah|n
+a q and a	soal jawab|n,tanya jawab|n
+a quantity of something	amaun|n
+a quarterstaff or a singlestick used as a weapon	gayung|n
+a quick shaking	gentar|n
+a race	ras|n,bangsa|n
+a radish	lobak|n
+a raised horizontal surface nn a document stating the ai	platform
+a raised wooden platform used for sleeping or resting	panggau|n
+a rally for a political candidate	ceramah|n
+a rattan ball used in the game sepak takraw	takraw|n
+a reason	sebab|conj
+a recommendation or suggestion	syor|n
+a reform or reformation	pembaharuan|n
+a reformer	pembaharu|n
+a reformist	reformis|n
+a regarded with great favor	popular
+a regatta	regata|n
+a regime	rejim|n
+a region of eastern south africa on the indian ocean nn	natal
+a region whose eastern part is now bangladesh and whose w	bengal
+a relating to or concerned with a city or densely popula	urban
+a relating to or using sight ns visible	visual
+a religious extremist	penunggang agama|n
+a republic	republik|n
+a request	pinta|n
+a rest or break	istirahat|n
+a rest period	masa rehat|n
+a resthouse	rumah rehat|n,peristirahatan|n
+a resting room	bilik rehat|n
+a result of picking something leaves	petikan|n
+a rice barn	jelapang|n
+a rise	angkatan|n
+a river in western asia	kura
+a river of southwestern africa that rises in central ango	kasai
+a road way nprep by the way of	via
+a robber	penyamun|n,perompak|n
+a robbery	samun|n,rompakan|n,samun sakal|n
+a rock fan	mat rok|n
+a rocket	roket|n
+a rodent of the genus tamias	tupai kecil|n,tupai belang|n
+a roll	gulungan|n
+a romantic or sentimental guy	mat bunga|n
+a room	bilik|n
+a room or chamber	kamar|n
+a root vegetable of the colocasia genus	keladi|n
+a round shallow wooden tub	capah|n
+a royal descendant	gahara
+a running race	lumba lari|n
+a russian river in siberia	lena
+a sail	layar|n
+a sailor	kelasi|n,pelayar|n,anak kapal|n
+a salutation or compliment of ceremony in the east by wor	salam|n
+a sanitary measure to prevent the spread of a	kuarantin
+a sash a piece of cloth worn loosely a	sebai
+a scarf	sebai
+a scarf to support a child borne on the back	ambin|n
+a scholar	sarjana|n
+a scream	jerit|n,teriak|n
+a sea nymph supposed to lure s	siren
+a seafarer or sailor	pelaut|n
+a sect	taifah|n
+a sector	sektor|n
+a sei whale	paus sei|n
+a sentimental music guy	mat jiwang|n
+a ser	sara
+a serviceman who has seen considerable active service nn	veteran
+a session	sesi|n
+a set of garments usually including a jacket and trouser	suit
+a set of two similar things considered as a unit nn two	pair
+a shack especially a temporary shelter in a	dangau
+a shark	yu|n,jerung|n,ikan yu|n
+a sharp projection e g tine	gigi|n
+a shawl	sebai
+a shelf	rak|n
+a shield	perisai|n
+a shift	syif|n
+a ship	kapal|n
+a shoe consisting of a sole fastened by straps to the foot	sandal
+a short	parang|n
+a short story	cerita pendek|n
+a short stretch of railroad track used to store rolling s	siding
+a short-finned pilot whale	paus pendek sirip|n
+a shot	syot|n
+a shout	teriak|n
+a shriek	jerit|n
+a shuttlecock	bulu tangkis|n
+a sidelong glance	kerling|n
+a sigh	keluh|n
+a slave	abdi|n,hamba|n
+a sleeper	penidur|n
+a sleepyhead	kaki tidur|n
+a slice	potongan|n
+a small amount	dikit|n
+a small anchovy	teri|n
+a small dabbling duck	itik kening putih|n
+a small designed piece of paper with a face value	setem
+a small hut	dangau
+a small pack or package	peket|n
+a small quantity	dikit|n
+a small room in any public building where muslims pray	surau|n
+a small van or truck with low sides	pikap|n
+a smaller stone	batu|n
+a smell	bau|n
+a snatcher	mat ragut|n,kaki ragut|n
+a social democrat	sosial demokrat|n
+a social gathering	perjumpaan sosial|n
+a socialite	sosialit|n
+a sociolect	sosiolek|n
+a soft-shell turtle	labi-labi|n
+a sort of cable for electronics	type c|n
+a span	jengkal|n
+a spark	bunga api|n
+a special alotted or compartmented tray used for storing medicine	cerakin|n
+a special takbir prayer to god uttered before the eid al-fitr prayers	takbir raya|n
+a species of dove	balam|n
+a species of gourami	sepat|n
+a species of hardwood tree from the dipterocarp family	cengal|n
+a species of tree native to peninsular malaysia	cendara|n
+a specific region or district	kedaerahan|adj
+a specification	spesifikasi|n
+a spectacle	penontonan|n
+a spiced dish of rice	beriani|n
+a spirit believed by hindus to have control over the realm and humans	indera|n
+a split	belah|n
+a sports team	rumah|n,peminat|n
+a spy	mata-mata|n
+a stamped metal disc used as a personal ornament	medali
+a state capital	ibu kota|n,ibu negeri|n
+a state legislative assembly seat	dun|n
+a state of rest	kerehatan|n
+a stick for beating	ambat|n
+a stinging pain	bahal|adj
+a story	kaba|n
+a stream	strim|n
+a strong and brave warrior	pahlawan|n
+a student at a tertiary education institution	studen|n
+a stupid person	palatao|n
+a submarine	kapal selam|n
+a subscription	abonemen|n
+a subzone of queenstown	pasir panjang
+a supernatural spirit	makhluk halus|n
+a supper eaten after tarawih prayers on ramadan	moreh|n
+a supporter of policies and actions of anwar ibrahim and his administration	walanon|n
+a surgeon	ahli bedah|n
+a surname	hazmi
+a surname from chinese	chin
+a sweet	pad prik|n
+a sweet drink containing carbonated water and flavoring n	pop
+a synonym	kata seerti|n
+a synthetic silklike fabric	rayon
+a tactic	taktik|n
+a tapir	tenuk|n
+a tariff	tarif|n
+a taxi tout	ulat sapu|n,ulat teksi|n
+a teacher	cikgu|n
+a technical expert who has political power	teknokrat|n
+a technocrat	teknokrat|n
+a temporary jail	lokap|n
+a temporary makeshift residence for traders	barung|n
+a territory	daerah|n
+a terrorist	pengganas|n
+a textile or cloth	fabrik|n
+a thump	degup|n
+a thumping sound	gedegang|n
+a ticket tout	ulat tiket|n
+a timer	pemasa|n
+a title given to hindu divinities	betari|n
+a title given to hindu divinities holy	betara|n
+a toll booth	pondok tol|n
+a toll fee paid for passing a bridge	tol|n
+a toll road	jalan tol|n
+a tool for driving or forcing something by impact nn unc	ram
+a tool for punching	penebuk|n
+a tool used for boring	penggerek|n
+a tool used to make people feel fresher or better	penyaman|n
+a toothbrush	berus gigi|n
+a toothed wheel that engages another toothed mechanism in	gear
+a town and district of pahang	maran,jerantut
+a town in johor bahru district	ulu tiram
+a town in kedah	jitra
+a town in sabak bernam district	sekinchan
+a track	runut|n
+a trade language	bahasa pasar|n
+a traditional malay headdress for men	tanjak|n
+a traditional malay unit of volume	leng|n,nalih|n,sukat|n,kepul,kunca
+a traditional thai theatrical and dance performance	menora|n
+a train that uses the ktm railways	ktm
+a trans woman	mak nyah|n
+a tree of species symplocos fasciculata	lukut|n
+a tree surgeon	arboris|n
+a trident	trisula|n
+a tropical asian fruit tree	sentul|n
+a tropical fruit of the tree genus garcinia	manggis|n
+a tropical hardwood tree	merbau|n
+a trumpet	sangkakala|n
+a tube	serombong|n
+a turkey	ayam piru|n,ayam belanda|n,ayam inggeris|n
+a tutorial on wearing or styling a headscarf	tuto tuds|n
+a twitter a short	kicau|n
+a type of basket	keranjang|n
+a type of bird	ayam piru|n,selancang|n,ayam belanda|n,ayam inggeris|n
+a type of bread whose pieces each weigh 1 pound	roti paun|n
+a type of crab	ketam bunga|n
+a type of drink made with milk and cordial syrup	bandung|n
+a type of edible large clam	lokan|n
+a type of fish	baung akar|n,baung pisang|n
+a type of fishing net	payang|n
+a type of food made from a dough of sago flour mixed with	keropok
+a type of illustration which has story and dialog	komku|n
+a type of kuih made from mung bean crushed with sugar	putu|n
+a type of kuih made sago seeds and other things	abuk-abuk|n
+a type of mango	bacang|n,macang|n,mancang|n,embacang|n,kembacang|n,membacang|n
+a type of metal polish	beraso|n
+a type of music or dance that originated from the west indies	rege|n
+a type of native paper made from tree barks	jeluang|n
+a type of parang whose blade and hilt are made of the same type of metal	candung|n
+a type of perfume	kelonyor|n
+a type of plant from genus epiphyllum	bakawali|n
+a type of polymer which is used as a packaging material etc	polistirena|n
+a type of python	sanca|n
+a type of small gong used as an instrument of alarm or announcement	canang|n
+a type of sweetmeat	genang|n
+a type of tree	cenerai|n
+a unit of apothecary weight equal to an eighth of an ounc	dram
+a unit of measurement for strings	rian|n
+a unit of potential equal to the potential difference bet	volt
+a unit of weight equal to one hundredth of a tahil	hun|n
+a university	universiti|n
+a use of something	kegunaan|n
+a valence	valens|n
+a valency	valensi|n
+a van	van|n
+a vast treeless plain in the arctic regions where the sub	tundra
+a vegan	vegan|n
+a vegetarian	pemayur|n,vegetarian|n
+a very large meal	kenduri|n
+a very long distance	saujana|adj
+a very thin variety of salted chinese noodles made from wheat flour	misoa|n
+a viewpoint	wawasan|n
+a vodcast	video siar|n
+a voluntary donation or gift given sincerely to help others	sedekah|n
+a vote that blocks a decision nn the power or right to p	veto
+a wall	abar|n,abar-abar|n
+a wallet	umpau|n
+a watery solution of sugars	sap
+a web browser	pelayar web|n,penyemak imbas|n
+a weight defined as one-hundredth of a pikol	kati
+a weight used in certain parts of the east indies	bahar
+a west african long-tailed monkey	patas
+a whale	paus|n
+a whip	pecut|n
+a whisper	bisik|n
+a whistle	wisel|n,peluit|n
+a white band worn as a symbol of mourning	kabung|n
+a wife	orang rumah|n
+a wish	doa|n
+a woman religious nn the 14th letter of the hebrew alphabet	nun
+a word	perkataan|n
+a word to express amusement	ewah
+a word with the same or a similar meaning	kata seerti|n
+a work or profession which becomes one's lifelong activity	karier|n
+a worshipper	penyembah|n
+a woven basket usually made of rattan	raga|n
+a wrinkle	kedut|n
+a wrinkle or fold of fabric	kerdut|n,kedutan|n,keledut|n
+a year	tahun|n
+a yell	jerit|n,tempik|n,teriak|n
+a zionist	zionis|n

@@ -1,0 +1,22 @@
+twelve	dua belas|num,sepuluh dua|num,satu puluh dua|num
+twenty	dua puluh|num
+twenty-eight	lapan likur|num,dua puluh lapan|num
+twenty-five	lima likur|num,dua puluh lima|num
+twenty-four	empat likur|num,dua puluh empat|num
+twenty-nine	sembilan likur|num,dua puluh sembilan|num
+twenty-one	selikur|num,satu likur|num,dua puluh satu|num
+twenty-seven	tujuh likur|num,dua puluh pitu|num,dua puluh tujuh|num
+twenty-six	enam likur|num,dua puluh enam|num
+twenty-three	telu likur|num,tiga likur|num,dua puluh telu|num,dua puluh tiga|num
+twenty-two	dua likur|num,dua puluh dua|num
+twig	ranting|n
+twilight the time of day just after sunset but before nightfall	senja|n
+twin either of two people who shared the same uterus	kembar
+twined	beborot|adj
+twinkle	kelip|n
+twitch etc	tontonan|n
+two	dua|num,dwi|num
+two days ago	kelmarin|n
+two hundred	dua ratus|num
+two thousand	dua ribu|num
+two-faced	bermuka dua|adj

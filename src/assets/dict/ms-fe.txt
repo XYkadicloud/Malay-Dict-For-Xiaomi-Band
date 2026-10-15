@@ -1,7 +1,7 @@
-feb	feb		abbr. 二月（February）
+feb	feb		abbr. 二月（February）	abbreviation of Februari (“February”)
 februari	februari		专有 二月	February (second month of the Gregorian calendar)
 federasi	federasi	n	联邦	federation; federacy
-federesen	federesen	n	两者择一
+federesen	federesen	n	两者择一	alternative form of federesyen (“federation”)
 federesyen	federesyen	n	联邦	federation
 feel	feel		行为，行动，事业	an intuitive awareness; \nn. manual stimulation of the ge…
 feminis	feminis	n	男女平等主义者	a feminist

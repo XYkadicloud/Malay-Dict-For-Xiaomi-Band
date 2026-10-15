@@ -1,49 +1,34 @@
-众	auditorium|n,pendengar|n,penonton|n,popular,publik,rapat umum,umat|n
-众化	popular
-众化的	popular
-众大	rapat umum
-众大会	rapat umum
-众席	auditorium|n
-众的	popular,publik
-冗	lanjut|adj,panjang lebar
 冗长	lanjut|adj,panjang lebar
 冗长的	panjang lebar
-列	banjar|n,janjar,leret,limpit,ririt,teret,abjadkan|v,ambal
-列车	syinkansen|n
-列队	ambal,saf
+列	banjar|n,leret,ririt,limpit,teret,janjar
+列表	daftar|n
+列车	tren|n
+列队	saf,ambal
 列队游	ambal
 列队游行	ambal
 列队的	saf
-列高	kalendar gregory|n,takwim gregory|n
-列高利	kalendar gregory|n,takwim gregory|n
-列高利历	kalendar gregory|n,takwim gregory|n
-北	utara|n,amerika utara,barat laut,beruang kutub|n,kenaifan|n,kutub syamali,laut utara,lautan artik
+北	utara|n,laut utara,macedonia utara,kutub syamali
 北冰	lautan artik
 北冰洋	lautan artik
-北方	macedonia utara,barat laut
-北极	kutub syamali,beruang kutub|n,paus kepala busur|n,rubah artik|n,teritip|n
+北方	macedonia utara
+北极	kutub syamali,teritip|n,rubah artik|n,beruang kutub|n
 北极熊	beruang kutub|n
 北极狐	rubah artik|n
 北极雁	teritip|n
-北极露	paus kepala busur|n
-北极露脊	paus kepala busur|n
 北极露脊鲸	paus kepala busur|n
 北海	laut utara
-北美	amerika utara,kenaifan|n
-北美洲	amerika utara,kenaifan|n
-吗	apa khabar|int,apa macam|adv,boleh tolong|int,bukan|adv,morfin,sudah makan|int
+北美	kenaifan|n,amerika utara
+北美洲	kenaifan|n,amerika utara
+北鼻	bayi|n
+吗	morfin
 吗啡	morfin
-宗	agama|n,akafkan,beragama,datuk nenek|n,din|n,fasik,ibadat,jihad
-宗教	agama|n,akafkan,beragama,din|n,fasik,ibadat,jihad,keagamaan
-宗教上	fasik,nahi
-宗教上的	fasik,nahi
-宗教上的禁	nahi
+宗	murad|n,agama|n,sekta|n
+宗庙	kuil|n
+宗教	agama|n,madrasah|n,din|n,penunggang agama|n,keagamaan,jihad,mualim,ibadat
 宗教上的禁令	nahi
-宗教上的罪	fasik
 宗教上的罪人	fasik
-宗教信	din|n,ibadat,keparat
-宗教信仰	din|n,ibadat,keparat
-宗教信仰的	keparat
+宗教信	din|n,ibadat
+宗教信仰	din|n,ibadat
 宗教学	madrasah|n,mualim
 宗教学校	madrasah|n
 宗教学者	mualim
@@ -51,207 +36,138 @@
 宗教性的	penunggang agama|n
 宗教战	jihad
 宗教战争	jihad
-宗教教	ustaz|n,ustazah|n
-宗教教师	ustaz|n,ustazah|n
 宗教的	keagamaan
 宗旨	murad|n
 宗派	sekta|n
-岗	batu besi|n,granit
-岗岩	batu besi|n
-岗石	granit
-店	barung|n,bercabang,berkedai,buka kedai,cabang|n,cawangan|n,hotel|n,kedai|n
+岗子	permatang|n
+店	pekedai
 店主	pekedai
-得	allahualam,basau,bengang|adj,betah,boleh tahan,bolot,capai|v,cukai pendapatan|n
-得不	diikat|v,syabas,tidak dapat
-得不可	diikat|v
-得不可开	diikat|v
-得不可开交	diikat|v
-得不可开交的	diikat|v
-得不错	syabas
-得了	betah,boleh tahan,hebat|adj
-得住	boleh tahan
-得到	dapat|v,memperolehi,jengkau,kedengaran,kelihatan|v,terinspirasi|v
-得到灵	terinspirasi|v
+店家	stor|n,kedai|n
+店铺	stor|n,kedai|n
+得	sempat|adj
+得中	senonoh|adj,sederhana|adj
+得主	juara|n
+得到	dapat|v,memperolehi
 得到灵感	terinspirasi|v
 得到灵感的	terinspirasi|v
-得喊	pekau
-得喊起	pekau
-得喊起来	pekau
-得大	bengang|adj,terbeliak
-得大大	bengang|adj,terbeliak
-得大大的	bengang|adj,terbeliak
-得物	rebutan
-得硬	basau
-得硬的	basau
-得税	cukai pendapatan|n
+得力	berkebolehan|adj
+得宜	senonoh|adj,layak|adj
+得当	senonoh|adj,layak|adj
+得法	elok-elok|adv,layak|adj
 得空	sempat|adj
-得角	tanjung verde
-抗	antigen|n,anziolitik|adj,bangkangan,bantahan|n,berontak,dahagi,membangkang,membantah
+抗	bantahan|n,sangkak,sanggah,bangkangan
 抗原	antigen|n
-抗恶	tidapa
-抗恶性	tidapa
-抗恶性贫	tidapa
-抗恶性贫血	tidapa
-抗恶性贫血因	tidapa
+抗原抗	antigen|n
+抗原抗原	antigen|n
 抗恶性贫血因素	tidapa
 抗拒	sangkak
 抗焦	anziolitik|adj
 抗焦虑	anziolitik|adj
 抗焦虑药	anziolitik|adj
-抗病	tumbal
-抗病魔	tumbal
-抗病魔的	tumbal
-抗病魔的邪	tumbal
-抗病魔的邪术	tumbal
-抗议	bangkangan,bantahan|n,sanggah,mogok lapar|n,mogok makan|n
-抗议的	mogok lapar|n,mogok makan|n
-抗议的绝	mogok lapar|n,mogok makan|n
-抗议的绝食	mogok lapar|n,mogok makan|n
-斗	adu|v,aduan,arena,ayam aduan,bergumul,berjuang,berlaga,bersabung
-斗不	kebat-kebit
-斗不已	kebat-kebit
+抗议	bantahan|n,sanggah,bangkangan
+斗	laga|n,jago,lonta,bertinju,sabungan,ayam aduan
 斗争	laga|n,lonta
 斗士	jago
 斗技	arena
 斗技场	arena
 斗拳	bertinju
-斗机	pesawat pejuang|n,pesawat tempur|n
-斗煮	nasi lemak|n
-斗煮的	nasi lemak|n
-斗煮的饭	nasi lemak|n
-斗蚊	selempada
-斗鸡	ayam aduan,sabungan,gelanggang ayam
+斗鸡	sabungan,ayam aduan,gelanggang ayam
 斗鸡场	gelanggang ayam
-暗	gelap|adj,aram,balam|n,ditektif,gabak,gelap-gulita,gulita,guram
+暗	gelap|adj,tukun|n,temaram,aram,mata gelap,terumbu,ditektif
 暗中	intip|v
 暗中监	intip|v
 暗中监视	intip|v
+暗影	bayang|n
 暗探	ditektif
-暗无	kelam-kabut
-暗无光	kelam-kabut
-暗淡	lindap,malap,pudar,seput
-暗淡的	lindap,malap,pudar,seput
+暗淡	pudar,malap,seput,lindap
+暗淡的	pudar,malap,seput,lindap
 暗牌	mata gelap
-暗的	temaram,gabak,gelap-gulita,guram,mendung|n,muram,remang|n,samar|adj
-暗礁	terumbu,tukun|n
+暗的	temaram
+暗盒	majalah|n
+暗礁	tukun|n,terumbu
+暗示	cadangan|n
 暗算	aram
 暗红	merah tua
 暗红色	merah tua
 暗红色的	merah tua
-朗	bacaan|n,cerah,deklamasi,iran,jelah,koruna|n,lawah,lawas
-朗的	cerah,jelah,lawah,lawas,lehar
+朗	bacaan|n,deklamasi
 朗诵	deklamasi
 朗读	bacaan|n
-林	assalamualaikum,belantara,belukar|n,cerang,hutan|n,hutan belantara,hutan belukar,hutan hujan|n
-林匹	olimpiad|n,olimpik
-林匹克	olimpiad|n,olimpik
-林匹克世	olimpiad|n
-林匹克世界	olimpiad|n
-林匹克世界运	olimpiad|n
-林匹克世界运动	olimpiad|n
-林匹克世界运动大	olimpiad|n
-林匹克世界运动大会	olimpiad|n
-林地	pangan|n
-林地带	pangan|n
+林	perhutanan|n,belantara
+林子	hutan|n
 林学	perhutanan|n
-林狼	koyote|n
-林里	cerang
-林里的	cerang
-林里的空	cerang
-林里的空地	cerang
+林木	hutan|n
 林野	belantara
-栗	antah|n,cuak|adj,geletar,gementar,gigil|v,gogoh,pipit rawa|n
+栗	antah|n,pipit rawa|n
 栗壳	antah|n
 栗子	pipit rawa|n
-栗的	cuak|adj
-梗	gagang,mengkelan,pelepah|n,puris,sedak,tongkol
+梗	sedak
 梗住	sedak
-梗心	tongkol
-梗心果	tongkol
-梗心果实	tongkol
-梗或	puris
-梗或筋	puris
-洗	basuh|v,cuci|v,membasuh|v,mencuci|v,abdas|n,benara|n,bertangas,bilas|v
-洗净	cuci|v,menyertu,sertu
+洗	cuci|v,basuh|v,mencuci|v,membasuh|v,bilas|v,abdas|n,mandi|v,syampu|n
+洗净	cuci|v,sertu,menyertu
 洗刷	gonyoh
-洗剂	losen|n
-洗发	menyintuk,sintuk
 洗头	syampu|n
 洗干	membersihkan|v
 洗干净	membersihkan|v
-洗擦	jelum,mandi berjelum
-洗擦身	jelum,mandi berjelum
-洗擦身体	jelum,mandi berjelum
+洗手间	tandas|n
 洗涤	kincah,kumbah
 洗液	losen|n
+洗液洗	losen|n
+洗液洗剂	losen|n
 洗漱	gurah
 洗澡	abdas|n,mandi|v
+洗澡间	bilik air|n
 洗濯	bilas|v
 洗琉	lampan
 洗琉琅	lampan
-洗米	mengosek
-洗胶	mesin basuh|n
-洗胶机	mesin basuh|n
-洗腹	wiladan
-洗腹部	wiladan
-洗腹部之	wiladan
-洗腹部之仪	wiladan
-洗腹部之仪式	wiladan
 洗蒸	bertangas
 洗蒸气	bertangas
 洗蒸气浴	bertangas
-洗衣	benara|n,cuci baju,dobi|n,manatu,mesin basuh|n,pembasuh
-洗衣匠	benara|n,dobi|n,manatu
+洗衣	dobi|n,benara|n,pembasuh,manatu,cuci baju
+洗衣匠	dobi|n,benara|n,manatu
 洗衣工	pembasuh
 洗衣工人	pembasuh
 洗衣服	cuci baju,dobi|n
 洗衣服者	dobi|n
-洗衣机	mesin basuh|n
+洗衣机洗胶机	mesin basuh|n
 洗衣者	benara|n
-渗	baur,campur baur,jerap,kedap,menyerap,meresap,mesra|adj,osmosis
-渗入	baur,campur baur,jerap,meresap,pedap,resap
+渗	mesra|adj,tiris|adj,osmosis,baur,jerap,pedap,resap,campur baur
+渗入	baur,jerap,pedap,resap,campur baur,meresap
 渗漏	tiris|adj
-渗透	menyerap,mesra|adj,osmosis,kedap
-渗透的	kedap
-疗	berubat,fitoterapi|n,kayap,layanan|n,nyiat-nyiat,terapi|adj
-疗剂	nyiat-nyiat
-疗剂的	nyiat-nyiat
-疗剂的药	nyiat-nyiat
-疗剂的药草	nyiat-nyiat
-疗学	terapi|adj
-疗法	fitoterapi|n
+渗透	mesra|adj,osmosis,menyerap
+疗	kayap
+疗法	layanan|n
 疗疮	kayap
 砗	kima|n
 砗磲	kima|n
-碗	batil,bokor|n,mangkuk|n,almari|n,irung,pinggan-mangkuk
+碗	bokor|n,mangkuk|n,batil,pinggan-mangkuk
 碗碟	pinggan-mangkuk,almari|n
 碗碟橱	almari|n
-窗	natang|n,tingkap|n,ambang|n,jendela|n,langsir|n,magun,penjawan|n,ram
+窗	tingkap|n,natang|n,jendela|n,ambang|n,penjawan|n,tetingkap|n,langsir|n
+窗体	rupa|n
 窗口	tingkap|n
+窗口期	jendela|n
+窗子	jendela|n
 窗帘	langsir|n
+窗帷	tirai|n
+窗幔	tirai|n
 窗户	jendela|n,penjawan|n,tetingkap|n
+窗扇	jendela|n
 窗楣	ambang|n
-算	hisab,hitung|v,abakus|n,algoritma|n,anggar,anggaran,aram,bajet|n
+算	hitung|v,hisab,tenung|v,dekak-dekak|n,nujum,kira-kira,menenung,ilmu hisab
 算了	sudahlah
 算了吧	sudahlah
-算命	menenung,nujum,ramalkan nasib,tenung|v
-算字	patah|v
-算字的	patah|v
-算字的单	patah|v
-算字的单位	patah|v
-算术	ilmu hisab,kira-kira
-算机	sains komputer|n
-算机科	sains komputer|n
-算机科学	sains komputer|n
+算命	tenung|v,nujum,menenung,ramalkan nasib
+算术	kira-kira,ilmu hisab
 算法	algoritma|n
-算盘	abakus|n,dekak-dekak|n,sempoa|n
-算者	kalkulator|n,mesin kira|n
-粗	bagal,bagur,buruh kasar,gabas,garam jantan,garang|adj,gemang,gerutu
-粗制	gabas,renet|n,subal
-粗制凝	renet|n
-粗制凝乳	renet|n
+算法算	algoritma|n
+算法算法	algoritma|n
+算盘	dekak-dekak|n,abakus|n,sempoa|n
+算盘算	abakus|n,sempoa|n
+算盘算盘	abakus|n,sempoa|n
+粗	kental|adj,hem,majung,kisat,garam jantan
+粗制	subal
 粗制凝乳酶	renet|n
-粗制滥	gabas
 粗制滥造	gabas
 粗制滥造的	gabas
 粗制的	subal
@@ -260,9 +176,7 @@
 粗厚	kental|adj
 粗圆	gemang
 粗圆的	gemang
-粗大	gondok,popor|n
-粗大的	gondok,popor|n
-粗大的一	popor|n
+粗大	tebal|adj,riuh|adj
 粗大的一头	popor|n
 粗布	hem
 粗心	lalai|adj,lengai
@@ -271,14 +185,11 @@
 粗心的	lalai|adj
 粗拙	bagal
 粗拙的	bagal
-粗暴	garang|adj,perus
-粗暴的	perus,garang|adj
-粗暴的暴	garang|adj
+粗暴	perus
+粗暴的	perus
 粗暴的暴躁	garang|adj
 粗暴的暴躁的	garang|adj
-粗活	buruh kasar
-粗活的	buruh kasar
-粗活的人	buruh kasar
+粗浅	cetek|adj
 粗盐	garam jantan
 粗短	mondok
 粗短者	mondok
@@ -288,45 +199,37 @@
 粗硬的	tegang
 粗笨	kikuk
 粗笨的	kikuk
-粗糙	kisat,bagur,gabas,gerutu,kasap,kasar|adj,kesat,leler
-粗糙的	gabas,gerutu,kasap,kasar|adj,kesat,leler,menggerutu,sembulu
-粗糙编	bagur
-粗糙编织	bagur
-粗糙编织品	bagur
-粗话	mencarut,rungkap
+粗糙	kasar|adj,kisat,gabas,kasap,leler,subal,sembulu,kesat
+粗糙的	kasar|adj,gabas,kasap,leler,subal,sembulu,kesat
+粗糙的发牢骚	gerutu,menggerutu
+粗糙编织品肥胖	bagur
 粗野	ketus
 粗野的	ketus
+粗陋	cetek|adj
 粗面	sembulu
 粗面的	sembulu
 粗麻	majung
-耗	haus|adj,lindang,ludis,telan|v
-耗尽	lindang,ludis
+耗	telan|v,ludis,lindang
+耗子	tikus|n
+耗尽	ludis,lindang
 耗费	telan|v
-蔗	hampas tebu,tebu|n
-蔗渣	hampas tebu
 蜗	ciput|n,siput|n,siput lintah
 蜗牛	ciput|n,siput|n,siput lintah
-辗	kelusuh-kelasah,kubang|n,lerek,sengkalan
+辗	kubang|n,lerek
 辗死	lerek
-辗研	sengkalan
-辗研香	sengkalan
-辗研香料	sengkalan
-辗研香料用	sengkalan
-辗研香料用的	sengkalan
-辗研香料用的厚	sengkalan
 辗研香料用的厚板	sengkalan
 辗转	kubang|n,kelusuh-kelasah
 辗转反	kelusuh-kelasah
 辗转反侧	kelusuh-kelasah
-逗	geli hati,koma,mampir,nyenyen
+逗	nyenyen,geli hati,mampir,koma
+逗人	lawak|adj
 逗号	koma
 逗恼	nyenyen
 逗留	mampir
 逗笑	geli hati
 锗	germanium|n
+锗锗	germanium|n
 颗	butir|n
 颗粒	butir|n
-骗	abu mengabui,bohong|adj,bujuk,cakap bohong,curang,dusta,kecoh,kecurangan
-骗子	pelasuh,pembohong,penipu
-骗的	curang,lancung
-骗话	cakap bohong
+骗	pelasuh,penipu,pembohong
+骗子	pelasuh,penipu,pembohong

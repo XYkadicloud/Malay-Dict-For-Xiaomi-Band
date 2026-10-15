@@ -1,262 +1,103 @@
-为	buat|v,di|prep,abet|n,ambil berat,apa pasal|adv,awat,belah tiga,berengsot
-为一	satukan
-为三	belah tiga
-为三方	belah tiga
-为不	buruk kelakuan,jangak|adj
-为不当	buruk kelakuan
-为不正	jangak|adj
-为严	ambil berat
-为严重	ambil berat
-为举	abet|n,telatah|n
-为举止	abet|n
-为举行	telatah|n
-为举行品	telatah|n
-为举行品行	telatah|n
+为	demi|prep,untuk|prep
+为~dalam在…里面~depan在…之前	di|prep
+为…	menangisi,berkhidmat
+为…感到后悔	menyesalkan|v
+为…服	berkhidmat
+为…服务	berkhidmat
+为…而	menangisi
+为…而哭	menangisi
+为…而牺牲	mengorbankan
 为了	demi|prep,untuk|prep
-为什	apa pasal|adv,awat,mengapa|adv
-为什么	apa pasal|adv,awat,mengapa|adv
-为侯	calonkan
-为侯选	calonkan
-为侯选人	calonkan
-为博	palatau|n
-为博学	palatau|n
-为博学的	palatau|n
-为博学的人	palatau|n
-为原	menggerekkan|v
-为原因	menggerekkan|v
-为原因的	menggerekkan|v
-为回	mengislamkan|v
-为回教	mengislamkan|v
-为回教徒	mengislamkan|v
-为小	rumit|adj
-为小事	rumit|adj
-为小事操	rumit|adj
+为什	mengapa|adv,apa pasal|adv,awat
+为什么	mengapa|adv,apa pasal|adv,awat
+为什么？何故？	kenapa|adv
+为何	mengapa|adv
 为小事操心	rumit|adj
 为小事操心的	rumit|adj
-为止	sekianlah,senggan
-为液	cairkan
-为液体	cairkan
-为生	bersawah
-为的	mampu|adj
-为移	berengsot,engsot
-为移动	berengsot
-为移开	engsot
-为移开或	engsot
-为移开或移	engsot
-为移开或移动	engsot
-为细	berketai-ketai
-为细屑	berketai-ketai
+为止	sampai|v
+为毛	mengapa|adv
 为谁	buat siapa
-人	insan|n,nara|n,orang|n,wong,a cappella|n,aaron,abdi|n,abdul
-人一	triniti|n
-人一组	triniti|n
-人不	langu|n
-人不愉	langu|n
-人不愉快	langu|n
-人不愉快的	langu|n
-人专	khoja
-人专称	khoja
-人主	individualis|n,individualisme|n,tinggi diri|adj
-人主义	individualis|n,individualisme|n,tinggi diri|adj
-人主义的	tinggi diri|adj
-人主义者	individualis|n
-人之	mencampuri
-人之事	mencampuri
-人事	selap
+为首	hulu|n
+人	nara|n,insan|n,orang|n,kependudukan|n,umat|n,makhluk|n,manusia|n,wong
+人丁	kependudukan|n
+人事	kakitangan|n
+人们	kaum|n
 人体	organ|n
 人体器	organ|n
 人体器官	organ|n
-人具	mata jahat|n
-人具有	mata jahat|n
-人具有目	mata jahat|n
-人具有目视	mata jahat|n
-人具有目视他	mata jahat|n
-人具有目视他人	mata jahat|n
-人具有目视他人而	mata jahat|n
-人具有目视他人而使	mata jahat|n
-人具有目视他人而使之	mata jahat|n
-人具有目视他人而使之遭	mata jahat|n
-人具有目视他人而使之遭殃	mata jahat|n
-人具有目视他人而使之遭殃的	mata jahat|n
-人具有目视他人而使之遭殃的能	mata jahat|n
-人具有目视他人而使之遭殃的能力	mata jahat|n
-人力	beca|n,gunatenaga,lancia|n
-人力的	gunatenaga
-人力的使	gunatenaga
+人偶	rajah|n
+人力	beca|n,lancia|n
 人力的使用	gunatenaga
 人力车	beca|n,lancia|n
-人化	si|art
-人化动	si|art
-人化动物	si|art
-人化动物名	si|art
-人化动物名前	si|art
-人化动物名前之	si|art
-人化动物名前之接	si|art
-人化动物名前之接头	si|art
-人化动物名前之接头词	si|art
-人去	mendatangkan
-人去请	mendatangkan
 人参	kolesom|n
-人变	harimau jadi-jadian
-人变的	harimau jadi-jadian
-人变的老	harimau jadi-jadian
 人变的老虎	harimau jadi-jadian
 人口	kependudukan|n,banci penduduk,cukai import
+人口数	kependudukan|n
 人口税	cukai import
 人口统	banci penduduk
 人口统计	banci penduduk
 人口调	banci penduduk
 人口调查	banci penduduk
-人名	a cappella|n,mahafiraun,daftar alamat,si|art,sundari
-人名及	si|art
-人名及拟	si|art
-人名及拟人	si|art
-人名及拟人化	si|art
-人名及拟人化动	si|art
-人名及拟人化动物	si|art
-人名及拟人化动物名	si|art
-人名及拟人化动物名前	si|art
-人名及拟人化动物名前之	si|art
-人名及拟人化动物名前之接	si|art
-人名及拟人化动物名前之接头	si|art
-人名及拟人化动物名前之接头词	si|art
-人名簿	daftar alamat
-人听	memperdengarkan
-人员	akademikus,juruteknik,kakitangan|n,staf|n
-人唯	kronisme|n
-人唯亲	kronisme|n
-人失	mengecewakan
-人失望	mengecewakan
-人头	kayau|v,mengayau
+人员	staf|n,kakitangan|n
+人品	rupa|n,aksara|n
+人士	rajah|n,nara|n
+人夫	laki|n
+人头	hulu|n,nara|n
+人妻	bini|n
 人孔	lurang|n
-人客	jamu
-人家	buruk siku
-人家东	buruk siku
-人家东西	buruk siku
-人家东西再	buruk siku
-人家东西再向	buruk siku
-人家东西再向人	buruk siku
-人家东西再向人要	buruk siku
-人家东西再向人要回	buruk siku
-人宿	bangsal
-人宿舍	bangsal
+人孔人	lurang|n
+人孔人孔	lurang|n
+人家	keluarga|n
 人寿	insurans nyawa
 人寿保	insurans nyawa
 人寿保险	insurans nyawa
-人小	chalet|n
-人小屋	chalet|n
-人居	berhuni,berpenduduk|adj,huni
-人居住	berhuni,berpenduduk|adj,huni
-人居住的	berhuni,berpenduduk|adj,huni
 人工	kecerdasan buatan|n
 人工智	kecerdasan buatan|n
 人工智能	kecerdasan buatan|n
-人开	colek hati
-人开心	colek hati
-人惊	menghairankan
-人惊奇	menghairankan
-人惊奇的	menghairankan
-人感	menyeramkan
-人感到	menyeramkan
-人感到恐	menyeramkan
-人感到恐怖	menyeramkan
-人才	pakar|n
-人报	membela
-人报仇	membela
-人掌	kaktus|n,kektas
-人掌属	kaktus|n
+人性	nara|n
+人手	staf|n
 人权	hak asasi manusia|n
-人格	budi pekerti,pekerti,personaliti
-人民	jalata,rakyat jelata,umat|n,zimmah,akilrakyat,nasional|adj,popular
+人格	pekerti,budi pekerti,personaliti
+人母	bu|n
+人民	umat|n,nasional|adj,jalata,rakyat jelata,zimmah,akilrakyat
 人民代	akilrakyat
 人民代表	akilrakyat
-人民的	nasional|adj,popular
-人注	mencolok mata|adj
-人注目	mencolok mata|adj
-人注目的	mencolok mata|adj
-人激	menghibakan
-人激动	menghibakan
-人激动的	menghibakan
-人照	telantar
-人照顾	telantar
-人照顾的	telantar
+人民的	nasional|adj
+人气	aksara|n
+人父	baba|n
 人物	tokoh
-人猿	berukera,gorila
-人的	insani,ateistik|adj,cina,dahsyat|n,dewasa,gergasi|n,hamun,ibni
-人的人	misoginis|n
-人的儿	ibni
-人的儿子	ibni
-人的头	santung
-人的头邪	santung
-人的头邪术	santung
-人的话	hamun
-人的魔	gergasi|n
-人的魔王	gergasi|n
-人眼	menyilaukan
-人眼花	menyilaukan
+人犯	suspek|n,penjenayah|n
+人猿	gorila,berukera
+人生	hidup|v
+人的	insani
 人祸	mala-petaka|n
-人穿	abdi|n
-人穿的	abdi|n
-人类	insan|n,makhluk|n,manusia|n,nasut,antropologi|n,insani,kajimanusia,rigal
-人类学	antropologi|n,kajimanusia
-人类的	insani,rigal
-人类的圣	rigal
-人类的圣灵	rigal
-人考	calon persendirian
-人考生	calon persendirian
-人者	kaki kelentong|n,mat kelentong|n,pembunuh|n
-人而	mata jahat|n
-人而使	mata jahat|n
-人而使之	mata jahat|n
-人而使之遭	mata jahat|n
-人而使之遭殃	mata jahat|n
-人而使之遭殃的	mata jahat|n
-人而使之遭殃的能	mata jahat|n
-人而使之遭殃的能力	mata jahat|n
-人肩	tepam
-人肩头	tepam
-人要	buruk siku
-人要回	buruk siku
-人讨	membosankan,menggerek|v,menjemukan,orang lanat
-人讨厌	membosankan,menggerek|v,menjemukan,orang lanat
-人讨厌的	menggerek|v,menjemukan,orang lanat
-人讨厌的人	menggerek|v
-人讨厌的家	orang lanat
-人讨厌的家伙	orang lanat
-人误	mengelirukan
-人误解	mengelirukan
+人种	lumba|n
+人称	nara|n
+人类	makhluk|n,insan|n,manusia|n,nasut,insani,kajimanusia
+人类学	kajimanusia
+人类学人类学	antropologi|n
+人类的	insani
+人肉	nara|n
+人脉	rangkaian|n
 人质	sandera
-人身	bulu rama
-人身体	bulu rama
-人身体上	bulu rama
-人身体上的	bulu rama
+人身	peribadi|adj,nara|n
 人身体上的毛	bulu rama
-人造	dot|n,getah tiruan,marjerin,nilon,rayon
-人造丝	nilon,rayon
+人迹罕至	sepi|adj
+人选	calon|n
+人造	dot|n,rayon,marjerin,nilon,getah tiruan
+人造丝	rayon,nilon
 人造牛	marjerin
 人造牛油	marjerin
 人造的	dot|n
 人造胶	getah tiruan
 人道	insani,perikemanusiaan
 人间	nasut
-人震	kejutan|n
-人震惊	kejutan|n
-人震惊的	kejutan|n
-人震惊的东	kejutan|n
-人震惊的东西	kejutan|n
-人颈	gelabir,gelambir
-人颈部	gelabir,gelambir
-人颈部下	gelabir,gelambir
-人颈部下垂	gelabir,gelambir
-人颈部下垂的	gelabir,gelambir
-人颈部下垂的皮	gelabir,gelambir
-人颈部下垂的皮肉	gelabir,gelambir
-人鱼	ikan duyung|n
-债	utang|n,berhutang,cetek pengetahuan,hutang|n,menagih,piutang,tegih
-债人	cetek pengetahuan
+人马	staf|n
+债	hutang|n,utang|n,piutang
 债务	hutang|n
 债权	piutang
-刺	cucuk|v,duri|n,memusut,menusuk,menyengat,menyerampang,selumbar,sengat|n
+债款	hutang|n
+刺	cucuk|v,sengat|n,duri|n,tikam-tikam|v,tusuk,memusut,susuh,selumbar
 刺住	semat|v
 刺入	merunjung
 刺刀	pedang,sangkur,sentiabu
@@ -264,38 +105,20 @@
 刺壳鱼	terubuk
 刺孔	tindik
 刺带	seruda
-刺戳	menikam,tikam|v,tikam-menikam
+刺戳	tikam|v,menikam
 刺探	intai
-刺来	memacu
-刺来踢	memacu
-刺来踢马	memacu
-刺果	durian belanda|n
-刺果番	durian belanda|n
-刺果番荔	durian belanda|n
 刺果番荔枝	durian belanda|n
-刺栅	serangkak,seruda
-刺树	rukam
-刺树的	rukam
-刺树的一	rukam
+刺栅	seruda,serangkak
 刺树的一种	rukam
 刺棒	pencangkuk
-刺死	salang|v
-刺激	galakkan,kerengsaan|n,merangsangkan,ocok,rangsangan,sambal|n
+刺激	kerengsaan|n,ocok,galakkan,merangsangkan,rangsangan
 刺激品	rangsangan
-刺激物	sambal|n
-刺画	karikatur|n
 刺痛	pedih|adj,perih,perit
 刺痛的	pedih|adj,perih,perit
-刺的	cerangah,serangkak,tengar|n
-刺的带	serangkak
-刺的带绑	serangkak
-刺的带绑住	serangkak
-刺的带绑住树	serangkak
-刺的带绑住树身	serangkak
 刺眼	colok mata,janggal
 刺眼的	janggal
-刺穿	menembus,radak,tikam|v
-刺绣	bersungkit,rakam|v,suji|n,sulam|v,sungkit,tekat,rompok
+刺穿	tikam|v,radak,menembus
+刺绣	rakam|v,suji|n,sulam|v,tekat,sungkit,bersungkit,rompok
 刺绣边	rompok
 刺耳	memacak,janggal
 刺耳的	janggal
@@ -303,171 +126,126 @@
 刺舌的	lidas
 刺蛄	udang laut
 刺蜂	kelulut
-区	akar umbi|n,bachok,bentong,berbeza|v,berdiskriminasi|v,beza|n,daerah|n,golongkan
+区	daerah|n,mukim|n,kawasan|n,kariah|n,lipis,bachok,rompin,golongkan
 区分	golongkan
-区别	berdiskriminasi|v,beza|n,ikhtilaf,membezakan,parak,perbezaan|n,berbeza|v
-区号	poskod|n
-区域	bachok,daerah|n,kariah|n,kawasan|n,kemaman,lipis,mukim|n,rompin
-区的	samum
-区的热	samum
-区的热风	samum
+区别	perbezaan|n,beza|n,berdiskriminasi|v,parak,ikhtilaf,membezakan
+区区	cuma|adv
+区域	daerah|n,mukim|n,kawasan|n,kariah|n,lipis,bachok,rompin,kemaman
+区域性	kedaerahan|adj
 区长	penggawa|n,penghulu kampung
-场	adegan|n,gelanggang|n,arena,bengkel|n,berakhir,bunduki|n,depoh|n,gelanggang ayam
-场不	luntur
-场不稳	luntur
-场券	bunduki|n
+场	adegan|n,gelanggang|n,medan
+场合	konteks|n
 场地	medan
-场的	hadir|v
-夺	jarah,rebut|v,berjuang,jarahan,juang|v,kaki ragut|n,kesamunan|v,mat ragut|n
+场所	nama|n
+场景	adegan|n
+场次	prestasi|n
+场面	adegan|n
+夺	rebut|v,jarah,juang|v,berjuang,merebut
 夺取	merebut
-夺斗	berjuang,juang|v
-夺物	jarahan
-夺者	kaki ragut|n,mat ragut|n
-尺	mistar,pembaris|n,penggaris,hasta|n,matra|n,meter|n,saiz|n,telempap
+夺斗	juang|v,berjuang
+尺	pembaris|n,matra|n,saiz|n,mistar,penggaris,ukuran
 尺寸	matra|n,saiz|n,ukuran
-尺长	tembung|v
-尺长的	tembung|v
-尺长的棒	tembung|v
-强	kuat|adj,adikuasa|n,afiat,agam,bengal,bengik|adj,cabul,calar-balar|adj
-强健	afiat,gagah perkasa,gempal,sasa
-强健的	gagah perkasa,gempal,sasa
-强化	menjadi-jadi|v
+尺度	sisik|n
+强	kuat|adj,lawa|adj,gagah|adj,penekanan|n,rogol|n,intensiti|n,keamatan|n,paksa|v
+强健	gempal,sasa,gagah perkasa
+强健aga壮丽	afiat
+强健的	gempal,sasa,gagah perkasa
 强喂	sombol
-强壮	agam,gagah|adj,huski|n,menegarkan,pagan,sali,sasa,sekuat
+强壮	gagah|adj,agam,pagan,sali,sasa
 强壮的	pagan,sali,sasa
-强壮结	huski|n
-强壮结实	huski|n
-强壮结实之	huski|n
 强壮结实之人	huski|n
-强夺	mencabuli,rebut|v
-强奸	cabul,memperkosa,merogol,rogol|n
-强拉	meragut,rengkuh
-强暴	memperkosa,perkosa
-强权	adikuasa|n
-强烈	intensiti|n,keamatan|n,calar-balar|adj,kencang|adj,pering,terik
+强大	tempayan|n
+强夺	rebut|v,mencabuli
+强奸	rogol|n,cabul,memperkosa,merogol
+强奸罪	rogol|n
+强干	berkebolehan|adj
+强度	muthu|n,intensiti|n
+强弱	intensiti|n
+强拉	rengkuh,meragut
+强暴	perkosa,memperkosa
+强烈	intensiti|n,kencang|adj,keamatan|n,calar-balar|adj,terik
 强烈地	calar-balar|adj
-强烈的	kencang|adj,terik,pering
-强的	cekal,lenggana,pagan,sangat-sangat|adv,segan|adj,tegap,tegar,ungkal
-强盗	penyamun|n,perampok,perompak|n,peronda
+强烈的	kencang|adj,terik
+强盗	penyamun|n,perompak|n,peronda,perampok
 强硬	kukuh|adj
 强硬的	kukuh|adj
-强者	nak mampus|adv,nak mati|adv
 强行	landa
 强行通	landa
 强行通过	landa
-强调	menegaskan,menekankan,penekanan|n
-强迫	memaksa,memerusa,paksa|v,bengik|adj,terpaksa
-强迫的	bengik|adj
+强调	penekanan|n,menekankan,menegaskan
+强迫	paksa|v,memerusa,memaksa
 强邀	lawa|adj
-强韧	kenyal,mangar
-强韧的	kenyal,mangar
-强食	undang-undang rimba|n
-强食的	undang-undang rimba|n
-强食的原	undang-undang rimba|n
-强食的原则	undang-undang rimba|n
-挺	lanjar,lontos,nonong,serdih
+强韧	mangar,kenyal
+强韧的	mangar,kenyal
+挺	serdih
 挺直	lanjar,lontos
 挺直的	lanjar,lontos
 挺身	serdih
 挺进	nonong
-携	bawaan,bimbit,jinjing,junjung|v,keran|n,membibir,mengendong,mudah alih|adj
+携	bimbit,jinjing,mengendong
 携在	junjung|v
 携在头	junjung|v
 携在头顶	junjung|v
-携带	bimbit,jinjing,mengendong,bawaan,keran|n,membibir,mudah alih|adj,mudalih|adj
+携带	bimbit,jinjing,mengendong,bawaan,pembawa
 携带物	bawaan
-携带的	keran|n,mudah alih|adj,mudalih|adj
 携带者	pembawa
-机	abah-abah tenun|n,agensi|n,alatayang,analisis|n,atas talian|adj,automaton|n,badan berkanun,badan kebajikan
-机会	can|n,kesempatan,peluang,berkesempatan,berpeluang
-机僚	birokratik|adj
-机僚化	birokratik|adj
-机僚化的	birokratik|adj
+机	can|n,jentera|n,bijak|adj,mesin|n,lapangan terbang|n,pertubuhan,kehandalan,organisasi
+机会	can|n,peluang,kesempatan
 机关	mesingan|n
 机关枪	mesingan|n
-机厍	hangar
-机器	jentera|n,bot,robot,terjemahan mesin|n
+机器	jentera|n,terjemahan mesin|n,bot,robot
 机器人	bot,robot
 机器翻	terjemahan mesin|n
 机器翻译	terjemahan mesin|n
-机场	lapangan terbang|n,padang terbang|n
-机师	pilot
+机场	lapangan terbang|n
+机子	pelan|n,peranti|n
+机密	rahsia|adj
 机敏	bijak|adj
-机智	kebijaksanaan,kehandalan,cerdik|adj
-机智的	cerdik|adj
-机构	organisasi,perbadanan,pertubuhan,agensi|n,badan berkanun,badan kebajikan
+机智	kehandalan,kebijaksanaan
+机构	pertubuhan,organisasi,perbadanan
 机械	jentera|n,mesin|n,mekanik|adj
 机械工	mekanik|adj
 机械工人	mekanik|adj
-机油	geris
+机械师	mekanik|adj
+机械性	mekanik|adj
 机灵	langkas
 机灵的	langkas
-机的	piantan,tak organik|adj
-机离	kelupas|v
-机离队	kelupas|v
-机离队俯	kelupas|v
-机离队俯冲	kelupas|v
-机离队俯冲目	kelupas|v
-机离队俯冲目标	kelupas|v
-机科	sains komputer|n
-机科学	sains komputer|n
+机组	unit|n
+机缘	can|n
 机警	jeraus
 机警的	jeraus
-欺	abu mengabui,bohong|adj,curang,dusta,honar,kaki kelentong|n,kecoh,kecurangan
-欺人	kaki kelentong|n,mat kelentong|n
-欺人者	kaki kelentong|n,mat kelentong|n
-欺瞒	abu mengabui,silih
-欺诈	honar,kecoh,makar,silih,tipu|n
-欺骗	abu mengabui,bohong|adj,dusta,kecurangan,membohongi,memperdayakan,mencurangi,mengabui mata|v
+机谋	skim|n
+欺	bohong|adj,tipu|n,menipu|v,ponteng|v,terperdaya|v,mengabui mata|v,menganwar-anwarkan|v,silih
+欺人	mat kelentong|n,kaki kelentong|n
+欺人者	mat kelentong|n,kaki kelentong|n
+欺瞒	silih,abu mengabui
+欺诈	tipu|n,silih,honar,makar,kecoh
+欺骗	bohong|adj,tipu|n,menipu|v,ponteng|v,terperdaya|v,mengabui mata|v,menganwar-anwarkan|v,menjerat
 欺骗的	curang
-溺	kolokan,lanja,lemas|adj,mati lemas,meningkat,tenggelam|v
+渺小	minit|n
+渺茫	terpencil|adj,samar|adj
+渺运	terpencil|adj
+溺	lemas|adj,lanja,mati lemas
 溺死	lemas|adj,mati lemas
 溺毙	mati lemas
 溺爱	lanja,kolokan
 溺爱的	kolokan
-為	canda|n,ensiklopedia|n
 玺	cap mohor
-砺	kenas
-示	agah,anjuran,arahan,dilarang|adv,kat|prep,kuit,kut|part,memamerkan
-示女	wati
-示女性	wati
-示意	agah,kuit
-示抗	mogok lapar|n,mogok makan|n
-示抗议	mogok lapar|n,mogok makan|n
-示抗议的	mogok lapar|n,mogok makan|n
-示抗议的绝	mogok lapar|n,mogok makan|n
-示抗议的绝食	mogok lapar|n,mogok makan|n
-示父	tiri|adj
-示父母	tiri|adj
-示父母再	tiri|adj
-示父母再婚	tiri|adj
-示父母再婚而	tiri|adj
-示父母再婚而构	tiri|adj
-示父母再婚而构成	tiri|adj
-示父母再婚而构成的	tiri|adj
-示父母再婚而构成的亲	tiri|adj
-示父母再婚而构成的亲缘	tiri|adj
-示父母再婚而构成的亲缘关	tiri|adj
-示父母再婚而构成的亲缘关系	tiri|adj
-示羽	mengigal
-示羽毛	mengigal
-纺	memintal,kerawang,kik,kincir,tenun|v,tenunan,tika
+玺印	sil|n
+纺	memintal,tenun|v,kincir,kerawang,tika
 纺纱	kerawang
 纺织	tenun|v,kik,tenunan
 纺织品	tenunan
 纺织机	kik
 纺车	kincir,tika
-缺	absen|adj,bercacat,cacat|n,cedera,durjana|n,kekurangan|n,kesip,kompong
-缺不	ruit
-缺不全	ruit
-缺不全的	ruit
-缺乏	kekurangan|n,kesip,rendah diri|adj,tekur
-缺乏信	rendah diri|adj
+缺	serpih|n,kekurangan|n,cacat|n,cedera,kesip
+缺乏	kekurangan|n,kesip,tekur
 缺乏信心	rendah diri|adj
 缺乏信心的	rendah diri|adj
 缺乏的	tekur
-缺口	menakuk,rompes
-缺口的	rompes
+缺口	celah|n
+缺失	kekurangan|n
+缺少	kekurangan|n
 缺席	absen|adj
 缺席的	absen|adj
 缺德	durjana|n
@@ -475,51 +253,44 @@
 缺捐	rompeng
 缺捐的	rompeng
 缺损	serpih|n
-缺点	cacat|n,bercacat
-缺点的	bercacat
-缺的	kompong,kudung,lentul,rompeng
+缺点	cacat|n
 缺边	sompek,sontak,sumbing
 缺边的	sompek,sontak,sumbing
 缺陷	cacat|n,cedera
-肺	paru|n,paru-paru|n,peparu,arteri pulmonari|n,loksun kering,tering,tibi,tuberkulosis|n
+肺	paru|n,paru-paru|n,peparu,tering,tibi,loksun kering
 肺动	arteri pulmonari|n
 肺动脉	arteri pulmonari|n
 肺病	tibi
-肺痨	loksun kering,tering
-肺结	tering,tuberkulosis|n
-肺结核	tering,tuberkulosis|n
-莺	selempukau,tiak|n
+肺痨	tering,loksun kering
+肺结	tering
+肺结核	tering
+肺结核顿挫性结核	tuberkulosis|n
+莺鸟	manuk|n
 蔺	purun
-螺	gasing|n,lupat,pelir itik|n,pelitik|n,sekerup,skru|n,ulir
-螺旋	sekerup,pelir itik|n,pelitik|n,ulir
+螺	skru|n,sekerup,lupat
+螺丝帽	kacang|n
+螺丝母	kacang|n
+螺帽	kacang|n
+螺旋	sekerup,pelitik|n,pelir itik|n,ulir
 螺旋钉	sekerup
-螺旋钻	pelir itik|n,pelitik|n,ulir
+螺旋钻	pelitik|n,pelir itik|n,ulir
+螺母	kacang|n
 螺贝	lupat
 螺钉	skru|n
-论	alhalitu,animisme,apa-apa|pron,ateis|n,babil,bagaimanapun,bahas|n,bahaskan|v
+论	rencana|n,kontroversi|n,tesis|n,nas,skripsi
 论争	kontroversi|n
-论什	apa-apa|pron,barang apa
-论什么	apa-apa|pron,barang apa
 论作	rencana|n
-论如	bagaimanapun
-论如何	bagaimanapun
 论文	skripsi
-论是	bena tak
-论是关	bena tak
-论是关心	bena tak
-论是关心与	bena tak
-论是关心与否	bena tak
-论点	paradoks|n
-论的	cerewet,realistik
-论者	ateis|n,optimis|adj,pembahas,pesimis|adj,teknokrat|n,zindik
-论要	buku bicara
-论要点	buku bicara
-论谁	barang siapa|pron
-论题	nas,tesis|n
-贺	merayakan,pesta|n,puji-pujian,tahniah|v
+论断	kesimpulan|n
+论点	perang mulut|n
+论理	biasanya|adv,logika|n
+论理学	logika|n
+论调	perang mulut|n
+论题	tesis|n,nas
+贺	pesta|n
+贺客	tamu|n
 贺宴	pesta|n
-躺	berbaring|v,sadai,ambin|n,baring|v,jerangkang,superman|n,terbaring
+躺	berbaring|v,sadai,ambin|n
 躺下	baring|v
 躺椅	ambin|n
-躺的	superman|n
-躺着	terbaring,jerangkang
+躺着	terbaring

@@ -1,298 +1,139 @@
-与	a,dan|conj,serta|conj,adat resam,aman sentosa,anugerah|n,bahal|adj,bena tak
-与下	anugerah|n
-与下贱	anugerah|n
-与下贱的	anugerah|n
-与否	bena tak
-与安	aman sentosa
-与安全	aman sentosa
-与水	hidraulik|adj
-与水有	hidraulik|adj
+与	serta|conj,dan|conj,a
+与...结婚	mempersuami|v
+与…	berjiran,berlawan,berhubungan
+与…为	berjiran
+与…为邻	berjiran
+与…对	berlawan
+与…对抗	berlawan
+与…有	berhubungan
+与…有亲属关系	berkerabat
+与…有关	berhubungan
+与…相接合	secocok
+与会者	sidang|n
+与时俱进	maju|adj
 与水有关	hidraulik|adj
 与水有关的	hidraulik|adj
-与用	adat resam
-与用途	adat resam
-与花	patio|n
-与花园	patio|n
-与花园之	patio|n
-与花园之间	patio|n
-与花园之间的	patio|n
-与花园之间的一	patio|n
-与花园之间的一片	patio|n
-与花园之间的一片供	patio|n
-与花园之间的一片供晴	patio|n
-与花园之间的一片供晴天	patio|n
-与花园之间的一片供晴天休	patio|n
-与花园之间的一片供晴天休息	patio|n
-与花园之间的一片供晴天休息用	patio|n
-与花园之间的一片供晴天休息用的	patio|n
-与花园之间的一片供晴天休息用的石	patio|n
-与花园之间的一片供晴天休息用的石砌	patio|n
-与花园之间的一片供晴天休息用的石砌空	patio|n
 与赛	peserta
 与赛者	peserta
-于	mengurniakan|v,adapun,akafkan,alkisah,antara|prep,atas hal itu,ayan|n,bagi|v
-于两	antara|prep
-于两者	antara|prep
-于两者之	antara|prep
-于两者之间	antara|prep
-于奉	muntil
-于奉承	muntil
-于奉承的	muntil
-于宗	akafkan
-于宗教	akafkan
-于宰	temenggung
-于宰相	temenggung
-于宰相之	temenggung
-于宰相之高	temenggung
-于宰相之高级	temenggung
-于宰相之高级官	temenggung
-于宰相之高级官员	temenggung
-于尸	pacai
-于尸布	pacai
-于尸布上	pacai
-于尸布上的	pacai
-于尸布上的白	pacai
-于尸布上的白檀	pacai
-于尸布上的白檀香	pacai
-于尸布上的白檀香粉	pacai
-于幻	jenin,mat jenin
-于幻想	jenin,mat jenin
-于手	bubul
-于手脚	bubul
-于手脚上	bubul
-于手脚上之	bubul
-于手脚上之脓	bubul
-于手脚上之脓疮	bubul
-于星	said
-于星期	said
-于星期五	said
-于星期五的	said
-于星期五的男	said
-于星期五的男孩	said
-于星期五的男孩之	said
-于星期五的男孩之名	said
 于是	hatta
-于某	komited|adj
-于某种	komited|adj
-于某种事	komited|adj
-于某种事业	komited|adj
-于某种事业的	komited|adj
-于死	obituari|n
-于死亡	obituari|n
-于死亡的	obituari|n
-于河	jamban|n
-于河边	jamban|n
-于河边的	jamban|n
-于河边的冲	jamban|n
-于河边的冲凉	jamban|n
-于河边的冲凉房	jamban|n
-于肩	selepang
-于肩上	selepang
-于衷	kelalaian
-于该	atas hal itu,bagi perkara itu
-于该项	atas hal itu,bagi perkara itu
-于该项事	atas hal itu,bagi perkara itu
-于该项事件	bagi perkara itu
-于该项事情	atas hal itu
-于闪	sengelat
-于闪避	sengelat
-于闪避的	sengelat
-于闪避的人	sengelat
-后	abadahu,akhir|adj,akhiran,akhirat,akibatnya,anak cucu,aris,assalam
+伎俩	skim|n
 后世	akhirat
-后之	nibung
-后之出	nibung
-后之出血	nibung
 后代	temurun
-后信	assalam
-后信后	assalam
-后信后的	assalam
-后信后的祝	assalam
-后信后的祝语	assalam
+后任	masa depan|n
 后备	bak kut teh|n
+后备箱	kasut but|n
 后天	lusa|n
-后头	mengakhirkan
 后姆	ibu tiri
-后悔	kilan,menyesal|v,sesal|n,taubat|v,terkilan
-后才	jalan tol|n
-后才能	jalan tol|n
-后才能通	jalan tol|n
-后才能通行	jalan tol|n
-后才能通行的	jalan tol|n
-后才能通行的道	jalan tol|n
-后才能通行的道路	jalan tol|n
+后悔	sesal|n,taubat|v,menyesal|v,kilan,terkilan
 后来	jemah,sehabis
 后果	berakhlak|adj,ekoran,padahan
-后桨	kelibat
-后清	wiladan
-后清洗	wiladan
-后清洗腹	wiladan
-后清洗腹部	wiladan
-后清洗腹部之	wiladan
-后清洗腹部之仪	wiladan
-后清洗腹部之仪式	wiladan
-后甜	pembasuh mulut|n,pencuci mulut|n
-后甜点	pembasuh mulut|n,pencuci mulut|n
+后段	mudi|n
 后甲	magun
 后甲板	magun
-后的	assalam,berzaman|v,buncir,corot,muktamad|adj,penghabisan,terakhir,udi|n
-后的祝	assalam
-后的祝语	assalam
-后缀	akhiran,imbuhan|n
-后缀词	imbuhan|n
-后裔	anak cucu,aris,keturunan|n,temurun,zuriat|n,sayid
-后裔的	sayid
-后裔的阿	sayid
-后裔的阿拉	sayid
-后裔的阿拉伯	sayid
-后裔的阿拉伯人	sayid
+后盖	batok|n
+后盾	sokong|n
+后缀	akhiran
+后裔	zuriat|n,keturunan|n,aris,anak cucu,temurun
+后跟	kaunter|n,tumit|n
 后踝	keting|n
 后退	undur|v
-后部	buntut|n,pungkur|n
+后部	pungkur|n,buntut|n
 后院	halaman belakang|n
-后面	belakang|n,mudi|n,kuatordesilion|num
-后面有	kuatordesilion|num
-后面有四	kuatordesilion|num
-后面有四十	kuatordesilion|num
-后面有四十五	kuatordesilion|num
-后面有四十五个	kuatordesilion|num
-后面有四十五个零	kuatordesilion|num
-后面有四十五个零之	kuatordesilion|num
-后面有四十五个零之数	kuatordesilion|num
+后面	mudi|n,belakang|n
 嚎	melolong
 嚎啕	melolong
-崎	lekak-lekuk
 崎岖	lekak-lekuk
 崎岖不	lekak-lekuk
 崎岖不平	lekak-lekuk
-怎	apa macam|adv,bagaimana|adv,bagaimanapun,manakan
+怎	apa macam|adv
 怎么	bagaimana|adv,manakan
 怎么可	manakan
 怎么可以	manakan
 怎么样	bagaimana|adv
-怎样	apa macam|adv,bagaimanapun
-憎	resan,adawat|n,keji,membenci,xenofobia|n
-憎恨	adawat|n,membenci,xenofobia|n
-憎恨外	xenofobia|n
-憎恨外国	xenofobia|n
-憎恨外国人	xenofobia|n
-憎的	keji
-明	abiad|adj,akal|n,akal kancil,allahi,allahualam,bahawa|conj,bening,berandang
-明亮	terang|adj,abiad|adj,cemerlang|adj,cerah,cerlang|adj,terang-benderang
-明亮的	abiad|adj,cerah,cerlang|adj,terang-benderang
-明信	poskad|n
-明信片	poskad|n
-明前	bahawa|conj
-明前句	bahawa|conj
-明前句的	bahawa|conj
-明前句的连	bahawa|conj
-明前句的连接	bahawa|conj
-明前句的连接词	bahawa|conj
-明在	allahi
-明在上	allahi
-明天	besok|n,esok|n,esok lusa|n,hari esok
-明家	pencipta
-明察	allahualam
-明日	pentarikhan|n
-明日期	pentarikhan|n
-明星	bintang filem|n,bintang wayang,fosforus|n
-明显	berandang,tegas|adj
+怎么着	apa|pron,bagaimana|adv
+怎样	apa macam|adv
+怎生	mengapa|adv,bagaimana|adv
+怎的	mengapa|adv,bagaimana|adv
+憎	resan,adawat|n,membenci
+憎恨	adawat|n,membenci
+戎机	perang|n
+戎马	perang|n
+明	faham|v,esok|n,bijak|adj,terang|adj,reti|v,besok|n,mengerti|v,tawas|n
+明亮	terang|adj,cerlang|adj,abiad|adj,cerah,terang-benderang
+明亮的	cerlang|adj,abiad|adj,cerah,terang-benderang
+明儿	esok|n
+明儿个	esok|n
+明天	esok|n,besok|n,esok lusa|n,hari esok
+明慧	gemilang|adj,pandai|adj
+明日	esok|n
+明早	esok|n
+明明	gerenti|adv
+明显	tegas|adj,berandang
 明显的	tegas|adj
+明晃晃	cerlang|adj
 明智	bijak|adj,bijaksana|adj,makul
 明智的	bijaksana|adj,makul
 明朗	cerah,jelah,lawah,lawas
 明朗的	cerah,jelah,lawah,lawas
-明治	sandwic|n
-明白	faham|v,mengerti|v,reti|v,nyata|adj,tegas|adj,tidak faham|v
-明白的	nyata|adj,tegas|adj
-明的	berkebolehan|adj,bertamadun,cerdas,jernih|adj,lutcahaya,lutsinar,masyarakat madani|n,pintar|adj
+明火	nyala|n
+明白	faham|v,tegas|adj,reti|v,mengerti|v,nyata|adj
+明白的	tegas|adj,nyata|adj
 明矾	tawas|n
-明确	gerenti|adv,ketaksaan|n
-明确无	gerenti|adv
 明确无疑	gerenti|adv
 明确无疑地	gerenti|adv
-明确的	ketaksaan|n
 明胶	jelutong
 明虾	keropok udang|n
-涎	air ludah,barut gantung,jelejeh,lendir|n,liung
-涎布	barut gantung
-澎	bergelora,debur,gelora|n,luap
-澎湃	bergelora,gelora|n,luap,debur
+明镜	cermin|n
+澎	gelora|n,luap,bergelora
+澎湃	gelora|n,luap,bergelora,debur
 澎湃声	debur
-炎	abuh|adj,faringitis|n,radang telinga|n,resdung|n
-猎	anjing fox terrier|n,anjing pemburu|n,berburu,buru|v,buruan,citah|n,kayau|v,kucing belanda|n
+猎	mangsa|n,citah|n,pemburu|n,memburu
 猎人	pemburu|n,kayau|v,mengayau
 猎人头	kayau|v,mengayau
-猎兔	kucing belanda|n,kucing tapai|n
 猎取	buruan
 猎取物	buruan
-猎对	buruan
-猎对象	buruan
 猎物	mangsa|n
-猎犬	anjing pemburu|n
-猎犬狩	anjing pemburu|n
-猎犬狩猎	anjing pemburu|n
+猎犬带猎犬狩猎	anjing pemburu|n
 猎狐	anjing fox terrier|n
 猎狐小	anjing fox terrier|n
 猎狐小狗	anjing fox terrier|n
 猎补	memburu
 猎豹	citah|n
-玎	ngering
 玎当	ngering
 玎当地	ngering
 玎当地响	ngering
-瞎	buta|adj,nyinyir,obrol|v,omong,repek|v
+皎洁	cerlang|adj
+瞎	buta|adj,obrol|v,repek|v,nyinyir,omong
 瞎说	repek|v
-瞎谈	nyinyir,obrol|v,omong
-碎	relai,berkecai,berketai-ketai,berpesai,bersepai,cebis|cls,cencang,cencangan
+瞎谈	obrol|v,nyinyir,omong
+碎	hancur|v,relai,kersik|n,serdak|n,perca,tetel,ketai,kerakal
 碎为	berketai-ketai
 碎为细	berketai-ketai
 碎为细屑	berketai-ketai
-碎了	rosak hati
-碎化	menyahserpih|v,nyahserpih|v,penyahserpihan|n
-碎化程	menyahserpih|v,nyahserpih|v
-碎化程序	menyahserpih|v,nyahserpih|v
 碎块	tongkong
-碎声	lepik
-碎屑	gambal,remah,serdak|n,tetel
+碎屑	serdak|n,tetel,remah,gambal
 碎布	perca
-碎片	pecahan|n,sempak,serpihan|n,suban,tembereng,kecai|adj,kuti,penyerpihan|n
-碎物	lebu|n
-碎的	hancur|v,cencangan,cetai,garing|adj,kimpal|adj,lumat|adj,peroi,raka
-碎的东	cencangan
-碎的东西	cencangan
-碎石	kerakal,kersik|n
+碎掉	pokah|adj
+碎片	pecahan|n,serpihan|n,tembereng,suban,sempak
+碎的	hancur|v
+碎石	kersik|n,kerakal
 碎袋	ketai
-税	cukai|n,kharajat|n,pajak,bea|n,bebas dari cukai,cukai eksport,cukai import,cukai pendapatan|n
+税	cukai|n,kharajat|n,pajak,bea|n
 税务	bea|n,pajak
-税后	jalan tol|n
-税后才	jalan tol|n
-税后才能	jalan tol|n
-税后才能通	jalan tol|n
-税后才能通行	jalan tol|n
-税后才能通行的	jalan tol|n
-税后才能通行的道	jalan tol|n
-税后才能通行的道路	jalan tol|n
-税局	kastam
-税额	nilaian
-税额的	nilaian
-税额的估	nilaian
+税捐	cukai|n
+税费	cukai|n
 税额的估定	nilaian
-缎	randi,tetampam
-缎肩	tetampam
-缎肩巾	tetampam
-美	kecantikan|n,ahmad,alhamdulilah,alhamdulillah,aligator,amerika selatan,amerika syarikat,amerika utara
-美丽	cantik molek,indah|adj,keindahan,mejelis,molek,zain,elok|adj,jelita
-美丽的	elok|adj,jelita,julai,laksmi|adj,murni,permai,sadu,segak
+美	kecantikan|n,bagus|adj,indah|adj,kesuma|n,bidadari|n,enak|adj,sedap|adj,zain
+美丽	indah|adj,elok|adj,seri|n,laksmi|adj,zain,molek,mejelis,taruk angsoka|n
+美丽的	elok|adj,seri|n,laksmi|adj,taruk angsoka|n,murni,solek,jelita,permai
 美乐	mellotron|n
 美乐特	mellotron|n
 美乐特朗	mellotron|n
 美人	kesuma|n,ikan duyung|n
 美人鱼	ikan duyung|n
-美兰	negeri sembilan,nismilan
-美兰州	negeri sembilan,nismilan
-美化	mempercantikkan,memperindahkan
-美味	enak|adj,sedap|adj,nikmat|n,nyaman|adj
+美元	dolar|n
+美化	memperindahkan,mempercantikkan
+美味	nikmat|n,nyaman|adj,enak|adj,sedap|adj
 美味的	nikmat|n,nyaman|adj
 美国	amerika syarikat,keamerikaan|n
 美国性	keamerikaan|n
@@ -301,34 +142,28 @@
 美好的	elok|adj
 美妙	rancak
 美妙的	rancak
+美州长	gabenor|n
 美景	kecantikan|n,keindahan
 美术	lukisan,seni lukis
-美洲	aligator,amerika utara,jaguar|n,kenaifan|n,kugar|n,puma|n
-美洲狮	kugar|n,puma|n
+美洲	puma|n,kugar|n,jaguar|n,aligator
+美洲狮	puma|n,kugar|n
 美洲虎	jaguar|n
 美洲鳄	aligator
-美犰	armadillo|n
-美犰狳	armadillo|n
-美的	bagus|adj,langkai,permai,rapi,santing,sempurna|adj,warna-warni|adj
+美的	bagus|adj
 美观	apik
-美词	madah|n
-美诗	dikir,zabur,zikir
-美阿	alhamdulilah
-美阿拉	alhamdulilah
+美观地	agak|adv
 美食	medan selera|n
 美食广	medan selera|n
 美食广场	medan selera|n
-美鲸	paus sikat|n
-茎	tangkai|n,batang pelir,bebawang,bongkot,gagang,kelopak,kepala butuh|n,kondom|n
-茎头	kepala butuh|n
-茎套	kondom|n
+茎	tangkai|n,kelopak
 茎衣	kelopak
-萎	kedengkik,kerepot,kerukut,layu|adj,lesut,lisut,mentat
+萎	mentat,kerepot,kerukut
 萎皱	kerepot
-萎缩	kerukut,mentat,kedengkik,lesut
-萎缩的	kedengkik,lesut
-谎	abab|v,bedek|v,berbohong,berdusta,bohong|adj,buluh meriam,cakap bohong,dusta
+萎缩	mentat,kerukut,lesut,kedengkik
+萎缩的	lesut,kedengkik
+谎	abab|v,bedek|v
 谎言	abab|v,bedek|v
-锎	kalifornium|n
+锎锎	kalifornium|n
+锎锎C	kalifornium|n
+锎锎Cf	kalifornium|n
 鲎	belangkas|n
-鼎	kancah|n

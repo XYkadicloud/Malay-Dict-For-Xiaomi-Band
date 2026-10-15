@@ -2,7 +2,7 @@ liabiliti	liabiliti	n	责任	liability
 liang	liang	n	小的	small hole (e.g. nose  stab mark)
 liar	liar	adj	荒野	wild; untamed; feral (living in a state of nature; not domesticated).
 liat	liat	adj	坚韧的，粘土，瓷土	lazy; reluctant; stubborn (hard to persuade or motivate to do something).
-libat	libat	v	有包装的
+libat	libat	v	有包装的	to be wrapped around
 liberal	liberal	adj	自由主义的	liberal
 liberia	liberia	n	利比里亚人 利比里亚人的	Liberian
 libur	libur		祭日，大日子，准假

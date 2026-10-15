@@ -1,4 +1,4 @@
-ru	ru	n	木麻黄，松科植物
+ru	ru	n	木麻黄，松科植物	alternative form of eru
 rua	rua		街道
 ruah	ruah		倒空，使空，消除
 ruai	ruai	n	松脱的，不紧的	booth
@@ -89,7 +89,7 @@ runtai	runtai		垂摆，悬摆
 runtih	runtih		采摘
 runtuh	runtuh	v	崩倒，倒塌	to collapse
 runut	runut	n	足迹，痕迹	A track:
-runuti	runuti	v	同义词
+runuti	runuti	v	同义词	synonym of runut
 rupa	rupa	n	外貌，外观，形状，形式	form  appearance
 rupakan	rupakan		好象
 rupakata	rupakata		状词
@@ -102,11 +102,11 @@ rusia	rusia		苏联	Russia (a transcontinental country in Eastern Europe and Nor
 rusuh	rusuh		骚动，暴动
 rusuhan	rusuhan	n	骚乱	revolt  riot (a popular uprising)
 rusuk	rusuk	n	侧面	flank (flesh between the last rib and the hip)
-rusyiya	rusyiya		荒废的
+rusyiya	rusyiya		荒废的	obsolete form of Rusia; Russia
 rut	rut		能够，压缩	a groove or furrow (especially one in soft earth caused b…
 rutenium	rutenium	n	钌  钌Ru	ruthenium (chemical element)
 ruterfordium	ruterfordium	n	卢	rutherfordium (chemical element)
-ruu	ruu	n	词首字母缩略词
+ruu	ruu	n	词首字母缩略词	initialism of rang undang-undang (“bill”)
 ruwat	ruwat		纠缠
 ruyung	ruyung	n	棕榈的外皮	pith (of sago stems)
 ruyup	ruyup		低垂

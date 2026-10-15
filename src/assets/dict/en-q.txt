@@ -1,34 +1,44 @@
-qanb	gambus|n
-qasidah	kasidah
+qanb s	gambus|n
 qipao	ceongsam|n
 quadrilateral	segi empat|n
 quadrillion	kuadrilion|num
 quail	puyuh|n
 quake	gempa|n
-quality	berkualiti|adj,keabnormalan|n,kebaharuan|n,kebutahurufan|n,kecendekiawanan|n,kecurigaan|n
-quantity	amaun|n,anu|n,dikit|n,kadar|n,kuantiti|n
-quarrel	gaduh|v
+quality	mutu|n,sifat|n,kualiti|n,berkualiti|adj
+quality of being formal	keformalan|n
+quality of being good	keelokan|n
+quality of being hypocritical	kemunafikan|n
+quality of being illiterate	kebutahurufan|n
+quality of being malay	kemelayuan|n
+quality of being unique	keunikan|n
+quality of that of scholars or intellectuals	kecendekiawanan|n
+quantity	kadar|n,kuantiti|n
+quarantine	kuarantin
 quarry	kuari|n,makdan|n
-quarter	perempat|n,suku|n
-quarterstaff	gayung|n
-quartz	batu telerang|n,kuarza|n
+quarter	suku|n,perempat|n
+quartz	kuarza|n,batu telerang|n
 quattuordecillion	kuatordesilion|num
-queen	permaisuri|n,ratu|n,suri|n
-queenstown	pasir panjang
-queer	budaya songsang|n
-question	menjawab|v,pertanyaan|n,soal|v,soalan|n
-questions	soalan lazim|n
-quick	cepat|adj,cepat jalan|n,gentar|n,pantas|adj,segera|adv
+queen	ratu|n,permaisuri|n
+queen female monarch	suri|n
+queen regnant	suri|n
+question	aju|v,sahut|v,soalan|n,pertanyaan|n
+quick	cepat|adj,pantas|adj,segera|adv
+quick march	cepat jalan|n
 quick-witted	cerdik|adj
-quickly	cepat-cepat|adv,kong|adj,lekas|adv,secepat mungkin|adv,selekas mungkin|adv
+quicklime	kapur|n
+quickly	cepat-cepat|adv
+quickly or fast	lekas|adv
 quickness	keligatan|n
-quiet	anteng|n,diam|adj,diem|adj,hana|adj,pendiam|n,senyap|adj
+quiet	diam|adj,diem|adj,anteng|n,senyap|adj
+quiet lacking people	lengang|adj
+quiet person	pendiam|n
 quietness	kesunyian|n
 quince	safarjal|n
 quindecillion	kuindesilion|num
 quintillion	kuintilion|num
-quite	agak|adv,keabu-abuan|adj,kemasam-masaman|adj
+quite	agak|adv
+quite gray	keabu-abuan|adj
+quite sour	kemasam-masaman|adj
 quiz	kuiz|n
-quota	bahagian|n,kuota|n
-qur	pengajian|n,quran|n
-quran	tadarus|n
+quota	kuota|n,bahagian|n
+qur'an	quran|n

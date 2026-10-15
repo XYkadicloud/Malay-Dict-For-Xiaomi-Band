@@ -1,238 +1,197 @@
-书	buku|n,almari buku,arkah,balai pustaka,buku panduan,buku rujukan,buku teks|n,bukukan
-书信	arkah,risalah,surat-menyurat|v
-书写	menyurat|v,menyurati|v,menyuratkan|v,suratan|n
+书	buku|n,setiausaha|n,tulisan|n,suratan|n,meja tulis|n,kerani|n,pustaka|n,menyurat|v
+书信	surat-menyurat|v,risalah,arkah
+书写	suratan|n,menyurat|v,menyurati|v,menyuratkan|v
 书呆	ulat buku|n
 书呆子	ulat buku|n
-书型	pembukuan|n
-书型模	pembukuan|n
-书型模法	pembukuan|n
 书店	kedai buku|n
-书本	kelatu
-书本打	kelatu
-书本打头	kelatu
 书桌	meja tulis|n
 书橱	almari buku
 书法	tulisan|n
+书生	ahli fikir|n,cendekiawan|n
 书目	katalog
-书籍	kitab,pustaka|n,kitab-kemitab
-书记	jurutulis,kerani|n,setiausaha|n
-书馆	balai pustaka,kutubkhanah|n,perpustakaan|n,pustakawan|n
-书馆员	pustakawan|n
-卦	nujum
+书籍	pustaka|n,kitab
+书记	setiausaha|n,kerani|n,jurutulis
+书面	tersurat|v
+书馆	perpustakaan|n
+另外	lain|adj,selain|prep
 哦	ya allah
-坦	capati|n,datar|adj,kuetiau|n,latar,lira,palestin,papar|adj,rata|adj
-坦的	capati|n,datar|adj,kuetiau|n,latar,lira,papar|adj,rata|adj,repang
+哦！	oh
+哦！啊	oh
+哦！啊！	oh
+坦率	pedati|n
+坦白	jujur|adj
+坦途	tol|n
 嫦	cendera|n
 嫦娥	cendera|n
-学	abang kandung|n,adib,aerodinamik|adj,aerologi|n,ahli fikir|n,ahli sains|n,ajaran|n,akademi|n
-学上	ilmiah
-学上的	ilmiah
-学习	belajar|v,kaji|n,mempelajari,menelaah,tuntut,ulang kaji|v
+学	yuran|n,sekolah|n,kaji|n,ajaran|n,murid|n,darjat|n,maktab|n,pengetahuan|n
+学习	kaji|n,belajar|v,ulang kaji|v,tuntut,menelaah,mempelajari
+学人	cendekiawan|n
 学位	darjat|n
-学前	prasekolah|n
-学前的	prasekolah|n
-学士	ijazah sarjana muda sains,ijazah sarjana muda sastera
-学家	adib,ahli fikir|n,ahli sains|n,hukama,ilmuwan|n,munsyi bahasa,psikologis|n,saintis|n
+学员	murid|n
+学园	akademi|n
+学堂	sekolah|n,maktab|n
+学子	murid|n,cendekiawan|n
 学徒	perantis|n
-学方	kaedah saintifik|n
-学方法	kaedah saintifik|n
+学时	tempoh|n
 学期	penggal
-学术	akademikus,ilmiah
+学术	ilmiah,akademikus
 学术人	akademikus
 学术人员	akademikus
 学术的	ilmiah
-学校	perguruan,sekolah|n,akademi|n,kampus,madrasah|n,zariah
-学校园	kampus
-学毕	siswazah|n
-学毕业	siswazah|n
-学毕业生	siswazah|n
+学校	sekolah|n,perguruan
 学派	mazhab
-学生	anak didik|n,anak murid,budak sekolah,murid|n,pelajar|n,penuntut,pupil|n,siswa|n
-学的	abang kandung|n,aerodinamik|adj,arif,ayah kandung|n,bapa kandung|n,cikgu besar|n,emak kandung|n,farmaseutikal|adj
-学的人	palatau|n
-学的校	cikgu besar|n,pengetua|n
-学的校长	cikgu besar|n,pengetua|n
+学生	murid|n,pelajar|n,anak didik|n,siswa|n,pupil|n,studen|n,anak murid,penuntut
 学看	belajar membaca
 学童	budak sekolah
-学者	adib,pendeta|n,sarjana|n,sasterawan,ulama,mualim,mufti|n
-学识	golok kayu,merakap
-学识的	golok kayu,merakap
-学识的人	golok kayu
+学级	kelas|n
+学者	pendeta|n,sarjana|n,ulama,sasterawan
+学舍	sekolah|n
 学说	ajaran|n
 学读	belajar membaca
-学费	tuisyen|n,yuran|n
-学金	biasiswa|n,dermasiswa
-学问	pengetahuan|n,arif
-学问的	arif
-学院	fakulti|n,institut|n,kolej,maktab|n,politeknik
-實	mak kau hijau,manggis|n
-實際	mak kau hijau
-實際含	mak kau hijau
-實際含義	mak kau hijau
-左	asar rendah,asar tinggi,bersibak,kidal|adj,kiri|n,sayap kiri|adj,sibak
-左右	asar rendah,asar tinggi,bersibak,sibak
-左右分	bersibak,sibak
-左右分开	bersibak,sibak
+学费	yuran|n,tuisyen|n
+学问	pengetahuan|n
+学院	maktab|n,fakulti|n,institut|n,kolej
+左不过	baru|adj,cuma|adv
+左倾	maju|adj
+左派	kiri|n
 左翼	sayap kiri|adj
+左舷	pelabuhan|n
 左边	kiri|n
 左面	kidal|adj
 懦	penakut|n,pengecut|n
 懦夫	penakut|n,pengecut|n
-拦	hadang|n,pegat
+拦	hadang|n
 拦阻	hadang|n
-擦	genyeh,gerit,gesek|v,geser,gosok|v,memalit,menggosok|v,mengurut
+擦	palit|n,gesek|v,gosok|v,menggosok|v,memalit,genyeh,gerit,geser
 擦亮	mengupan
 擦伤	jejas,lelas
-擦作	sanggit
-擦作声	sanggit
+擦伤处	mentah|adj
 擦光	gerus,upam
 擦净	ganyah,menggahar
 擦刮	sugi
 擦去	mengusap
-擦声	kerit,keriut
 擦拭	mengelap
 擦损	haus|adj
-擦掉	memupuskan,pupus,sental,hapus|v
+擦掉	pupus,memupuskan,sental
 擦洗	gahar,gonyoh-gonyah
 擦烂	intertrigo|n
-擦牙	sugi
-擦的	kelukur,pengelap|n
-擦的人	pengelap|n
-擦粉	bedakkan,berpupur
+擦粉	berpupur,bedakkan
 擦身	jelum,mandi berjelum
-擦身体	jelum,mandi berjelum
 敦	tun
-晦	saru,sebam,seput
 晦暗	saru,sebam,seput
 晦暗的	saru,sebam,seput
-武	adikung,alat perang,bersenjata,hang|pron,hulubalang|n,pendekar,penjurit,senjata|n
-武器	alat perang,senjata|n,bersenjata
-武士	pendekar,penjurit,hang|pron
-武士的	hang|pron
-武士的称	hang|pron
+武	senjata|n,hulubalang|n,wusyu|n,penjurit,pendekar,alat perang
+武器	senjata|n,alat perang
+武士	penjurit,pendekar
 武士的称号	hang|pron
-武官	hulubalang|n,adikung
+武官	hulubalang|n
+武将	jeneral|n
 武术	wusyu|n
-潦	cakar ayam|n,corat-coret
-潦草	cakar ayam|n,corat-coret
-潦草地	cakar ayam|n
-潦草地写	cakar ayam|n
-潦草的	cakar ayam|n
-潦草的笔	cakar ayam|n
-潦草的笔迹	cakar ayam|n
-烦	azah,belisah|adj,gelisah|adj,leceh,memek,menggelisah,moler,ngeran
-烦乱	repes,resah|adj
+潦倒	kecewa|adj
+潦草地写乱写潦草的笔迹	cakar ayam|n
+烦	gelisah|adj,usik|v,moler,azah,ngeran,repes,susah hati
+烦乱	resah|adj,repes
 烦乱的	resah|adj
-烦恼	azah,gelisah|adj,ngeran,susah hati
-烦扰	moler,usik|v
+烦恼	gelisah|adj,azah,ngeran,susah hati
+烦扰	usik|v,moler
 烦燥	menggelisah
 烦燥不	menggelisah
 烦燥不安	menggelisah
-烦的	belisah|adj,leceh,renyah,rewel,rumit|adj
 烦闷	memek
 烦闷的	memek
 牦	yak|n
 牦牛	yak|n
-瓦	anwar,hancur lebur,hancur luluh,kilowat,lebur,luluh,madani,melerai
-瓦尔	madani,pmx
-瓦爾	anwar
-瓦解	hancur lebur,hancur luluh,lebur,luluh,melerai
+瓦	luluh,lebur,hancur lebur,hancur luluh
+瓦斯	gas|n
+瓦解	luluh,lebur,hancur lebur,hancur luluh,melerai
 瓦解打	melerai
 瓦解打架	melerai
-畦	pematang,embarau,galur
+畦	pematang,embarau
 畦道	embarau
-睦	damai,setiakawan
-苦	pahit|adj,azah,bala|n,bersusah-susah,bersut,cucur peluh,derita|v,gelak sumbing
-苦伶	sebatang kara
-苦伶仃	sebatang kara
+苦	pahit|adj,nestapa|n,bala|n,penderitaan|n,risau|v,kemarau|n,peria|n,memek
+苦命	miskin|adj
+苦处	sengsara|n
 苦干	cucur peluh
-苦恼	musakat,penderitaan|n
+苦恼	penderitaan|n,musakat
 苦斗	lonta
 苦旱	kemarau|n
-苦瓜	kambas,peria|n
-苦痛	azah,sengsara|n
+苦楚	sengsara|n
+苦水	sengsara|n
+苦瓜	peria|n,kambas
+苦痛	sengsara|n,azah
 苦痛的	sengsara|n
-苦的	lancap|v,mengkal,rodan,seksa|n,udap-udapan
 苦笑	gelak sumbing
-苦而	maung|n
-苦而难	maung|n
 苦而难闻	maung|n
 苦而难闻的	maung|n
-苦苦	bersusah-susah
-苦行	pertapa,rubiah,zahid,zuhud|adj
-苦行者	pertapa,zahid,zuhud|adj,rubiah
+苦苦	keras|adj,sakit|adj
+苦行	zuhud|adj,zahid,pertapa
+苦行者	zuhud|adj,zahid,pertapa
 苦诉	memek
 苦辣	getir
 苦闷	risau|v
-苦难	bala|n,nestapa|n
-触	menjamah,rol,aram,bangkit,cuit,gegantung|n,jamah,jejak|n
-触使	kitik
-触使痒	kitik
+苦难	nestapa|n,bala|n
+触	rol,menjamah,gegantung|n,aram,kuit,bangkit,jamah,kandas
 触击	gegantung|n
 触动	kuit
 触发	bangkit
-触地	jejak|n
-触摸	jamah,meresek,resek
+触发器	sentil|n
+触摸	jamah,resek,meresek
 触毛	sesungut
 触犯	aram
 触礁	kandas
 触角	sesungut
-警	abang polis|n,amaran|n,ang mo kio,anjing polis|n,aspada,balai mata-mata|n,balai polis|n,batan
-警卫	ang mo kio
-警卫队	ang mo kio
+警	amaran|n,kepolisian|adj,sarjan|n,polis|n,mata-mata|n,piung|n,polisi|n,abang polis|n
+警匪	jenayah|n
+警卫	jaga|v
 警号	gawar
 警告	amaran|n,beri amaran,mengamarkan
+警备	jaga|v
 警官	polis|n
-警察	abang polis|n,kepolisian|adj,mata-mata|n,piung|n,polis|n,polisi|n,balai mata-mata|n,balai polis|n
-警察分	balai mata-mata|n
-警察分局	balai mata-mata|n
+警察	kepolisian|adj,polis|n,mata-mata|n,piung|n,polisi|n,abang polis|n,balai polis|n
+警察分局警察分局	balai mata-mata|n
 警察局	balai polis|n
 警戒	keledar
-警报	siren,penggera palsu|n
+警报	siren
 警曹	sarjan|n
 警标	romba
 警棍	batan,cota
 警犬	anjing polis|n
-警的	jeraus
-警觉	aspada,meliak
+警犬警	anjing polis|n
+警犬警犬	anjing polis|n
+警示	amaran|n
+警觉	meliak,aspada
 警诫	amaran|n
-警长	inspektor,komandan,merinyu|n
-详	hal ehwal,panjang lebar,pengajian|n,pengucapan|n,peri|n,perihal|n,perinci,saksama|adj
+警长	merinyu|n,komandan,inspektor
+详	peri|n,perihal|n,pengajian|n,pengucapan|n,hal ehwal,selok-belok
 详尽	panjang lebar
 详尽的	panjang lebar
-详情	hal ehwal,peri|n,perihal|n,selok-belok
-详细	panjang lebar,perinci,saksama|adj
-详细的	panjang lebar,saksama|adj
+详情	peri|n,perihal|n,hal ehwal,selok-belok
+详细	saksama|adj,panjang lebar,perinci
+详细的	saksama|adj,panjang lebar
 详细述	perinci
 详细述说	perinci
 详述	pengajian|n,pengucapan|n
 赦	ampunan
 赦免	ampunan
 赦罪	ampunan
-蹦	melonjak-lonjak
-蹦跳	melonjak-lonjak
-蹦跳跳	melonjak-lonjak
 蹦蹦	melonjak-lonjak
 蹦蹦跳	melonjak-lonjak
 蹦蹦跳跳	melonjak-lonjak
-车	kereta|n,tir|n,aci,ambulans|n,apakah,au,automotif|adj,baling-baling|n
-车厢	gerabak|n
-车员	kelindan
-车喇	hon|n
-车喇叭	hon|n
-车场	depoh|n,parkir|n,parkiran|n
+车	perhentian|n,tir|n,kereta|n,roda|n,cakera|n,drebar|n,stesen|n,garaj|n
 车夫	drebar|n,kusir
-车头	lokomotif
 车库	garaj|n,garasi|n
-车旋	baling-baling|n
-车旋转	baling-baling|n
-车的	automotif|adj
-车祸	pelanggaran,perlanggaran|n
-车站	perhentian|n,stesen|n,perhentian bas|n
-车轮	cakera|n,roda|n
+车房	garaj|n
+车斗	baldi|n
+车流	lengang|adj
+车票	karcis|n
+车祸	perlanggaran|n,pelanggaran
+车站	perhentian|n,stesen|n
+车行	lengang|adj,garaj|n
+车轮	roda|n,cakera|n
+车轮子	roda|n
 车轴	aci,balut rokok,gilingan
-车送	taksi|n,ulat sapu|n,ulat teksi|n
-车间	bilik acu|n
-鹦	bayan|n,burung nuri,burung pialing,kakaktua|n,nuri|n,pialing,serindit,teraling
-鹦哥	burung pialing,pialing
-鹦鹉	bayan|n,burung nuri,tiung|n,burung pialing,kakaktua|n,nuri|n,pialing,teraling
+车辆	kenderaan|n
+车钱	tambang|n
+车间	bengkel|n
+鹦	bayan|n,tiung|n,burung nuri
+鹦鹉	bayan|n,tiung|n,burung nuri

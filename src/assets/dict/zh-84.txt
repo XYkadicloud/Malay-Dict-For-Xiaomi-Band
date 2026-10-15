@@ -1,190 +1,158 @@
-乔	george town
+乔林	hutan|n
 乔治	george town
 乔治市	george town
-仔	bilis,ikan bilis|n,koboi|n,menatapi
 仔细	menatapi
 仔细看	menatapi
-兔	arnab|n,kelinci|n,kucing belanda|n,kucing tapai|n
-兔子	arnab|n,kelinci|n,kucing belanda|n,kucing tapai|n
-剔	colek|v,cungkil
+兔	arnab|n,kelinci|n
+兔子	arnab|n,kelinci|n
+兔子猎兔让...见鬼去	kucing tapai|n,kucing belanda|n
 剔出	colek|v
-叔	pakcik|n,aki|n,bapa saudara,bibi|n,mami,pak cik|n,paman|n
+叔	paman|n,pakcik|n,pak cik|n,aki|n,bibi|n,bapa saudara,mami
+叔叔	paman|n
 叔母	bibi|n,mami
-叔父	aki|n,bapa saudara,pak cik|n,paman|n
-塔	menara|n,pagoda,getah perca|n,getah taban|n,limas|n,manara,mercu|n,mercu api|n
+叔父	paman|n,pak cik|n,aki|n,bapa saudara
+塔	menara|n,mercu|n,pagoda
 塔尖	mercu|n
-塔形	limas|n
-塔胶	getah perca|n,getah taban|n
-塔那	tanah seribu
-塔那那	tanah seribu
-塔那那利	tanah seribu
+塔楼	menara|n
 塔那那利佛	tanah seribu
 奔	cegar
 奔流	cegar
-委	anggota dewan,hadat,iktizam|n,jawatankuasa|n,komisi|n,komited|adj,komiti,lantik|v
-委任	lantik|v,mandat|n,melantik,tetepkan,komisi|n
+委	iktizam|n,serah|v,lantik|v,mandat|n,tetepkan,titip,melantik,menitipkan
+委任	lantik|v,mandat|n,komisi|n,tetepkan,melantik
 委任状	komisi|n
-委员	anggota dewan,pesuruhjaya,hadat,jawatankuasa|n,komiti,pantita,suruhanjaya|n
-委员会	hadat,jawatankuasa|n,komiti,pantita,suruhanjaya|n
-委托	iktizam|n,menitipkan,serah|v,titip,komited|adj
-委托的	komited|adj
+委员	suruhanjaya|n,jawatankuasa|n,pesuruhjaya,anggota dewan,hadat,pantita,komiti
+委员会	suruhanjaya|n,jawatankuasa|n,hadat,pantita,komiti
+委托	iktizam|n,serah|v,titip,menitipkan
+委托书	komisi|n
 委派	menugaskan
-孔	rongga,sosok,anak mata|n,biru merak|adj,bulu rama,cerat|n,kerbuk,korok
-孔低	mengkung
-孔低凹	mengkung
-孔低凹处	mengkung
-孔悚	seram|adj
-孔悚然	seram|adj
-孔的	medok
+孔	sosok,rongga,merak|n,korok,tembukan
+孔方兄	duit|n
+孔眼	lubang|n
 孔穴	korok
 孔穿	tembus|v
 孔穿的	tembus|v
-孔者	penggerek|n
 孔道	tembukan
 孔雀	merak|n,biru merak|adj
 孔雀蓝	biru merak|adj
-扔	campak|n,haban,lontar|v
-拔	membongkar,mencabut,merabut,rabut,ragut,bantun,cabut|v,cabut gigi
-拔出	bantun,cabutan,hunus|v,menghunus,cabut|v
+幔子	tirai|n
+扔	lontar|v,campak|n,haban
+拔	rabut,ragut,merabut,membongkar,mencabut,ranggah,bantun,renggut
+拔出	hunus|v,bantun,cabutan,menghunus,cabut|v
 拔出来	cabut|v
 拔刀	gamak
 拔刀威	gamak
 拔刀威胁	gamak
-拔取	membantun,renggut
+拔取	renggut,membantun
 拔掉	bantun
 拔牙	cabut gigi
 拔琴	petik|v
 拔琴弦	petik|v
-拔的	cekel
-拔起	ruat,ungkal
 拔除	ranggah
-摔	haban,bergelut,bergomol,gelut|v,gomol,gulat,gusti|n,jerumus
+摔	haban,gelut|v,gusti|n,gulat,gomol,remuk,jerumus,bergelut
 摔下	lepak|adj
 摔倒	jerumus,pelanting,terpelanting
 摔破	remuk
-摔角	bergelut,bergomol,gelut|v,gomol,gulat,gusti|n
-柔	empuk,johor,johor bahru,lampai,lemah-lembut,lembik,lembut|adj,lemes
+摔角	gelut|v,gusti|n,gulat,gomol,bergelut,bergomol
+柔	lempung|adj,johor bahru,silir
 柔佛	johor bahru,johor
 柔佛州	johor
 柔光	lempung|adj
-柔弱	lampai,lemes,leput,pondan|n
-柔弱的	lampai,lemes,leput,pondan|n
-柔文	lemah-lembut
-柔文雅	lemah-lembut
-柔的	ramah-tamah
-柔软	empuk,lembik,lentuk,lentur|n,lodoh
-柔软的	empuk,lembik,lentuk,lentur|n,lodoh
+柔和	landai|adj
+柔嫩	lunak|adj
+柔弱	pondan|n,lampai,lemes,leput
+柔弱的	pondan|n,lampai,lemes,leput
+柔曼	landai|adj
+柔滑	lancar|adj
+柔软	lentur|n,empuk,lodoh,lembik,lentuk
+柔软的	lentur|n,empuk,lodoh,lembik,lentuk
 柔韧	liut
 柔韧的	liut
 柔顺	lembut|adj
 柔顺的	lembut|adj
 柔风	silir
-楔	baji,pasak|n,pating,sendal
-比	bagai aur dengan tebing,adu|v,banding|n,berbanding,beriani|n,cocokkan,colombia,galih
-比亚	colombia,habsyah,libya
+楔	pasak|n,baji
+比	lumba|n,kadar|n,gem|n,banding|n,misal|n,perlawanan|n,bagai aur dengan tebing,silat|n
+比…	mendahului
+比…先	mendahului
 比例	kias
-比喻	ibarat,misal|n,perbandingan
-比尔	beriani|n
-比尔亚	beriani|n
-比尔亚尼	beriani|n
-比尔亚尼菜	beriani|n
+比例尺	sisik|n
+比值	kadar|n
+比及	bila|adv
+比喻	misal|n,ibarat,perbandingan
+比对	banding|n
 比拟	umpamakan
 比方	umpamanya
+比来	baru|adj
 比武	silat|n
-比率	kadar|n,kepecutan|n,rasio,skala,valuta
-比的	pokta
+比率	kadar|n,kepecutan|n,rasio
 比萨	piza|n
 比萨饼	piza|n
-比赛	adu|v,gem|n,lumba|n,peraduan,perlawanan|n,sayembara,pelumba|n
+比赛	lumba|n,gem|n,perlawanan|n,peraduan,sayembara,adu|v,pelumba|n
+比赛投	adu|v
+比赛投诉	adu|v
 比赛者	pelumba|n
-比较	banding|n,cocokkan,galih,memadan,membandingkan,mempertandingkan,menanding,perbandingan
+比较	banding|n,timbal,tolok,cocokkan,galih,memadan,menanding,perbandingan
 比较久	pencen|adj
-比里	liberia|n
-比里亚	liberia|n
-比里亚人	liberia|n
-比里亚人的	liberia|n
+比邻	dekat|adj
 痔	bawasir,sembilik
 痔核	bawasir
 痔疮	bawasir,sembilik
-盔	ketopong,topi keledar|n
-答	andalas,balas|v,balas budi,balas jasa,berbalas,berekreasi|v,berjanji,berjawab|adj
-答功	balas jasa
-答功劳	balas jasa
-答声	sengkenit|n
-答应	berekreasi|v,berjanji,janji|n,mengabulkan
-答板	rumah atap
-答板屋	rumah atap
-答案	contoh jawapan,jawapan|n,berjawab|adj
-答案的	berjawab|adj
-答的	musykil|adj,tersipu-sipu
-答答	tersipu-sipu
-答答的	tersipu-sipu
-答腊	andalas
-答腊岛	andalas
-答腊岛之	andalas
-答腊岛之古	andalas
-答腊岛之古名	andalas
+盔	ketopong
+答	janji|n,jawapan|n,berekreasi|v,berjanji,contoh jawapan,mengabulkan
+答应	janji|n,berekreasi|v,berjanji,mengabulkan
+答案	jawapan|n,contoh jawapan
 答覆	jawapan|n
-翔	berterbangan,layang|v,melayang
-联	atas talian|adj,balai rakyat,bandaran|adj,bercantum,bergabung,bersangkutan,bersekutu|v,campuran
-联合	bercantum,bergabung,bersekutu|v,campuran,cantumkan,hubung|v,percantuman,sekutu|n
+联	perhubungan|n,sekutu|n,serikat|n,persekutuan|n,perikatan|n,pakatan|n,bersekutu|v,hubung|v
+联合	sekutu|n,bersekutu|v,hubung|v,cantumkan,percantuman,campuran,bergabung,bercantum
 联合会	kesatuan|n
-联合王	united kingdom
-联合王国	united kingdom
-联合的	emiriah arab bersatu,terma|n
-联合邦	persekutuan tanah melayu
-联机	atas talian|adj,dalam talian|adj,geng bawang|n,online|adj
-联的	relevan|adj,terma|n
-联盟	pakatan|n,perikatan|n,persekutuan|n,serikat|n
+联合王国联合王国	united kingdom
+联合的	emiriah arab bersatu
+联合的关联	terma|n
+联合的关联的	terma|n
+联机	online|adj,atas talian|adj,geng bawang|n,dalam talian|adj
+联欢	pesta|n
+联欢会	pesta|n
+联盟	serikat|n,persekutuan|n,perikatan|n,pakatan|n
+联系	perhubungan|n
 联结	rangkap,sambat
 联结的	sambat
-联络	hubung|v,perhubungan|n,balai rakyat
+联络	perhubungan|n,hubung|v,balai rakyat
 联络所	balai rakyat
-联邦	federasi|n,federesyen|n,persekutuan|n,komanwel,persekutuan mikronesia
+联谊会	kelab|n,masyarakat|n
+联赛	liga|n
+联通	perhubungan|n,hubungan|n
+联邦	persekutuan|n,federasi|n,federesyen|n,persekutuan mikronesia
 联邦的	persekutuan mikronesia
-腔	kaviti abdomen|n,rongga abdomen|n
+腔隙	celah|n
 苔	lumut|n,tundra
 苔原	tundra
 苔癣	lumut|n
-荔	durian belanda|n,laici|n,pulasan|n
-荔枝	laici|n,durian belanda|n,pulasan|n
-菔	lobak|n
-虔	abrar|adj,mukmin,salih,warak|adj
-虔诚	abrar|adj,mukmin,salih,warak|adj
-虔诚的	abrar|adj,mukmin,salih,warak|adj
-衔	cengam,kulum,mencengam,betari|n,cakup,gelar|n,gelaran,gonggong|v
+荔	laici|n
+荔枝	laici|n
+虔诚	abrar|adj,warak|adj,salih,mukmin
+虔诚的	abrar|adj,warak|adj,salih,mukmin
+衔	kulum,cengam,mencengam,gonggong|v,gelaran,cakup,mencakup
 衔住	cakup,mencakup
-衔名	misa|n
-衔头	gelaran,maharaja besar
-衔头名	maharaja besar
+衔头	gelaran
 衔着	gonggong|v
 衔走	gonggong|v
-裔	anak cucu,aris,keturunan|n,sayid,temurun,zuriat|n
-裔的	sayid
-裔的阿	sayid
-裔的阿拉	sayid
-裔的阿拉伯	sayid
-裔的阿拉伯人	sayid
-赔	ganti rugi,pampas rugi,silih,tuntut bela
-赔偿	pampas rugi,silih,ganti rugi,tuntut bela
+赔	silih,ganti rugi,pampas rugi
+赔偿	silih,pampas rugi,ganti rugi
 赔偿损	ganti rugi
 赔偿损失	ganti rugi
 赔偿金	pampas rugi
+赔本	kehilangan|n
 赔款	ganti rugi
-返	balik|v,kelik,kembali|v,lalu-lalang,melambung,pulangan tunai|n,ulang|v,ulang-alik
+赔钱货	anak perempuan|n
+返	balik|v,melambung
 返回	balik|v
+返点	komisi|n
 返跃	melambung
-返还	pulangan tunai|n
-體	fizikal|adj
-體的	fizikal|adj
-魔	gergasi|n,hikmat,iblis,kemang,magis|adj,mantera|n,mestika,musuh ketat|n
-魔力	hikmat,mantera|n,sakti,penderah
-魔力的	penderah
-魔术	rukiah,magis|adj,silap mata,sunglap mata
+魔	mantera|n,setan|n,syaitan|n,musuh ketat|n,hikmat,mestika,sakti,iblis
+魔力	mantera|n,hikmat,sakti
+魔咒	jampi|n
+魔术	magis|adj,rukiah
 魔术的	magis|adj
-魔王	musuh ketat|n,gergasi|n
-魔的	tumbal
-魔的邪	tumbal
-魔的邪术	tumbal
+魔王	musuh ketat|n
 魔石	mestika
-魔鬼	iblis,kemang,setan|n,syaitan|n
+魔鬼	setan|n,syaitan|n,iblis,kemang

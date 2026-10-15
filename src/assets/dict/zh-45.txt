@@ -1,30 +1,12 @@
-中	kena|v,abad pertengahan,abad tengah,amoi|n,anjing pandan|n,antara|prep,asit,bebek|n
-中世	abad pertengahan,abad tengah,rebab
-中世纪	abad pertengahan,abad tengah,rebab
-中世纪之	rebab
-中世纪之三	rebab
-中世纪之三弦	rebab
-中世纪之三弦乐	rebab
+中	kena|v
+中世	abad tengah,abad pertengahan
+中世纪	abad tengah,abad pertengahan
 中世纪之三弦乐器	rebab
-中之	pak kaduk
-中之痴	pak kaduk
-中之痴汉	pak kaduk
-中产	borjuis|n
-中产阶	borjuis|n
-中产阶级	borjuis|n
-中产阶级分	borjuis|n
 中产阶级分子	borjuis|n
-中会	jadi-jadian
-中会变	jadi-jadian
-中会变老	jadi-jadian
-中会变老虎	jadi-jadian
-中会变老虎的	jadi-jadian
-中会变老虎的人	jadi-jadian
-中伤	burukkan,fitnah|n,mencemari,petenah
-中全	menumpuhkan,tumpu|v
-中全力	menumpuhkan,tumpu|v
-中出	serangan udara|n
-中出击	serangan udara|n
+中介	ejen|n,agensi|n
+中介所	agensi|n
+中伤	fitnah|n,petenah,mencemari
+中兴	pemulihan|n
 中午	lohor|n,tengah hari|n,tengah-hari|n,zuhur|n
 中午祈	zuhur|n
 中午祈祷	zuhur|n
@@ -32,219 +14,137 @@
 中华的	cina
 中咒	malaun|n
 中咒的	malaun|n
-中国	china,singkek|n
-中国新	singkek|n
-中国新来	singkek|n
-中国新来的	singkek|n
-中国新来的华	singkek|n
-中国新来的华侨	singkek|n
-中央	tempat jin buang anak|n,sentral,seri taman
+中国	china
+中坚	teras|n
+中央	tempat jin buang anak|n,sentral
 中央的	sentral
 中学	sekolah menengah|n
 中尉	leftenan|n
-中小	cikgu besar|n,pengetua|n,pramugari|n
-中小姐	pramugari|n
-中小学	cikgu besar|n,pengetua|n
-中小学的	cikgu besar|n,pengetua|n
-中小学的校	cikgu besar|n,pengetua|n
-中小学的校长	cikgu besar|n,pengetua|n
+中小学的校长	pengetua|n,cikgu besar|n
+中常	sederhana|adj
 中庭	serambi jantung|n
 中庸	mubah
 中庸的	mubah
 中彩	kena loteri
 中彩票	kena loteri
-中心	hab,egosentrik|adj,egotisme|n,konsentrik|adj,malakat,teras|n
+中心	teras|n,hab
 中心木	teras|n
 中心木质	teras|n
-中心癖	egotisme|n
-中心的	egosentrik|adj,konsentrik|adj
 中指	jari hantu|n,jari tengah|n
 中数	menjana
-中文	amoi|n,boi|n,cainis|n,petrol|n,pijar|n,tahun baru cina
-中断	bengkalai,gencat,lat
-中无	huju
-中无人	huju
-中服	pramugara
-中服务	pramugara
-中服务员	pramugara
-中木	terucuk
-中木柱	terucuk
+中文	boi|n,amoi|n,pijar|n,cainis|n,tahun baru cina
+中断	lat,gencat,bengkalai
 中枢	hab
-中桅	layar pengapuh,pengapuh
-中桅帆	layar pengapuh,pengapuh
-中楼	lamunan|n
-中楼阁	lamunan|n
-中止	bengkalai,jeda|v,rencat,tergencat
+中校	panglima|n
+中桅	pengapuh,layar pengapuh
+中桅帆	pengapuh,layar pengapuh
+中止	jeda|v,rencat,bengkalai,tergencat
 中波	gelombang sederhana
 中洲	daratan|n
-中浮	terawang
-中浮动	terawang
-中海	laut rum
-中物	kaki minum|n
-中物者	kaki minum|n
-中的	anjing pandan|n,chalet|n,mada,mak kau hijau,sederhana|adj,seronggong,sipi,tertumpu|v
-中的坑	seronggong
-中的坑架	seronggong
-中的混	anjing pandan|n
-中的混合	anjing pandan|n
-中的混合废	anjing pandan|n
-中的混合废料	anjing pandan|n
-中的牧	chalet|n
-中的牧人	chalet|n
-中的牧人小	chalet|n
-中的牧人小屋	chalet|n
-中的象	mada
-中监	intip|v
-中监视	intip|v
-中碰	jerembak
-中碰见	jerembak
-中空	gabuk,kelompang,ruang|n
-中空的	gabuk,kelompang,ruang|n
+中用	berguna|adj
+中空	ruang|n,gabuk,kelompang
+中空的	ruang|n,gabuk,kelompang
 中立	berkecuali,neutral
 中立国	neutral
 中立的	neutral
-中等	sederhana|adj,gempal,menengah,rembunai,sedang|adv
-中等的	gempal,menengah,rembunai,sedang|adv
+中等	sederhana|adj,sedang|adv,gempal,rembunai,menengah
+中等的	sedang|adv,gempal,rembunai,menengah
 中筋	lidi
-中结	kemalala
-中结石	kemalala
 中缀	sisipan
-中而	gumam
-中而言	gumam
-中而言语	gumam
 中肃	menjana
 中计	terpukau
+中辣	hangat|adj
 中途	jelimput
 中途改	jelimput
 中途改道	jelimput
 中邪	rasuk|v
-中间	ngah|adv,tengah|n,asit,mesosfera|n,peraih,telangkai,tengah jalan,tengkulak
+中间	ngah|adv,tengah|n,mesosfera|n,asit,peraih,telangkai,tengkulak
 中间人	asit,peraih,telangkai,tengkulak
 中间层	mesosfera|n
 中非	republik afrika tengah
 中风	sawan bangkai
 中魔	terpesona
-亭	setaka,anjung|n
-圭	uruguay
-夭	cabut lari
-夭夭	cabut lari
-席	absen|adj,auditorium|n,awangan,berdudukan|adj,bidai,hadir|v,hadirat|n,hadirin
-席位	losi
+亭	setaka
+崭亮	gemilang|adj
+席	bidai,karung
 席包	karung
-席在	hadrat
-席在王	hadrat
-席在王或	hadrat
-席在王或神	hadrat
-席在王或神前	hadrat
-席检	peguam negara|n
-席检察	peguam negara|n
-席检察官	peguam negara|n
-席演	awangan
-席演出	awangan
-席的	absen|adj,hadir|v,menghadiri
 席等	bidai
-席簿	jadual kedatangan
-席者	hadirin
 席袋	karung
-席部	perdana menteri|n
-席部长	perdana menteri|n
-庭	anak bini,bedaya,domestik|adj,famili|n,insanak|n,kaum|n,keluarga|n,laman dalam|n
-庭审	mahkamah tentera|n
-庭审判	mahkamah tentera|n
-庭的	domestik|adj
-庭舞	bedaya
-庭舞娘	bedaya
+庭	laman dalam|n
 庭院	laman dalam|n
-搭	bonceng,kongkalikung,menumpang,penumpang|n
+搭	penumpang|n,kongkalikung
 搭客	penumpang|n
 搭讪	kongkalikung
 搭顺	bonceng
 搭顺风	bonceng
 搭顺风车	bonceng
-播	menabur,menyebarkan,menyemaikan,audio siar|n,bentangan|n,berhamburan,corongkan,edar|v
-播客	audio siar|n,siniar|n
+播	menabur,menyemaikan,menyebarkan,siniar|n,menyemai|v,audio siar|n,sebar
+播客	siniar|n,audio siar|n
+播放机	pemain|n
 播种	menyemai|v,sebar
-播节	siaran
-播节目	siaran
 播音	studio
 播音室	studio
-断	anggap,astaga,astakona|adj,bebanjau|n,bengkalai,berderet-deret,bertalu-talu,budi bicara
-断力	budi bicara
-断地	polang-paling,sewenang-wenang,wenang
-断地转	polang-paling
-断地转变	polang-paling
+断	rebeh,pecah masuk|n,topes,pegat,tual,kudung,tunggak,tunggul
 断垂	sekah
 断垂的	sekah
 断奶	cerai susu
+断层	celah|n
 断崖	topes
+断崖式	curam|adj
 断干	tunggul
 断开	pecah masuk|n
 断手	kudung
 断折	serkah,letap
 断折声	letap
-断拉	memang|adv
-断拉扯	memang|adv
-断株	menunggak,tual,tunggak
+断株	tual,tunggak,menunggak
 断然	pantung
 断然的	pantung
 断片	pungkah
-断的	rebeh,bertalu-talu,rompong
+断的	rebeh
 断绝	pegat
+断语	kesimpulan|n
 枭	pungguk|n
-梭	peleting,pukang|n,alu-alu|n,ketam renjong|n
+梭	pukang|n,peleting
 梭子	alu-alu|n,ketam renjong|n
 梭子蟹	ketam renjong|n
 梭子鱼	alu-alu|n
-椭	bujur|adj,bujur telur,bulat bujur,bulat panjang,jorong
-椭圆	bujur|adj,bujur telur,bulat bujur,bulat panjang,jorong
-椭圆形	bujur|adj,bujur telur,bulat bujur,bulat panjang,jorong
-椭圆形的	bulat bujur,bulat panjang,jorong
-椭圆形的佬	jorong
-椭圆形的佬叶	jorong
+椭圆	bujur|adj,jorong,bulat panjang,bujur telur,bulat bujur
+椭圆形	bujur|adj,bujur telur,jorong,bulat panjang,bulat bujur
+椭圆形的	jorong,bulat panjang,bulat bujur
 椭圆形的佬叶盒	jorong
-炭	arang|n,arang batu,bara|n
-炭头	bara|n
-箭	anak panah|n,adenium|n,damak,pemanah|n,roket|n,sumpit|n,sumpitan|n,temiang
-箭手	pemanah|n
+炭	arang|n
+箭	anak panah|n
 箭毒	adenium|n
 箭毒胶	adenium|n
 箭毒胶属	adenium|n
-箭用	temiang
-箭用之	temiang
-箭用之细	temiang
-箭用之细竹	temiang
 箭鸡	tengkerong
 箭鸡鱼	tengkerong
-蘭	inggeris
-蘭的	inggeris
-袭	baka|adj,hinggap|v,lutu,menyerbu,pusaka|n
+袭	lutu,menyerbu
 袭击	lutu,menyerbu
-袭的	baka|adj
-袭遗	pusaka|n
-袭遗产	pusaka|n
-训	ajaran|n,fatwa|n,jurulatih|n,latih,magang|n,mahir|adj,mandat|n,melatih
+训	mahir|adj,fatwa|n,mandat|n,latih,melatih
 训令	mandat|n
 训戒	fatwa|n
-训的	magang|n
-训练	latih,mahir|adj,melatih,jurulatih|n
+训条	perintah|n
+训练	mahir|adj,jurulatih|n,tu|det,latih,melatih
+训练单	tu|det
+训练单位	tu|det
 训练员	jurulatih|n
-训者	pelatih|n
-购	belanggan,berbelanja,langgan|v,melanggan,membeli-belah,memialang,menempah,meraih
-购买	berbelanja,pembelian|n,tebusan
+训释	pengertian|n
+购	pembelian|n,tebusan,berbelanja,membeli-belah
+购买	pembelian|n,tebusan,berbelanja
 购物	membeli-belah
-锭	labuh|adj
-鞭	cambuk,camti,jari ampai,pecut|n,balun,banat,bantai|n,bedal
+鞭	pecut|n,cambuk,camti,jari ampai,mercun|n,cemeti|v,mencemeti|v,mencari jejak dalam air|v
 鞭刑	dera
-鞭声	lisut
-鞭子	cabuk,cemeti|v
+鞭子	cemeti|v,cabuk
 鞭尾	ketungging|n
 鞭尾蝎	ketungging|n
-鞭打	banat,bantai|n,bedal,belasah,laberak,membanat,membedal,membelasah
+鞭打	pecut|n,mencemeti|v,mencari jejak dalam air|v,banat,laberak,bedal,sambuk,sembat
 鞭挞	balun
 鞭爆	mercun|n
-鞭痕	bilur,birat
+鞭痕	birat,bilur
 鲭	luding
-鸭	bebek|n,belibis,itik|n,itik agung|n,itik baldu|n,itik gerigi|n,itik kecil|n,itik kumbang|n
-鸭叫	kuak,mengakak
+鸭	itik|n
+鸭叫	mengakak
 鸭叫声	mengakak
-鸭子	bebek|n,itik|n
+鸭子	itik|n
+鸭子没入水中	bebek|n

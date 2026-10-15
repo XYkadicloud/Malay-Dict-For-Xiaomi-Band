@@ -1,101 +1,72 @@
 jab	tujah|v
-jabatan	jakoa,jpm,jpn
-jack-o	tanglung labu|n
+jack-o'-lantern	tanglung labu|n
 jackal	jakal|n
-jackfruit	kebabal|n,nangka|n
+jackfruit	nangka|n
 jackhammer	gerudi tukul|n
 jacob	yaakub
-jadi	semulajadi|n
+jae	laris
 jaguar	jaguar|n
-jahe	jahi|n
-jail	lokap|n,penjara|n
-jajah	dijajah|v,menjajah|v
+jail	penjara|n
 jakarta	jakarta
-jalan	jalan-jalan
-jam	jem|n,kesesakan|n,waktu kerja|n
+jam	jem|n,kesesakan|n
 jamaica	jamaica
-jamaluddin	kj
-jangan	jgn
-januari	jan
 january	bulan satu|n,januari
-japan	jepang,jepun
-japanese	jepunkan|v,ramen|n,syinto
-japen	japen
-jar	kendi|n
+japan	jepun,jepang
+japanese soup noodles	ramen|n
 jargon	jargon|n
-jari	telunjuk|n
-jasmani	pj|n
-jasmine	melati|n,melur|n
+jasmine	melur|n,melati|n
 java	jawa
-javanese	ari|n,tepus|n
-javanica	tepus|n
+javanese alpinia	tepus|n
+javanese form of adik	ari|n
 javelin	lembing|n
 jaw	rahang|n
-jawapan	jawaban|n,jwpn
-jawatan	jusa|n
-jawi-jawi	jejawi|n
-jaya	petaling jaya
 jealous	cemburu|adj
-jebung	ayam-ayam|n
-jelaskan	dijelaskan|v,menjelaskan|v
-jelly	cincau|n
 jellyfish	ubur-ubur|n
-jelutong	jelutong
-jempana	cempana|n
-jemur	dijemur|v
-jepunkan	dijepunkan|v,menjepunkan|v
+jelutong a suburb of george town	jelutong
 jequirity	saga|n
-jerk	menyentak|v,sentakan|n
+jerk	sentakan|n
 jerusalem	yerusalem
-jessamine	kemuning|n
-jester	peran|n
-jesus	iesu christi,isa,maria,yesus
+jesus	yesus
+jesus christ	iesu christi
 jetty	jeti|n
 jewel	permata|n
 jewelfish	lahu|n
 jewellery	barang kemas|n
 jicama	sengkuang|n
-jihad	mujahid|n
-jijik	cicik|adj
-jinggakan	dijinggakan|v,menjinggakan|v
 jittery	cuak|adj
-job	ayub,curi tulang|v,gawai|n,jawatan|n,pekerjaan|n
-joget	joget|v
-john	roti john|n
-johor	jb,johor,johor bahru,ulu tiram
-join	cantum|v,sambung|v,turut|v
-joint	buku|n,kongsi|n,sendi|n
+job	gawai|n,jawatan|n,pekerjaan|n,ayub
+jobs	kehutanan|n
+johor	johor,ulu tiram,sekijang
+johor bahru the capital city of johor	johor bahru
+joint	sendi|n
+joint venture	kongsi|n
 jointly	bersama-sama|adv
-joke	beracah-acah|v,gurau|n,jenaka|n
+joke	gurau|n,jenaka|n
 jokester	pelawak|n
 jong	jong|n
 joseph	yusuf
-joss	colok|n
+joss stick	colok|n
 journalism	kewartawanan|n
 journalist	wartawan|n
 journey	cengkerama|n,perjalanan|n
 jovial	riang|adj
-joy	euforia|n,nikmat|n
-judge	hakim|n
+joy	nikmat|n
+jubilee a major anniversary of an event	jubli
 judiciary	perdata|n
-jug	jag|n
-juga	gak|adv,jugak|adv
+jug container for water	jag|n
 juice	jus|n
-julai	jul
 july	bulan tujuh|n,julai
-jump	lompat|n,terjun|v
-jumping	lompat|n
-junction	persimpangan|n,simpang|n
+junction	simpang|n,persimpangan|n
 june	bulan enam|n,jun
-jungle	hutan rimba|n,rimba|n,rintis|n,undang-undang rimba|n
+jungle	rimba|n,hutan rimba|n
+jungle trail track	rintis|n
 juniper	arar|n
-junk	wangkang|n
+junk	sampah|n,wangkang|n
 jupiter	musytari
 jurong	jurong
-jurubahasa	juru bahasa|n
-just	adil|adj,baru|adj,mualaf|n,persis|adv,sekadar|adv,tadi|adv
+just	aje|adv,adil|adj,baru|adj,sekadar|adv
+just like	persis|adv
+just now	tadi|adv
 justice	keadilan|n
 justification	justifikasi|n
-justifikasikan	dijustifikasikan|v,menjustifikasikan|v
-justify	justifikasikan|v
 juvenile	juvenil|n

@@ -20,7 +20,7 @@ zalim	zalim	adj	残忍的，残暴的，暴虐的	cruel
 zaman	zaman	n	时代	era; age; epoch; period; time (a distinct period of time…
 zamanatom	zaman atom		原子时代
 zamanbatu	zaman batu		石器时代	Stone Age
-zamanberzaman	zaman-berzaman	adv	两者择一
+zamanberzaman	zaman-berzaman	adv	两者择一	alternative form of berzaman-zaman
 zamandahulu	zaman dahulu		古代
 zamansekarang	zaman sekarang		现代，今日
 zamin	zamin	n	保证，保证人，土地，国家	land; soil
@@ -34,9 +34,9 @@ zariah	zariah		苗，种子，子孙，师范学校	The name given to a beautifu
 zat	zat		要素，成分
 zatair	zat air		氢气
 zatkapur	zat kapur	n	钙  钙Ca	calcium (chemical element)
-zatlemas	zat lemas	n	同义词
+zatlemas	zat lemas	n	同义词	synonym of nitrogen
 zatmakanan	zat makanan		维生素，维他命
-zatpembakar	zat pembakar	n	同义词
+zatpembakar	zat pembakar	n	同义词	synonym of oksigen (“oxygen”)
 zattelur	zat telur		蛋白，蛋白质
 zaujah	zaujah	n	妻子	wife
 zawadah	zawadah		干粮旅行者随身食物

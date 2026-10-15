@@ -1,58 +1,51 @@
-兴	berangsang,beria-ria,cam|v,candi,dingin hati,euforia|n,galakkan,gembira|adj
-兴奋	berangsang,euforia|n,galakkan,gerang,teruja|adj
+thumb。豬近义词	khinzir|n
+tidak不得不	tidak dapat
+transimitter的简写	bencong|n,mak nyah|n
+兴	minat|n,kegemaran|n,kesukaan|n,cam|v,euforia|n,hobi,berangsang,kecenderungan
+兴味	rasa|n
+兴奋	euforia|n,teruja|adj,berangsang,gerang,galakkan
 兴奋剂	galakkan
-兴奋的	gerang,teruja|adj
-兴得	pekau
-兴得喊	pekau
-兴得喊起	pekau
-兴得喊起来	pekau
-兴的	dingin hati
+兴奋的	teruja|adj,gerang
 兴盛	makmur|adj
 兴盛的	makmur|adj
-兴趣	cam|v,hobi,kecenderungan,kegemaran|n,kesukaan|n,minat|n
-兴都	candi
-兴都教	candi
-兴都教的	candi
-兴都教的寺	candi
+兴许	barangkali|adv
+兴趣	minat|n,kegemaran|n,kesukaan|n,cam|v,hobi,kecenderungan
 兴都教的寺庙	candi
-兴高	gemirang,girang-gemirang,riah
+兴高	riah,gemirang,girang-gemirang
 兴高彩	gemirang,girang-gemirang
 兴高彩烈	gemirang,girang-gemirang
 兴高采	riah
 兴高采烈	riah
-却	menyusut,rompes
+却是	walau bagaimanapun|conj
 却边	rompes
 却边的	rompes
-围	abah-abah|n,berkepung,berpagar,bidang|n,cawat|n,galu,golongan,kebat
-围住	pagari
-围墙	pagar|n,tembok|n
+围	tembok|n,cawat|n,reban|n,sal|adv,pagar|n,abah-abah|n,galu,kepung
+围墙	tembok|n,pagar|n
 围巾	sal|adv
 围市	cawat|n
 围攻	kepung,keroyok,mengeroyok
-围有	berpagar
-围有篱	berpagar
 围有篱笆	berpagar
 围有篱笆的	berpagar
 围栏	reban|n
-围的	persekitaran|n
-围绕	berkepung,galu,likung,lingkung,melingkungi
+围绕	galu,likung,berkepung,lingkung,melingkungi
 围绕着	melingkungi
 围绕著	lingkung
 围绳	abah-abah|n
-奴	patik|pron,abdikan|v,awang|n,gembala|n,hamba|n,kaula|n,kawula|n,kula|n
+围集在…to	mengerumuni
+奴	patik|pron,kaula|n,sahaya|n,kula|n,ulun|n,awang|n,kawula|n,hamba|n
 奴役	abdikan|v,tindihkan
-奴隶	awang|n,hamba|n,kaula|n,kawula|n,kula|n,ladi,mengabdi|v,sahaya|n
-婴	anak merah|n,barut gantung,bayi|n,orok
-婴儿	anak merah|n,bayi|n
-婴孩	orok,barut gantung
-婴孩胸	barut gantung
-婴孩胸前	barut gantung
-婴孩胸前之	barut gantung
-婴孩胸前之涎	barut gantung
-婴孩胸前之涎布	barut gantung
-巴	albania,bali,barbados,barut gantung,bas|n,batu pahat,bercawat ekor,berdagu
-巴东	padang besar
+奴才	kaula|n
+奴隶	kaula|n,sahaya|n,kula|n,ulun|n,awang|n,kawula|n,hamba|n,mengabdi|v
+婴	bayi|n,orok
+婴儿	bayi|n
+婴儿新生儿	anak merah|n
+婴孩	orok
+婴孩胸前之涎布bas巴士	barut gantung
+婴幼儿	bayi|n
+巴	bas|n,brazil,persen
+巴东运动场	padang besar
 巴仙	persen
+巴先	peratus|cls
 巴冷	parang|n
 巴冷刀	parang|n
 巴勒	palestin
@@ -60,326 +53,215 @@
 巴勒斯坦	palestin
 巴厘	bali
 巴厘岛	bali
-巴唐	kinabatangan
-巴唐岸	kinabatangan
 巴土	batu pahat
 巴土脂	batu pahat
-巴坐	berdagu
-巴坐着	berdagu
-巴士	barut gantung,bas|n
-巴多	barbados
-巴多斯	barbados
-巴嫩	lubnan
-巴尼	albania
-巴尼亚	albania
+巴士	bas|n
 巴巴	barbados
 巴巴多	barbados
 巴巴多斯	barbados
-巴果	rambai
+巴斯德氏菌属	lepas|adj
 巴特	butterworth
 巴特沃	butterworth
 巴特沃斯	butterworth
-巴的	berekor
-巴结	bintang kartika,bintang tujuh
-巴结肿	bintang kartika,bintang tujuh
-巴结肿块	bintang kartika,bintang tujuh
 巴西	brazil
 巴迪	kain batik
 巴迪布	kain batik
-年	tahun|n,abang mantu|n,adik perempuan|n,agsa,akak|n,akang|n,akilbaligh,anak muda|n
-年人	dewasa
+年	umur|n,tahun|n,darjah|n,tahunan|adj,usia|n,bawat|adj,tingkatan,remaja
+年事	umur|n
 年代	kronologi|n
 年代学	kronologi|n
 年刊	tahunan|adj
-年初	cinta monyet|n
-年初恋	cinta monyet|n
-年华	karnival|n
-年华会	karnival|n
-年快	selamat tahun baru|int
-年快乐	selamat tahun baru|int
-年男	pemuda-pemudi
-年男女	pemuda-pemudi
-年的	long|n,teruna|adj,umur baligh
+年华	umur|n
+年历	kalendar|n
+年头	tempoh|n
+年少	muda|adj
+年岁	umur|n
+年幼	muda|adj
+年庚	umur|n
+年度	tarikh|n,tahunan|adj
 年级	darjah|n,tingkatan
-年纪	bawat|adj,adik perempuan|n,bapa cik|n,jubli,ulang tahun|n,yayi|n
-年纪念	jubli,ulang tahun|n
-年纪最	bapa cik|n
-年纪最小	bapa cik|n
-年纪最小的	bapa cik|n
+年纪	bawat|adj
 年纪最小的人	bapa cik|n
-年纪较	adik perempuan|n,yayi|n
-年纪较小	adik perempuan|n,yayi|n
-年纪较小者	adik perempuan|n,yayi|n
-年轻	adik perempuan|n,bongsu|adj,muda|adj,semuda,teruna|adj,yayi|n
-年轻的	muda|adj,teruna|adj,adik perempuan|n,bongsu|adj,yayi|n
+年纪较小者较年轻	yayi|n,adik perempuan|n
+年纪较小者较年轻的	yayi|n,adik perempuan|n
+年表	tarikh|n
+年轻	muda|adj,teruna|adj
+年轻人	mat belia|n
+年轻的	muda|adj,teruna|adj
+年迈	buruk|adj
 年金	anuiti
-年长	abang mantu|n,akak|n,akang|n,ayunda|n,kakang|n,kanda|n,kang|n,kangmas|n
-年长的	abang mantu|n,akak|n,akang|n,ayunda|n,kakang|n,kanda|n,kang|n,kangmas|n
-年长者	taci|n,uak|n
-年长者的	uak|n
-年长者的称	uak|n
-年长者的称呼	uak|n
+年长	sulung|adj,akak|n,kang|n,akang|n,kanda|n,ayunda|n,kakang|n,kangmas|n
+年长的	sulung|adj,akak|n,kang|n,akang|n,kanda|n,ayunda|n,kakang|n,kangmas|n
+年长者	taci|n
+年间	tempoh|n
 年青	remaja,belia
 年青人	belia
 年青的	belia
-年龄	bawat|adj,umur|n,usia|n,bawah umur,sebaya,seumur,usia mental|n
-拴	tertambat
-拴住	tertambat
-援	bantu,bantuan,menyumbangkan,pertolongan,tunjangan
-援助	bantu,bantuan,menyumbangkan,pertolongan
+年龄	umur|n,usia|n,bawat|adj
+援	bantu,bantuan,tunjangan,pertolongan,menyumbangkan
+援助	bantu,bantuan,pertolongan,menyumbangkan
+援手	perkhidmatan|n
 援金	tunjangan
-整	antena seantero,apik,atur|v,beres,kamiran|n,karang|n,kebersihan,kelulu
-整个	antena seantero,seantero|det,seluruh|det,serata
+整	atur|v,kemas|adj,urus|v,karang|n,kamiran|n,apik,mengatur,kebersihan
+整个	seantero|det,seluruh|det,serata,antena seantero
 整体	kamiran|n
 整天	sehari-harian
 整批	memborong
 整批买	memborong
 整批买下	memborong
-整晚	semalam-malaman
+整整	lengkap|adj,penuh|adj
 整木	serempu
 整木龙	serempu
 整木龙骨	serempu
-整洁	kebersihan,beres,kelulu,rapi,ropak,sempuras
-整洁的	beres,kelulu,rapi,ropak,sempuras
-整理	atur|v,karang|n,kemas|adj,membereskan,mengatur,mengemaskan,mengurus,urus|v
-整的	paras|n,utuh
-整齐	apik,rangga,sempuras
-整齐的	rangga,sempuras
-晴	cerah,patio|n
-晴天	patio|n
-晴天休	patio|n
-晴天休息	patio|n
-晴天休息用	patio|n
-晴天休息用的	patio|n
-晴天休息用的石	patio|n
-晴天休息用的石砌	patio|n
-晴天休息用的石砌空	patio|n
+整条	lengkap|adj,seantero|det
+整洁	kebersihan,beres,rapi,kelulu
+整洁的	beres,rapi,kelulu
+整理	atur|v,kemas|adj,urus|v,karang|n,mengatur,membereskan,mengemaskan,mengurus
+整肃	serius|adj
+整饬	kemas|adj
+整齐	apik
 晴朗	cerah
 晴朗的	cerah
-更	lebih|adv,semula|adv,alih|v,berdikari|v,bilik persalinan|n,gilir,kemas kini|n,makin
+更	semula|adv,lebih|adv
+更卒	askar|n
 更可	sebaiknya|adv
 更可取	sebaiknya|adv
 更可取地	sebaiknya|adv
 更多	makin
-更换	gilir,membaharui|v,menukar,menyilih
+更换	membaharui|v,gilir,menukar,menyilih
 更新	kemas kini|n,membaharui|v
+更新版	kemas kini|n
 更甚	makin
-更生	berdikari|v
 更衣	bilik persalinan|n
 更衣室	bilik persalinan|n
-柴	belah kayu,colek api,gorek api,kayu api|n,keceh,mancis|n
-浴	bertangas,cokin,tab mandi|n
+浴	tab mandi|n,cokin
+浴室	bilik air|n
 浴巾	cokin
 浴缸	tab mandi|n
-滴	ketis,titik|v,titisan|n,bercucuran,berderai-derai,berlinang-linang,cecer,cicir
+滴	titisan|n,titik|v,ketis,tiris|adj,linang,jelejeh,rembah,cucur
 滴下	leleh|v
-滴地	berderai-derai
-滴地响	berderai-derai
-滴声	derai,geletek,keletik
-滴流	bercucuran,cucur,linang,menitik,rembah,tiris|adj
-滴滴	berderai-derai,derai,geletek,keletik
+滴流	tiris|adj,linang,rembah,cucur,menitik,bercucuran
+滴滴	derai,geletek,keletik,berderai-derai
 滴滴地	berderai-derai
 滴滴地响	berderai-derai
 滴滴声	derai,geletek,keletik
 滴漏	cicir,tercicir
 滴答	sengkenit|n
 滴答声	sengkenit|n
-滴落	cecer,jelejeh,rembes
-烴	petrol|n
-烴類	petrol|n
-烴類組	petrol|n
-烴類組成	petrol|n
-痴	berahi,kikik,natural|adj,pak kaduk,sengal-sengal ubi|adj
+滴翠	hijau|adj
+滴落	jelejeh,cecer,rembes
+痴	berahi,kikik
 痴情	berahi
-痴汉	pak kaduk
-痴的	sengal-sengal ubi|adj
 痴笑	kikik
-直	lurus|adj,akar tunjang,ayon|adv,bengkok|adj,bujor|adj,cacak,cancang,cegat
-直到	ayon|adv,had|n,setakat|prep,hingga|prep,mutakhir|adj
-直到现	mutakhir|adj
+直	lurus|adj,bujor|adj,langsung|adv,lempang,gerak hati,cegat,tercegat,hampagas
+直到	had|n,ayon|adv,setakat|prep
 直到现在	mutakhir|adj
 直到现在的	mutakhir|adj
 直前	nonong
+直勾勾	tetap|adj
 直升	helikopter|n
 直升机	helikopter|n
+直待	sampai|v
 直接	langsung|adv,objek tepat|n
+直接地	lantas|adv
 直接客	objek tepat|n
 直接客体	objek tepat|n
-直插	hunjam,terhunjam,terunjam
-直插入	terunjam,hunjam,terhunjam
+直插	terunjam
+直插入	terunjam
 直根	akar tunjang
-直的	lempang,bengkok|adj,cacak,jurus,lanjar,lantas|adv,legat,lontos
+直白	pedati|n
+直的	lempang
 直空	hampagas
-直立	cegat,tercegat,tegak|adj
+直立	tegak|adj,cegat,tercegat
 直立的	tegak|adj
-直线	bujor|adj,garis lurus,garis tegak lurus,horizontal|adj,vertikal|adj
+直线	bujor|adj,garis lurus
 直至	sehingga|prep
 直观	gerak hati
-直译	kuda padi|n
-直译文	kuda padi|n
-直译文翻	kuda padi|n
-直译文翻译	kuda padi|n
 直透	ekspres|adj
 直透的	ekspres|adj
-穴	rongga,gua|pron,korok,lahad|n,lombong|n,lurah,pelipis,sigung
+穴	rongga,sigung
 穴照	sigung
-维	ampu|v,gentian|n,ijuk|n,kapit,lenggara,serabut,serat,serbia
-维亚	serbia
+维	ampu|v,lenggara,kapit
 维他	zat makanan
 维他命	zat makanan
+维修	servis|n
 维基	wiki|n,wikipedia
 维基百	wiki|n,wikipedia
 维基百科	wiki|n,wikipedia
+维度	matra|n
 维护	ampu|v,lenggara
-维持	kapit,vital
-维持生	vital
-维持生命	vital
-维持生命所	vital
+维持	kapit
 维持生命所需	vital
 维持生命所需的	vital
+维数	matra|n
 维生	vitamin,zat makanan
 维生命	vitamin
 维生素	vitamin,zat makanan
-致	alus,apas,beri hormat,beri tabik,bersalaman,bersatupadu,bulat|adj,bulat hati
-致使	lantaran,melantarkan,menyebabkan|v
+致	ucap|v,sapa|n,tegur|n,menyebabkan|v,lantaran,beri hormat,beri tabik,melantarkan
+致使	menyebabkan|v,lantaran,melantarkan
 致命	santau|n
 致命的	santau|n
+致密	denda|n
 致意	sapa|n
 致慰	tegur|n
-致敬	beri hormat,beri tabik,bersalaman,hormat|adj,hormat senjata|n
+致敬	hormat|adj,beri hormat,beri tabik
 致敬的	hormat|adj
-致癌	karsinogen|n,karsinogenik|adj
+致癌	karsinogenik|adj
 致癌作	karsinogenik|adj
 致癌作用	karsinogenik|adj
-致癌物	karsinogen|n
-致癌物质	karsinogen|n
-致的	alus,apas,bulat|adj,bulat hati,bult suara,bunyi mati|n,huruf benar|n,huruf mati|n
+致癌物质致癌物	karsinogen|n
 致词	ucap|v
-蝴	kupu-kupu|n,limpapas,pari kelawar|n,rama-rama|n,rerama|n
-蝴蝶	kupu-kupu|n,limpapas,rama-rama|n,rerama|n,pari kelawar|n
+蝴	kupu-kupu|n,rama-rama|n,limpapas
+蝴蝶	kupu-kupu|n,rama-rama|n,limpapas,pari kelawar|n
+蝴蝶结	busur|n
+蝴蝶蝶式棉块	rerama|n
 蝴蝶鳐	pari kelawar|n
-说	berbahasa|v,berkata|v,bersembah|v,bilang|v,cakap|v,kata|n,menceritakan,mengaduh|v
-说上	rahu
-说上吞	rahu
-说上吞食	rahu
-说上吞食日	rahu
-说上吞食日月	rahu
-说上吞食日月而	rahu
-说上吞食日月而引	rahu
-说上吞食日月而引起	rahu
-说上吞食日月而引起亏	rahu
-说上吞食日月而引起亏蚀	rahu
-说上吞食日月而引起亏蚀的	rahu
-说上吞食日月而引起亏蚀的巨	rahu
-说上吞食日月而引起亏蚀的巨龙	rahu
-说不	entah-entah,kesima
-说不出	kesima
-说不出话	kesima
+说	sebut|v,rayuan|n,sabda|n,bilang|v,kata|n,cakap|v,berbahasa|v,berkata|v
+说不	entah-entah
 说不出话来	kesima
 说不定	entah-entah
-说中	jadi-jadian
-说中会	jadi-jadian
-说中会变	jadi-jadian
-说中会变老	jadi-jadian
-说中会变老虎	jadi-jadian
-说中会变老虎的	jadi-jadian
-说中会变老虎的人	jadi-jadian
 说亲	meminang
-说作	rawi|n
-说作家	rawi|n
 说到	alkisah
-说历	riwayat
-说历史	riwayat
-说大	besar mulut,meriam buluh
+说大	meriam buluh,besar mulut
 说大话	meriam buluh,besar mulut
 说大话的	besar mulut
-说家	cerpernis
-说明	kapsyen|n,ketegasan,membayankan,menegaskan,menerangkan|v,mengertikan|v,menyatakan|v,nyatakan
-说明前	bahawa|conj
-说明前句	bahawa|conj
-说明前句的	bahawa|conj
-说明前句的连	bahawa|conj
-说明前句的连接	bahawa|conj
+说明	menerangkan|v,mengertikan|v,kapsyen|n,menyatakan|v,nyatakan,menegaskan,membayankan,ketegasan
 说明前句的连接词	bahawa|conj
-说服	bujuk,membujuk,rayuan|n
+说服	rayuan|n,bujuk,membujuk
 说梦	igau,mengigau,meracau
 说梦话	igau,mengigau,meracau
-说爰	cengkerama|n
-说白	meriam buluh
-说白话	meriam buluh
-说的	kalut
-说粗	mencarut,rungkap
-说粗话	mencarut,rungkap
+说法	pengertian|n
+说粗	rungkap,mencarut
+说粗话	rungkap,mencarut
 说胡	raban
 说胡话	raban
 说讲	bertutur|v
-说话	bercakap|v,berucap,perbualan|n,beleter,cengei,nyinyir,rewel,sengau
-说话带	cengei
-说话带有	cengei
-说话带有鼻	cengei
+说话	perbualan|n,bercakap|v,berucap
 说话带有鼻音	cengei
-说话的	nyinyir
-说话离	rewel
 说话离题	rewel
 说话离题的	rewel
-说谎	bohong|adj,cakap bohong,dusta,superman|n
+说谎	bohong|adj,dusta,cakap bohong
+说谎横躺	superman|n
+说谎横躺的	superman|n
 说骗	cakap bohong
 说骗话	cakap bohong
-赴	dengan sesungguhnya
 蹴	terajang|v,antam
 蹴踢	antam
-轴	gandar roda,paksi|n,pangsi,poros|n,aci,balut rokok,gilingan,peleting
-轴心	gandar roda,poros|n
-间	aktu,aktubelajar,aktusembahyang,antara|prep,antara hati dengan jantung,asit,bilik acu|n,canggung|adj
-间人	asit,peraih,telangkai,tengkulak
-间传	cerita rakyat|n
-间传说	cerita rakyat|n
-间层	mesosfera|n
-间报	modin
-间报告	modin
-间报告人	modin
+轴	poros|n,paksi|n,pangsi,gandar roda
+轴心	poros|n,gandar roda
+鉴戒	amaran|n
+鉴赏家	kipas|n
 间接	objek sipi|n
 间接宾	objek sipi|n
 间接宾语	objek sipi|n
-间故	cerita rakyat|n,pak kaduk
-间故事	cerita rakyat|n,pak kaduk
-间故事中	pak kaduk
-间故事中之	pak kaduk
-间故事中之痴	pak kaduk
-间故事中之痴汉	pak kaduk
 间歇	lat,demam berselang
 间歇热	demam berselang
 间歇热疾	demam berselang
-间的	lopak,patio|n,ruas,sepenuh masa|adj,sipil
-间的一	patio|n
-间的一片	patio|n
-间的一片供	patio|n
-间的一片供晴	patio|n
-间的一片供晴天	patio|n
-间的一片供晴天休	patio|n
-间的一片供晴天休息	patio|n
-间的一片供晴天休息用	patio|n
-间的一片供晴天休息用的	patio|n
-间的一片供晴天休息用的石	patio|n
-间的一片供晴天休息用的石砌	patio|n
-间的一片供晴天休息用的石砌空	patio|n
-间的段	ruas
-间的间	lopak
-间的间隙	lopak
-间舞	canggung|adj
-间舞蹈	canggung|adj
-间表	jadual waktu
 间谍	pengintip|n
-间防	pertahanan awam|n
-间防卫	pertahanan awam|n
-间隔	lat,petak|n,selang|n,seli|n
-间隙	lopak
-靴	kasut|n,kasut but|n,tengar|n
-靴上	tengar|n
-靴上装	tengar|n
-靴上装有	tengar|n
-靴上装有踢	tengar|n
-靴上装有踢马	tengar|n
+间距	celah|n
+间隔	selang|n,petak|n,seli|n,lat
+间隙	celah|n
+靴	kasut|n
 靴上装有踢马刺	tengar|n
 靴上装有踢马刺的	tengar|n
 驴	himar|n,keldar,keldai|n

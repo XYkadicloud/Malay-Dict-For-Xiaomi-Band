@@ -5,7 +5,6 @@ ulama	ulama		学者，回教学者	n the body of Mullahs (Muslim scholars traine
 ulang	ulang	v	回去，重返	to repeat (do or say again)
 ulangalik	ulang-alik		往返，来来往往
 ulangkaji	ulang kaji	v	学习	to study
-ulangkaji	ulangkaji		温习
 ulangkali	ulang kali		常常，多次
 ulangtahun	ulang tahun	n	周年纪念	anniversary
 ulapulap	ulap-ulap		清汤，招手

@@ -1,56 +1,50 @@
-何	apa macam|adv,apabila|conj,apatah,arak|n,bagaimanapun,barang apa,beberapa|adj,betapa
-何东	barang apa
-何东西	barang apa
-何人	siapa-siapa|pron
+何	apatah
+何为	mengapa|adv
+何人	siapa|pron
+何以	mengapa|adv,bagaimana|adv
+何其	bagaimana|adv
 何况	apatah
-何地	mana-mana|adv
-何地方	mana-mana|adv
-何方	tentang mana
-何时	apabila|conj,kapan|pron,tatkala|conj,bila-bila|adv
-何时候	bila-bila|adv
-何的	arak|n,beberapa|adj,bundaran|n,calang-calang|det,ciu|n,nasi kepal|n,pandan|n,sawo|n
+何在	di mana|adv
+何处	di mana|adv
+何尝	bila|adv,bagaimana|adv
+何所	di mana|adv
+何方	di mana|adv
+何日	bila|adv
+何时	bila|adv
+何许	bagaimana|adv
 偕	sambil|conj
 僕	abdi|n
 僕人	abdi|n
-僕人穿	abdi|n
-僕人穿的	abdi|n
-動	abet|n
-单	ahid,bahara,bersahaja,bil,bilah|n,buku kemajuan,cadar,carta|n
-单一	ahid,mempermudah|v,nafsi
+单	unit|n,satuan|n,kesatuan|n,ikatan tunggal|n,koteng
+单一	nafsi,ahid,mempermudah|v
 单一化	mempermudah|v
-单一的	ahid,nafsi
-单位	kesatuan|n,satuan|n,unit|n,bahara,bilah|n,hun|n,jemba,mayam
-单位名	mayam
+单一的	nafsi,ahid
+单位	unit|n,satuan|n,kesatuan|n,hun|n,penjodoh bilangan|n
 单位数	penjodoh bilangan|n
 单位数词	penjodoh bilangan|n
 单位权	hun|n
+单元	kaleng|n,unit|n
 单剌	seruit
 单剌矛	seruit
-单地	secara ringkas,sepintas lalu
-单子	sekotilidon
-单子叶	sekotilidon
-单子叶植	sekotilidon
+单单	baru|adj,cuma|adv
+单子	rupa|n
 单子叶植物	sekotilidon
-单数	negaraku|n,sebatang|cls,secangkir|cls,seekor|cls,sehelai|cls,sepucuk|cls
-单曲	lading
-单曲刃	lading
-单曲刃大	lading
+单字	kalimah|n
+单放机	pemain|n
 单曲刃大刀	lading
-单洗	jelum,mandi berjelum
-单洗擦	jelum,mandi berjelum
-单洗擦身	jelum,mandi berjelum
 单洗擦身体	jelum,mandi berjelum
-单独	koteng,nafsi,tunggal|adj
-单独的	nafsi,tunggal|adj
-单的	bersahaja,ringkas,sempol|adj
+单独	tunggal|adj,koteng,nafsi
+单独的	tunggal|adj,nafsi
 单纯	melulu
 单纯的	melulu
 单色	polos
 单色的	polos
-单行	jalan sehala,sehala|adj
+单薄	kurus|adj
+单行	sehala|adj,jalan sehala
 单行路	jalan sehala
 单行道	sehala|adj
 单行道的	sehala|adj
+单词	kalimah|n
 单语	ekabahasa|adj
 单语的	ekabahasa|adj
 单足	kedidi
@@ -58,106 +52,48 @@
 单足独立	kedidi
 单身	sarjana muda|n
 单身汉	sarjana muda|n
-单轨	monorel|n
-单轨梁	monorel|n
-单轨铁	monorel|n
-单轨铁路	monorel|n
-单配	monogami|n
+单轨铁路单轨梁	monorel|n
 单键	ikatan tunggal|n
-呕	dugal,jeluak,jijik|adj,luah|v,luak|v,luat,luik,medu
+呕	luah|v,muntah|v,menjeluak
 呕出	luik
-呕吐	luah|v,menjeluak,muntah|v,uik
-呕吐的	uik
-呕吐的声	uik
+呕吐	luah|v,muntah|v,menjeluak
 呕吐的声音	uik
-啕	melolong
-孕	bunting,hamil|adj,kehamilan|n,kondom|n,mengandung|v,penanggalan|n,tian|n,wiladan
-孕套	kondom|n
-孕妇	penanggalan|n,tian|n,wiladan
-孕妇或	wiladan
-孕妇或产	wiladan
-孕妇或产妇	wiladan
-孕妇或产妇四	wiladan
-孕妇或产妇四五	wiladan
-孕妇或产妇四五月	wiladan
-孕妇或产妇四五月后	wiladan
-孕妇或产妇四五月后清	wiladan
-孕妇或产妇四五月后清洗	wiladan
-孕妇或产妇四五月后清洗腹	wiladan
-孕妇或产妇四五月后清洗腹部	wiladan
-孕妇或产妇四五月后清洗腹部之	wiladan
-孕妇或产妇四五月后清洗腹部之仪	wiladan
 孕妇或产妇四五月后清洗腹部之仪式	wiladan
-孕妇有	penanggalan|n
-孕妇有害	penanggalan|n
-孕妇有害的	penanggalan|n
-孕妇有害的女	penanggalan|n
-孕妇有害的女鬼	penanggalan|n
-孕妇的	tian|n
-孕妇的肚	tian|n
 孕妇的肚子	tian|n
-孕的	hamil|adj
-展	babar,bengkar,bentang|v,bidangkan,goyang|adj,igal,jelar,julur
+孕期	kehamilan|n
+展	pandangan|n,pampang|adj,mekar|v,tunjuk|v,bentang|v,terbentang|v,babar,memaparkan
 展出	pamer
-展开	babar,bengkar,bentang|v,bidangkan,memaparkan,membabarkan,pampang|adj,pentang
+展开	pampang|adj,bentang|v,babar,memaparkan,pentang,bidangkan,bengkar,membabarkan
 展开尾	igal
 展开尾毛	igal
 展望	pandangan|n,perspektif
 展期	menangguhkan
 展现	pampang|adj,terbentang|v
-展的	melung
-展示	memampangkan,mempertunjukkan,tunjuk|v,mengigal
+展示	tunjuk|v,memampangkan,mempertunjukkan,mengigal
 展示羽	mengigal
 展示羽毛	mengigal
 展翅	kirap,simpir
-展览	pamer,peraga,pameran,pertunjukan
-展览会	pameran,pertunjukan
-展閱	goyang|adj
-展閱讀	goyang|adj
+展览	peraga,pamer,pertunjukan,pameran
+展览会	pertunjukan,pameran
 展露	mekar|v
-幕	babak|n,paldu,perdah,skrin|n,kelir,kelubung,khemah|n,latar pentas|n
-幕截	tangkap layar|n
-幕截图	tangkap layar|n
-录	apendik|n,balak|n,berhadis|v,catan,catat,daftar|n,dokumentari|n,faharasat
-录像	videografi|n
-录像制	videografi|n
-录像制作	videografi|n
+幕	skrin|n,babak|n,paldu,perdah
+幕布	tirai|n
+录	rakam|v,merakam,pengambilan
 录取	pengambilan
-录片	dokumentari|n
-录音	merakam,rakam|v
-恕	ampun|n,menyergah,minta ampun,mohon|v,pengampunan,sergah
-恕喝	menyergah,sergah
-慕	berahi,panas hati
-捕	menangkap,bekuk,belantik,bubu|n,denak,jaring|n,jebak,kelong
-捕兽	belantik
-捕兽用	belantik
-捕兽用之	belantik
-捕兽用之有	belantik
-捕兽用之有弹	belantik
-捕兽用之有弹性	belantik
-捕兽用之有弹性捕	belantik
+录音	rakam|v,merakam
+恕	sergah,menyergah
+恕喝	sergah,menyergah
+捕	menangkap,racik,menjerat,bekuk,tembar,meracik,menyerkap,menyondong
 捕兽用之有弹性捕器	belantik
-捕器	belantik
-捕捉	bekuk,menjerat,jaring|n,merangkap
+捕捉	menjerat,bekuk
 捕老	sembat tikus
 捕老鼠	sembat tikus
 捕虾	menyondong,sondong
 捕虾网	sondong
-捕鱼	menyerkap,perikanan|n,tembar,bubu|n,kelong,lukah|n,temberam,tubin|n
-捕鱼用	kelong
-捕鱼用具	kelong
-捕鱼笼	bubu|n,lukah|n,temberam,tubin|n
-捕鲸	paus omura|n
-捕鸟	meracik,racik,denak,jebak,memikat,pulut|n
-捕鸟兽	denak
-捕鸟兽用	denak
-捕鸟兽用的	denak
-捕鸟兽用的小	denak
-捕鸟兽用的小动	denak
-捕鸟兽用的小动物	denak
-捕鸟用	pulut|n
-捕鸟用的	pulut|n
-捕鸟用的胶	pulut|n
+捕食者	pemangsa|n
+捕鱼	tembar,menyerkap,bubu|n,lukah|n,tubin|n,temberam
+捕鱼笼	bubu|n,lukah|n,tubin|n,temberam
+捕鸟	racik,meracik,jebak
 捕鸟用的胶汁	pulut|n
 捕鸟的	jebak
 捕鸟的笼	jebak
@@ -165,197 +101,98 @@
 捕鼠器	pencakup
 敕	bersabda,titah|n
 敕令	titah|n
-晕	ganar|adj,gelanggang bulan,kepala pusing|adj,keta|n,kuar|v,pengar,pengsan|v,pening|adj
-晕厥	keta|n,kuar|v,tau|v
-晕厥的	keta|n,kuar|v,tau|v
+晕厥	tau|v,keta|n,kuar|v
+晕厥的	tau|v,keta|n,kuar|v
 晕去	pengsan|v
-晕的	pengar
+晕死	pucuk|n
 晕眩	ganar|adj,kepala pusing|adj
 晕眩的	ganar|adj,kepala pusing|adj
-晕轮	gelanggang bulan
-棕	bertam,enau|n,hitam manis,ibus|n,ijuk|n,kabung|n,kelapa sawit,lahang
-棕榈	bertam,enau|n,ibus|n,ijuk|n,kabung|n,kelapa sawit,lahang,mayang
-棕榈之	bertam
-棕榈之一	bertam
+棕榈	palma|n,lahang,kelapa sawit
 棕榈之一种	bertam
-棕榈树	kelapa sawit,palma|n,kabung|n,lahang,nira,samir,serdang
-棕榈树之	serdang
-棕榈树之一	serdang
-棕榈树之一种	serdang
-棕榈树叶	samir
-棕榈树叶编	samir
-棕榈树叶编成	samir
-棕榈树叶编成之	samir
-棕榈树叶编成之屋	samir
+棕榈树	palma|n,kelapa sawit,lahang
 棕榈树叶编成之屋顶	samir
-棕榈树汁	nira
-棕榈树汁供	nira
-棕榈树汁供制	nira
-棕榈树汁供制糖	nira
-棕榈树汁供制糖用	nira
 棕榈树液	lahang
-棕榈的	ijuk|n,pelepah|n,ruyung|n
-棕榈的叶	pelepah|n
 棕榈的叶梗	pelepah|n
-棕榈的外	ruyung|n
 棕榈的外皮	ruyung|n
-棕榈的黑	ijuk|n
-棕榈的黑色	ijuk|n
-棕榈的黑色纤	ijuk|n
-棕榈的黑色纤维	ijuk|n
-棕榈科	ibus|n
-棕榈科树	ibus|n
-棕榈科树木	ibus|n
-棕榈科树木之	ibus|n
-棕榈科树木之一	ibus|n
 棕榈科树木之一种	ibus|n
-棕榈穗	mayang
-棕榈穗状	mayang
 棕榈穗状花	mayang
 棕褐	hitam manis
 棕褐色	hitam manis
 棕褐色的	hitam manis
-毕	bergraduasi|v,graduan|n,graduasi|n,khatam,langsai,lepasan,siswazah|n
-毕业	graduasi|n,khatam,bergraduasi|v,graduan|n,lepasan,siswazah|n
-毕业生	bergraduasi|v,lepasan,siswazah|n
-毕业的	graduan|n
-毕业的学	graduan|n
-毕业的学生	graduan|n
-法	ejaan baru,ejaan jawi,ragam,algoritma|n,amende|pron,anak halal,ape|pron,aturan
-法令	aturan,dekri|n
-法典	mufti|n
-法典学	mufti|n
-法典学者	mufti|n
-法则	namus
+毕	graduasi|n,khatam
+毕业	graduasi|n,khatam,bergraduasi|v,lepasan
+毕业生	bergraduasi|v,lepasan
+法	kaedah|n,mahkamah|n,hukum|n,ragam,perancis,perdata|n,bomoh|n,hakim|n
+法事	upacara|n
+法令	dekri|n,aturan
+法儿	cara|n
+法则	kanun|n
 法力	hikmat
-法发	amende|pron,ape|pron,camne|adv,cantek|adj,dok|v,kete|n,mende|adv,menderong|n
-法发音	amende|pron,ape|pron,camne|adv,cantek|adj,dok|v,kete|n,mende|adv,menderong|n
 法国	perancis
 法国的	perancis
-法学	hukama,metodologi|n,tatabahasa|n
+法子	cara|n
+法学	hukama
 法学家	hukama
-法官	hakim|n,pengadil,temenggung,mufti|n
-法定	badan berkanun,bawah umur
-法定年	bawah umur
-法定年龄	bawah umur
+法官	hakim|n,temenggung,pengadil
+法定	badan berkanun
 法定机	badan berkanun
 法定机构	badan berkanun
-法屋	setinggan
-法屋宇	setinggan
 法师	bomoh|n,gunawan
-法庭	mahkamah|n,mahkamah tentera|n,mahkamah tinggi
-法庭审	mahkamah tentera|n
-法庭审判	mahkamah tentera|n
+法庭	mahkamah|n
 法式	kaedah|n
-法律	aturan,hukum|n,hukuman,undang,undang-undang|n,mufti|n
-法律法	mufti|n
-法律法典	mufti|n
-法律法典学	mufti|n
-法律法典学者	mufti|n
-法无	undang-undang rimba|n
-法无天	undang-undang rimba|n
+法律	hukum|n,undang-undang|n,aturan,hukuman,undang
+法律责任	liabiliti|n
 法术	hobat
-法活	tegah|v
-法活动	tegah|v
 法理	mufti|n
 法理学	mufti|n
 法理学者	mufti|n
-法的	anak halal,esah,gramatis|adj,haram|adj,timu-timu
-法的子	anak halal
-法的子女	anak halal
-法西	fasis|n,fasisme|n
-法西斯	fasis|n,fasisme|n
-法西斯主	fasis|n,fasisme|n
-法西斯主义	fasisme|n,fasis|n
+法西斯主义	fasisme|n
 法西斯主义者	fasis|n
-法规	undang,kegramatisan|n
-法规则	kegramatisan|n
+法规	undang
+法门	cara|n
 法院	mahkamah|n,perdata|n
-燕	alit,burung layang-layang,cawi-cawi|n,layang-layang|n,lelayang|n,oat
+燕	lelayang|n,layang-layang|n,oat,alit,burung layang-layang
 燕卷	cawi-cawi|n
 燕卷尾	cawi-cawi|n
-燕子	alit,burung layang-layang,layang-layang|n,lelayang|n
+燕子	lelayang|n,layang-layang|n,alit,burung layang-layang
+燕梳	asuransi|n
 燕麦	oat
-瑕	cacat|n,nirmala|adj
+瑕	cacat|n
 瑕点	cacat|n
-瑕疵	nirmala|adj
-瑕疵的	nirmala|adj
-痕	bakat|n,bekas|n,bercalar,bilur,birat,calar,coreng,coreng-moreng
-痕的	coreng-moreng,lerang,moreng
-痕迹	bekas|n,jijak,kesan|n,menyusurgalurkan|v,runut|n,selarung
-硕	ijazah sarjana sains,ijazah sarjana sastera,kepurun,serampin,uba
-硕士	ijazah sarjana sains,ijazah sarjana sastera
-硕莪	kepurun,serampin,uba
-硕莪的	serampin
-硕莪的席	serampin
-硕莪粉	uba
-硕莪粉之	uba
-硕莪粉之大	uba
-硕莪粉之大桶	uba
+痕	bakat|n,bekas|n,kesan|n,runut|n,menyusurgalurkan|v,jijak,selarung
+痕迹	bekas|n,kesan|n,runut|n,menyusurgalurkan|v,jijak,selarung
+硕大	besau|adj,besar|adj
+硕大无朋	raksasa|adj
+硕莪	kepurun
 硕莪羹	kepurun
-糕	bika,bolu,dadar,dodol,gelamai,jeluari,juadah,kastard|n
-糕名	kuih bingka,gelamai
+磕膝盖	lutut|n
+糕	kue|n,juadah,penganan,kuih bingka
+糕名	kuih bingka
 糕点	kue|n
-糕饼	juadah,penganan,bika,jeluari,kuih
+糕饼	juadah,penganan,kuih,bika
 糕饼之	bika
 糕饼之名	bika
 糕饼的	kuih
-绕	belit|v,berbelit,berbelit-belit,bergelung,berkeliling,berkepung,galu,kelun
+绕	belit|v,saur
 绕住	saur
-绕着	melingkungi
-绕著	lingkung
-罕	abraham,berhadis|v,hadis|n,maulud,nadir,nadirat,pelik|adj,sayid
-罕之	nadirat
-罕之物	nadirat
 罕有	pelik|adj
 罕有的	pelik|adj
-罕的	nadir
-罕默	berhadis|v,hadis|n,maulud,sayid
-罕默德	berhadis|v,hadis|n,maulud,sayid
-罕默德后	sayid
-罕默德后裔	sayid
-罕默德后裔的	sayid
-罕默德后裔的阿	sayid
-罕默德后裔的阿拉	sayid
-罕默德后裔的阿拉伯	sayid
-罕默德后裔的阿拉伯人	sayid
-罕默德的	maulud
-罕默德的诞	maulud
-罕默德的诞辰	maulud
-罕默德的诞辰日	maulud
-罕默德言	berhadis|v,hadis|n
-罕默德言行	berhadis|v,hadis|n
-罕默德言行录	berhadis|v,hadis|n
-腕	diplomasi,hasta|n,pergelangan tangan|n
+腕	hasta|n
+腕子	pergelangan tangan|n
 腕尺	hasta|n
-處	petrol|n
-處理	petrol|n
-處理而	petrol|n
-裕	kaya-raya|adj,mampu|adj
-裕的	mampu|adj
-试	cubakan,aci-aci|n,batu uji,cuba|v,cubaan|n,gagal dalam peperiksaan,imtihan,mencuba
-试不	gagal dalam peperiksaan
-试不及	gagal dalam peperiksaan
-试不及格	gagal dalam peperiksaan
-试程	penyahpepijat|n
-试程序	penyahpepijat|n
+裕度	jidar|n
+试	cubakan,uji|v,cubaan|n,imtihan
 试金	batu uji
 试金石	batu uji
-试验	cubaan|n,cubakan,imtihan,uji|v
+试验	uji|v,cubaan|n,imtihan,cubakan
 铕	europium|n
-雕	memahat,berlian|n,mengukir,patung|n,seni pahat,ukir,ukiran
+铕铕	europium|n
+雕	memahat,patung|n,ukir,mengukir,seni pahat
 雕像	patung|n
 雕刻	mengukir,seni pahat,ukiran
 雕刻品	ukiran
+雕塑	arca|n
 雕工	ukir
-雕琢	berlian|n
-雕琢的	berlian|n
-雕琢的宝	berlian|n
-雕琢的宝石	berlian|n
-飕	besing,lecing
-飕声	lecing
-飕风	besing
-飕风声	besing
 飕飕	besing,lecing
 飕飕声	lecing
 飕飕风	besing

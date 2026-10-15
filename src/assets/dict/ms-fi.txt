@@ -1,19 +1,19 @@
 fi	fi	n	费用	fee
 fidah	fidah	n	银	silver (metal)
-fidzah	fidzah	n	两者择一
+fidzah	fidzah	n	两者择一	alternative form of fidah
 fiil	fiil	n	工作	work
 fikir	fikir	v	想 思考	thought
 fikiran	fikiran	n	思想	thought; mind (the faculty of thinking or the product of mental activity).
-fikiri	fikiri	v	同义词
+fikiri	fikiri	v	同义词	synonym of fikir (“to think”)
 fikirkan	fikirkan	v	考虑	to think about  to contemplate
 fikologi	fikologi	n	藻类学	phycology (study of algae)
 fiksyen	fiksyen	n	小说	fiction
-filam	filam	n	荒废的
+filam	filam	n	荒废的	obsolete spelling of filem
 filamen	filamen		影片，电影，底片
 filem	filem	n	软片	film
 filipina	filipina		菲律宾	Philippines (a country in Southeast Asia)
 filologi	filologi	n	语文学	philology (historical linguistics)
-filpen	filpen	n	音节主音 音节的
+filpen	filpen	n	音节主音 音节的	syllabic abbreviation of filem pendek
 filsafat	filsafat	n	哲学	philosophy (academic discipline)
 firasah	firasah		相术
 firasat	firasat		相术

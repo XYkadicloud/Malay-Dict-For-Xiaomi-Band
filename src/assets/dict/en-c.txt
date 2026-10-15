@@ -1,414 +1,392 @@
-cabbage	ibus|n,kubis|n
-cabin	kabin|n
-cabinet	ajaibkhanah|n,kabinet|n,madani
-cable	kabel|n,talian|n,type c|n
+cabbage	kubis|n
+cabbage palm	ibus|n
+cabinet of curiosities	ajaibkhanah|n
+cable	talian|n,tersandung|v
 cactus	kaktus|n
 cadmium	kadmium|n
 caesium	sesium|n
-cafe	cc|n
-cage	kurung|n
+cage	kurung|n,sangkar
 cairo	kaherah
-cajuput	gelam|n
+cajuput tree	gelam|n
 cake	kek|n
 calamine	kalamin|n
 calamity	bencana|n
-calamus	jerangau|n
 calcium	kalsium|n,zat kapur|n
-calculate	hitung-hitung|v,reken|v
-calculation	hitungan|n,penghitungkan|n,perhitungan|n
+calculation	hitungan|n,perhitungan|n,penghitungkan|n
 calculator	kalkulator|n,mesin kira|n
-calendar	kalendar|n,kalendar gregory|n,takwim gregory|n
+calendar	kalendar|n
 calf	betis|n
 californium	kalifornium|n
 caliph	khalifah|n
-call	bang|n,hai,hoi,laung|v,menelefon|v,mengabsen|v
 calm	tenang|adj,tenteram|adj
 caltrop	ranjau|n
 calumpang	kelumpang|n
 cambodia	kemboja
 camel	unta|n
 camera	kamera|n
-cameron	tanah tinggi cameron
-camna	camne|adv
+cameron highlands a hill station and district of pahang	tanah tinggi cameron
 camouflage	kamuflag|n,penyamaran|n
 camp	kem|n
-campaign	kampanye|n,kempen|n
+campaign	kempen|n,kampanye|n
 campfire	unggun api|n
-camphor	capa|n,kamfor|n
-can	boleh|v,dapat|v,kupi|n,malaysia boleh,tin|n,tong sampah|n
+camphor	kamfor|n
+campus grounds or property of a university or a tertiary	kampus
+can	tin|n,boleh|v,dapat|v
 canada	kanada
-canai	rotcai|n,roti canai|n
-canal	terusan|n
+canal	tebing|n,terusan|n
 cancer	barah|n,kanser|n
 candidate	calon|n
-candle	dian|n,lilin|n
+candle	lilin|n
 candlenut	kemiri|n
 candy	gula-gula|n
-cane	tebu|n,tongkat|n
-cangkir	secangkir|cls
+cane	tongkat|n
 canine	kanin|adj
 canker	kanker|n
-canniformis	bemban|n
-cannot	puteri lilin|n,takleh|v
+cannot	takleh|v
 canopy	rimbunan|n
 canter	ligas|n
-cantik	cantek|adj,chantek|adj,secantik|adj,tercantik
-cantonese	kantonis
+cantonese people	kantonis
 canyon	kanyon|n,ngarai|n
 capability	keupayaan|n
-capable	berkebolehan|adj,berupaya|v,sanggup|v
-capacity	budaya|n,kapasiti|n
-capap	capab|n,capub|n,mencapap|v
-capati	dicapati|v,mencapati|v
-cape	tanjung|n,tanjung harapan,tanjung verde
+capable	berkebolehan|adj
+capacity measure of ability to hold	kapasiti|n
+cape	tanjung|n
+cape of good hope	tanjung harapan
+cape verde	tanjung verde
 capillarity	kapilariti|n
 capillary	kapilari|n
-capital	balik pulau,hukuman mati|n,ibu kota|n,ibu negara|n,ibu negeri|n,laba modal|n
+capital and largest city malacca	melaka
+capital gain	laba modal|n
+capital kuala lipis	lipis
+capital kuala rompin	rompin
+capital punishment	hukuman mati|n
 capitalism	kapitalisme|n
-capitalist	kapitalis|n,pemodal|n
-cappella	a cappella|n,a kapela|n
-captain	kapitan|n,kapten|n,nakhoda|n
 caption	kapsyen|n
-captivate	pikat|v,tawan|v
-capture	tangkap|v,tawan|v
-car	gerabak|n,mat kereta|n,parkir|n,parkiran|n
+captivate	pikat|v
+car park	parkir|n,parkiran|n
+car railway carriage	gerabak|n
 carabao	benuang|n
 carapace	karapas|n
 carbon	karbon|n
-carbonate	hidrogen karbonat|n,karbonat|n,zink karbonat|n
+carbonate	karbonat|n
 carbuncle	bisul|n
 carburetor	karburetor|n
 carcass	bangkai|n
 carcinogen	karsinogen|n
 carcinogenic	karsinogenik|adj
-card	kad|n,kad debit|n,kad kredit|n,sat|adj
-cardinal	mata angin|n
+cardinal direction	mata angin|n
 cardiology	kardiologi|n
-care	asuh|v,endah|v,kasih|n,kisah|v,mempedulikan|v,peduli|v
-career	kerjaya|n
+care	kasih|n
 carefree	santai|adj
-careful	awas|v,berhati-hati,cermat|adj,curiga|adj
-carefully	belek|v
+careful	cermat|adj,curiga|adj,teliti
 carelessness	taksir|n
-caribbean	cuba|v
 caricature	karikatur|n
 caring	pemberi|adj
 carnival	karnival|n
 carnivore	karnivor|n
 carpet	babut|n,permaidani|n
 carriage	kereta|n
-carried	berdukung|v,dukungan|n,pawai|n
-carries	alas kubur|n,pendukung|n
 carrot	lobak merah|n
-carry	bawa|v,dukung|v,junjung|v,kendong|v,kepit|v,mengelek|v
-carrying	pendukungan|n
-cart	kereta|n,pedati|n
+carry	kendong|v
+cart	kereta|n
+cart small	pedati|n
 cartoon	kartun|n
-case	apa hal|adv,fasal|n,kalau|conj,kes|n,perkara|n,peti|n
-cash	bayar waktu terima|n,tunai|adj
+case	kes|n,peti|n,fasal|n,perkara|n
+cash	tunai|adj
+cash on delivery	bayar waktu terima|n
 cash-back	pulangan tunai|n
 cashew	gajus|n,janggus|n
 cashier	juruwang|n
 casino	kasino|n
 casket	long|n
 cassava	bandong|n,ubi kayu|n
-cassia	daun kupang|n,daun kurap|n,gelenggang|n
+cassia alata	daun kurap|n,gelenggang|n,daun kupang|n
 cassowary	kasuari|n
-cast	jala|n,lempar|v
+cast net	jala|n
 caste	kasta|n
-castle	astana|n,istana|n,puri|n,tir|n
-casuarina	cemara|n,eru|n
-cat	iau|n,kucing|n,kucing andes|n,kucing banjaran andes|n,kucing batu|n,kucing borneo|n
+castle	puri|n,astana|n,istana|n
+casuarina	eru|n,cemara|n
+cat	kucing|n
 cataclysm	bencana|n
 cataract	katarak|n
 catastrophe	bencana|n,malapetaka|n
-catatan	buku nota|n
-catch	hinggap|v,licin seperti belut|adj,menadah|v,nampak|v,tangkap|v
+catch	menadah|v
 catechu	kacu|n
-categorise	kategorikan|v
-categorizing	pengkategorian|n
+categorization	pengkategorian|n
 category	kategori|n
-caterer	jurusaji|n,katerer|n
+caterer	katerer|n,jurusaji|n
 catering	katering|n
 caterpillar	beluncas|n,ulat bulu|n
 cathode	katod|n
-cattle	lembu|n,sapi|n
-catuk	tercatuk|v
-catur	chator|num
-caught	kantoi|adj
-cauldron	belanga|n,kaldron|n,kancah|n,kawah|n,tahang|n
+cattle	sapi|n,lembu|n
+caught	ditangkap|v
+caught in the act	kantoi|adj
+cauldron	kawah|n,tahang|n,belanga|n,kaldron|n
 cauliflower	kubis bunga|n
 caulk	pakal|n
-causative	menggerekkan|v
-cause	kedutkan|v,kelupaskan|v,memalukan|v,menggalirkan|v,menyusur galur|v,peningkan|v
-causes	meyakinkan|adj
+causative benefactive of menggerek	menggerekkan|v
+cause to become wet nv make one's bed or clothes wet by	wet
+causes someone to be convinced	meyakinkan|adj
 causeway	koswe|n
-causing	mencurigakan|adj
-caution	curiga|adj
+causing suspicion	mencurigakan|adj
 cavalry	kavalri|n
-cavity	kaviti|n,kaviti abdomen|n,relung|n,rongga abdomen|n
-cease	berhenti|v
+cavity	kaviti|n
+cavity in a wall or structure	relung|n
 ceasefire	gencatan senjata|n
-cecair	cairan|n
-ceiling	siling|n,siling kaca|n
+ceiba pentandra	kapuk|n
+ceiling	siling|n
 celebration	perayaan|n
 celebrity	selebriti|n
-celery	saderi|n,seladeri|n
-celestial	falak|n
-cell	telefon bimbit|n
+celery	saderi|n
+celery the european variant	seladeri|n
+celestial sphere	falak|n
+cell phone	telefon bimbit|n
 cement	simen|n
 cemetery	perkuburan|n
-cemeti	dicemeti|v,mencemeti|v
-census	banci|n
 cent	sen|n
 centillion	sentilion|num
 centipede	lipan|n
-central	pasir panjang,republik afrika tengah,seringat
+central african republic	republik afrika tengah
+central region	pasir panjang
+central wood of a tree trunk	teras|n
 centralisation	sentralisasi|n
 centralization	sentralisasi|n
-centre	balai raya|n
-centuries	berabad-abad|n
-century	abad|n,kurun|n
-cerai-berai	berai|adj
+century	kurun|n
 ceramic	seramik|n
 cerebellum	serebelum|n
 cerebrum	serebrum|n
-ceremonies	pengacara|n
-ceremony	konvokesyen|n,upacara|n
-ceriops	tengar|n
-cerita	cereka|n,cerpen|n
+ceremony	upacara|n
+ceriops tagal	tengar|n
 cerium	serium|n
-certain	cubaan|n,mengabet|v,negeri antah-berantah|n,pasti|adj,pawai|n,si fulan
+certain	pasti|adj,suatu|det,tentu|adv,yakin|adj,beberapa|adj,tertentu|adj
 certainty	keyakinan|n
-cerutu	cerut|n
 cervix	serviks|n
-cetacean	paus paruh|n
-ceylon	sailan,selan
-chain	rangkaian bekalan|n,rantai|n
-chair	kerusi|n,kerusi rehat|n,kursi|n,stul|n,tandu|n
+ceylon	selan,sailan
+chain	rantai|n
+chair	stul|n,kerusi|n
+chair a distinguished professorship at a university	kursi|n
 chairperson	pengerusi|n
 chalet	chalet|n
-chamber	kamar|n
 chameleon	sumpah-sumpah|n
 champac	cempaka|n
 champagne	champagne|n
 champion	juara|n,pemenang|n
 championship	kejohanan|n
-chance	can|n
+chance	can|n,terlepas|v
 chancellor	canselor|n
-change	bersalin|v,berubah|v,perubahan iklim|n,salin|v,tukar|v,tukar langkah|n
-changing	bilik acu|n
-changlun	changlun
+change step	tukar langkah|n
+changing room	bilik acu|n
+changlun a town in kubang pasu district	changlun
 channel	saluran|n
 chaos	kemelut|n
+chaotic	kacau
 chapter	bab|n,babak|n
-character	akhlak|n,aksara|n,perangai|n,teta|n,watak|n
-characteristic	kekotaan|adj,nasional|adj
-charcoal	abnus|n,arang|n
-charge	biaya|n,bos|n,caj|n,cas|n,gratis|adj,meluru|v
+character	watak|n,akhlak|n,aksara|n,perangai|n
+charasmatic young woman wh	zariah
+charcoal	arang|n
+charge	caj|n,cas|n,biaya|n,meluru|v
 charity	sedekah|n
 charm	afsun|n,pikat|v,pukau|n
 chart	carta|n
-chase	kejar|v
-chasing	kus
-chaste	legundi|n
-chat	beka|n,berbual|v,berkata-kata|v,bual|n,obrol|v,perbualan|n
-chatter	berkicau|v
+chat	beka|n,bual|n,perbualan|n
 chauffeur	sais|n
 chauvinism	cauvinisme|n
 chauvinist	cauvinis|n
 chayote	labu siam|n
 cheap	murah|adj
 cheapskate	kedekut|adj
-cheat	ponteng|v
-check	uji|v
-checkers	dam|adj
 checkmate	syahmat
 cheek	pipi|n
 cheeky	mua|adj
-cheer	sorak|v
 cheese	keju|n,panir|n
 cheetah	citah|n
-chemical	sebatian kimia|n
+chemical compound	sebatian kimia|n
 chemistry	kimia|n
+chemistry diffusion of molecules through a sem	osmosis
 chempedak	cempedak|n
 cheongsam	ceongsam|n
-chess	bidak|n,buah catur|n,piadah|n,pion|n
-chest	bengik|adj,dada|n,peti|n
-chestnut	pipit rawa|n
+chest	dada|n,peti|n
+chestnut munia	pipit rawa|n
 chevrotain	kancil|n,pelanduk|n
-chew	kunyah|v,mamah|v
 chewstick	kayu sugi|n
 chick	awek|n
-chicken	ayam|n,ayam goreng|n,ayam katik|n
-chickenpox	abilah|n
+chicken	ayam|n
+chicken pox a common childhood disease caused	cacar air
 chicory	cikori|n
-chief	hulubalang|n,ketua|n,penghulu|n,tua-tua|n
-child	alang|n,anak alang|n,anak angah|n,anak emas|n,anak haram|n,anak hitam|n
+chief	tua-tua|n,penghulu|n
+chief of a troop	hulubalang|n
+child	bocah|n,budak|n,kanak|n
 child-in-law	menantu|n
-children	anak-anak|n,kanak-kanak|n,masak-masak|n
+children	anak-anak|n,kanak-kanak|n
+children's game of playing at being a cook with toy utensils	masak-masak|n
 chile	cili|n
+chili the pungent	cabai
 chilli	cili|n
 chimpanzee	cimpanzi|n
 chin	dagu|n
-china	china,republik rakyat china
-chinese	aboi|n,amoi|n,boi|n,cainis|n,chin,cina
-chip	kerepek kentang|n,serpih|n
-chipmunk	tupai belang|n,tupai kecil|n
-chips	tatal|n
-chirp	kicau|n
+china	china
+chinese	tionghoa|adj
+chinese chaste tree	legundi|n
+chinese girl	amoi|n
+chinese imported crude borax for batik and metal works	pijar|n
+chinese new year	tahun baru cina
+chinese people	cina
+chinese plum	boi|n
+chip	serpih|n
+chipmunk	tupai kecil|n,tupai belang|n
 chisel	pahat|n
 chive	kucai|n
-chloride	hidrogen klorida|n,zink klorida|n
 chlorine	klorin|n
 chocho	labu siam|n
-chocolate	coklat|n,milo|n
+chocolate	coklat|n
+chocolate milk specifically milo's brand	milo|n
 choice	pilihan|n
-choose	pilih|v
-chooses	pemilih|n
-chop	cincang|v,kerat|v,tetak|v
-chopping	landas cencang|n
+chopping board	landas cencang|n
 chopstick	penyepit|n
 chordophone	kordofon|n
 chow	anjing chow|n
-christ	iesu christi
-christian	alkitab
-christianity	kristian,masihi|adj,nasrani,serani
-chromate	zink kromat|n
+christianity	serani,nasrani,kristian
+christmas	krismas
 chromium	kromium|n
 chronic	kronik|adj
 chronicle	babad|n
 chronology	kronologi|n
 chrysalis	kepompong|n
 chrysanthemum	kekwa|n
-chrysemys	abau|n
+chrysemys picta	abau|n
 chubby	montel|adj,montok|adj
-chuckle	ketawa|v
-chukai	chukai
+chukai a town	chukai
 church	gereja|n
-cicada	reriang|n,riang-riang|n
-cicit	cicit-cicit
+churches etc	genta|n
+cicada	reriang|n
 cigar	cerutu|n
-cigarette	koktang|n,rokok|n,sigaret|n
-cik	cik|n
 cilantro	daun ketumbar|n
-cimb	bank sotong
 cinema	pawagam|n
-cinematographic	syot|n
 cinematography	sinematografi|n
 cinnamon	kayu manis|n,kulit kayu manis|n
-circular	bulat|adj,bundar|adj,bundaran|n,membulat|v,membundar|v
+circular	bundar|adj
+circular plate	cakera|n
 circumcision	sunat|n
+circumstances	faktor
 circus	sarkas|n
-cities	bandaran|adj,perbandaran|adj
-citizen	rakyat|n,warganegara|n
-citizens	kerakyatan|adj
+cities	padang|n
+citizen	warganegara|n
 citizenship	kewarganegaraan|n
-citratus	serai|n
 citrus	sitrus|n
-city	bandar|n,bandar raya|n,bentong,budak bandar|n,cyberjaya,ibu negara|n
+city	bandar|n
+citylike	kekotaan|adj
 civet	musang|n
-civil	perang saudara|n,pertahanan awam|n
-civilised	masyarakat madani|n
-civilization	peradaban|n,tamadun|n
-claim	mengaku|v
-claiming	tacod
-clam	kepah|n,kima|n,lala|n,lokan|n,pegoh|n,remis|n
+civil defence british	pertahanan awam|n
+civil defense	pertahanan awam|n
+civil war	perang saudara|n
+civilised society	masyarakat madani|n
+civility	adab|n
+civilization	tamadun|n,peradaban|n
+clam	kepah|n
 clamour	hingar|n
 clan	puak|n
-clap	tepuk|v
-clarification	penjelasan|n
-clarifies	penjelas|n
-clarify	perjelas|v
-clarity	kejelasan|n,kenyaringan|n
-class	fly|v,kelas|n,kesedaran kelas|n
+clarity	kejelasan|n
+clarity the ability to be easily understood	kenyaringan|n
+class	kelas|n
+class consciousness	kesedaran kelas|n
+class or thing	isim|n,nama|n
 classic	klasik|adj
 classical	klasik|adj
 classification	pengelasan|n
-classifier	cebis|cls,keping|cls,lingkar|cls,penjodoh bilangan|n
+classifier	penjodoh bilangan|n
+classifier for coiled objects such as ropes	lingkar|cls
+classifier for small	cebis|cls
+classifier for thin	helai|cls,keping|cls
 classmate	rakan sekelas|n
 claw	cakar|n,sepit|n
-clean	bersih|adj,mencuci|v,suci|adj
-cleanse	membersihkan|v
-clear	berjelas-jelas|v,jelas|adj,jernih|adj,kejelasan|n,tajak|v
-clearer	menyatakan|v
-clearly	sejelas-jelasnya|adv
+clean	suci|adj,bersih|adj
+clear	jelas|adj,jernih|adj
+cleared of branches	batang|cls
 cleavage	lurah dada|n
 clerk	kerani|n
 clever	bijak|adj,pandai|adj,piawai|adj,pintar|adj
-client	klien|n
-cliff	cenuram|n
-climate	cuaca|n,iklim|n,perubahan iklim|n
-climb	panjat|v
-climber	banar|n
-climbing	memanjat|n,puyu|n
-cling	lekat|v
+cliff vertical rock face	cenuram|n
+climate	cuaca|n,iklim|n
+climate change	perubahan iklim|n
+climbing	memanjat|n
+climbing gourami	puyu|n
+climbing perch	puyu|n
 clinic	klinik|n
 clinical	klinikal|adj
 clinician	klinisian|n
-clipping	astaga,astakona|adj,cyber,dah|adv,insta,pat|num
+clipping of astaghfirullah	astaga
+clipping of berastakona	astakona|adj
+clipping of cyberjaya	cyber
+clipping of empat	pat|num
+clipping of harimau	rimau|n
+clipping of instagram	insta
+clipping of sudah	dah|adv
 clitoris	kelentit|n
-clock	genta|n
 clod	gumpal|cls
-close	bagai aur dengan tebing,dekat|adj,kejam|v,member|n,menutup|v,pejam|v
+close	dekat|adj,rapat|adj
+close friend	sahabat|n
+close together	bagai aur dengan tebing
 close-fisted	kedekut|adj
-closure	hartal|n
-cloth	kain|n,kemban|n
-clothes	bundle|n,pakaian|n,perlak|n
-clothing	pakaian|n
-cloud	abal|n,awan|n,mendung|n
-clouded	harimau akar|n,harimau dahan|n
-clown	badut|n,membadut|v,pelawak|n
+cloth	kain|n
+cloth tied above the bosom	kemban|n
+clothes	pakaian|n,labuhkan|v
+clothes etc	daki|n
+clothes sold in the thrift store	bundle|n
+clothing	sendat|adj,pakaian|n
+clothing of distinctive design worn by members of a parti	uniform
+cloud	abal|n,awan|n
+clouded leopard	harimau akar|n,harimau dahan|n
+clown	badut|n,pelawak|n
 clownfish	ikan badut|n
 club	kelab|n
-clubber	kaki disko|n
-clubbing	mat disko|n
-clumsy	canggung|adj,ceroboh|adj
-cluster	kluster|n
-clutch	cekak|v,klac|n
+clump	rumpun
+clumsy	ceroboh|adj,canggung|adj
+cluster a group of plants growing closely togethe	rumpun
+clutch	klac|n
 co-parent-in-law	besan|n
 co-parents-in-law	besan|n
-coach	jurulatih|n,koc|n,pelatih|n
-coal	arang|n,bara|n
-coarse	kasar|adj
+coach	pelatih|n,jurulatih|n
+coal	arang|n
+coarse to the touch	kasar|adj
 coast	darat|n,pantai|n
-coat	jata|n,labur|v,lamina|n,penyangkut baju|n
+coat hanger	penyangkut baju|n
+coat of arms	jata|n
+coat of mail	lamina|n
 cobalt	kobalt|n
-cobra	tedung|n
 cockatoo	kakaktua|n
-cockblock	potong stim|v
 cockle	kerang|n
-cockroach	cecunguk|n,kepuyuk|n,lipas|n
+cockroach	lipas|n,kepuyuk|n,cecunguk|n
 cockscomb	balung|n
 cocksucking	hisap batang|n
-coconut	batok|n,kelambir|n,kelapa|n,nyiur|n,santan|n
+coconut	nyiur|n,kelapa|n,kelambir|n
+coconut milk	santan|n
+coconut shell	batok|n
 cocurriculum	koku|n
 cod	bayar waktu terima|n
-code	kanun|n,kod hasad|n,poskod|n
+code	kanun|n
 coexistence	koeksistensi|n
-coffee	duit kopi|n,kahwa|n,kedai kopi|n,kopi|n,kopi o|n,kopitiam|n
-coffin	keranda|n,larung|n,long|n
+coffee	kopi|n,kahwa|n
+coffee money	duit kopi|n
+coffee served with sugar but no milk	kopi o|n
+coffee shop	kopitiam|n,kedai kopi|n
+coffin	long|n,larung|n
 cohesiveness	keselesaan|n
-coil	belit|v,gegelung|n,gelung|n,lingkaran ubat nyamuk|n
-coiled	lingkar|cls
-coin	bunduki|n,fulus|n
+coil	gelung|n,gegelung|n
 coincidentally	kebetulan|adv
 coitus	ampek|n
-coix	jelai|n
-coklat	cokelat|n
-cold	dingin|adj,sejuk|adj,sejuk macam air batu|adj
-collapse	roboh|v,runtuh|v
-collar	kolar|n
-collect	langgam|v,pungut|v
-collected	serak|n
+coix lacryma-jobi	jelai|n
+cold	sejuk|adj,dingin|adj
+cold as ice	sejuk macam air batu|adj
+collar of a shirt	kolar|n
+collected	tenang|adj
+collected phlegm after coughing	serak|n
 collection	kelompok|n
 collective	kolektif|adj
 collectivism	kolektivisme|n
 collectivity	kolektiviti|n
-college	maktab|n
+college	maktab|n,sekolah tinggi|n
 collision	perlanggaran|n
-colloquial	ni|det
-colocasia	keladi|n
+colloquial form of ini	ni|det
 cologne	kelonyor|n
 colombia	colombia
 colonialism	kolonialisme|n
@@ -416,380 +394,327 @@ colonised	terjajah|v
 colonization	kolonisasi|n,penjajahan|n
 colonizer	penjajah|n
 colony	jajahan|n
-color	buta warna|n
-colorful	pelangi|adj,warna-warni|adj
-colour	kerbing|adj,rona|n,warna|n
+color blindness	buta warna|n
+colorful	warna-warni|adj
+colorful possessing prominent and varied colors	pelangi|adj
+colour	rona|n,warna|n
 coloured	bercat|adj
-colourless	abiad|adj
+column	tiang|n
 comb	sikat|n
-combatant	kafir harbi|n
-come	apa pasal|adv,berasal|v,datang|v,jom,lungsur|v,mai|v
+come on	jom
 comedian	pelawak|n
 comedy	komedi|n
-comes	sambut|v,tarik|v
-comet	bintang berekor|n,komet|n
+comet	komet|n,bintang berekor|n
 comfort	keselesaan|n
 comforted	lega|adj
 comic	komik|n
-coming	pancuran|n
 command	perintah|n
 commander	panglima|n
 commandment	titah|n
-commencement	awal|adj,konvokesyen|n
-commenters	geng bawang|n
-commersonia	nilau|n
-commission	komisen|n,komisi|n,suruhanjaya|n
-commit	bunuh diri|v,kaki ragut|n
+commencement	awal|adj
+commencement or graduation ceremony	konvokesyen|n
+commersonia bartramia	nilau|n
+commission	komisi|n,komisen|n,suruhanjaya|n
 commitment	iktizam|n
 committed	komited|adj
-committee	berjawatankuasa|v,jawatankuasa|n
+committee	jawatankuasa|n
 commodity	komoditi|n
-common	kata nama am|n,mengkuang|n,paus tombak|n
-commoner	jelata|adj,marhaen|n
-commonly	sepunya|adj
+common	sepunya|adj
+common noun	kata nama am|n
+commoner	marhaen|n
+commonly or done by two or more things or people	sepunya|adj
 commonplace	lumrah|adj
+commonwealth	pertahanan awam|n
+commonwealth the commonwealth of nations	komanwel
 communication	komunikasi|n
-communism	faham komunis|n,komunisme|n
-communist	komunis|n
-community	balai raya|n,kaum|n,komuniti|n,umat islam|n,ummah|n
+communism	komunisme|n,faham komunis|n
+community	kaum|n,ummah|n,komuniti|n
+community centre	balai raya|n
 compact	padat|adj
-company	bersama-sama|adv,kompeni|n,sendirian berhad|n,syarikat|n
 comparison	banding|n
 compartment	kompartmen|n
-compartmented	cerakin|n
-compass	mata angin|n,pedoman|n
-compasses	jangka lukis|n
-compatible	selaras|adj
-compel	paksa|v
-compete	adu|v
-complaint	dakwa|n,rungutan|n
-complete	komplit|adj,lengkap|adj,selesai|v,sempurna|adj
+compass	pedoman|n
+compass point	mata angin|n
+compassion	belas kasihan
+compatible	padan|adj,selaras|adj
+complaint	ah|part,dakwa|n,rungutan|n
+complete	komplit|adj,lengkap|adj,sempurna|adj
 completed	habis|v,sudah|adv,tamat|adj
-completely	mesra|adj
-complex	kompleks|n,rumit|adj
+completely	serba
+completely destroyed e	ranap
+completely incorrect or flawed	serba salah|adj
+completely mixed	mesra|adj
+complex	rumit|adj,kompleks|n
 complicated	rumit|adj
-complying	standardisasi|n
 composed	tenang|adj
-composer	komposer|n
-composes	komposer|n
-compound	sebatian kimia|n
+composer one who composes	komposer|n
+compound	kayu|n
 comprehensive	komprehensif|adj
-comprise	liput|v
 compulsorily	sewajibnya|adv
-computation	penghitungkan|n,perhitungan|n
-computer	komputer|n,sains komputer|n
+computation	perhitungan|n,penghitungkan|n
+computer	komputer|n
+computer science	sains komputer|n
 computerisation	komputerisasi|n
 computerization	komputerisasi|n
-comrade	komrad|n,sobat|n
-concave	tempurung|n
-conceal	pendap|v
+comrade	sobat|n
+concave body of something	tempurung|n
 concealment	buni|n
-concentrate	tumpu|v
-concentrated	tertumpu|v
 concentric	konsentrik|adj
-concept	konsep|n
-conception	wawasan|n
-concern	peduli|v
+concern	kebimbangan
+concerned feeling fear or unease about	bimbang
 concerning	peri|n,tentang|prep,terhadap|prep
+concluded	tamat|adj
 conclusion	akhir|adj,kesimpulan|n
+conclusion a conclusion or resolut	keputusan
 conclusive	muktamad|adj
 conclusiveness	kemuktamadan|n
-concrete	konkrit|adj,niskala|adj
+concrete	konkrit|adj
 concurrent	serentak|adj
 condensation	pemeluwapan|n
-condiment	belacan|n,perencah|n
-condition	insolvensi|n,ketakmampuan bayar|n,keterlarutan|n
-conditioner	penyaman udara|n
+condiment	perencah|n
+condition of being soluble	keterlarutan|n
 condolence	takziah|n
 condom	kondom|n
-conduct	memimpin|v
-conduction	haba|n,konduksi|n
+conduct	tingkah
+conduction	konduksi|n
 conductivity	kekonduksian|n
 conductor	konduktor|n
 confection	gula-gula|n
 confident	yakin|adj
 confidential	rahsia|adj
-confirm	mengesahkan|v
-confirmation	fuyoh
 conflagration	kebakaran|n
-conflict	konflik|n
+conflict	konflik|n,tenteram|adj
 confluence	kuala|n
 confounding	pelik bin ajaib|adj
-confront	mendada|v
-confused	ganar|adj,kekeliruan|n,keliru|adj
-confusion	kebingungan|n,kekeliruan|n
+confused	ganar|adj,keliru|adj,kacau
+confusion	kekeliruan|n,kebingungan|n
 congee	bubur|n
 congestion	kesesakan|n
-congo	republik congo
-congratulate	tahniah|v
 congregation	jemaah|n
 conifer	konifer|n
 conjunction	kata hubung|n,kata penghubung|n
-conjunctive	bahawa|conj
-connect	cantum|v,hubung|v,sambung|v
-connected	relatif|adj
+conjunctive that	bahawa|conj
+connected to or depending on something else	relatif|adj
 connection	hubungan|n,perhubungan|n
-conquer	tawan|v
 conquest	fatah|n
 conscientious	prihatin|adj
 conscious	sedar|adj,siuman|adj
-consciousness	kesedaran|n,kesedaran kelas|n,kesedaran palsu|n,pengsan|v
+consciously or unconsciously	terasa|v
+consciousness	kesedaran|n
 consensus	muafakat|n
-consent	berkenan|v
 consequence	akibat|n
 conservative	konservatif|adj
-consider	mencontohkan|v
-considered	slanga|n
 consistent	selaras|adj
-consisting	tribahasa|adj
-consonant	bunyi mati|n,huruf benar|n,huruf mati|n,konsonan|n
-consonants	labial|adj
+consisting of	tribahasa|adj
+consists of severa	sari
+consonant	konsonan|n,bunyi mati|n,huruf mati|n,huruf benar|n
 conspiracy	konspirasi|n
 constable	konstabel|n
 constant	pemalar|n
 constellation	buruj|n
 constituting	rasis|adj
-constitution	perlembagaan|n,piagam|n
+constitution	piagam|n,perlembagaan|n
 constrained	bengik|adj
-constructing	pembelanjawanan|n
-consumer	indeks harga pengguna|n,pengguna|n
+consumer	pengguna|n
+consumer price index	indeks harga pengguna|n
 consumerism	kepenggunaan|n
-contain	berbateri|adj,berikan|v,beriklan|v,berisi|v,berlosen|v,beroksigen|v
-container	kontena|n,limas|n
-containing	gulai|n,kosong|adj,tribahasa|adj
+containing	tribahasa|adj
+containing abdominal organs	kaviti abdomen|n,rongga abdomen|n
+containing an error or mistake	salah|adj
 contamination	pencemaran|n
-contemplate	fikirkan|v
 contemplation	renungan|n
-contemporary	kontemporari|adj
-contempt	mak kau hijau
-content	bahagia|adj,bahagiakan|v
-contest	adu|v
+contemporary	semasa|adj,kontemporari|adj
 context	konteks|n
-continent	benua|n,tanah raya|n
+continent	tanah raya|n
 continental	kebenuaan|adj
-continents	kebenuaan|adj
 contingent	kontinjen|n
 continuance	keselanjaran|n
-continue	lanjutkan|v,meneruskan|v,menyambung|v,teruskan|v
+continue	teruskan|v
 continuity	keselanjaran|n
 continuous	lanjut|adj
-contoh	mencontoh|v
-contraction	mau|v,nak|prep,oleh itu|conj
-contrary	lawan|n,sebaliknya|adv
-contribute	sumbang|v
+contract	luput|adj
+contraction of hendak to	nak|prep
+contraction of mahu	mau|v
+contraction of muhammad	muhd
+contraction of oleh sebab itu	oleh itu|conj
+contrary	lawan|n
 contribution	pemberian|n,sumbangan|n
-control	daerah|n,kontrol|n,menguasai|v
-controversy	kontroversi|n,polemik|n
+control	kontrol|n
+controlled-access highway	lebuh raya|n
+controversy	polemik|n,kontroversi|n
 contusion	lebam|n
-convenience	kedai serbaneka|n,keselesaan|n
+convenience	keselesaan|n
+convenience store	kedai serbaneka|n
 convent	konven|n
-convention	konvensyen|n,tatasusila|n
+convention	konvensyen|n
 conversation	bual|n,perbualan|n
-converse	berbual|v
-convert	islamkan|v,masuk islam|v
-converted	mualaf|n
-conviction	keyakinan|n,pegangan|n,sabitan|n
-convinced	meyakinkan|adj
-coo	kukur|n
-cooing	kukur|n
-cook	cef|n,goreng|v,ketua jurumasak|n,masak|v,tanak|v
-cooked	nasi|n
-cooker	periuk nasi|n
-cookie	cecikut|n,kuki|n
-cooking	air tangan|n,belanga|n
+conviction	sabitan|n,pegangan|n,keyakinan|n
+convinced having no doubt	yakin|adj
+convincing	meyakinkan|adj
+cooked	dimasak|v
+cooked rice	nasi|n
+cookies or pastry	kuih
+cooking or dish made by somebody's hard work	air tangan|n
+cooking vessels	belanga|n
 cool	keren|adj
-cooling	pendingin|n
-coop	reban|n
+coop an enclosure made of wire	sangkar
 cooperation	kerjasama|n
+cooperation by members of a community to achieve a common	gotong-royong
 cop	polis|n
 copenhagen	kopenhagen
 copernicium	kopernisium|n
-copper	fulus|n,kuprum|n,pahar|n,tembaga|n
-copulate	ayut|v,kongkek|v
-copy	mencontohi|v
-copyright	hak cipta|n,pencabulan hak cipta|n
-coral	batu karang|n,dedap|n,karang|n,terumbu karang|n
-cordial	bancau|n,bandung|n
+copper	kuprum|n,tembaga|n
+copper coin	fulus|n
+copyright	hak cipta|n
+copyright infringement	pencabulan hak cipta|n
+coral	karang|n,batu karang|n
+coral reef	terumbu karang|n
+coral tree	dedap|n
+cord or rope	jaring|n
 cordite	kordit|n
-core	jantung hati|n,punat|n,teras|n
+core	teras|n
+core of a boil	punat|n
 corgi	anjing corgi|n
 coriander	ketumbar|n
 cork	sumbat|n
 corn	jagung|n
 cornea	kornea|n
-corned	konbif|n
-corner	juru|n,penjuru|n,sudut|n,zawiat|n
+corned beef	konbif|n
+corner	sudut|n,zawiat|n
 corona	korona|n
 coronavirus	koronavirus|n
 coroner	koroner|n
 corps	kor|n
-corpse	jenazah|n,mayat|n
+corpse	mayat|n,jenazah|n
 corral	kubu|n
-correct	betul|adj,membetulkan|v
-correctly	pelat|n
-corrupt	korup|adj,koruptor|n
-corrupter	koruptor|n
-corruption	korapsyen|n,korupsi|n
+correct	betul|adj
+corrupt	korup|adj
+corruption	korupsi|n,korapsyen|n
 corvee	kerah|n
-cosmetic	pupur|n
-cost	biaya|n,kos|n
+cosmetic powder	pupur|n
+cost	kos|n,biaya|n
 costly	mahal|adj
+cottage	pondok|n
 cotton	kapas|n
 coucal	bubut|n
 couch	amben|n
-cougar	kugar|n,puma|n
-cough	batuk|v
+cougar	puma|n,kugar|n
 council	majlis|n
-counsel	nasihat|v
-counseling	kaunseling|v
-counselor	kaunselor|n
-count	hitung|v,kira|v
-counter	bungkus|cls,kaunter|n,penghitung|n
+counter	kaunter|n
+counter for wrapped or packaged objects	bungkus|cls
 counterbalance	imbang balas|n
-counterbalancer	pengimbang balas|n
+counterbalancer one who	pengimbang balas|n
 counterbalances	pengimbang balas|n
 counterculture	budaya tentangan|n
 counterpoise	imbang balas|n
 counting	hitungan|n
-country	balad|n,desa|n,kerakyatan|adj,negara|n,negara dolar|n
-counts	penghitung|n
-coup	kudeta|n,rampasan kuasa|n
+country	desa|n,balad|n,negara|n
+coup d' tat	kudeta|n,rampasan kuasa|n
 couple	pasang|num
 coupon	kupon|n
 courage	keberanian|n
-course	sudah tentu|adv
-court	mahkamah|n,mahkamah tentera|n,medan selera|n
+court	mahkamah|n
+court martial	mahkamah tentera|n
 courteous	sopan santun|adj
 courtesy	budi|n
 courtyard	laman dalam|n
 cousin	sepupu|n
-cover	liput|v,sampul|n,sarap|v,selubung|n,ulas|n
-covered	berdebu|adj
-covering	sarung|n
-cow	jawi|n,uak|n
+cover	ulas|n,sampul|n,selubung|n
+covered with dust	berdebu|adj
 coward	penakut|n,pengecut|n
 cowboy	koboi|n
-cownose	pari bendera|n,pari susun|n
+cownose ray	pari susun|n,pari bendera|n
 coyote	koyote|n
-crab	belangkas|n,kepiting|n,ketam angin|n,ketam bunga|n,ketam nipah|n,ketam rebab|n
-crack	belah|n
-crackers	keropok udang|n
+crab	kepiting|n
+crack	celah|n
 craftsman	tukang|n
-cramp	ganjat|v
 cramped	sempit|adj
-crave	idam|v
-craving	kempunan|adj
-crawl	merangkak|v
 crawling	rangkak|n
 crazy	biul|adj,gila|adj,masuk air|adj
-cream	aiskrim|n,krim|n
+cream	krim|n
 crease	kedut|n
-creases	berkedut|v
-create	bekaskan|v,bikin|v,buat|v,cipta|n,membuat|v,mencipta|v
+create	reka|v,bikin|v
 creativity	kreativiti|n
 creator	pencipta
-creature	binatang|n,makhluk|n
-credibility	kebolehpercayaan|n,kredibiliti|n
-credit	kad kredit|n
+creature	makhluk|n,binatang|n
+credibility	kredibiliti|n,kebolehpercayaan|n
+credit card	kad kredit|n
 creep	merangkak|v
 creepy	seram|adj
-crescent	bulan sabit|adj,bulan sabit merah
+crescent shaped like a crescent	bulan sabit|adj
 crevice	celah|n
 cricket	cengkerik|n
 crime	jenayah|n
 criminal	penjenayah|n
 criminality	kriminaliti|n
-criminals	geng|n
 crisis	krisis|n
-crisp	kerepek kentang|n
 crisps	kerepek|n
 crispy	garing|adj
 critical	kritikal|adj
-criticism	muka papan|adj
 croatia	croatia,kroasia
-crocodile	buaya|n
 cronyism	kronisme|n
-crooked	bengkong|adj,lok|adj
-croon	ulit|v
-crop	tanaman|n,timbul|v
-cross	regat|v,salib|n
-cross-legged	bersila panggung|v,duduk bersila|v,duduk bersilang kaki|v,duduk bertindih lutut|v
-crossbar	palang|n,sengkar|n
+crooked	lok|adj,bengkong|adj
+crop	tanaman|n
+cross	salib|n
+cross-seat	sengkar|n
+crossbar or thwart in a boat	sengkar|n
 crossbeam	palang|n
-crosseyed	juling|adj
-crossing	persilangan|n
-crosspiece	palang|n
+crosseyed having both eyes oriented inward	juling|adj
+crossing an intersection where roads	persilangan|n
+crosspiece or bar	palang|n
 crosswise	lintang|adj
 crotch	pukang|n
-crow	bubut|n,gagak|n
-crowd	hurung|v
+crow	gagak|n
+crow pheasant	bubut|n
 crowded	gegak|adj,ramai|adj
 crown	mahkota|n
 crucifixion	penyaliban|n
-crude	pijar|n
 cruel	zalim|adj
 cruelty	kekejaman|n
 cruise	persiaran|n
 crumb	serdak|n
 crush	lumat|adj,tindas|v
 crust	kerak|n
-cry	menangis|v,tangis|v
-cub	becat|n
-cuba	cuba|v
+cuba a country	cuba|v
 cube	kubus|n
-cubic	cupak|n
 cubit	hasta|n
-cucu	cucu laki-laki cucu|n
-cucuk	cocok|v
-cucumber	mintuna|n,teripang|n,timun|n,timun laut|n
+cucumber	timun|n
 culinary	kulinari|adj
 cult	kultus|n
-cultivate	gembur|v
-cultivated	kulur|n
-cultural	istiadat|n
-culture	budaya pop|n,budaya songsang|n
+cultural customs	istiadat|n
 cumin	jintan|n
 cunt	pundek|n
-cup	cangkir|n,cawan|n,cekup|v
-cupboard	almari|n,gerobok|n,lemari|n,sarah|n
-curb	menguasai|v
+cup	cawan|n,cangkir|n
+cupboard	sarah|n,almari|n,lemari|n,gerobok|n
 curd	dadih|n
-cures	syifa|n
 curettage	kuretaj|n
-curi	mencuri|v
-curi-curi	mencuri-curi|adv
-curiosities	ajaibkhanah|n
 curium	kurium|n
-curl	gulung|v
-curled	tunduk udang|n
 curly	pepuah|adj
-currency	syiling|n
 current	arus|n,kini|adj,terkini|adj
-curry	kari|n,karipap|n
-curse	jampi serapah|n,kutuk|n,laknat|n,sumpah seranah|n
-cursed	laknatullah|n,malaun|n,sial|adj,waknat|adj
-curtain	langsir|n,tirai|n
-curve	lentur|n
-curved	bawar|n,beladau|n
-cushion	berkusyen|v,kusyen|n
+curry	kari|n
+curry puff	karipap|n
+curse	kutuk|n,jampi serapah|n,sumpah seranah|n
+cursed	sial|adj,waknat|adj
+cursed by god	laknatullah|n
+curtain	tirai|n,biru-biru|n
+curtains	selak|v
+curved rod	bawar|n
 custard	kastard|n
 custom	adat|n,resam|n
-customer	langgan|v,pelanggan|n,pembeli|n
-customs	istiadat|n
-cut	abtar|adj,kerat|v,membantai|v,potong|v,potongan|n,putus|adj
+customer	pembeli|n,pelanggan|n
+cut	abtar|adj
+cut off	putus|adj
 cute	comel|adj
 cutter	pemotong|n
 cutthroat	potong leher|adj
-cutting	golok|n
 cuttlefish	sotong katak|n
 cyber	siber|adj
-cyberjaya	cyber
 cybernetics	sibernetik|n
-cycle	beca|n
+cycle rickshaw	beca|n
+cycling	berbasikal|v
 cylinder	silinder|n
-cymbopogon	serai|n
+cymbopogon citratus	serai|n
 cynical	sinis|adj
 cynicism	sinisisme|n
-cyperus	menderung|n
-czech	republik czech
+czech republic	republik czech
 czechia	czechia

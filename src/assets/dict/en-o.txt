@@ -1,167 +1,402 @@
+o	luruh|v,las,pesan
+o -variety form of siapa	siapo|pron
 oar	kayuh|n
 oasis	oasis|n,wahah|n
 oath	sumpah|n
-obey	mematuhi|v
 obituary	obituari|n
-object	baling|v,baling-baling|n,bebola|n,benda|n,objek sipi|n,objek tepat|n
+object	benda|n
 objection	bantahan|n
-objective	matlamat|n,tujuan|n
-objects	lingkar|cls
-obligation	beban|n,berkewajipan|v,bon|n,fardu|n,kewajipan|n,obligasi|n
+objective	tujuan|n,matlamat|n
+obligation	beban|n,obligasi|n
 obligatorily	sewajibnya|adv
-obligatory	fardukan|v,wajib|adj,wajibkan|v
-oblong	celapa|n
-oblongifolia	cendara|n
+obligatory	wajib|adj
 obscene	lucah|adj
 observation	pemerhatian|n
-observe	perhati|v,tinjau|v
-observed	diamati|v
+observed by	diamati|v
 obsessive	obsesif|adj
-obsolete	a kapela|n,abdoman|n,achara|n,alor star,ampat|num,anam|num
-obstacle	aral|n,halangan|n,kendala|n
+obsolete form of atur	hatur|v
+obsolete form of ayam	hayam|n
+obsolete form of barat daya	barat semata selatan|n
+obsolete form of beleng	biling|v
+obsolete form of boleh	bulih|v
+obsolete form of bongsu	bungsu|adj
+obsolete form of botak	butak|adj
+obsolete form of buat	boat|v
+obsolete form of gali	kali|v
+obsolete form of gelenggang	gelinggang|n
+obsolete form of guruh	kuruh|n
+obsolete form of kelmarin	kelemari|adv
+obsolete form of makassar	mengkasar
+obsolete form of merah	mirah|adj
+obsolete form of otak	utak|n
+obsolete form of parap	paraf|n
+obsolete form of parsi	farsi
+obsolete form of pencen	penshen|adj
+obsolete form of perak	pirak|n
+obsolete form of platinum	pelatinam|n
+obsolete form of plumbum	pelambam|n
+obsolete form of psikologi	saikoloji|n
+obsolete form of pumpun	punpun|v
+obsolete form of rusia	rusyiya
+obsolete form of seteru	satru|n
+obsolete form of tembak	timbak|v
+obsolete form of tua	tuha|adj
+obsolete form of yu	hiu|n
+obsolete spelling of a cappella	a kapela|n
+obsolete spelling of abdomen	abdoman|n
+obsolete spelling of acara	achara|n
+obsolete spelling of air	ayer|n
+obsolete spelling of alor setar	alor star
+obsolete spelling of buluh	buloh|n
+obsolete spelling of cantik	chantek|adj
+obsolete spelling of catur	chator|num
+obsolete spelling of empat	ampat|num
+obsolete spelling of enam	anam|num
+obsolete spelling of filem	filam|n
+obsolete spelling of hujung	hujong|adj
+obsolete spelling of kampung	kampong|n
+obsolete spelling of oksigen	oksijan|n
+obsolete spelling of peru	piru
+obsolete spelling of puluh	puloh|num
+obsolete spelling of salir	saler|v
+obsolete spelling of salur	salor|v
+obsolete spelling of satu puluh	satu puloh|num
+obsolete spelling of se	sa|num
+obsolete spelling of sepuluh	sapuloh|num
+obsolete spelling of singgahsana	singgasana|n
+obsolete spelling of sungai	sungei|n
+obsolete spelling of tambah	tamba|v
+obsolete spelling of tarik	tarek|v
+obsolete spelling of terung	tarong|n
+obsolete spelling of ujung	ujong|adj
+obstacle	aral|n,kendala|n,halangan|n
 obstetrics	obstetrik|n
 obstinance	kedegilan|n
 obstinate	biot|adj,degil|adj
-obstruct	menampan|v,sekat|v
 obstruction	hadang|n
-obtain	memperoleh|v
-obtainable	percuma|adj
+obtainable without payment	percuma|adj
 occasionally	kadang|adv
 occupation	kerja|n,pekerjaan|n,pendudukan|n
-occupied	luang|adj
-occur	berlaku|v
 occurrence	kejadian|n,peristiwa|n
-ocean	jeladeri|n,lautan|n,lautan artik,lautan atlantik,lautan hindi,lautan pasifik
+ocean	lautan|n,segara|n,jeladeri|n,samudera|n
 ocelot	oselot|n
+octagon	oktagon|n
 octillion	oktilion|num
 october	bulan sepuluh|n
 octodecillion	oktodesilion|num
 octopus	gurita|n,kurita|n,sotong gurita|n,sotong kurita|n
 odour	bau|n
-oecophylla	kerengga|n
-off	cuti|n,hunus|v,kelupas|v,lurut|v,melurut|v,membantai|v
-offer	menawarkan|v,tawar|v,tawaran|n,ulat arkitek|n
-office	ibu pejabat|n,jabatan|n,kantor|n,pejabat|n,pejabat pos|n,pesanggerahan|n
-officer	abang polis|n,laksamana|n,pegawai|n,pegawai tidak tauliah|n,piung|n,polis|n
-offices	hartal|n
-official	abdi negara|n,kedah darul aman,pahang darul makmur,pegawai|n,perak darul ridzuan,rasmi|adj
+oecophylla smaragdina	kerengga|n
+of	manusiawi|adj,kedaerahan|adj,prasiswazah|adj,pascasiswazah|adj,siber|adj
+of a king	murka|v
+of chinese descent	tionghoa|adj
+of course	sudah tentu|adv
+of or from rome	rumi|adj
+of or having to do with more than one nation	antarabangsa|adj
+of or pertaining to anti-americanism	anti-amerika|adj
+of or pertaining to christianity	masihi|adj
+of or pertaining to dimness of vision	rabun|adj
+of or pertaining to the political left	sayap kiri|adj
+of or pertaining to the political right	sayap kanan|adj
+of or relating to a commoner	jelata|adj
+of or relating to advertising	periklanan|adj
+of royal descent on the moth	megat
+of species amorphophallus konjac	konjak|n
+of species salacca wallichiana	kumbar|n
+of the genus eubalaena	paus sikat|n
+of the same level	sekedudukan|adj
+of the same lineage	sezuriat|adj
+of the same time or era	semasa|adj
+of which the timber makes good masts	bintangur|n
+off of fire	padam|adj
+off the coast of india	sri lanka,seri langka
+offer	tawaran|n
+office	kantor|n,jabatan|n,pejabat|n,pesanggerahan|n
+officer	pegawai|n
+official	rasmi|adj,pegawai|n
+official name of kedah a state of malaysia	kedah darul aman
+official name of pahang a state of malaysia	pahang darul makmur
+official name of perak a state of malaysia	perak darul ridzuan
+official name of selangor a state of malaysia	selangor darul ehsan
+official name of terengganu a state of malaysia	terengganu darul iman
 offline	luar talian|adj
-offshoot	taifah|n
-offspring	anak|n,berzuriat|v,meninggalkan zuriat|v,sezuriat|adj,zuriat|n
-ogos	ogo
-oh	ya allah
-oil	lincir|adj,minyak|n,minyak tanah|n,pelita|n
+offspring	pinak|n,zuriat|n,sezuriat|adj,berzuriat|v
+often	acap|adv,sering|adv,acap kali|adv
+often associated with the 70s and 80s disco era	mat disko|n
+often capriciou	tingkah
+often commit snatch theft	kaki ragut|n
+often edible	buah|n
+often lies or talks nonsense	kaki kelentong|n
+often of a ceremonial or religious nature	kenduri|n
+often on the shoulder	menjulang|v
+often to embrace or greet	terpa|v
+often unfinished and with sloped walls	loteng|n
+often with the 80s and 90s vibes	kaki jiwang|n
+oh	ya|int
+oh my god	ya allah
+oh no	alamak
+oil	minyak|n
+oil lamp	pelita|n
 okay	okey
-oksigen	oksijan|n,zat pembakar|n
-oksigenkan	dioksigenkan|v,mengoksigenkan|v
-old	andartu|n,buruk|adj,lama|adj,orang tua|n,parsi,perjanjian lama
-older	abang|n,abang kandung|n,abang long|n,abang mantu|n,akak|n,akang|n
-oldest	abang long|n
-oldtimer	otai|n
-oleh	oleh itu|conj
+old	tua|adj,lama|adj,buruk|adj
+old age	usia lanjut|n
+old maid	andartu|n
+old master of the venetian school	titian
+old person	orang tua|n
+old testament	perjanjian lama
+old-looking of clothes	lasam|adj
+older brother-in-law	abang mantu|n
+older sister	kak|n,akak|n,kang|n,akang|n,kakak|n,kanda|n,ayunda|n,kakang|n,kakanda|n,kangmas|n
+oldest older brother	abang long|n
 olive	zaitun|n
 olympiad	olimpiad|n
 oman	oman
 omelette	telur dadar|n
+omg	walao
 omnivore	omnivor|n
-omura	paus omura|n
-once	sekali|adv,sekali-sekala|adv
+on	di|prep,atas|prep,pada|prep
+on account of	peri|n
+on behalf of	atas nama
+on the back	pendukung|n,pendukungan|n
+on the contrary	sebaliknya|adv
+on the contrary used to emphasi	malah
+on the iberian peninsula	portugal
+on the subject of	peri|n
+on the way	dtg|adv
+on time	tepat masa|adj
+on top of	atas|prep
+once	sekali|adv
+once in a while	sekali-sekala|adv
+one	se|num,eka|num,ahad|num,satu|num
+one another	saling|adv
+one at a time singly	satu-satu|adv
+one billion	sebilion|num,satu bilion|num,seribu juta|num,satu ribu juta|num
+one by one	satu-satu|adv
+one having mastery over others	yamtuan|n
+one hundred	seratus|num,satu ratus|num
+one hundred thousand	seratus ribu|num,satu ratus ribu|num
+one million	sejuta|num,satu juta|num
+one of four equal parts	perempat|n
+one of the four states of matter	pepejal|n
+one of the sections in the koran	sura
+one person	seorang|cls
+one step	setapak|n
+one thousand	seribu|num
+one trillion	satu trilion|num
+one who brings about reform	pembaharu|n
+one who chooses	pemilih|n
+one who counts	penghitung|n
+one who does not side with any party in a war or dispute	neutral
+one who is in charge of something	bos|n
+one who is ordered to do something e g messenger	pesuruh|n,suruhan|n
+one who loves and defends his or her country	patriot
+one who picks	pemilih|n
+one who produces works of art	karyawan|n
+one who steals	panjang tangan|adj
+one's anniversary of the day one was born	hari jadi|n
+one's best	sebaiknya|adv
 one-way	sehala|adj
 oneness	kesatuan|n
-oneself	berselimut|v,koyak|adj,mengaku|v,mengistirahatkan diri|v,peduli|v,sendiri|adj
-onion	bawang|n,daun bawang|n
-online	atas talian|adj,dalam talian|adj,geng bawang|n,online|adj
-only	anak tunggal|n,berai|adj,cuma|adv,daya|adj,ehsan,hanya|adv
-onomatopoeic	kahkah
-oozing	tiris|adj
+online	online|adj,atas talian|adj,dalam talian|adj
+online commenters who like to gossip and make provocative comments	geng bawang|n
+only	cuma|adv,hanya|adv,sahaja|adv,semata|adv,sekadar|adv,semata-mata|adv
+only child	anak tunggal|n
+only used in anak pinak descendant	pinak|n
+only used in barat daya	daya|adj
+only used in cerai-berai	berai|adj
+only used in darul ehsan	ehsan
+only used in darul ridzuan	ridzuan
+only used in melancong	lancong
+only used in selang-seli to alternate	seli|n
+only used in tuto tuds	tuds|n
+onomatopoeic representation of laughter haha	kahkah
+oozing through	tiris|adj
 opal	baiduri|n
-open	bengang|adj,berjelas-jelas|v,bertas|v,buka|v,dedah|v,selak|v
-opening	angkup|n
+open	lapang|adj,pedati|n
+open country	padang|n
+open to multiple interpretations	taksa|adj
+opening and shutting as tongs	angkup|n
 opera	opera|n
-operate	beroperasi|v
-operating	sistem pengendalian|n
-operation	beroperasi|v,operasi|n,pembedahan|n
+operating system	sistem pengendalian|n
+operation	operasi|n
 ophthalmology	oftalmologi|n
 opinion	pendapat|n,pendepat|n
 opium	candu|n
-opposite	lawan|n,seberang|n
-opposition	parti pembangkang|n
+opponent	seteru|n
+opposite	lawan|n
+opposite side	seberang|n
+opposition party	parti pembangkang|n
+oppression	aniaya|n
 optic	optik|adj
-optical	optik|adj
+optical of	optik|adj
 optimistic	optimis|adj,optimistik|adj
 option	opsyen|n
 optional	opsyenal|adj
+or	ke|conj,atau|conj,ataupun|conj,seka,kembar
+or activity	lengang|adj
+or affection espe	popular
+or anger	menguasai|v
+or any of the similar part	abdomen|n
+or anything that slows progress	harung|v
+or assets	berada|adj
+or bad habit	hinggap|v
+or be vigilant over sth	jaga|v
+or beach	tebing|n
+or being a postgraduate	pascasiswazah|adj
+or being an undergraduate	prasiswazah|adj
+or branches	rimbunan|n
+or car enthusiast	mat kereta|n
+or carries oneself	stail|n
+or colloquially for humans	beranak|v
+or commercial use	tanaman|n
+or deal with	payah|adj
+or decision	tegas|adj
+or degree	takat|prep,hingga|prep
+or derision	sorak|v
+or direction relative to something	sebelah|n
+or displeasure	mendengus|v
+or distress	lega|adj
+or doing something without much speed	perlahan|adj
+or duration	kala|n
+or echoing sound	bahana|n
+or electricity	padam|adj
+or energy	tumpu|v
+or especially a tumor	ablasi|n
+or extent	sehingga|prep
+or faith	keyakinan|n
+or fantasy	lamunan|n
+or filipino sw	keris
+or fold of fabric	kedut|n
+or foreign matter	bersih|adj
+or god to be wrathful	murka|v
+or goddess	hiang|n,yang-yang|n
+or greeting	sahut|v
+or having to do with computers or the internet	siber|adj
+or high structure	puncak|n
+or hook	sangkut|v
+or hotel	tamu|n
+or in a state of disrepair	pokah|adj
+or independence	juang|v
+or influences	faktor
+or instantaneous movement	kilas|n
+or intellectual production	karya|n
+or items due to long usage	lasam|adj
+or lacking spurs in chickens	dogol|adj
+or level	setakat|prep
+or light	tanglung|n
+or literary contexts	kayu|n
+or means	rezeki
+or merit of something	harga|n
+or mesh	sangkar
+or more generally	inggeris
+or mosquito coils	lingkar|cls
+or moving	kelir
+or noise	ramai|adj
+or number of a larger group	sebahagian|det
+or object resting lightly on a	tercatuk|v
+or objects	deret|cls
+or of wind moving	hembus|v
+or on	kat|prep
+or opening	bengang|adj
+or opinion piece	artikel|n,makalah|n,rencana|n
+or other problem of an intellectual nature	teka-teki|n
+or pandanus leaves	raga|n
+or pertaining to	kedaerahan|adj
+or pertaining to racism	rasis|adj
+or pity	amboi
+or point in time	kat|prep
+or praise	ewah
+or problems	timbul|v
+or proposal	aju|v
+or relating to humans	manusiawi|adj
+or relating to motor vehicles	automotif|adj
+or relating to the eye or optical instruments	optik|adj
+or ritually	membersihkan|v
+or secrets	curah|v
+or sections	bahagi|v
+or solve	susah|adj
+or state of being irradiated	penyinaran|n
+or sweat	lumus|adj
+or target	jangkau|v,terlepas|v
+or that which	penyerap|n,pengimbang balas|n
+or the flux or passage thereof	lalu lintas|n
+or the skin	kedut|n,kerdut|n,kedutan|n,keledut|n,berkedut|v,kedutkan|v
+or thin strands	halus|adj
+or throw away	buang|v
+or total number of something	semua|pron
+or tracks cross	persilangan|n
+or turmoil	tenteram|adj
+or unease	seram|adj
+or use of a franchise	pemfrancaisan|n
+or using three languages	tribahasa|adj
+or utter	menyebut|v
+or valley	seberang|n
+or vitality	gersang|adj
+or water	derau|v
 oral	lisan|adj
-orang	okb|n,okl|n,okt|n,omputih|n,org|n,sakai|n
-orange	berjingga|v,jingga|adj,jinggakan|v,kemuning|n,menjingga|v,oren|n
+orange	oren|n,jingga|adj
+orange cat	oyen|n
+orange jessamine	kemuning|n
 orange-like	kejinggaan|adj
-orangutan	orang utan|n
+orangutan	mawas|n,orang utan|n
 orbit	orbit|n
 orchard	kebun|n
 orchestra	orkestra|n
 orchid	orkid|n
-orcinus	paus pembunuh|n
-order	mengoder|v,menurut abjad,oder|v,perintah|n,rosak|adj,selepas itu|adv
-ordered	abjad|n,alfabet|n,pesuruh|n,suruhan|n
+orcinus orca	paus pembunuh|n
+order	perintah|n
+order arms	turun senjata|n
 ordinary	biasa|adj
-ore	bijih|n,lombong|n
-organ	organ|n,telinga|n
+ore	bijih|n
+organ	organ|n
+organ of hearing	telinga|n
 organic	organik|adj
-organik	tidak organik|adj
-organisation	geng|n,kelola|v
-organise	isih|v
-organism	organisma|n
-organization	ahli|n,bendahari|n,cawangan|n
-organize	susun|v
+organise	atur|v
+organization or any other body	bendahari|n
 organizer	penganjur|n
-orientation	orientasi seksual|n
-orifice	lubang|n,palam|v
-origin	asal|n,asal usul|n,usul|n
-original	asli|adj,dosa asal|n,jati|adj,ori|adj,original|adj
-originally	keropok udang|n
-originate	berasal|v,berhulu|v
-originated	rege|n
-originating	sedaerah|adj
-ornamental	pingat|n
+orifice	lubang|n
+origin	asal|n,usul|n
+origin of a person's lineage	asal usul|n
+original	original|adj
+original or natural	asli|adj
+original or pure	jati|adj
+original sin	dosa asal|n
+originating from or being located in the same area or region	sedaerah|adj
+ornament	tanaman|n
 orphan	yatim|n
 orthography	ortografi|n
 osmium	osmium|n
 ostrich	burung unta|n
-otak	otak-otak,utak|n
-other	alas kubur|n,assalamualaikum,bangbung|n,berkaitan dengan,berkenaan dengan,bersesalan|v
-others	unik|adj
+other	lain|adj
+other side of a river	seberang|n
 otitis	radang telinga|n
 otter	anjing air|n,berang-berang|n
-ouch	aduh,mengaduh|v
-out	bentang|v,berhati-hati,bura|v,colek|v,curah|v,depa|v
+ouch expression of pain	aduh
+our	kitorang|pron
+out	luar|prep
+out of order	rosak|adj
 outrigger	katir|n
 oval	bujur|adj
 ovary	ovari|n
 oven	ketuhar|n
-over	langkah|v,lewat|adj,melimpah|v,pantau|v,pertuan|v,serah|v
-overcome	ketakutan|adj
-overflow	melimpah|v
+over time	lama-lama|adv
+overcome with fear	ketakutan|adj
 overflowing	limpah|adj
-overlap	tindih|v,tumpang tindih|n
+overlap	tumpang tindih|n
 overlordship	ketuanan|n
-overmorrow	esok lusa|n
 overture	overtur|n
 ovulation	pengovuman|n
-ovule	biji|n
 ovum	ovum|n
-owl	burung hantu|n,pungguk|n
-own	berbiola|v,berdikari|v,putih tulang|v,sendiri|adj
-owned	kepunyaan|n
-owner	berpunya|v,empu|n,empunya|n,pemilik|n,pemunya|n,punya|v
-ownership	geran|n,pemilikan|n,punyakan|v
-oxidation	keadaan pengoksidaan|n
-oxide	zink oksida|n
-oxidise	mengoksida|v,mengoksidakan|v
-oxidizing	agen pengoksidaan|n
-oxygen	beroksigen|v,oksigen|n
-oxygenate	oksigenkan|v
+owl	pungguk|n,burung hantu|n
+own	sendiri|adj
+owner	empu|n,punya|v,empunya|n,pemilik|n
+ownership	pemilikan|n
+ownership deed	geran|n
+oxidation state	keadaan pengoksidaan|n
+oxidizing agent	agen pengoksidaan|n
+oxygen	oksigen|n
 oxygenation	pengoksigenan|n
 oxyhydrogen	oksihidrogen|adj
-oxypetalum	kengwa|n
-oyster	pegoh|n,sos tiram|n,tiram|n
+oyster	tiram|n
+oyster sauce	sos tiram|n
 ozone	ozon|n

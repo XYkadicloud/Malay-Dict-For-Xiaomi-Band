@@ -27,7 +27,7 @@ khilaf	khilaf		错误，荒谬
 khinzir	khinzir	n	thumb 。 豬 近义词 / 延伸阅读 豬	pig (mammal of genus Sus)
 khoja	khoja		对印度回教商人专称
 khuatir	khuatir	adj	担心，担忧	worried
-khusus	khusus	adj	特别的，尤其，例外的
+khusus	khusus	adj	特别的，尤其，例外的	plural of khas; special  unique  uncommon
 khusyuk	khusyuk	adj	全部	with full interest or wholeheartedly
 khutbah	khutbah		祈祷，祈文
 khutbahnikah	khutbah nikah		主婚；婚事，婚礼，结婚仪式

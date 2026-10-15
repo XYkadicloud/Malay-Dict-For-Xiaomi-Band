@@ -1,245 +1,147 @@
-佩	suntingan|n,bersenjata
+isak哽咽	isak
+佩	suntingan|n
+佩剑	rencong|n
 佩带	bersenjata
 佩带武	bersenjata
 佩带武器	bersenjata
-俩	sekelamin
-兩	mak kau hijau
-兩個	mak kau hijau
-兩個男	mak kau hijau
-兩個男孩	mak kau hijau
-兩個男孩打	mak kau hijau
-兩個男孩打架	mak kau hijau
-兩個男孩打架互	mak kau hijau
-兩個男孩打架互罵	mak kau hijau
-兩個男孩打架互罵的	mak kau hijau
-兩個男孩打架互罵的視	mak kau hijau
-兩個男孩打架互罵的視頻	mak kau hijau
-剩	baki,bersisa,ketinggalan|n,koret,lestari|adj,sisa|n
-剩下	baki,ketinggalan|n
-剩下的	baki,ketinggalan|n
-剩余	baki,koret,sisa|n,bersisa,lestari|adj
+剩	baki,koret
+剩下	ketinggalan|n,baki
+剩下的	ketinggalan|n,baki
+剩余	baki,lestari|adj,koret
+剩余sisa	sisa|n
 剩余的	lestari|adj
-叩	katuk,keletung,ketuk,luku,tunduk
-叩击	keletung
-叩击的	keletung
-叩击的回	keletung
+叩	katuk,tunduk,ketuk
 叩击的回音	keletung
 叩头	tunduk
 叩打	ketuk
-嫩	empuk,halus|adj,julai,kelongkong,lubnan,pendapa|n,pondoh,pucuk|n
-嫩叶	pucuk|n,pondoh
+叩问	aju|v
+噩梦	mimpi ngeri|n
+嫩	pendapa|n,julai,tunas|n,rebung|n,empuk,ranting|n
+嫩叶	pondoh
 嫩叶芽	pondoh
-嫩枝	julai,pendapa|n,ranting|n,tunas|n
+嫩枝	pendapa|n,julai,tunas|n,ranting|n
 嫩椰	kelongkong
 嫩椰壳	kelongkong
-嫩的	empuk,halus|adj
+嫩的	empuk
 嫩芽	rebung|n
-孩	anak|n,anak bongsu,awek|n,bapuk|n,barut gantung,beranak|v,bocah|n,budak|n
-孩之	said
-孩之名	said
-孩子	anak|n,bocah|n,kanak|n,masak-masak|n,nak|prep,anak bongsu,bapuk|n,beranak|v
-孩打	mak kau hijau
-孩打架	mak kau hijau
-孩打架互	mak kau hijau
-孩打架互罵	mak kau hijau
-孩打架互罵的	mak kau hijau
-孩打架互罵的視	mak kau hijau
-孩打架互罵的視頻	mak kau hijau
-孩的	tomboi|n
-孩的顽	tomboi|n
-孩的顽皮	tomboi|n
-孩的顽皮姑	tomboi|n
-孩的顽皮姑娘	tomboi|n
-孩胸	barut gantung
-孩胸前	barut gantung
-孩胸前之	barut gantung
-孩胸前之涎	barut gantung
-孩胸前之涎布	barut gantung
-巩	mempereratkan,memperkukuhkan,mengukuhkan
-巩固	mempereratkan,memperkukuhkan,mengukuhkan
-彩	abau|n,aneka warna,balingkawat|n,bangun-bangun|n,batu pelinggam,benang raja|n,bianglala|n,cabutan loteri
-彩丝	limar
-彩丝带	limar
-彩大	batu pelinggam,pelinggam
-彩大理	batu pelinggam,pelinggam
-彩大理石	batu pelinggam,pelinggam
-彩烈	gemirang,girang-gemirang
-彩的	pelang,pusparagam,puspawarna,sadur
-彩票	loteri,cabutan loteri,kena loteri
+孩	kanak|n,nak|prep,bocah|n,anak|n,masak-masak|n
+孩儿	kanak|n
+孩子	kanak|n,nak|prep,bocah|n,anak|n,masak-masak|n
+孩提	bayi|n
+孩童	kanak|n
+巩	mengukuhkan,mempereratkan,memperkukuhkan
+巩固	mengukuhkan,mempereratkan,memperkukuhkan
+彩	rona|n,pelangi|adj,bianglala|n,loteri
+彩票	loteri,cabutan loteri
 彩票开	cabutan loteri
 彩票开彩	cabutan loteri
-彩缤	aneka warna,balingkawat|n,bangun-bangun|n,benang raja|n,ganu|n,gegana|n,lanum|n,mangun|n
-彩缤纷	aneka warna,balingkawat|n,bangun-bangun|n,benang raja|n,ganu|n,gegana|n,lanum|n,mangun|n
-彩缤纷的	balingkawat|n,bangun-bangun|n,benang raja|n,ganu|n,gegana|n,lanum|n,mangun|n,tali mangon|n
-彩色	rona|n,abau|n,kain batik
-彩色图	kain batik
-彩色图案	kain batik
-彩色图案沙	kain batik
-彩色图案沙笼	kain batik
+彩色	rona|n,abau|n
 彩色图案沙笼布	kain batik
 彩色龟	abau|n
-彩虹	balingkawat|n,bangun-bangun|n,benang raja|n,bianglala|n,ganu|n,gegana|n,lanum|n,mangun|n
-恩	anugerah|n,balas budi,balas jasa,bercinta-cintaan,kebaikan|n,kurnia|n,mengucap syukur,mengurniai
+彩虹	pelangi|adj,bianglala|n
+彩虹五彩缤纷	ganu|n,teja|n,lanum|n,gegana|n,mangun|n,ular danu|n,balingkawat|n,benang raja|n
+彩虹五彩缤纷的	ganu|n,teja|n,lanum|n,gegana|n,mangun|n,ular danu|n,balingkawat|n,benang raja|n
+恩	anugerah|n,kurnia|n,kebaikan|n,mengurniai
+恩师	guru|n
 恩恩	bercinta-cintaan
 恩恩爰	bercinta-cintaan
 恩恩爰爰	bercinta-cintaan
-恩惠	kebaikan|n,kurnia|n
-恩爰	bercinta-cintaan
-恩爰爰	bercinta-cintaan
+恩惠	kurnia|n,kebaikan|n
 恩赐	anugerah|n,mengurniai,mengurniakan|v
-扩	babar,bentang|v,corong radio,gonbeng,lampar,merebak,meruak,mikrofon|n
+恩赐于	mengurniakan|v
+惩罚	seksa|n
+扩	ruak,rentang
 扩充	ombar
 扩充的	ombar
-扩大	babar,gonbeng,meruak,ruak
-扩展	rentang,ruak
-扩张	bentang|v,lampar,merebak,rebak
-扩音	corong radio,mikrofon|n
-扩音机	corong radio,mikrofon|n
-择	a go go|n,aba|n,aba-aba|n,abad al-abid|n,abad alabid|n,abadiyyat|adj,abalon|n,abis tu|adv
-择一	a go go|n,aba|n,aba-aba|n,abad al-abid|n,abad alabid|n,abadiyyat|adj,abalon|n,abis tu|adv
-择或	rambang
-择或瞄	rambang
-择或瞄准	rambang
-择权	opsyen|n
-择的	opsyenal|adj
-揩	pengelap|n,usap
+扩大	babar,ruak,gonbeng,meruak
+扩展	ruak,rentang
+扩张	bentang|v,rebak,merebak,lampar
+扩音	mikrofon|n,corong radio
+扩音机	mikrofon|n,corong radio
+揩	usap
 揩拭	usap
 揩擦	pengelap|n
 揩擦的	pengelap|n
 揩擦的人	pengelap|n
-摩	geser,jamah,kelukur,kerit,keriut,kisal,lendat,lulut
+摩	moden|adj,motor,lendat,sengget,kisal,menyental
 摩天	pencakar langit|n
 摩天楼	pencakar langit|n
 摩托	motor,motosikal|n
 摩托车	motosikal|n
-摩擦	kisal,lendat,menyental,sengget,geser,kelukur,kerit,keriut
+摩擦	lendat,sengget,kisal,menyental,kelukur,sanggit,keriut,kerit
 摩擦作	sanggit
 摩擦作声	sanggit
-摩擦声	kerit,keriut
+摩擦声	keriut,kerit
 摩擦的	kelukur
 摩洛	maghribi
 摩洛哥	maghribi
 摩登	moden|adj
-摩西	musa
-早	awal|adj,alas perut,bersarap,cinta monyet|n,embun belum kering lagi|adv,melung,pagi|n,pagi-pagi
+早	awal|adj,sarapan|n,embun belum kering lagi|adv,pertolehan|n,alas perut
 早上	pagi|n,selamat pagi|int
 早上好	selamat pagi|int
+早先	dulu|adv
+早前	dulu|adv
 早年	cinta monyet|n
 早年初	cinta monyet|n
 早年初恋	cinta monyet|n
 早晨	pertolehan|n
-早点	alas perut,sarap|v,siang-siang
+早点	alas perut,siang-siang
 早点几	siang-siang
-早的	embun belum kering lagi|adv,melung
-早餐	sarapan|n,bersarap
-桩	alu|n,pancang,terucuk,tumbuk|v,lantak
-滩	beting,jangkat,kukup,mendamparkan,pantai|n,permatang|n,pesisir|n
-物	pacu|n,abang kandung|n,alas perut,amfibia,ampas,anak ikan|n,aneliada,animisme
-物主	pemilik|n,sahib,yang empunya,kebendaan
-物主义	kebendaan
-物产	pengokot|n
-物产商	pengokot|n
-物件	barah|n,kumanga
-物体	sembahan|n,kolong
-物体之	kolong
-物体之空	kolong
+早的	embun belum kering lagi|adv
+早餐	sarapan|n
+早饭	sarapan|n
+桩	alu|n,tumbuk|v,terucuk,pancang
+浩大	luas|adj
+浩浩	luas|adj
+浩淼	luas|adj
+浩渺	luas|adj
+浩瀚	luas|adj
+浩然	luas|adj
+浩繁	luas|adj,parang|n
+浩阔	luas|adj
+滩头	pantai|n
+物	benda|n,pemilik|n,barang|n,pacu|n,pencair|n,sembahan|n,kebendaan,arwah
+物业	milik|n
+物主	pemilik|n,sahib,yang empunya
+物事	hal|n,jirim|n
+物产	bikin|v
+物件	barah|n
+物体	sembahan|n
 物体之空间	kolong
-物动	berkubang|v,menumpukan|v
-物动词	berkubang|v,menumpukan|v
-物口	gumam
-物口中	gumam
-物口中而	gumam
-物口中而言	gumam
-物口中而言语	gumam
-物名	bengkudu,kerubut,melaka,selasih|n,setawar,si|art
-物名前	si|art
-物名前之	si|art
-物名前之接	si|art
-物名前之接头	si|art
-物名前之接头词	si|art
-物品	barang|n,barang-barang,benda|n
-物园	kebun binatang|n,taman haiwan|n,zoo|n
-物圈	biosfera|n
-物学	abang kandung|n,ayah kandung|n,bapa kandung|n,biologi|n,botani|n,emak kandung|n,ibu kandung|n,ilmu hayat
-物学的	abang kandung|n,ayah kandung|n,bapa kandung|n,emak kandung|n,ibu kandung|n,mak kandung|n
-物属	bakawali|n
+物品	benda|n,barang|n,barang-barang
 物故	arwah
-物有	animisme
-物有灵	animisme
-物有灵论	animisme
-物来	cecap|v
-物来尝	cecap|v
-物来尝味	cecap|v
-物来尝味道	cecap|v
-物架	panggar
-物根	sunti
-物根部	sunti
-物根部之	sunti
-物根部之瘤	sunti
-物根部之瘤状	sunti
-物根部之瘤状突	sunti
-物根部之瘤状突起	sunti
-物橱	gerobok|n
-物毒	upas|n
-物治	fitoterapi|n
-物治疗	fitoterapi|n
-物治疗法	fitoterapi|n
-物物	biofizik|n
-物物理	biofizik|n
-物物理學	biofizik|n
-物理	astrofizik|n,biofizik|n,fizik|n
-物理学	fizik|n,astrofizik|n
-物理學	biofizik|n
-物生	bioekologi|n,kaji alam haiwan|n,zooekologi|n
-物生态	bioekologi|n,kaji alam haiwan|n,zooekologi|n
-物生态学	bioekologi|n,kaji alam haiwan|n,zooekologi|n
-物疾	hama tanaman
-物疾病	hama tanaman
-物的	berkubang|v,inkuilin|n,kiwi,menumpukan|v
-物的人	kiwi
-物者	jurusaji|n,kaki minum|n,katerer|n
-物肚	geliga
-物肚内	geliga
-物肚内的	geliga
-物肚内的胃	geliga
-物肚内的胃石	geliga
-物腹	kemalala
-物腹中	kemalala
-物腹中结	kemalala
-物腹中结石	kemalala
-物节	bioritma|n
-物节律	bioritma|n
-物菌	menalu
+物理	fizik|n
+物理学	fizik|n
+物种	spesies|n
 物证	beti
-物质	kebendaan,pencair|n,karsinogen|n,rohani
-物质的	rohani
-物馆	muzium|n
-狩	anjing pemburu|n,buru|v,buruan
-狩猎	buru|v,anjing pemburu|n,buruan
+物质	pencair|n,kebendaan
+物镜	matlamat|n
+物）	pacu|n
+狩	buru|v
+狩猎	buru|v,buruan
 狩猎对	buruan
 狩猎对象	buruan
-矩	adat|n,kendaga
 矩形	kendaga
 矩形箱	kendaga
-秩	disiplin,rondah-randeh,tertib
-秩序	disiplin,tertib,rondah-randeh
-秩序的	rondah-randeh
-绩	buku kemajuan,jasa,keputusan,pahala|n
-绩单	buku kemajuan
-罩	menyungkup,berguk,corong,corong lampu,kemban|n,kerudung,liput|v,menyerkup
+秩	tertib,disiplin
+秩序	tertib,disiplin
+秩序美	perintah|n
+绩效	kelakonan|n,prestasi|n
+罩	menyungkup,tudungi
 罩住	tudungi
+罩杯	cangkir|n
 罩着	sungkup
+翩翩	bestari|adj
 轩	kongsan
-闩	kalang alas,palang|n,selak|v,selarak,sengkang|v,sengkar|n,kancing|n
-险	aral|n,asuransi|n,avontuur|n,bahaya|n,berbahaya|adj,fius|n,gantung di hujung rambut,insurans|n
-险丝	fius|n
+轩昂	tinggi|adj
+轩然大波	polemik|n
+迩来	baru|adj
+闩	palang|n,sengkang|v,selak|v,sengkar|n,selarak,kalang alas
+险	kecuraman
 险峻	kecuraman
-险性	merbahaya
-险的	berbahaya|adj,merbahaya,parah
-革	bina|v,buang kerja,denggi|n,inovasi|n,inovatif|adj,inovator|n,mazul,pembaharuan|n
-革命	revolusi|n,revolusi mental,revolusi perindustrian
+险恶	berbahaya|adj
+革	revolusi|n,pembaharuan|n,mazul,buang kerja
+革命	revolusi|n
 革新	pembaharuan|n,inovatif|adj
 革新的	inovatif|adj
-革热	denggi|n
-革者	inovator|n
-革职	buang kerja,mazul
+革职	mazul,buang kerja

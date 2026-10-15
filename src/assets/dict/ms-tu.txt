@@ -27,7 +27,7 @@ tubin	tubin	n	捕鱼笼，疼爱的	day after day after day after tomorrow (four
 tubir	tubir	n	悬崖，绝壁，边岸	ledge
 tubruk	tubruk		跃上，相撞
 tubuh	tubuh	n	身体	body (physical structure of a human or animal)
-tudm	tudm		词首字母缩略词
+tudm	tudm		词首字母缩略词	initialism of Tentera Udara Diraja Malaysia (“Royal Malaysian Air Forc
 tuds	tuds	n	唯一的	only used in tuto tuds
 tuduh	tuduh	v	指责	accuse (to attribute blame to someone)
 tuduhan	tuduhan		控词，罪状
@@ -36,13 +36,13 @@ tudungi	tudungi		盖住，罩住
 tugal	tugal		小锹，掘穴
 tugas	tugas	n	工作，责任，狂大的风	duty
 tugu	tugu	n	纪念碑，界石	post
-tuha	tuha	adj	荒废的
+tuha	tuha	adj	荒废的	obsolete form of tua
 tuhan	tuhan	n	上帝，神	god (deity)			dewata mulia raya
 tuhut	tuhut	n	膝	knee
 tuil	tuil	n	杠杆	lever (rigid piece)
 tuisyen	tuisyen	n	学费	tuition
 tujah	tujah	v	插	thrust  jab
-tujoh	tujoh	num	两者择一
+tujoh	tujoh	num	两者择一	alternative form of tujuh
 tuju	tuju	v	朝向，瞄准，指向	to reach
 tujuan	tujuan	n	目标，目的，方向	goal  objective  aim  purpose.
 tujuh	tujuh	num	七	seven

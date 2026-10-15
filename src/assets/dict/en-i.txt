@@ -1,295 +1,374 @@
-ia	iya
-ibadat	ribi
+i	ku|pron,aku|pron,ana|pron,den|pron,gua|pron,koi|pron,beta|pron,daku|pron,saya|pron,sini|adv
+i don't know	entah
+i e ground	tanah|n
+i guess	agaknya|adv
+i me	pacal|pron,manira|pron
 iban	iban
-ibrahim	ibrahim,madani,pmx
-ice	air batu|n,ais|n,aiskrim|n,sejuk macam air batu|adj
-icibos	ichibos|n
-idea	idea|n,pendapat|n,wawasan|n
-ideal	visi|n
+ice	ais|n,kepal|v,air batu|n
+ice cream	aiskrim|n
+idea	idea|n,pendapat|n
 idealism	idealisme|n
-identify	cam|v
+ideas	timbul|v
 identity	identiti|n,jati diri|n
-ideologi	adicita|n
 ideology	ideologi|n
 idiom	simpulan bahasa|n
-idiomatically	berkaitan dengan,berkenaan dengan,curi ayam|v,oleh sebab itu|adv,tanam anggur|v,tidak akan|adv
+idiosyncrasies	telatah|n
 idiotic	sengal-sengal ubi|adj
-idle	menganggur|v,obrol|v
-idly	congok|v
-idol	arca|n,berhala|n,pujaan|n,reca|n
+idol	arca|n,reca|n,berhala|n
+if	jika|conj,kalau|conj,jikalau|conj
+if only	moga|adv
 ifrit	ifrit|n
+iftar the evening meal that breaks each day's fast durin	buka puasa
 ignorance	kejahilan|n
 ignorant	jahil|adj
-ignore	capak|v
 ihsan	ihsan|n
-ii	perang dunia kedua
 ijok	ijok
 ikat	ikat|n
-iklankan	diiklankan|v,mengiklankan|v
-ilahi	ilahi|adj
 ill	sakit|adj
 ill-intentioned	berniat jahat|adj
-illegal	ulat sapu|n,ulat teksi|n
-illegitimate	anak haram|n,haram jadah|n
+illegitimate child	anak haram|n,haram jadah|n
 illiteracy	kebutahurufan|n
-illiterate	kebutahurufan|n
+illiterate	buta huruf|adj
 illness	penyakit|n
 illusionary	maya|adj
-illustration	komku|n
-image	imej|n,imej pendam|n,reca|n
+image	imej|n,reca|n
 imagery	imejan|n
-imaginasikan	diimaginasikan|v,mengimaginasikan|v
 imagination	angan|n,imaginasi|n
 imaginative	imaginatif|adj
-imagine	bayangkan|v,imaginasikan|v
-imbang	mengimbang balas|v
-imbuh	diimbuh|v,mengimbuh|v
-imigresen	imigresyen|n
 immediate	segera|adv
-immediately	langsung|adv,lantas|adv
-immigrant	pendatang|n
+immediately	lantas|adv,langsung|adv
 immoral	jangak|adj
-immortalised	terabadi|adj
 immortalization	pengabadian|n
-immortalize	abadikan|v
 immune	kebal|adj
-impacted	terhimpit|adj
-impede	halang|v
+impacted of a tooth	terhimpit|adj
 impediment	kendala|n
-imperative	abui|v,abuk|v,imperatif|adj,tak payah|adv
-imperial	gantang|n,gelen|n,pergam|n
-implement	implementasikan|v
-implementasikan	diimplementasikan|v,mengimplementasikan|v
+imperative	imperatif|adj
+imperative or first-person and second-person passive of mengabui	abui|v
+imperative or first-person and second-person passive of mengabuk	abuk|v
+imperial pigeon	pergam|n
+imperturbable	tenang|adj
 implementation	implementasi|n
-implies	pembayang|n
 impolite	kurang ajar|adj
-import	diimport|v,impot|adj,mengimport|v,pengimportan|n
+import	pengimportan|n
 important	perlu|v
 importation	pengimportan|n
-imported	import|adj,pijar|n
 importer	pengimport|n
 impossibility	ketidakmungkinan|n
-impossible	ketidakmungkinan|n,mustahil|adj
+impossible	mustahil|adj
+impoverished	miskin|adj
 impression	kesan|n,tanggapan|n
-improve	memperbaik|v,memperelok|v
 impudent	kurang ajar|adj
+impulses	menguasai|v
 impure	mala|adj
+in	di|prep,kat|prep,di dalam|prep
+in a certain place that is unknown	negeri antah-berantah|n
+in a good manner	elok-elok|adv
+in a hurry	cepat-cepat|adv
+in a manner	secara|adv
+in a rice-based meal	lauk|n
+in a state of sitting	berdudukan|adj
+in a sudden manner	tiba-tiba|adv
+in addition to	selain|prep
+in advance	tempah|v
+in alphabetical order	menurut abjad
+in case	kalau|conj
+in company	bersama-sama|adv
+in east kalimantan	nusantara
+in effective	berkuatkuasa|v
+in every aspect	serba
+in fact	memang|adv,sebenarnya|adv,malah
+in front	dpn|conj
+in future	nanti|adv
+in gecarcinidae	yuyu|n
+in hinduism	hanuman
+in line with	selaras|adj
+in passing	sekilas|adv
+in succession	satu-satu|adv
+in the beginning	sedia|adv
+in the company of	dengan|prep
+in the direction of	ke arah
+in the genus globicephala	paus pandu|n
+in the long run	lama-lama|adv
+in the state of craving or yearning for something	kempunan|adj
+in time	sempat|adj
+in total	semuanya|n
+in turkey and some other oriental countries	firman
+in turn	pula|adv
+in vain	andau|adv
+in west of the malay peninsula	pulau pinang
 in-law	ipar|n
-inability	ketakmampuan|n,pelat|n
+inability	ketakmampuan|n
+inarticulat	rintih
 incantation	mantra|n
-incense	colok|n,dupa|n,istanggi|n
-incessantly	merepet|v,repet|v
-incident	insiden|n,kejadian|n,perihal|n,peristiwa|n
-incidental	terlompat|v,tertendang|v
+incense	dupa|n,istanggi|n
+incense stick	colok|n
+incident	perihal|n,kejadian|n,peristiwa|n
+incidental momentaneous aspect of lompat	terlompat|v
+incidental of tendang	tertendang|v
 incineration	penunuan|n
-incise	toreh|v
 inclined	cenderung|adj
-include	berlaci|v,bertelefon|v,termasuk|v
-including	berpencen|v
+include garlic	bawang|n
+including most of the iberian peninsula	kastela,sepanyol
+including the fresh-water perch	perca
+including the yam	keladi|n
 inclusive	terangkum|adj
-income	cukai pendapatan|n,pendapatan|n
+income	pendapatan|n,rezeki
+income tax	cukai pendapatan|n
 incomplete	kepalang|adj
 incorrect	salah|adj
-increase	ambah|v,membesar|v,menambah|v,menambahkan|v
-incredibly	lipas kudung|n
-incur	kena|v
+increasingly	semakin
 indeed	memang|adv
-indefiniteness	barang|n
-indentation	kesan|n
-index	indeks harga pengguna|n,jari telunjuk|n
-indian	kucing liar asia|n,lautan hindi,nasi kandar|n,terung masam|n
-indicate	di|prep,kat|prep,orait
-indicates	kut|part
-indicating	lah|part
-indicum	lenga|n
-indigenous	orang asli|n
-indigo	biru nila|adj,nila|adj,tarum|n
-indigofera	tarum|n
-indirect	objek sipi|n
+indentation or mark left by something	kesan|n
+independent	merdeheka|adj
+indian desert cat	kucing liar asia|n
+indian muslim-style steamed rice served with various curries to choose from	nasi kandar|n
+indian nightshade	terung masam|n
+indian ocean	lautan hindi
+indicates a supposition or uncertainty	kut|part
+indicating an ongoing or incomplete action	sedang|adv,tengah|n
+indigent	miskin|adj
+indigo	nila|adj,biru nila|adj
+indigofera tinctoria	tarum|n
+indirect object	objek sipi|n
+indistinct	samar|adj
 indium	indium|n
 individual	individu|n
 individualism	individualisme|n
 individualist	individualis|n
 individualistic	tinggi diri|adj
 individuality	individualiti|n
-individuals	ulat arkitek|n
-indo-pacific	layaran|n
+indo-pacific sailfish	layaran|n
 indolent	malas|adj
-indonesia	indon,indonesia,konoha
-indonesian	indogsial|n,residen|n,sekolah tinggi|n,supir|n
-indra	inderaloka|n
-industrial	kawasan perindustrian|n
+indonesia	indon,konoha,indonesia
+indonesian informal spelling	supir|n
+indra's abode	inderaloka|n
+industrial estate	kawasan perindustrian|n
+industrial park	kawasan perindustrian|n
 industrious	rajin|adj
 industry	perusahaan|n
 inebriated	mabuk|adj
 infant	bayi|n
-infect	hinggap|v,jangkit|v
-infected	abras|adj
+infected with leprosy	abras|adj
 infection	jangkitan|n
 infertile	mandul|adj,tandus|adj
 infertility	kemandulan|n
-infinitive	badut-badutkan|v,bincangkan|v,celakakan|v,cetekkan|v,curigai|v,elokkan|v
-inflammation	iritasi|n,radang|n,radang telinga|n
-inflatable	belon|n
-inflate	busung|v
+infinitive of memasarkan	pasarkan|v
+infinitive of membadut-badutkan	badut-badutkan|v
+infinitive of membincangkan	bincangkan|v
+infinitive of memperelok	perelok|v
+infinitive of memperkatakan	perkatakan|v
+infinitive of mempermudah	permudah|v
+infinitive of memudahkan	mudahkan|v
+infinitive of memungkinkan	mungkinkan|v
+infinitive of menakali	nakali|v
+infinitive of mencelakakan	celakakan|v
+infinitive of mencetekkan	cetekkan|v
+infinitive of mencurigai	curigai|v
+infinitive of menebuk to make or punch a hole	tebuk|v
+infinitive of mengatakan	katakan|v
+infinitive of mengelokkan	elokkan|v
+infinitive of mengistirahatkan	istirahatkan|v
+infinitive of menoleh	toleh|v
+infinitive of menolehkan	tolehkan|v
+infinitive of menyabarkan	sabarkan|v
+infinitive of merehatkan	rehatkan|v
+inflammation	radang|n,iritasi|n
+inflammation of the ear	radang telinga|n
+inflatable and usually round object	belon|n
 inflated	kembung|adj
 inflation	inflasi|n
 influence	ayaw|n,pengaruh|n
-influencer	pempengaruh|n
-inform	bagitahu|v,beritahu|v,maklum|v
-informal	informal|adj,keadaannya|n,mekak|v
-informant	informan|n
-information	informasi|n,maklumat|n,teknologi maklumat|n
+informal	informal|adj
+informal 3rd person singular possessive form of keadaan	keadaannya|n
+informal conversation	borak
+informal form of memekak	mekak|v
+information	maklumat|n,informasi|n
+information technology	teknologi maklumat|n
+informative	informatif|adj
 infrared	inframerah|n
 infrasound	infrabunyi|n
-infrastructure	infrastruktur|n,prasarana|n
-infringement	pencabulan hak cipta|n
-ingat	mengingat|v,teringat|v
-inggeris	bi|n
-ingredient	ramuan|n
-ingrown	cagu|n,cekam|n
+infrastructure	prasarana|n,infrastruktur|n
+ingredient one of the substances present in a mixture	ramuan|n
 inhabitant	penduduk|n
-inhabited	berpenduduk|adj,kariah|n
+inhabited	berpenduduk|adj
 inhalation	hisap|n
-inheritance	pewarisan|n,pusaka|n
-inheriting	pewarisan|n
-ini	ni|det
+inheritance	pusaka|n,pewarisan|n
 initial	inisial|n
-initialism	aa|n,abdb,ai|n,atm,bbnu|n,bi|n
+initialism of angkatan bersenjata diraja brunei royal brunei armed f	abdb
+initialism of angkatan tentera malaysia	atm
+initialism of asia-afrika	aa|n
+initialism of bahasa inggeris	bi|n
+initialism of bahasa melayu or bahasa malaysia	bm
+initialism of barisan nasional	bn
+initialism of budak baru nak up	bbnu|n
+initialism of bulan sabit merah malaysia	bsmm
+initialism of dewan bahasa dan pustaka brunei language and literatur	dbp
+initialism of dewan bahasa dan pustaka institute of language and lit	dbp
+initialism of dewan bandaraya kuala lumpur	dbkl
+initialism of dewan undangan negeri	dun|n
+initialism of gabungan bersatu sabah	gbs
+initialism of gabungan parti sarawak	gps
+initialism of gabungan rakyat sabah	grs
+initialism of jabatan pendaftaran negara national registration depar	jpn
+initialism of jabatan perdana menteri	jpm
+initialism of jawatan utama sektor awam main position of the public	jusa|n
+initialism of johor bahru	jb
+initialism of kawasan rukun tetangga	krt|n
+initialism of kecerdasan buatan	ai|n
+initialism of keganasan rumah tangga	krt|n
+initialism of kota bharu	kb
+initialism of kota kinabalu	kk
+initialism of kuala lumpur the capital of malaysia	kl
+initialism of lim guan eng	lge
+initialism of majlis bandaraya sebarang prai sebarang prai city coun	mbsp
+initialism of majlis bandaraya seremban	mbs
+initialism of majlis bandaraya shah alam	mbsa
+initialism of majlis bandaraya subang jaya subang jaya city council	mbsj
+initialism of orang kaya baru nouveau riche	okb|n,okl|n
+initialism of orang kena tuduh	okt|n
+initialism of pakatan harapan	ph
+initialism of parti bersatu rakyat sabah united sabah people's party	pbrs
+initialism of parti bersatu sabah	pbs
+initialism of parti komunis malaya	pkm
+initialism of parti perpaduan rakyat sabah sabah people's unity part	pprs
+initialism of parti pesaka bumiputera bersatu united bumiputera heri	pbb
+initialism of pasukan udara tentera darat	putd
+initialism of pegawai tidak tauliah	ptt|n
+initialism of pendidikan jasmani	pj|n
+initialism of perdana menteri	pm|n
+initialism of perikatan nasional	pn
+initialism of pertubuhan bangsa-bangsa bersatu	pbb
+initialism of pilihan raya umum	pru
+initialism of polis diraja brunei	pdb
+initialism of polis diraja malaysia	pdrm
+initialism of rang undang-undang	ruu|n
+initialism of rejimen askar melayu diraja	ramd
+initialism of sekolah menengah kebangsaan	smk|n
+initialism of sekolah menengah kejuruan	smk|n
+initialism of sijil pelajaran malaysia malaysian certificate of educ	spm|n
+initialism of sumbangan tunai rahmah	str
+initialism of taman tun dr ismail	ttdi
+initialism of teknologi maklumat	it|n
+initialism of tentera darat diraja brunei	tddb
+initialism of tentera laut diraja brunei	tldb
+initialism of tentera laut diraja malaysia	tldm
+initialism of tentera udara diraja malaysia royal malaysian air forc	tudm
+initialism of universiti malaysia sabah	ums
+initialism of universiti utara malalysia northern university of mala	uum
+initialism of yang berhormat your excellency	yb|n
 initiative	ikhtiar|n,inisiatif|n
 injustice	aniaya|n
-ink	dakwat|n,mangsi|n
-inlaid	tatah|n
-inner	dinding|n
-innovation	bidaah|n,inovasi|n
+ink	labur|v,dakwat|n,mangsi|n
+inlaid work	tatah|n
+inner wall of a house	dinding|n
+innovation	inovasi|n
+innovation in islamic practice of worship that is against proper islam	bidaah|n
 innovative	inovatif|adj
 innovator	inovator|n
 inorganic	tak organik|adj
 inquiline	inkuilin|n
-inquire	bertanya|v,risik|v
-inquiry	siasat|n
 insane	sasar|adj,sasau|adj
-insang	isang|n
 insect	serangga|n
 insecticide	racun serangga|n
-insensitive	lali|adj,muka papan|adj
-insert	letak|v
+insensitive	lali|adj
+insensitive to criticism	muka papan|adj
 inside	di dalam|prep
 insincere	ajak-ajak ayam|adj
-insist	desak|v
 insolent	kurang ajar|adj
 insolvency	insolvensi|n,ketakmampuan bayar|n
-insolvent	insolvensi|n,ketakmampuan bayar|n
-inspect	periksa|v
-inspection	bahas|n,imigresen|n
 inspector	merinyu|n
-inspiration	berinspirasi|v,inspirasi|n
-inspire	menginspirasi|v
-inspired	terinspirasi|v
-instagram	insta
+inspiration	inspirasi|n
 instance	umpama|n
-instant	ketika|n,mi segera|n
+instant	ketika|n
+instant noodle	mi segera|n
 institute	institut|n
+instruction	pesan
 instructor	guru|n
-instrument	canang|n,peranti|n
-insult	ejek|v,maki|v,menganjing|v
+instrument	peranti|n
 insurance	asuransi|n,insurans|n
 integral	kamiran|n
 integrity	integriti|n
 intellect	akal|n
-intellectual	ahli fikir|n,budaya|n
-intellectuals	kecendekiawanan|n
-intelligence	cipta|n,kecerdasan buatan|n
-intelligent	budiman|n,pandai|adj,pintar|adj,tera|adj
-intelligibility	kefahaman menyaling|n
-intend	berniat|v
+intellectual	ahli fikir|n
+intellectual capacity	budaya|n
+intelligence	cipta|n
+intelligent	tera|adj,pandai|adj,pintar|adj,budiman|n
 intended	payu|n
 intense	hebat|adj
-intensifier	nak mampus|adv,nak mati|adv
-intensify	menjadi-jadi|v
-intensity	intensiti|n,keamatan|n
-intensive	apa benda|pron,sangat-sangat|adv
-intensively	calar-balar|adj
-intention	maksud|n,niat|n
-intentions	reda|adj
-intently	renung|v
+intensity	keamatan|n,intensiti|n
+intensive form of apa	apa benda|pron
+intensively scratched	calar-balar|adj
+intention	niat|n,maksud|n
 interaction	interaksi|n
 interchange	persimpangan|n
-intercourse	sanggama|n
-interest	khusyuk|adj,minat|n
-interface	antara muka|n
+interest	minat|n,gersang|adj
 interim	sementara|adv
-interjection	hoi
+interj an adjuration or exclamation common among the n	bismillah
+interjection used to call out to people	hoi
 intermission	selang|n
+intermittent	seli|n
+international	antarabangsa|adj
 internee	banduan|n
-internet	cc|n,internet|n
-interpret	ertikan|v
+internet	internet|n
 interpretation	ertian|n,pengertian|n
-interpretations	taksa|adj
 interpreter	jurubahasa|n
-interrogate	soal|v
-interrogative	adakah|v
-intersection	persilangan|n,persimpangan|n
-interspace	awang-awang|n,awang-awangan|n,awang-gemawang|n,sawang|n
+interrogative of ada to have	adakah|v
+intersection	persimpangan|n
 intertrigo	intertrigo|n
 interval	selang|n
-intervals	jarang|adv
 intervention	campur tangan|n
 interview	interviu|n,temu bual|n,temu duga|n
+interweaving	anyam|v
 intestine	usus|n
-intimidate	takutkan|v
-into	gemal|v,masuk melayu|v,melayukan|v,menjadi|v,potong|v,surup|v
-intoxicated	khayal|adj,mabuk|adj
-intransitive	bergantung|v,berkubang|v,bersarang|v
+intoxicated	mabuk|adj,khayal|adj
+intransitive of gantung	bergantung|v
+intransitive of kubang	berkubang|v
+intransitive of sarang	bersarang|v
 intricate	rumit|adj
 inundated	sebak|adj
 invagination	invaginasi|n
 invalid	batal|adj
 invent	reka|v
 inverted	songsang|adj,terbalik|adj
-invest	melabur|v
-investigate	risik|v
-investigation	bahas|n,siasat|n
-investigative	siasat|n
+investigation	siasat|n
+investigative inquiry	siasat|n
 investment	laburan|n,pelaburan|n
 investor	pelabur|n
-invisible	bunian|n
+invisible elves of the forest	bunian|n
 invitation	ajak|n
-invite	jemput|v,panggil|v
 invoice	invois|n
-involved	rumah|n
 iodine	iodin|n
-ion	ion hidrogen|n
-ipoh	ipoh,teluk intan
-iran	iran,parsi
+ipoh a town in perak	teluk intan
+ipoh the capital city of the state of perak	ipoh
+iran	iran
 iridium	iridium|n
-iron	besi|n,ferum|n,menyeterika|v,seterika|n
-irradiating	penyinaran|n
-irradiation	penyinaran|n
-irrespective	tanpa mengira|prep
-irritation	iritasi|n,kerengsaan|n
+iron	besi|n,ferum|n,seterika|n
+irradiation an act of irradiating	penyinaran|n
+irrespective of	tanpa mengira|prep
+irritation	iritasi|n
+irritation act of irritating	kerengsaan|n
+is made	diperbuat|v
 isaac	ishak
 ishmael	ismail
-islam	hud,idris,islam,islamkan|v,keislaman|adj,lebai|n
-islamic	bang|n,bidaah|n,keislaman|adj,parti ajaran sesat,solat|n,tahfiz|n
-islamist	walaun|n
-islamkan	diislamkan|v,mengislamkan|v,pengislaman|n
-island	magindanau,nusa|n,pulau|n,seringat
-isle	pulau man
-ism	isme|n
-ismail	ismael
-isn	kan|adv
-isnin	senayan,senin
-isolate	pencil|v
+islam	islam
+islamic	keislaman|adj
+islamic school or madrasa mainly dedicated for qur'an memorization	tahfiz|n
+island	nusa|n,pulau|n
+island of mindanao	magindanau
+isn't it	kan|adv
 isolated	terpencil|adj
 isotope	isotop|n
 israel	rejim zionis
 issue	isu|n
-isthmus	segenting|n
-italy	itali
+it	dia|pron
+it doesn t matter	tidak apa
+it is not necessary	usah|adj
+it turns out	ternyata|v
+italy	rum,itali
 itch	giang|n
-itchy	gatai|adj,gatal|adj,miang|adj,pengas|adj
-item	benda|n,ketinggalan|n
-items	sampah|n
-itik	itek|n
+itchy	gatal|adj,pengas|adj
+itchy sensation similar to psoriasis	miang|adj
+item	benda|n
+item left behind	ketinggalan|n
+itu	oleh sebab itu|adv
 ivory	gading|n

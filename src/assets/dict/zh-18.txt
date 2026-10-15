@@ -1,10 +1,7 @@
-互	berkaitan,bahu membahu,bercumbu-cumbuan,berkejar-kejar,bermusuh,bersalaman,bertolong-tolongan,gotong-royong
-互作	interaksi|n
-互作用	interaksi|n
+互	saling|adv,gotong-royong,berkaitan,saling membantu
 互助	gotong-royong,saling membantu,kesalingan|n
 互助论	kesalingan|n
-互的	kefahaman menyaling|n,saling|adv
-互相	bersalaman,saling|adv,bahu membahu,bercumbu-cumbuan,berkejar-kejar,bermusuh,bertolong-tolongan,membunuh|v
+互相	saling|adv,membunuh|v,bahu membahu,umpatan,bermusuh,bersalaman,sabung-menyabung,sambut-menyambut
 互相依	sandar-menyandar
 互相依赖	sandar-menyandar
 互相刺	tikam-menikam
@@ -13,8 +10,6 @@
 互相尊敬	menghormati
 互相帮	bahu membahu,bertolong-tolongan
 互相帮助	bahu membahu,bertolong-tolongan
-互相开	bercumbu-cumbuan
-互相开玩	bercumbu-cumbuan
 互相开玩笑	bercumbu-cumbuan
 互相战	sabung-menyabung
 互相战斗	sabung-menyabung
@@ -26,6 +21,8 @@
 互相斩杀	tetak-menetak
 互相残	membunuh|v
 互相残杀	membunuh|v
+互相致	bersalaman
+互相致敬	bersalaman
 互相访	sambut-menyambut
 互相访问	sambut-menyambut
 互相诋	umpatan
@@ -34,41 +31,27 @@
 互相追逐	berkejar-kejar
 互相问	salam-salaman
 互相问候	salam-salaman
-互罵	mak kau hijau
-互罵的	mak kau hijau
-互罵的視	mak kau hijau
-互罵的視頻	mak kau hijau
-倒	mencurahkan,menuang,bedebah|adj,bungkang,curah|v,gelangsar,gelecek,gelicik
+互联网络	rangkaian|n
+互连	berkaitan
+倒	curah|v,menuang,mencurahkan,roboh|v,tonggeng|n,runtuh|v,songsang|adj,imbas kembali|n
 倒下	tumbang
 倒入	jungkir,larih
-倒出	curah|v,menumpahkan,tuang
+倒出	curah|v,tuang,menumpahkan
 倒叙	imbas kembali|n
-倒塌	keruntuhan,roboh|v,runtuh|v,terban,tumbang
-倒好	lumayan|adj
-倒好处	lumayan|adj
-倒是	putar balik
-倒是非	putar balik
-倒树	reba
-倒树木	reba
-倒的	pereh,telantar
+倒在	menumpahi
+倒在…	menumpahi
+倒在…上	menumpahi
+倒塌	roboh|v,runtuh|v,tumbang,terban,keruntuhan
 倒空	curah|v,ruah
 倒竖	jungkir
 倒置	langkup,tunggangkan,lingkup
 倒置的	lingkup
 倒翻	tunggangkan
-倒转	senunggang,songsang|adj,tiarapkan,tonggeng|n
+倒转	tonggeng|n,songsang|adj,senunggang,tiarapkan
 倒运	nahas
-倒钩	piarit,seruit
-倒钩之	piarit
-倒钩之鱼	piarit
-倒钩之鱼叉	piarit
-倒霉	lacur,bedebah|adj,geruh|n,mala|adj,musibat
-倒霉的	bedebah|adj,geruh|n,mala|adj,musibat
-儒	cebol,katik,kedih,sinisisme|n
-儒主	sinisisme|n
-儒主义	sinisisme|n
-儒的	kedih
-冒	avontuur|n,berapi,berasap,berhujan-hujan,buat-buat,ceroboh|adj,demam selesema,lenja
+倒霉	mala|adj,geruh|n,bedebah|adj,lacur,musibat
+倒霉的	mala|adj,geruh|n,bedebah|adj,musibat
+冒	risiko|n,avontuur|n,rabun|adj,lenja
 冒失	ceroboh|adj
 冒失的	ceroboh|adj
 冒昧	lenja
@@ -78,127 +61,86 @@
 冒烟的	berasap
 冒着	berhujan-hujan
 冒着雨	berhujan-hujan
-冒险	avontuur|n,risiko|n
-划	colek|v,mengayuh,menguit,uit,berancang,berdayung,berkayuh,bida
+冒险	risiko|n,avontuur|n
+划	colek|v,uit,menguit,mengayuh,wet,jejas,kabir,berkayuh
+划一	seragam|adj
+划一不二	tetap|adj
 划伤	jejas
 划手	senta
 划手座	senta
-划火	colek api,keceh
-划火柴	colek api,keceh
-划船	berdayung,berkayuh,wet
+划火	keceh,colek api
+划火柴	keceh,colek api
+划船	wet,berkayuh,berdayung
 划荡	kabir
 划行	wet
-咒	azimat|n,bedebah|adj,guna-guna,hamun,hobat,jampi|n,jampi serapah|n,kerama
-咒文	guna-guna,jampi|n,kerama
-咒的	bedebah|adj,laknatullah|n,lanat,malaun|n,waknat|adj
-咒诅	kerama,kutuk|n
-咒语	hobat,jampi|n,mantera|n,mantra|n,pesona
-咒骂	hamun,jampi serapah|n,kutuk|n,lanat,mengutuki,menyeranah,seranah,sumpah seranah|n
-垒	mengotakan|v,benteng|n,kubu|n,salika
-妒	bingit,cemburu|adj,dengki|adj,gemas,hasad,iri hati,jelus,meliak
-妒忌	cemburu|adj,gemas,hasad,iri hati,meliak,panas hati,bingit,jelus
+咒	jampi|n,mantera|n,kutuk|n,mantra|n,jampi serapah|n,sumpah seranah|n,hamun,hobat
+咒文	jampi|n,guna-guna,kerama
+咒诅	kutuk|n,kerama
+咒语	jampi|n,mantera|n,mantra|n,hobat,pesona
+咒骂	kutuk|n,jampi serapah|n,sumpah seranah|n,hamun,lanat,seranah,mengutuki,menyeranah
+垒	mengotakan|v
+妒	cemburu|adj,meliak,panas hati,hasad,gemas,iri hati
+妒忌	cemburu|adj,meliak,panas hati,hasad,gemas,iri hati,bingit,jelus
 妒忌的	bingit,jelus
-妒的	dengki|adj
-媒	sebiji|num,telangkai,tunangkan
+媒	sebiji|num,telangkai
 媒人	telangkai
+媒介	sederhana|adj,kenderaan|n
 媒体	sebiji|num
-徒	anjak,hampa|adj,jaring angin,kafir,kecu,lahad|n,mengislamkan|v,muslim
-徒劳	jaring angin,sia-sia|adj
+媒材	sederhana|adj
+媒界	sederhana|adj,kenderaan|n
+媒质	sederhana|adj
+徒	jaring angin
+徒劳	sia-sia|adj,jaring angin
 徒劳的	sia-sia|adj
-徒墓	lahad|n
-徒墓穴	lahad|n
-徒戴	songkok|n
-徒戴的	songkok|n
-徒戴的帽	songkok|n
-徒然	hampa|adj,percit|v,percuma|adj
-徒然的	hampa|adj,percit|v,percuma|adj
-徒祈	telekung
-徒祈祷	telekung
-徒祈祷用	telekung
-徒祈祷用之	telekung
-徒祈祷用之面	telekung
-徒祈祷用之面幕	telekung
-怒	amarah,aum mengaum,bengkeng,bentak,beran|adj,berang,berangsang,deru
-怒号	puputan
-怒吼	aum mengaum,deru,menderu
+徒然	hampa|adj,percuma|adj,percit|v
+徒然的	hampa|adj,percuma|adj,percit|v
+怒	amarah,radang|n,iritasi|n,tengking,deru,bentak,menderu,membentak
+怒吼	deru,menderu,aum mengaum
 怒喝	bentak,membentak
 怒斥	tengking
-怒火	iritasi|n,radang|n
-怒的	bengkeng,galgal,geram,gusar,hangus,nafsi,pemarah,rangsang
-怒的人	pemarah
-悒	muram
-悒的	muram
-戒	acaram bertunang,ara|n,cincin tanda,fatwa|n,keledar,kunut,nahi,pantang|n
+怒气	gembira|adj
+怒火	radang|n,iritasi|n
+戒	nahi
 戒令	nahi
-戒律	syara
-戒指	acaram bertunang,cincin tanda
+戒子	cincin|n
+戒指	cincin|n
 戒斋	rukun islam|n
 戒斋功	rukun islam|n
-戒食	kunut,ramadan
-戒食的	ramadan
-戒食的月	ramadan
 戒食的月份	ramadan
-戒食节	kunut
-戒食节第	kunut
-戒食节第十	kunut
-戒食节第十六	kunut
-戒食节第十六夜	kunut
-戒食节第十六夜晚	kunut
-戒食节第十六夜晚的	kunut
-戒食节第十六夜晚的祈	kunut
 戒食节第十六夜晚的祈祷	kunut
-排	barisan|n,beciyau|v,jajar,janjar,julat|n,leret,nirai|n,platun|n
+排	barisan|n,julat|n,nirai|n,platun|n,beciyau|v,persediaan|n,penyelesaian|n,leret
 排击	kerpak
 排击声	kerpak
-排列	jejer,penyelesaian|n,persediaan|n,abjadkan|v
+排列	persediaan|n,penyelesaian|n,jejer
 排卵	pengovuman|n
 排外	kita orang|pron
 排外的	kita orang|pron
-排成	berbanjar,membariskan
-排成的	berbanjar
-排成行	membariskan
-排成行列	membariskan
 排斥	pulaukan
 排气	ekzos|n
-排泄	air besar|n,buang air,tahi|n,beret,buangan,kumuh|adj
+排水沟	longkang|n
+排水管	longkang|n
+排泄	tahi|n,air besar|n,kumuh|adj,buang air,beret,buangan
 排泄不	beret
 排泄不止	beret
-排泄物	buangan,kumuh|adj
+排泄物	kumuh|adj,buangan
 排球	bola tampar|n
 排队	beratur|v,berbaris,saf
 排队的	saf
-撒	menghamburkan,menyemaikan,menyerakkan,recik,berbohong,berdusta,buluh meriam,dokong|n
-撒于	pacai
-撒于尸	pacai
-撒于尸布	pacai
-撒于尸布上	pacai
-撒于尸布上的	pacai
-撒于尸布上的白	pacai
-撒于尸布上的白檀	pacai
-撒于尸布上的白檀香	pacai
-撒于尸布上的白檀香粉	pacai
-撒冷	yerusalem
+撒	recik,menghamburkan,menyemaikan,menyerakkan,sebar,tebar,berbohong
+撒在	menghamburi
+撒在…	menghamburi
+撒在…上	menghamburi
 撒播	sebar
 撒网	tebar
-撒谎	berbohong,berdusta,buluh meriam
+撒谎	berbohong
+撒谎成群结队	berdusta
+撒谎成群结队地	berdusta
 撒野	nakal|adj
 撒野的	nakal|adj
-椒	cabai,cili|n,cobek,kemungkas,lada|n,lombok
-椒的	cobek
-椒的陶	cobek
-椒的陶盘	cobek
-沒	mak kau hijau
-沒有	mak kau hijau
-沒有太	mak kau hijau
-沒有太大	mak kau hijau
-沒有太大的	mak kau hijau
-沒有太大的實	mak kau hijau
-沒有太大的實際	mak kau hijau
-沒有太大的實際含	mak kau hijau
-沒有太大的實際含義	mak kau hijau
-洒	bersimbur,dirus,merenjis,recik,renjis,simbur,siram|v,taburan|n
-洒泼	lokos,simbah|v
-炒	tumis,bertih|n,goreng|v,kacang goreng,mami,nasi goreng|n,sagun
+洒	taburan|n,siram|v,dirus,recik,renjis,simbur,merenjis,bersimbur
+洒泼	simbah|v,lokos
+洒脱	natural|adj
+炒	tumis,bertih|n,goreng|v,nasi goreng|n,mami,kacang goreng
 炒成	sagun
 炒成的	sagun
 炒成的菜	sagun
@@ -208,41 +150,30 @@
 炒豆	kacang goreng
 炒面	mami
 炒饭	goreng|v,nasi goreng|n
-瞒	abu mengabui,silih
+犒赏	pahala|n
+皒皒	putih|adj
 砒	arangan
 砒霜	arangan
 窒	lemas|adj
 窒息	lemas|adj
-粒	biji|n,butir|n,gabah,jelai|n,kersai,takion|n,zarah
-粒一	kersai
-粒一粒	kersai
-粒一粒的	kersai
-粒子	takion|n
-粒的	kersai
-舒	keselesaan|n,senang linang
-舒服	senang linang
+粒	biji|n
+粒子	butir|n
+舒	keselesaan|n
 舒适	keselesaan|n
-芒	bacang|n,binjai,embacang|n,gelugur,kemang,kembacang|n,macang|n,mancang|n
-芒果	bacang|n,kembacang|n,mancang|n,mangga|n,membacang|n,mempelam|n,pelam|n,binjai
-芒果树	gelugur
-芒果的	kemang
-芒果的一	kemang
-芒果的一种	kemang
+芒	mangga|n
+芒果	mangga|n,macang|n
 芒果类	macang|n
-蜒	beliku
-袒	menyebelahi
-谒	menghadap|v,peseban|n
+芒果芒果Mangiferaind	pelam|n,bacang|n,mancang|n,mempelam|n,kembacang|n,membacang|n
 谒见	menghadap|v,peseban|n
 谒见室	peseban|n
 谒见拜	menghadap|v
 谒见拜访	menghadap|v
-递	alas kubur|n,poskod|n
-递区	poskod|n
-递区号	poskod|n
-醒	gera|v,kebangkitan,meliak,menyedarkan,sedar|adj,siuman|adj,terjaga,tidur ayam
-醒的	tidur ayam
+递增	maju|adj
+醒	sedar|adj
 醒觉	sedar|adj
-钒	vanadium|n
-锒	derang
+钒钒	vanadium|n
+钒钒V	vanadium|n
 锒铛	derang
 锒铛声	derang
+阒寂	diem|adj
+阒然	diem|adj

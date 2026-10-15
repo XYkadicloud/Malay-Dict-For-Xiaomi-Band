@@ -1,27 +1,27 @@
-zadah	jadah|n
+zabaniyah a group of angels in islam who are tasked to t	zabaniah
 zamindar	zamindar|n
-zanggi	janggi|n,zenggi|n
 zebra	kuda belang|n
-zedong	maoisme|n
 zenith	rembang|n
-zero	nihil|num,nol|num,sifar|num
-zeroks	dizeroks|v,menzeroks|v
-zinc	ayan|n,timah sari|n,zink|n,zink fosfida|n,zink hidroksida|n,zink karbonat|n
-zink	seng|n
+zero	nol|num,nihil|num
+zinc	ayan|n,zink|n,timah sari|n
+zinc carbonate	zink karbonat|n
+zinc chloride zinc salt of hydrochloric acid	zink klorida|n
+zinc chromate	zink kromat|n
+zinc hydroxide	zink hidroksida|n
+zinc oxide	zink oksida|n
+zinc phosphide	zink fosfida|n
 zionism	zionisme|n
-zionist	rejim zionis,zionis|n
+zionist regime	rejim zionis
 zipline	luncur keluang|n
 zirconium	zirkonium|n
 zither	ziter|n
-zodiac	mintakulburuj|n,zodiak|n
-zone	zon|n,zon pengudaraan|n,zon waktu|n
-zoo	kebun binatang|n,taman haiwan|n,zoo|n
-zooecology	kaji alam haiwan|n,zooekologi|n
-zoom	kanta zum|n,lensa zum|n,zum|n,zum dekat|n,zum jauh|n,zumkan|v
-zooming	pengezuman|n
-zr	ysuku
-zuhrah	zuhara,zuharah,zuhrat
-zuhur	lohor|n,zohor|n
-zumkan	dizumkan|v,mengezumkan|v
-zuriat	duriat|n,menurunkan zuriat|v
+zncl	zink klorida|n
+zodiac	zodiak|n,mintakulburuj|n
+zone	zon|n
+zoo	zoo|n,taman haiwan|n,kebun binatang|n
+zooecology	zooekologi|n,kaji alam haiwan|n
+zoom	zum|n
+zoom in	zum dekat|n
+zoom lens	kanta zum|n,lensa zum|n
+zoom out	zum jauh|n
 zygote	zigot|n

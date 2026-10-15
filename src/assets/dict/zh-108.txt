@@ -1,23 +1,21 @@
-们	para|n,diorang|pron,handai taulan,kami|pron,kamu|pron,kita|pron,kitorang|pron,manira|pron
-们的	mu|pron
-佬	jorong
-佬叶	jorong
-佬叶盒	jorong
-公	adalat,adil|adj,amal,aniaya|n,ar|n,arganegara,asosiasi,ayam jantan
+laut海盗	lanun|n
+lurik通常是王宮僕人穿	abdi|n
+lurik通常是王宮僕人穿的	abdi|n
+们	para|n
+公	jantan|adj,adil|adj,maklumat|n,taman|n,umum|adj,keadilan|n,jalan raya|n,ar|n
 公主	puteri|n,ratna
+公事房	kantor|n
 公众	publik
 公众的	publik
 公会	asosiasi
-公元	pendingin hawa|n,penyaman udara|n
-公元前	pendingin hawa|n,penyaman udara|n
-公共	umum|adj,balai raya|n,cuti am,hari kelepasan am,koc|n,perhentian bas|n,sektor awam|n,taman hiburan|n
+公允	adil|adj
+公元前存取周期	pendingin hawa|n,penyaman udara|n
+公共	umum|adj,balai raya|n,sektor awam|n,cuti am,hari kelepasan am
 公共假	cuti am,hari kelepasan am
 公共假期	cuti am,hari kelepasan am
-公共汽	koc|n,perhentian bas|n
-公共汽车	koc|n,perhentian bas|n
+公共汽车	bas|n
+公共汽车总线	koc|n
 公共汽车站	perhentian bas|n
-公共游	taman hiburan|n
-公共游乐	taman hiburan|n
 公共游乐场	taman hiburan|n
 公共部	sektor awam|n
 公共部门	sektor awam|n
@@ -27,140 +25,123 @@
 公务	kakitangan|n
 公务员	kakitangan|n
 公升	liter|n
-公司	bersyarikat,kompeni|n,kongsi|n,emporium,maskapai,syarikat|n,wikang|n
+公司	kongsi|n,kompeni|n,bersyarikat
 公告	buletin|n,pengumuman
-公园	taman|n,taman tema air|n
-公室	kantor|n,opis,pejabat|n,pesanggerahan|n
+公园	taman|n
+公堂	balai|n
+公室	kantor|n
+公家	masyarakat|n
 公尺	meter|n
-公布	ar|n,hayat umum,mengumumkan,pemberitahuan,uar-uar
+公布	ar|n,hayat umum,uar-uar,mengumumkan,pemberitahuan
 公平	adil|adj,keadilan|n,patut|adj,saksama|adj
+公平合理	adil|adj
 公平的	patut|adj,saksama|adj
 公开	taksa|adj
+公开赛	pedati|n
 公式	rumuskan
 公式化	rumuskan
 公报	maklumat|n
+公文	surat|n
 公斤	kilo
-公正	adalat,aniaya|n
+公斤公	kilo
+公斤公里	kilo
+公正	adalat
 公毫	sentigram
 公民	arganegara,sivik,francais|n,kerakyatan|adj
 公民权	francais|n,kerakyatan|adj
 公然	nyata-nyata
+公用	umum|adj
 公的	jantan|adj
 公益	amal
 公益事	amal
 公益事业	amal
-公羊	kambing randuk,segok|v
-公英	paliman|n
+公立	umum|adj
+公约	konvensyen|n
+公羊	segok|v,kambing randuk
+公营	umum|adj
 公证	notari awam|n
 公证人	notari awam|n
-公路	jalan raya|n,ekspreswe|n,jalan ekspres|n,lebuh raya ekspres|n
+公路	jalan raya|n
+公车	bas|n
 公道	adil|adj
-公里	kilo
-公鸡	ayam jantan,jaguh|n,berkokok,kokok
-公鸡啼	berkokok,kokok
-公鸡啼声	berkokok,kokok
-召	bang|n,bilal|n,kerah|n,konven|n,mengerahkan,menghimpunkan,mengumpulkan,saman
-召唤	saman,bang|n,bilal|n
-召唤人	bilal|n
-召集	kerah|n,konven|n,mengerahkan,menghimpunkan,mengumpulkan
-啬	bakhil,cekel,kedekut|adj,kikir,lokek,medit,pelit,sekut
-啬的	bakhil,cekel,kikir,lokek,pelit,sekut
-姬	orkid|n
-姬花	orkid|n
-彬	sopan
-彬彬	sopan
-彬彬有	sopan
+公鸡	jaguh|n,ayam jantan,kokok,berkokok
+公鸡啼	kokok,berkokok
+公鸡啼声	kokok,berkokok
+召	kerah|n,saman,mengerahkan,mengumpulkan,menghimpunkan
+召唤	saman
+召唤...行动	mengabsen|v
+召集	kerah|n,mengerahkan,mengumpulkan,menghimpunkan
 彬彬有礼	sopan
 彬彬有礼的	sopan
-彬有	sopan
-彬有礼	sopan
-彬有礼的	sopan
-扬	berkibar,kenyit,kibar|v,layang|v,mabur,mengenyit,menyanjung,sanjung
+恬谧	diem|adj,aman|adj
+恬静	diem|adj,aman|adj
 扬眉	kenyit,mengenyit
-括	liput|v,terkandung,termasuk|v
-敬	bera|n,berhormat,beri hormat,beri tabik,bersalaman,dengan hormat,gempak|adj,hormat|adj
+扬眉眨	kenyit,mengenyit
+扬眉眨眼	kenyit,mengenyit
+敬	sembah|v,memuja,beri hormat
 敬仰	memuja
 敬启	dengan hormat
 敬启者	dengan hormat
-敬意	junjung tinggi
 敬爱	mulia|adj
 敬爱的	mulia|adj
-敬畏	gempak|adj
-敬畏的	gempak|adj
-敬的	bera|n,berhormat,dengan hormat,hormat|adj,silu,yang mulia,ym
-敬礼	beri hormat,sembah|v,jurah
-柬	surat jemputan,undangan
-烬	abu|n,bara|n
-独	agsa,anak tunggal|n,autisme|n,autistik|adj,autokrasi|n,autokrat|n,autokratik|adj,autoritarian|n
-独唱	solo
-独唱曲	solo
-独断	sewenang-wenang,wenang
-独断地	sewenang-wenang,wenang
-独木	ibar-ibar,jalur|n,jongkong,jukung,kempang,kolek,sagur,titian
+敬礼	sembah|v,beri hormat
+独	merdeka|adj,kara,bermaharajalela,kemerdekaan,bersendirian
+独一	khusus|adj,cuma|adv
+独创	inovasi|n
+独唱曲solo	solo
+独属	khas|adj
+独断	wenang,sewenang-wenang
+独断地	wenang,sewenang-wenang
+独有	spesifik|adj
+独木	jalur|n,titian,kolek,sagur,ibar-ibar,jukung,kempang,jongkong
 独木桥	titian
-独木舟	ibar-ibar,jalur|n,jongkong,jukung,kempang,kolek,sagur
-独特	teristimewa,unik|adj
-独特的	teristimewa,unik|adj
+独木舟	jalur|n,kolek,sagur,ibar-ibar,jukung,kempang,jongkong
+独特	unik|adj,teristimewa
+独特的	unik|adj,teristimewa
 独生	anak tunggal|n
 独生子	anak tunggal|n
-独症	autisme|n
-独癖	autisme|n
-独的	autistik|adj,berkhalwat|v,nafsi,sunyi|adj,tunggal|adj
-独立	kemerdekaan,merdeka|adj,kedidi,melincirkan|v
+独立	merdeka|adj,melincirkan|v,kemerdekaan
 独立的	melincirkan|v
-独者	kera sumbang
-独自	bersendirian,kara
-独裁	bermaharajalela,autokrasi|n,autokrat|n,autokratik|adj,autoritarian|n,diktator,monokrasi|n
-独裁政	monokrasi|n
-独裁政治	monokrasi|n
+独自	kara,bersendirian
+独裁	autokratik|adj,autoritarian|n,bermaharajalela,autokrasi|n,autokrat|n,diktator
+独裁政治独裁政治	monokrasi|n
 独裁的	autokratik|adj,autoritarian|n
 独裁统	autokrasi|n
 独裁统治	autokrasi|n
 独裁者	autokrat|n,diktator
-独身	agsa,bujang|n,lajang,lamban
-独身汉	agsa,bujang|n,lajang,lamban
-睬	acuh,bena tak,hirau|v,layan|v,meling,mendak,peduli|v
-睬的	meling
-硬	kaku,kebekuan,air liat|n,anime|n,bangka,basau,begar,bintangur|n
+独身	bujang|n,lajang,agsa,lamban
+独身汉	bujang|n,lajang,agsa,lamban
+硬	kaku,kebekuan,bintangur|n,genjur,vulkanisasi
 硬化	vulkanisasi
 硬化的	vulkanisasi
 硬壳	kemiri|n
 硬壳果	kemiri|n
 硬壳果树	kemiri|n
-硬心	tebal hati,teras|n
+硬底子	berkebolehan|adj
+硬心	teras|n,tebal hati
 硬心木	teras|n
 硬心肠	tebal hati
 硬心肠的	tebal hati
+硬性	keras|adj
 硬挤	rejah
 硬挤进	rejah
+硬是	baru|adj,sekadar|adv
+硬朗	segar|adj
 硬木	bintangur|n
 硬果	gundu
 硬果核	gundu
 硬树	anime|n
 硬树脂	anime|n
 硬水	air liat|n
-硬的	genjur,bangka,basau,degil|adj,ganyut,kejur,kersai,kersang
-硬皮	menggelotak
-葬	mengebumikan,menguburkan,pacai,pancaka
-葬场	pancaka
-葬礼	pacai
-葬礼时	pacai
-葬礼时撒	pacai
-葬礼时撒于	pacai
-葬礼时撒于尸	pacai
-葬礼时撒于尸布	pacai
-葬礼时撒于尸布上	pacai
-葬礼时撒于尸布上的	pacai
-葬礼时撒于尸布上的白	pacai
-葬礼时撒于尸布上的白檀	pacai
-葬礼时撒于尸布上的白檀香	pacai
+硬水硬	air liat|n
+硬水硬水	air liat|n
+硬的	genjur
 葬礼时撒于尸布上的白檀香粉	pacai
-蓬	layar|n,cegak,dinamik|adj,jerubung,kusau
+蓬	layar|n
 蓬乱	kusau
 蓬乱的	kusau
-蓬勃	cegak,dinamik|adj
-蓬勃的	cegak,dinamik|adj
-衬	gamis,kemeja|n
+蓬散	goyang|adj
+衬	kemeja|n,gamis
 衬衣	gamis
 衬衫	kemeja|n
 譬	misalnya|prep,umpamakan
@@ -168,210 +149,125 @@
 譬如	misalnya|prep
 诬	fitnah|n,tukas
 诬告	fitnah|n,tukas
-豬	khinzir|n
-转	berkisar,memilin,pilin|n,alih pekerjaan,baling-baling|n,beleng|v,belok|v,berbelok
+转	pilin|n,memilin,berkisar,pusar|n,belok|v,putar|v,pusing|v,kejap|n
 转业	alih pekerjaan
 转交	menyampaikan
-转动	berpusar,gulat,memusingkan,memutar,pelesat,pusar|n,pusing|v,putar|v
-转反	kelusuh-kelasah
-转反侧	kelusuh-kelasah
-转变	bertukar,mengalih,haba|n,polang-paling
-转变热	haba|n
-转向	berbelok,hala|v,memalingkan|v,memesong,paling|adv,pesong
+转动	pusar|n,putar|v,pusing|v,gulat,berpusar,uri,pelesat,memutar
+转变	mengalih,bertukar
+转向	hala|v,paling|adv,memalingkan|v,pesong,berbelok,memesong
+转向最	paling|adv
 转开	pelesat
-转弯	beleng|v,belok|v,berbelok,berpaling|v,menolehkan|v,palingkan|v,mentung
-转弯的	mentung
+转弯	belok|v,beleng|v,berpaling|v,palingkan|v,menolehkan|v,berbelok
 转折	lentok
-转换	bertransformasi|v,metatesis|n,transformasikan|v
 转方	belok|v
 转方向	belok|v
-转炮	rentaka
 转环	kekili|n
-转的	kelumat,liut,piak,piat
 转眼	kejap|n
 转瞬	sekejap|adv
 转瞬间	sekejap|adv
-转移	kalih,memesong,pertukaran,pesong
+转移	kalih,pesong,pertukaran,memesong
 转角	ceruk
 转角处	ceruk
-转过	memaling,paling|adv
-转过头	memaling,paling|adv
-酬	bayaran,ganjar,ganjaran,pahala|n,upah|n,upah gaji
+转轮	roda|n
+转过	paling|adv,memaling
+转过头	paling|adv,memaling
+酬	ganjaran,bayaran,ganjar,upah gaji
+酬偿	pahala|n
 酬劳	ganjaran,upah gaji
+酬宾	diskaun|n
 酬报	bayaran
 酬谢	ganjar
+酬赏	pahala|n
 酬金	ganjaran
-铬	kromium|n,zink kromat|n
 铬酸	zink kromat|n
 铬酸锌	zink kromat|n
-马	kuda|n,abaka|n,anjing dalmatia|n,badak air|n,bangsa melayu,bangsawan|n,beraksa,berbasikal|v
-马上	merta,segera|adv,serta-merta
+铬铬	kromium|n
+铬铬C	kromium|n
+铬铬Cr	kromium|n
+马	pedati|n,kuda|n,ringkik|n,rakap|n,langau|n,pelana|n,pantelon|n,polo
+马上	segera|adv,merta,serta-merta
 马交	tenggiri|n
 马交鱼	tenggiri|n
-马克	marxisme|n
-马克思	marxisme|n
-马克思主	marxisme|n
-马克思主义	marxisme|n
-马克思的	marxisme|n
+马克	tanda|n
+马克思主义马克思	marxisme|n
+马克思主义马克思的	marxisme|n
 马六	melaka,semambu
 马六甲	melaka,semambu
 马六甲树	melaka
 马六甲藤	semambu
 马其	makadunia
 马其顿	makadunia
-马凡	sindrom marfan|n
-马凡综	sindrom marfan|n
-马凡综合	sindrom marfan|n
-马凡综合征	sindrom marfan|n
-马刺	memacu,tengar|n
-马刺来	memacu
-马刺来踢	memacu
-马刺来踢马	memacu
-马刺的	tengar|n
 马加	sebekah
 马加鱼	sebekah
 马勒	kendali
-马化	perumian|n,rumi|adj
-马化天	perumian|n
-马化天主	perumian|n
-马化天主教	perumian|n
-马化天主教化	perumian|n
-马口	kaling,kupi|n,timah putih,tin|n
-马口铁	kaling,timah putih,kupi|n,tin|n
-马口铁罐	kupi|n,tin|n
-马口铁罐头	kupi|n,tin|n
-马嘶	meringkik|v,ringkik|n
-马嘶声	meringkik|v
+马匹	pelarian|n
+马口	kaling,timah putih
+马口铁	kaling,timah putih
+马口铁罐头	tin|n,kupi|n
+马嘶	ringkik|n
+马嘶声马嘶	meringkik|v
+马子	awek|n
+马尔谷	tanda|n
 马尼	abaka|n
 马尼拉	abaka|n
 马尼拉麻	abaka|n
 马尾	rengkam
 马尾藻	rengkam
-马屁	kaki bodek|n,mat bodek|n,peleceh
-马屁的	peleceh
-马屁的人	peleceh
-马屁者	kaki bodek|n,mat bodek|n
 马师	joki
 马戏	sarkas|n
 马戏团	sarkas|n
-马拉	gerobak kuda,malayalam|n
-马拉的	gerobak kuda
-马拉的货	gerobak kuda
 马拉的货车	gerobak kuda
-马拉雅	malayalam|n
-马拉雅拉	malayalam|n
-马拉雅拉姆	malayalam|n
 马拉雅拉姆语	malayalam|n
-马提	anjing dalmatia|n,dalmatia
-马提亚	anjing dalmatia|n,dalmatia
-马提亚狗	anjing dalmatia|n
-马方	sindrom marfan|n
-马方综	sindrom marfan|n
-马方综合	sindrom marfan|n
-马方综合征	sindrom marfan|n
-马来	bangsa melayu,bangsawan|n,beruang madu|n,bomoh|n,bunga raya|n,dodol,gelamai,getah perca|n
-马来乳	getah perca|n,getah taban|n
-马来乳胶	getah perca|n,getah taban|n
-马来亚	persekutuan tanah melayu,sakai|n
-马来亚的	sakai|n
-马来亚的沙	sakai|n
-马来亚的沙盖	sakai|n
+马方综合征马凡综合征	sindrom marfan|n
+马来	jawi|n,melayu,bomoh|n,bangsawan|n,teledu|n,tanah melayu|n,beruang madu|n,muntil
 马来亚的沙盖族	sakai|n
-马来亚联	persekutuan tanah melayu
-马来亚联合	persekutuan tanah melayu
 马来亚联合邦	persekutuan tanah melayu
-马来人	bangsa melayu,jawi|n,melayu
+马来人	melayu,jawi|n,bangsa melayu
 马来人的	melayu
 马来剑	muntil
 马来半	tanah melayu|n
 马来半岛	tanah melayu|n
 马来土	bomoh|n
 马来土医	bomoh|n
-马来式	linggi
-马来式船	linggi
-马来式船首	linggi
-马来式船首龙	linggi
-马来式船首龙骨	linggi
-马来式船首龙骨的	linggi
-马来式船首龙骨的夹	linggi
 马来式船首龙骨的夹板	linggi
-马来文	melayu,pengajian melayu
-马来文研	pengajian melayu
+马来文	melayu
 马来文研究	pengajian melayu
-马来暹	samsam
-马来暹锣	samsam
-马来暹锣的	samsam
-马来暹锣的混	samsam
-马来暹锣的混种	samsam
 马来暹锣的混种人	samsam
-马来椰	gelamai
-马来椰糕	gelamai
 马来椰糕名	gelamai
-马来歌	bangsawan|n,makyung
-马来歌剧	bangsawan|n,makyung
-马来民	pak kaduk,ronggeng
-马来民族	ronggeng
-马来民族的	ronggeng
-马来民族的土	ronggeng
-马来民族的土风	ronggeng
+马来歌	bangsawan|n
+马来歌剧	bangsawan|n
 马来民族的土风舞	ronggeng
-马来民间	pak kaduk
-马来民间故	pak kaduk
-马来民间故事	pak kaduk
-马来民间故事中	pak kaduk
-马来民间故事中之	pak kaduk
-马来民间故事中之痴	pak kaduk
 马来民间故事中之痴汉	pak kaduk
 马来熊	beruang madu|n
 马来獾	teledu|n
 马来的	jawi|n
-马来糕	dodol
-马来舞	wayangbangsawan
-马来舞台	wayangbangsawan
 马来舞台戏	wayangbangsawan
-马来西	bunga raya|n,keropok lekor|n,malaysia,malaysia boleh,ringgit malaysia,riyal|n
-马来西亚	malaysia,malaysia boleh,bunga raya|n,keropok lekor|n,ringgit malaysia,riyal|n
-马来西亚人	keropok lekor|n,ringgit malaysia
-马来西亚和	riyal|n
-马来西亚和新	riyal|n
-马来西亚和新加	riyal|n
-马来西亚和新加坡	riyal|n
+马来西	malaysia
+马来西亚	malaysia
 马来西亚和新加坡元	riyal|n
-马来西亚国	bunga raya|n
 马来西亚国花	bunga raya|n
-马来西亚的	keropok lekor|n,ringgit malaysia
-马来诗	pantun|n
-马来诗文	pantun|n
+马来西亚的马来西亚人	keropok lekor|n,ringgit malaysia
+马来西亚马来西亚	malaysia boleh
 马歇	marsyal|n
 马歇尔	marsyal|n
 马球	polo
-马的	cemara|n,rumi|adj
-马的尾	cemara|n
-马的尾毛	cemara|n
 马票	loteri
+马经	rupa|n
 马蝇	langau|n
 马衔	lagam
 马裤	pantelon|n
 马路	tengah jalan
 马路中	tengah jalan
 马路中间	tengah jalan
-马蹄	derap,ladam|n,lerap
+马蹄	ladam|n,derap,lerap
 马蹄声	derap,lerap
 马蹄钉	ladam|n
-马车	pedati|n,gari|n
-马达	madagaskar
-马达加	madagaskar
-马达加斯	madagaskar
-马达加斯加	madagaskar
+马车	pedati|n
 马达加斯加岛	madagaskar
-马都	gambuh
-马都拉	gambuh
-马都拉战	gambuh
-马都拉战争	gambuh
-马都拉战争舞	gambuh
-马铃	kantang,ubi kentang|n
-马铃薯	kantang,ubi kentang|n
+马铃	ubi kentang|n,kantang
+马铃薯	ubi kentang|n,kantang
 马镫	rakap|n
 马鞍	pelana|n
-鹬	berkik,kedidi,kudidi,meragi
+马马虎虎	adil|adj,samar|adj
+鹬	kedidi,berkik,kudidi
 鹬鸟	kudidi

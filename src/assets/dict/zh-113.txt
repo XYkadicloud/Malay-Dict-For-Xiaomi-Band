@@ -1,231 +1,159 @@
-乱	acak|adj,amuk|v,arau,berai|adj,berkecah,berpesai,berpintal-pintal,berselerak
-乱七	bongkar-bongkir,kacau-bilau
-乱七八	bongkar-bongkir,kacau-bilau
-乱七八糟	bongkar-bongkir,kacau-bilau
-乱丢	memeruk,peruk
+乱	cabul,peruk,rapik,rampus,memeruk,ketimbal,ubrak-abrik,rampat
+乱七	kacau-bilau,bongkar-bongkir
+乱七八	kacau-bilau,bongkar-bongkir
+乱七八糟	kacau-bilau,bongkar-bongkir
+乱丢	peruk,memeruk
 乱伦	cabul
-乱写	cakar ayam|n
-乱叫	pikau,terpikau
-乱喊	pikau,terpikau
-乱喊乱	pikau,terpikau
-乱喊乱叫	pikau,terpikau
-乱堆	ketimbal,tindanan
-乱堆积	tindanan
-乱塞	memeruk,peruk
-乱抛	memeruk,peruk
-乱撒	menyepahkan
-乱撞	kalap
-乱无	kalak,lintang-pukang
-乱无章	kalak,lintang-pukang
-乱杀	amuk|v
-乱杀人	amuk|v
+乱堆	ketimbal
+乱塞	peruk,memeruk
+乱抛	peruk,memeruk
 乱烘	kacir,kucar-kacir
 乱烘烘	kacir,kucar-kacir
 乱烘烘的	kacir,kucar-kacir
-乱的	berpintal-pintal,berselerak,camuk,kalut,kapar,kecah,kecah-becah,kolera
-乱砍	merampat,rampat
-乱翻	ubrak-abrik,acak|adj
+乱砍	rampat,merampat
+乱翻	acak|adj,ubrak-abrik
 乱翻东	acak|adj
 乱翻东西	acak|adj
-乱者	pengacau
 乱语	rapik
-乱说	igau,mengigau
+乱象	kemelut|n
 乱骂	rampus
-俱	kaki disko|n,kelab|n,perkakas rumah
-俱乐	kaki disko|n,kelab|n
-俱乐部	kelab|n,kaki disko|n
-俱乐部会	kaki disko|n
+俱乐	kelab|n
+俱乐部	kelab|n
 俱乐部会员	kaki disko|n
-共	sambil|conj,serta|conj,balai raya|n,bergandingan,bersekongkolan,cuti am,faham komunis|n,hari kelepasan am
-共产	faham komunis|n,komunis|n,komunisme|n
-共产主	faham komunis|n,komunis|n,komunisme|n
-共产主义	faham komunis|n,komunisme|n,komunis|n
+俱佳	elok|adj,mantul|adj
+共	sambil|conj,serta|conj,pakat|v,koeksistensi|n,bergandingan,bersekongkolan
+共产	komunisme|n,faham komunis|n
+共产主	komunisme|n,faham komunis|n
+共产主义	komunisme|n,faham komunis|n
 共产主义者	komunis|n
-共假	cuti am,hari kelepasan am
-共假期	cuti am,hari kelepasan am
 共同	bergandingan,persamaan|n
+共同体	ummah|n
 共同点	persamaan|n
-共和	republik|n,republik congo,republik czech,republik dominika,republik rakyat china,republikanisme|n
+共和	republik|n,republikanisme|n,republik congo,republik rakyat china
 共和主	republikanisme|n
 共和主义	republikanisme|n
-共和国	republik|n,republik congo,republik rakyat china,republik czech,republik dominika
+共和国	republik|n,republik congo,republik rakyat china
 共存	koeksistensi|n
-共汽	koc|n,perhentian bas|n
-共汽车	koc|n,perhentian bas|n
-共汽车站	perhentian bas|n
-共游	taman hiburan|n
-共游乐	taman hiburan|n
-共游乐场	taman hiburan|n
-共谋	bersekongkolan,pakat|v
-共部	sektor awam|n
-共部门	sektor awam|n
-共酌	sulang
-共食	balai raya|n
-共食堂	balai raya|n
+共识	muafakat|n
+共谋	pakat|v,bersekongkolan
 共饮	sulang
 共饮共	sulang
 共饮共酌	sulang
-危	aral|n,bahaya|n,berbahaya|adj,darurat|n,gantung di hujung rambut,krisis|n,membahayakan,merbahaya
+危	krisis|n,darurat|n,bahaya|n,aral|n,mudarat,gantung di hujung rambut
 危害	membahayakan
 危害到	membahayakan
 危急	darurat|n
+危性	risiko|n
+危惧	goy|adj
 危机	krisis|n
-危险	aral|n,bahaya|n,gantung di hujung rambut,mudarat,berbahaya|adj,merbahaya,parah
+危险	bahaya|n,berbahaya|adj,aral|n,mudarat,gantung di hujung rambut,parah,merbahaya
 危险性	merbahaya
-危险的	berbahaya|adj,merbahaya,parah
+危险的	berbahaya|adj,parah,merbahaya
 叱	herdik,membentak
 叱咤	herdik
 叱骂	membentak
-囱	cerobong,corong,corong asap
-山	bukit kayu hitam,bukit merah,gunung|n,banar|n,banjaran,beruas,bukau,bukit|n
-山丘	guguk,manggul
-山中	chalet|n
-山中的	chalet|n
-山中的牧	chalet|n
-山中的牧人	chalet|n
-山中的牧人小	chalet|n
-山中的牧人小屋	chalet|n
+呱呱叫	elok|adj
+噱头	lawak|adj
+山	gunung|n,lembah|n,puncak|n,bukit merah,bukit kayu hitam,kambing|n,merus,lurah
+山丘	guguk
 山关	genting bukit
+山凹	lembah|n
+山包	bukit|n
 山口	celah bukit
-山大	iskandariah,zulkarnain
-山大大	zulkarnain
-山大大帝	zulkarnain
-山大港	iskandariah
+山岳	bukit|n,gunung|n
 山峡	celah bukit,genting bukit
+山峰	mercu|n
 山崩	merus
+山巅	puncak|n
 山打	sandakan
 山打根	sandakan
-山沟	palung
-山甲	pengguling|n,tenggiling|n
-山竹	manggis|n,beruas
-山竹果	beruas
-山竹果树	beruas
+山沟	lembah|n
+山竹	manggis|n
+山竹果	manggis|n
+山竹果實	manggis|n
 山羊	kambing|n
-山者	banar|n
-山脉	banjaran,gunung-ganang,gunung-gemunung,kucing andes|n,kucing banjaran andes|n
-山脉的	kucing andes|n,kucing banjaran andes|n
+山脉	banjaran,gunung-ganang,gunung-gemunung
 山荔	pulasan|n
 山荔枝	pulasan|n
+山药蛋	kentang|n
 山葵	remunggai
-山谷	bukau,celah bukit,jurang,lembah|n,lembakan,lurah
+山谷	lembah|n,lurah,bukau,jurang,celah bukit,lembakan
 山路	genting bukit
 山顶	puncak|n
-山鸠	pergam|n
 山麓	kaki bukit|n
 山麓小	kaki bukit|n
 山麓小丘	kaki bukit|n
-己	berbiola|v,diri|n,diri sendiri,egosentrisme|n,mengga,sendiri|adj
-己主	egosentrisme|n
-己主义	egosentrisme|n
-己的	berbiola|v,mengga
-影	bayang|n,bayangi|v,bergambar,bintang filem|n,bintang wayang,dalang|n,daya|adj,filamen
-影像	memvideokan|v,video|n
-影制	sinematografi|n
-影制片	sinematografi|n
-影制片术	sinematografi|n
+影	kesan|n,video|n,daya|adj,memvideokan|v,fotostat,mempengaruhi
+影像	video|n,memvideokan|v
+影儿	bayang|n
 影印	fotostat
-影响	daya|adj,kesan|n,mempengaruhi,pempengaruh|n,pengaruh|n
+影响	kesan|n,daya|adj,pengaruh|n,mempengaruhi,pempengaruh|n
 影响力	pengaruh|n
 影响者	pempengaruh|n
-影器	pemaju|n
-影师	tukang gambar
-影戏	dalang|n,wayangkulit
-影戏的	dalang|n
-影戏的班	dalang|n
-影戏的班主	dalang|n
-影戏的班主或	dalang|n
-影戏的班主或导	dalang|n
-影戏的班主或导演	dalang|n
-影明	bintang filem|n,bintang wayang
-影明星	bintang filem|n,bintang wayang
-影照	sinematografi|n
-影照相	sinematografi|n
-影照相术	sinematografi|n
+影子	renungan|n,bayang|n
 影片	filamen
-影院	pawagam|n
-拱	arked|n,gaba-gaba,kubah,lengkungan,pelengkung|n
+影踪	tanda|n,bekas|n
+影集	siri|n
+拱	arked|n,pelengkung|n,kubah,lengkungan
 拱廊	arked|n
-拱门	lengkungan,pelengkung|n,gaba-gaba
-拱门上	gaba-gaba
-拱门上扎	gaba-gaba
-拱门上扎的	gaba-gaba
-拱门上扎的花	gaba-gaba
+拱门	pelengkung|n,lengkungan
 拱门上扎的花彩	gaba-gaba
 拱顶	kubah
-旱	huma|n,kemarau|n,musim kemarau|n,tipar
+旱	kemarau|n,musim kemarau|n,tipar
 旱天	kemarau|n
 旱季	musim kemarau|n
+旱烟	tembakau|n
 旱田	tipar
 旱稻	huma|n
 旱稻田	huma|n
-柱	jenang,pancang,saka,tonggak|n,turus|n,gelegar,kelandara,mandika
-柱侧	skoliosis|n
-柱侧凸	skoliosis|n
+柱	tonggak|n,turus|n,tiang|n,saka,jenang,pancang,poros|n
 柱头	poros|n
 柱子	tiang|n
-柱筒	torak-torak
-柱脚	semberip
-柱脚的	semberip
-柱脚的铜	semberip
-柱脚的铜盘	semberip
-柱顶	kelandara
-柱顶扣	kelandara
-柱顶扣结	kelandara
-柱顶扣结帆	kelandara
-柱顶扣结帆桁	kelandara
-柱顶扣结帆桁的	kelandara
-柱顶扣结帆桁的圈	kelandara
 棱	prisma|n
 棱镜	prisma|n
-橱	almari|n,ajaibkhanah|n,almari buku,gerobok|n,lemari|n,sarah|n
+橱	almari|n,ajaibkhanah|n
 橱柜	ajaibkhanah|n
-深	dalam-dalam|adv,dalamnya,duga|v,jauh malam,jerau,lanjut|adj,larut malam,lobok
+泱泱	luas|adj,agung|adj
+深	mungkum,ngarai|n,lobok,temenung,nadim,ngalan,lubuk,larut malam
 深信	nadim
 深凹	lobok
 深凹处	lobok
+深切	jujur|adj
 深刻	dalam-dalam|adv
 深刻地	dalam-dalam|adv
+深厚	hebat|adj,dalam|prep
 深塘	lobok
 深处	lubuk
-深夜	jauh malam,larut malam
+深夜	larut malam,jauh malam
+深奥	hebat|adj
+深密	tebal|adj
+深层	dalam|prep
+深广	luas|adj,hebat|adj
 深度	dalamnya
-深思	merenungkan,temenung,timbang menimbang
+深思	temenung,merenungkan,timbang menimbang
 深思熟	timbang menimbang
 深思熟虑	timbang menimbang
+深沉	hebat|adj,dalam|prep
 深洞	ngalan
+深深	hebat|adj,dalam|prep
 深渊	ngarai|n
 深潭	lobok
 深爰	sundari
 深爰的	sundari
 深的	mungkum
-深红	jerau,merah tua
+深红	merah tua,jerau
 深红色	jerau,merah tua
 深红色的	merah tua
 深蓝	nila|adj
 深蓝色	nila|adj
-深锤	perum
-狱	adar,jahanam|adj,jel,lapan puluh empat|num,neraka|n,penjara|n,pondok tol|n,sair
-狱之	zakum
-狱之树	zakum
-狱吏	adar,sipir
-狱火	sair
-狱的	zabaniah
-狱的夜	zabaniah
-狱的夜叉	zabaniah
-痱	bintat
-篱	berpagar,memagari|v,pagari
-篱笆	berpagar,memagari|v,pagari
-篱笆围	pagari
-篱笆围住	pagari
-篱笆的	berpagar
-胱	pundi kencing|n
-英	adiwira|n,ang,bahasa orang putih,baiduri|n,batu telerang|n,ekar,england,gagah|adj
-英东	kompeni|n
-英东印	kompeni|n
-英东印度	kompeni|n
-英东印度公	kompeni|n
+深邃	dalam|prep
+深重	hebat|adj
+深长	hebat|adj
+狱	sipir,adar
+狱吏	sipir,adar
+英	gagah|adj,wira|n,pahlawan|n,kewiraan|n,menak,hero,perwira,ekar
 英东印度公司	kompeni|n
-英亩	ekar,relung|n
+英亩	ekar
 英俊	gagah|adj,tampan|adj
 英俊的	tampan|adj
 英勇	kewiraan|n,gagah berani,gagah perkasa
@@ -233,53 +161,44 @@
 英國	inggeris
 英國的	inggeris
 英寸	inci
-英文	ang,bahasa orang putih
-英格	england,inggeris
-英格兰	england
+英尺	kaki|n
+英式足球	bola sepak|n
+英文	bahasa orang putih
+英明	gemilang|adj,bijak|adj
+英格	inggeris
+英格兰英格兰	england
 英格蘭	inggeris
 英格蘭的	inggeris
-英石	baiduri|n
-英管	meritokratik|adj
-英管理	meritokratik|adj
-英管理的	meritokratik|adj
 英联	komanwel
 英联邦	komanwel
-英雄	hero,johan pahlawan,menak,pahlawan|n,perwira,wira|n,adiwira|n,heroin
-英领	meritokrasi|n
-英领导	meritokrasi|n
-英领导阶	meritokrasi|n
-英领导阶级	meritokrasi|n
+英雄	wira|n,pahlawan|n,menak,hero,perwira,johan pahlawan
 菱	kelarai
 菱形	kelarai
-葱	bawang|n,bawang merah|n,daun bawang|n,kermak,kucai|n
-葱的	kermak
-葱的一	kermak
 葱的一种	kermak
-虱	kutu|n,tuma|n,tungau|n,basat,selisik
-诱	ali,denak,godaan|n,lima puluh empat|num,mantera|n,memikat,memujuk,mengumbuk
+虱	kutu|n,tungau|n,tuma|n
+诱	mantera|n,godaan|n,penculikan|n,memujuk
 诱导	memujuk
-诱惑	godaan|n,mantera|n,lima puluh empat|num,pikat|v,terpikat
+诱惑	mantera|n,godaan|n
 诱拐	penculikan|n
-诱捕	denak,memikat
-诱捕鸟	memikat,denak
-诱捕鸟兽	denak
-诱捕鸟兽用	denak
-诱捕鸟兽用的	denak
-诱捕鸟兽用的小	denak
-诱捕鸟兽用的小动	denak
+诱捕	memikat
+诱捕鸟	memikat
 诱捕鸟兽用的小动物	denak
-诱物	umpan|n
-酱	sos|n,tauyu|n,toyu|n,air tauhu|n,berkicap|adj,cencaluk,jem|n,kicap|n
-酱油	air tauhu|n,berkicap|adj,kicap|n
-铱	iridium|n
-镱	iterbium|n
-饱	cemus,jenuh|adj,kenyang|adj,bernas,pudat,segah,segak,tepu|adj
-饱满	bernas,pudat,segak,tepu|adj
-饱满的	pudat,tepu|adj
+轱辘	roda|n
+酱	sos|n,toyu|n,tauyu|n,kicap|n,berkicap|adj,air tauhu|n
+酱料	sos|n
+酱油	kicap|n,berkicap|adj,air tauhu|n
+铱铱	iridium|n
+铱铱I	iridium|n
+铱铱Ir	iridium|n
+镱镱	iterbium|n
+镱镱Y	iterbium|n
+镱镱Yb	iterbium|n
+饱	jenuh|adj,kenyang|adj,cemus,bernas
+饱满	tepu|adj,bernas,pudat
+饱满的	tepu|adj,pudat
 饱胀	cemus,segah
 饱胀的	segah
-驱	tunggit,alau,giring,halau|v,memacu,menggiring,menghalau,mengusir
+驱	tunggit,usir|v,halau|v,mengusir,alau,memacu,giring,tundung
 驱使	memacu
-驱动	pacuan empat roda|n
-驱赶	giring,halau|v,menggiring
-驱逐	alau,halau|v,menghalau,mengusir,tundung,usir|v
+驱赶	halau|v,giring,menggiring
+驱逐	usir|v,halau|v,mengusir,alau,tundung,menghalau

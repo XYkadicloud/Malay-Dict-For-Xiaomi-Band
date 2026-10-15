@@ -16,7 +16,7 @@ cucuhmeriam	cucuh meriam		开炮
 cucuk	cucuk	v	刺，插入，贯穿，注射	to pierce  to stake
 cucuktanam	cucuk tanam		务农，耕种
 cuculakilaki	cucu laki-laki	n	孙子	grandson
-cuculakilakicucu	cucu laki-laki cucu	n	两者择一
+cuculakilakicucu	cucu laki-laki cucu	n	两者择一	alternative form of cucu lelaki cucu (“great-great-grandson”)
 cuculelaki	cucu lelaki	n	孙子	grandson
 cuculelakicucu	cucu lelaki cucu	n	玄孙	great-great-grandson
 cucunda	cucunda		孙子
@@ -64,7 +64,7 @@ curiayam	curi ayam	v	其他的	Used other than figuratively or idiomatically: se
 curicuri	curi-curi	adv	秘密地，偷偷地	secretly
 curiga	curiga	adj	怀疑，不信任	Taking caution; careful.
 curigai	curigai	v	不定式 不定式的	Infinitive of mencurigai.
-curigamencurigai	curiga-mencurigai	v	可疑的
+curigamencurigai	curiga-mencurigai	v	可疑的	To be suspicious of each other.
 curitulang	curi tulang	v	偷懒	lie down on the job; to slack off from work or task
 cuti	cuti	n	假期	leave; time off; furlough (an authorized period of absence from duty or work).
 cutiam	cuti am		公共假期

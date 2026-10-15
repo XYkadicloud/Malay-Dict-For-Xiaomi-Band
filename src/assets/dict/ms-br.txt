@@ -1,5 +1,5 @@
 brakilogi	brakilogi	n	简明	brachylogy
-bran	bran	adj	两者择一
+bran	bran	adj	两者择一	alternative form of berani
 brazil	brazil		巴西	Brazil (a large Portuguese-speaking country in South America)
 bref	bref	n	短音符	breve
 brek	brek		掣手器
@@ -7,7 +7,7 @@ brekmok	brekmok	n	屁眼儿	asshole
 briged	briged	n	旅	brigade
 brigedier	brigedier	n	陆军准将	brigadier
 brikuet	brikuet	n	煤砖	briquette
-briyani	briyani	n	两者择一
+briyani	briyani	n	两者择一	alternative form of beriani
 bromin	bromin	n	溴  溴Br	bromine (nonmetallic chemical element)
 brunei	brunei		最终可能 ，指代婆羅洲. 专有	Brunei (a country in Southeast Asia)
 bruneidarussalam	brunei darussalam		文莱	Brunei Darussalam (the official name of Brunei  a country in Southeast Asia)

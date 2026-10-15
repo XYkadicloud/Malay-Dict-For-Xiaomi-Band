@@ -10,7 +10,7 @@ hujanlebat	hujan lebat	n	滂沱大雨，下大雨	downpour
 hujanpanas	hujan panas	n	太阳	sun shower
 hujanrenyai	hujan renyai		毛毛细雨
 hujanribut	hujan ribut	n	雨暴	rainstorm
-hujong	hujong	adj	荒废的
+hujong	hujong	adj	荒废的	obsolete spelling of hujung
 huju	huju		高傲的，目中无人
 hujung	hujung	adj	尖端，末端，终点，尽头	endmost (last in a series  furthest away)
 hujungtanah	hujung tanah		岬，海角

@@ -1,447 +1,293 @@
-mac	big mac|n
-macam	acane|adv,acanoi|adv,camna|adv,camni|adv,camtu|adv,cane|adv
-macaque	beruk|n,kera|n
-macaroni	laksa geronggang|n,makaroni|n
+m and w	labial|adj
+macaroni	makaroni|n,laksa geronggang|n
 mace	cokmar|n
-macedonia	macedonia utara,makadunia
-machine	mesin|n,mesin basuh|n,mesin juruwang automatik|n,mesin layan diri|n,mesingan|n,terjemahan mesin|n
-mackerel	tenggiri|n
-macrorrhizos	birah|n
+macedonia	makadunia
+machine	mesin|n,pelan|n
+machine gun	mesingan|n
+machine that converts other forms of energy into mechanic	motor
+machine translation	terjemahan mesin|n
 mad	gila|adj,marah|adj,sasar|adj,sasau|adj
 madagascar	madagaskar
-madly	kasmaran|v
-madrasa	tahfiz|n
-madurese	bibi|n
+made	dibuat|v
+made of soft cloth	beret
+madurese female seller or peddler	bibi|n
 magazine	majalah|n
-maghreb	maghrib
 magical	ajaib|adj,magis|adj
-magis	magik|adj
 magistrate	majistret|n
 magnesium	magnesium|n
-magnet	batu berani|n,besi berani|n,magnet|n
+magnet	batu berani|n,besi berani|n
 magnificent	gemilang|adj
-maha	mahakaya|n
-mahasiswa	mahasiswi|n
-mahathir	mahafiraun
+magpie any of several songbirds of the gen	murai
+magpie-robin	murai
+mahathir mohamad	mahafiraun
 mahi-mahi	belitung|n
 mahogany	mahogani|n
 mahr	mas kahwin|n
-mahu	mau|v
-maid	andartu|n
 maiden	dara|n,gadis|n
 maidservant	amah|n
-mail	lamina|n,mel|n,pos|n
-main	ibu pejabat|n
-maingayi	agas-agas|n
+mail	mel|n,pos|n
+main office	ibu pejabat|n
 maize	jagung|n
-majesty	duli yang maha mulia,paduka|n,tahana|n
-majlis	mageran,mara,mbs,mbsa,mbsj,mbsp
-major	sembahyang|n,solat|n
-majority	jumhur|n,majoriti|n
-mak	makcik|n,peran|n
-makan	dimakan|v,maging|n,memakan|v
-makassar	mengkasar
-maklumat	it|n
-malacca	melaka
-malay	bahasa baku|n,belacan|n,kemelayuan|n,leng|n,masuk melayu|v,melayu
+majesty	tahana|n
+majority more than half of some group	majoriti|n
+make	bikin|v
+making mats and baskets or wattled fences	anyam|v
+malacca a state of malaysia	melaka
+malay ethnic group	melayu
 malayalam	malayalam|n
+malayization	pemelayuan|n
 malayness	kemelayuan|n
-malaysia	bachok,bukit aman,bumiputera|n,damansara,jalur gemilang,jitra
-malaysian	bahasa baku|n,keropok lekor|n,pmx,ringgit|n,ringgit malaysia
-male	aaron,abang|n,abdul,abdullah,adik lelaki|n,agus
+malaysia	bbb,arau,ipoh,jitra,kulai,lipis,maran,bachok,kampar,labuan
+malaysia can	malaysia boleh
+malaysian	keris
+malaysian fish snack originated from terengganu	keropok lekor|n
+male	manai|n,jantan|adj,lelaki|n
+male genital	icibos|n
+male pimp	bapak ayam|n
+male soldier	mat tiarap|n
+male student	siswa|n
 malevolent	berniat jahat|adj
-malicious	kod hasad|n
-malim	tanjong malim,tanjung rambutan
+malicious code	kod hasad|n
 mallard	itik melewar|n
 maltreatment	aniaya|n
 malware	perisian jahat|n
-mammal	mamalia|n,tupai tanah|n
-mampankan	dimampankan|v,memampankan|v
-mampus	mam|v
-man	adam,anak muda|n,duda|n,manusia|n,mat|n,nara|n
-man-of-war	ubur-ubur api|n
-mana	acane|adv,acanoi|adv,cane|adv,manoi|adv
+mammal	mamalia|n
+man	mat|n,nara|n,manusia|n
 manacles	gari|n
-manage	kelola|v,urus|v
-management	pengurusan|n,pengurusan strategik|n
+management	pengurusan|n
 manager	pengurus|n
 mandate	mandat|n
-mane	surai|n
+mane of horses	surai|n
 manga	manga|n
-manganese	batu kawi|n,mangan|n
-manggis	manggista|n,manggistan|n
-mangifera	bacang|n,embacang|n,kembacang|n,macang|n,mancang|n,membacang|n
-mango	bacang|n,embacang|n,kembacang|n,macang|n,mancang|n,mangga|n
-mangosteen	manggista|n,manggistan|n,manggustan|n
-mangrove	bakau|n,tengar|n
+manganese	mangan|n,batu kawi|n
+mangifera foetida	bacang|n,macang|n,mancang|n,embacang|n,kembacang|n,membacang|n
+mango	pauh|n,pelam|n,mangga|n,mempelam|n
+mangosteen	manggustan|n
+mangrove	bakau|n
 manhole	lurang|n
 maniac	maniak|n
-manifest	jelma|v
-manifesto	bermanifesto|v
-manilkara	sawo|n
 manipulative	manipulatif|adj
 manipulator	pemanipulasi|n
-manis	pengguling|n
+manis javanica	pengguling|n
 mankind	insan|n
-manner	adab|n,cara|n,elok-elok|adv,olah|n,secara|adv,tiba-tiba|adv
+manner	cara|n,olah|n
+manner way of acting	tingkah
 manners	telatah|n
 manpower	tenaga|n
 mansion	rumah agam|n
-manta	pari kaluk|n
-mantis	mentadak|n,udang lipan|n
-mantra	mantera|n
-manufacture	mengeluarkan|v
+manta ray	pari kaluk|n
+mantis shrimp	udang lipan|n
 manure	baja|n
-manuscript	manuskrip|n,naskhah|n
-many	banyak|adj,berapa|adv,sebanyak|adv
-mao	maoisme|n
+manuscript	naskhah|n,manuskrip|n
+many	banyak|adj
+mao zedong thought	maoisme|n
 maoism	maoisme|n
 map	peta|n
 marble	guli|n,marmar|n
-marbled	belut tuna|n,kucing dahan|n
-march	bulan tiga|n,cepat jalan|n,mac,maret,perlahan jalan|n
-marfan	sindrom marfan|n
-margin	jidar|n,tepi|n
+marbled cat	kucing dahan|n
+march	bulan tiga|n,mac,maret
+marfan syndrome	sindrom marfan|n
+margin	tepi|n,jidar|n
 marijuana	ganja|n
 marinade	perap|n
-mark	bekas|n,bekaskan|v,berbekas|v,kesan|n,membekas|v,tanda|n
-marker	barang|n,sedang|adv,tak payah|adv,tengah|n
-market	memasarkan|v,menjual|v,pasar|n,pasar malam|n,pasaran|n
+mark	bekas|n,tanda|n
+marker used to denote indefiniteness	barang|n
 marketer	pemasar|n
-marketing	pemasaran|n
-marks	jangan|adv
-marmot	marmut|n
-marriage	mahar|n,mas kahwin|n,perkahwinan|n
-married	kahwin|v,orang rumah|n
-marry	kahwin|v,memperisteri|v,mempersuami|v,nikah|v
+marks the negative imperative	jangan|adv
+marriage	perkahwinan|n
+marriage settlement	mahar|n,mas kahwin|n
 mars	marikh
 marsh	paya|n,rawa|n,redang|n
 marshall	marsyal|n
-martial	mahkamah tentera|n
 marxism	marxisme|n
 mary	maria
-masak	dimasak|v,memasak|v
-masamkan	dimasamkan|v,memasamkan|v
-masihi	sm|adv
 mask	kedok|n,topeng|n
 masochism	masokisme|n
-mass	massa|n,misa|n
-massage	urut|v
-massive	besau|adj,turus|n
+mass	massa|n
+massive	besau|adj
+massive post or pile	turus|n
 mast	tiang|n
-master	empu|n,empunya|n,pamegat|n,pengacara|n,sarjana sains|n,tesis sarjana|n
+master	empu|n,empunya|n
+master of ceremonies	pengacara|n
+master of science	sarjana sains|n
+master's thesis	tesis sarjana|n
 masterpiece	adikarya|n,mahakarya|n
-masticate	mamah|v
-masturbate	lancap|v,main sabun|v
-masuk	masok|v
-mat	lampit|n,mat terap|n
-mat-making	ibus|n
-mata	mata-mata|n,memutihkan mata|v
-matahari	mentari
 match	mancis|n,perlawanan|n
 matching	padan|adj
-material	bakal|n,batu|n,fabrik|n,polistirena|n
-maternal	mamak|n
-maternity	cuti bersalin|n
+maternity leave	cuti bersalin|n
 mathematics	matematik|n
 matrilineal	matrilineal|adj
-mats	anyam|v
-matter	fasal|n,hal|n,jirim|n,pepejal|n,tidak apa
+matter	hal|n,fasal|n,jirim|n
 mattress	tilam|n
-matwork	keban|n
-maundy	khamis suci
-max	kedelai|n
-may	bulan lima|n,mei,nauzubillah,semoga|adv
-maya	wargamaya|n
+maundy thursday	khamis suci
+may	boleh|v,bulan lima|n,mei
+may god protect someone	nauzubillah
+may there	semoga|adv
 maybank	bank harimau
-maybe	agaknya|adv,barangkali|adv,kalu|adv,mungkin|adv
-mayones	mayonis|n
+maybe	kalu|adv,agaknya|adv,mungkin|adv,barangkali|adv,entah-entah
 mayonnaise	mayones|n
 mayor	datuk bandar|n
 maze	pagar sesat|n
-mcdonald	mekdi
-me	beta|pron,den|pron,deyen|pron,gua|pron,ingsun|pron,iolls|pron
-meal	makanan|n,selamat menjamu selera
+me	aku|pron,den|pron,gua|pron,koi|pron,beta|pron,saya|pron,sini|adv,deyen|pron,iolls|pron,patik|pron
+meal	makanan|n
 mean	min|n
-meaning	bererti|adj,erti|n,makna|n,seerti|adj
+meaning	erti|n,makna|n
+meaning champion	jihan,johan
+meaning luminous	anwar
 meaningful	bererti|adj
 meaningfulness	keberertian|n
 means	cara|n
 measles	campak|n
-measure	cupak|n,jangka|v,matra|n,penjodoh bilangan|n,ukur|v
-measurement	hasta|n,rian|n
-meat	abon|n,bantai|n,daging|n,daging anjing|n,daing|n
-mecca	mekah
+measure of spatial extent	matra|n
+measure word	penjodoh bilangan|n
+measuring instrument in which the echo of a pulse of micr	radar
+meat	bantai|n,daging|n
+meat floss	abon|n
+mecca a large city in the hejaz	mekah
 mechanic	mekanik|adj
 mechanical	mekanik|adj
-medal	pingat|n
-media	media sosial|n,medsos|n
-medicated	koyok|n
-medicine	perubatan|n,ubat|n
-mediterranean	laut rum
-medium	sebiji|num,sederhana|adj
-meet	balik kampung|n,jumpa|v,tembung|v,temu|v
-meeting	majlis|n,mesyuarat|n,sidang|n
-megabat	kalong|n,keluang|n
-megaptera	paus kelasa|n
+medal	pingat|n,medali
+medicated patch	koyok|n
+medicine	ubat|n,perubatan|n
+mediterranean sea	laut rum
+medium	sederhana|adj
+meeting	majlis|n,sidang|n,mesyuarat|n
+megaptera novaeangliae	paus kelasa|n
 meitnerium	meitnerium|n
-melabuhkan	dilabuhkan|v
-melaleuca	gelam|n
-melayu	bm,ketuanan melayu,mib
-melayukan	dimelayukan|v,memelayukan|v
-meletakkan	letakkan|v
-mellitus	kencing manis|n
+melaleuca leucadendra	gelam|n,kayu putih|n
 mellotron	mellotron|n
-melon	kundur|n
-melosen	dilosen|v
-melt	hancur|v
-melting	kawah peleburan|n
-memalingkan	dipalingkan|v
-memang	mmg
-memasarkan	dipasarkan|v,pasarkan|v
-memasuki	dimasuki|v
-memasukkan	dimasukkan|v
-membadut-badutkan	badut-badutkan|v,dibadut-badutkan|v
-membandarkan	dibandarkan|v
-membaui	dibaui|v
-member	ahli|n,betung|n,katung|n,kesatria|n,limau|n,mmber
-members	geng baju merah|n
-membincangkan	bincangkan|v,dibincangkan|v
-membohong	mohong|v
-membundarkan	bundarkan|v,dibundarkan|v
-memekak	mekak|v
-memekakkan	dipekakkan|v
-memeterai	dimeterai|v
-memisalkan	dimisalkan|v
-memorise	hafal|v
+melting pot	kawah peleburan|n
+member of a family	warga|n
+member of an organization	ahli|n
+membrane	selaput
+membrane a thin piece of skin-like tissue insid	gegendang
 memory	ingatan|n,kenangan|n
-mempercontohkan	dipercontohkan|v,percontohkan|v
-memperelok	diperelok|v,perelok|v
-memperkatakan	diperkatakan|v,perkatakan|v
-memperkotakan	diperkotakan|v
-mempermudah	dipermudah|v,permudah|v
-mempersembahkan	bersembahkan|v,menyembahkan|v,persembahkan|v
-mempertontonkan	dipertontonkan|v
-mempreviu	dipreviu|v
-memudahkan	dimudahkan|v,mudahkan|v
-memungkinkan	dimungkinkan|v,mungkinkan|v
-memvideokan	divideokan|v,videokan|v
-men	baka|adj
-menakali	dinakali|v,nakali|v
-menangis	nangis|v
-menangkap	ditangkap|v
-mencelakakan	celakakan|v,dicelakakan|v
-mencetekkan	cetekkan|v,dicetekkan|v
-mencipta	dicipta|v
-mencontoh	dicontoh|v
-mencontohi	contohi|v
-mencontohkan	contohkan|v,dicontohkan|v
-mencurigai	curigai|v,dicurigai|v
-menda	mende|adv
 mendelevium	mendelevium|n
-menderung	menderong|n
-menduduki	diduduki|v,mengeduduki|v
-mendudukkan	didudukkan|v
-menebuk	tebuk|v
-menelefon	ditelefon|v
-menengah	smk|n
-menengok	ditengok|v
-menerima	diterima|v
-menerung	menerong|n
-mengabsahkan	diabsahkan|v
-mengabstrakkan	diabstrakkan|v
-mengabui	diabui|v
-mengabuk	diabuk|v
-mengacak	diacak|v
-mengait	dikait|v
-mengamuskan	dikamuskan|v,kamuskan|v
-mengangkat	angkat sembah|v
-mengantuk	ngantuk|adj
-menganwar-anwarkan	menganwarkan|v
-mengata	dikata|v
-mengatai	dikatai|v,mengata-ngatai|v
-mengatakan	dikatakan|v,katakan|v
-mengelokkan	dielokkan|v,elokkan|v
-mengerti	dimengerti|v,reti|v
-mengganggu	diganggu|v
-menggerek	menggerekkan|v
-menggosok	digosok|v
-menginsafi	diinsafi|v
-menginsafkan	diinsafkan|v
-menginspirasi	diinspirasi|v
-mengistirahatkan	diistirahatkan|v,istirahatkan|v
-mengkuang	bengkuang|n
-mengoder	dioder|v
-mengoksidakan	dioksidakan|v
-mengotai	dikotai|v
-mengotakan	dikotakan|v
-meninggalkan	menurunkan zuriat|v
-menipu	ditipu|v,nipu|v
-menjawab	dijawab|v
-menjengah	dijengah|v,jengah|v
-menjerkah	dijerkah|v,jerkah|v
-menoleh	toleh|v
-menolehkan	ditolehkan|v,tolehkan|v
-menonton	ditonton|v
-menswastakan	diswastakan|v,swastakan|v
-mental	mental|adj,usia mental|n
-mentality	bermentaliti|v,mentaliti|n
-mentally	sasar|adj,sasau|adj,waras|adj
-menteri	pm|n
-mention	sebut|v
-menurut	menurut urutan abjad
-menyabarkan	disabarkan|v,sabarkan|v
-menyajikan	disajikan|v,penyaji|n,sajikan|v
-menyembah	disembah|v
-menyembahkan	sembahkan|v
-menyesal	bersesal|v,nyesal|v
-menyesali	disesali|v,menyesalkan|v
-menyesalkan	disesalkan|v
-menyeterika	diseterika|v
-menyurat	disurat|v,tersurat|v
-menyurati	disurati|v,surati|v
-menyuratkan	suratkan|v
-meow	mengeong|v,ngeong|n
-meowing	iau|n
-merah	bukit merah,mirah|adj
-merambong	merambong
+menstruation the periodic discharging of the menses	haid
+mental	mental|adj
+mental age	usia mental|n
+mentally healthy	waras|adj
+mentally ill	sasar|adj,sasau|adj
 meranti	meranti|n
 merciful	karim|adj
 merciless	perut hijau|adj
-mercury	merkuri|n,perak cergas|n,raksa|n,utarid
-mercy	rahmatullah|n
-merdeka	merdaka|n,merdeheka|adj
-merehatkan	direhatkan|v,rehatkan|v
-merely	cuma|adv,semata|adv
+mercury	raksa|n,merkuri|n,perak cergas|n,utarid
+mercy	belas kasihan
+merely	aje|adv,cuma|adv,semata|adv,sekadar|adv
 merganser	itik gerigi|n
 meritocracy	meritokrasi|n
 meritocratic	meritokratik|adj
-merumikan	dirumikan|v,rumikan|v
-merungut	rungutnya|v
-mesh	jaring|n
-mesosphere	mesosfera|n
-message	mesej|n,pesanan|n,utusan|n
-messenger	acang-acang|n,rasul|n
-messiah	dajal|n
-messy	selerak|adj
-metal	beraso|n,kupi|n,logam|n
-metallic	syiling|n
+merungut to grumble	rungutnya|v
+message	mesej|n,utusan|n,pesanan|n,pesan
+messy	selerak|adj,kacau
+metal	logam|n
+metal fastener with a partially or completely thre	sekerup
+metal receptacle for liquids or preserved foods	kupi|n
 metathesis	metatesis|n
 meteor	tahi bintang|n
-meter	meter|n
-method	cara|n,kaedah|n,kaedah saintifik|n
+method	cara|n,kaedah|n
 methodology	metodologi|n
-metric	liter|n
-mi	mee|n,mee goreng
-mica	abrak|n
+meticulous	teliti
 micro	mikro|adj
 microbiology	mikrobiologi|n
-micronesia	persekutuan mikronesia
 microphone	mikrofon|n
 microprocessor	mikropemproses|n,pemproses mikro|n
 microscope	mikroskop|n,teropong halus|n
-microwave	gelombang mikro|n
 midday	zuhur|n
-middle	abad pertengahan,abad tengah,jari hantu|n,jari tengah|n,tempat jin buang anak|n
-midwife	bidan|n,dukun beranak|n,pengulin|n
-mighty	perkasa|adj
+middle ages	abad tengah,abad pertengahan
+middle of nowhere	tempat jin buang anak|n
+midwife	bidan|n,pengulin|n,dukun beranak|n
+might	kudrat
+mighty	kuat|adj,gagah|adj,perkasa|adj
+mildly annoyed and restles	bosan|adj
 militant	militan|adj
-military	perarakan tentera|n
-milk	air tauhu|n,bancau|n,bandung|n,gigi susu|n,milo|n,santan|n
-milky	bima sakti,getah|n
+military parade	perarakan tentera|n
+milk	susu|n,celup|v
+milk added cordial syrup drink that contains grass jelly	bancau|n
+milk tooth	gigi susu|n
 mill	kilang|n
-millet	jawawut|n
-million	juta|num,satu juta|num,sejuta|num
+million	juta|num
 millionaire	jutawan|n
 millipede	ulat gonggok|n
-millstone	canai|n
-minarchism	minarkisme|n
-mince	cincang|v
-mind	akal|n,fikiran|n,kisah|v,menghiraukan|v,minda|n
-mindanao	magindanau
-mine	lombong|n,makdan|n,periuk api|n
-mineral	air mineral|n,galian|n
+millstone an abrasive wheel for sharpening	canai|n
+minarchism belief in the desirability and practicality of minimum government	minarkisme|n
+mind	akal|n,minda|n,fikiran|n
+mine	makdan|n,lombong|n
+mineral	galian|n
+mineral water	air mineral|n
 miniskirt	miniskirt|n
-minister	maharajalela|n,mangkubumi|n,menteri|n,perdana menteri|n
-ministry	wisma putra
-minke	paus tombak|n
+minke whale	paus tombak|n
 minority	minoriti|n
 mint	pudina|n
-minta	mintak|adv
-minute	halus|adj,minit|n
+minute	halus|adj,minit|n,renik
 mirage	logamaya|n
+miriam	maryam,meriam
 mirror	cermin|n
-misal	misalan|n
 mischance	malang|n
-misfortune	geruh|n,malang|n,mencelakakan|v
+misery	penderitaan|n
+misfortune	geruh|n,malang|n
 mishmash	rojak|n
-misi	misyen|n
-mislead	acan|v
+misled	terperdaya|v
 misogynist	misoginis|n
-miss	meluputkan|v,nona|n
+miss	nona|n
 missile	peluru berpandu|n
 mission	misi|n
-misspelling	kemaskini|n,mee|n,merdaka|n,pelanggam|n,prang|n,utan|n
+misspelling of hutan	utan|n
+misspelling of kemas kini	kemaskini|n
+misspelling of merdeka	merdaka|n
+misspelling of mi	mee|n
+misspelling of pelanggan	pelanggam|n
+misspelling of perang	prang|n
 mist	kabus|n
-mistake	bersalah|v
 mister	tuan|n
 mistreatment	penderaan|n
 misua	misoa|n
 miswak	kayu sugi|n
 mite	tuma|n,tungau|n
-mitragyna	ketum|n
-mix	bancuh|v,campur|v
-mixed	mesra|adj
-mixed-race	kacukan|n
-mixture	cham|n,mengacau|v,rojak|n,santau|n
-mo	ang mo kio
-moan	keluh|n
-mob	kerumun|v
-mobile	mudah alih|adj,mudalih|adj,telefon bimbit|n
+mix or present food	mangkuk|n
+mobile	mudalih|adj,mudah alih|adj
+mobile phone	telefon bimbit|n
 mobilisation	mobilisasi|n
-mock	ejek|v,maki|v,menganjing|v,mengatai|v
-mocking	tacod
-model	model|n,suri teladan|n,umpama|n
+model	model|n,umpama|n
 modem	modem|n
 moderate	sederhana|adj
 moderation	penyederhanaan|n
 modern	moden|adj,mutakhir|adj
-mohamad	mahafiraun
-mohon	bermohon|v
-moisture	embun|n
+moisture in the air that settles on plants	embun|n
 mold	acuan|n,kulapuk|n
-mollusc	moluska|n,siput|n
+mollusc	moluska|n
 molybdenum	molibdenum|n
-moment	kejap|n,ketika|n,la ni|adv,momen|n,sebentar|adv,seketika|adv
-momentane	terbayang|v
-momentaneous	terlompat|v
+moment	momen|n,ketika|n
+momentane of bayangkan	terbayang|v
 monastery	biara|n
-monday	hari satu,isnin
-money	duit|n,duit kopi|n,duit raya|n,langgam|v,pokai|adj,wang|n
-monitor	biancak|n,monitor|n,pantau|v,pemantau|n,terpantau|v
-monitored	berpantau|v
+monday	isnin,hari satu
+money	duit|n,wang|n
+money given during eid al-fitr	duit raya|n
+monitor	monitor|n,pemantau|n
+monitor lizard any of various large carnivorous lizards	biawak
 monitorer	pemantau|n
-monitoring	pantauan|n,pemantauan|n
-monk	biarawan|n,biku|n,rahib|n,sami|n
-monkey	buset|n,kera|n,monyet|n,wanara|n
+monitoring	pemantauan|n
+monk	biku|n,rahib|n,biarawan|n
+monkey	kera|n,buset|n,monyet|n,wanara|n
 monkeypox	cacar monyet|n
 monocracy	monokrasi|n
 monogamy	monogami|n
 monolingual	ekabahasa|adj
 monorail	monorel|n
 monsoon	monsun|n
-monster	jembalang|n
 monstrous	perut hijau|adj
-month	bulan jatidiri,bulan puasa|n
-moon	bulan|n,cendera|n,pernama|n,purnama|n,rembulan|n,satelit|n
+month	tarikh|n
+moon	bulan|n,cendera|n,satelit|n,rembulan|n
 mooncake	kuih bulan|n
 moral	berakhlak|adj
 morals	akhlak|n
 morbidity	morbiditi|n
-more	antarabangsa|adj,berlebih|v,dekah|n,inggeris,lebih kurang|adv,majoriti|n
-moreover	dah tu|adv
+more	agik|adv
+more and more	semakin
+more or less	lebih kurang|adv
+moreover	dah tu|adv,malah
 moringa	merunggai|n
-morning	embun belum kering lagi|adv,pagi|n,pertolehan|n,selamat pagi|int
+morning	pagi|n
 morocco	maghribi
 moronic	tolol|adj,tongong|adj
 morpheme	morfem|n
@@ -450,79 +296,81 @@ mortar	lesung|n
 mortgage	gadai janji|n
 moscow	mosko
 moses	musa
-mosque	masjid|n,misigit|n,tabuh|n
-mosquito	kelambu|n,lingkaran ubat nyamuk|n
-mosquitoes	jentik|n
+mosque	masjid|n,misigit|n
+mosquito coil	lingkaran ubat nyamuk|n
+mosquito net	kelambu|n
+mosquito nets	berlabuh|v
+mosquito small flying insect of the family culicidae	nyamuk|n
 moss	lumut|n
-most	celaka tiga belas|adj,paling|adv,seelok-eloknya|adv
-mother	bahasa ibunda|n,biang|n,bonda|n,bu|n,emak|n,emak angkat|n
+most	paling|adv
+most unlucky	celaka tiga belas|adj
+mother	bu|n,ibu|n,ina|n,uma|n,emak|n,biang|n,bonda|n,inang|n,ibunda|n
+mother and their sons and daughters	famili|n,keluarga|n
+mother of jesus	maria
+mother tongue	bahasa ibunda|n
 mother-of-pearl	gewang|n
 motherboard	papan induk|n
 motherfucker	pukimak
-motherland	ibu pertiwi|n,negara ibunda|n,tanah air|n
+motherland	tanah air|n,ibu pertiwi|n,negara ibunda|n
 motion	gerak|n,gerakan|n
-motor	automotif|adj
-motorcycle	mat motor|n,motosikal|n
+motorcycle	motosikal|n
 motorway	lebuh raya|n
 motto	moto|n
 mould	kulapuk|n
 mouldy	lapuk|adj
 mound	guar|n,pongsu|n
-mount	geroda|n
-mountain	gunung|n,kucing andes|n,kucing banjaran andes|n,kugar|n
-mouse	mencit|n,pelanduk|n,tetikus|n,tikus|n
+mountain	gunung|n
+mountain lion	kugar|n
+mouse	tikus|n,mencit|n,tetikus|n
+mouse deer	pelanduk|n
 mousedeer	kancil|n
 moustache	kumis|n,misai|n,sungut|n
-mouth	luah|v,muara|n,mulut|n
-move	alih|v,ganjak|v,geming|v,jauhkan|v,layang|v,singkir|v
-movement	gerak|n,gerakan|n,ligas|n,pergerakan|n
-movie	bintang filem|n,pawagam|n
-moving	kepecutan|n
+mouth	muara|n,mulut|n
+movement	gerak|n,gerakan|n,pergerakan|n
+movie star	bintang filem|n
+movie theatre	pawagam|n
 mrs	puan|n
-muat	dimuat turun|v,memuat turun|v
-much	banyak|adj,berapa|adv,sebanyak|adv,sedapat mungkin|adv
-mucus	hingus|n,lendir|n
-mud	ketam nipah|n,kubang|n,lumpur|n
-mudfish	haruan|n,toman|n
+much	banyak|adj
+mucus	lendir|n
+mud	lumus|adj,harung|v,lumpur|n
+mud crab	ketam nipah|n
+mud pool	kubang|n
+mudfish	haruan|n
 mudhole	kubang|n
-mudskipper	becat|n,belacak|n
+mudskipper	belacak|n
+mudskipper cub	becat|n
 mudsnake	ular tuna|n
 muezzin	bilal|n,muazin|n
 mufti	mufti|n
-muhammad	fatimah,mohamad,mohamed,muhamad,muhd
 muharram	muharam
-muka	muke|n
-mukim	damansara,mukim|n
-muktamadkan	dimuktamadkan|v,memuktamadkan|v
+mukim	mukim|n
 mule	baghal|n
-mullet	belanak|n
-multiple	taksa|adj
+multi- used before an	serba
 multipurpose	serbaguna|adj
-munch	kunyah|v,mamah|v
-mung	kacang hijau|n,putu|n
-munia	pipit rawa|n
+mung bean	kacang hijau|n
+municipal	bandaran|adj
 muntjac	kijang|n
 murabaha	murabahah|n
-murah	mur|adj
 murderer	pembunuh|n
 murtabak	martabak|n
 muscle	otot|n
-muscular	sado|adj
+museum a building or institution dedicated to the acquis	muzium|n
 mushroom	cendawan|n
-music	kaki jiwang|n,mat jiwang|n,musik|n,rege|n
+music	musik|n
 musk	kasturi|n
-muslim	haji|n,islam baka|n,kafir zimmi|n,mujahid|n,muslim,muslimah
-muslim-style	nasi kandar|n
-muslimah	muslimat
-muslims	assalamualaikum,fardukan|v
+muslim by birth	islam baka|n
+muslim person	orang islam|n
 mussel	kepah|n,kupang|n
 must	harus|v,mesti|v
 mute	bisu|adj
-mutter	rungutnya|v
-mutual	kefahaman menyaling|n
+mutual intelligibility	kefahaman menyaling|n
 mutualism	kesalingan|n
+my	den|pron,gua|pron,sini|adv,deyen|pron,iolls|pron,pacal|pron,patik|pron,ingsun|pron,manira|pron
+my exclusive use in royalty	beta|pron
 myna	tiung|n
 myrtle	as|n,murad|n
-mystical	keinderaan|n
-mystus	baung akar|n,baung pisang|n
+mystery	teka-teki|n
+mystical	sebalik mata|adj
+mystus nigriceps	baung pisang|n
+mystus singaringan	baung akar|n
 myth	mitos|n

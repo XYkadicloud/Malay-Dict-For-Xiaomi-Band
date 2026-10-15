@@ -10,10 +10,10 @@ bebaskan	bebaskan		解放，释放
 bebat	bebat	n	带，缚带	band (strip of material wrapped around things to hold them together)
 bebawang	bebawang		鳞茎
 bebek	bebek	n	鸭子 没入水中	duck
-bebenang	bebenang	n	花丝
+bebenang	bebenang	n	花丝	plural of benang; screw thread (spiral ridge of a screw  nut  etc.); strand (a nucleotide chain)
 beberapa	beberapa	adj	任何的 任何	any  some  several  certain  few  various  divers
 beberapatahun	beberapa tahun		好几年
-bebiri	bebiri	n	两者择一
+bebiri	bebiri	n	两者择一	alternative form of biri-biri
 bebola	bebola	n	球状物	round ball-like object
 bebolaikan	bebola ikan	n		fishball
 bebolamata	bebola mata	n	眼球  眼球	eyeball
@@ -55,7 +55,7 @@ bekasmenteri	bekas menteri		前任部长
 bekassirih	bekas sirih		栳叶盒
 bekastangan	bekas tangan		字迹
 bekat	bekat		拥挤
-bekemayau	bekemayau	v	模糊不清的
+bekemayau	bekemayau	v	模糊不清的	to be blurred from looking directly to light source
 bekerja	bekerja	v	工作	to work; to be employed
 beku	beku	adj	冻结的	frozen:
 bekuk	bekuk		捕捉
@@ -126,7 +126,7 @@ beliku	beliku		弯曲，蜿蜒
 belimbing	belimbing	n	杨桃	star fruit
 belingkas	belingkas		一束，一包，一扎
 belintang	belintang		阻挠
-belirang	belirang	n	两者择一
+belirang	belirang	n	两者择一	alternative form of belerang
 belisah	belisah	adj	不安的，心烦的	restless; fidgety
 belit	belit	v	扭，卷，绕；复杂	to coil; to wind around; to entwine (to wrap or twist around something).
 belitung	belitung	n	鲯鳅	dolphinfish  mahi-mahi (Coryphaena hippurus)
@@ -198,7 +198,7 @@ bengkil	bengkil		小瘤，肿胀
 bengkok	bengkok	adj	弯曲，不直的	bent; not straight (of a line)
 bengkong	bengkong	adj	弯曲的	bent; crooked; not straight.
 bengku	bengku		树木之一种
-bengkuang	bengkuang	n	两者择一
+bengkuang	bengkuang	n	两者择一	alternative form of mengkuang (“Pandanus atrocarpus”)
 bengkudu	bengkudu		植物名
 bengkung	bengkung		腰带
 bengut	bengut		斜的，歪的，侧视
@@ -217,7 +217,7 @@ bentong	bentong		市区	a city and district of Pahang  Malaysia
 bentuh	bentuh		争论，争辩
 bentuk	bentuk	n	曲线，弧线，弓形 形式，形态	shape; form
 bentukjantung	bentuk jantung	adj	心形的	heart-shaped
-benturung	benturung	n	两者择一
+benturung	benturung	n	两者择一	alternative form of binturung
 benua	benua	n	洲，大陆	A continent (each of main land-masses on earth's surface).
 benuang	benuang	n	水牛	water buffalo  carabao
 benyai	benyai		湿润的，水份过多的
@@ -228,7 +228,7 @@ berabang	berabang	adj	财产	Having brothers.
 berabangkan	berabangkan	v	有	To have as one's brother.
 berabarkan	berabarkan	v	有	To have as a wall; -walled.
 berabdas	berabdas	v	进行	To perform abdest.
-berabonemen	berabonemen	v	两者择一
+berabonemen	berabonemen	v	两者择一	alternative form of abonemen
 beracahacah	beracah-acah	v	笑话	to joke
 beracun	beracun		有毒的
 berada	berada	adj	富有，在	wealthy; well-off; rich; affluent (having a lot of money  property  or assets).
@@ -245,13 +245,13 @@ berakah	berakah		自大，傲慢，夸口
 berakhir	berakhir		收场，终结
 berakhlak	berakhlak	adj	结果，后果	ethical; moral; virtuous
 beraksa	beraksa		神马，飞马
-beraksi	beraksi	v	行动
+beraksi	beraksi	v	行动	to be in action; to act  to take action  to make a move; to flaunt  to show off
 beralasan	beralasan		有理由
 beralaskan	beralaskan		以…为根据
 beralunalun	beralun-alun		波动
 beram	beram		米酒
 beramairamai	beramai-ramai		集体的
-beran	beran	adj	生气，愤怒
+beran	beran	adj	生气，愤怒	alternative form of berani
 beranak	beranak	v	生孩子，有孩子	to give birth (typically used for animals  or colloquially for humans).
 berancang	berancang		计划
 beranda	beranda	n	露台，走廊	veranda
@@ -274,7 +274,7 @@ beransuransur	beransur-ansur		分期，逐渐地
 beranta	beranta		用长桨的内河船
 berantas	berantas		消灭，消除
 berantuk	berantuk		打瞌睡
-berap	berap	det	两者择一
+berap	berap	det	两者择一	alternative form of berapa
 berapa	berapa	adv	多少	how many  how much		Berapa harga ini?
 berapaharga	berapa harga	int	多少钱
 berapahari	berapa hari		多少天？几天？
@@ -291,7 +291,6 @@ berasas	berasas		基于…根据
 berasbelanda	beras belanda	n	大麦  大麦	barley.
 beraso	beraso	n	金属	a type of metal polish
 beraspetas	beras petas		各种各样的米
-beraspetas	beras-petas		各种各样的米
 beraspulut	beras pulut		糯米
 berat	berat	adj	重	weight		ringan
 beratkepala	berat kepala		迟钝的，愚蠢的
@@ -327,7 +326,7 @@ berbasikal	berbasikal	v	骑马	to ride or travel with bicycle; to cycle; cycling
 berbateri	berbateri	adj	包含	to contain or use batteries
 berbau	berbau	v	发出…的气味	to smell bad; to smell
 berbayang	berbayang	v	出现	To appear or seem like a shadow.
-berbayangbayang	berbayang-bayang	v	两者择一
+berbayangbayang	berbayang-bayang	v	两者择一	alternative form of berbayang
 berbecakbecak	berbecak-becak		沾满污点的
 berbedak	berbedak		搽粉
 berbekal	berbekal		带有干粮
@@ -342,7 +341,7 @@ berbeza	berbeza	v	有区别，不同	to have difference; to be different
 berbiak	berbiak		繁殖
 berbilang	berbilang		好些，若干
 berbincang	berbincang	v	谈商，讨论	To talk.
-berbincangbincang	berbincang-bincang	v	同义词
+berbincangbincang	berbincang-bincang	v	同义词	Synonym of berbincang.
 berbiola	berbiola	v	自己的 自己的	to own a violin
 berbisikbisik	berbisik-bisik		低语，耳语
 berbogel	berbogel		裸体的
@@ -390,7 +389,7 @@ bercerita	bercerita	v	讲故事	to tell a story  to narrate
 bercermat	bercermat		小心
 bercermin	bercermin		照镜子
 bercerminmata	bercermin mata	adj	戴眼镜的	bespectacled (wears spectacles or glasses)
-bercinta	bercinta	v	爱
+bercinta	bercinta	v	爱	to be in love
 bercintacintaan	bercinta-cintaan		恩恩爰爰
 bercitacita	bercita-cita		立志
 bercium	bercium		吻，接吻
@@ -411,7 +410,7 @@ berdalil	berdalil		有证据的
 berdamai	berdamai		讲和，和解
 berdampingan	berdampingan		接近，挨近
 berdarah	berdarah	v	流血	to bleed (to lose blood from the body).
-berdasar	berdasar	v	有根据的
+berdasar	berdasar	v	有根据的	to be founded; to be based; to have a base of
 berdasarkan	berdasarkan	v	立基于	based on  founded on
 berdayaserap	berdaya serap	adj	吸收性的	absorptive (having capacity to imbibe)
 berdayung	berdayung		划船
@@ -473,9 +472,9 @@ berenga	berenga		蛆，幼虫
 berengsot	berengsot		稍为移动
 bererti	bererti	adj	财产	having meaning; meaningful
 beres	beres		整洁的，完结，做完
-beresok	beresok	n	两者择一
+beresok	beresok	n	两者择一	alternative form of esok
 beret	beret		排泄不止，泻个不停 有益的	a cap with no brim or bill; made of soft cloth
-berfaedah	berfaedah	v	有利的
+berfaedah	berfaedah	v	有利的	to be advantageous  to be useful  to be profitable
 berfikir	berfikir	v	思考
 berfoyafoya	berfoya-foya		享乐
 bergabung	bergabung		合并，联合
@@ -621,7 +620,7 @@ berjawat	berjawat		握
 berjawatankuasa	berjawatankuasa	v	有	to have a committee
 berjaya	berjaya	adj	成功的	successful
 berjela	berjela		摇荡，摆动
-berjelasjelas	berjelas-jelas	v	清楚的
+berjelasjelas	berjelas-jelas	v	清楚的	To be clear and open (not hide anything).
 berjemaah	berjemaah		集
 berjemur	berjemur		晒太阳
 berjenaka	berjenaka		开玩笑
@@ -719,9 +718,9 @@ berketaiketai	berketai-ketai		碎为细屑
 berketakketak	berketak-ketak		起皱的
 berketuk	berketuk		咯咯叫
 berketulketul	berketul-ketul		一块一块的
-berkewajiban	berkewajiban	v	两者择一
+berkewajiban	berkewajiban	v	两者择一	alternative form of berkewajipan
 berkewajipan	berkewajipan	v	有责任	To have an obligation.
-berkhalwat	berkhalwat	v	孤独的
+berkhalwat	berkhalwat	v	孤独的	to be alone with an unmarried partner in a hidden and obscured place; to be in solitude  to retreat
 berkhasiat	berkhasiat	adj	滋养的	nutritious  nourishing
 berkhemah	berkhemah		露营
 berkhianat	berkhianat		不忠
@@ -753,7 +752,7 @@ berkunjung	berkunjung		访问，参观
 berkurung	berkurung		闭门不出
 berkurunkurun	berkurun-kurun		数百年
 berkusyen	berkusyen	v	财产	Having a cushion.
-berlabuh	berlabuh	v	停泊
+berlabuh	berlabuh	v	停泊	to be hung vertically (of curtains  mosquito nets  etc.); to dock (of a boat  ship  etc.)
 berlaci	berlaci	v	有	To have or include a drawer.
 berladang	berladang	v	耕田	to plant on dry soil  to have an estate
 berlaga	berlaga		相斗
@@ -767,10 +766,10 @@ berlapis	berlapis		成层的
 berlarangan	berlarangan	adj	财产	Having a prohibition or ban on it; prohibited  forbidden.
 berlari	berlari	v	跑
 berlatih	berlatih		练习
-berlau	berlau	adj	其他形式 ， ， ， 、 ， 。
+berlau	berlau	adj	其他形式 ， ， ， 、 ， 。	alternative form of belau
 berlawan	berlawan		与…对抗
 berlayar	berlayar	v	帆	To sail.
-berlebih	berlebih	v	过度
+berlebih	berlebih	v	过度	to be in excess; to be more than enough; to be surplus or abundant.
 berlengahlengah	berlengah-lengah		懒洋洋的
 berlengan	berlengan		有…袖子
 berlenggan	berlenggan		摆动
@@ -796,7 +795,7 @@ bermaksud	bermaksud		有意，打算
 bermalam	bermalam		宿夜，过夜
 bermanfaat	bermanfaat		有用的
 bermanifesto	bermanifesto	v	宣言	to manifesto
-bermasammuka	bermasam muka	v	坏的 坏 坏地
+bermasammuka	bermasam muka	v	坏的 坏 坏地	to be on bad terms
 bermastautin	bermastautin		居留，居住
 bermentaliti	bermentaliti	v	有	To have a mentality.
 bermesyuarat	bermesyuarat		开会
@@ -804,16 +803,16 @@ bermi	bermi		野菜之一种
 bermimpi	bermimpi	v	做梦	to dream (to see imaginary events in one's mind while sleeping)
 berminat	berminat		对…关心
 bermingguminggu	berminggu-minggu		好几个星期
-bermohon	bermohon	v	请准
+bermohon	bermohon	v	请准	active of mohon
 bermoreh	bermoreh	v	把握	to hold a supper after tarawih prayers.
-bermudahmudah	bermudah-mudah	v	假定
+bermudahmudah	bermudah-mudah	v	假定	To be of the assumption that something is easy or simple.; To not work hard for something.
 bermukadua	bermuka dua	adj	两面的	two-faced
 bermusuh	bermusuh		互相敌对
 bermutu	bermutu		有水准
 bernafas	bernafas	v	呼吸	to breathe
 bernamaan	bernamaan		著名的
 bernas	bernas		饱满，内容充实
-berniaga	berniaga	n	做生意
+berniaga	berniaga	n	做生意	archaic form of niaga
 berniat	berniat	v	想要	to intend
 berniatjahat	berniat jahat	adj	心地邪恶的	ill-intentioned  evil-minded  malevolent
 bernikah	bernikah		结婚
@@ -838,7 +837,7 @@ berpaling	berpaling	v	转弯	to turn (one's face)
 berpalut	berpalut		包着的
 berpangkatpangkat	berpangkat-pangkat		多级的，多属的
 berpantang	berpantang		不喜欢
-berpantau	berpantau	v	指导
+berpantau	berpantau	v	指导	to be monitored; synonym of dipantau
 berpapah	berpapah		扶者
 berparti	berparti	adj	立基于	Based on political parties.
 berpayu	berpayu		讨价还价
@@ -869,7 +868,7 @@ berpuput	berpuput		吹，刮，吹奏
 berpusar	berpusar		旋转，自转，转动
 berpusupusu	berpusu-pusu		一群一群达的
 berputar	berputar		旋转
-bersabar	bersabar	v	耐心
+bersabar	bersabar	v	耐心	to be patient; to be calm
 bersabda	bersabda		敕，谕
 bersabung	bersabung		相斗
 bersadur	bersadur		镀
@@ -922,7 +921,7 @@ bersemadi	bersemadi		沉思，默想
 bersemangat	bersemangat		有精神的
 bersemayam	bersemayam		坐，住
 bersembah	bersembah	v	说	To say.
-bersembahkan	bersembahkan	v	同义词
+bersembahkan	bersembahkan	v	同义词	Synonym of mempersembahkan (“to present”).
 bersembahyang	bersembahyang	v	祈祷	To pray.
 bersembunyi	bersembunyi		躲藏
 bersenam	bersenam		体操
@@ -938,9 +937,9 @@ berserengam	berserengam		群集
 berseri	berseri		荣光焕发
 berserta	berserta		一同
 bersesah	bersesah		搏斗
-bersesal	bersesal	v	同义词
+bersesal	bersesal	v	同义词	synonym of menyesal (“to regret”)
 bersesalan	bersesalan	v	过失	to blame each other
-bersesalsesalan	bersesal-sesalan	v	同义词
+bersesalsesalan	bersesal-sesalan	v	同义词	synonym of bersesalan (“to blame each other”)
 bersetuju	bersetuju		赞成
 bersiarsiar	bersiar-siar		散步
 bersibak	bersibak		向左右分开
@@ -1089,13 +1088,13 @@ berunding	berunding		讨论
 berundur	berundur		退后
 beruntung	beruntung		赚钱
 beruntunruntun	beruntun-runtun		连续
-berupaya	berupaya	v	有能力的
+berupaya	berupaya	v	有能力的	to be capable; to make an effort  to do the best
 beruraura	berura-ura		讨论，打算
 berus	berus	n	牙刷，手刷	A brush.
 berusaha	berusaha		努力 ；奮力工作
 berusgigi	berus gigi	n	牙刷	A toothbrush.
 berusia	berusia		岁
-berwajib	berwajib	v	当局
+berwajib	berwajib	v	当局	To be responsible for.
 berwarna	berwarna		呈…色
 berzaman	berzaman	v	最后的	to last for a very long time
 berzamanzaman	berzaman-zaman	v	世代	for generations
@@ -1118,7 +1117,7 @@ besi	besi	n	铁	iron (element)
 besiberani	besi berani	n	磁铁	magnet
 besing	besing		呼呼声，飕飕风声
 besiputih	besi putih	n	锡	tin (element)
-besok	besok	n	明天，将来
+besok	besok	n	明天，将来	alternative form of esok
 bestari	bestari	adj	斯文的，有教养的，干练的	smart
 besu	besu		衰弱，软弱，疲劳
 besut	besut		喷出，涌出

@@ -24,7 +24,7 @@ fana	fana		短暂的，可毁的
 fanatik	fanatik	adj	狂热的，盲信的	fanatic
 fantasi	fantasi	n	幻想，空想	fantasy (imagination)
 faraj	faraj	n	阴道，阴户，女性生殖器	vagina
-fardhu	fardhu	n	两者择一
+fardhu	fardhu	n	两者择一	alternative form of fardu
 fardu	fardu	n	回教教律上的义务	A duty or obligation believing Muslims must fulfil; a fard.
 fardukan	fardukan	v	某事	To make something obligatory for Muslims.
 farhana	farhana		女性	a female given name from Arabic
@@ -37,11 +37,11 @@ farmakopeia	farmakopeia	n	药典	pharmacopoeia
 farmaseutikal	farmaseutikal	adj	药学的	pharmaceutical
 farmasi	farmasi	n	药房	Pharmacy:
 farsakh	farsakh	n	帕勒桑	parasang  farsang
-farsi	farsi		荒废的
+farsi	farsi		荒废的	obsolete form of Parsi
 fasa	fasa	n	时期	phase
 fasal	fasal	n	理由	case  matter
 fasalitu	fasal itu		因那个理由
-fasi	fasi	n	两者择一
+fasi	fasi	n	两者择一	alternative form of fasilitator
 fasih	fasih	adj	的	fluent
 fasihkan	fasihkan	v	流利的	To make fluent.
 fasihlidah	fasih lidah	adj	很有口才的人	eloquent

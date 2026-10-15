@@ -76,7 +76,7 @@ cemerlang	cemerlang	adj	光亮灿烂，非常明亮	smart; excellent
 cemeti	cemeti	v	鞭子	to whip (to hit with a whip or any flexible object)
 cemik	cemik		撅嘴
 cempaka	cempaka	n	素馨	champac (Magnolia champaca)
-cempana	cempana	n	两者择一
+cempana	cempana	n	两者择一	alternative form of jempana
 cempedak	cempedak	n		chempedak (fruit)
 cempelang	cempelang		笨拙的
 cemuh	cemuh		讽刺，讥笑
@@ -105,7 +105,7 @@ cengei	cengei		说话带有鼻音
 cengeng	cengeng		爰哭
 cengkadak	cengkadak		螳螂
 cengkaman	cengkaman		牢握
-cengkarung	cengkarung	n	两者择一
+cengkarung	cengkarung	n	两者择一	alternative form of bengkarung (“skink”)
 cengkeram	cengkeram		夹紧
 cengkerama	cengkerama	n	谈情说爰，消遣	traveling; journey
 cengkerik	cengkerik	n	蟋蟀	cricket
@@ -121,7 +121,7 @@ cepattangan	cepat tangan		喜欢偷东西的怪癖
 ceper	ceper		浅的，浅盘，碟
 cepiau	cepiau		帽子
 cepoh	cepoh		弯脚，足部畸形
-cepua	cepua	n	两者择一
+cepua	cepua	n	两者择一	alternative form of sempoa
 cepudebunga	cepudebunga		雄蕊的花粉囊
 cerah	cerah		明亮的，明朗的，晴朗的
 cerahmuka	cerah muka		愉快，满面笑容
@@ -144,7 +144,7 @@ cerca	cerca		责骂，诽谤
 cerdas	cerdas		智慧的，聪明的，伶俐的
 cerdik	cerdik	adj	富有机智的	quick-witted  witty
 cerek	cerek		水壶，茶壶
-cereka	cereka	n	音节主音 音节的
+cereka	cereka	n	音节主音 音节的	syllabic abbreviation of cerita rekaan (“fiction”)
 ceret	ceret		泻肚，痢疾
 ceretdarah	ceret darah		疴红痢，患赤痢
 cerewet	cerewet		多嘴的，罗嗉的，好辩论的
@@ -161,12 +161,12 @@ cerminmata	cermin mata	n	眼镜  眼镜	spectacles; glasses
 cerna	cerna	adj	消化	digested
 ceroboh	ceroboh	adj	冒失的，鲁莽的，无礼的	clumsy
 cerobong	cerobong		烟囱
-cerpen	cerpen	n	短篇小说
+cerpen	cerpen	n	短篇小说	syllabic abbreviation of cerita pendek (“short story”)
 cerpernis	cerpernis		短篇小说家
 cerpu	cerpu		施鞋
 ceruk	ceruk		角落，隅，转角处
 cerun	cerun		倾斜的，斜度
-cerut	cerut	n	雪加烟
+cerut	cerut	n	雪加烟	alternative form of cerutu
 cerutu	cerutu	n	雪茄	cigar
 cetai	cetai		破碎的，褴褛的
 cetak	cetak		印，印刷

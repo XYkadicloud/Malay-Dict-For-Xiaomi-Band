@@ -1,250 +1,150 @@
-丈	bapa saudara,berlaki,laki|n,suami|n
-丈夫	laki|n,suami|n,berlaki
-丈夫的	berlaki
-予	beta|pron,francaiskan|v,francaisor|n,menawarkan|v,tawar|v,tawaran|n
-予特	francaisor|n
-予特许	francaisor|n
-予特许者	francaisor|n
-侈	boros,mubazir|adj
-侈的	boros,mubazir|adj
-刈	menebas,siangi,toreh|v
+〈口〉老前辈	otai|n
+〈美〉祝平安七十三	tujuh puluh tiga|num
+丈	laki|n,suami|n
+丈夫	laki|n,suami|n
+予	beta|pron
+刈	menebas,toreh|v,siangi
 刈切	toreh|v
 刈草	siangi
-劈	baji,belah|n,belah kayu,dedas,letap,loseng,lurah dada|n,merekah
-劈开	belah|n,lurah dada|n
+劈	lurah dada|n,merekah,belah kayu
+劈开	lurah dada|n
 劈拍	dedas,letap
 劈拍声	dedas,letap
 劈柴	belah kayu
 劈竹	loseng
 劈竹片	loseng
 劈裂	merekah
-匈	hungary
 匈牙	hungary
 匈牙利	hungary
-合	gabung,aad,adelfogami|n,akad,alap|v,amalgam|n,anak halal,anjing pandan|n
+合	janji|n,perjanjian|n,gabung,engsel|n,cocok|v,puas|adj,cantum|v,zigot|n
 合一	satukan
-合为	satukan
-合为一	satukan
-合价	valens|n,valensi|n
-合伙	berkongsi,bersyarikat,rawah
-合会	kesatuan|n
-合作	bahu membahu,gotong-royong,kerjasama|n,rantam,sambatan,fotosintesis|n,koperasi
-合作用	fotosintesis|n
+合众	massa|n
+合伙	rawah,bersyarikat,berkongsi
+合作	kerjasama|n,bahu membahu,gotong-royong,rantam,sambatan,koperasi
 合作社	koperasi
 合力	gotong
 合力担	gotong
-合口	tikai
-合口角	tikai
 合叶	engsel|n
-合同	aad,janji|n,kontrak,perjanjian|n,pembukuan|n
+合同	janji|n,perjanjian|n,aad,kontrak
 合子	zigot|n
-合字	digraf|n
-合字母	digraf|n
-合宜	gegadan,yogia
-合宜的	gegadan,yogia
-合寫	ensiklopedia|n
-合并	bergabung,cantum|v,cantumkan,mencantumkan,menyatupadukan,percantuman,rangkap,menubuhkan
-合废	anjing pandan|n
-合废料	anjing pandan|n
-合征	sindrom klinefelter|n,sindrom marfan|n
+合宜	yogia,gegadan
+合宜的	yogia,gegadan
+合并	cantum|v,rangkap,cantumkan,percantuman,bergabung,menyatupadukan,mencantumkan
 合意	puas|adj
 合成	pensintesis|n
 合成器	pensintesis|n
+合成物	kayu|n
 合扇	engsel|n
 合扰	menangkup
 合拢	bertaut
 合旋	merdu
 合旋律	merdu
 合旋律的	merdu
-合格	berkelayakan,gagal|v
+合格	berkelayakan
 合格的	berkelayakan
-合法	anak halal,esah,timu-timu
-合法的	esah,timu-timu,anak halal
-合法的子	anak halal
+合法	timu-timu,esah
+合法的	timu-timu,esah
 合法的子女	anak halal
-合物	bancuhan,campuran,polistirena|n,sebatian kimia|n
-合王	united kingdom
-合王国	united kingdom
-合理	gegadan,karut,keraguan munasabah|n,makul,masuk akal|adj,patut|adj
-合理的	keraguan munasabah|n,makul,masuk akal|adj,patut|adj
-合的	emiriah arab bersatu,gegadan,impit,padan|adj,pas|adj,sembada,suai,surup|v
-合眼	merem,sepet
+合理	patut|adj,masuk akal|adj,gegadan,keraguan munasabah|n,makul
+合理的	patut|adj,masuk akal|adj,keraguan munasabah|n,makul
+合用	layak|adj
+合眼	merem
 合算	jumlahkan
-合约	akad,perjanjian|n
+合约	perjanjian|n,akad
 合股	rantam
 合计	jumlahkan
-合语	kegramatisan|n
-合语法	kegramatisan|n
-合语法规	kegramatisan|n
-合语法规则	kegramatisan|n
 合起	kincup
 合适	cocok|v,padan|adj
 合适的	padan|adj
-合邦	persekutuan tanah melayu
-合金	amalgam|n,pancalogam
-嘈	bising|adj,huru,memekak|v
+嘈	bising|adj,huru
 嘈杂	bising|adj,memekak|v
+嘈杂声	hingar|n
 嘈杂的	memekak|v
 嘈闹	huru
-圈	gelanggang|n,gelung|n,kalangan,simpai,ahera,belampung,biosfera|n,bulatan
-圈套	jerat,jirat|n,perangkap|n,menjerat
-圈子	lingkungan|n,kalangan
+圈	gelanggang|n,gelung|n,perangkap|n,simpai,lingkungan|n,jirat|n,jerat,puntal
+圈套	perangkap|n,jirat|n,jerat
+圈子	lingkungan|n
 圈带	lengkang
-圈绑	memuntal,puntal
-圈绞	memuntal,puntal
-圈饼	donat|n
-妈	dayah,emak|n,ibunda|n,inang|n,inang pergasuh,mak|n,pengasuh
-妈妈	emak|n,ibunda|n,mak|n
-守	bawab,berjaga,berkawal,elakkan diri,gubuk,ingkar,kawalan|n,kawalan kehormatan|n
-守信	ingkar,putar balik
-守信用	ingkar,putar balik
+圈社交圈子	kalangan
+圈绑	puntal,memuntal
+圈绞	puntal,memuntal
+妈	ibunda|n,emak|n,mak|n
+妈妈	ibunda|n,emak|n,mak|n
+守	pengawal|n,mengawal,menjaga,berkawal
 守候	gubuk
 守候栅	gubuk
-守卫	berkawal,mengawal,menjaga,pengawal|n,kawalan|n,kawalan kehormatan|n,penjaga|n,sekilwak|n
-守卫者	kawalan|n,kawalan kehormatan|n,penjaga|n,sekilwak|n
-守的	kolot,konservatif|adj,kuno|adj,ultrakonservatif|adj
-守者	merinyu|n
-守诺	elakkan diri
-守诺言	elakkan diri
+守兵	jaga|v
+守势	jaga|v
+守卫	pengawal|n,kawalan|n,penjaga|n,sekilwak|n,mengawal,menjaga,berkawal,kawalan kehormatan|n
+守卫者	kawalan|n,penjaga|n,sekilwak|n,kawalan kehormatan|n
+守旧	konservatif|adj
+守节	pemalar|n
 守财	lokek
 守财的	lokek
 守门	bawab
 守门人	bawab
-專	anwar
-專有	anwar
-师	ahli farmasi|n,akauntan|n,arkitek|n,barbier|n,bomoh|n,bomor|n,cikgu|n,doktor gigi|n
+师尊	guru|n
 师范	zariah
 师范学	zariah
 师范学校	zariah
-很	belulang,kelewat,terlalu|adv,cepat-cepat|adv,fasih lidah|adj,gelap-gulita,jarang|adv,kemaruk
+师长	guru|n
+很	terlalu|adv,kelewat,belulang
 很好	khabar baik|int
 很少	jarang|adv
-很忙	repot
 很快	cepat-cepat|adv,secepat mungkin|adv,selekas mungkin|adv
 很快地	cepat-cepat|adv,secepat mungkin|adv,selekas mungkin|adv
 很想	kemaruk
 很暗	gelap-gulita
 很暗的	gelap-gulita
-很有	fasih lidah|adj
-很有口	fasih lidah|adj
-很有口才	fasih lidah|adj
-很有口才的	fasih lidah|adj
 很有口才的人	fasih lidah|adj
-很高	tinggi harapan
-很高的	tinggi harapan
-很高的希	tinggi harapan
 很高的希望	tinggi harapan
-愈	bertambah,betah,pulih,sembuh,temas
+愈	bertambah
+愈复	pemulihan|n
+愈来	semakin
+愈来愈	semakin
+愈来愈…	semakin
 愈益	bertambah
-授	francaiskan|v,francaisor|n,mahaguru|n,mas kahwin|n,menjabarkan,profesor|n,profesor madya|n
+授	francaiskan|v
 授与	menjabarkan
-授予	francaiskan|v,francaisor|n
-授予特	francaisor|n
-授予特许	francaisor|n
+授予	francaiskan|v
 授予特许者	francaisor|n
-授产	mas kahwin|n
-授产协	mas kahwin|n
-授产协定	mas kahwin|n
-月	bulan|n,cendera|n,anak bulan,april,bulan baru,bulan dua|n,bulan dua belas|n,bulan empat|n
-月一	bulanan
-月一次	bulanan
-月一次的	bulanan
-月亮	bulan|n,pulan,rembulan|n,gelanggang bulan
-月亮的	gelanggang bulan
-月亮的晕	gelanggang bulan
+月	bulan|n,cendera|n,yuran|n,rembulan|n,haid,kuih bulan|n,bulanan,platform
+月亮	bulan|n,rembulan|n,pulan
 月亮的晕轮	gelanggang bulan
-月份	ramadan
-月会	bulan sabit merah
-月光	cahaya bulan,mahtab
+月份牌	kalendar|n
+月信	tempoh|n
+月光	mahtab,cahaya bulan
 月出	bulan terbit
 月刊	bulanan
 月台	platform
-月后	wiladan
-月后清	wiladan
-月后清洗	wiladan
-月后清洗腹	wiladan
-月后清洗腹部	wiladan
-月后清洗腹部之	wiladan
-月后清洗腹部之仪	wiladan
-月后清洗腹部之仪式	wiladan
 月圆	bulan purnama
 月捐	yuran|n
-月浑	kacang cerdik|n,pistacio|n,pistasio|n
-月浑子	kacang cerdik|n,pistacio|n,pistasio|n
-月浑子树	kacang cerdik|n,pistacio|n,pistasio|n
-月的	bulanan,dwibulan
-月经	haid,datang haid,senggugut
+月经	haid,senggugut,datang haid
 月经不	senggugut
 月经不调	senggugut
 月经不通	senggugut
 月经来	datang haid
 月经来潮	datang haid
-月而	rahu
-月而引	rahu
-月而引起	rahu
-月而引起亏	rahu
-月而引起亏蚀	rahu
-月而引起亏蚀的	rahu
-月而引起亏蚀的巨	rahu
-月而引起亏蚀的巨龙	rahu
 月蚀	bulan gerhana,gerhana bulan
 月饼	kuih bulan|n
-栈	belubur,gedung|n,khazanah
-栈房	belubur,gedung|n
-榈	bertam,enau|n,ibus|n,ijuk|n,kabung|n,kelapa sawit,lahang,mayang
-榈之	bertam
-榈之一	bertam
-榈之一种	bertam
-榈树	kabung|n,kelapa sawit,lahang,nira,palma|n,samir,serdang
-榈树之	serdang
-榈树之一	serdang
-榈树之一种	serdang
-榈树叶	samir
-榈树叶编	samir
-榈树叶编成	samir
-榈树叶编成之	samir
-榈树叶编成之屋	samir
-榈树叶编成之屋顶	samir
-榈树汁	nira
-榈树汁供	nira
-榈树汁供制	nira
-榈树汁供制糖	nira
-榈树汁供制糖用	nira
-榈树液	lahang
-榈的	ijuk|n,pelepah|n,ruyung|n
-榈的叶	pelepah|n
-榈的叶梗	pelepah|n
-榈的外	ruyung|n
-榈的外皮	ruyung|n
-榈的黑	ijuk|n
-榈的黑色	ijuk|n
-榈的黑色纤	ijuk|n
-榈的黑色纤维	ijuk|n
-榈科	ibus|n
-榈科树	ibus|n
-榈科树木	ibus|n
-榈科树木之	ibus|n
-榈科树木之一	ibus|n
-榈科树木之一种	ibus|n
-榈穗	mayang
-榈穗状	mayang
-榈穗状花	mayang
-消	apus,arta,bandarkan|v,banteras,basmi,batal|adj,belanja|n,berantas
-消化	cerna|adj,hadam,mencernakan,menghadamkan,penghadaman
-消失	ghaib,hapus|v,lelap|adj,lenyap|adj,lesap,luput|adj,punah,hilang pintang
-消婚	pasah
-消婚约	pasah
-消息	arta,informasi|n,khabar|n,mesej|n,utusan|n,informan|n
-消息者	informan|n
+月黑天	malam|n
+栈	se|num,gedung|n,belubur
+栈房	gedung|n,belubur
+栈空	se|num
+消	utusan|n,belanja|n,cengkerama|n,biaya|n,luput|adj,khabar|n,informasi|n,mesej|n
+消停	aman|adj
+消化	cerna|adj,hadam,mencernakan,penghadaman,menghadamkan
+消失	luput|adj,hapus|v,lelap|adj,lenyap|adj,ghaib,punah,lesap
+消息	utusan|n,khabar|n,informasi|n,mesej|n,arta
 消散	tabur|v
-消极	bandarkan|v,diabadikan|v,diabahkan|v,diabaikan|v,diabar|v,diabdikan|v,diabjadkan|v,diabsahkan|v
-消极的	bandarkan|v,diabadikan|v,diabahkan|v,diabaikan|v,diabar|v,diabdikan|v,diabjadkan|v,diabsahkan|v
-消案	buang kes
-消案件	buang kes
-消毒	nyahjangkit|v,nyahkuman|v
+消极	dipegang|v,ditengok|v,pasif|adj,kotai|v,diabar|v,diabui|v,diabuk|v,diabur|v
+消极的	dipegang|v,ditengok|v,pasif|adj,kotai|v,diabar|v,diabui|v,diabuk|v,diabur|v
+消毒	nyahkuman|v,nyahjangkit|v
+消毒消	nyahkuman|v,nyahjangkit|v
+消毒消毒	nyahkuman|v,nyahjangkit|v
 消沉	kemalai
 消沉的	kemalai
-消灭	banteras,basmi,berantas,lenyap|adj,membanteras,membasmi,memberantas,memupuskan
+消灭	musnah|v,lenyap|adj,pupus,memupuskan,tumpas,resi,basmi,menumpaskan
 消灭擦	hapus|v
 消灭擦掉	hapus|v
 消瘦	ceding,runjau,cengkung
@@ -252,89 +152,53 @@
 消磨	melengah-lengah
 消磨时	melengah-lengah
 消磨时间	melengah-lengah
-消离	rujuk|v
-消离婚	rujuk|v
 消耗	haus|adj
 消肿	seruh
 消蚀	mumut
-消费	belanja|n,biaya|n,indeks harga pengguna|n,kepenggunaan|n,pengguna|n
-消费者	indeks harga pengguna|n,pengguna|n,kepenggunaan|n
-消费者利	kepenggunaan|n
-消费者利益	kepenggunaan|n
-消费者利益运	kepenggunaan|n
-消费者利益运动	kepenggunaan|n
+消解	resolusi|n
+消费	belanja|n,biaya|n
+消费器件	pengguna|n
+消费者	pengguna|n
+消费者消费者	pengguna|n,indeks harga pengguna|n
 消逝	hapus|v,resi
-消遣	bersuka-suka,cengkerama|n,menyahaktifkan|v
-消遣散	menyahaktifkan|v
-消防	pili bomba|n
-消防栓	pili bomba|n
-消除	apus,banteras,berantas,membanteras,menghilangkan,pemberantasan,ruah,menyahserpih|v
-消除碎	menyahserpih|v,nyahserpih|v,penyahserpihan|n
-消除碎化	penyahserpihan|n,menyahserpih|v,nyahserpih|v
-消除碎化程	menyahserpih|v,nyahserpih|v
-消除碎化程序	menyahserpih|v,nyahserpih|v
-澈	bening,hening,jelah,jernih|adj,serbak,teruskan|v
-澈的	hening,jelah,jernih|adj,serbak
-皈	islamkan|v,masuk islam|v,mualap,penganut
+消遣	cengkerama|n,bersuka-suka
+消防栓消防栓	pili bomba|n
+消除	ruah,apus,banteras,berantas,membanteras,pemberantasan,menghilangkan,penyahserpihan|n
+消除碎	penyahserpihan|n
+消除碎化	penyahserpihan|n
+消除碎化程序	nyahserpih|v,menyahserpih|v
 皈依	islamkan|v,masuk islam|v,mualap,penganut
 皈依回	mualap
 皈依回教	mualap
 皈依者	islamkan|v,masuk islam|v,penganut
-興	ensiklopedia|n
-蜈	halipan,lipan|n
-蜈蚣	halipan,lipan|n
-谈	beka|n,berbincang|v,berbual-bual,bercakap-cakap,bercengkerama,bergebang,berkata-kata|v,bicara|v
-谈会	forum,simposium
+窈窈	hebat|adj
+蜈	lipan|n,halipan
+蜈蚣	lipan|n,halipan
+谈	bual|n,gurau|n,ujar|v,berbincang|v,berkata-kata|v,bicara|v,perbincangan|n,sembang|v
 谈判	merundingkan,perundingan
 谈商	berbincang|v,perbincangan|n
-谈天	bercakap-cakap,cakap-cakap
+谈天	cakap-cakap,bercakap-cakap
 谈情	cengkerama|n
 谈情说	cengkerama|n
 谈情说爰	cengkerama|n
 谈笑	gurau|n,kongkalikung
-谈论	cakapkan,mempercakapkan,merundingkan
-谈话	berkata-kata|v,bicara|v,cakapan,pembicaraan,percakapan,sembang|v,ujar|v,wawancara
-谈谈	berbual-bual,bual|n
+谈论	cakapkan,merundingkan,mempercakapkan
+谈话	ujar|v,berkata-kata|v,bicara|v,sembang|v,cakapan,pembicaraan,wawancara,percakapan
+谈谈	bual|n,berbual-bual
 谈述	ujar|v
-针	jarum|n,bertas|v,bilah|n,itik runcing|n,kerosang,ketumbit,kompas,menyuntik
+邈然	terpencil|adj
+邈邈	terpencil|adj
+针	jarum|n
+针对性	hajat|n
 针尾	itik runcing|n
 针尾鸭	itik runcing|n
-针的	pucuk|n
-针的单	pucuk|n
-针的单位	pucuk|n
-针等	bilah|n
-针等单	bilah|n
-针等单位	bilah|n
-针缝	bertas|v
-针缝的	bertas|v
-针缝的线	bertas|v
-锈	tegagh|n,berkarat,karat|n,pengaratan|n
-颈	tengkuk|n,gelabir,gelambir,itik kecil|n,jenguk,jumbil,kelintung,menjengah|v
-颈下	jumbil
-颈下垂	jumbil
-颈下垂的	jumbil
-颈下垂的皮	jumbil
-颈之	kelintung
-颈之铃	kelintung
-颈张	menjengah|v
-颈张望	menjengah|v
-颈或	jenguk
-颈或弯	jenguk
-颈或弯身	jenguk
-颈或弯身探	jenguk
-颈或弯身探望	jenguk
+针的单位）嫩叶	pucuk|n
+针等单位）	bilah|n
+锈	tegagh|n
+颈	tengkuk|n
+颈子	leher|n
 颈背	tengkuk|n
-颈部	gelabir,gelambir,serviks|n
-颈部下	gelabir,gelambir
-颈部下垂	gelabir,gelambir
-颈部下垂的	gelabir,gelambir
-颈部下垂的皮	gelabir,gelambir
-颈部下垂的皮肉	gelabir,gelambir
-颈野	itik kecil|n
-颈野鸭	itik kecil|n
-颈鹿	zirafah|n
-馈	maklum balas|n,suap balik|n
+颈部	leher|n
+颈项	leher|n
 鬈	keriting,kerul,rambut keriting
 鬈发	kerul,rambut keriting
-鲈	kerapu|n,puyu|n,semaram
-龈	gusi|n

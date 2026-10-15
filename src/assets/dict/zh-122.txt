@@ -1,215 +1,144 @@
-出	aju|v,anak haram|n,awangan,babas,bagus|adj,bancut,bangkit,bantun
-出之	anak haram|n
-出之子	anak haram|n
-出产	mahsul,mengeluarkan|v,menghasilkan
+出产	mengeluarkan|v,mahsul,menghasilkan
 出产品	mahsul
-出准	beri izin
-出准证	beri izin
-出出	celum
-出击	serangan udara|n
 出卖	menderhaka
 出去	keluar|v
 出发	berangkat|v,melangkah,paduk
 出发点	paduk
-出口	eksport|n,jalan keluar,mengeksport|v,mengeksportkan,cukai eksport,pengeksport|n,sasul,tersasul
+出口	eksport|n,mengeksport|v,jalan keluar,mengeksportkan,pengeksport|n,cukai eksport
 出口商	pengeksport|n
 出口税	cukai eksport
-出叮	berdering
-出叮当	berdering
-出叮当响	berdering
-出合	pembukuan|n
-出合同	pembukuan|n
-出名	megah,sohor|adj
-出名的	megah,sohor|adj
-出呼	berdesing
-出呼呼	berdesing
-出呼呼声	berdesing
-出哀	jerit|n
-出哀叫	jerit|n
-出哀叫声	jerit|n
-出嗡	berdengung
-出嗡嗡	berdengung
-出嗡嗡声	berdengung
-出嘘	siuh
-出嘘声	siuh
-出嘘声赶	siuh
+出名	sohor|adj,megah
+出名的	sohor|adj,megah
 出土	rimpang
 出土根	rimpang
-出声	berbunyi,bersuara
+出声	bersuara,berbunyi
+出处	asal|n
 出外	bawa untung
 出外谋	bawa untung
 出外谋生	bawa untung
+出奇	mantul|adj
 出嫁	bersuami
-出尔	berdolok-dalik,dolak-dalik
-出尔反	berdolok-dalik,dolak-dalik
-出尔反尔	berdolok-dalik,dolak-dalik
-出尔反尔的	berdolok-dalik,dolak-dalik
-出席	hadirat|n,kehadiran|n,hadir|v,hadirin,hadrat,jadual kedatangan,menghadiri
-出席在	hadrat
-出席在王	hadrat
-出席在王或	hadrat
-出席在王或神	hadrat
+出尔反尔	dolak-dalik,berdolok-dalik
+出尔反尔的	dolak-dalik,berdolok-dalik
+出席	kehadiran|n,hadirat|n,hadir|v,menghadiri,hadirin,jadual kedatangan
 出席在王或神前	hadrat
 出席的	hadir|v,menghadiri
 出席簿	jadual kedatangan
 出席者	hadirin
+出息	laba|n
 出成	bukukan
 出成书	bukukan
-出来	cabut|v
-出汗	berpeluh|v,kebah,pecah|v,rimas,ketibas|n
+出汗	berpeluh|v,ketibas|n,kebah,rimas
 出汗的	ketibas|n
-出浮	tonjol
-出浮肿	tonjol
-出浮肿的	tonjol
-出游	radai
-出版	terbit|v,cetakan,menerbitkan,penerbit|n,terbitan
+出港	perlepasan|n
+出版	terbit|v,penerbit|n,cetakan,menerbitkan,terbitan
 出版刊	terbitan
 出版刊物	terbitan
+出版商	penerbit|n
 出版物	cetakan
-出版者	menerbitkan,penerbit|n
-出现	bangkit,berbayang|v,jelma|v,membulat|v,membundar|v,menjelma,muncul,recup
-出现在	membayang|v
-出现在脑	membayang|v
-出现在脑海	membayang|v
-出现在脑海里	membayang|v
-出生	keputeraan,lahir|v,zahir,berasal|v,said
-出生于	berasal|v,said
-出生于星	said
-出生于星期	said
-出生于星期五	said
-出生于星期五的	said
-出生于星期五的男	said
-出生于星期五的男孩	said
-出生于星期五的男孩之	said
+出版者	penerbit|n,menerbitkan
+出现	temandang|n,timbul|v,jelma|v,membulat|v,berbayang|v,membundar|v,terbayang|v,bangkit
+出生	lahir|v,zahir,keputeraan,berasal|v
+出生于	berasal|v
 出生于星期五的男孩之名	said
-出的	bagus|adj,bancut,belodok,gahara,jendol,jerangkang,monggok,pancuran|n
-出磷	pendarfosfor|adj
-出磷光	pendarfosfor|adj
-出磷光的	pendarfosfor|adj
-出租	menyewakan,sewakan,taksi|n,teksi|n,ulat sapu|n,ulat teksi|n
-出租车	taksi|n,teksi|n,ulat sapu|n,ulat teksi|n
-出租车送	taksi|n,ulat sapu|n,ulat teksi|n
-出纳	juruwang|n,mesin juruwang automatik|n
+出生入死	berani|adj
+出租	sewakan,menyewakan,teksi|n
+出租车	teksi|n
+出租车乘出租车用出租车送	taksi|n,ulat sapu|n,ulat teksi|n
+出纳	juruwang|n
 出纳员	juruwang|n
-出纳机	mesin juruwang automatik|n
-出航	babas
-出航路	babas
-出航路外	babas
-出血	nibung
-出警	beri amaran
-出警告	beri amaran
 出诊	retih
-出话	kesima
-出话来	kesima
-出路	jalan keluar,cari jalan
+出路	jalan keluar
 出轨	lencong,melencong
-出重	gedegang|n
-出重击	gedegang|n
-出重击声	gedegang|n
-出重击声的	gedegang|n
-出隆	berderam,menderam
-出隆隆	berderam,menderam
-出隆隆声	berderam,menderam
-出食	hidang
-出食物	hidang
-勺	senduk|n,bacuk,cebok,limas|n,pencedok,sauk,sudu|n
-勺子	pencedok,sauk,sudu|n
-哺	mamalia|n,susukan
+出错	kesalahan|n
+勺	senduk|n,sudu|n,sauk,pencedok
+勺子	sudu|n,sauk,pencedok
+哺	susukan
 哺乳	susukan,mamalia|n
 哺乳动	mamalia|n
 哺乳动物	mamalia|n
-固	baot|adj,begar,berdegil|v,besar kepala,biot|adj,degil|adj,degilkan|v,gigih
-固之	padau
-固之帆	padau
-固体	padatan,pepejal|n
-固定	tetap|adj,magun,membaiki|v,tenggang,tertentu|adj
+哺养	mudi|n
+固	tetap|adj,keras|adj,berdegil|v,pepejal|n,kedegilan|n,padatan,hati batu,keres hati
+固体	pepejal|n,padatan
+固定	tetap|adj,tertentu|adj,magun,tenggang
 固定期	tenggang
 固定期限	tenggang
-固定的	magun,tertentu|adj
-固执	berdegil|v,hati batu,kedegilan|n,kepala batu,keras|adj,keres hati,besar kepala,degil|adj
-固执的	besar kepala,degil|adj,ungkal
-固的	baot|adj,besar kepala,biot|adj,degil|adj,degilkan|v,gigih,kejat,keras hati|adj
-基	alas|n,alas rumah,alif-ba-ta,alkitab,antikristus|n,asas|n,asasi|adj,asid amino|n
-基于	berdasarkan|v,berparti|adj
+固定的	tertentu|adj,magun
+固执	keras|adj,berdegil|v,kedegilan|n,degil|adj,hati batu,keres hati,kepala batu,ungkal
+固执的	degil|adj,ungkal,besar kepala
+基	alas|n,pangkal|n,dana|n,perdu|n,kaedah|n,asas|n,rukun|n,pangkalan
+基业	alas|n
+基于…根据	berasas
 基准	penanda aras|n
 基准程	penanda aras|n
 基准程序	penanda aras|n
-基化	petrol|n
-基化等	petrol|n
-基化等處	petrol|n
-基化等處理	petrol|n
-基化等處理而	petrol|n
 基因	gen|n
-基地	pangkalan,pangkalan udara
+基因基	gen|n
+基因基因	gen|n
+基地	pangkalan
+基址	alas|n
 基层	lapik
 基干	perdu|n
-基本	kaedah|n,umpak,alif-ba-ta,asasi|adj,dasar,letakkan|v
-基本原	alif-ba-ta,asasi|adj,dasar,letakkan|v
+基床	alas|n,katil|n
+基底	alas|n
+基座	alas|n
+基数	alas|n
+基本	kaedah|n,asasi|adj,umpak,letakkan|v,dasar,alif-ba-ta
+基本原	asasi|adj,letakkan|v,dasar,alif-ba-ta
 基本原则	dasar
-基本原理	alif-ba-ta,asasi|adj,letakkan|v
-基百	wiki|n,wikipedia
-基百科	wiki|n,wikipedia
-基督	alkitab,antikristus|n,kristian,masihi|adj,nasrani
-基督教	kristian,alkitab,masihi|adj,nasrani
-基督教圣	alkitab
+基本原理	asasi|adj,letakkan|v,alif-ba-ta
+基波	asasi|adj
+基盘	alas|n
+基督	masihi|adj,nasrani,kristian
+基督教	kristian,masihi|adj,nasrani
 基督教圣经	alkitab
 基督教徒	nasrani
 基督教的	masihi|adj
-基督者	antikristus|n
-基础	alas|n,asas|n,dasar,pangkal|n,umpak,infrastruktur|n,prasarana|n,tumpu|v
-基础的	tumpu|v
-基础结	infrastruktur|n,prasarana|n
-基础结构	infrastruktur|n,prasarana|n
-基纳	kinabatangan
-基纳巴	kinabatangan
-基纳巴唐	kinabatangan
+基督教的《旧约全书》	perjanjian lama
+基石	alas|n
+基础	alas|n,pangkal|n,asas|n,umpak,prasarana|n,infrastruktur|n
+基础结	prasarana|n,infrastruktur|n
+基础结构	prasarana|n,infrastruktur|n
 基纳巴唐岸	kinabatangan
+基线	alas|n
 基薪	gaji pokok
-基酚	parasetamol|n
-基酸	asid amino|n
 基金	dana|n,yayasan|n
 基金会	yayasan|n
 基阻	rukun|n
-寺	at,biah,candi,jami,masjid|n,misigit|n,surau|n
-寺庙	candi
-寺院	biah,at,jami,surau|n
-建	adakan,anjuran,arkitek|n,bangunan|n,bina|v,binaan,cadandan,cadangkan
-建于	jamban|n
-建于河	jamban|n
-建于河边	jamban|n
-建于河边的	jamban|n
-建于河边的冲	jamban|n
-建于河边的冲凉	jamban|n
+孺人	bini|n,bu|n
+孺子	kanak|n
+寺	biah
+寺庙	kuil|n
+寺院	biah
+建	umpama|n,pembangunan|n,bina|v,saran|v,syor|n,mengotai|v,normatif|adj,adakan
 建于河边的冲凉房	jamban|n
 建国	rukunegara
 建国原	rukunegara
 建国原则	rukunegara
-建的	feudal
-建立	adakan,membangunkan,membina,mendirikan,menegakkan,mengotai|v,normatif|adj
-建筑	bina|v,arkitek|n,bangunan|n,binaan,pembinaan|n,ramuan|n,seni bina|n
+建构	seni bina|n
+建树	sumbangan|n
+建物	bangunan|n,struktur|n
+建立	mengotai|v,normatif|adj,adakan,mendirikan,membina,menegakkan,membangunkan
+建筑	bina|v,bangunan|n,pembinaan|n,arkitek|n,seni bina|n,ramuan|n,binaan
 建筑学	seni bina|n
 建筑师	arkitek|n
 建筑材	ramuan|n
 建筑材料	ramuan|n
-建筑物	bangunan|n,binaan,pembinaan|n
-建议	anjuran,cadandan,cadangkan,mencadangkan,penganjuran,rundingan,saran|v,saranan
-建设	bina|v,membangunkan,membina,mendirikan,pembangunan|n,pembina
+建筑物	bangunan|n,pembinaan|n,binaan
+建置	murka|v,agensi|n
+建言	ajaran|n,cadangan|n
+建议	umpama|n,saran|v,syor|n,usulkan,cadandan,cadangkan,anjuran,rundingan
+建设	pembangunan|n,bina|v,mendirikan,membina,membangunkan,pembina
 建设者	pembina
-建造	membangun,membikin
-摺	ketak,lingkap,lipat|v
+建造	membikin,membangun
+恺悌	manja|adj
+惺忪	sedar|adj,siuman|adj
+摺	ketak,lipat|v
 摺叠	lipat|v
-旺	goreng kilas|v,nahak
-旺火	goreng kilas|v
-旺火煸	goreng kilas|v
 旺盛	nahak
 旺盛的	nahak
-智	akal|n,berbenak,bijak|adj,bijaksana|adj,budi|n,cerdas,cerdik|adj,geraham bongsu
-智健	waras|adj
-智健全	waras|adj
-智健全的	waras|adj
-智力	intelek,berbenak,budi|n,oku|adj,usia mental|n
-智力上	oku|adj
-智力上迟	oku|adj
+智	akal|n,hikmah|n,hikmat,intelek,kebijaksanaan,kecerdasan,gigi bongsu,geraham bongsu
+智力	budi|n,intelek,usia mental|n
 智力上迟钝	oku|adj
 智力上迟钝的	oku|adj
 智力年	usia mental|n
@@ -217,48 +146,39 @@
 智力的	budi|n
 智慧	akal|n,hikmah|n,hikmat,intelek,kecerdasan,cerdas
 智慧的	cerdas
-智的	bijaksana|adj,cerdik|adj,makul,petah
-智能	kebijaksanaan,kecerdasan buatan|n
-智齿	geraham bongsu,gigi bongsu
-棺	keranda|n,larung|n,long|n,seliri|n
-棺材	keranda|n,larung|n,seliri|n
-牺	bela,gugur|v,korban|n,mangsa|n,pengorbanan|n,putih tulang|v,terkorban
-牺牲	bela,gugur|v,korban|n,pengorbanan|n,putih tulang|v,terkorban,mangsa|n
+智能	kebijaksanaan
+智识	ilmu|n,ahli fikir|n
+智谋	pandai|adj
+智齿	gigi bongsu,geraham bongsu
+棺	larung|n,seliri|n,keranda|n
+棺材	larung|n,seliri|n,keranda|n
+牺	gugur|v,korban|n,pengorbanan|n,putih tulang|v,bela,terkorban
+牺牲	gugur|v,korban|n,pengorbanan|n,putih tulang|v,bela,terkorban,mangsa|n
 牺牲品	mangsa|n
 狺	lolong|n
 狺吠	lolong|n
-磺	belerang|n
-空	nabha,aerodinamik|adj,aerologi|n,aktuyanglapang,ang mo kio,angkasa lepas,angkasa luar,angkasawan|n
-空中	lamunan|n,pramugara,pramugari|n,serangan udara|n,terawang
+空	hampa|adj,kosong|adj,celah|n,lega|adj,hawa|n,lawang|n,lapang|adj,fantasi|n
+空中	lamunan|n,pramugari|n,serangan udara|n,terawang
 空中出	serangan udara|n
 空中出击	serangan udara|n
 空中小	pramugari|n
 空中小姐	pramugari|n
-空中服	pramugara
-空中服务	pramugara
-空中服务员	pramugara
 空中楼	lamunan|n
 空中楼阁	lamunan|n
 空中浮	terawang
 空中浮动	terawang
-空人	angkasawan|n
 空位	lawang|n,luang|adj
 空位的	luang|adj
-空军	angkatan udara,tentera udara,ang mo kio,pangkalan udara
-空军国	ang mo kio
-空军国民	ang mo kio
-空军国民警	ang mo kio
-空军国民警卫	ang mo kio
+空余	gratis|adj
+空军	tentera udara,angkatan udara,pangkalan udara
 空军国民警卫队	ang mo kio
 空军基	pangkalan udara
 空军基地	pangkalan udara
-空口	meriam buluh
-空口说	meriam buluh
-空口说白	meriam buluh
+空前绝后	khusus|adj
 空口说白话	meriam buluh
-空地	cerang
-空如	kompal-kampil
-空如也	kompal-kampil
+空头	pendek|adj,beruang|n
+空子	celah|n
+空当	celah|n
 空心	lompang
 空心的	lompang
 空想	fantasi|n
@@ -270,86 +190,82 @@
 空暇的	selesa
 空果	kelompang
 空果树	kelompang
-空气	hawa|n,suasana,udara|n,aerodinamik|adj,aerologi|n,hampa udara,kaji angkasa|n,penyegar udara|n
-空气动	aerodinamik|adj
-空气动力	aerodinamik|adj
+空档	celah|n
+空气	hawa|n,udara|n,suasana,sawang|n
 空气动力学	aerodinamik|adj
 空气动力学的	aerodinamik|adj
-空气学	aerologi|n,kaji angkasa|n
-空气清	penyegar udara|n
-空气清新	penyegar udara|n
 空气清新剂	penyegar udara|n
 空气的	sawang|n
-空气象	aerologi|n,kaji angkasa|n
-空气象学	aerologi|n,kaji angkasa|n
-空洞	kahang,losong,mambung
-空洞的	kahang,losong,mambung
-空的	gabuk,hampa|adj,hana|adj,kosong|adj,selesa,usang,kelompang,ruang|n
+空泛	sunyi|adj,cetek|adj
+空洞	mambung,kahang,losong
+空洞洞	sunyi|adj
+空洞的	mambung,kahang,losong
+空港	lapangan terbang|n
+空疏	sunyi|adj,cetek|adj
+空白点	celah|n
+空的	hampa|adj,kosong|adj,hana|adj,gabuk,usang,selesa,sambang
 空的蜂	sambang
 空的蜂巢	sambang
 空空	kompal-kampil
 空空如	kompal-kampil
 空空如也	kompal-kampil
+空空洞洞	sunyi|adj
 空缺	lentul
 空缺的	lentul
 空脚	kaki ayam|adj
 空腹	lawas
 空腹的	lawas
+空荡荡	sunyi|adj
+空落落	sunyi|adj
 空虚	hampa|adj,lompong
 空虚的	hampa|adj,lompong
-空话	cakap angin
-空谈	memborak,obrol|v,omong kosong
-空闲	aktuyanglapang,lega|adj,sempat|adj,masa lega|n
+空谈	obrol|v,memborak,omong kosong
+空闲	lega|adj,sempat|adj,aktuyanglapang,masa lega|n
 空闲时	masa lega|n
 空闲时间	masa lega|n
-空间	falak|n,lumpang,ruang|n,kolong
-空隙	celah|n,ganggang|n,lumpang,sela
-竺	argus|n,tikus belanda|n
-竺鼠	argus|n,tikus belanda|n
-胺	dua puluh lima|num,lima likur|num
-腺	kelenjar,gondok
-腺肿	gondok
-艺	aneka ragam,art berat|n,bakat seni,geisya|n,kesenian,pestaria,politeknik,seni|n
-艺会	aneka ragam,pestaria
+空间	ruang|n,falak|n,lumpang
+空隙	celah|n,sela,lumpang
+腺	kelenjar
+艺	seni|n,geisya|n,art berat|n,kesenian
+艺人	pelakon|n
 艺妓	geisya|n
-艺学	politeknik
-艺学院	politeknik
-艺术	art berat|n,kesenian,seni|n,bakat seni,seniman|n,seniwati|n
+艺术	seni|n,art berat|n,seniman|n,kesenian,bakat seni
 艺术天	bakat seni
 艺术天才	bakat seni
-艺术家	seniman|n,seniwati|n
-艺的	vokasional
-葺	nipah
+艺术家	seniman|n
 葺草	nipah
 葺草棕	nipah
 葺草棕榈	nipah
-诺	bayar kaul,berjanji,elakkan diri,janji|n,kasino|n,pertunangan|n
-诺言	pertunangan|n,bayar kaul,elakkan diri
-诺赌	kasino|n
-诺赌场	kasino|n
+诺	pertunangan|n
+诺言	pertunangan|n
 豺	jakal|n
-铺	menghampari,asfalt|n,hampar|adj,mengalas,pajak gadai,ubin|n
+铺	menghampari,ubin|n,hampar|adj,mengalas
 铺垫	mengalas
+铺子	stor|n,kedai|n
+铺家	stor|n,kedai|n
 铺开	hampar|adj
-铺成	asfalt|n
-铺成的	asfalt|n
+铺户	stor|n,kedai|n
 铺石	ubin|n
+铺面房	stor|n
 闺	nona|n
 闺女	nona|n
-顺	abjadkan|v,bonceng,dengar-dengaran,hilir|n,kong|adj,lembut|adj,licin|adj,mandum
+闺情	gembira|adj
+顺	licin|adj,kong|adj,sepintas lalu
 顺串	kong|adj
-顺从	patuh,dengar-dengaran,patih
-顺从的	dengar-dengaran,patih
+顺从	patuh,patih,dengar-dengaran
+顺从的	patih,dengar-dengaran
+顺位	nama|n
 顺便	sepintas lalu
 顺利	licin|adj,mujur|adj
 顺利的	mujur|adj
-顺序	abjadkan|v,menurut abjad
-顺序排	abjadkan|v
-顺序排列	abjadkan|v
-顺序的	menurut abjad
+顺和	landai|adj
+顺序	perintah|n
+顺手	mudah|adj
+顺气	bagus|adj
 顺流	hilir|n
 顺流航	hilir|n
 顺流航行	hilir|n
-顺的	lembut|adj,mandum
-顺风	bonceng
-顺风车	bonceng
+顺溜	lancar|adj
+顺滑	lancar|adj
+顺理成章	masuk akal|adj
+顺着	berikutnya|adj,sepanjang|prep

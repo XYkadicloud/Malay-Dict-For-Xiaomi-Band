@@ -81,7 +81,7 @@ silinder	silinder	n	汽缸	cylinder
 siling	siling	n	银币	ceiling (upper limit of room)
 silingkaca	siling kaca	n	玻璃天花板	glass ceiling
 silir	silir		和风，柔风
-silsilah	silsilah	n	两者择一
+silsilah	silsilah	n	两者择一	alternative form of salasilah
 silu	silu		害羞，羞怯，恭敬的
 siluk	siluk		眨眼，幌眼
 sima	sima	n	硅镁层	sima
@@ -127,13 +127,13 @@ singa	singa	n	狮子	lion (big cat Panthera leo)
 singapura	singapura		新加坡	Singapore (an island and city-state in Southeast Asia  lo…
 singgah	singgah	v	停泊，暂停	to stop by; to stopover; to layover
 singgahsana	singgahsana	n	卸座，王位	throne
-singgasana	singgasana	n	荒废的
+singgasana	singgasana	n	荒废的	obsolete spelling of singgahsana
 singgit	singgit		争吵，不和
 singgung	singgung	v	冲突，相撞，伤害	to bump
 singkap	singkap		拉开，揭开
-singkapor	singkapor		两者择一
+singkapor	singkapor		两者择一	alternative form of Singapura
 singkat	singkat	adj	太短	short; brief
-singkek	singkek	n	新客，即从中国新来的华侨
+singkek	singkek	n	新客，即从中国新来的华侨	alternative form of sengkek
 singki	singki	n	脸盆	washbasin
 singkil	singkil		齿酸，圆形蚊帐顶
 singkir	singkir	v	远避，避开，放逐	to move aside; to step aside; to evacuate.
@@ -145,7 +145,7 @@ sini	sini	adv	这里	I  me  my		situ
 siniar	siniar	n	播客	podcast
 sinis	sinis	adj	愤世嫉俗的	cynical
 sinisisme	sinisisme	n	犬儒主义	cynicism
-sinisme	sinisme	n	两者择一
+sinisme	sinisme	n	两者择一	alternative form of sinisisme (“cynicism”)
 sinonim	sinonim		詞
 sinopsis	sinopsis	n	概要	synopsis
 sintak	sintak		拉扯，拖拉

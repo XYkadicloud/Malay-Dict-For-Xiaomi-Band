@@ -1,222 +1,162 @@
-八	asta|num,delapan|num,lapan|num,lapan ratus|num,lapan ribu|num,selapan|num,astagona,berkaparan
-八十	lapan puluh|num,lapan puluh lapan|num,lapan puluh lima|num,lapan puluh satu|num,lapan puluh sembilan|num,lapan puluh tiga|num,lapan puluh tujuh|num
+keyencryptionkey密	kek lapis|n
+八	asta|num,lapan|num,delapan|num,selapan|num,lapan ribu|num,lapan ratus|num
+八十	lapan puluh|num,lapan puluh lima|num,lapan puluh satu|num,lapan puluh tiga|num,lapan puluh lapan|num,lapan puluh tujuh|num,lapan puluh sembilan|num
 八十一	lapan puluh satu|num
 八十七	lapan puluh tujuh|num
 八十三	lapan puluh tiga|num
 八十九	lapan puluh sembilan|num
 八十五	lapan puluh lima|num
 八十八	lapan puluh lapan|num
-八字	teta|n
-八月	bulan lapan|n
-八次	septilion|num
-八次方	septilion|num
-八糟	bongkar-bongkir,kacau-bilau
-八落	berkaparan,lintang-pukang
+八月威严	bulan lapan|n
+八月威严的	bulan lapan|n
 八角	astagona
 八角形	astagona
-凫	belibis,itik kening putih|n
-卫	ang mo kio,bawab,bela,bela diri,berkawal,hulubalang|n,kawalan|n,kawalan kehormatan|n
-卫兵	hulubalang|n,pengawal|n
+八音	musik|n
+卫	pengawal|n,satelit|n,hulubalang|n
+卫兵	pengawal|n,hulubalang|n
+卫士	pembela|n
 卫星	satelit|n
-卫者	kawalan|n,kawalan kehormatan|n,penjaga|n,sekilwak|n
-卫队	ang mo kio
-叫	memanggil|v,panggil|v,seru|v,berjaja,berketuk,berteriak,dedau,embek
-叫卖	jaja,kelentung,berjaja,menjaja
-叫喊	himbau,menjerit,menyeru,teriakan,melaung
+卫浴	bilik air|n
+卫生	kesihatan|n
+卫生丸	peluru|n
+卫生间	bilik air|n,tandas|n
+卫队	jaga|v
+叫	seru|v,panggil|v,memanggil|v,jeritan|n,tangis|v,kus,jaja,himbau
+叫卖	jaja,kelentung
+叫喊	himbau,menjerit,menyeru,teriakan
 叫回	tarik balik|v
 叫回来	tarik balik|v
-叫声	jeritan|n,kus,tangis|v,jerit|n,mengakak,mengeong|v,ngeong|n,ngiau
-填	menyempal,sempal,asak,jejal,kambus,majung,memakal,mencing
+叫声	jeritan|n,tangis|v,kus
+叫法	bersalin|v,istilah|n
+囫囵	lengkap|adj
+填	sempal,menyempal,palam|v,mengisi|v,paprik|n,mencing,jejal,penuhi
 填充	timbusan
 填充物	timbusan
 填写	mengisi|v
 填土	kambus
-填塞	kambus,mengambus,palam|v,patam,sebu,timbus,memakal,pakal|n
-填塞船	memakal,pakal|n
-填塞船缝	memakal,pakal|n
-填弹	muat semula|v
-填弹药	muat semula|v
-填满	asak,jejal,mencing,mengisi|v,penuhi,sebu,sebun,timbus
+填塞	palam|v,sebu,kambus,timbus,patam,mengambus
+填满	mengisi|v,mencing,jejal,penuhi,sebu,timbus,asak,sebun
 填絮	majung
 填补	paprik|n
-士	aristotle,barut gantung,bas|n,biarawan|n,chalet|n,dukun|n,dukun beranak|n,hang|pron
+士	perajurit|n
+士人	cendekiawan|n
 士兵	perajurit|n
-士多	aristotle
-士多德	aristotle
-士头	kedoktoran|n
-士头衔	kedoktoran|n
-士山	chalet|n
-士山中	chalet|n
-士山中的	chalet|n
-士山中的牧	chalet|n
-士山中的牧人	chalet|n
-士山中的牧人小	chalet|n
-士山中的牧人小屋	chalet|n
-士林	variasi
-士的	hang|pron
-士的称	hang|pron
-士的称号	hang|pron
-寫	ensiklopedia|n,pencil|v
-巫	bomor|n,dukun|n,pawang|n,poyang|n,temas
-巫医	dukun|n,bomor|n,poyang|n,temas
+士卒	askar|n
+士多	stor|n
+士子	cendekiawan|n
+巫	dukun|n,pawang|n
+巫医	dukun|n,temas
 巫医治	temas
 巫医治愈	temas
-巫师	bomor|n,pawang|n,poyang|n
+巫师	pawang|n
 幫	abet|n
 幫助	abet|n
-快	cepat|adj,apakah,au,bangat,bingit,cepat-cepat|adv,cepatkan,cerah muka
-快乐	suka hati,sukacita,gerang,mengerna,ria|adj,selamat hari jadi|int,selamat hari lahir,selamat hari raya|int
-快乐的	gerang,mengerna,ria|adj,selamat hari lahir
-快地	cepat-cepat|adv,secepat mungkin|adv,selekas mungkin|adv
-快手	lincah,lipas kudung|n
-快手快	lincah,lipas kudung|n
-快手快脚	lincah,lipas kudung|n
+快	cepat|adj,deras|adj,pantas|adj,au,er,haah,apakah,pesat
+快乐	ria|adj,suka hati,sukacita,gerang,mengerna,selamat hari lahir
+快乐的	ria|adj,gerang,mengerna,selamat hari lahir
+快感	nikmat|n,kegemaran|n
+快手	lipas kudung|n,lincah
+快手快	lipas kudung|n,lincah
+快手快脚	lipas kudung|n,lincah
 快捷	lekas|adv
 快捷的	lekas|adv
 快步	terpacu-pacu
 快步地	terpacu-pacu
 快活	girang,marghub,sukaria
 快活的	girang,marghub,sukaria
-快的	deras|adj,pantas|adj,pesat,bingit,gancang,langu|n,lazat|adj,lolor-lolor
-快脚	lincah,lipas kudung|n
+快班	ekspres|adj
+快的	deras|adj,pantas|adj,pesat
 快艇	lancang
 快要	menjelang
-快车	apakah,au,er,haah,isy,wahai
-快速	umbul
-快速的	umbul
-快速的长	umbul
+快车	au,er,haah,apakah,isy,wahai
+快速	ekspres|adj,cepat|adj
 快速的长大	umbul
 恫	mengugut
 恫吓	mengugut
-惫	lesa,letai
-惫的	letai
-扫	menyapu|v,sapu|v,bintang kotek,menghapuskan,pengimbas|n,penyapu|n
+扫	sapu|v,menyapu|v,penyapu|n,menghapuskan
 扫帚	penyapu|n,bintang kotek
 扫帚星	bintang kotek
 扫描	pengimbas|n
 扫描仪	pengimbas|n
 扫除	menghapuskan
-毫	lagih,mati katak,merakap,sentigram
-毫无	lagih,mati katak,merakap
-毫无价	mati katak
-毫无价值	mati katak
-毫无价值的	mati katak
-毫无价值的死	mati katak
+毫微	ns
+毫微秒	ns
 毫无价值的死去	mati katak
-毫无学	merakap
 毫无学识	merakap
 毫无学识的	merakap
-毫无止	lagih
-毫无止境	lagih
-毫无止境的	lagih
-毫无止境的发	lagih
 毫无止境的发问	lagih
-淫	gatal|adj,jangak|adj,locok,lucah|adj,main sabun|v,moler,rancap,sundal
+淫	sundal
 淫亵	lucah|adj
 淫亵的	lucah|adj
 淫妇	sundal
-淫荡	gatal|adj,jangak|adj
-淫荡的	gatal|adj,jangak|adj
-火	api|n,cerawat|n,nyalaan|n,pawaka|n,api-api,ayam belanda|n,ayam pegar,balai bomba|n
-火具	kembang api|n
-火养	keunggulan
-火养在	keunggulan
-火养在灰	keunggulan
-火养在灰里	keunggulan
+淫荡	jangak|adj,gatal|adj
+淫荡的	jangak|adj,gatal|adj
+火	api|n,pawaka|n,nyalaan|n,nyala|n,cerawat|n,mancis|n,tren|n,ketapi|n
+火儿	api|n
+火光	nyala|n
+火力	api|n
 火势	jilat|v
 火势蔓	jilat|v
 火势蔓延	jilat|v
-火取	berdiang,berganggang
-火取暖	berdiang,berganggang
-火口	genahar
-火器	senjata api|n,pemadam api|n
-火堆	keunggulan,unggunan
-火墙	tembok api|n
-火头	bara|n
-火局	balai bomba|n
-火山	gunung api,gunung berapi|n,kepundan
+火器	senjata api|n
+火堆	unggunan,keunggulan
+火山	gunung berapi|n,gunung api
 火把	jamung|n,kantan|n
 火拼	tembak-menembak
 火星	marikh
-火木	rabuk|n
-火机	bomba|n
-火枪	tela
-火枪的	tela
-火枪的药	tela
-火枪的药池	tela
-火柴	gorek api,mancis|n,colek api,keceh
+火枪的药池tela	tela
+火柴	mancis|n,gorek api
+火气	gembira|adj
 火水	minyak tanah|n
-火漆	batu lak,lak|adv
+火漆	lak|adv,batu lak
 火灾	kebakaran|n
 火炉	penunu|n
-火炬	colok|n,damar|n,jamung|n,manjung,obor|n,pedamaran,suluh|n,siring|n
-火炬下	siring|n
-火炬下端	siring|n
-火炬下端的	siring|n
-火炬下端的外	siring|n
+火炎焱燚	hangat|adj
+火炬	damar|n,colok|n,jamung|n,obor|n,suluh|n,manjung,pedamaran
 火炬下端的外皮	siring|n
 火炭	bara|n
 火炭头	bara|n
 火焰	nyala|n
-火煸	goreng kilas|v
-火的	berapi
 火盆	tungku
 火石	kerikil
 火箭	roket|n
 火红	murup
 火红的	murup
-火线	colok|n,murang,sumbu|n,tunam,upit
 火绒	rabuk|n
 火绳	sumbu|n,tunam
-火者	pemetik api|n
 火花	bunga api|n,latu
-火药	madat,peterum,ubat bedil,ubat peterum,kordit|n
+火苗	nyala|n
+火药	peterum,madat,ubat peterum,ubat bedil
 火葬	pancaka
 火葬场	pancaka
-火虫	api-api,kelemayar,kelip-kelip|n,kunang-kunang
 火蜥	semandar|n
 火蜥蜴	semandar|n
-火车	kereta api|n,kereta lipan|n,keretapi|n,ketapi|n,ktm,tren|n,gerabak|n,lokomotif
+火车	tren|n,ketapi|n,kereta api|n,kereta lipan|n,keretapi|n,ktm,gerabak|n,lokomotif
 火车厢	gerabak|n
 火车头	lokomotif
+火辣	hangat|adj
+火辣辣	hangat|adj
 火锅	kompor
-火门	orong
 火雉	ayam pegar
-火鸡	ayam belanda|n,suari|n,kasuari|n
-烫	gosok|v,mencelur,mengeriting,gosok baju,lecup,lecur,locot,menyeterika|v
-烫伤	lecup,lecur,locot
-烫衣	gosok baju,menyeterika|v
-痫	gila babi,sawan babi
-痫疾	gila babi
+火鸡	suari|n,ayam belanda|n
+烫	gosok|v,mencelur,mengeriting,menyeterika|v,locot,lecur,lecup,gosok baju
+烫伤	locot,lecur,lecup
+烫手山芋	masalah|n
+烫衣	menyeterika|v,gosok baju
+痫	sawan babi
 痫症	sawan babi
-癫	gila babi,kalap
+癫	kalap,gila babi
 癫狂	kalap
 癫痫	gila babi
-睫	bulu mata|n
-睫毛	bulu mata|n
+矫矫	berani|adj
 硫	sulfur|n,belerang|n
 硫磺	belerang|n
 胫	betis|n
-荫	menaungi|v,naung,naungan|n,rampak
+荫	naungan|n,menaungi|v,naung
 荫处	naung
-荫的	rampak
-葫	bakong|n,kundur|n,labu|n
-葫芦	kundur|n,labu|n,bakong|n
-虫	cacing|n,ulat|n,aneliada,api-api,basat,beluncas|n,berenga,bubuk|n
-虫剂	racun serangga|n
-虫类	kelibang,senggulung
-虫类群	kelibang
-虫类群集	kelibang
-虫类群集飞	kelibang
+葫	labu|n,kundur|n
+葫芦	labu|n,kundur|n
+虫	ulat|n,cacing|n
+虫子	serangga|n
 虫类群集飞舞	kelibang
-衫	buka kain,kebaya,kemeja|n
-衫裤	buka kain
-诫	amaran|n
-豫	bimbang,kimbang,kosel,tegun
-豫不	tegun
-豫不决	tegun
-赫	kebasi|n
-迫	aniaya|n,bengik|adj,memaksa,memerusa,menganiayai,menindas|v,paksa|v,pusa
-迫的	bengik|adj
-镫	rakap|n
-鹫	garuda
+赫赫	gemilang|adj

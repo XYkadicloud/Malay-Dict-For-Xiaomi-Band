@@ -1,7 +1,7 @@
-la	la	part	两者择一
+la	la	part	两者择一	alternative form of lah
 laba	laba	n	利润，获利	profit
 labah	labah	n	蜘蛛	spider
-labahlabah	labah-labah	n	蜘蛛
+labahlabah	labah-labah	n	蜘蛛	plural of labah: alternative form of labah and lelabah (“spider”)
 labamodal	laba modal	n	资本利益	capital gain
 labang	labang		半聋的，听觉不佳的
 label	label	n	标签	a label:
@@ -59,10 +59,10 @@ lajak	lajak		溜脱，脱轨
 lajang	lajang		独身汉，未婚男人
 laju	laju	adj	轻快，迅速，急促	fast (capable of moving with great speed)
 lajur	lajur		阔条状，一队
-lak	lak	adv	火漆，封腊
+lak	lak	adv	火漆，封腊	alternative form of pula.
 lakar	lakar	v	船型，船胚型	to sketch
 laki	laki	n	男 丈夫	husband
-lakilaki	laki-laki	adj	男性，男人
+lakilaki	laki-laki	adj	男性，男人	alternative form of lelaki
 laknat	laknat	n	诅咒	a curse  ruin			kutuk,murka
 laknatullah	laknatullah	n	被诅咒的	cursed by God  reprobate
 lakon	lakon	v	角色，戏剧，演出	to act (in a play or film)
@@ -89,7 +89,6 @@ lalu	lalu	v	经过	to pass; to go past; to pass by.
 laluan	laluan	n	路径	route
 lalulalang	lalu-lalang		往返，来来往往
 lalulintas	lalu lintas	n	交通	traffic (moving pedestrians or vehicles  or the flux or passage thereof)
-lalulintas	lalulintas		熙熙攘攘，交通
 lama	lama	adj	久 旧	old; ancient (having existed for a long period; not new).		baru
 lamai	lamai	n		sibling-in-law
 lamakelamaan	lama-kelamaan		久而久之
@@ -132,7 +131,7 @@ lampusuluh	lampu suluh		手电筒
 lamun	lamun	v	但是，仍然，苟使	to daydream  to be lost in thought.
 lamunan	lamunan	n	空中楼阁	daydream  reverie  or fantasy; the act of daydreaming.
 lanang	lanang		男，男性的，勇敢的
-lanas	lanas	n	两者择一
+lanas	lanas	n	两者择一	alternative form of nanas (“pineapple”)
 lanat	lanat		诅咒的，咒骂
 lanca	lanca	n	大的	three-masted big ship.
 lancang	lancang		快艇，汽艇
@@ -159,7 +158,7 @@ lang	lang	n	鹰，鸢	eagle (Any of several large carnivorous birds in the famil
 langah	langah		敞开的，目瞪口呆
 langau	langau	n	马蝇	horsefly (insect)
 langgam	langgam	v	方式，款式	to collect or pool money for a particular purpose
-langgan	langgan	v	订阅，订购
+langgan	langgan	v	订阅，订购	to be a regular customer or patron of a service; to subscribe
 langgar	langgar	v	碰撞，攻击	to violate
 langgarlari	langgar lari	n	打击	hit and run (crime of causing an accident and leaving)
 langit	langit	n	天空	sky (atmosphere above a point)

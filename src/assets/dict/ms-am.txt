@@ -45,7 +45,7 @@ amir	amir		头目，酋长
 amoi	amoi	n	中文	Chinese girl
 ampaiampai	ampai-ampai		水母，海蛰
 ampas	ampas		糟滓，糟粕，残物
-ampat	ampat	num	四
+ampat	ampat	num	四	obsolete spelling of empat
 ampek	ampek	n	性交	coitus
 ampere	ampere		安培
 ampir	ampir		几乎

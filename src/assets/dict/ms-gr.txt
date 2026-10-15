@@ -9,5 +9,5 @@ gratis	gratis	adj	自由的	free  without charge
 graviti	graviti	n	地心吸力	gravity (resultant force on Earth's surface)
 gred	gred	n	等级	grade
 gros	gros		十二打	A heavy silk with a dull finish; as  gros de Naples; gros…
-grs	grs		词首字母缩略词
+grs	grs		词首字母缩略词	initialism of Gabungan Rakyat Sabah (“Sabah People's Coalition”)
 grup	grup	n	团体	group

@@ -1,164 +1,158 @@
-丽	afiat,apas,ayu|adj,bedung,cantik molek,elok|adj,indah|adj,jelita
-丽的	bedung,apas,ayu|adj,elok|adj,jelita,julai,laksmi|adj,murni
-伽	kelembak
+丽	bedung
+丽实	praktis|adj
+丽的	bedung
+丽魄	bulan|n
 伽罗	kelembak
 伽罗木	kelembak
-刽	algojo,pertanda|v
-刽子	algojo,pertanda|v
-刽子手	algojo,pertanda|v
-咽	farinks|n,perlan,telan|v,baham,esak,faringitis|n,gelogok,halkum|n
+刽子	pertanda|v,algojo
+刽子手	pertanda|v,algojo
+咽	telan|v,kerongkong|n,tekak|n,halkum|n,perlan,farinks|n,lekum,merih
 咽下	lulur
-咽喉	halkum|n,kerongkong|n,kerongkongan,lekum,merih,rengkung,rongkong,tekak|n
+咽咽	farinks|n
+咽喉	kerongkong|n,tekak|n,halkum|n,lekum,merih,rengkung,rongkong,kerongkongan
 咽喉软	suldi
 咽喉软骨	suldi
 咽炎	faringitis|n
-媽	mak kau hijau
-宽	lebar|adj,luas|adj,ampun|n,babur|n,bertolak ansur|adj,besarnya,bidang|n,gegai
+咽炎咽	faringitis|n
+咽炎咽炎	faringitis|n
+宽	luas|adj,lebar|adj,ampun|n,besarnya,longgar,ungkaian,lebarnya,pengampunan
+宽厚	karim|adj
 宽大	londeh
+宽大为怀	karim|adj
 宽大的	londeh
+宽宏大度	karim|adj
+宽宏大量	karim|adj
 宽容	bertolak ansur|adj
 宽容的	bertolak ansur|adj
 宽广	babur|n
 宽广的	babur|n
 宽度	lebarnya
+宽弘	karim|adj
 宽恕	ampun|n,pengampunan
 宽敞	lega|adj
 宽敞的	lega|adj
-宽松	longgar,ungkaian,gegai,kendur,landuh,landung,londeh
-宽松的	gegai,kendur,landuh,landung,londeh
-宽的	lambuk
-宽阔	besarnya,bidang|n
-尽	dengan sesungguhnya,hujung|adj,kalas,kekal|adj,lindang,ludis,mentang,panjang lebar
+宽旷	luas|adj
+宽松	longgar,ungkaian,londeh,gegai,kendur,landuh,landung
+宽松的	londeh,gegai,kendur,landuh,landung
+宽洪	karim|adj
+宽洪大度	karim|adj
+宽洪大量	karim|adj
+宽裕	cukup|adj
+宽阔	bidang|n,besarnya
+宽阔界	bidang|n
+尽	hujung|adj,sedapat mungkin|adv,mentang,sekuat-kuat
 尽其	dengan sesungguhnya
 尽其所	dengan sesungguhnya
 尽其所能	dengan sesungguhnya
 尽力	sekuat-kuat
 尽可	sedapat mungkin|adv
 尽可能	sedapat mungkin|adv
+尽善尽美	sempurna|adj
 尽头	hujung|adj
-尽的	kekal|adj,panjang lebar
+尽皆	lengkap|adj
 尽管	mentang
 尽量	sedapat mungkin|adv
-帽	capiau,cepiau,kerpus,ketu,kopiah|n,pici,songkok|n,tarbus|n
-帽子	capiau,cepiau,topi|n
-帽水	ubur-ubur api|n
-帽水母	ubur-ubur api|n
+帽	topi|n,capiau,cepiau
+帽子	topi|n,capiau,cepiau
 徽	pingat|n
 徽章	pingat|n
 戽	menimba,sauk
 戽斗	sauk
-抽	abstrak|adj,abstraksi|n,anak meja|n,bantai|n,bekam,bomba|n,cabut|v,cabutan
-抽出	cabut|v,cabutan,hunus|v,menghunus
-抽动	geronyot,locok
-抽噎	esak,isak,teresak-esak,terisak-isak
-抽噎噎	terisak-isak
-抽噎噎地	terisak-isak
-抽噎噎地哭	terisak-isak
-抽噎噎地哭泣	terisak-isak
+抽	kotak|n,bantai|n,hisap|n,laci|n,anak meja|n,sawan,esak,locok
+抽出	hunus|v,cabut|v,cabutan,menghunus
+抽动	locok,geronyot
+抽噎	esak,isak,teresak-esak
 抽大	melas
 抽大烟	melas
 抽奖	cabutan
-抽屉	anak meja|n,kotak|n,laci|n
+抽屉	kotak|n,laci|n,anak meja|n
 抽打	bantai|n
-抽抽	terisak-isak
-抽抽噎	terisak-isak
-抽抽噎噎	terisak-isak
-抽抽噎噎地	terisak-isak
-抽抽噎噎地哭	terisak-isak
 抽抽噎噎地哭泣	terisak-isak
 抽水	bomba|n,pam
 抽水机	bomba|n,pam
 抽烟	hisap|n,isap,udut
 抽税	mencukai
-抽筋	geronyot,sawan
-抽纱	kerawang,terawang
+抽筋	sawan,geronyot
+抽纱	terawang,kerawang
 抽者	penghisap
 抽血	bekam
-抽象	abstrak|adj,abstraksi|n,keabstrakan|n,mengabstrakkan|v,niskala|adj,peniskalaan|n,rohani
+抽象	abstrak|adj,niskala|adj,mengabstrakkan|v,rohani,abstraksi|n,keabstrakan|n,peniskalaan|n
 抽象化	abstraksi|n,peniskalaan|n
 抽象性	keabstrakan|n
-抽象的	abstrak|adj,mengabstrakkan|v,niskala|adj,rohani
-搽	calit,berbedak,calit ubat
+抽象的	abstrak|adj,niskala|adj,mengabstrakkan|v,rohani
+搽	calit,calit ubat,berbedak
 搽粉	berbedak
 搽药	calit ubat
-施	bedah,beredar|v,berlaku|v,bersedekah,cerpu,derma|n,khairat,membajai
-施动	penyaji|n
-施动者	penyaji|n
-施动者名	penyaji|n
+施	derma|n,beredar|v,memupuk,mengedari,cerpu,khairat,membajai,mengedar
+施事	ejen|n
+施事者	ejen|n
 施动者名词	penyaji|n
 施手	membedah
 施手术	membedah
-施肥	membajai,memupuk
-施舍	bersedekah,derma|n,khairat,sedekah|n
-施舍物	derma|n,sedekah|n
+施政	pentadbiran|n
+施肥	memupuk,membajai
+施舍	derma|n,sedekah|n,khairat,bersedekah
+施舍物	sedekah|n,derma|n
 施行	bedah
 施行手	bedah
 施行手术	bedah
-施转	beredar|v,mengedar,mengedari
+施转	beredar|v,mengedari,mengedar
 施鞋	cerpu
-朽	bongkok sabut,kelasah,kepam,lapuk|adj,repak,reput
-朽的	repak,kepam,lapuk|adj
-朽驼	bongkok sabut
-朽驼背	bongkok sabut
-栽	arboris|n,menanam
-栽培	arboris|n
-栽培家	arboris|n
+朽	repak
+朽的	repak
+栽	menanam
 栽种	menanam
 椽	kasau|n
-洽	setiakawan
-炽	locot,murup
+椽子	sinar|n
+炽	locot
 炽伤	locot
 炽烈	murup
 炽烈的	murup
-爽	keren|adj,lazat|adj,sejuk|adj
+爽亮	cerlang|adj,pedati|n
+爽利	kemas|adj
 爽快	lazat|adj
 爽快的	lazat|adj
+爽朗	pedati|n
+爽歪了	sakit|adj
 疽	kelurut
-禽	ayam-ayam|n,reban|n,ternakan
-禽栖	reban|n
-禽栖息	reban|n
-禽栖息之	reban|n
-禽栖息之所	reban|n
-稽	geli hati,jenaka|n,kelakar|n,lawak|adj,seloroh
-稽的	jenaka|n,kelakar|n,lawak|adj,seloroh
-粽	bugis,ketupat|n
-纽	simpul,tekat
-羽	badminton|n,bola tangkis|n,bulu tangkis|n,kelekatu,larun,mengigal
-羽毛	bulu tangkis|n,mengigal
+禽兽	binatang|n
+稽查人员	merinyu|n
+稽查员	merinyu|n
+纽	simpul
+纽带	hubungan|n
+羽	badminton|n,bola tangkis|n
+羽毛	bulu tangkis|n
 羽毛球	bulu tangkis|n
 羽球	badminton|n,bola tangkis|n
-羽蚁	kelekatu,larun
-芽	anak benih,cambah,pucuk|n,berkecambah,bertaruk,kecambah,kubis|n,pondoh
-芽白	kubis|n
+羽翼	penolong|n
+芽	pucuk|n,cambah,anak benih,spora
 芽胞	spora
-莽	ceroboh|adj,gegabah,kalap,kasar|adj,kurang ajar|adj,manggustan|n,megak
-莽乱	kalap
-莽乱撞	kalap
 莽吉	manggustan|n
 莽吉柿	manggustan|n
-莽的	ceroboh|adj,gegabah,kasar|adj,kurang ajar|adj
-落	berkaparan,bulus,caya|v,cecer,celus,ceruk,corot,dahlah
-落下	jatuh|v,penurunan|n,tenggelam|v,terjun|v
-落伞	payung terjun|n
+落下	penurunan|n,jatuh|v,terjun|v,tenggelam|v
 落到	gelabur
 落到水	gelabur
 落到水里	gelabur
 落后	corot
 落后的	corot
-落果	sengget
-落果了	sengget
+落实	praktis|adj
+落寞	sepi|adj
+落差	celah|n
 落汤	kuyup
 落汤鸡	kuyup
-落的	bulus,caya|v,celus,dahlah,dak|adv,duk|v,jap|adv,kimak
-蔽	kemul,litup,melindungi,meliputi,mendak,teduh
-蔽的	teduh
-讽	cemuh,karikatur|n,kias,lecing,mencemuhkan,mengias,menyindir,sindiran
-讽刺	cemuh,kias,mencemuhkan,mengias,menyindir,sindiran,karikatur|n
+落落寡欢	sedih|adj
+蔽芾	muda|adj
+蔽身处	naungan|n
+讽	kias,cemuh,sindiran,mengias,menyindir,mencemuhkan
+讽刺	kias,cemuh,sindiran,mengias,menyindir,mencemuhkan,karikatur|n
 讽刺画	karikatur|n
-讽声	lecing
 讽讽	lecing
 讽讽声	lecing
-贽	semah
-钽	tantalum|n
-鸽	acang|n,burung merpati,merpati|n,punai|n
-鸽子	acang|n,burung merpati,merpati|n,punai|n
+辽远	terpencil|adj
+辽阔	luas|adj
+钽钽	tantalum|n
+钽钽T	tantalum|n
+钽钽Ta	tantalum|n
+隽楚	mantul|adj
+鸽	acang|n,punai|n,merpati|n,burung merpati
+鸽子	acang|n,punai|n,merpati|n,burung merpati

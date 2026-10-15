@@ -1,41 +1,33 @@
-仆	amah|n,gelangsar,hamba|n,khadam|n,menjerumuskan,pacal|pron,terjerumus
-仆人	hamba|n,khadam|n
-仆倒	terjerumus,menjerumuskan
+仆	khadam|n,hamba|n,gelangsar,terjerumus
+仆人	khadam|n,hamba|n
+仆倒	terjerumus
 仆跌	gelangsar
-但	melainkan|conj,akan tetapi,lamun|v,moga|adv,moga-moga,mudah-mudahan|adv,semoga|adv,tapi|conj
-但愿	moga|adv,moga-moga,mudah-mudahan|adv,semoga|adv
+但	melainkan|conj
+但愿	moga|adv,mudah-mudahan|adv,semoga|adv,moga-moga
 但愿如	semoga|adv
 但愿如此	semoga|adv
-但是	akan tetapi,lamun|v,tapi|conj,tetapi|conj
-兆	faal,satu trilion|num,setrilion|num,trilion|num,gejala|n,gelagat,isyarat|n,padah
+但是	tetapi|conj,lamun|v,tapi|conj,akan tetapi
+兆	isyarat|n,faal
 兆头	isyarat|n
-准	arkaif,awangan,bahasa baku|n,bahru,baku|adj,banteng|n,batu uji,begedil
-准以	substandard|adj
-准以下	substandard|adj
-准以下的	substandard|adj
+准	kenan|v,pedoman|n,cadang|v,benarkan|v,sedia|adv,bekal|n,ijazah,libur
 准假	libur
-准写	sastera|n
-准写法	sastera|n
-准化	standardisasi|n
-准器	pejera
-准备	bekal|n,berkemas,cadang|v,menyiapkan,mustaid,sedia|adv,sudi,awangan
-准备的	awangan
-准将	brigedier|n
+准入	capaian|n
+准则	panji-panji|n
+准备	cadang|v,sedia|adv,bekal|n,mustaid,sudi,berkemas,menyiapkan
+准头	kejituan|n
 准时	tepat masa|adj
 准时的	tepat masa|adj
-准的	arkaif,bahru,banteng|n,begedil,bharu,biadap,hingget,kasidah
-准确	jitu|adj,labut,tepat|adj
-准确的	jitu|adj,labut,tepat|adj
-准程	penanda aras|n
-准程序	penanda aras|n
+准的	panji-panji|n
+准确	jitu|adj,tepat|adj,labut
+准确性	kejituan|n
+准确的	jitu|adj,tepat|adj,labut
 准绳	pedoman|n
-准许	benarkan|v,ijazah,keizinan,kenan|v,membenarkan,mengizinkan,kemasukan|n
+准许	kenan|v,benarkan|v,kemasukan|n,ijazah,keizinan,mengizinkan,membenarkan
 准许进	kemasukan|n
 准许进入	kemasukan|n
-准证	permit,beri izin
-呆	mantap,bebal|adj,jelengar,kasima,langah,longong,menganga,nganga|v
-呆子	ulat buku|n
-呆望	nganga|v
+准证	permit
+叆叇	parang|n
+呆	mantap,pegan,pegun,terpegun,nyanyu,nyunyuk
 呆然	nyunyuk
 呆立	pegan,pegun,terpegun
 呆立不	pegan,pegun,terpegun
@@ -44,120 +36,82 @@
 呆笨的	bebal|adj
 呆苯	nyanyu
 呆视	pegan,pegun,terpegun
-商	akil,bahtera|n,barang dagangan,berbincang|v,berdagang,bincang|v,cap|n,cap dagangan
-商业	perdagangan,perniagaan,malakat,rahsia perniagaan|n
+商	stor|n,kedai|n,bahtera|n,jenama|n,cap|n,toko|n,pakat|v,bincang|v
+商业	perniagaan,perdagangan,malakat
 商业中	malakat
 商业中心	malakat
-商业秘	rahsia perniagaan|n
-商业秘密	rahsia perniagaan|n
-商人	pedagang,peniaga|n,saudagar,khoja
-商人专	khoja
-商人专称	khoja
+商人	peniaga|n,pedagang,saudagar
 商会	dewan perniagaan
-商品	barang dagangan,jualan
+商务	bisnes|n
+商号	stor|n
+商品	jualan,barang dagangan
 商家	pedagang
-商店	kedai|n,stor|n,toko|n,kedai runcit|n,kedai serbaneka|n
-商标	cap|n,cap dagangan,jenama|n,kesedaran jenama|n
-商者	perunding|n
+商店	stor|n,kedai|n,toko|n
+商标	jenama|n,cap|n,kesedaran jenama|n,cap dagangan
 商船	bahtera|n,leteh
 商议	perbincangan|n
 商贾	saudagar
-商量	bincang|v,pakat|v,runding
-商队	kafilah
-姆	amah|n,dayah,ibu tiri,inang|n,inang pergasuh,malayalam|n,pengasuh
-姆语	malayalam|n
-婆	borneo,kucing borneo|n,kucing merah|n,kucing merah borneo|n
-婆罗	borneo,kucing borneo|n,kucing merah|n,kucing merah borneo|n
-婆罗洲	borneo,kucing borneo|n,kucing merah|n,kucing merah borneo|n
-婆罗洲人	kucing borneo|n,kucing merah|n,kucing merah borneo|n
-婆罗洲的	kucing borneo|n,kucing merah|n,kucing merah borneo|n
-密	kek lapis|n,berkepul-kepul,buka rahsia,curi-curi|adv,gambir|n,gegai,ikrab,impit
+商量	pakat|v,bincang|v,runding
+商铺	stor|n,kedai|n
+姆妈	bu|n
+婆姨	bini|n
+婆娘	pp|n
+婆罗	borneo
+婆罗洲	borneo
+婆罗洲的婆罗洲人	kucing merah|n,kucing borneo|n,kucing merah borneo|n
+密	member|n,sahabat|n,kata laluan|n,kedap,kepul,kod,padatan,kepadatan
+密切	dekat|adj,kamu|pron
 密友	member|n,sahabat|n
 密合	impit
 密合的	impit
-密地	curi-curi|adv
+密实	dekat|adj
+密密	tebal|adj,dekat|adj
+密密匝匝	tebal|adj
+密密实实	tebal|adj
+密密扎扎	tebal|adj
 密封	kedap,pengap
 密封的	pengap
-密度	kepadatan,padatan
-密的	berkepul-kepul,gegai,ikrab,kedap,lebat|adj,melas,nyenyai,padat|adj
-密的梳	serit
-密的梳栉	serit
+密度	padatan,kepadatan
+密探	detektif|n
+密斯	nona|n
 密码	kata laluan|n,kod
-密调	merisik,risik|v,risikan
-密调查	merisik,risik|v,risikan
+密语	kanun|n
+密钥	kunci|n
 密集	kepul,impit
 密集的	impit
-忆	ingat kembali,ingatan|n,kenang,kenangan|n,peringatan
-拆	bertas|v,kerosok,kerpak,kuak,memapas,rombak|v,ungkai
+拆	rombak|v,kuak,ungkai,memapas
 拆开	kuak,ungkai
-拆掉	memapas,rombak|v,bertas|v
-拆掉针	bertas|v
-拆掉针缝	bertas|v
-拆掉针缝的	bertas|v
+拆掉	rombak|v,memapas
 拆掉针缝的线	bertas|v
 拆裂	kerosok,kerpak
 拆裂声	kerosok,kerpak
-捆	bungkus|cls,gulung|v,ikat|n,jaras,kemas|adj,kunca,menggulung,mengikat|v
-捆烟	balut rokok
+捆	kemas|adj,ikat|n,bungkus|cls,gulung|v,mengikat|v,kunca,jaras,menggulung
+捆烟bam横木	balut rokok
 捆绑	kamban,bon|n
 捆绑物	bon|n
-摆	agogo|n,bandul,berayun,berbuai-buai,bergoyang,berjela,berlagak-lagak,berlenggan
-摆动	berayun,berjela,berlenggan,lenggang,unggat-unggit,ungkang-ungkit,kulai,lebir
-摆动的	kulai
-摆手	lambai,tombol
-摆摆	berbuai-buai,godek,ongah-angih,tergodek-godek
-摆架	berlagak-lagak,ledang,ngada,rencik
-摆架子	berlagak-lagak,ledang,ngada,rencik
-摆而	lilau
-摆而走	lilau
-摆脱	melucut,tersingkir,gelodar
-摆舞	agogo|n
-摆舞的	agogo|n
-摆舵	cekar
-摆舵控	cekar
-摆舵控制	cekar
-摆舵控制方	cekar
+摆	lambai,unggat-unggit,berayun,berjela,ungkang-ungkit,melucut,lenggang,berlenggan
+摆动	unggat-unggit,berayun,berjela,ungkang-ungkit,lenggang,berlenggan
+摆手	lambai
+摆架	ngada,ledang,rencik,berlagak-lagak
+摆架子	ngada,ledang,rencik,berlagak-lagak
+摆脱	melucut,tersingkir
 摆舵控制方向	cekar
-杆	galah|n,banar|n,birai,gandar,jerami|n,kiap,lepar,mengumpil
-杆器	banar|n
+摆轮	keseimbangan|n
+杆	galah|n,kiap
+杆子	galah|n,kelab|n
 杆座	kiap
-杆怍	umpilan
-杆怍用	umpilan
-杆撬	ungkit|v
-杆撬起	ungkit|v
-杆起	mengumpil,umpil
-杆起之	mengumpil,umpil
-框	pemidang,topong,bingkai,kambi,kumpar,rangka|n,ruing
-框架	kambi,rangka|n
-浆	belibat,juruh|n,lumpur|n,menganji,santan|n,serum,turap
+框	topong,pemidang,rangka|n,kambi
+框架	rangka|n,kambi
+框框	sekatan|n,konvensyen|n
+浆	menganji
 浆硬	menganji
-盆	pasau,pasu|n,periuk|n,besen,bunting-bantang,capah|n,gudi,jambang pasu
-盆月	bunting-bantang
-穆	assalamualaikum,berhadis|v,hadis|n,maulud,sayid
+盆	pasu|n,periuk|n,pasau
+盆友	teman|n
 穆斯	assalamualaikum
 穆斯林	assalamualaikum
-穆罕	berhadis|v,hadis|n,maulud,sayid
-穆罕默	berhadis|v,hadis|n,maulud,sayid
-穆罕默德	berhadis|v,hadis|n,maulud,sayid
-穆罕默德后	sayid
-穆罕默德后裔	sayid
-穆罕默德后裔的	sayid
-穆罕默德后裔的阿	sayid
-穆罕默德后裔的阿拉	sayid
-穆罕默德后裔的阿拉伯	sayid
 穆罕默德后裔的阿拉伯人	sayid
-穆罕默德的	maulud
-穆罕默德的诞	maulud
-穆罕默德的诞辰	maulud
-穆罕默德的诞辰日	maulud
-穆罕默德言	berhadis|v,hadis|n
-穆罕默德言行	berhadis|v,hadis|n
-穆罕默德言行录	berhadis|v,hadis|n
-筆	pencil|v
-筆寫	pencil|v
-细	aba-daba|n,alus,ayak|n,berketai-ketai,bisikan,cencang,desir,genting
-细作	kapilariti|n
-细作用	kapilariti|n
+穆罕默德言行录	hadis|n,berhadis|v
+细	perincian|n,selia|adj,kuman|n,germa|n,aba-daba|n,genting,suntih,bisikan
 细切	suntih
 细嫩	halus|adj
 细嫩的	halus|adj
@@ -166,8 +120,7 @@
 细察	selia|adj
 细小	halus|adj,renik
 细小的	halus|adj,renik
-细屑	berketai-ketai
-细微	alus,nuansa|n
+细微	nuansa|n,alus
 细微差	nuansa|n
 细微差别	nuansa|n
 细微的	alus
@@ -175,128 +128,98 @@
 细心的	ingat-ingat
 细心钻	mutalaah
 细心钻研	mutalaah
-细枝	julai
-细槽	uring
-细沙	desir
-细沙声	desir
-细的	genting,lemes,loncos,longkai,panjang lebar,perdata|n,saksama|adj
-细看	menilik,menatapi
+细枝美丽	julai
+细枝美丽的	julai
+细的	genting
+细看	menilik
 细眼	ayak|n
 细眼的	ayak|n
 细眼的筛	ayak|n
-细竹	temiang
-细管	kapilari|n
+细粉	serbuk|n
+细细	cermat|adj
 细胞	sel
+细腻	lancar|adj
 细致	alus,langkai
 细致的	alus,langkai
 细节	perincian|n
-细菌	aba-daba|n,germa|n,kuman|n
+细菌	kuman|n,germa|n,aba-daba|n
 细语	bisikan
-细述	perinci
-细述说	perinci
-细长	lampai,jenjang,longkai,ramping|adj,renceng,runjau
-细长的	jenjang,longkai,ramping|adj,renceng,runjau
-细雨	lalam|n,hujan renyai
+细长	ramping|adj,lampai,jenjang,longkai,renceng,runjau
+细长的	ramping|adj,jenjang,longkai,renceng,runjau
+细雨下毛毛雨	lalam|n
 细香	kucai|n
 细香葱	kucai|n
-胆	empedu,hempedu|n,kuaya,babi laut,cabar|v,keberanian|n,landak laut|n,lenja
+胆	hempedu|n,keberanian|n,empedu,kuaya,pundi hempedu|n,senggulung
 胆囊	pundi hempedu|n
-胆小	cabar|v,monyeh,penakut|n,pengecut|n,termonyeh-monyeh
+胆小	cabar|v,penakut|n,pengecut|n,monyeh,termonyeh-monyeh
 胆小的	monyeh,termonyeh-monyeh,penakut|n
 胆小的人	penakut|n
 胆小者	pengecut|n
 胆怯	cabar|v
+胆怯挑	cabar|v
+胆怯挑战	cabar|v
 胆汁	empedu
 胆痛	senggulung
-胆量	keberanian|n,perkasa|adj
-胆量的	perkasa|adj
+胆量	keberanian|n
 臆	aham
 臆测	aham
 荆	onak
 荆棘	onak
 蛆	berenga
-裆	pesak,kekek|adj
-视	pandang|v,acuh,agah,ambil berat,ambliopia|n,bengut,bidik|v,buta rabun
-视他	mata jahat|n
-视他人	mata jahat|n
-视他人而	mata jahat|n
-视他人而使	mata jahat|n
-视他人而使之	mata jahat|n
-视他人而使之遭	mata jahat|n
-视他人而使之遭殃	mata jahat|n
-视他人而使之遭殃的	mata jahat|n
-视他人而使之遭殃的能	mata jahat|n
-视他人而使之遭殃的能力	mata jahat|n
+裆	pesak
+视	pandang|v,visi|n,penglihatan|n,meninjau|v,tontonan|n,kelih,wijana
+视像	video|n
 视力	penglihatan|n
-视察	kelih,meninjau|v
-视录	videografi|n
-视录像	videografi|n
-视录像制	videografi|n
-视录像制作	videografi|n
-视游	hibira|n,permainan video|n
-视游戏	hibira|n,permainan video|n
-视电	videofon|n
-视电话	videofon|n
+视察	meninjau|v,kelih
+视屏	skrin|n
 视界	wijana
-视的	juling|adj,keterabaian|v,lirik|n,terabai|v
-视眼	buta rabun,juling|adj
 视觉	visi|n,korunk|pron,visual
 视觉方	korunk|pron
 视觉方言	korunk|pron
 视觉的	visual
+视讯	video|n
 视野	tontonan|n
-视阔	lenggok|v
-视阔步	lenggok|v
-识	berkenal-kenal,budi bicara,cendekiawan|n,golok kayu,ideologi|n,ilmu|n,ilmu pegetahuan,intelektual
-识份	cendekiawan|n
-识份子	cendekiawan|n
-识分	intelektual
-识分子	intelektual
-识形	ideologi|n
-识形态	ideologi|n
-识的	golok kayu,merakap
-识的人	golok kayu
-豆	bendi,buah pala|n,buncis|n,emping,jering,kacang bendi,kacang bulu|n,kacang buncis
-豆子	kacang panjang|n,remis|n
-豆片	kerepek kentang|n
+视频	video|n
+识时达务	faham|v
+豆	pala|n,tauhu|n,taukua|n
+豆佉	sengsara|n
+豆子	remis|n,kacang panjang|n
+豆子油	remis|n,kacang panjang|n
+豆子油嘴	remis|n,kacang panjang|n
 豆粉	emping
 豆粉饼	emping
-豆糕	koleh
 豆腐	tauhu|n,taukua|n
 豆荚	jering
 豆荚树	jering
-豆蔻	pala|n,buah pala|n
-豆豉	tempe|n
-陆	angkatan darat,benua|n,brigedier|n,daratan|n,jeneral|n,kolonel,lahan|n,mendarat
-陆军	angkatan darat,tentera darat,brigedier|n,jeneral|n,kolonel
+豆蔻	pala|n
+陆	reformasi tanah|n,reformasi agraria|n,mercu tanda|n,udik,tentera darat,angkatan darat
+陆军	jeneral|n,tentera darat,angkatan darat,brigedier|n,kolonel
 陆军上	jeneral|n,kolonel
 陆军上校	jeneral|n,kolonel
 陆军准	brigedier|n
 陆军准将	brigedier|n
-陆地	reformasi agraria|n,reformasi tanah|n,udik,lahan|n
+陆地	lahan|n,reformasi tanah|n,reformasi agraria|n,udik
 陆地区	lahan|n
 陆地区域	lahan|n
 陆标	mercu tanda|n
-集	berjemaah,alap|v,album,antologi|n,beramai-ramai,berhimpun,berhurung,berkampung
-集中	sentralisasi|n,menumpuhkan,tertumpu|v,tumpu|v
-集中全	menumpuhkan,tumpu|v
-集中全力	menumpuhkan,tumpu|v
+集	sidang|n,majlis|n,kumpulan|n,berjemaah,puak|n,kerumun|v,parti|n,himpun|v
+集中	tumpu|v,sentralisasi|n,tertumpu|v,menumpuhkan
+集中全	tumpu|v,menumpuhkan
+集中全力	tumpu|v,menumpuhkan
 集中的	tertumpu|v
-集会	kumpulan|n,majlis|n,parti|n,pertemuan,pumpunan,sidang|n
+集会	sidang|n,majlis|n,kumpulan|n,parti|n,pumpunan,pertemuan
 集会地	pumpunan
 集会地点	pumpunan
-集体	beramai-ramai,keguyuban,kolektif|adj,kolektivisme|n,kolektiviti|n,rambih
-集体主	kolektivisme|n
-集体主义	kolektivisme|n
-集体性	keguyuban,kolektiviti|n
+集体	kolektif|adj,kolektiviti|n,beramai-ramai,rambih,keguyuban
+集体主义集体主义	kolektivisme|n
+集体性	kolektiviti|n,keguyuban
+集体户	kolektif|adj
 集体旅	rambih
 集体旅行	rambih
-集体的	beramai-ramai,kolektif|adj
-集合	alap|v,berhimpun,berkampung,berkumpul,berpumpun,golongkan,himpun|v,jemaah|n
-集团	gerombolan,golongan,kobok,komplot,komplotan,kumpulan|n,pasuk,puak|n
-集的	impit,mujamal
-集者	pemasar|n
+集体的	kolektif|adj,beramai-ramai
+集合	kerumun|v,himpun|v,alap|v,jemaah|n,golongkan,pumpunan,pumpun,tumpuk
+集团	kumpulan|n,puak|n,pasuk,kobok,golongan,komplot,komplotan,gerombolan
+集居	ummah|n
+集市	adil|adj
 集邮	album
 集邮簿	album
-集飞	kelibang
-集飞舞	kelibang

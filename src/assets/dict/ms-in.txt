@@ -32,7 +32,7 @@ informatif	informatif	adj	财产	Having and providing useful information regardi
 infrabunyi	infrabunyi	n	次声	infrasound (low-frequency sound waves)
 inframerah	inframerah	n	红外线的 红外线	infrared
 infrastruktur	infrastruktur	n	基础结构	infrastructure
-inga	inga	v	茫然，恍惚
+inga	inga	v	茫然，恍惚	to be agape
 ingas	ingas		吵闹，喧嚷，骚动
 ingat	ingat	v	记得 记住	to remember		Saya ingat nama dia.	lupa
 ingatan	ingatan	n	记忆	memory (the mental capacity to recall past events or information).
@@ -56,7 +56,7 @@ inovasi	inovasi	n	改革	innovation
 inovatif	inovatif	adj	革新的	innovative
 inovator	inovator	n	改革者	innovator
 insaf	insaf	adj	领，体会，了解	aware (of one's wrongdoings)
-insafi	insafi	v	知道的
+insafi	insafi	v	知道的	to be aware of (something)
 insafkan	insafkan	v	知道的	to make (someone) aware of (something)
 insan	insan	n	人，人类	human; human being; person; mankind.
 insanak	insanak	n	家庭	family

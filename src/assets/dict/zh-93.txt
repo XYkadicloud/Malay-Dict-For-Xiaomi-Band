@@ -1,5 +1,5 @@
-九	nawa|num,sembilan|num,sembilan ratus|num,sembilan ribu|num,bulan sembilan|n,dua puluh sembilan|num,empat puluh sembilan|num,enam puluh sembilan|num
-九十	sembilan puluh|num,sembilan puluh dua|num,sembilan puluh empat|num,sembilan puluh enam|num,sembilan puluh lapan|num,sembilan puluh lima|num,sembilan puluh satu|num,sembilan puluh tiga|num
+九	nawa|num,sembilan|num,sembilan ribu|num,sembilan ratus|num
+九十	sembilan puluh|num,sembilan puluh dua|num,sembilan puluh enam|num,sembilan puluh lima|num,sembilan puluh satu|num,sembilan puluh tiga|num,sembilan puluh empat|num,sembilan puluh lapan|num
 九十一	sembilan puluh satu|num
 九十七	sembilan puluh tujuh|num
 九十三	sembilan puluh tiga|num
@@ -8,133 +8,102 @@
 九十八	sembilan puluh lapan|num
 九十六	sembilan puluh enam|num
 九十四	sembilan puluh empat|num
-九月	bulan sembilan|n,september,ramadan
-九次	nonilion|num,oktilion|num
-九次方	nonilion|num,oktilion|num
-保	andalan,asuransi|n,awet|adj,bela,cadangkan,cagar,cagaran,dayah
+九月	bulan sembilan|n
+保	zamin|n,asuransi|n,insurans|n,rizab|n,tinggal|v,jamin|v,awet|adj,simpan|v
+保准	handal|adj
 保卫	bela,mempertahankan
-保姆	dayah,pengasuh
+保姆	pengasuh,dayah
 保存	simpan|v
-保守	kolot,konservatif|adj,kuno|adj,ultrakonservatif|adj
-保守的	kolot,konservatif|adj,kuno|adj,ultrakonservatif|adj
-保护	lestarikan|v,menyelamatkan,naung,naungkan,pagari,perlindungan,riayah,hutan larangan
-保护人	rigal
-保护人类	rigal
-保护人类的	rigal
-保护人类的圣	rigal
+保守	kuno|adj,konservatif|adj,kolot
+保守的	kuno|adj,konservatif|adj,kolot
+保护	lestarikan|v,naung,naungkan,pagari,riayah,menyelamatkan,perlindungan,zimmi|n
 保护人类的圣灵	rigal
 保护国	zimmi|n
 保护林	hutan larangan,hutan simpanan
-保护消	kepenggunaan|n
-保护消费	kepenggunaan|n
-保护消费者	kepenggunaan|n
-保护消费者利	kepenggunaan|n
-保护消费者利益	kepenggunaan|n
-保护消费者利益运	kepenggunaan|n
 保护消费者利益运动	kepenggunaan|n
 保护者	pelindung
-保留	cadangkan,rizab|n,tinggal|v
+保残守缺	konservatif|adj
+保留	rizab|n,tinggal|v,cadangkan
 保腐	awet|adj
 保藏	awet|adj
-保证	andalan,cagar,jamin|v,menjamin,zamin|n,cagaran,panjar,terjamin
+保证	zamin|n,jamin|v,cagar,andalan,menjamin,cagaran,panjar
 保证人	zamin|n
 保证金	cagaran,panjar
-保险	asuransi|n,insurans|n,fius|n,insurans nyawa
+保险	asuransi|n,insurans|n,fius|n
 保险丝	fius|n
 保障	terjamin
-凝	canguk,dadih|n,dinginbeku,gumpal|cls,keredak,membeku,mencanguk,pukal
-凝乳	dadih|n,renet|n
-凝乳酶	renet|n
+凝	tenung|v,dadih|n,tilik,keredak,dinginbeku,membeku
+凝乳	dadih|n
 凝固	membeku
 凝块	gumpal|cls,pukal
-凝望	canguk,mencanguk
-凝结	dinginbeku,keredak
+凝结	keredak,dinginbeku
+凝结物	konkrit|adj
 凝视	tenung|v,tilik
-嗝	serdawa
-坝	empang|v,empangan|n,beremban
+凝重	parang|n
+囝仔	kanak|n,mat belia|n
+坝	empang|v,empangan|n
 寝	bilik tidur|n,pangking
 寝室	bilik tidur|n,pangking
 川	alur|n
-曝	ketus,panggar
+曝	ketus
 曝干	ketus
 曝物	panggar
 曝物架	panggar
-汝	engkau|pron,mika,mu|pron
+汝	engkau|pron,mu|pron,mika
+烝民	kaum|n
+烝黎	kaum|n
 硝	sendawa|n
+硝烟	asap|n
 硝石	sendawa|n
-祝	selamat|adj,aruk,assalam,berdoa,lebai|n,mendoa,meraikan,merayakan
+祝	selamat|adj,restu|n,tahniah|v,salla,berdoa,mendoa,merayakan,sempadankan
 祝成	semoga berjaya|int
 祝成功	semoga berjaya|int
-祝福	berdoa,mendoa,restu|n,salla,sempadankan
-祝舞	aruk
-祝语	assalam
-祝贺	merayakan,tahniah|v
+祝福	restu|n,salla,berdoa,mendoa,sempadankan
+祝贺	tahniah|v,merayakan
 祝进	selamat maju jaya|int
 祝进步	selamat maju jaya|int
-筝	layang-layang|n,lelayang|n,wau|n
-篝	unggun api|n
-篝火	unggun api|n
-绝	enggan|adv,geleng|n,genosid|n,hak mutlak,malaun|n,mampus|v,mentah-mentah,menumangkan
+绝	tubir|n,patah arang
+绝世	khusus|adj
 绝交	patah arang
+绝后	khusus|adj
 绝壁	tubir|n
-绝对	hak mutlak,mentah-mentah,mutlak|adj,sekali-kali,vegan|n
+绝对	mutlak|adj,mentah-mentah,sekali-kali,hak mutlak
 绝对地	mentah-mentah,sekali-kali
 绝对权	hak mutlak
 绝对权力	hak mutlak
 绝对的	mutlak|adj
-绝对素	vegan|n
-绝对素食	vegan|n
-绝对素食者	vegan|n
 绝望	putus asa
 绝望的	putus asa
 绝灭	malaun|n
 绝灭的	malaun|n
-绝食	mogok lapar|n,mogok makan|n
-蓝	kerpik,biru|adj,biru langit|adj,biru merak|adj,dokong|n,katang,nila|adj,nilakandi|adj
-蓝宝	nilam|n
-蓝宝石	nilam|n
+绝顶	mercu|n,puncak|n
+绝顶聪明	gemilang|adj
+蓝	biru|adj,kerpik,dokong|n,paus biru|n
 蓝撒	dokong|n
-蓝色	biru|adj,paul|adj,biru langit|adj,nila|adj,nilakandi|adj,nilam|n
-蓝色的	paul|adj,nilam|n
+蓝色	biru|adj
+蓝色蓝色	paul|adj
+蓝色蓝色的	paul|adj
 蓝鲸	paus biru|n
-藝	ensiklopedia|n
-藝復	ensiklopedia|n
-藝復興	ensiklopedia|n
-裝	penyamaran|n
-话	ewah,firman,kata seerti|n,alih kata,beleter,bengap|adj,beracah-acah|v,berbual-bual
-话吞	bengap|adj
-话吞吞	bengap|adj
-话吞吞吐	bengap|adj
-话吞吞吐吐	bengap|adj
-话吞吞吐吐不	bengap|adj
-话吞吞吐吐不清	bengap|adj
-话吞吞吐吐不清楚	bengap|adj
-话听	corong telefon
-话听筒	corong telefon
-话带	cengei
-话带有	cengei
-话带有鼻	cengei
-话带有鼻音	cengei
-话服	periuk belanga|n
-话服务	periuk belanga|n
-话来	kesima
+话	kata seerti|n,perbualan|n,firman,ewah,buah mulut
 话柄	buah mulut
-话的	besar mulut,bingal,ceramah|n,diam-diam,ni|det,nyinyir,telinga lintah
-话离	rewel
-话离题	rewel
-话离题的	rewel
-话题	buah mulut,perbualan|n,alih kata
+话茬	topik|n
+话语权	ayaw|n
+话题	perbualan|n,buah mulut
 赝	lancung
 赝品	lancung
-距	susuh,jarak|n,jaraknya,jauhkan|v
-距离	jarak|n,jaraknya,jauhkan|v
+距	jarak|n,susuh,jauhkan|v,jaraknya
+距今	lepas|adj
+距离	jarak|n,jauhkan|v,jaraknya
 违	bantahan|n,mencabuli
 违反	bantahan|n
+违失	salah|adj,kesalahan|n
+违心	palsu|adj
 违犯	mencabuli
 铝	aluminium|n
-镝	disprosium|n
-鳝	belut|n,ikan mulung
+镝镝	disprosium|n
+镝镝D	disprosium|n
+镝镝Dy	disprosium|n
+鳝	ikan mulung
 鳝鱼	ikan mulung
-黝	hitam-hitam,legam
-黝黑	hitam-hitam,legam
-黝黑的	hitam-hitam,legam
+黝黑	legam,hitam-hitam
+黝黑的	legam,hitam-hitam

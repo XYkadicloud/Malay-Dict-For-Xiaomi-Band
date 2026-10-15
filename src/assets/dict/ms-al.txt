@@ -51,7 +51,7 @@ alihkata	alih kata		该变话题
 alihpekerjaan	alih pekerjaan		转业，改行
 alihsuara	alih suara	n	配音复制	dubbing (replacement of voice)
 alim	alim		来回
-alir	alir	v	流动，浮流
+alir	alir	v	流动，浮流	alternative form of alur
 aliran	aliran	n	潮流，倾向	flow (of liquids)
 alis	alis		眉，眉毛
 alit	alit		海燕，燕子
@@ -76,7 +76,7 @@ almaribuku	almari buku		书橱
 almukhalis	almukhalis		救世主
 alor	alor	n	两者择一	alternative spelling of alur
 alorsetar	alor setar		serial event timer a	Alor Setar (the capital city of the state of Kedah  Malaysia)
-alorstar	alor star		荒废的
+alorstar	alor star		荒废的	obsolete spelling of Alor Setar
 alpa	alpa	adj	健忘，疏忽，失职	neglectful (tending to neglect)
 altruistik	altruistik	adj	利他的	altruistic
 alu	alu	n	棒，杵，桩	pestle (instrument used with a mortar to grind things)

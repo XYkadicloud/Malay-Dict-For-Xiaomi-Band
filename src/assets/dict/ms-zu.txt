@@ -1,9 +1,9 @@
 zubaidah	zubaidah		女性	a female given name from Arabic
 zuhal	zuhal		土星	Saturn
-zuhara	zuhara		两者择一
-zuharah	zuharah		两者择一
+zuhara	zuhara		两者择一	alternative form of Zuhrah
+zuharah	zuharah		两者择一	alternative form of Zuhrah
 zuhrah	zuhrah		金星	Venus (the second planet in the Solar system)
-zuhrat	zuhrat		两者择一
+zuhrat	zuhrat		两者择一	alternative form of Zuhrah
 zuhud	zuhud	adj	苦行者	ascetic
 zuhur	zuhur	n	中午祈祷	midday  noon
 zulhijah	zulhijah		回历十一月

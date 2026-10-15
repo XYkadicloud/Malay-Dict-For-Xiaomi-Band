@@ -1,217 +1,158 @@
+佼佼者	elok|adj
 兼	merangkap
 兼任	merangkap
-呼	alamak,ayuh,azan|n,berdesing,bernafas|v,bersorak,bertegur,besing
+呼	nafas|n,seru|v,teriak|n,bernafas|v,menelefon|v,pangus,memangus,pekik
 呼叫	menelefon|v
 呼号	pekik
 呼吁	keriau
-呼吸	bernafas|v,memangus,nafas|n,pangus,pernafasan
-呼呼	berdesing,besing,desing
-呼呼声	besing,desing,berdesing
-呼唤	himbau,panggilan,gubit
-呼喊	pekau,pekik,seru|v,teriak|n,laung|v
+呼吸	nafas|n,bernafas|v,pangus,memangus,pernafasan
+呼呼	besing,desing
+呼呼声	besing,desing
+呼唤	himbau,panggilan
+呼喊	seru|v,teriak|n,pekik,pekau,laung|v
 呼喊声	laung|v
-呼噜	dengkur|n
-呼噜呼	dengkur|n
-呼噜呼噜	dengkur|n
 呼噜呼噜声	dengkur|n
-呼噜声	dengkur|n
-呼声	azan|n,berdesing,besing,desing
 呼鸡	kur
 呼鸡声	kur
-哼	berdendang,bersenandung,kidung,senandung
-哼唱	bersenandung,kidung
+哼	kidung,berdendang,bersenandung
+哼唱	kidung,bersenandung
 哼歌	berdendang
-啼	berkokok,kokok
-啼声	berkokok,kokok
-噼	berdetus,detus,gerutup
-噼啪	berdetus,detus,gerutup
-噼啪声	detus,gerutup,berdetus
-导	acan|v,arta,bawa jalan,berpantau|v,bimbing,bujuk,bult suara,colok|n
-导人	pimpin
+噼啪	gerutup,detus
+噼啪声	gerutup,detus
+导	saluran|n
 导口	bult suara
 导口同	bult suara
 导口同声	bult suara
 导向	salur|v,peluru berpandu|n
 导向飞	peluru berpandu|n
 导向飞弹	peluru berpandu|n
-导引	bimbing
-导引导	bimbing
-导演	dalang|n
-导火	colok|n,murang,sumbu|n,tunam
-导火线	murang,sumbu|n,tunam,colok|n
+导师	guru|n
+导弹	peluru berpandu|n
+导播	pengarah|n
+导演	pengarah|n
+导火	sumbu|n,tunam,murang
+导火线	sumbu|n,tunam,murang
 导电	kekonduksian|n
 导电率	kekonduksian|n
 导管	saluran|n
-导者	pandu|n,panduan|n,pemimpin|n,pengepala|n,tua-tua|n
-导能	kepimpinan|n
-导能力	kepimpinan|n
-导议	sebulat
-导议的	sebulat
-导阶	meritokrasi|n
-导阶级	meritokrasi|n
-幼	akarulung,anak benih,anak bongsu,anak murid,berenga,bongsu|adj,cambah,kebudak-budakan
-幼小	bongsu|adj
-幼小的	bongsu|adj
+幼	tunas|n,putik,ngebul,cambah,anak murid,berenga,akarulung,anak benih
+幼儿	bayi|n
+幼小	muda|adj
+幼崽	muda|adj
 幼果	putik
 幼根	akarulung
-幼的	anak bongsu
-幼的孩	anak bongsu
-幼的孩子	anak bongsu
 幼稚	kekanak-kanakan,kebudak-budakan,kindergarten
 幼稚园	kindergarten
 幼稚的	kebudak-budakan
 幼者	anak murid
-幼芽	anak benih,cambah,kecambah,tunas|n
+幼芽	tunas|n,cambah,anak benih,kecambah
 幼虫	berenga,renga|n
-幼院	prasekolah|n
+幼虫幼	renga|n
+幼虫幼虫	renga|n
 幼鱼	ngebul
 彼	sana|adv
 彼处	sana|adv
 彼方	sana|adv
-恼	azah,gelisah|adj,jengkel,leceh,musakat,ngeran,nyenyen,penderitaan|n
 恼怒	runsing
 恼怒的	runsing
-恼的	jengkel,leceh
-扼	mencekik,cekak|v,cekik|v,tercekik
-扼住	cekak|v,cekik|v
-扼死	tercekik
-拼	abim,amende|pron,ape|pron,banting tulang,camne|adv,cantek|adj,dok|v,eja|v
+扼	mencekik,cekik|v,cekak|v
+扼住	cekik|v,cekak|v
+拼	ejaan|n,eja|v,mee|n,utan|n,prang|n,merdaka|n,kemaskini|n,pelanggam|n
 拼写	eja|v,mengeja,ejaan|n
 拼写法	ejaan|n
-拼命	lasah,mati-matian,banting tulang,sungguh-sungguh,tubi
-拼命工	banting tulang,tubi
-拼命工作	banting tulang,tubi
+拼命	lasah,mati-matian,sungguh-sungguh,tubi,banting tulang
+拼命工	tubi,banting tulang
+拼命工作	tubi,banting tulang
 拼命的	sungguh-sungguh
-拼字	eja|v,ejaan|n,pengeja|n
+拼字	ejaan|n,eja|v,pengeja|n
 拼字者	pengeja|n
-拼法	amende|pron,ape|pron,camne|adv,cantek|adj,dok|v,kete|n,mende|adv,menderong|n
-拼法发	amende|pron,ape|pron,camne|adv,cantek|adj,dok|v,kete|n,mende|adv,menderong|n
-拼法发音	amende|pron,ape|pron,camne|adv,cantek|adj,dok|v,kete|n,mende|adv,menderong|n
-拼词	abim,jakoa,kementah,kj,mageran,mib,palapes,petronas
-拼错	kemaskini|n,mee|n,merdaka|n,pelanggam|n,prang|n,utan|n
-曼	kecubung,oman
-曼佗	kecubung
-曼佗罗	kecubung
-曼佗罗花	kecubung
-曼佗罗花属	kecubung
-曼佗罗花属之	kecubung
-曼佗罗花属之植	kecubung
+拼错	mee|n,utan|n,prang|n,merdaka|n,kemaskini|n,pelanggam|n
 曼佗罗花属之植物	kecubung
-楼	berjoget,gaba,lamunan|n,lantai|n,lawang|n,lenggek,leta,logamaya|n
+楼	lantai|n,loteng|n,lenggek,sotoh
 楼上	loteng|n,patas
+楼台	menara|n
+楼宇	bangunan|n
 楼层	lantai|n,lenggek
 楼板	sotoh
-楼的	gaba,leta
-楼的椰	gaba
-楼的椰叶	gaba
+楼梯	tangga|n
 楼褛	lunyai
 楼褛的	lunyai
-楼阁	lamunan|n
+楼阁	bangunan|n
+楼面	tingkat|n
 楼顶	loteng|n
-泼	berkecimpung,kecimpung,merecik,renjis,akas,animasi|n,bergas|adj,cegak
-泼健	cegak
-泼健壮	cegak
-泼健壮的	cegak
-泼声	celempung
+泼	renjis,merecik,kecimpung,berkecimpung,kirai|n
 泼水	ketibung
 泼水声	ketibung
 泼溅	kirai|n
-泼的	cergas,gegap gempita|adj,jeraus,rancak,ringan tulang|adj
+泼贱	alas|n
 泼辣	judas
 泼辣的	judas
-灼	hangit|adj,kerak|n
+灼	kerak|n
 灼焦	kerak|n
-狼	serigala|n,zib|n,anjing serigala rusia|n,baham,borzoi|n,dubuk|n,gelogok,jelempah
-狼吞	baham,gelogok,kerkak,kerkan,kerkap,lalah,sengam
-狼吞虎	baham,gelogok,kerkak,kerkan,kerkap,lalah,sengam
-狼吞虎咽	baham,gelogok,kerkak,kerkan,kerkap,lalah,sengam
+狼	serigala|n,jelempah,pontang-panting
+狼吞	gelogok,baham,lalah,kerkak,kerkan,kerkap,sengam
+狼吞虎	gelogok,baham,lalah,kerkak,kerkan,kerkap,sengam
+狼吞虎咽	gelogok,baham,lalah,kerkak,kerkan,kerkap,sengam
 狼狈	pontang-panting,sasap
 狼狈周	sasap
 狼狈周章	sasap
-狼狗	anjing serigala rusia|n,borzoi|n
-狼籍	jelempah,keji
-發	petrol|n
-發性	petrol|n
-發性易	petrol|n
-發性易燃	petrol|n
-發性易燃的	petrol|n
-發性易燃的液	petrol|n
-發性易燃的液態	petrol|n
-發性易燃的液態烴	petrol|n
-發性易燃的液態烴類	petrol|n
-發性易燃的液態烴類組	petrol|n
-發性易燃的液態烴類組成	petrol|n
+狼籍	jelempah
 盼	embuh
 盼望	embuh
-硼	boron|n,tingkal|n
+硼	tingkal|n
 硼砂	tingkal|n
-综	majmuk,sindrom klinefelter|n,sindrom marfan|n
-综合	majmuk,sindrom klinefelter|n,sindrom marfan|n
-综合征	sindrom klinefelter|n,sindrom marfan|n
-翼	kepak|n,sayap|n,berkepak-kepak,gelepar,gelupur,menggelupur,perap|n,sayap kiri|adj
-臼	geraham,gerham,indik,kelenyuk,kiat,lesung|n,lumpang,meriam katak
-臼炮	meriam katak,tomong
-臼的	kiat
-臼齿	geraham,gerham
-荼	geroda|n
+硼硼	boron|n
+硼硼B	boron|n
+综	majmuk
+综合	majmuk
+综合体	kompleks|n
+综合征	sindrom|n
+综合报导	singkat|adj
+综合症	sindrom|n
+综合馆	kompleks|n
+翼	kepak|n,sayap|n
+臼	tomong,gerham,geraham,meriam katak
+臼炮	tomong,meriam katak
+臼齿	gerham,geraham
 蝼	orong
 蝼蛄	orong
-铼	renium|n
-饼	bika,biskut|n,cakera|n,cakeram,donat|n,emping,jeluari,juadah
-饼之	bika
-饼之名	bika
+铼铼	renium|n
+铼铼R	renium|n
+铼铼Re	renium|n
+顼顼	kecewa|adj
+饼	biskut|n
 饼干	biskut|n
-饼的	kuih
-驼	bonggol|n,bongkok|adj,bongkok sabut,bongkok udang,paus kelasa|n,pelekuh,unta|n
-驼的	bonggol|n
-驼的背	bonggol|n
-驼的背峰	bonggol|n
-驼背	bongkok|adj,bongkok udang,bongkok sabut,paus kelasa|n,pelekuh
+饼肥	kek|n
+驼	bongkok|adj,bongkok udang
+驼背	bongkok|adj,bongkok udang,paus kelasa|n,pelekuh
 驼背的	pelekuh
 驼背鲸	paus kelasa|n
-鱼	baung akar|n,baung pisang|n,ikan|n,kicap ikan|n,kicap sotong|n,pari|n,seliap,akuarium|n
-鱼丝	unjun
+鱼	ikan|n,pari|n,baung akar|n,kicap ikan|n,baung pisang|n,kicap sotong|n,kolam|n,seliap
 鱼丸	gulikan
-鱼之	biawan,ikan pias,pias
-鱼之一	biawan
-鱼之一种	biawan
-鱼之类	ikan pias,pias
-鱼井	lapun
-鱼仔	bilis,ikan bilis|n
-鱼叉	lembing|n,tempuling|n,tohok,piarit
-鱼名	kitang,senohong
+鱼叉	tempuling|n,lembing|n,tohok
+鱼名	kitang
 鱼咀	muncung
 鱼塘	tebat
 鱼或	belacan|n
 鱼或虾	belacan|n
 鱼或虾膏	belacan|n
 鱼栅	bubu|n,kelung
-鱼桿	pancing|n
-鱼池	balong,kolam|n,tebat
-鱼狗	pekaka,raja udang|n
-鱼用	kelong
-鱼用具	kelong
-鱼的	dingkis,penjala,ruan
-鱼的一	dingkis,ruan
-鱼的一种	dingkis,ruan
-鱼的人	penjala
+鱼池	kolam|n,tebat,balong
+鱼狗	raja udang|n,pekaka
 鱼种	ngebul
-鱼笼	bemban|n,belat,bubu|n,jermal,lukah|n,temberam,tubin|n
+鱼笼	bemban|n
 鱼筌	lukah|n
 鱼篮	sarau
-鱼类	senunggang,selara,selekor
-鱼类名	selekor,selara
+鱼类	senunggang,selekor
+鱼类名	selekor
 鱼缸	akuarium|n
-鱼网	jala|n,payang|n,petaram
+鱼网	jala|n
 鱼腥	hamis
 鱼腥味	hamis
 鱼臭	hamis
-鱼船	kolek
 鱼藤	tuba|n
 鱼虾	terasi
 鱼虾酱	terasi
-鱼酱	penaram,petis|n
+鱼酱	petis|n,penaram
 鱼钩	mata kail|n
-鱼钵	perni
 鱼雷	torpedo
-鱼鳞	kulipas,menyiang,menyisiki

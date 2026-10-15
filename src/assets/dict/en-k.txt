@@ -1,137 +1,68 @@
-kacang	kacang putih|n
-kaffir	limau purut|n
-kafir	kafirkan|v
-kafirkan	dikafirkan|v,mengkafirkan|v
-kahwin	kawin|v
-kalau	kalo|conj,lau|conj
-kampar	kampar
-kampung	kampong|n
-kanak	kanak-kanak|n
-kanan	knn
-kangar	kangar
+kaffir lime	limau purut|n
+kampar a town in the state of perak	kampar
+kangar the capital city of perlis	kangar
 kangaroo	kanggaru|n
-kapok	kapuk|n,kekabu|n
-kapten	kepten|n
-karang	dikarang|v,mengarang|v
-karaoke	kaki karok|n,mat karok|n
-karcis	karcis|n
-kashf	kasyaf|n
-kasihan	kesian|adj,sian|adj
-kastela	kestela
-kasuari	suari|n
-katai	kata-katai|v
-kategorikan	dikategorikan|v,mengkategorikan|v
-kau	ko|pron
-kaul	pesta kaul
-kaunseling	dikaunseling|v,mengkaunseling|v
-kaya	okb|n,okl|n
-kayu	bukit kayu hitam
-kecap	ketjap|n
-kecerdasan	ai|n,kebijaksaan buatan|n,kebijaksanaan buatan|n,kecerdikan buatan|n,kepintaran buatan|n
-kedah	darul aman,jitra,kedah,kedah darul aman
-kedutkan	dikedutkan|v,mengedutkan|v
-keep	intip|v,memperkotakan|v,mengacah-acah|v,pelihara|v,reban|n,tutup mulut|v
-keganasan	krt|n
-kejap	jap|adv
-kejayaan	jaya|n
-kejinggaan	kejingga-jinggaan|adj
-kek	kek lapis|n
-kekili	kili-kili|n
-kelang	klang
-kelantan	bachok,kelantan
-kelaring	klaring|adj
-kelmarin	kelemari|adv,kemarin|n
-keluar	kuar|v
-keluarga	kuarga|n
-kelupas	mengelupas|v
-kemajuan	jakoa
-kemas	kemaskini|n
-kemasam-masaman	masam-masaman|adj
-kementerian	kementah
-kena	okt|n
-kenapa	kenap|adv,napa|adv
-kennel	rumah anjing|n,rumah asu|n
-kerajaan	krjaan
-kereta	keretapi|n,keta|n
-keris	salang|v
-kerja	waktu kerja|n
+kapok	kekabu|n
+kapok tree the tree that produces this fiber	kapuk|n
+karaoke guy	mat karok|n
+kashf the state of unraveling divine truth by spiritual experiences	kasyaf|n
+kaul festival	pesta kaul
+kebaya a traditional blouse worn by women in malaysia	kebaya
+kedah	kedah,darul aman,bukit kayu hitam,kodiang,changlun
+keep mum	tutup mulut|v
+kek lapis	kek lapis|n
+kelantan	kelantan
+kennel	rumah asu|n,rumah anjing|n
 kerosene	minyak tanah|n
-keruping	keropeng|n
-keta	kete|n
-keterangan	katerangan|n
-ketuanan	ketuanan melayu
+ketuanan melayu	ketuanan melayu
 ketupat	ketupat|n
-kewajipan	kewajiban|n
-key	anak kunci|n,banji|n,kekunci|n,kunci|n
-keyboard	papan kekunci|n,papan nada|n
-khadija	khadijah
-khairy	kj
-khamis	kamis
-khas	khusus|adj
-kick	sepak|v,sepakan percuma|n,tendang|v,tendangan percuma|n,terajang|v
+key	kunci|n,kekunci|n,anak kunci|n
+keyboard	papan nada|n,papan kekunci|n
+khadija the first wife of the prophet muhammad	khadijah
 kid	bocah|n
-kidnap	culik|v
 kidnapping	penculikan|n
-kidney	buah pinggang|n,ginjal|n,kerinjal|n
-kill	bunuh|v,membunuh|v
-killer	paus hitam|n,paus pembunuh|n,pembunuh|n
-kinabalu	kk,kota kinabalu
-kinabatangan	kinabatangan
-kindness	budi|n,kebaikan|n
+kidney	ginjal|n,kerinjal|n,buah pinggang|n
+killer	pembunuh|n
+kinabatangan a district of sandakan division	kinabatangan
+kindness	budi|n
 kindred	beradik|adj
-kinds	dayung-mayung|n,kacang puteh|n,sayur-mayur|n
-kinetic	tenaga kinetik|n
-king	aji|n,berseba|v,bupala|n,datu|n,raja|n,seba|v
-kingdom	bendahara|n,kedatuan|n,kerajaan|n,united kingdom
+kinetic energy	tenaga kinetik|n
+king	aji|n,datu|n,raja|n,syah|n,bupala|n
+king's palanquin	takhta rawan|n
+kingdom	kerajaan|n
 kingfisher	raja udang|n
-kini	kemaskini|n
-kio	ang mo kio
-kiss	cium|v
-kitchen	acaran|n,siok|n
-kite	layang-layang|n,wau|n
-klang	kelang,pelabuhan klang
-klasik	kelasik|adj
+kitchen	siok|n
+kite	wau|n,layang-layang|n
+klang	kelang
 kleptocracy	kleptokrasi|n
-klinefelter	sindrom klinefelter|n
+klinefelter syndrome	sindrom klinefelter|n
+kn	nyamuk|n
 knackered	lorat|adj
 knee	lutut|n,tuhut|n
-knema	cendara|n
+knema oblongifolia	cendara|n
 knickers	seluar dalam|n
-knife	pisau|n,pisau paung|n,pisau roti|n
-knife-edge	telur di hujung tanduk|n
+knife	pisau|n
 knob	jongkol|n
+knobby having an uneven surface	gerutu
 knoll	pongsu|n
 knot	ikatan|n,simpulan|n
-know	bisa mengabet|v,kenal|v,sadin|v,tahu|v
-know-it-all	palatau|n
-knowledge	berinformasi|v,ilmu|n,informasi|n,makrifat|n,pengetahuan|n
-known	kaki bodek|n,mat kelentong|n,mendunia|v
+knowledge	ilmu|n,makrifat|n,informasi|n,pengetahuan|n
+known for being a storyteller of lies	mat kelentong|n
+known for his brown-nosing habits	kaki bodek|n
 knuckle	buku jari|n
-knuckles	sekeh|v
-kodiang	kodiang
-koetjape	sentul|n
-komunis	kominis|n,pkm
-komunisme	komunizem|n
-konvokesyen	konvokesen|n
-korang	korg
+kodiang a town in kubang pasu district	kodiang
 koruna	koruna|n
-kota	kb,kk,kota belud,kota bharu,kota kinabalu
-krait	tedung ranggas|n
-kritikal	kritis|adj
+kota belud a city in kota belud district	kota belud
+kota bharu the capital city of kelantan	kota bharu
+kota kinabalu the capital city of sabah	kota kinabalu
+kris a traditional indonesian	keris
 krypton	kripton|n
-kshatriya	kesatria|n
-ktm	ktm
-kuala	kl,kolumpur,kuala terengganu
-kuantan	kuantan
-kubang	berkubang|v,kubang pasu
-kuching	kuching
-kudat	kudat
-kugiran	kumpulan gitar rancak|n
-kuih	abuk-abuk|n,putu|n
-kulai	kulai
-kurang	kureng|adv
-kurrajong	nilau|n
-kut	bak kut teh|n,kot|adv
+kuala terengganu the capital city of terengganu	kuala terengganu
+kuantan the capital city of pahang	kuantan
+kubang pasu a district of kedah	kubang pasu
+kuching the capital city of sarawak	kuching
+kudat division	kudat
+kudat the district capital of kudat district	kudat
+kulai district a district of johor	kulai
 kuwait	kuwait
-kuyuk	kuyuk-kuyuk
-kway	kuetiau|n
+kway teow	kuetiau|n

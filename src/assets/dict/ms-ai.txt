@@ -1,4 +1,4 @@
-ai	ai	n	呀！嗳呀！
+ai	ai	n	呀！嗳呀！	initialism of kecerdasan buatan
 aib	aib		耻辱，不名誉
 aidilfitri	aidilfitri		开斋节	Eid al-Fitr
 aikido	aikido	n	<日>合气道	aikido
@@ -31,7 +31,7 @@ airpancut	air pancut	n	水源	fountain (artificial water feature)
 airpasang	air pasang		涨潮
 airpeluh	air peluh		汗水
 airperbani	air perbani		小潮，最低潮
-airsembahyang	air sembahyang	n	仪式
+airsembahyang	air sembahyang	n	仪式	Form of ritual washing performed before prayer or salat; wudu.
 airseni	air seni	n	小便	Urine (liquid excrement)
 airsurut	air surut		退潮
 airtangan	air tangan	n	烹饪  熬炼	cooking or dish made by somebody's hard work.
@@ -40,4 +40,3 @@ airtawar	air tawar		鲜水，淡水
 airterjun	air terjun	n	瀑布	waterfall (flow of water over the edge of a cliff)
 ais	ais	n	冰	ice (water in frozen form)
 aiskrim	ais krim	n	冰淇淋
-aiskrim	aiskrim	n	冰淇淋  冰淇淋	ice cream

@@ -1,268 +1,150 @@
-义	absolutisme|n,absurdisme|n,adalat,adicita|n,ajib,akhdar|adj,aktivitet|n,anak tekak|n
-义务	ajib,obligasi|n,fardu|n,wajib|adj
+义	obligasi|n,bapa angkat|n,kualun,ajib
+义务	obligasi|n,ajib,wajib|adj
+义务工作者	sukarelawan|n
 义务的	wajib|adj
 义父	bapa angkat|n
-义的	kualun,bersejarah,cuai|adj,liberal|adj,nasionalistik|adj,rasis|adj,sosialis|adj,tinggi diri|adj
-义者	cauvinis|n,fasis|n,feminis|n,imperialis,individualis|n,kolonialis,komunis|n,mat pen|n
-义者的	zionis|n
-义词	adicita|n,akhdar|adj,aktivitet|n,anak tekak|n,asu|n,belau|adj,berbincang-bincang|v,bersembahkan|v
-光	caguk,cahaya|n,lrt,sepui|adj,sinar|n,x-ray,ahera,bangga
+义的	kualun
+义警	sukarelawan|n
+光	sepui|adj,cahaya|n,sinar|n,cerlang|adj,nur|n,seri|n,kedatangan|n,lrt
 光临	kedatangan|n,tiba|v
-光了	punah
-光亮	benderang,cerlang|adj,terang benderang,cemerlang|adj
+光亮	cerlang|adj,cemerlang|adj,benderang,terang benderang
 光亮灿	cemerlang|adj
 光亮灿烂	cemerlang|adj
-光十	puspawarna
-光十色	puspawarna
-光十色的	puspawarna
+光光	cerlang|adj,lancar|adj
 光合	fotosintesis|n
 光合作	fotosintesis|n
 光合作用	fotosintesis|n
-光圈	gelanggang|n,ahera
+光圈	gelanggang|n
 光年	tahun cahaya|n
-光彩	semarak,seri|n
-光性	pendar|n
-光明	caguk,nur|n,terang-benderang
+光彩	seri|n,semarak
+光彩夺目	gemilang|adj
+光明	nur|n,caguk,terang-benderang
 光明的	terang-benderang
-光泽	sebam
-光泽的	sebam
-光滑	lancap|v,licau,lincir|adj,sega
-光滑的	lancap|v,licau,lincir|adj,sega
-光焕	berseri
-光焕发	berseri
+光是	baru|adj,semata-mata|adv
+光景	adegan|n,agaknya|adv
+光泽	seri|n
+光溜	lancar|adj
+光滑	lancap|v,lincir|adj,sega,licau
+光滑的	lancap|v,lincir|adj,sega,licau
 光电	kesan fotoelektrik|n
 光电效	kesan fotoelektrik|n
 光电效应	kesan fotoelektrik|n
-光的	gemilang|adj,pendarfosfor|adj,saru
-光秃	botak|adj,bulus,gondol,lokos,sulah,togok
+光秃	botak|adj,bulus,gondol,lokos,sulah
 光秃的	botak|adj,bulus,gondol,lokos,sulah
-光秃秃	togok
-光秃秃的	togok
-光秃秃的树	togok
 光秃秃的树干	togok
-光线	pancaran,sinar|n,sinaran,beremban
+光线	sinar|n,pancaran,sinaran
+光耀	gemilang|adj
 光艳	licau
 光艳的	licau
 光荣	bangga,berbangga,kebanggaan,megah
 光荣的	megah
-光诱	lima puluh empat|num
-光诱惑	lima puluh empat|num
 光谱	spektrum
 光身	bogel|adj
 光身的	bogel|adj
-光辉	caguk,gilang,semarak,gemerlap,gilang-cemerlang,gilang-gemilang,perlang
-光辉的	gemerlap,gilang-cemerlang,gilang-gemilang,perlang
-光速	takion|n
-光速粒	takion|n
-光速粒子	takion|n
-凉	agar-agar|n,anjung|n,jamban|n,keren|adj,rojak|n,sandal,sangu,sejuk|adj
+光辉	gilang,caguk,semarak,perlang,gemerlap,gilang-gemilang,gilang-cemerlang
+光辉的	perlang,gemerlap,gilang-gemilang,gilang-cemerlang
+凉	sejuk|adj,keren|adj,anjung|n,agar-agar|n,sandal,sangu,serambi
 凉亭	anjung|n
+凉凉	keren|adj
 凉台	serambi
-凉房	jamban|n
 凉拌	rojak|n
 凉拌杂	rojak|n
 凉拌杂菜	rojak|n
 凉爽	keren|adj,sejuk|adj
-凉的	sejuk|adj,sepi|adj
+凉的	sejuk|adj
 凉菜	agar-agar|n,sangu
 凉鞋	sandal
-凉饮	serbat
-凉饮料	serbat
-勉	kerajinan,lenggana,segan|adj,tekun|adj,tubi,tungkus lumus
-勉强	lenggana,segan|adj
-勉强的	lenggana,segan|adj
-勉的	tekun|adj
-叉	canggah,menyerampang,bercanggah,bersengkeling,bersilang,cabang|n,cerangah,garpu|n
+勉强	segan|adj,lenggana
+勉强的	segan|adj,lenggana
+叉	canggah,menyerampang,garpu|n,keliti,topang,sengkelang,sengkeling,bersengkeling
 叉子	garpu|n
-叉戟	serampang|n,trisula|n
-叉手	bersengkeling,sengkelang,sengkeling
-叉放	menyilang
-叉放着	menyilang
+叉手	sengkelang,sengkeling,bersengkeling
 叉架	keliti,topang
-叉的	bercanggah,cerangah
-叉矛	trisula|n
-叉神	saraf trigeminal|n
-叉神经	saraf trigeminal|n
-叉腰	telekan
-叉路	simpang tiga
-叉路口	simpang tiga
-哉	ayuh
-嗉	cerewet
-嗉的	cerewet
-奉	akafkan,ampu|v,hidang,menghidangkan|v,mengumbuk,menyembahkan|v,muntil,pujuk
+嗉囊	tanaman|n
+奉	ampu|v,pujuk,sanjung
 奉下	menghidangkan|v,hidang
 奉下食	hidang
 奉下食物	hidang
-奉于	akafkan
-奉于宗	akafkan
-奉于宗教	akafkan
-奉承	ampu|v,pujuk,sanjung,mengumbuk,muntil,umbuk
-奉承的	muntil
+奉承	ampu|v,pujuk,sanjung
 婉	ungkapan
+婉妙	indah|adj,manis|adj
 婉言	ungkapan
-嫉	dengki|adj,sinis|adj
-嫉俗	sinis|adj
-嫉俗的	sinis|adj
 嫉妒	dengki|adj
 嫉妒的	dengki|adj
-屉	anak meja|n,kotak|n,laci|n
-拉	erat|adv,heret|v,jinjit,meleser,membabaskan,menarik|v,mencemat,mengait|v
-拉丁	abc|n,abese|n,latin|n,rumawi
+廉正	integriti|n
+廉洁	jujur|adj
+拉	erat|adv,tunda|v,heret|v,seret|v,memang|adv,menghela|v,tarik|v,menarik|v
+拉丁	latin|n,rumawi
 拉丁人	latin|n,rumawi
-拉丁字	abc|n,abese|n
-拉丁字母	abc|n,abese|n
 拉丁字母表	abc|n,abese|n
 拉上	sisil
-拉伯	alias,arab|adj,arab saudi,gambus|n,gorab,samum,sayid
-拉伯人	arab|adj,sayid
-拉伯六	gambus|n
-拉伯六弦	gambus|n
-拉伯六弦琵	gambus|n
-拉伯六弦琵琶	gambus|n
-拉伯地	samum
-拉伯地区	samum
-拉伯地区的	samum
-拉伯地区的热	samum
-拉伯地区的热风	samum
-拉伯字	alias
-拉伯字母	alias
-拉伯字母的	alias
-拉伯字母的第	alias
-拉伯字母的第一	alias
-拉伯字母的第一个	alias
-拉伯字母的第一个字	alias
-拉伯舟	gorab
-拉伯舟名	gorab
 拉住	paut|v
-拉圭	uruguay
 拉圾	tetel
-拉奏	menggesek,gesek biola
-拉奏小	gesek biola
-拉奏小提	gesek biola
+拉奏	menggesek
 拉奏小提琴	gesek biola
-拉姆	malayalam|n
-拉姆语	malayalam|n
 拉开	singkap
-拉战	gambuh
-拉战争	gambuh
-拉战争舞	gambuh
-拉手	combol|n
-拉扯	menyentak|v,menyintak,sintak,memang|adv
+拉扯	menyentak|v,sintak,menyintak
 拉拖	unggut
 拉放	unjun
 拉放鱼	unjun
 拉放鱼丝	unjun
-拉格	praha
-拉的	gerobak kuda
-拉的货	gerobak kuda
-拉的货车	gerobak kuda
-拉索	lidah buaya|n
-拉索芦	lidah buaya|n
-拉索芦荟	lidah buaya|n
-拉紧	mencing,meregangkan,paut|v,regang|adj,tegang,terik
-拉紧的	regang|adj,tegang,terik
-拉罕	abraham
+拉紧	regang|adj,paut|v,mencing,meregangkan,terik,tegang
+拉紧的	regang|adj,terik,tegang
 拉船	serunda
 拉船上	serunda
 拉船上岸	serunda
 拉起	memang|adv
-拉车	traktor
 拉链	zip
 拉门	pintu gelangsar|n
-拉雅	malayalam|n
-拉雅拉	malayalam|n
-拉雅拉姆	malayalam|n
-拉雅拉姆语	malayalam|n
-拉麻	abaka|n
-捉	cekup|v,ketil,menangkap,mencekup,bekuk,capai|v,giatkan,jaring|n
+捉	cekup|v,ketil,mencekup,menangkap,capai|v,selisik,mengusik
 捉住	capai|v
 捉弄	mengusik
+捉捕器	perangkap|n
 捉虱	selisik
 捉进	giatkan
 捉迷	kejar-kejaran
 捉迷藏	kejar-kejaran
-揉	pecal,ramas|v,lenyeh,menguli
+揉	ramas|v,pecal,lenyeh,menguli
 揉合	lenyeh
 揉捏	menguli
-棉	gingam|n,kabu-kabu,kain belacu,kapas|n,kapuk|n,kekabu|n,putih macam kapas,rerama|n
-棉块	rerama|n
-棉布	kain belacu,gingam|n,telepuk
-棉花	kapas|n,putih macam kapas
-汉	agsa,bangsat,bujang|n,hang tuah,lajang,lamban,pak kaduk,perewa
+棉	kain belacu
+棉布	kain belacu
+棉花	kapas|n
+棉花和	kapas|n
+棉花和谐	kapas|n
+歉意	sesal|n
+汉子	laki|n,mat|n
 汉都	hang tuah
 汉都亚	hang tuah
-泉	air mineral|n,basut,ocak-ocak air,pancutan air,sumber|n
-泉水	air mineral|n
-痉	kedul,sawan
+泉源	asal|n
+痉	kedul
 痉挛	kedul,sawan
 痉挛乱	sawan
-等	tunggu|v,bidai,bilah|n,cembul|n,dan lain-lain,dan sebagainya,dan sterusnya,darjah|n
-等主	feminis|n
-等主义	feminis|n
-等主义者	feminis|n
-等之	perkelang
-等之称	perkelang
-等之称号	perkelang
+等	mutu|n,pangkat|n,tunggu|v,darjah|n,gred|n,penilaian|n,martabat|n,kasta|n
 等候	menanti
-等单	bilah|n
-等单位	bilah|n
 等同	sebaik|adj,sebiru|adj,secantik|adj,selancar|adj
 等同的	sebaik|adj,sebiru|adj,secantik|adj,selancar|adj
-等待	menanti,menunggu|v
-等法	mahkamah tinggi
-等法庭	mahkamah tinggi
-等的	cembul|n,gempal,jegung,menengah,pincang,rembunai,samarata,sedang|adv
-等的倒	seruit
-等的倒钩	seruit
-等的储	jegung
-等的储藏	jegung
-等的储藏处	jegung
-等的金	cembul|n
-等的金属	cembul|n
-等的金属盒	cembul|n
-等程	pulik
-等程度	pulik
-等等	dan lain-lain,dan sebagainya,dan sterusnya
-等级	darjah|n,gred|n,kasta|n,martabat|n,mutu|n,pangkat|n,penilaian|n,peringkat
+等待	menunggu|v,menanti
+等第	rata|adj,penilaian|n
+等等	dan sebagainya,dan lain-lain
+等级	mutu|n,pangkat|n,darjah|n,gred|n,penilaian|n,martabat|n,kasta|n,peringkat
 等级制	hierarki|n
 等级制度	hierarki|n
-等绢	petola|n
-等處	petrol|n
-等處理	petrol|n
-等處理而	petrol|n
-等裂	penyerpihan|n
-等裂成	penyerpihan|n
-等裂成碎	penyerpihan|n
-等裂成碎片	penyerpihan|n
-绉	kempung,lapih,lecik,lusuh,peronyok,tekuk
-绉的	lapih,lusuh
+绉	kempung
 绉缩	lecik
 绉缩的	lecik
-草	cincau|n,jukut,rumput|n,anjing prairi|n,barung|n,cakar ayam|n,corat-coret,dangau
-草之	pakma,penggaga
-草之一	penggaga
-草之一种	penggaga
-草之名	pakma
-草人	pacau
-草原	savana,anjing prairi|n
-草原土	anjing prairi|n
-草原土拨	anjing prairi|n
+草	rumput|n,cincau|n,rencana|n,teratak|n,padang|n,jukut,protokol|n,barung|n
+草原	savana
 草原土拨鼠	anjing prairi|n
-草名	sambau,ketumbit,sepulih
-草地	padang|n,cakar ayam|n
-草地写	cakar ayam|n
+草名	sambau
+草地	padang|n
 草屋	barung|n,dangau
 草席	tikar
 草本	herba|n
 草本植	herba|n
 草本植物	herba|n
-草案	denah,protokol|n,rancangan,rang,rencana|n
-草棕	nipah
-草棕榈	nipah
+草案	rencana|n,protokol|n,rang,denah,rancangan
 草棚	sapau
-草的	cakar ayam|n
-草的笔	cakar ayam|n
-草的笔迹	cakar ayam|n
 草稿	maskhah
 草笼	kisa
 草篮	katang
@@ -270,59 +152,35 @@
 草药	jejamu,nyarang
 草药名	nyarang
 草莓	strawberi|n
-草袋	kampit,topong,sumpit|n
-草袋的	sumpit|n
-草袋的一	sumpit|n
+草袋	topong,kampit
 草袋的一种	sumpit|n
-草食	herbivor|n,maun|n
-草食动	herbivor|n,maun|n
-草食动物	herbivor|n,maun|n
-蓉	fu yong,seremban,sungai ujong
-蕉	jawi-jawi|n,kelesek,keresek,mauz,nasi bungkus,pisang|n,punti|n,serendah
-蕉叶	jawi-jawi|n,keresek,nasi bungkus
-蕉叶包	nasi bungkus
-蕉叶包裹	nasi bungkus
-蕉叶包裹的	nasi bungkus
-蕉叶包裹的饭	nasi bungkus
-蕉叶包裹的饭菜	nasi bungkus
-蕉名	serendah
-蕉干	kelesek
-蕉干的	kelesek
-蕉干的外	kelesek
-蕉干的外皮	kelesek
-藉	alasan|n,cari helah,dalih|n,keanggotaan,menghibur
-藉口	alasan|n,dalih|n,cari helah
-蛉	anak angkat
-蛉子	anak angkat
+草食	maun|n,herbivor|n
+草食动	maun|n,herbivor|n
+草食动物	maun|n,herbivor|n
+藉	alasan|n,dalih|n
+藉…的机会	sempena,mengambil sempena
+藉口	alasan|n,dalih|n
+藉由	melalui|prep
+藉着	melalui|prep
 蝉	reriang|n,riang-riang|n
-觉	aspada,berhalusinasi|v,bobok,citarasa,gera|v,halusinasi|n,kebangkitan,keinsafan|n
-觉不	labang
-觉不佳	labang
-觉不佳的	labang
-觉入	terlena
-觉入睡	terlena
+觉	sedar|adj,kesedaran|n,keinsafan|n,siuman|adj,gera|v,kebangkitan
 觉察	perhati|v
 觉察到	perhati|v
-觉悟	kebangkitan,keinsafan|n,kesedaran|n,sedar|adj
-觉方	korunk|pron
-觉方言	korunk|pron
-觉的	lasa,sebal,tega,visual
-觉醒	gera|v,kebangkitan,siuman|adj
-诉	adu|v,aduan,beritahu|v,dakwa|n,guam|n,gugat,kasasi,kelah
-诉苦	rungut|v,rungutan|n
-诉讼	aduan,litigasi|n,guam|n,litigan|n
-诉讼当	litigan|n
-诉讼当事	litigan|n
-诉讼当事人	litigan|n
+觉悟	sedar|adj,kesedaran|n,keinsafan|n,kebangkitan
+觉醒	siuman|adj,gera|v,kebangkitan
+诉	rungutan|n,rungut|v,litigasi|n,aduan
+诉求	utusan|n
+诉状	ah|part
+诉苦	rungutan|n,rungut|v
+诉讼	litigasi|n,aduan,guam|n
 诉讼案	guam|n
-诉讼的	litigan|n
-豉	tempe|n
-镉	kadmium|n
-雉	ayam pegar,ketitir,kuang|n,kuangkuit|n,kuau|n
-雉的	kuau|n
-雉的一	kuau|n
+诉讼的诉讼当事人	litigan|n
+镉镉	kadmium|n
+镉镉C	kadmium|n
+镉镉Cd	kadmium|n
+雉	kuang|n,kuangkuit|n,ketitir
 雉的一种	kuau|n
 雉鸟	kuang|n
 雉鸠	ketitir
 雉鸡	kuangkuit|n
-鹉	bayan|n,burung nuri,burung pialing,kakaktua|n,nuri|n,pialing,teraling,tiung|n
+黉舍	sekolah|n

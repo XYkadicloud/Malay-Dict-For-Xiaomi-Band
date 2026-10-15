@@ -17,7 +17,7 @@ arar	arar	n	杜松属  杜松	juniper
 aras	aras		健康的 分界，边缘
 arasair	aras air		水位，水平面
 arau	arau		挑拨，扰乱	Arau (the royal capital of Perlis  Malaysia)
-arbaa	arbaa		其他形式 。 专有
+arbaa	arbaa		其他形式 。 专有	alternative form of Rabu
 arboris	arboris	n	树木栽培家	an arborist  a tree surgeon
 arca	arca	n	偶像	sculpture  idol
 ardi	ardi	n	指令，命令	earth (soil)
@@ -43,7 +43,7 @@ arked	arked	n	拱廊	arcade
 arkian	arkian		再者
 arkib	arkib	n	把...存档 档案馆	archive (place for storing earlier material)
 arkitek	arkitek	n	建筑师，绘测师	architect
-arkus	arkus	n	两者择一
+arkus	arkus	n	两者择一	alternative form of argus
 arloji	arloji		表
 armada	armada	n	舰队	A fleet of warships; an armada.
 armadillo	armadillo	n	犰狳  南美犰狳	armadillo

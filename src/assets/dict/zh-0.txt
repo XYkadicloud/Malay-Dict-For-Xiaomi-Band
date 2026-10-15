@@ -1,110 +1,70 @@
-一	eka|num,satu|num,a go go|n,aba|n,aba-aba|n,abad al-abid|n,abad alabid|n,abadiyyat|adj
+一	satu|num
 一一	satu bersatu
-一万	laksa|n,puluh ribu|num,satu puluh ribu|num,sepuluh ribu|num
-一上	jongkat-jangkit,unggat-unggit
-一上一	jongkat-jangkit,unggat-unggit
+一万	laksa|n,puluh ribu|num,sepuluh ribu|num,satu puluh ribu|num
+一上	unggat-unggit
+一上一	unggat-unggit
 一上一下	unggat-unggit,jongkat-jangkit
 一上一下的	jongkat-jangkit
-一下	jongkat-jangkit,seimbas,sejurus,unggat-unggit
+一下	seimbas,sejurus
 一下子	seimbas,sejurus
-一下的	jongkat-jangkit
+一世	umur|n,kala|n
 一丛	rumpun
-一个	suatu|det,alias,berikutnya|adj,di samping,selepas itu|adv,yang mana|pron,yang pertama
-一个字	alias
-一个的	berikutnya|adj,di samping,selepas itu|adv
-一串	jambak,rangkai,renteng,rongkol,segugus,sejambak,seruntai,untai
+一个	suatu|det
+一串	rangkai,untai,renteng,rongkol,segugus,jambak,sejambak,seruntai
 一些	sebahagian|det
 一人	seorang|cls
 一代	generasi|n
-一份	jabat
-一份工	jabat
-一份工作	jabat
-一会	bentar,cecah,jenak,manakala|conj,seimbas,sejenak,sejurus
-一会儿	bentar,cecah,jenak,manakala|conj,seimbas,sejenak,sejurus
-一低	jongkat-jangkit
-一低的	jongkat-jangkit
-一击	kudeta|n,rampasan kuasa|n
+一会	manakala|conj,cecah,bentar,seimbas,sejurus,jenak,sejenak
+一会儿	manakala|conj,cecah,bentar,seimbas,sejurus,jenak,sejenak
 一分	duit|n,menunggal
 一分钱	duit|n,menunggal
 一切	kesemua|det
+一切事物	segala|pron
 一列	deret|cls
-一刹	bentar,sekejap|adv,sepintas lalu
-一刹那	bentar,sekejap|adv,sepintas lalu
-一副	peranggu,rawan
+一刹	sekejap|adv,sepintas lalu,bentar
+一刹那	sekejap|adv,sepintas lalu,bentar
+一副	rawan,peranggu
 一包	belingkas
-一化	mempermudah|v
 一匹	secebik
-一千	seribu|num,alfu,septilion|num
-一千的	septilion|num
-一千的八	septilion|num
-一千的八次	septilion|num
+一千	seribu|num
 一千的八次方	septilion|num
-一千零	alfu
-一千零一	alfu
-一千零一夜	alfu
 一半	separuh|num,setengah|n
 一卷	relung|n
-一双	bandung|n,gu,jangka lukis|n,joli|n,kelamin,pasang|num,rewan,jori
+一双	pasang|num,joli|n,bandung|n,jangka lukis|n,gu,rewan,kelamin,jori
 一双马	jori
-一发	gantung di hujung rambut
-一发的	gantung di hujung rambut
 一叠	gepok,segepok
-一口	reguk,suap,teguk|v,sepah,sirih|n
-一口嚼	sirih|n
-一口嚼的	sirih|n
-一口嚼的栳	sirih|n
-一口嚼的栳叶	sirih|n
+一口	teguk|v,suap,reguk
+一号	tandas|n
+一号木杆	sais|n
 一同	berserta
-一后	kuatordesilion|num
-一后面	kuatordesilion|num
-一后面有	kuatordesilion|num
-一后面有四	kuatordesilion|num
-一后面有四十	kuatordesilion|num
-一后面有四十五	kuatordesilion|num
-一后面有四十五个	kuatordesilion|num
-一后面有四十五个零	kuatordesilion|num
-一后面有四十五个零之	kuatordesilion|num
 一后面有四十五个零之数	kuatordesilion|num
 一员	arga
-一周	lilit,pekan|n
+一周	pekan|n,lilit
 一命	jiwa melayang
 一命呜	jiwa melayang
 一命呜呼	jiwa melayang
 一团	tompok,bergumpal-gumpal
 一团团	bergumpal-gumpal
 一团团的	bergumpal-gumpal
-一国	isi negeri
-一国之	isi negeri
-一国之居	isi negeri
+一团糟	kemelut|n
 一国之居民	isi negeri
 一圈	lilit,untai
-一块	seketul,sepiak,berketul-ketul,mengapit
-一块一	berketul-ketul
+一块	sepiak,seketul
 一块一块	berketul-ketul
 一块一块的	berketul-ketul
-一块的	berketul-ketul
-一堆	rombong,timbun,tompok,beronggok-onggok
-一堆一	beronggok-onggok
+一堆	rombong,tompok,timbun
 一堆一堆	beronggok-onggok
 一堆一堆的	beronggok-onggok
-一堆的	beronggok-onggok
-一声	debak|n,lebak|n
-一夜	alfu
-一天	langkau sehari
-一夫	monogami|n,monogani
-一夫一	monogami|n,monogani
-一夫一妻	monogami|n,monogani
-一夫一妻制	monogami|n,monogani
-一头	popor|n
-一套	peranggu,rawan,set
-一妻	monogami|n,monogani
-一妻制	monogami|n,monogani
-一定	tidak dapat,nescaya,pasti|adj,tertentu|adj
-一定的	nescaya,pasti|adj,tertentu|adj
+一夫一妻制	monogani
+一夫一妻制单配	monogami|n
+一头	gus|adv
+一套	rawan,set,peranggu
+一定	pasti|adj,tertentu|adj,tidak dapat,nescaya
+一定的	pasti|adj,tertentu|adj,nescaya
 一家	tuan rumah
 一家之	tuan rumah
 一家之主	tuan rumah
-一对	gu,joli|n,kelamin,rewan,dua-dua
+一对	joli|n,gu,rewan,kelamin,dua-dua
 一对对	dua-dua
 一寻	depa|v
 一小	cecah,gundukan,segelintir
@@ -112,21 +72,21 @@
 一小撮	cecah,segelintir
 一小群	gundukan
 一局	set
-一屋	isi rumah
-一屋之	isi rumah
-一屋之居	isi rumah
+一层	alas|n
 一屋之居民	isi rumah
-一干	cupak|n
-一干冬	cupak|n
+一带	rantau|n
+一席之地	nama|n
 一年	setahun
+一年生	tahunan|adj
+一度	sekali|adv
 一张	sehelai kertas
 一张纸	sehelai kertas
-一惊	peranjat,terperanjat
-一扎	belingkas,gepok,segepok
+一径	bujor|adj
+一扎	gepok,segepok,belingkas
 一打	dozen
-一把	berkas|n,gemal|v,rimpang
-一掌	setelempap,telempap,tempap
-一掌之	setelempap,telempap
+一把	gemal|v,berkas|n,rimpang
+一掌	telempap,tempap,setelempap
+一掌之	telempap,setelempap
 一掌之宽	setelempap
 一掌之阔	telempap
 一掌尺	tempap
@@ -135,283 +95,164 @@
 一整	semalam-malaman
 一整晚	semalam-malaman
 一斤	kati
-一旁	kesamping
+一方	rantau|n
+一族	keluarga|n
 一日	roji
 一日之	roji
 一日之粮	roji
+一旦	bila|adv,sekali|adv
+一时	sentara|adj
 一星	pekan|n
 一星期	pekan|n
-一月	bulan satu|n,januari,bulan sebelas|n,bulanan,sura,zulhijah
-一月一	bulanan
+一月	bulan satu|n,januari
 一月一次	bulanan
 一月一次的	bulanan
-一束	belingkas,berkas|n,gemal|v,gepok,rangkai,rian|n,rongkol,rumpun
+一束	until,rian|n,gemal|v,berkas|n,rumpun,gepok,rangkai,segepok
 一条	seuntai
-一来	demikian itu
 一杯	secawan
-一样	sepadan,gemuruh,imbas-imbas,sama besar,sama juga,seolah-olah
-一样响	gemuruh
-一样响亮	gemuruh
+一样	sepadan,sama besar
 一样大	sama besar
 一样大小	sama besar
-一次	sekali|adv,sekali-sekala|adv,sekaligus,bulanan,persetua,sekali persetua
-一次的	bulanan
-一段	sekerat,mak kau hijau
-一段兩	mak kau hijau
-一段兩個	mak kau hijau
-一段兩個男	mak kau hijau
-一段兩個男孩	mak kau hijau
-一段兩個男孩打	mak kau hijau
-一段兩個男孩打架	mak kau hijau
-一段兩個男孩打架互	mak kau hijau
-一段兩個男孩打架互罵	mak kau hijau
-一段兩個男孩打架互罵的	mak kau hijau
-一段兩個男孩打架互罵的視	mak kau hijau
-一段兩個男孩打架互罵的視頻	mak kau hijau
-一毛	cekel,kupang|n
-一毛不	cekel
+一次	sekali|adv,sekali-sekala|adv,sekaligus
+一步一个脚印	handal|adj
+一段	sekerat
 一毛不拔	cekel
 一毛不拔的	cekel
-一毛钱	kupang|n
-一流	johan pahlawan
-一流选	johan pahlawan
-一流选手	johan pahlawan
+一毛钱贻贝	kupang|n
 一满	suap
 一满口	suap
-一点	lahanat|adj,sikit|adj,cemas-cemas,dikit|n,hampir-hampir,meleleh,rada,sedikit|adj
-一点一	meleleh,sedikit-sedikit
-一点一点	meleleh,sedikit-sedikit
+一点	sikit|adj,lahanat|adj,dikit|n,sedikit|adj,rada
+一点一点	sedikit-sedikit
 一点一点地	sedikit-sedikit
-一点一点流	meleleh
 一点一点流滴	meleleh
-一点地	sedikit-sedikit
-一点流	meleleh
-一点流滴	meleleh
-一点点	dikit|n,rada,sedikit|adj
-一点要	hampir-hampir
-一片	iris,secebik,sehiris,sepiak,berkeping-keping,gelap-gulita,patio|n
-一片供	patio|n
-一片供晴	patio|n
-一片供晴天	patio|n
-一片供晴天休	patio|n
-一片供晴天休息	patio|n
-一片供晴天休息用	patio|n
-一片供晴天休息用的	patio|n
-一片供晴天休息用的石	patio|n
-一片供晴天休息用的石砌	patio|n
-一片供晴天休息用的石砌空	patio|n
+一点点	dikit|n,sedikit|adj,rada
+一片	iris,sepiak,secebik,sehiris,berkeping-keping
 一片片	berkeping-keping
 一片片的	berkeping-keping
-一版	cetakan pertama
-一物	kompal-kampil
 一球	rangkai,renteng
 一生	seumur hidup
-一百	seratus|num,kuindesilion|num,nonilion|num,sentilion|num
-一百万	kuindesilion|num,nonilion|num
-一百万的	kuindesilion|num,nonilion|num
-一百万的九	nonilion|num
-一百万的九次	nonilion|num
+一百	seratus|num
 一百万的九次方	nonilion|num
-一百万的十	kuindesilion|num
-一百万的十五	kuindesilion|num
-一百万的十五次	kuindesilion|num
-一百万的十五次幂	kuindesilion|num
-一百次	sentilion|num
-一百次幂	sentilion|num
-一的	ahid,demi|prep,ehsan,johan,julung-julung,nafsi,pinak|n,ridzuan
 一盒	sekotak
-一直	hingga|prep,terus|adv
+一直	terus|adv,hingga|prep
 一直到	hingga|prep
 一直的	terus|adv
-一看	melangut|v,menyusur galur|v,tampak|v,tandang|v
-一眼	kerling|n
+一看	tampak|v,tandang|v,melangut|v,menyusur galur|v
 一瞥	sekilas|adv,sepintas lalu
 一码	ela|n
-一种	aragas,belantai,bengkarung|n,bengku,bermi,bertam,betutu,biawak
-一种大	pukat|n
-一种大渔	pukat|n
 一种大渔网	pukat|n
-一种山	pergam|n
 一种山鸠	pergam|n
-一种捕	kelong
-一种捕鱼	kelong
-一种捕鱼用	kelong
 一种捕鱼用具	kelong
-一种树	petaling,pulai,senamaki
-一种树之	pulai
 一种树之名	pulai
 一种树木	senamaki
-一种树的	petaling
-一种树的名	petaling
 一种树的名称	petaling
-一种植	mengkuang|n
 一种植物	mengkuang|n
-一种泥	betutu
 一种泥鱼	betutu
-一种热	gelama
-一种热带	gelama
 一种热带鱼	gelama
-一种猴	jelotong,jelutung|n
-一种猴子	jelotong,jelutung|n
-一种胶	jelutung|n
+一种猴子	jelutung|n,jelotong
 一种胶树	jelutung|n
-一种舞	joget|v
 一种舞蹈	joget|v
-一种蔓	pakma
-一种蔓草	pakma
-一种蔓草之	pakma
 一种蔓草之名	pakma
-一种蜥	biawak
 一种蜥蜴	biawak
-一种长	nafiri
-一种长喇	nafiri
 一种长喇叭	nafiri
-一种马	dodol,makyung
-一种马来	dodol,makyung
-一种马来歌	makyung
 一种马来歌剧	makyung
 一种马来糕	dodol
-一程	sedajat
-一程度	sedajat
-一空	ranggah
 一竿	sepenggalah
 一竿之	sepenggalah
 一竿之长	sepenggalah
-一粒	kersai
-一粒一	kersai
-一粒一粒	kersai
-一粒一粒的	kersai
-一粒的	kersai
-一粟	sangat kecil
-一组	triniti|n
-一绞	rian|n,tukal,until
-一群	sekumpulan,sepasukan,berbondong-bondong,berpusu-pusu,bertompok-tompok,bondong,sekawan gajah,sekuat
-一群一	berbondong-bondong,berpusu-pusu,bertompok-tompok,bondong
-一群一群	berbondong-bondong,berpusu-pusu,bertompok-tompok,bondong
-一群一群的	berbondong-bondong,bertompok-tompok,bondong
+一级棒	elok|adj
+一经	sekali|adv
+一绞	until,rian|n,tukal
+一群	sepasukan,sekumpulan,sekuat,sekawan gajah
+一群一群	bondong,bertompok-tompok,berbondong-bondong
+一群一群的	bondong,bertompok-tompok,berbondong-bondong
 一群一群达	berpusu-pusu
 一群一群达的	berpusu-pusu
 一群大	sekawan gajah
 一群大象	sekawan gajah
 一群强	sekuat
 一群强壮	sekuat
-一群的	berbondong-bondong,bertompok-tompok,bondong
-一群达	berpusu-pusu
-一群达的	berpusu-pusu
-一致	sekata|adj,sepakat,bersatupadu,bulat|adj,bulat hati,bult suara,bunyi mati|n,gembleng
-一致的	bulat|adj,bulat hati,bult suara,bunyi mati|n,huruf benar|n,huruf mati|n,konsonan|n,munasabah
-一般	biasanya|adv,hantu|n,sepunya|adj,umum|adj,awam|adj,harta benda,lazim|adj,murba
+一致	sekata|adj,bulat|adj,sepakat,munasabah,bulat hati,bult suara
+一致的	bulat|adj,munasabah,bulat hati,bult suara
+一般	biasanya|adv,umum|adj,sepunya|adj,awam|adj,lazim|adj,hantu|n,murba
 一般上	lazim|adj
-一般地	terpacu-pacu
-一般的	awam|adj,murba,harta benda
-一般的财	harta benda
+一般性	jeneral|n
+一般的	awam|adj,murba
 一般的财产	harta benda
 一虎	jengkal|n
 一虎口	jengkal|n
 一行	deret|cls,sejajar
-一起	bersama|prep,seiring,bertiga,campur aduk,gotong
+一贯	pemalar|n,selaras|adj
+一起	bersama|prep,seiring,gotong
 一起扛	gotong
-一跳	kejut|v,peranjat,terkejut|adj,terperanjat
-一边	mengetepikan,menyebelahi
 一道	bersama-sama|adv,ikut|v
 一道去	ikut|v
 一部	bagian
 一部分	bagian
 一队	lajur
-一集	mujamal
-一集的	mujamal
+一面	gus|adv
+一面…一面	seraya
 一项	taktik|n
+一项或条	suatu|det
 一项战	taktik|n
 一项战术	taktik|n
-一高	jongkat-jangkit
-一高一	jongkat-jangkit
+一餐	makanan|n
 一高一低	jongkat-jangkit
 一高一低的	jongkat-jangkit
-一齐	bersampingan,gus|adv,sekali gus time,serentak|adj,berempatan
-傀	orang-orang|n,patung|n
-傀儡	orang-orang|n,patung|n
-刀	bilah|n,keris,pedang,pisau|n,sekin,candung|n,gamak,golok|n
-刀之	lamang
-刀之一	lamang
-刀之一种	lamang
-刀刺	salang|v
-刀刺死	salang|v
-刀剑	sampir
-刀剑之	sampir
-刀剑之护	sampir
+一齐	gus|adv,serentak|adj,sekali gus time,bersampingan
+傀	patung|n,orang-orang|n
+傀儡	patung|n,orang-orang|n
+刀	pisau|n,bilah|n,hulu|n,keris,pedang,sekin,kisar
+刀剑	rencong|n
 刀剑之护手	sampir
-刀匠	pengasah
 刀口	kisar
-刀威	gamak
-刀威胁	gamak
-刀枪	kabal,pelias,temin,wutuh
-刀枪不	kabal,pelias,wutuh
+刀叶	bilah|n
+刀子	pisau|n
+刀枪	pelias
+刀枪不	pelias
 刀枪不人	wutuh
 刀枪不人的	wutuh
 刀枪不入	pelias,kabal
 刀枪不入的	kabal
-刀枪的	temin
-刀枪的铁	temin
 刀枪的铁圈	temin
 刀柄	hulu|n
-刀石	las,pengasah
-咀	gonyeh,kerekah,kerepek|n,komak-kamik,kulum,kunyah|v,mam|v,mamah|v
-咀嚼	gonyeh,komak-kamik,kulum,kunyah|v,mam|v,mamah|v,memamah,membaham
-咀嚼声	kerekah,kerepek|n
-开	aidilfitri,asingkan,awal musim hujan,babang,babar,bagi|v,belah|n,belanja|n
-开交	diikat|v
-开交的	diikat|v
+刀片	bilah|n
+刀身	bilah|n
+匀净	rata|adj,seragam|adj
+匀实	rata|adj,seragam|adj
+咀	mam|v,mamah|v,kunyah|v,kulum,komak-kamik,gonyeh,memamah,membaham
+咀嚼	mam|v,mamah|v,kunyah|v,kulum,komak-kamik,gonyeh,memamah,membaham
+咀嚼声	kerepek|n,kerekah
+开	lepas|adj,pangkal|n,cabang|n,belanja|n,mulai|v,mekar|v,menerangkan|v,mula|n
+开业	pedati|n
 开会	bermesyuarat
-开化	biadab|adj
-开化的	biadab|adj
-开半	sepet
-开半闭	sepet
-开原	jelimput
-开原来	jelimput
-开原来的	jelimput
-开原来的方	jelimput
-开原来的方向	jelimput
 开叉	cabang|n
-开双	depang,kangkang
-开双腿	kangkang
-开双臂	depang
-开发	buka tanah,pemaju|n
+开发	buka tanah
 开发土	buka tanah
 开发土地	buka tanah
-开发者	pemaju|n
+开发者显影器	pemaju|n
 开口	momit
-开地	meluh
-开地耕	meluh
-开地耕种	meluh
 开场	permulaan
-开垦	buka tanah,meluh,menerangkan|v,meneroka|v,teroka|v
-开始	konvokesyen|n,memulakan|v,mula|n,mulai|v,permulaan,awal musim hujan,buka bicara
+开垦	menerangkan|v,teroka|v,meneroka|v,meluh,buka tanah
+开始	mulai|v,mula|n,konvokesyen|n,memulakan|v,permulaan,buka bicara
 开始演	buka bicara
 开始演说	buka bicara
 开审	buka bicara
 开小	rentis
 开小路	rentis
-开尾	igal
-开尾毛	igal
 开幕	pembukaan
-开店	berkedai,buka kedai
-开开	ternganga
-开彩	cabutan loteri
-开心	besar hati,colek hati
-开或	engsot
-开或移	engsot
-开或移动	engsot
-开拓	ladang,terjajah|v
+开店	buka kedai,berkedai
+开心	besar hati
+开拓	ladang
 开拓之	ladang
 开拓之地	ladang
-开拓殖	terjajah|v
 开拓殖民	terjajah|v
 开拓殖民地	terjajah|v
-开支	membelanjakan,nafkah hidup,ongkos
+开拔	perlepasan|n
+开支	ongkos,nafkah hidup,membelanjakan
 开放	lepas|adj,mekar|v
-开斋	buka puasa,aidilfitri,lebaran,selamat hari raya|int
-开斋节	aidilfitri,lebaran,selamat hari raya|int
-开斋节快	selamat hari raya|int
+开斋	buka puasa,aidilfitri,lebaran
+开斋节	aidilfitri,lebaran
 开斋节快乐	selamat hari raya|int
 开朗	lehar
 开朗的	lehar
@@ -421,103 +262,86 @@
 开沟灌	menyeroka
 开沟灌溉	menyeroka
 开火	tembakkan
-开炮	cucuh meriam,membedil
-开玩	bercumbu-cumbuan,bergurau senda,berjenaka,berkelakar,berseloroh,bukan main-main,celoteh,seloroh
-开玩笑	bergurau senda,berjenaka,berkelakar,berseloroh,celoteh,seloroh,bercumbu-cumbuan,bukan main-main
-开的	curai,dedah|v,dibahagi|v,langah,pengembangan|n,perai
-开着	celengap
+开炮	membedil,cucuh meriam
+开玩	seloroh,celoteh,bergurau senda,berjenaka,berkelakar,berseloroh
+开玩笑	seloroh,celoteh,bergurau senda,berjenaka,berkelakar,berseloroh
 开端	pangkal|n
-开纠	huraikan|v
-开纠结	huraikan|v
 开罗	kaherah,kahirah
-开而	kengkang
-开而跑	kengkang
 开花	berbunga
 开荒	meluh
-开路	rentas,rintis|n,perintis|n
+开路	rintis|n,rentas,perintis|n
 开路先	perintis|n
 开路先锋	perintis|n
+开车人	sais|n
 开辟	rentas,rentis
-开采	cebak,lombong|n
+开采	lombong|n,cebak
 开采矿	lombong|n
 开采矿产	lombong|n
-开销	belanja|n,membelanja,perbelanjaan,membiayai
+开销	belanja|n,perbelanjaan,membelanja
 开闭	kumat-kumit
+开阔	pedati|n
 开除	memecat
-往	bergaul,campur gaul,getil,lalu-lalang,lepas|adj,madang,mundar-mandir,seringkali
-往往	madang,seringkali,lalu-lalang,ulang-alik
+开麦拉	kamera|n
+往常	lazim|adj
+往往	madang,seringkali
 往来	mundar-mandir
-往的	lepas|adj,silam
-往返	lalu-lalang,ulang-alik
-怀	aham,aram,asangka,aswas,bunting,busuk hati,curiga|adj,hamil|adj
-怀不	busuk hati
-怀不善	busuk hati
-怀孕	bunting,hamil|adj,kehamilan|n,mengandung|v
+往返	ulang-alik,lalu-lalang
+怀	zan|n,curiga|adj,hamil|adj,kehamilan|n,kecurigaan|n,mencurigai|v,mengandung|v,langut
+怀妊	kehamilan|n
+怀孕	hamil|adj,kehamilan|n,mengandung|v,bunting
 怀念	langut,merindukan
 怀恨	aram
 怀恶	kod hasad|n
 怀恶意	kod hasad|n
 怀恶意的	kod hasad|n
-怀疑	aham,asangka,aswas,curiga|adj,kecurigaan|n,keraguan,mencurigai|v,mengesyaki
-怀疑者	suspek|n
-技	arena,bisa mengabet|v,gelanggang|n,juruteknik,kecekapan,kepandaian,kipu,teknik|n
-技场	arena
-技工	kipu,tukang|n,utas
+怀特	putih|adj
+怀疑	zan|n,curiga|adj,kecurigaan|n,mencurigai|v,aham,aswas,asangka,sangsi
+技	teknik|n,utas,tukang|n,kipu,kepandaian,kecekapan
+技工	utas,tukang|n,kipu
+技巧	teknik|n
 技师	tukang|n
-技术	kecekapan,kepandaian,teknik|n,bisa mengabet|v,juruteknik,teknokrasi|n,teknokrat|n,teknokratik|adj
-技术专	teknokrasi|n,teknokrat|n,teknokratik|adj
-技术专家	teknokrasi|n,teknokrat|n,teknokratik|adj
-技术专家官	teknokratik|adj
-技术专家官员	teknokratik|adj
-技术专家官员组	teknokratik|adj
-技术专家官员组成	teknokratik|adj
-技术专家官员组成的	teknokratik|adj
-技术专家政	teknokrasi|n
-技术专家政治	teknokrasi|n
+技术	teknik|n,kepandaian,kecekapan,ungkapan,juruteknik
 技术专家政治论	teknokrasi|n
-技术专家治	teknokrat|n
-技术专家治国	teknokrat|n
-技术专家治国论	teknokrat|n
 技术专家治国论者	teknokrat|n
 技术人	juruteknik
 技术人员	juruteknik
 技术名	ungkapan
 技术名称	ungkapan
-技物	gelanggang|n
+技术指导	jurulatih|n
+技法	cara|n,teknik|n
 技能	kepandaian
+技艺	seni|n
 掀	menyingkap
 掀开	menyingkap
 搀	menggaul
 搀混	menggaul
-攀	gapai,kerabat,ketiran,menaiki,menggapai,pelasari,puyu|n
+攀	puyu|n,kerabat,menaiki,gapai,menggapai
 攀抓	gapai,menggapai
 攀登	kerabat,menaiki
-攀缘	ketiran,pelasari
-攀缘植	ketiran,pelasari
-攀缘植物	pelasari,ketiran
+攀缘	pelasari
+攀缘植	pelasari
+攀缘植物	pelasari
 攀鲈	puyu|n
-最	paling|adv,abang long|n,air perbani,akhir|adj,akhir-akhir,akibatnya,anak bongsu,baharu-baharu
-最上	kepalingan|adj,mughayat,superlatif|adj
-最上的	kepalingan|adj,mughayat,superlatif|adj
+最上	kepalingan|adj,superlatif|adj,mughayat
+最上的	kepalingan|adj,superlatif|adj,mughayat
 最下	hina-hina
 最下贱	hina-hina
 最下贱的	hina-hina
-最低	air perbani,perbani
-最低潮	air perbani,perbani
+最低	perbani,air perbani
+最低潮	perbani,air perbani
+最佳	mercu|n,utama|adj
+最佳部分	perdana|adj
 最先	mula-mula
-最初	mula-mula,jati|adj,julung,julung-julung,ori|adj
-最初的	jati|adj,julung,julung-julung,ori|adj
-最后	akhir|adj,akibatnya,kemuktamadan|n,muntaha,mutamad,berzaman|v,buncir,corot
-最后的	berzaman|v,buncir,corot,muktamad|adj,penghabisan,terakhir
-最多	celaka tiga belas|adj,seelok-eloknya|adv,terbanyak
+最初	ori|adj,jati|adj,mula-mula,julung,julung-julung
+最初的	ori|adj,jati|adj,julung,julung-julung
+最后	akhir|adj,kemuktamadan|n,muktamad|adj,berzaman|v,muntaha,mutamad,akibatnya,corot
+最后的	muktamad|adj,berzaman|v,corot,penghabisan,buncir,terakhir
+最多	seelok-eloknya|adv,celaka tiga belas|adj,terbanyak
 最多的	terbanyak
 最大	embung,terbesar
 最大的	embung,terbesar
 最好	terbaik|adj
 最好的	terbaik|adj
-最小	bapa cik|n
-最小的	bapa cik|n
-最小的人	bapa cik|n
 最少	minimum,sekurang-kurangnya
 最少量	minimum
 最年	bongsu|adj,ulung
@@ -525,11 +349,9 @@
 最年轻的	bongsu|adj
 最年长	ulung
 最年长的	ulung
-最幼	anak bongsu,bongsu|adj
+最幼	bongsu|adj
 最幼小	bongsu|adj
 最幼小的	bongsu|adj
-最幼的	anak bongsu
-最幼的孩	anak bongsu
 最幼的孩子	anak bongsu
 最慢	selewat-lewatnya
 最旧	abang long|n
@@ -537,108 +359,77 @@
 最终	brunei
 最终可	brunei
 最终可能	brunei
-最近	akhir-akhir,baru-baru,belakangan,baharu-baharu,damping
-最近的	baharu-baharu,damping
+最近	baru-baru,belakangan,akhir-akhir,damping,baharu-baharu
+最近的	damping,baharu-baharu
 最迟	selewat-lewatnya
 最重	terutama
 最重要	terutama
 最重要的	terutama
 最长	sulung|adj
 最长的	sulung|adj
-最高	firdaus|n,sat|adj,junjung tinggi,maksimum,terburuk,tercantik,tertampan,tertinggi
+最高	sat|adj,firdaus|n,tertinggi,maksimum,junjung tinggi
 最高敬	junjung tinggi
 最高敬意	junjung tinggi
 最高的	tertinggi
-最高级	terburuk,tercantik,tertampan
+最高限额	siling|n
 最高额	maksimum
-檀	cendana|n,pacai
-檀香	cendana|n,pacai
+檀香	cendana|n
 檀香木	cendana|n
-檀香粉	pacai
-犀	badak|n,cula,enggang
+犀	badak|n,enggang
+犀利	tajam|adj
 犀牛	badak|n,cula
 犀牛角	cula
 犀鸟	enggang
-禀	kelah
-禀上	kelah
-禀上诉	kelah
-稀	embun betina,kanji|n,keenceran,lengang|adj,nadir,nadirat,pelik|adj
+璀璨	cerlang|adj
+稀	kanji|n,keenceran,embun betina
 稀奇	pelik|adj
+稀奇古怪	aneh|adj,gila|adj
 稀奇的	pelik|adj
+稀松	goyang|adj
 稀疏	lengang|adj
 稀疏的	lengang|adj
 稀罕	nadir,nadirat
 稀罕之	nadirat
 稀罕之物	nadirat
 稀罕的	nadir
+稀薄	kurus|adj
 稀释	keenceran
+稀里光当	kurus|adj
 稀露	embun betina
 稀饭	kanji|n
-简	bersahaja,brakilogi|n,periuk belanga|n,ringkas,secara ringkas,sempol|adj,sepintas lalu
-简单	bersahaja,ringkas,secara ringkas,sempol|adj,sepintas lalu
-简单地	secara ringkas,sepintas lalu
-简单的	bersahaja,ringkas,sempol|adj
+简	brakilogi|n
+简单	sempol|adj,sepintas lalu,ringkas,secara ringkas,bersahaja
+简单地	sepintas lalu,secara ringkas
+简单的	sempol|adj,ringkas,bersahaja
 简明	brakilogi|n,ringkas
 简明的	ringkas
-简易	periuk belanga|n
-简易老	periuk belanga|n
-简易老式	periuk belanga|n
-简易老式电	periuk belanga|n
-简易老式电话	periuk belanga|n
-简易老式电话服	periuk belanga|n
 简易老式电话服务	periuk belanga|n
+简略	singkat|adj
+简直	sekadar|adv
 简短	secara ringkas
 简短地	secara ringkas
+简表	meja|n
+简装	lawan|n
 简要	secara ringkas
 简要地	secara ringkas
-缀	akhiran,imbuhan|n,jelujur,lompok,mencantum,sisipan
-缀词	imbuhan|n
-耀	gagah|adj,gemilap,gilang,gilap-gemilap,kilap,ledang,memegahkan,mengiang
+简言之	sekilas|adv
+简述	sekilas|adv
 耀煌	mengiang
 耀煌的	mengiang
-耀的	gagah|adj
-膀	bahu|n,berkepak,bersayap,gelepar,gelupur,kepak|n,pundi kencing|n
-膀拍	gelepar
-膀拍击	gelepar
+膀	pundi kencing|n
+膀子	lengan|n
 膀胱	pundi kencing|n
-舀	menyauk,menyudip,mencedok|v
-舀取	mencedok|v
-蚀	gerhana|n,bulan gerhana,gerhana bulan,gerhana matahari,hakis|v,menghakiskan,mumut,rahu
-蚀的	rahu,tembuk
-蚀的巨	rahu
-蚀的巨龙	rahu
-蜀	jagung|n,kelongsong,tongkol
-蜀黍	jagung|n,kelongsong,tongkol
-蜀黍的	tongkol
-蜀黍的梗	tongkol
-蜀黍的梗心	tongkol
-蜀黍的梗心果	tongkol
-蜀黍的梗心果实	tongkol
-言	comel|adj,sebut|v,tutur,abab|v,ahli bahasa,asiat,bacar,bahasa|n
-言专	ahli bahasa
-言专家	ahli bahasa
-言学	ilmu bahasa,linguistik|n,munsyi bahasa
-言学家	munsyi bahasa
-言家	nabi|n
-言的	bacar,berat mulut
-言结	susunan bahasa
-言结构	susunan bahasa
-言者	daud,hud,ibrahim,idris
+膀臂	lengan|n
+舀	menyauk,menyudip
+蚀	gerhana|n
+言	sebut|v,comel|adj,ucapan|n,tutur,ujar|v,lafaz
 言而	meriam buluh
 言而不	meriam buluh
 言而不行	meriam buluh
-言自	ngangut
-言自语	ngangut
-言蜜	bujukan,cumbu
-言蜜语	bujukan,cumbu
-言行	berhadis|v,hadis|n
-言行录	berhadis|v,hadis|n
 言论	ucapan|n,ujar|v
 言词	ujar|v
-言语	bahasa|n,gumam
 言辞	lafaz
-讀	goyang|adj,piring|n
-退	air surut,berundur,elaun bersara,jatuh|v,kemerosotan,kemunduran,lindap,membalikkan
+退	jatuh|v,muntah|v,suluk,surut,mundur,lindap,menyusut,membalikkan
 退休	elaun bersara
 退休津	elaun bersara
 退休津贴	elaun bersara
@@ -648,25 +439,18 @@
 退后	berundur
 退回	membalikkan
 退居	suluk
-退步	kemunduran,mundur
-退潮	air surut,surut
+退步	mundur,kemunduran
+退潮	surut,air surut
 退热	lindap
 退职	mundur
 退色	muntah|v
 退还	membalikkan
-邀	ajak|n,ajakan,jemput|v,jemputan,lawa|adj,melawa,mempelawa,mempersilakan
-邀请	ajak|n,ajakan,jemput|v,jemputan,lawa|adj,melawa,mempelawa,mempersilakan
-錀	roentgenium|n
-销	belanja|n,belenggu,dalal,francaisi|n,larap,laris,membelanja,membiayai
-销商	dalal
-销权	francaisi|n
-销权的	francaisi|n
-销权的人	francaisi|n
-销的	payu|n
-需	keperluan|n,memerlukan|v,minat|n,perlu|v,taknak|v,usah|adj,vital
+邀	lawa|adj,ajak|n,jemput|v,sogok,suguh,silakan,ajakan,melawa
+邀约	ajak|n
+邀请	lawa|adj,ajak|n,jemput|v,sogok,suguh,silakan,ajakan,melawa
+錀钅	roentgenium|n
+錀钅仑	roentgenium|n
+需	perlu|v,minat|n,keperluan|n,usah|adj,memerlukan|v
 需求	keperluan|n
-需的	vital
-需要	keperluan|n,memerlukan|v,minat|n,perlu|v,usah|adj,taknak|v
-需要的	taknak|v
-需要的东	taknak|v
+需要	perlu|v,minat|n,keperluan|n,usah|adj,memerlukan|v
 需要的东西	taknak|v

@@ -1,217 +1,147 @@
-主	saido,yamtuan|n,absolutisme|n,absurdisme|n,adi|n,allah,almukhalis,anarkisme|n
-主主	sosial demokrasi|n
-主主义	sosial demokrasi|n
-主义	fahaman,isme|n,absolutisme|n,absurdisme|n,anarkisme|n,cauvinis|n,cauvinisme|n,egosentrisme|n
-主义的	liberal|adj,nasionalistik|adj,rasis|adj,sosialis|adj,tinggi diri|adj
-主义者	cauvinis|n,fasis|n,feminis|n,imperialis,individualis|n,kolonialis,komunis|n,mat pen|n
-主义者的	zionis|n
-主人	pengacara|n,sahib,saidina,sarjana sains|n,tesis sarjana|n,tuan|n
-主任	syahbandar
-主党	sosial demokrat|n
-主党党	sosial demokrat|n
-主党党员	sosial demokrat|n
-主动	inisiatif|n,overtur|n
-主动行	inisiatif|n
+主	mercu|n,idea|n,pangkal|n,yamtuan|n,topik|n,tuan|n,utama|adj,uskup|n
+主义	isme|n,fahaman
+主人	tuan|n,pengacara|n,sarjana sains|n,tesis sarjana|n,sahib,saidina
+主任	hulu|n,pengarah|n
+主体	ejen|n
+主动	aktif|adj
+主动权	inisiatif|n
 主动行动	inisiatif|n
-主动表	overtur|n
-主动表示	overtur|n
-主地	ketuanan|n
-主地位	ketuanan|n
 主婚	khutbah nikah
+主导性	kepimpinan|n
+主导权	kepimpinan|n
 主峰	mercu|n
-主席	pengerusi|n,president,naib ketua
+主帅	jurulatih|n
+主席	pengerusi|n,president
+主席台	pelantar|n
+主干	teras|n
 主张	fahaman
 主意	idea|n
-主或	dalang|n
-主或导	dalang|n
-主或导演	dalang|n
-主政	demokrasi|n
-主政治	demokrasi|n
-主教	biskop|n,imam,uskup|n,katolik,keuskupan|n,mata angin|n,perumian|n,serani
-主教化	perumian|n
-主教徒	serani
+主教	uskup|n,biskop|n,imam,keuskupan|n
 主教教	keuskupan|n
 主教教区	keuskupan|n
 主权	kedaulatan
-主流	budaya tentangan|n
-主流文	budaya tentangan|n
-主流文化	budaya tentangan|n
-主理	pengelola,penguasa
-主理者	pengelola,penguasa
-主的	dap
-主穆	maulud
-主穆罕	maulud
-主穆罕默	maulud
-主穆罕默德	maulud
-主穆罕默德的	maulud
-主穆罕默德的诞	maulud
-主穆罕默德的诞辰	maulud
-主穆罕默德的诞辰日	maulud
+主理	penguasa,pengelola
+主理者	penguasa,pengelola
+主管	pengurus|n,pengarah|n
 主编	jurumudi
-主要	adi|n,utama|adj,ciri penting,faktor utama,inti,pengokot|n,petrol|n,ruji
+主要	utama|adj,adi|n,inti,ciri penting,ruji,faktor utama
 主要内	inti
 主要内容	inti
 主要因	faktor utama
 主要因素	faktor utama
-主要物	pengokot|n
-主要物产	pengokot|n
 主要物产商	pengokot|n
 主要特	ciri penting
 主要特点	ciri penting
-主要由	petrol|n
-主要由揮	petrol|n
-主要由揮發	petrol|n
-主要由揮發性	petrol|n
-主要由揮發性易	petrol|n
-主要由揮發性易燃	petrol|n
-主要由揮發性易燃的	petrol|n
-主要由揮發性易燃的液	petrol|n
-主要由揮發性易燃的液態	petrol|n
-主要由揮發性易燃的液態烴	petrol|n
-主要由揮發性易燃的液態烴類	petrol|n
-主要由揮發性易燃的液態烴類組	petrol|n
 主要由揮發性易燃的液態烴類組成	petrol|n
 主要粮	ruji
 主要粮食	ruji
+主角	plumbum|n
 主语	subjek
-主音	camna|adv,camni|adv,camtu|adv,cereka|n,filpen|n,gimam|v,medsos|n,takyah|adv
-主题	pangkal|n,subjek,topik|n
-傻	bongok|adj,pukimak
-傻屄	pukimak
+主顾	pelanggan|n
+主题	pangkal|n,topik|n,subjek
+傻	bongok|adj
 傻的	bongok|adj
-冻	beku|adj,dingin|adj,dinginbeku,nyahfros|v
+冻	dingin|adj,dinginbeku
 冻的	dingin|adj
-冻结	dinginbeku,beku|adj
+冻结	beku|adj,dinginbeku
 冻结的	beku|adj
-刻	turis,aktu,dalam-dalam|adv,dengan segera,gundal,jenak,kelambur,lantas|adv
-刻品	ukiran
-刻地	dalam-dalam|adv
-刻痕	gundal,kelambur
-医	ahli bedah|n,bomoh|n,bomor|n,doktor|n,doktor gigi|n,dukun|n,ginekologi|n,hospital|n
-医学	ginekologi|n
-医师	doktor gigi|n,klinisian|n
-医治	mengubati,menyembuhkan,ubatkan,temas
-医治愈	temas
-医生	doktor|n,tabib|n,ahli bedah|n,doktor gigi|n,jumpa doktor,semak samun|n
-医生风	semak samun|n
-医生风云	semak samun|n
-医院	hospital|n,rumah sakit|n,sepital|n
-去	mengabah|v,pergi|v,pergi haji|v,antul,apus,bebar,bekas|n,berasak-asakan
-去世	mangkat|v,meninggal dunia|v
-去信	patah hati
-去信心	patah hati
-去光	sebam
-去光泽	sebam
-去光泽的	sebam
-去去	golak-galik
-去参	menziarahi
-去参拜	menziarahi
+刻	turis,kelambur,gundal
+刻度	sisik|n
+刻板	mekanik|adj
+刻痕	kelambur,gundal
+刻薄	min|n
+医	tabib|n,doktor|n,hospital|n,ubatkan,mengubati,menyembuhkan
+医务所	klinik|n
+医学	ubat|n
+医家	tabib|n
+医师	tabib|n
+医治	ubatkan,mengubati,menyembuhkan
+医生	tabib|n,doktor|n
+医科	ubat|n
+医药	ubat|n
+医院	hospital|n,sepital|n,rumah sakit|n
+医院医	sepital|n,rumah sakit|n
+医院医院	sepital|n,rumah sakit|n
+去	pergi|v,mengabah|v,pergi haji|v
+去世	meninggal dunia|v,mangkat|v
 去参拜圣	menziarahi
 去参拜圣地	menziarahi
-去向	sesat barat
+去向不明	kalah|v
 去壳	gelotak,lekang
 去壳的	lekang
-去时	dahulu kala
-去时代	dahulu kala
-去权	gugur|v
-去权力	gugur|v
-去皮	gelotak,lapah|v,seliat,selinap
-去硬	menggelotak
-去硬皮	menggelotak
+去处	nama|n
+去皮	lapah|v,selinap,seliat,gelotak
 去荚	urut|v
-去请	mendatangkan
 去那	ke sana
 去那儿	ke sana
-吻	bercium,bercium-ciuman,cium|v,kucup,mengucup,kecup,kicupan,paus paruh|n
-吻鲸	paus paruh|n
-喻	ibarat,misal|n,perbandingan,umpamakan
-妻	anak bini,bakal isteri,beristeri,bini|n,duai,ipar|n,isteri|n,memperisteri|v
-妻俩	sekelamin
+吻	cium|v,bercium,kucup,mengucup,bercium-ciuman
+妻	bini|n,isteri|n,zaujah|n,memperisteri|v,anak bini
 妻儿	anak bini
-妻制	monogami|n,monogani
-妻子	bini|n,isteri|n,memperisteri|v,zaujah|n
-妻的	duai,ipar|n
-妻的兄	duai,ipar|n
-妻的兄弟	duai,ipar|n
-妻的兄弟姐	duai,ipar|n
-妻的兄弟姐妹	duai,ipar|n
-总	sarwa,adad,banyaknya,gabenor jeneral|n,ibu pejabat|n,jumlah|n,jumlahnya,koc|n
+妻子	bini|n,isteri|n,zaujah|n,memperisteri|v
+妻室	bini|n
+总	segala|pron,jumlah|n,ibu pejabat|n,serba,perdana|adj,sarwa,wazir|n,perdana menteri|n
+总体	jumlah|n,gerenti|adv
 总办	ibu pejabat|n
 总办事	ibu pejabat|n
 总办事处	ibu pejabat|n
 总和	banyaknya
+总归	lama-lama|adv
 总指	markas
 总指挥	markas
 总指挥部	markas
-总数	adad,jumlah|n,jumlahnya
+总数	jumlah|n,adad,jumlahnya
 总是	selalu|adv,sentiasa|adv
-总理	mangkubumi|n,perdana|adj,perdana menteri|n,wazir|n
-总的	segala|pron,semesta,serba
-总督	gabenor jeneral|n,wizurai|n
-总线	koc|n
+总理	perdana|adj,wazir|n,perdana menteri|n,mangkubumi|n
+总的	segala|pron,serba,semesta
+总监	hulu|n,pengarah|n
+总督	wizurai|n,gabenor jeneral|n
+总管理处	ibu pejabat|n
 总统	presiden|n,president
+总要	walau bagaimanapun|conj
 总计	jumlahnya
 总部	ibu pejabat|n
-攻	gasak,gelepung,gempur,kepung,keroyok,kerubut,laberak,langgar|v
-攻击	gasak,gelepung,kerubut,langgar|v,menggempur,menyerang|v,serang|v,serangan|n
+总量	jumlah|n
+总额	jumlah|n
+攻	serangan|n,serang|v,langgar|v,menyerang|v,gasak,kerubut,gelepung,serbuan
+攻击	serangan|n,serang|v,langgar|v,menyerang|v,gasak,kerubut,gelepung,serbuan
 攻击者	penempur
-治	autokrasi|n,bapa kami,berubat,birokrasi|n,demokrasi|n,fitoterapi|n,gabenor|n,george town
-治国	teknokrat|n
-治国论	teknokrat|n
-治国论者	teknokrat|n
+攻略	strategi|n
+治	layanan|n,sembuh
 治好	sembuh
 治安	konstabel|n
 治安官	konstabel|n
-治家	negarawan
-治市	george town
-治愈	temas
-治权	kedaulatan
-治疗	layanan|n,berubat,fitoterapi|n,nyiat-nyiat,terapi|adj
-治疗剂	nyiat-nyiat
-治疗剂的	nyiat-nyiat
-治疗剂的药	nyiat-nyiat
-治疗剂的药草	nyiat-nyiat
+治疗	layanan|n,terapi|adj
 治疗学	terapi|adj
-治疗法	fitoterapi|n
-治的	rengsa
-治者	bapa kami,gabenor|n,penguasa,penjajah|n,pertuan|v,yamtuan|n
-治论	teknokrasi|n
-活	hidup|v,akas,aktif|adj,aktiviti|n,animasi|n,bergas|adj,bernyawa,buruh kasar
-活力	semangat|n,vitaliti,cergas
-活力的	cergas
-活动	aktif|adj,aktiviti|n,gerak-geri,gerakkerja,geri,keaktifan,kegiatan|n,ungah
+活	hidup|v,aktif|adj,aktiviti|n,kegiatan|n,semangat|n,bergas|adj,injap|n,animasi|n
+活儿	fiil|n
+活力	semangat|n,vitaliti
+活力四射	dinamik|adj
+活动	aktif|adj,aktiviti|n,kegiatan|n,geri,gerak-geri,ungah,keaktifan,gerakkerja
+活命	hidup|v
 活塞	injap|n,torak-torak
-活方	gaya hidup|n,urbanisme|n
-活方式	gaya hidup|n,urbanisme|n
-活泼	akas,animasi|n,bergas|adj,cegak,cergas,gegap gempita|adj,jeraus,lempam
-活泼健	cegak
+活度	ramai|adj
+活性	ramai|adj,aktif|adj
+活期	kini|adj
+活泼	bergas|adj,animasi|n,rancak,ringan tulang|adj,akas,gegap gempita|adj,jeraus,cergas
 活泼健壮	cegak
 活泼健壮的	cegak
-活泼的	cergas,gegap gempita|adj,jeraus,rancak,ringan tulang|adj
-活津	elaun hidup
-活津贴	elaun hidup
+活泼的	rancak,ringan tulang|adj,gegap gempita|adj,jeraus,cergas
 活活	hidup-hidup
 活活的	hidup-hidup
 活生	hidup-hidup,mentah-mentah
 活生生	hidup-hidup,mentah-mentah
 活生生的	hidup-hidup,mentah-mentah
-活的	bernyawa,buruh kasar,girang,haluan,hidup-hidup,marghub,sukaria
-活的人	buruh kasar
-活的目	haluan
-活的目的	haluan
+活的	bernyawa
 活结	jerat
-活耀	gagah|adj
-活耀的	gagah|adj
-活费	nafkah hidup
-活跃	melestarikan|v,melokap|v,memakan|v,memampankan|v,memarkir|v,memasamkan|v,memaut|v,membahas|v
-活跃的	melestarikan|v,melokap|v,memakan|v,memampankan|v,memarkir|v,memasamkan|v,memaut|v,membahas|v
+活罪	sengsara|n
+活计	fiil|n
+活跃	memaut|v,melokap|v,memakan|v,membaui|v,memecut|v,memikir|v,menahan|v,menujah|v
+活跃的	memaut|v,melokap|v,memakan|v,membaui|v,memecut|v,memikir|v,menahan|v,menujah|v
 活跃起	menghidupkan|v
 活跃起来	menghidupkan|v
 活门	injap|n
-玻	kaca|n,kelereng,penyerpihan|n,perlis,selofan,seloki,siling kaca|n
-玻璃	kaca|n,penyerpihan|n,kelereng,perlis,selofan,seloki,siling kaca|n
-玻璃天	siling kaca|n
-玻璃天花	siling kaca|n
+玻	kaca|n,penyerpihan|n
+玻璃	kaca|n,penyerpihan|n,perlis,seloki,kelereng,selofan
 玻璃天花板	siling kaca|n
 玻璃市	perlis
 玻璃市州	perlis
@@ -219,158 +149,97 @@
 玻璃弹子	kelereng
 玻璃盂	seloki
 玻璃纸	selofan
-画	melukis|v,bercat|adj,citra|n,corek,fresko|n,gambarkan,karikatur|n,kartun|n
+画	melukis|v,pengecat|n,pelukis|n,studio,gambarkan,menggaris
+画作	citra|n
+画儿	citra|n
 画图	gambarkan
 画室	studio
-画家	pelukis|n,pengecat|n
+画家	pengecat|n,pelukis|n
+画幅	citra|n
 画画	gambarkan
-画的	bercat|adj
 画线	menggaris,corek
 画线条	corek
-离	abnormal|adj,bahu jalan|n,berangkatnya,bercerai,berpisah,cerai|v,empar,enyah
-离了	memeper,peper
-离了航	memeper,peper
-离了航线	memeper,peper
+画面	adegan|n,citra|n
+离	perlepasan|n,cerai|v,pisah|v,nyah|v,kesak,pasah,tinggalkan,enyah
 离别	cerai|v
-离墩	bahu jalan|n
-离婚	cerai|v,pasah,rujuk|v
-离子	ion hidrogen|n
-离开	berangkatnya,enyah,kesak,meninggalkan,nyah|v,perlepasan|n,pisah|v,tinggalkan
-离开原	jelimput
-离开原来	jelimput
-离开原来的	jelimput
-离开原来的方	jelimput
+离婚	cerai|v,pasah
+离开	perlepasan|n,pisah|v,nyah|v,kesak,tinggalkan,enyah,berangkatnya,meninggalkan
 离开原来的方向	jelimput
-离的	longkah,terpencil|adj
-离航	empar
-离航线	empar
-离队	kelupas|v
-离队俯	kelupas|v
-离队俯冲	kelupas|v
-离队俯冲目	kelupas|v
-离队俯冲目标	kelupas|v
-离题	lantur,melantur,rewel
-离题的	rewel
-稻	sawah padi|n,bendang|n,bubuk|n,huma|n,jenangan,jerami|n,pacau,padi|n
-稻之	jenangan,pianggang
+离港	perlepasan|n
+离题	lantur,melantur
+稻	sawah padi|n,bubuk|n,sawah|n,bendang|n,padi|n,jerami|n
+稻之	jenangan
 稻之害	jenangan
 稻之害虫	jenangan
-稻之绿	pianggang
-稻之绿色	pianggang
-稻之绿色昆	pianggang
-稻之绿色昆虫	pianggang
+稻子	tangkai|n
 稻杆	jerami|n
-稻田	bendang|n,sawah|n,huma|n,paya|n,watas
+稻田	sawah|n,bendang|n,watas
 稻田的	watas
 稻田的硬	watas
+稻米	tangkai|n
 稻草	pacau
 稻草人	pacau
 稻虫	bubuk|n
 稻谷	padi|n
-耻	aib,fadihat,keaiban,maling,selamba|adj
-耻的	selamba|adj
-耻辱	aib,fadihat,keaiban
-蔻	buah pala|n,pala|n
+耻	fadihat,aib,keaiban
+耻辱	fadihat,aib,keaiban
 蜻	pepatung|n,sibu-sibu,sibur-sibur
 蜻蜓	pepatung|n,sibu-sibu,sibur-sibur
-贻	kupang|n
-贻贝	kupang|n
-逻	dilah|n,logika|n,lojik,mendora,meraun,meronda,pair,raun
-逻歌	mendora
-逻歌剧	mendora
-逻歌剧团	mendora
-逻歌剧团的	mendora
-逻歌剧团的一	mendora
-逻歌剧团的一种	mendora
-逻辑	logika|n,lojik,dilah|n
-逻辑模	dilah|n
-逻辑模拟	dilah|n
-逻辑模拟分	dilah|n
-逻辑模拟分析	dilah|n
-逻辑模拟分析系	dilah|n
-逻辑模拟分析系统	dilah|n
-邻	berdekatan,bersebelahan,hampiran,iba hati,jiran|n,kepil,tetangga
+逻	logika|n,lojik
+逻辑	logika|n,lojik
+逻辑学	logika|n
+邻	jiran|n,hampiran,kepil,berdekatan,tetangga
 邻人	tetangga
 邻居	jiran|n,tetangga
-邻近	berdekatan,hampiran,kepil,bersebelahan
+邻近	hampiran,kepil,berdekatan,bersebelahan
 邻近的	bersebelahan
-钻	gurdi,memusut,alamas,gerek|v,gerodi,gerudi,gerudi tukul|n,intan|n
-钻子	gerodi,jara,pusut
+钻	memusut,gurdi,tebuk|v,gerek|v,intan|n,jara,pusut,alamas
+钻子	jara,pusut,gerodi
 钻孔	kerbuk,menebuk
-钻洞	gerek|v,tebuk|v
-钻石	alamas,intan|n
-钻研	mutalaah
-钻进	menyeruduk,seruduk,susup
-锻	latih,senam|v,tempa
-锻炼	latih,senam|v
+钻洞	tebuk|v,gerek|v
+钻石	intan|n,alamas
+钻进	susup,seruduk,menyeruduk
+锻	latih,tempa
+锻炼	latih
 锻烁	tempa
-阻	adang,bantut,bedebah|adj,belintang,buntu,cegah|v,galang,ganggu
-阻咒	bedebah|adj
-阻咒的	bedebah|adj
-阻塞	mampat,mengadang,menghalangi,mengkelan,menutupkan,rebat,sangkak,sembelit
+阻	cegah|v,hadang|n,halang|v,sekat|v,melarang|v,pelembapan|n,ganggu,bantut
+阻塞	mampat,sangkak,mengkelan,menutupkan,sembelit,rebat,mengadang,menghalangi
 阻塞的	buntu
 阻尼	pelembapan|n
 阻拦	pegat
 阻挠	bantut,belintang
-阻挡	hambat,mengadang,menghalangi,pegat,sekat|v,tersekat
+阻挡	sekat|v,pegat,hambat,mengadang,menghalangi
 阻断	rebat
-阻止	cegah|v,melarang|v,santung
-阻止少	santung
-阻止少女	santung
-阻止少女嫁	santung
-阻止少女嫁给	santung
-阻止少女嫁给别	santung
-阻止少女嫁给别人	santung
-阻止少女嫁给别人的	santung
-阻止少女嫁给别人的头	santung
-阻止少女嫁给别人的头邪	santung
+阻止	cegah|v,melarang|v
 阻止少女嫁给别人的头邪术	santung
-阻的	lehar
-阻碍	adang,galang,ganggu,gendala,hadang|n,halang|v,membantul,menghambat
+阻碍	hadang|n,halang|v,sekat|v,sekatan|n,ganggu,gendala,adang,membantul
 阻碍物	sekatan|n
-頻	mak kau hijau
-麻	abaka|n,baras,bijan,bintat,bodok|n,bopeng,borek,burung peking
+麻	susah|adj,lumpuh|v,guni|n,pipit|n,sebar,mopeng,peking,baras
 麻子	recak
-麻斑	bopeng,borek
+麻斑	borek,bopeng
 麻木	kebus,kebas,sebah
 麻木的	kebas,sebah
-麻烦	susah|adj,leceh,renyah,rewel,rumit|adj,susahkan
-麻烦的	leceh,renyah,rewel,rumit|adj
+麻烦	susah|adj,rumit|adj,leceh,rewel,renyah
+麻烦的	rumit|adj,leceh,rewel,renyah
 麻疤	mopeng
 麻疯	baras,kusta,sakit kusta,bodok|n
 麻疯病	bodok|n
-麻疹	bintat,daiman|n,retin|n
-麻疹样	daiman|n,retin|n
-麻疹样丹	daiman|n,retin|n
-麻疹样丹毒	daiman|n,retin|n
-麻痹	lumpuh|v,sebar,kebas,lali|adj,lasa,polio,tepuk|v
-麻痹症	polio
-麻痹的	kebas,lali|adj,lasa,tepuk|v
+麻疹	bintat
+麻痹	lumpuh|v,tepuk|v,lali|adj,sebar,lasa,kebas
+麻痹的	tepuk|v,lali|adj,lasa,kebas
 麻袋	guni|n,kadut
+麻豆	model|n
 麻醉	ubat bius
 麻醉药	ubat bius
-麻雀	burung peking,burung pipit,peking,pipit|n
-麻鸭	itik agung|n
-麻黄	eru|n,ru|n
-鼻	aligator,bandar seri begawan,batang hidung,bbb,belalai,cengei,hidung|n,hingus|n
-鼻吸	sedut|v
-鼻吸气	sedut|v
-鼻子	hidung|n,jungur,mendengus|v,sengau
+麻雀	pipit|n,peking,burung pipit,burung peking
+鼻	hidung|n,hingus|n,mimisan,ingus,batang hidung,restung jahat,pangkal hidung
+鼻儿	mata|n
+鼻头	hidung|n
+鼻子	hidung|n
+鼻息	nafas|n
 鼻梁	batang hidung,pangkal hidung
 鼻涕	hingus|n,ingus,lintah bulan|n
 鼻涕虫	lintah bulan|n
-鼻猴	bandar seri begawan,bbb
-鼻环	kili-kili|n
-鼻环圈	kili-kili|n
 鼻癌	restung jahat
-鼻科	rinologi|n
-鼻科学	rinologi|n
-鼻粘	tahi hidung|n
-鼻粘液	tahi hidung|n
+鼻科学鼻科学	rinologi|n
 鼻血	mimisan
-鼻音	cengei,sengau
-鼻音说	sengau
-鼻音说话	sengau
-鼻魟	pari bendera|n,pari susun|n
-鼻鳄	aligator
-鼻鳄鱼	aligator

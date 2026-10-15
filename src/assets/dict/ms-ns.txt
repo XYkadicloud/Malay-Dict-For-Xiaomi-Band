@@ -1,1 +1,1 @@
-ns	ns		[计]；毫微秒
+ns	ns		[计]；毫微秒	abbreviation of Negeri Sembilan

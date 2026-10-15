@@ -1,5 +1,5 @@
 uma	uma	n	母亲	mother
-umak	umak	n	两者择一
+umak	umak	n	两者择一	alternative form of emak
 umangumang	umang-umang	n	寄生蟹	hermit crab
 umat	umat	n	人民，大众；信徒	people			bangsa,puak
 umatislam	umat islam	n	伊斯兰教	The Muslim community or ummah.
@@ -23,7 +23,7 @@ umpatan	umpatan		互相诋毁
 umpau	umpau	n	皮夹  皮包	A wallet.
 umpil	umpil		撬起，以杆起之
 umpilan	umpilan		杠杆怍用
-ums	ums		词首字母缩略词
+ums	ums		词首字母缩略词	initialism of Universiti Malaysia Sabah
 umum	umum	adj	一般 公共	public			am,awam
 umur	umur	n	生命，年龄	age
 umurbaligh	umur baligh		成人的，成年的

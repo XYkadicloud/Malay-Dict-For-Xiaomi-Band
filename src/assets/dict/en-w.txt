@@ -1,225 +1,239 @@
 wad	gumpal|cls
-wade	harung|v,meranduk|v
-wading	burung randuk|n
-wafer	nipis macam kertas|adj
-wage	pendapatan|n,upah|n
+wading bird	burung randuk|n
+wage	pendapatan|n
 waist	pinggang|n
 waistcoat	weskot|n
-wait	layan|v,tunggu|v
 waiter	pelayan|n
-wajibkan	diwajibkan|v,mewajibkan|v
-wake	bangun|v,gera|v
-walau	walaubagaimanapun|conj
-walaupun	wlpn
-walk	berjalan|v,menjalani|v
-walking	tongkat|n
-wall	abar|n,abar-abar|n,berabarkan|v,dinding|n,tembok|n
-wallet	dompet|n,umpau|n
-wallow	berendam|v,kubang|n
+walking stick	tongkat|n
+wall	tembok|n
+wallet	dompet|n
+wallow	kubang|n
 walnut	akrot|n,jauzah|n,walnat|n
-wan	waf
-want	idam|v,mahu|v,taknak|v
+want	kehendak
 wanton	jangak|adj
-war	perang|n,perang dunia kedua,perang dunia pertama,perang saudara|n,perang tiga puluh tahun,tarik tali|n
-ward	tangkis|v
+war	perang|n
 wardrobe	sarah|n
 warehouse	gudang|n
-warga	wargamaya|n
-warganegara	warga negara|n
 waria	bencong|n
-warna	kaler|n
 warning	amaran|n
 warp	lungsin|n
 warrior	pejuang|n
-warships	armada|n
 wart	ketuat|n
-wartawan	wartawati|n
 warung	warung|n
-wash	basuh|v,mencuci|v
 washbasin	singki|n
-washed	hanyut|v
-washing	air sembahyang|n,mesin basuh|n
+washing machine	mesin basuh|n
 wasp	tebuan|n
-waste	abur|v,bazir|v,pembaziran|n
+waste	sampah|n,pembaziran|n
 wasteful	andau|adv
-watch	berhati-hati,intip|v,jaga|v,kawal|v,menonton|v,perhati|v
-watching	pantau|v,penontonan|n
-water	acapi|v,air|n,air botol|n,air lembut|n,air liat|n,air mineral|n
-waterfall	air terjun|n,riam|n
-waterfowl	itik agung|n
-waterhen	ruak-ruak|n,wak-wak|n
+watch out	berhati-hati
+water	air|n,arus|n
+water buffalo	kerbau|n,benuang|n
+water goglet	kendi|n
+water hyacinth	bakong|n,lembayung|n
+water lily	seroja|n,teratai|n,tunjung|n
+water park	taman tema air|n
+water spinach	kangkung|n
+waterfall	air terjun|n
 watermelon	mendikai|n,semangka|n,tembikai|n
 watermill	kincir air|n
-wave	alun|n,gelombang|n,kibar|v,ombak|n
+watery fluid	sera,serum
+wave	alun|n,ombak|n,gelombang|n
 wavelength	jarak gelombang|n
-wax	dian|n,jambu|n,lilin|n
-way	abet|n,bima sakti,macam ini|adv,mengabet|v,olah|n,secara|adv
+wax apple or rose apple	jambu|n
+wax candle	dian|n,lilin|n
+way	cara|n,olah|n,jalan|n
 ways	telatah|n
-we	kita|pron,kitorang|pron
+we	kami|pron,kita|pron,kitorang|pron,kita orang|pron
 weak	lemah|adj
-weakness	kelemahan|n
-wealth	kekayaan|n
-wealthy	berada|adj,mampu|adj
-weapon	gayung|n,senjata|n
-wear	galir|n,pakai|v
-wearing	cikadung|n,pemakaian|n,telanjang|adj,tuto tuds|n
-weary	lemas|adj,penat|adj
+weakness	kelemahan|n,kekurangan|n
+wealth	curah|v,kekayaan|n
+wealthy	mampu|adj,berada|adj
+weapon	senjata|n
+weary	penat|adj
+weary exhausted to the point of weakness	lemas|adj
 weasel	jelu|n
 weather	cuaca|n
-weave	tenun|v
-weaver	belera|n,kerengga|n
-web	laman sesawang|n,laman web|n,pelayar web|n,penyemak imbas|n
+weaver ants	kerengga|n
+weaver's sword or beater-in	belera|n
+weaving	jangka|v
+web page	laman web|n,laman sesawang|n
 web-like	sesawang|n
-website	tapak sesawang|n,tapak web|n
-wechat	wechat,wicet
-wed	nikah|v
+website	tapak web|n,tapak sesawang|n
+wechat	wechat
 wedding	perkahwinan|n
-wedge	apit|v
-wednesday	hari tiga,rabu,rabu abu
+wedge	pasak|n
+wednesday	rabu,hari tiga
 weeaboo	wibu|n
-weeds	tajak|v
 week	minggu|n
 weekly	mingguan|adj
-weep	tangis|v
-weevil	bubuk|n,kutu beras|n
-weigh	timbang|v
-weighing	teraju|n
-weight	berat|adj,bobot|n,hun|n,pemberat|n
-welcome	selamat datang|int,selamat pulang
+weevil	bubuk|n
+weight	berat|adj,bobot|n,pemberat|n
+welcome	selamat datang|int
+welcome home	selamat pulang
 welded	kimpal|adj
 welding	pengimpalan|n
-well	buak|v,perigi|n,serta|conj,syabas,telaga|n
+well	perigi|n,telaga|n
+well done	syabas
 well-mannered	sopan santun|adj
 well-off	berada|adj
-west	angin barat|n,barat|n,kulon|n
+west	kulon|n
+west wind	angin barat|n
 westerly	angin barat|n
-wet	basah|adj,tengkujuh|n
-whale	paus|n,paus balin|n,paus biru|n,paus bryde|n,paus hitam|n,paus kelabu|n
+wet	basah|adj
+wet season	tengkujuh|n
+what	apa|pron,siaper|pron,amenda|pron,apakah,apatah
+what else	apatah
+what if used to express a guess	entah-entah
+what is left	selebihnya|pron
+what is wrong	pahal|adv
+what on earth or what the heck	apa benda|pron
+what one says	memperkotakan|v
+what then used in rhetorical questions	apatah
+what to do	watpa|adv
+what's the case	apa hal|adv
 whatever	apa-apa|pron
 wheat	gandum|n
-wheel	jentera|n,roda|n,roda stereng|n
+wheel	roda|n,jentera|n
 wheelchair	kerusi roda|n
 wheeled	beroda|v
-wheels	beroda|v
-when	apabila|conj,bila|adv,kapan|pron,sedu|v,tatkala|conj
-where	dari mana|adv,di mana|adv,ke mana|pron,mana|adv,persilangan|n,peseban|n
-whereas	manakala|conj
-whet	asah|v
-whether	syubhah|adj
-while	basahan|adj,bidik|v,kus,labuh|adj,manakala|conj,sambil|conj
-whip	cemeti|v,ketungging|n,pecut|n
-whipping	pecutan|n
-whisper	bisik|n
-whistle	peluit|n,wisel|n
-white	abiad|adj,anjing arau|n,anjing sabun|n,kabung|n,lepak|adj,mat salih|n
-white-breasted	ruak-ruak|n,wak-wak|n
-whiten	memutih|v,putihkan|v
-whoever	barang siapa|pron,siapa-siapa|pron
-whole	antero|det,lengkap|adj,seantero|det,sekeluarga|n,seluruh|det
-wholeheartedly	bersungguh-sungguh|adv,khusyuk|adj
+wheeled vehicle	pedati|n
+when	bila|adv,kapan|pron,apabila|conj,tatkala|conj
+where	di mana|adv,ke mana|pron,dari mana|adv
+where interrogative at or in what place incomplete without ke	mana|adv
+whereas	sedangkan
+which	yg|conj,nan|conj,yang mana|pron
+which both of their parents al	gahara
+which is held on february 23	hari kebangsaan
+while	sambil|conj,sedangkan
+while used to indicate a condition or a per	selagi
+while whereas	manakala|conj
+whip scorpion	ketungging|n
+white	abiad|adj,putih|adj
+white as snow	lepak|adj
+white dog	anjing sabun|n
+white person	mat salih|n,mat salleh|n,orang putih|n
+white-breasted waterhen	wak-wak|n
+who	nan|conj,siapa|pron
+who knows used to express ignorance	entah
+whoever	siapa-siapa|pron,barang siapa|pron
+whole	antero|det,lengkap|adj,seantero|det
+whole fruit etc	sebiji|num
+wholeheartedly	bersungguh-sungguh|adv
 whomever	barang siapa|pron
-why	apa hal|adv,apa pasal|adv,kenapa|adv,mengapa|adv
+whose	siapa|pron
+why	kenapa|adv,apa hal|adv,mengapa|adv,apa pasal|adv
 wick	sumbu|n
-wide	bengang|adj,dedah|v,kelebaran|n,lapang|adj,lebarkan|v,luas|adj
-wide-brimmed	piala|n
-wide-mouthed	tempayan|n
-wide-sided	bokor|n
-widen	perlebar|v
+wide	luas|adj,lebar|adj,lapang|adj
+wide open	bengang|adj
+wide-brimmed and stemmed drinking cup	piala|n
+wide-mouthed earthenware or stoneware jar	tempayan|n
+wide-sided bowl	bokor|n
 wideness	kelebaran|n
 widening	pelebaran|n
-wider	melebar|v
 widespread	cap ayam|adj
-widow	balu|n,janda|n
+widow	balu|n
+widow a woman whose spouse has died and has not yet remarried	janda|n
 widower	duda|n
-width	lebar|adj
-wife	bini|n,isteri|n,memperisteri|v,orang rumah|n,zaujah|n
+wife	bini|n,isteri|n,zaujah|n
+wife of the hindu god rama	sita
 wig	rambut palsu|n
 wiki	wiki|n
 wikipedia	wikipedia
 wiktionary	wikikamus
-wild	babi hutan|n,buas|adj,galak|adj,kelumpang|n,liar|adj
-wildcat	kucing liar|n,kucing liar afrika|n,kucing liar asia|n
-will	magang|n
+wild	buas|adj,liar|adj,galak|adj
+wild almond tree	kelumpang|n
+wild boar	babi hutan|n
+wild flower of the genus taraxacum	paliman|n
+wildcat	kucing liar|n
+will a strong feeling of wanting som	kehendak
 willing	rela|adj
 willpower	tekad|n
-wilmana	walimana|n,walmana|n
 wilted	layu|adj
-win	menang|v
-wind	angin|n,angin barat|n,bayu|n,belit|v,bias|v,pawana|n
+wind	bayu|n,angin|n,derau|v,pawana|n
 windmill	kincir angin|n
-window	jendela|n,natang|n,penjawan|n,tetingkap|n,tingkap|n
+window	natang|n,jendela|n,tingkap|n,penjawan|n,tetingkap|n
 wing	kepak|n,sayap|n
-winged	geroda|n
 winkle	kepah|n
 winner	juara|n,pemenang|n
-winnow	tampi|v,tenggek|v
-winnowing	nyiru|n,tenggek|v
-winter	kundur|n,musim sejuk|n
+winnowing basket	nyiru|n
+winnowing fan	nyiru|n
+winter	musim sejuk|n
+winter melon	kundur|n
 wiper	pengelap|n
-wire	kawat|n,talian|n,wayar|n
+wire	kawat|n,wayar|n,talian|n
 wireless	nirwayar|adj,wayarles|adj
+wires	lingkar|cls
 wisdom	hikmah|n
-wise	bijak|adj,bijaksana|adj,budiman|n,pendeta|n
-wish	doa|n,mudah-mudahan|adv
-wishful	angan-angan|n
+wise	bijak|adj,bijaksana|adj
+wise person	budiman|n,pendeta|n
+wish	kehendak
+wishful thought	angan-angan|n
 wishing	ingin|adv
-withdraw	menarik|v
+with a rope etc	tuntun|v
+with accompanied by	dengan|prep
+with ease	mudah|adj
+with full effort	bersungguh-sungguh|adv
+with full interest or wholeheartedly	khusyuk|adj
+with regard to	peri|n
 withered	layu|adj
-within	di dalam|prep,pampang|adj
-without	gaji buta|n,gratis|adj,percuma|adj,ruang|n,tanpa|prep,tidak ada|prep
-withstand	tahan|v
+within	di dalam|prep
+without	tanpa|prep,tidak ada|prep
+without a	pembicaraan
+without charge	gratis|adj
 witness	saksi|n,syahid|n
 witty	cerdik|adj
-wizurai	waizuri|n
 wobbly	goyang|adj
 wok	kuali|n
-wolanda	wilanda
-wolf	serigala|n,zib|n
-wolfhound	anjing serigala rusia|n
-woman	bencong|n,janda|n,mak nyah|n,orang rumah|n,wanita|n
-womb	kandung|n,kandungan|n,peranakan|n,rahim|n,tian|n,uterus|n
+wolf	zib|n,serigala|n
+wolfberry	koki|n,kauki|n
+woman	pp|n,wanita|n
+womb	tian|n,rahim|n,uterus|n,kandung|n,kandungan|n,peranakan|n
+wonder	amboi
 wonderful	mantul|adj
-wood	abnus|n,dahan kayu|n,tarah|v,tatal|n
-wooden	capah|n,panggau|n
+wood branch	dahan kayu|n
+wood charcoal	abnus|n
+wood chips	tatal|n
 woodpecker	belatuk|n,pelatuk|n
-wool	wul|n
-woolly	domba|n
-word	ewah,kalimah|n,kata seerti|n,penjodoh bilangan|n,perkataan|n,sabda|n
-words	slanga|n
-work	bekerja|v,fiil|n,gawai|n,karier|n,karya|n,kerja|n
+wool hair of sheep	wul|n
+word	kalimah|n
+word of god or of a prophet	sabda|n
+words or expressions that are considered nonstandard	slanga|n
+work	fiil|n,absen|adj,gawai|n,kerja|n
+work literary	karya|n
 worker	pekerja|n
-working	jam kerja|n,pencen|adj
+working hours	jam kerja|n
+working time	jam kerja|n
 workman	tukang|n
-workshop	bengkel|n,woksyop|n
-world	dunia|n,isekai|n,jagat|n,perang dunia kedua,perang dunia pertama,syah alam|n
-worldwide	mendunia|v
+workplace for the teaching or practice of an art nn work	studio
+workshop	bengkel|n
+workshop for repairing vehicles	woksyop|n
+world	dunia|n,jagat|n
+world war i	perang dunia pertama
+world war ii	perang dunia kedua
 worm	cacing|n
 wormhole	lubang cacing|n
-worn	baju|n,kabung|n,lasam|adj
-worried	khuatir|adj
-worry	risau|v
-worship	menyembah|v,penyembahan|n,sembah|v,sembahan|n
-worshipper	penyembah|n
-worth	baloi|n,berbaloi|v,harga|n
+worn out	lasam|adj
+worried	khuatir|adj,cemas,bimbang
+worry	kebimbangan
+worth	baloi|n
+worth the importance	harga|n
 worthless	abus|adj
 wound	luka|n,tuna|n
-woven	raga|n
-wow	perghhh,walao
-wrap	berselimut|v,selubung|n,tungkus|v
-wrapped	bungkus|cls,libat|v
-wrapper	balut|n,sampul|n,ulas|n
-wrathful	murka|v
+wow	walao,perghhh
+wrap	selubung|n
+wrapper	ulas|n,balut|n,sampul|n
 wrecker	perosak|n
 wrench	sepana|n
 wrestling	gusti|n
 wretched	celaka|adj
 wriggler	jentik|n,jentik-jentik|n
-wrinkle	kedut|n,kedutan|n,keledut|n,kerdut|n
 wrist	pergelangan tangan|n
 wristwatch	jam tangan|n
-write	buta huruf|adj,menyurat|v,menyurati|v,menyuratkan|v,tulis|v
-writer	jurusurat|n,katib|n,penulis|n
+writer	katib|n,penulis|n,jurusurat|n
 writing	suratan|n,tulisan|n
-written	hikayat|n,roman|n
-wrong	betul|adj,salah|adj,serba salah|adj
+written	tersurat|v
+written in the la	a
+wrong	salah|adj,silap|adj
+wrong in every way	serba salah|adj
+wudu	air sembahyang|n
 wushu	wusyu|n

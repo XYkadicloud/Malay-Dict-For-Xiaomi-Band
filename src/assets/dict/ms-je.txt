@@ -1,4 +1,4 @@
-je	je	adv	两者择一
+je	je	adv	两者择一	alternative form of sahaja
 jebak	jebak		捕鸟的笼
 jebang	jebang		长行牛皮盾牌
 jebat	jebat		麝香
@@ -14,7 +14,7 @@ jejamu	jejamu		草药
 jejari	jejari		半径
 jejas	jejas		擦伤，划伤，受伤
 jejatas	jejatas		天桥
-jejawi	jejawi	n	两者择一
+jejawi	jejawi	n	两者择一	alternative form of jawi-jawi (“banana-leaf fig”)
 jejenang	jejenang		支持
 jejer	jejer		行列，排列
 jel	jel		牢狱，监牢

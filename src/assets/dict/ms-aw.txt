@@ -11,7 +11,7 @@ awangawang	awang-awang	n	大气	Atmosphere; airy interspace between earth and sk
 awangawangan	awang-awangan	n	大气	Atmosphere; airy interspace between earth and sky
 awanggemawang	awang-gemawang	n	大气	Atmosphere; airy interspace between earth and sky
 awar	awar		流行病，传染病
-awas	awas	v	注意，提防，小心
+awas	awas	v	注意，提防，小心	to be careful with something or someone; to observe; to pay attention
 awat	awat		为什么
 awda	awda	pron	秒	Second person singular pronoun; you.
 awek	awek	n	女孩	girl  chick

@@ -1,110 +1,107 @@
+v alt of baulk	bauk
+v deaden	damping
+v express in words nv report or maintain nv express a sup	said
+v increase the amount fraudulently nv get cr	kiting
+v make a depression into	denting
+v rub with sandpaper	sanding
+v sound loudly and sonorously nv ring or echo with sound	rang
 vacant	luang|adj
 vaccine	vaksin|n
 vagina	faraj|n,pepek|n,pundek|n
-vain	andau|adv
-valence	petala valens|n,valens|n
-valency	valensi|n
-valid	absah|adj,sah|adj
-validate	mengabsahkan|v,mengesahkan|v
+vague	samar|adj
+valence shell	petala valens|n
+valid	sah|adj,absah|adj
 validation	pengabsahan|n
 validity	keabsahan|n
 valley	lembah|n
 valuation	penilaian|n
-value	harga|n,sat|adj
+value	harga|n
 valve	injap|n
-van	pikap|n,van|n
 vanadium	vanadium|n
 vanilla	vanila|n
-variable	anu|n,pemboleh ubah|n
-variant	iskandar
-variety	kulur|n
-various	dayung-mayung|n,kacang puteh|n,pelbagai|adj,telur|n
-varnished	perlak|n
+variable	pemboleh ubah|n
+variant of the name alexander	iskandar
+varicella	cacar air
+variola	cacar
+various	beberapa|adj,pelbagai|adj
+various kinds of nuts traditionally sold by indian vendors at cinemas	kacang puteh|n
+various kinds of paddles	dayung-mayung|n
+varnished clothes or leather	perlak|n
+varyin	bahar
 vast	luas|adj
 veda	weda
-vegan	vegan|n
-veganism	veganisme|n
-vegetable	keladi|n,sayur-mayur|n,sayuran|n,ulam|n
-vegetarian	pemayur|n,vegetarian|n
-vegetarianism	vegetarianisme|n
+vegetable	sayuran|n
 vehicle	kenderaan|n
-vehicles	woksyop|n
-veil	cikadung|n,purdah|n,tudung|n
+veil	purdah|n,tudung|n
 vein	urat|n
 velocity	halaju|n,kecepatan|n
 velotaxi	beca|n
 velvet	baldu|n
-vending	mesin layan diri|n
+vending machine	mesin layan diri|n
 vendor	penjual|n
+venetian traveler who explored asia in the 13th century a	polo
 venice	venis
 ventricle	bilik jantung|n
-venus	lala|n,zuhrah
-vera	lidah buaya|n
+venus	zuhrah
 veranda	anjung|n,beranda|n
 verb	kata kerja|n
-verbal	lisan|adj,perang mulut|n
-verbs	tidak|adv
-verde	tanjung verde
+verbal	lisan|adj
 verge	ambang|n
 verification	verifikasi|n
-verify	mengesahkan|v
-vermicelli	bihun|n
-vernacular	sekolah jenis kebangsaan|n
-versicolor	panau|n
+vernacular school	sekolah jenis kebangsaan|n
 vertex	poros|n
-vertical	cenuram|n,horizontal|adj,mengufuk|adj,tegak|adj,vertikal|adj
-vertically	berlabuh|v
-very	amat|adv,begitu|adv,benar|adj,berzaman|v,kaya raya|adj,kenduri|n
-vessel	cerat|n,kapal|n,takar|n,tukil|n
-vessels	belanga|n
-vet	kenaifan|n
-vex	sakat|v
+vertical	vertikal|adj
+vertical standing straight up	tegak|adj
+very	amat|adv,benar|adj,begitu|adv,sangat|adv,terlalu|adv
+very attractive or enjoyable	syok|adj
+very early in the morning	imsak|n
+very high fever	pijau|n
+very rich	kaya raya|adj
+very sharp	tajam-tajam|adj
+very wide	saujana|adj
 vibration	gentar|n
 vicegerent	wazir|n
 viceroy	wazir|n,wizurai|n
-video	hibira|n,memvideokan|v,permainan video|n,video|n
+video	video|n
+video game	hibira|n,permainan video|n
 videography	videografi|n
 videophone	videofon|n
-videotape	memvideokan|v
-view	pandang|v,pandangan|n,pendapat|n,tontonan|n
+view	pendapat|n,pandangan|n
+view on youtube	tontonan|n
 viewer	penonton|n
-viewing	penontonan|n
-viewpoint	wawasan|n
-vigilant	jaga|v
 vigintillion	vigintilion|num
+vigour	jiwa|n
 village	kampung|n
 villain	penjahat|n
 vimana	wilmana|n
-vinegar	azijn|n,cuka|n
-vinegared	susyi|n
-violate	langgar|v
+vinegar	cuka|n,azijn|n
 violence	keganasan|n
-violin	berbiola|v,biola|n
+violin	biola|n
 virgin	dara|n
-virtual	realiti maya|n
+virtual reality	realiti maya|n
 virtuous	berakhlak|adj
 virus	virus|n
-viscosity	cair|adj
 visible	pampang|adj
-vision	rabun|adj,visi|n
-visit	kunjung|v,melawat|v
-visitor	tamu|n
+vision	visi|n,penglihatan|n
+visitor a person invited to visit someone's home	tetamu
+visitor a person who visits or is invited to a home	tamu|n
 vizier	wazir|n
 vocabulary	kosa kata|n
-vodcast	video siar|n
-voice	menyuarakan|v,suara|n
+voice	suara|n
 void	batal|adj
 voivodeship	kevoivodaan|n
 volcano	gunung berapi|n
 volleyball	bola tampar|n
 voltage	voltan|n
-voluntary	sedekah|n,sukarela|adj
+volume	kapasiti|n
+voluntary	sukarela|adj
 volunteer	sukarelawan|n
-vomit	muntah|v
-vote	pembelian undi|n,undi|v,undian|n
+vote	undian|n
+vote buying	pembelian undi|n
 voter	pengundi|n
 vow	kaul|n,resolusi|n
-vowel	bunyi hidup|n,huruf hidup|n,huruf saksi|n,vokal|n
-voyage	selamat jalan
+vowel	vokal|n,bunyi hidup|n,huruf hidup|n,huruf saksi|n
+voyage	perjalanan|n
 vulgar	lucah|adj
+vulture any of several carrion-eating birds of the famil	hering
 vulva	puki|n,pundek|n

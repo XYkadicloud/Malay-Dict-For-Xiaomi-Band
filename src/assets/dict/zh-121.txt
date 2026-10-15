@@ -1,279 +1,179 @@
-兹	faktor lorentz|n
-兹因	faktor lorentz|n
-兹因数	faktor lorentz|n
-凹	bulat cekung,ceduk,cekung,cengkung,jongkat,kemik,kerotot,leding
+凹	sompek,suwir,cekung,lembang,jongkat
 凹下	leding
 凹入	kemik
 凹入的	kemik
-凹凸	jongkat,kerotot,lekuk|n
+凹凸	jongkat,lekuk|n,kerotot
 凹凸不	lekuk|n
 凹凸不平	lekuk|n
 凹凸的	kerotot
 凹圆	bulat cekung
 凹圆形	bulat cekung
-凹处	lobok,mengkung
-凹形	lungkum,mungkum,rangkup
-凹形的	lungkum,mungkum
+凹形	mungkum,lungkum
+凹形的	mungkum,lungkum
 凹痕	suwir
-凹的	cekung,sompek,suwir,lentur|n
-凹肩	tulai|n
-凹肩鲹	tulai|n
-凹陷	lembang,ceduk,cengkung,lekung,lesut
-凹陷的	ceduk,cengkung,lekung,lesut
-叹	ayuh,keluh|n,keluh-kesah,mendayu,mongkos,ratap,rintih
-叹不	keluh-kesah
-叹不安	keluh-kesah
+凹的	sompek,suwir,cekung
+凹陷	lembang,lesut,lekung,cengkung,ceduk
+凹陷的	lesut,lekung,cengkung,ceduk
 叹息	mendayu
 叹息声	mendayu
-叹的	mongkos
-培	ampere,arboris|n
-培家	arboris|n
-她	dia|pron,ia|pron
-对	alaikum,antikristus|n,bagi|v,bangkang,berbalas,berbanding,berganti,berhadap-hadapan
+培养	pendidikan|n
+她	ia|pron,dia|pron
+对…	berminat
+对…关	berminat
+对…关心	berminat
+对…起平衡作用	pengimbang balas|n
 对不	maaf|int,minta ampun
 对不起	maaf|int,minta ampun
-对乙	parasetamol|n
-对乙酰	parasetamol|n
-对乙酰氨	parasetamol|n
-对乙酰氨基	parasetamol|n
 对乙酰氨基酚	parasetamol|n
-对了	lakukan|v
 对于	bagi|v
 对你	alaikum
-对准	memidi,mengarahkan,pidi
-对印	khoja
-对印度	khoja
-对印度回	khoja
-对印度回教	khoja
-对印度回教商	khoja
-对印度回教商人	khoja
-对印度回教商人专	khoja
+对内	domestik|adj
+对准	pidi,memidi,mengarahkan
+对劲	layak|adj
 对印度回教商人专称	khoja
 对唱	berbalas
-对地	mentah-mentah,sekali-kali
-对基	antikristus|n
-对基督	antikristus|n
-对基督者	antikristus|n
-对孕	penanggalan|n
-对孕妇	penanggalan|n
-对孕妇有	penanggalan|n
-对孕妇有害	penanggalan|n
-对孕妇有害的	penanggalan|n
-对孕妇有害的女	penanggalan|n
+对头	biasa|adj
 对孕妇有害的女鬼	penanggalan|n
-对对	dua-dua
 对岸	seberang|n
-对年	uak|n
-对年长	uak|n
-对年长者	uak|n
-对年长者的	uak|n
-对年长者的称	uak|n
 对年长者的称呼	uak|n
-对待	meminta|v
-对待请	meminta|v
-对待请求	meminta|v
-对手	jodoh,lawan|n,sekedudukan|adj,tolok
+对待	layanan|n
+对手	lawan|n,sekedudukan|adj,jodoh,tolok
 对抗	sanggah
+对抗赛	mancis|n
 对换	berganti
 对数	nisbah|n
 对方	seberang|n
-对权	hak mutlak
-对权力	hak mutlak
-对比	berbanding,galih,imbang,memadan
-对的	bolak,mutlak|adj
-对着	berhadapan,menentang,vis-a-vis
+对比	imbang,galih,memadan,berbanding
+对着	menentang,berhadapan
 对称	samukur
 对称的	samukur
+对立面	lawan|n
 对答	berbalas
-对素	vegan|n
-对素食	vegan|n
-对素食者	vegan|n
-对者	pembangkang,pembantah
 对舞	ebeng
 对话	dialog
-对象	objek,buruan
+对谈	bual|n
+对象	objek
+对路	layak|adj
 对边	seberang|n
-对面	berhadap-hadapan
-对面的	berhadap-hadapan
-役	abdikan|v,budak pejabat,kampanye|n,menggerekkan|v,pawai|n,pertempuran|n,tindihkan
-役动	menggerekkan|v
-役动词	menggerekkan|v
-惹	kebaya,mempan
+对过	lawan|n,lintas|v
+对面	lawan|n,lintas|v
+对顶角	zawiat|n
+惹	mempan
 惹引	mempan
-惹衫	kebaya
-批	benarkan|v,beri izin,bidas,borong,gugat,kecam,kenan|v,komentar
-批买	memborong
-批买下	memborong
-批准	benarkan|v,beri izin,kenan|v,meluluskan,memperkenankan,mengizinkan,menguatkuasakan,pengabsahan|n
+批准	kenan|v,benarkan|v,pengabsahan|n,mengizinkan,beri izin,meluluskan,memperkenankan,menguatkuasakan
 批发	borong,pemborong
 批发商	pemborong
 批改	semak|n
-批评	bidas,gugat,kecam,komentar,kritik,mengabaikan|v,mengagihkan,mengecam
+批改丛	semak|n
+批改丛林	semak|n
+批评	ulas|n,kritikal|adj,mengabaikan|v,gugat,bidas,kecam,kritik,teguran
 批评的	kritikal|adj
 摹	perli
 摹拟	perli
-曹	membiang|n,sarjan|n
 曹白	membiang|n
 曹白鱼	membiang|n
 橹	dayung|n
-歹	nasib malang,pengganas|n,penjahat|n,samseng|n
-歹徒	pengganas|n,penjahat|n,samseng|n
+歹	penjahat|n,samseng|n,pengganas|n,nasib malang
+歹徒	penjahat|n,samseng|n,pengganas|n
 歹运	nasib malang
 汹	gelora|n
 汹涌	gelora|n
-淹	banjir|n,tukun|n
+淹	banjir|n
 淹水	banjir|n
 淹顶	tukun|n
 淹顶的	tukun|n
-烹	air tangan|n,masak|v
-烹饪	air tangan|n,masak|v
-特	ad hoc,arab saudi,butterworth,cc|n,cenderamata|n,ciri,ciri penting,francaisi|n
-特产	mayung
-特产之	mayung
-特产之食	mayung
-特产之食用	mayung
-特产之食用鱼	mayung
-特儿	peragawati,pragawati
+烹	masak|v
+烹饪	masak|v,air tangan|n
+烹饪法	resipi|n
+烹饪熬	air tangan|n
+烹饪熬炼	air tangan|n
+特	gejala|n,hak istimewa|n,cenderamata|n,pribadi,karakter,ciri,khasiat,mukjimat
 特刊	cenderamata|n
-特别	istimewa|adj,ad hoc,khas|adj,khusus|adj,losi
+特别	istimewa|adj,khusus|adj,khas|adj,ad hoc,losi
 特别位	losi
-特别的	ad hoc,khas|adj,khusus|adj
-特征	ciri,gejala|n,keistimewaan
-特性	karakter,keperibadian,pribadi
-特效	khasiat,mukjimat,spesifik|adj
+特别的	khusus|adj,khas|adj,ad hoc
+特定	khas|adj,spesifik|adj
+特定地	zanggi|n
+特异	elok|adj,khusus|adj
+特异性	spesifik|adj
+特征	gejala|n,ciri,keistimewaan
+特快	ekspres|adj
+特性	pribadi,karakter,keperibadian
+特效	spesifik|adj,khasiat,mukjimat
 特效药	spesifik|adj
-特朗	mellotron|n
+特有	spesifik|adj
 特权	hak istimewa|n
 特殊	khas|adj
 特殊的	khas|adj
-特沃	butterworth
-特沃斯	butterworth
-特点	ciri,keistimewaan,ciri penting
-特琴	ziter|n
-特的	sasar|adj,teristimewa,unik|adj
-特综	sindrom klinefelter|n
-特综合	sindrom klinefelter|n
-特综合征	sindrom klinefelter|n
-特网	cc|n,internet|n
-特许	francaisi|n,francaisor|n
-特许者	francaisor|n
-特许证	francaisi|n
-特许证持	francaisi|n
-特许证持有	francaisi|n
-特许证持有人	francaisi|n
-特阿	arab saudi
-特阿拉	arab saudi
-特阿拉伯	arab saudi
-痹	kebas,lali|adj,lasa,lumpuh|v,polio,sebar,tepuk|v
-痹症	polio
-痹的	kebas,lali|adj,lasa,tepuk|v
-盹	kantuk|n,lenggut,mengantuk|adj,sengguk
-穹	kubah,lungkum,mungkum
-穹隆	lungkum,mungkum
-穹隆形	lungkum,mungkum
-穹隆形的	lungkum,mungkum
-穹顶	kubah
-竹	aur|n,pering,bacuk,bambu|n,bangsi,belat,beruas,berumbung
+特点	ciri,keistimewaan
+穹隆	mungkum,lungkum
+穹隆形	mungkum,lungkum
+穹隆形的	mungkum,lungkum
+竹	galah|n,aur|n,pering,tukil|n,rebung|n,rakit|n,buluh|n,lesa
 竹刀	sembilu
-竹制	belat,buluh perindu,genggong,jermal,perindu
-竹制乐	buluh perindu,perindu
-竹制乐器	buluh perindu,perindu
+竹制	genggong,belat,jermal,perindu,buluh perindu
+竹制乐	perindu,buluh perindu
+竹制乐器	perindu,buluh perindu
 竹制弦	genggong
 竹制弦琴	genggong
 竹制鱼	belat,jermal
 竹制鱼笼	belat,jermal
 竹夹	sagai
 竹夹鱼	sagai
-竹子	bambu|n,buluh|n
+竹子	buluh|n,bambu|n
+竹子竹	bambu|n
+竹子竹类	bambu|n
 竹排	rakit|n
-竹果	beruas
-竹果树	beruas
 竹架	serandang
 竹柱	serandang
 竹桨	lesa
 竹梆	letung
 竹梆声	letung
-竹片	sasah,sembilu,bidai,loseng
-竹片或	bidai
-竹片或藤	bidai
-竹片或藤片	bidai
-竹片或藤片编	bidai
-竹片或藤片编成	bidai
-竹片或藤片编成的	bidai
+竹片	sasah,sembilu
 竹片或藤片编成的帘	bidai
-竹的	telang
-竹的一	telang
 竹的一种	telang
 竹皮	seludang
 竹盒	gedebung
 竹盒子	gedebung
-竹竿	galah|n,jolok,sengget
-竹竿击	jolok
-竹竿击落	jolok
-竹竿打	sengget
-竹竿打落	sengget
-竹竿打落果	sengget
-竹竿打落果了	sengget
+竹竿	galah|n
 竹笋	rebung|n
-竹笛	bangsi,genggong,ginggung,suling
+竹笛	genggong,bangsi,suling,ginggung
 竹笼	keruntung
-竹筏	lanting,rakit|n
-竹筒	keruntung,perian,tukil|n,bacuk,berumbung,buluh meriam,lemang|n
-竹筒制	bacuk
-竹筒制成	bacuk
-竹筒制成之	bacuk
-竹筒制成之盛	bacuk
-竹筒制成之盛水	bacuk
+竹筏	rakit|n,lanting
+竹筒	tukil|n,keruntung,perian,lemang|n
 竹筒制成之盛水器	bacuk
-竹筒炮	buluh meriam
+竹筒炮撒谎	buluh meriam
 竹筒粢	lemang|n
 竹筒粢饭	lemang|n
-竹篓	pongkes,pungki
-竹类	bambu|n
-腹	abdomen|n,berdus,buncir,bunting-bantang,buyut|n,cika,cirit,diarea|n
-腹中	kemalala
-腹中结	kemalala
-腹中结石	kemalala
-腹便	berdus,bunting-bantang,buyut|n
-腹便便	berdus,bunting-bantang,buyut|n
-腹子	sampul tian|n
+竹篓	pungki,pongkes
+筹子	serpih|n,kaunter|n
+腹	abdomen|n,kaviti abdomen|n,rongga abdomen|n,cika,mengkam,cirit,senak perut
 腹泻	cirit,diarea|n
-腹痛	cika,memulas,mengkam,senak perut
-腹的	lawas
+腹泻腹	diarea|n
+腹泻腹泻	diarea|n
+腹痛	cika,mengkam,senak perut
 腹腔	kaviti abdomen|n,rongga abdomen|n
-腹部	abdomen|n,buncir,wiladan
-腹部之	wiladan
-腹部之仪	wiladan
-腹部之仪式	wiladan
-腹部膨	buncir
+腹部	abdomen|n
 腹部膨胀	buncir
 腹部膨胀的	buncir
 苹	epal|n
 苹果	epal|n
-虹	kuwung|n,balingkawat|n,bangun-bangun|n,benang raja|n,bianglala|n,ganu|n,gegana|n,lanum|n
-虹灯	neon|n
-蛹	kepompong|n,serangga|n
-蟹	sartan,kepiting|n,ketam|n,ketam bunga|n,ketam rebab|n,ketam renjong|n,mimi,umang-umang|n
-裹	balut|n,bungkus|cls,bungkusan,geruk,jolek,memalut,membarut,nasi bungkus
-裹的	nasi bungkus
-裹的饭	nasi bungkus
-裹的饭菜	nasi bungkus
-豹	harimau akar|n,harimau bintang|n,harimau peturun|n,macan|n,macan tutul|n,citah|n,harimau dahan|n,harimau kumbang|n
+虹	kuwung|n
+蛹	serangga|n,kepompong|n
+蟹	sartan
+豹	macan|n,macan tutul|n,harimau akar|n,harimau bintang|n,harimau peturun|n,oselot|n
 豹猫	oselot|n
-迹	bakat|n,bekas|n,bekas tangan,cakar ayam|n,denai,gelagat,jejak|n,jijak
+迹	gelagat,padah
 迹象	gelagat,padah
-铹	lawrensium|n
-闹	abuh|adj,bising|adj,galau,gamat,gegak|adj,gegap,gempita,hingar|n
+铹铹	lawrensium|n
+铹铹L	lawrensium|n
+铹铹Lr	lawrensium|n
+闹	ronda
 闹夜	ronda
-闹的	abuh|adj,gegak|adj,gegap,gempita
+闹铃	penggera|n
 雹	mimis
-项	pasal|n,atas hal itu,bagi perkara itu,hal|n,kalung|n,pedaka,projek|n,rantai|n
-项事	atas hal itu,bagi perkara itu
-项事件	bagi perkara itu
-项事情	atas hal itu
+项	pasal|n,rantai|n,projek|n,kalung|n,pedaka
+项上人头	hulu|n,leher|n
 项圈	kalung|n
-项战	taktik|n
-项战术	taktik|n
 项目	projek|n
-项链	pedaka,rantai|n
-项饰	kalung|n
+项链	rantai|n,pedaka

@@ -1,226 +1,175 @@
-七	sabat,sapta|num,tujuh|num,tujuh ratus|num,tujuh ribu|num,anak hitam|n,berkaparan,bongkar-bongkir
-七乘	sekstilion|num
-七乘方	sekstilion|num
-七八	bongkar-bongkir,kacau-bilau
-七八糟	bongkar-bongkir,kacau-bilau
-七十	pitu puluh|num,tujuh puluh|num,tujuh puluh dua|num,tujuh puluh enam|num,tujuh puluh lapan|num,tujuh puluh lima|num,tujuh puluh satu|num,tujuh puluh sembilan|num
+七	sapta|num,tujuh|num,tujuh ribu|num,tujuh ratus|num,sabat
+七十	pitu puluh|num,tujuh puluh|num,tujuh puluh dua|num,tujuh puluh enam|num,tujuh puluh satu|num,tujuh puluh tujuh|num,tujuh puluh sembilan|num
 七十一	tujuh puluh satu|num
 七十七	tujuh puluh tujuh|num
-七十三	tujuh puluh tiga|num
 七十九	tujuh puluh sembilan|num
 七十二	tujuh puluh dua|num
-七十五	tujuh puluh lima|num
-七十八	tujuh puluh lapan|num
+七十五七十五	tujuh puluh lima|num
+七十八七十八	tujuh puluh lapan|num
 七十六	tujuh puluh enam|num
-七月	bulan tujuh|n
-七零	berkaparan,lintang-pukang
-七零八	berkaparan,lintang-pukang
-七零八落	berkaparan,lintang-pukang
-刃	lading
-刃大	lading
-刃大刀	lading
-吃	ayap,bersantap,makan|v,belalah,bersarap,gagap,gasak,gelagapan
-吃一	peranjat,terperanjat
-吃一惊	peranjat,terperanjat
+七和弦	ketujuh|num
+七月	bulan tujuh|n,jul
+七零	lintang-pukang,berkaparan
+七零八	lintang-pukang,berkaparan
+七零八落	lintang-pukang,berkaparan
+吃	makan|v,ayap,bersantap,makan angin|v,runas,menyusu
 吃了	sudah makan|int
 吃了吗	sudah makan|int
-吃大	belalah,sungkah
-吃大喝	belalah,sungkah
 吃奶	menyusu
-吃惊	hairan|adj,menakjubkan
+吃惊	hairan|adj
 吃惊的	hairan|adj
-吃早	bersarap,sarap|v
+吃早	sarap|v,bersarap
 吃早点	sarap|v
 吃早餐	bersarap
-吃的	pajuh,rakus|adj,tergagap
+吃紧	perlu|v
 吃耳	tempeleng|v
 吃耳光	tempeleng|v
 吃草	runas
+吃重	perlu|v
 吃风	makan angin|v
-喃	kulum,menggumam,ngangut
-喃喃	kulum,menggumam
+喃喃	menggumam,kulum
 喃喃地	menggumam
 喃喃自	kulum
 喃喃自语	kulum
-喃地	menggumam
-喃自	kulum
-喃自语	kulum
-圃	semaian
-垃	lori sampah|n,perun,rabun|adj,sampah|n,sempeleh,tapak pelupusan sampah|n,tong sampah|n,wangkang|n
-垃圾	sampah|n,sempeleh,wangkang|n,lori sampah|n,perun,rabun|adj,tapak pelupusan sampah|n,tong sampah|n
-垃圾以	rabun|adj
-垃圾以熏	rabun|adj
-垃圾以熏蚊	rabun|adj
-垃圾堆	perun,tapak pelupusan sampah|n
+垃	sampah|n,wangkang|n,sempeleh
+垃圾	sampah|n,wangkang|n,sempeleh,lori sampah|n,tong sampah|n,tapak pelupusan sampah|n,perun
+垃圾堆	tapak pelupusan sampah|n,perun
 垃圾桶	tong sampah|n
 垃圾车	lori sampah|n
-境	alam sekitar|n,hingganya,imigrasi,imigresen|n,keadaan|n,keliling|n,kelim|n,kitaran
-境界	hingganya,kelim|n,perenggan,sempadan
-境的	lagih,terkurung|adj
-境的发	lagih
-境的发问	lagih
-妃	gundik,tuan puteri
-娃	orang-orangan
-娃娃	orang-orangan
-它	dia|pron,ia|pron
-布	kain|n,abah-abah tenun|n,air terjun|n,alas meja,ar|n,atur|v,barut,barut gantung
+境	sempadan,kelim|n,perenggan,hingganya
+境内	domestik|adj
+境界	sempadan,kelim|n,perenggan,hingganya
+妃	gundik
+娃娃	bayi|n
+娃子	bayi|n
+它	dia|pron
+它是	ia|pron
+它是的	ia|pron
+布	kain|n,atur|v,kelir,barut,putrajaya,paldu,unjut,prang besar
 布丁	puding
-布上	pacai
-布上的	pacai
-布上的白	pacai
-布上的白檀	pacai
-布上的白檀香	pacai
-布上的白檀香粉	pacai
-布包	gedebung,unjut
-布块	topo
-布城	prang besar,putrajaya
+布包	unjut,gedebung
+布匹	kain|n
+布告	notis|n
+布块topo	topo
+布城	putrajaya,prang besar
+布局	persediaan|n
 布帆	jegung
 布带	barut
 布幕	kelir
 布拉	praha
 布拉格	praha
-布机	abah-abah tenun|n
-布条	barut,sepanduk|n
-布油	gelam|n
-布油树	gelam|n
+布料	kain|n
+布条	sepanduk|n,barut
 布洛	kebasi|n
 布洛赫	kebasi|n
-布的	dahsyat|n
 布碎	topo
 布篷	paldu
 布置	atur|v
-布者	belera|n,kerengga|n
 布袋	buntil
 布谷	tekukur
 布谷鸟	tekukur
-布质	colok|n
-布质导	colok|n
-布质导火	colok|n
 布质导火线	colok|n
 布赖	paus bryde|n
 布赖德	paus bryde|n
-弃	bangai,buang|v,eban,jijik|adj,lantar,lepa|adj,terbiar,tinggalkan
-殃	kemalangan|n,mata jahat|n
-殃的	mata jahat|n
-殃的能	mata jahat|n
-殃的能力	mata jahat|n
-沃	butterworth,kemandulan|n,subur|adj
-沃斯	butterworth
-沃的	subur|adj
-溃	berpesai,borok,kanker|n,ledus,membobrokkan,pesai,puru,terban
+溃	kanker|n,puru,borok,ungkur
 溃烂	borok
 溃疡	kanker|n
 溃肠	puru
 溃败	ungkur
-球	bola|n,korah|n,tombol,anak mata|n,apa benda|pron,badminton|n,basketbol|n,bebola|n
-球主	globalisme|n
-球主义	globalisme|n
-球化	globalisasi|n
-球形	combol|n,tombol
+球	bola|n,korah|n,tombol,umbi|n,raket|n,senggulung,gol,reket
+球台	meja|n
+球员	pemain|n
+球场	mahkamah|n
+球季	musim|n
+球弹	bola|n
+球形	tombol
 球形摆	tombol
 球形摆手	tombol
-球形门	combol|n
-球形门拉	combol|n
 球形门拉手	combol|n
 球拍	raket|n,reket
+球杆	kelab|n
 球根	umbisi
-球状	bebola|n,bundar|adj
+球棍	kelab|n,kelawar|n
+球棒	kelawar|n
+球状	bundar|adj,bebola|n
 球状物	bebola|n
 球状的	bundar|adj
-球的	kebendaan
+球瓶	pasak|n
+球竿	kelab|n
 球茎	umbi|n
 球虫	senggulung
-球门	gawang,gol
-璃	kaca|n,kelereng,penyerpihan|n,perlis,selofan,seloki,siling kaca|n
-璃天	siling kaca|n
-璃天花	siling kaca|n
-璃天花板	siling kaca|n
-璃市	perlis
-璃市州	perlis
-璃弹	kelereng
-璃弹子	kelereng
-璃盂	seloki
-璃纸	selofan
-窃	copet,curian|adj,kecurian|v,mencopet,mengabuk|v,pencurian|n,plagiarisme|n,plagiat|n
-窃的	curian|adj
-考	anggap,berfikir|v,bertafakur,buku panduan,buku rujukan,calon|n,calon persendirian,cubakan
-考书	buku panduan,buku rujukan,pustaka|n
+球赛	mancis|n,gem|n
+球迷	kipas|n
+球道	lorong|n
+球门	gol,gawang
+笃定	pasti|adj,yakin|adj
+笃实	bunyi|n,setia|adj
+考	calon|n,ujian|n,uji|v,kuiz|n,fikirkan|v,mencontohkan|v,peperiksaan|n,anggap
 考古	kajipurba
 考古学	kajipurba
 考尔	pesta kaul
 考查	kuiz|n
-考生	calon|n,calon persendirian
-考虑	anggap,bertafakur,fikirkan|v,mencontohkan|v
-考试	peperiksaan|n,ujian|n,gagal dalam peperiksaan
-考试不	gagal dalam peperiksaan
-考试不及	gagal dalam peperiksaan
+考生	calon|n
+考虑	fikirkan|v,mencontohkan|v,anggap,bertafakur
+考试	ujian|n,peperiksaan|n
 考试不及格	gagal dalam peperiksaan
-考验	cubakan,imtihan,menguji,uji|v
-肃	habis kalas,mengkalas,mengkalas cuci,menjana,serius|adj
-肃清	habis kalas,mengkalas,mengkalas cuci
-肃清或	mengkalas,mengkalas cuci
-肃清或禁	mengkalas,mengkalas cuci
+考验	uji|v,imtihan,cubakan,menguji
+肃清	habis kalas
 肃清或禁止	mengkalas,mengkalas cuci
 肃清的	habis kalas
-肃的	serius|adj
-范	besar-besaran,bidang|n,contoh jawapan,etika|n,golongan,ikutan|n,litar,zariah
+范	bidang|n,litar,golongan,contoh jawapan
 范例	contoh jawapan
-范围	bidang|n,golongan,litar
-范学	zariah
-范学校	zariah
-范的	besar-besaran
-蜃	logamaya|n
-蜃楼	logamaya|n
-螃	kepiting|n,ketam|n,ketam bunga|n
-螃蟹	ketam|n,ketam bunga|n,kepiting|n
-调	asam garam|n,asit,banci|n,banci penduduk,bumbu,bunyi|n,campur aduk,cumbu
+范围	bidang|n,litar,golongan
+范本	model|n
+范特西	fantasi|n
+范畴	kategori|n
+螃	ketam|n,ketam bunga|n
+螃蟹	ketam|n,ketam bunga|n
+调	siasat|n,tim|n,penyelidikan|n,usik|v,periksa|v,banci|n,lerai|v,menggoda|v
 调任	memindahkan
 调停	lerai|v
-调制	modem|n
-调制解	modem|n
-调制解调	modem|n
-调制解调器	modem|n
+调制解调器调制解调器	modem|n
 调合	suai
-调味	rencah,asam garam|n,bumbu,perencah|n
-调味品	asam garam|n,bumbu,perencah|n
-调和	sebanding,selaras|adj,pincang
-调和的	pincang
-调器	modem|n
+调味	rencah,asam garam|n,bumbu
+调味品	asam garam|n,bumbu
+调味汁	sos|n
+调和	selaras|adj,sebanding
 调好	campur aduk
-调子	irama,nada
-调度	kelui|n
-调度程	kelui|n
-调度程序	kelui|n
-调情	cumbu,tim|n
-调戏	gobek,menggoda|v,usik|v
-调查	banci|n,mengusut,menyelidiki,menyiasat,penyelidikan|n,penyiasatan,periksa|v,selidik
+调子	nada,irama
+调情	tim|n,cumbu
+调戏	usik|v,menggoda|v,gobek
+调查	siasat|n,penyelidikan|n,periksa|v,banci|n,usut,mengusut,sidik,selidik
 调查员	penyelidik
-调笑	senda,senda-gurau
+调研	penyelidikan|n
+调笑	senda-gurau
+调笑senda	senda
 调解	syafaat,asit,hakam
 调解人	asit,hakam
 调试	penyahpepijat|n
 调试程	penyahpepijat|n
 调试程序	penyahpepijat|n
-较	adik perempuan|n,banding|n,cocokkan,galih,memadan,membandingkan,mempertandingkan,menanding
-较久	pencen|adj
-较小	adik perempuan|n,yayi|n
-较小者	adik perempuan|n,yayi|n
-较年	adik perempuan|n,yayi|n
-较年轻	adik perempuan|n,yayi|n
-较年轻的	adik perempuan|n,yayi|n
-逃	lari|v,bawa diri,cabut|v,cabut lari,cacak lari,elakkan diri,hudar,humbas
+调速器齿轮	gabenor|n
+较为	agak|adv
+较好	sebaiknya|adv
+较少	kurang|adj
+较比	agak|adv
+较略	lebih kurang|adv
+较真	serius|adj
+较量	pertempuran|n
+逃	lepas|adj,lari|v,luput|adj,cabut|v,minggat,bawa diri,mabur,humbas
 逃之	cabut lari
 逃之夭	cabut lari
 逃之夭夭	cabut lari
-逃亡	hudar,humbas,melarikan,minggat,pelari
+逃亡	minggat,humbas,hudar,melarikan,pelari
 逃亡者	pelari
-逃离	mengungsi,ungsi
-逃走	bawa diri,cabut|v,cacak lari,humbas
-逃跑	hudar,humbas
+逃离	ungsi,mengungsi
+逃走	cabut|v,bawa diri,humbas,cacak lari
+逃跑	humbas,hudar
 逃逸	lepas|adj,minggat
 逃遁	luput|adj
 逃避	luput|adj,mabur,elakkan diri
 逃避责	elakkan diri
 逃避责任	elakkan diri
+邃密	hebat|adj,dalam|prep
 鬃	surai|n,bulu tengkuk
 鬃毛	bulu tengkuk

@@ -11,7 +11,7 @@ wilaan	wilaan		韵律，抑扬
 wiladan	wiladan		孕妇或产妇四五月后清洗腹部之仪式
 wilahar	wilahar		湖，池塘
 wilana	wilana		成分
-wilanda	wilanda		两者择一
+wilanda	wilanda		两者择一	alternative form of Wolanda
 wilayah	wilayah	n	地区	any subdivided territory  province  area or region
 wilmana	wilmana	n	印度方尖庙	vimana
 wira	wira	n	男人，英雄，勇士	hero

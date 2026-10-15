@@ -1,372 +1,246 @@
-了	akhirulkalam,apal,betah,boleh tahan,buruk siku,demi|prep,hebat|adj,ikan kering|n
-了一	kejut|v,kerling|n,peranjat,terkejut|adj,terperanjat
-了一眼	kerling|n
-了一跳	kejut|v,peranjat,terkejut|adj,terperanjat
-了人	buruk siku
-了人家	buruk siku
-了人家东	buruk siku
-了人家东西	buruk siku
-了人家东西再	buruk siku
-了人家东西再向	buruk siku
-了人家东西再向人	buruk siku
-了人家东西再向人要	buruk siku
-了人家东西再向人要回	buruk siku
-了吗	sudah makan|int
-了吧	sudahlah
-了的	ikan kering|n,kantoi|adj,mabuk|adj,pemabuk|n,perat|adj,renyuk
-了罪	pasik
-了罪的	pasik
-了航	memeper,peper
-了航线	memeper,peper
-了解	apal,insaf|adj,memahami|v,mengerti|v,menginsafi|v,reti|v
-分	divisyen|n,sen|n,aandeel|n,agih,ajib,analisa|n,analisis|n,ansur
+了不起	mantul|adj
+了局	akhir|adj,kesimpulan|n
+了断	resolusi|n
+了解	insaf|adj,reti|v,mengerti|v,memahami|v,menginsafi|v,apal
+分	divisyen|n,bersalin|v,sen|n,cabang|n,minit|n,huraian|n,cawangan|n,perbezaan|n
 分为	belah tiga
 分为三	belah tiga
 分为三方	belah tiga
-分之	cupak|n,perapat,perempat|n,suku|n
-分之一	cupak|n,perapat,perempat|n,suku|n
-分之一干	cupak|n
-分之一干冬	cupak|n
-分五	berpecah
-分五裂	berpecah
-分别	membezakan,parak,masing-masing|adj
+分会	dahan|n
+分别	parak,masing-masing|adj,membezakan
 分别的	masing-masing|adj
 分割	pisah|v
 分区	pasir panjang
-分叉	canggah,bercanggah,cerangah
-分叉的	bercanggah,cerangah
-分发	melung
-分发展	melung
-分发展的	melung
+分叉	canggah,cerangah,bercanggah
+分叉的	cerangah,bercanggah
 分号	koma bertitik
-分大	cukup besar
+分头路	aandeel|n
 分娩	bersalin|v,melahirkan|v,pelahiran|n,kopak
 分娩的	kopak
-分子	borjuis|n,intelektual,pelampau|n
-分局	balai mata-mata|n
-分店	cabang|n,cawangan|n,bercabang
-分开	bagi|v,cerai|v,erak,kekar,kuak,lerai|v,memencil,memisahkan
+分子	aandeel|n
+分店	cabang|n,cawangan|n
+分开	bagi|v,cerai|v,lerai|v,kuak,erak,memencil,pecahkan,sarak
 分开的	dibahagi|v
-分开而	kengkang
-分开而跑	kengkang
-分愚	merakap
-分愚味	merakap
-分愚味的	merakap
+分异	izzat|n
+分所	dahan|n
 分折	kupasan|n
-分支	jipang,taifah|n
-分散	bersurai,bubar,derai
-分数	markah,pecahan|n
+分支	taifah|n,jipang
+分散	derai,bubar,bersurai
+分数	pecahan|n,markah
 分期	beransur-ansur,ansur,bayaran ansur
 分期付	bayaran ansur
 分期付款	bayaran ansur
 分期的	ansur
-分析	analisa|n,analisis|n,cerakin|n,huraian|n,mencerakin,menganalisa,uraian,dilah|n
-分析机	analisis|n
-分析系	dilah|n
-分析系统	dilah|n
+分析	huraian|n,analisa|n,cerakin|n,uraian,mencerakin,menganalisa,penganalisis|n
+分析分析机	analisis|n
+分析研究	penyelidikan|n
 分析者	penganalisis|n
 分枝	cerangah
-分歧	berselisih,perbezaan|n,simpang|n
-分比	peratus|cls,peratusan|n
+分歧	perbezaan|n,simpang|n,berselisih
+分毫	pecahan|n
 分水	legeh
 分水界	legeh
 分泌	kelenjar
 分泌腺	kelenjar
 分派	bagi|v
 分牌	parih,perdi
-分率	persen
-分界	aras,antara muka|n
+分界	antara muka|n
 分界面	antara muka|n
-分的	asin|adj,mua|adj
-分离	bercerai,berpisah,erak,mufarik,parak,pisah|v,sisih|v,suak
-分离的	longkah
+分离	pisah|v,sisih|v,surai|n,erak,parak,mufarik,suak,bercerai
 分科	kursus
-分类	golong,golongkan,kategorikan|v,klasifikasi,menggolongkan,pengelasan|n,lejar|n,taksonomi|n
+分类	pengelasan|n,kategorikan|v,golongkan,golong,klasifikasi,menggolongkan,lejar|n,taksonomi|n
 分类学	taksonomi|n
 分类帐	lejar|n
+分组	grup|n
 分给	bagi|v
+分缝	aandeel|n
 分节	segmen
-分裂	kasam,putus bekalan|n,tokek|n
-分解	cerakinan,meleraikan,elektrolisis|n
-分赞	mengagung-agungkan
-分赞美	mengagung-agungkan
-分过	loyak
-分过多	loyak
-分过多的	loyak
+分裂	tokek|n,putus bekalan|n,kasam
+分解	cerakinan,meleraikan
+分辨率	resolusi|n
 分部	cawangan|n,subseksyen|n
-分配	agih,bahagi|v,habuan|n,membahagi,pembahagian,peruntukan|n,untukkan,mengembani
-分配某	mengembani
-分配某任	mengembani
-分配某任务	mengembani
-分配某任务给	mengembani
-分配某任务给某	mengembani
+分配	habuan|n,bahagi|v,peruntukan|n,agih,untukkan,membahagi,pembahagian
 分配某任务给某人	mengembani
-分钟	minit|n,hangat-hangat tahi ayam
-分钟热	hangat-hangat tahi ayam
-分钟热度	hangat-hangat tahi ayam
-分钱	duit|n,menunggal
-分锵	kupang|n
+分量	berat|adj,kadar|n
+分钟	minit|n
 分開	pencil|v
-分隔	memisahkan,mengasingkan,mufarik,suak,kompartmen|n
+分隔	mufarik,suak,memisahkan,mengasingkan,kompartmen|n
 分隔间	kompartmen|n
-匆	bergegas-gegas,birit,gapah,gegas,gopoh-gapoh,gopohgapah,gulut,kocoh
+匆	kocoh
 匆促	kocoh
-匆匆	bergegas-gegas,birit,gapah,gopoh-gapoh,gopohgapah,gulut,terburu-buru,tergulut-gulut
-匆匆忙	bergegas-gegas,birit,gapah,gopoh-gapoh,gopohgapah,gulut,terburu-buru,tergulut-gulut
-匆匆忙忙	bergegas-gegas,birit,gapah,gopoh-gapoh,gopohgapah,terburu-buru,gulut,tergulut-gulut
+匆匆	birit,gapah,gopohgapah,gopoh-gapoh,terburu-buru,bergegas-gegas
+匆匆忙	birit,gapah,gopohgapah,gopoh-gapoh,terburu-buru,bergegas-gegas
+匆匆忙忙	birit,gapah,gopohgapah,gopoh-gapoh,terburu-buru,bergegas-gegas,gulut,tergulut-gulut
 匆匆忙忙地	gulut,tergulut-gulut
-匆忙	bergegas-gegas,birit,gapah,gegas,gopoh-gapoh,gopohgapah,gulut,terburu-buru
-匆忙忙	bergegas-gegas,birit,gapah,gopoh-gapoh,gopohgapah,gulut,terburu-buru,tergulut-gulut
-匆忙忙地	gulut,tergulut-gulut
+匆忙	gegas,udap-udap
 匆忙的	gegas,udap-udap
-历	almanak,babad|n,bersejarah,hikayat|n,iskandariah,jajah|v,jelajah|v,kalendar|n
-历一	sura
-历一月	sura
-历九	ramadan
-历九月	ramadan
-历二	safar
-历二月	safar
-历十	sawal,syawal,zulhijah
-历十一	zulhijah
-历十一月	zulhijah
-历十月	sawal,syawal
-历史	babad|n,kisah|v,sejarah|n,bersejarah,hikayat|n,riwayat,sejarawi|adj
-历史意	bersejarah
-历史意义	bersejarah
-历史意义的	bersejarah
+历	babad|n,sejarah|n,kisah|v
+历史	babad|n,sejarah|n,sejarawi|adj,kisah|v,hikayat|n
 历史故	hikayat|n
 历史故事	hikayat|n
 历史的	sejarawi|adj
 历害	sungguh|adj
 历害的	sungguh|adj
-历山	iskandariah,zulkarnain
-历山大	iskandariah,zulkarnain
-历山大大	zulkarnain
-历山大大帝	zulkarnain
-历山大港	iskandariah
-历正	muharam
-历正月	muharam
-咆	aum mengaum,tengking
-咆哮	aum mengaum,tengking
-唆	abet|n,goda|v,hasut,muring,ocok,rengut,rotok
+历时	tempoh|n
+历来	sepanjang|prep
+历练	pengalaman|n
+咆	tengking,aum mengaum
+咆哮	tengking,aum mengaum
+唆	goda|v,hasut
 唆使	goda|v,hasut
-唆的	muring
-嘆	mak kau hijau
-嘆詞	mak kau hijau
-圆	bulat|adj,membundarkan|v,berumbung,bujur|adj,bujur telur,bulan purnama,bulat bujur,bulat cekung
-圆体	sepiar,sfera
+圆	bundar|adj,bulat|adj,membundarkan|v,cakra|n,perisai|n,manik,berumbung,bulatan
+圆体	sfera,sepiar
 圆圆	mintal
 圆圆的	mintal
 圆圈	bulatan,lingkaran
+圆寂	mati|v
 圆屋	kubah
 圆屋顶	kubah
 圆帽	kerpus
-圆形	bujur|adj,bujur telur,bulat bujur,bulat cekung,bulat panjang,bulat pipih,buntar,cembung
-圆形的	buntar,sanggul bulat,bulat bujur,bulat panjang,cembung,jorong
-圆形的佬	jorong
-圆形的佬叶	jorong
-圆形的佬叶盒	jorong
-圆形蚊	singkil
-圆形蚊帐	singkil
+圆形	buntar,sanggul bulat
+圆形木材	balak|n
+圆形的	buntar,sanggul bulat
 圆形蚊帐顶	singkil
 圆木	mandika
 圆木柱	mandika
 圆柱	torak-torak
 圆柱筒	torak-torak
+圆润	kaya|adj
+圆满	sempurna|adj
+圆环	cincin|n
 圆珠	manik,tengkel
 圆珠状	tengkel
 圆珠状的	tengkel
-圆的	bundar|adj,busut betina,gemang,mintal
-圆的蚁	busut betina
-圆的蚁冢	busut betina
+圆球	bola|n
+圆的	bundar|adj
 圆盘	cakra|n
-圆盾	perisai|n,utar-utar
-圆筒	kelongsong
-圆筒处	kelongsong
-圆筒处之	kelongsong
-圆筒处之外	kelongsong
+圆盾	perisai|n
 圆筒处之外皮	kelongsong
 圆管	berumbung
-圆锥	langsar,lapun
+圆锥	lapun,langsar
 圆锥形	lapun
 圆锥行	langsar
-堆	gugus,gugusan,kelompok|n,kopah,longgok,longgokan,berlonggok,beronggok-onggok
-堆一	beronggok-onggok
-堆一堆	beronggok-onggok
-堆一堆的	beronggok-onggok
-堆叠	menyusun,tonggok
+堆	kelompok|n,gugus,longgok,kopah,gugusan,longgokan,bertambun|v,mambu
+堆叠	tonggok,menyusun
+堆栈	gudang|n
 堆满	mambu
-堆的	beronggok-onggok,jerembun,monggok,susun|v,timbunan
-堆积	bertambun|v,bertimbun,lambak,limbak,longgok,melambakkan,onggok,rombong
+堆积	bertambun|v,lambak,limbak,longgok,unggunan,rombong,onggok,timbunkan
 堆积如	mambu
 堆积如山	mambu
-堆积成	runjung
-堆积成园	runjung
-堆积成园锥	runjung
 堆积成园锥形	runjung
 堆积物	timbunan
 堆积起	tonggok
 堆积起来	tonggok
 堆起	timbunkan,jerembun
 堆起的	jerembun
-妆	adun,bawaan,berpupur,calak,dandan|v,mahar|n,pantis,pupur|n
-妆品	calak,pupur|n
-将	kan|adv,admiral,akan datang,bakal|n,besok|n,bintangnya gelap,bintangnya terang,brigedier|n
+将	jeneral|n,kan|adv,panglima|n,hendak|prep,hulubalang|n
 将军	jeneral|n
+将官	jeneral|n
 将有	bintangnya terang
 将有好	bintangnya terang
 将有好运	bintangnya terang
-将来	besok|n,jemah,kelak|adj
-将毕	graduan|n
-将毕业	graduan|n
-将毕业的	graduan|n
-将毕业的学	graduan|n
-将毕业的学生	graduan|n
-将要	hendak|prep,akan datang,bakal|n
-将要来	akan datang
+将来	kelak|adj,besok|n,jemah
+将要	hendak|prep,bakal|n
 将要来临	akan datang
 将要来临的	akan datang
 将要的	bakal|n
-将遭	bintangnya gelap
-将遭遇	bintangnya gelap
-将遭遇到	bintangnya gelap
-将遭遇到不	bintangnya gelap
 将遭遇到不幸	bintangnya gelap
-将领	hulubalang|n,panglima|n
-帆	berlayar|v,layar|n,gubang,jegung,jong|n,kapal layar,kelandara,kerakah
-帆之	pabuan
-帆之横	pabuan
-帆之横木	pabuan
+将领	panglima|n,hulubalang|n
+帆	layar|n,berlayar|v,jong|n,leteh,peruan,terpal,kapal layar
 帆布	terpal
-帆柱	kelandara
-帆柱顶	kelandara
-帆柱顶扣	kelandara
-帆柱顶扣结	kelandara
-帆柱顶扣结帆	kelandara
-帆柱顶扣结帆桁	kelandara
-帆柱顶扣结帆桁的	kelandara
 帆柱顶扣结帆桁的圈	kelandara
-帆桁	peruan,kelandara,pabuan
-帆桁的	kelandara
-帆桁的圈	kelandara
-帆船	jong|n,kapal layar,leteh,gubang,kerakah
-帆船的	gubang
-帆船的一	gubang
+帆桁	peruan
+帆船	jong|n,leteh,kapal layar
 帆船的一种	gubang
-庆	aruk,hari kebangsaan,meraikan,merayakan,pesta|n,rai|n
-庆日	hari kebangsaan
-庆祝	meraikan,merayakan,rai|n,aruk
+庆	rai|n,meraikan,merayakan
+庆祝	rai|n,meraikan,merayakan,aruk
 庆祝舞	aruk
-昆	pianggang,serangga|n
-昆虫	serangga|n,pianggang
-梆	letung
-梆声	letung
-殆	nyaris,tekis
-漆	cat|n,batu lak,gelap-gulita,hitam-hitam,jepang,jepun,lak|adv,legam
+愆尤	jenayah|n
+昆	serangga|n
+昆虫	serangga|n
+殆	tekis,nyaris
+漆	cat|n,perlak|n
 漆布	perlak|n
 漆皮	perlak|n
-漆黑	gelap-gulita,hitam-hitam,legam
+漆黑	legam,hitam-hitam,gelap-gulita
 漆黑一	gelap-gulita
 漆黑一片	gelap-gulita
-漆黑的	hitam-hitam,legam
-爆	bepang|n,berkobar,cetus,dedas,gerutup,kobar,ledak,ledus
-爆发	cetus,ledak,letus,rotok,berkobar,kobar
-爆声	letas-letus
-爆炸	ledak,letup,letupan|adj,meledak,meletup,meletus,letus
+漆黑的	legam,hitam-hitam
+爆	mercun|n,long|n,letupan|adj,letup,ledus,cetus,letus,rotok
+爆发	cetus,letus,rotok,ledak
+爆弹	bom|n
+爆炸	letupan|adj,letup,ledak,meledak,meletup,meletus,letus
 爆炸声	letus
-爆破	ledus,melir
+爆破	ledus
 爆竹	mercun|n
 爆管	long|n
 爆米	bepang|n
 爆米花	bepang|n
-爆裂	dedas,gerutup
-爆裂声	dedas,gerutup
-理	acuh,agen,agensi|n,akil,alasan|n,alif-ba-ta,apal,asasi|adj
-理不	bena tak
-理不睬	bena tak
+爆裂	gerutup,dedas
+爆裂声	gerutup,dedas
+理	faham|v,alasan|n,fasal|n,cita-cita|n,hirau|v,maya|adj,layan|v,peduli|v
 理事	pantita
 理事会	pantita
-理人	agen,pemangku
 理会	maklum|v
-理分	psiko|n
-理分析	psiko|n
+理则	kanun|n,logika|n
+理则学	logika|n
 理发	bergunting,barbier|n
 理发师	barbier|n
-理商	akil,ejen|n
-理器	mikropemproses|n,pemproses mikro|n
-理场	bengkel|n
-理学	astrofizik|n,etika|n,farmakologi|n,fisiologi|n,fizik|n,geografi|n,ijazah sarjana muda sains,ilmu alam|n
+理学	ijazah sarjana muda sains
 理学士	ijazah sarjana muda sains
-理学家	psikologis|n
-理学者	mufti|n
-理學	biofizik|n
 理应	seharusnya
 理当	semestinya
+理念	idea|n,falsafah|n
 理性	rasional|adj
 理性的	rasional|adj
 理想	cita-cita|n,ideal
 理想的	ideal
-理或	pakai buang|adj
-理或处	pakai buang|adj
-理或处置	pakai buang|adj
-理或处置的	pakai buang|adj
 理智	maya|adj
-理机	agensi|n
-理机构	agensi|n
-理由	alasan|n,fasal|n,mena,beralasan,fasal itu
-理的	budiman|n,keraguan munasabah|n,lekir,makul,manipulatif|adj,masuk akal|adj,meritokratik|adj,pakai buang|adj
-理睬	acuh,hirau|v,layan|v,peduli|v,meling,mendak
-理睬的	meling
-理石	batu pelinggam,belut tuna|n,kucing dahan|n,marmar|n,pelinggam,pualam
-理石的	belut tuna|n,kucing dahan|n
+理由	alasan|n,fasal|n,mena
+理睬	hirau|v,layan|v,peduli|v,acuh
 理硕	ijazah sarjana sains
 理硕士	ijazah sarjana sains
-理者	pemangku,pengelola,penguasa
-理而	petrol|n
-理解	apal,faham|v,fahami|v,mafhum
+理科硕士\n[计]	sm|adv
+理解	faham|v,fahami|v,mafhum,apal
+理解力	faham|v
 理论	teori
-疆	azerbaijan
-笆	berpagar,memagari|v,pagari
-笆围	pagari
-笆围住	pagari
-笆的	berpagar
-缆	kabel|n,type c|n
-脆	bersimpuh,empuk,garing|adj,gerutup,helah,helat daya,lambuk,mangkas
-脆坐	bersimpuh
+疆界	pinggir|n
+缆索	talian|n
+缆线	talian|n
+缆绳	talian|n
+脆	rapuh|adj,peroi,repak,repas,rangup,helah,helat daya
 脆弱	reput
 脆弱的	reput
-脆的	peroi,rangup,rapuh|adj,repak,repas,empuk,garing|adj,lambuk
+脆片	serpih|n
+脆的	rapuh|adj,peroi,repak,repas,rangup
 脆硬	mangkas
 脆硬的	mangkas
 脆裂	gerutup
 脆裂声	gerutup
 脆计	helah,helat daya
-覆	balas surat,balasan|n,balik-balik,bolak-balik,jata|n,jawapan|n,karam,kelumat
+舆地	peta|n,daratan|n
+覆	litup,tekup,merahap,balas surat
+覆亡	musim gugur|n
 覆以	lingkup,selimutkan
 覆以被	selimutkan
 覆以被褥	selimutkan
 覆以面	lingkup
 覆以面纱	lingkup
 覆信	balas surat
-覆再	kerapkali
-覆再三	kerapkali
-覆无	serompok
-覆无常	serompok
-覆无常的	serompok
 覆没	karam
-覆的	lipat ganda
-覆盖	merahap,tekup,jata|n,kelumun,lamina|n,payun,tekap
-覆盖物	kelumun,payun
+覆盖	tekup,merahap,tekap,payun,kelumun
+覆盖物	payun,kelumun
 覆盖轻	tekap
 覆盖轻按	tekap
 覆船	kelumat
 覆船的	kelumat
 覆蔽	litup
-覆覆	bolak-balik
 辆	import|adj
 辆入	import|adj
-逆	derhaka|n,empul,lais,malang|n,mudik,paus pembunuh|n,sakal,senak nafas
+逆	malang|n
+逆反	lawan|n
 逆境	malang|n
+逆天	mantul|adj
 逆头	sakal
 逆头的	sakal
 逆戟	paus pembunuh|n
@@ -381,35 +255,34 @@
 逆风航	empul
 逆风航行	empul
 钆	gadolinium|n
-锆	zirkonium|n
-隆	berdentum,berderam,dengung,dentum,deram,derum,gemuruh,gum
-隆声	berdentum,berderam,dengung,dentum,deram,derum,gemuruh,gum
-隆形	lungkum,mungkum
-隆形的	lungkum,mungkum
+钆钆	gadolinium|n
+锆锆	zirkonium|n
+锆锆Z	zirkonium|n
+锆锆Zr	zirkonium|n
+隆	lambung
 隆起	lambung,sempal
 隆起的	sempal
-隆隆	berdentum,berderam,dengung,dentum,derum,gemuruh,guruh-gemuruh,lantung
-隆隆声	berdentum,dengung,dentum,derum,gemuruh,lantung,leguh-legah,leram
-领	insaf|adj,anjur,bimbing,dahului,dasi leher,hulubalang|n,imam,jajah|v
+隆重	agung|adj
+隆隆	dentum,dengung,lantung,derum,berdentum,gemuruh,leram,menderum
+隆隆声	dentum,dengung,lantung,derum,berdentum,gemuruh,leram,menderum
+领	insaf|adj,pemimpin|n,lapangan|n,memandu|v,tuntun|v,memahami|v,imam,pimpin
 领会	memahami|v
 领先	dahului,mukadam
 领土	kuripan|n
 领土的	kuripan|n
 领域	lapangan|n
-领导	bimbing,mengendalikan,mengepalai,pimpin,tuntun|v,kepimpinan|n,meritokrasi|n,pemimpin|n
-领导者	pemimpin|n,pengepala|n,tua-tua|n
+领导	tua-tua|n,tuntun|v,kepimpinan|n,pemimpin|n,pengepala|n,pimpin,bimbing,mengendalikan
+领导力	kepimpinan|n
+领导统御	kepimpinan|n
+领导者	tua-tua|n,pemimpin|n,pengepala|n
 领导能	kepimpinan|n
 领导能力	kepimpinan|n
-领导阶	meritokrasi|n
-领导阶级	meritokrasi|n
-领带	dasi leher,memandu|v
+领带	memandu|v,dasi leher
 领悟	mafhum
 领港	mualim
-领袖	imam,jurumudi,pemimpin|n
-馆	akuarium|n,arkib|n,balai pustaka,kedai makan|n,kisut,kutubkhanah|n,losmen,muzium|n
-馆员	pustakawan|n
-骆	bonggol|n,unta|n
-骆驼	unta|n,bonggol|n
-骆驼的	bonggol|n
-骆驼的背	bonggol|n
+领袖	pemimpin|n,imam,jurumudi
+馆地	sekolah|n
+馆子	restoran|n
+骆	unta|n
+骆驼	unta|n
 骆驼的背峰	bonggol|n

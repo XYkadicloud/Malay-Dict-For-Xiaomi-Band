@@ -1,157 +1,137 @@
-井	perigi|n,sumber|n,sumur,telaga|n,apik,kelulu,lapun,tanda pagar|n
+井	telaga|n,sumber|n,perigi|n,sumur
 井井	apik
 井井有	apik
 井井有条	apik
 井号	tanda pagar|n
 井号标	tanda pagar|n
 井号标签	tanda pagar|n
-井有	apik
-井有条	apik
 井然	kelulu
 井然的	kelulu
-井的	zamzam
-井的水	zamzam
-冕	koronavirus|n,nobat,tengku mahkota
-冕太	tengku mahkota
-冕太子	tengku mahkota
-冕形	koronavirus|n
-冕形病	koronavirus|n
-冕形病毒	koronavirus|n
-冕时	nobat
-冕时敲	nobat
-冕时敲击	nobat
-冕时敲击之	nobat
-冕时敲击之皮	nobat
-冕时敲击之皮鼓	nobat
-匕	badik,beladau|n,keris,rencong|n,sekin
-匕首	badik,beladau|n,keris,rencong|n,sekin
-厕	bilik air|n,jamban|n,tandas|n
-厕所	bilik air|n,jamban|n,tandas|n
-咕	kumat-kumit,ngangut,ngut-ngut,nyonyeh,sungut|n,tengkerong
-咕噜	ngangut,ngut-ngut,nyonyeh,sungut|n
-咕鱼	tengkerong
-堕	lacur,timpa|v
+匕	beladau|n,keris,badik,sekin
+匕首	beladau|n,keris,badik,sekin
+匕首用剑刺	rencong|n
+厕所	bilik air|n,tandas|n,jamban|n
+咕	sungut|n,ngangut,nyonyeh,ngut-ngut
+咕噜	sungut|n,ngangut,nyonyeh,ngut-ngut
+堕	timpa|v,lacur
 堕击	timpa|v
 堕落	lacur
-夕	maghrib,menjelang
+夕	maghrib
 夕暮	maghrib
-帕	candung|n,farsakh|n,saputangan|n
 帕兰	candung|n
 帕兰刀	candung|n
 帕勒	farsakh|n
 帕勒桑	farsakh|n
-底	boti|n,casis,coli|n,dasar,filamen,gaji pokok,gerangan,ketiap
+底	pantat|n,coli|n,papan induk|n,gaji pokok,casis
+底子	alas|n
+底座	alas|n
+底数	alas|n
+底料	alas|n
 底板	papan induk|n
-底棺	long|n
-底河	ketiap
-底河盘	ketiap
+底止	akhir|adj,had|n
+底汁	alas|n
 底片	filamen
+底版	pinggan|n
 底盘	casis
-底船	lepap
+底线	tumbuhan|n
 底薪	gaji pokok
 底衣	coli|n
-底部	boti|n,pantat|n
-底部的	boti|n
-引	afsun|n,ali,amang|n,bantun,bimbing,dalil,enjin,faharasat
-引人	menawan,mencolok mata|adj
-引人注	mencolok mata|adj
+底边	alas|n
+底部	pantat|n
+底部底部的给...装底	boti|n
+引	tumbuh|v,undur|v,salur|v,nas,suluk,nukil,umbuk,ali
 引人注目	mencolok mata|adj
 引人注目的	mencolok mata|adj
-引住	terpesona
 引入	salur|v
 引出	bantun
-引力	afsun|n,amang|n,magnet|n
-引力的	amang|n,magnet|n
-引力的人	magnet|n
-引导	menyalurkan,bimbing,pandu|n,panduan|n
+引导	pandu|n,panduan|n,menyalurkan
 引导者	pandu|n,panduan|n
-引带	bimbing
-引带领	bimbing
 引擎	enjin
 引火	rabuk|n,upit
 引火木	rabuk|n
 引火线	upit
 引理	lema
 引用	mengutip
+引脚	plumbum|n,pasak|n
 引论	nukil
-引证	dalil,nas,nukil
-引诱	ali,memikat,mengumbuk,mengumpan,umbuk,umpan|n
+引证	nas,nukil,dalil
+引诱	umbuk,ali,mengumbuk,memikat,mengumpan,umpan|n
 引诱物	umpan|n
-引起	lantaran,mengakibatkan,menimbulkan,terbitkan,tumbuh|v,gempak|adj,mencurigakan|adj,rahu
-引起亏	rahu
-引起亏蚀	rahu
-引起亏蚀的	rahu
-引起亏蚀的巨	rahu
-引起亏蚀的巨龙	rahu
+引起	tumbuh|v,lantaran,terbitkan,mengakibatkan,menimbulkan,mencurigakan|adj
 引起怀	mencurigakan|adj
 引起怀疑	mencurigakan|adj
-引起敬	gempak|adj
 引起敬畏	gempak|adj
 引起敬畏的	gempak|adj
-引退	minta diri,suluk,undur|v
-怕	cemas,dahsyat|n,geli,gemang,gerun,gidik,hebat|adj,jera
+引退	undur|v,suluk,minta diri
+怕	geli
 怕痒	geli
 怕痒的	geli
-怕的	geli,dahsyat|n,gidik,hebat|adj
-愕	cengang,kasima,terpinga-pinga
+怕的	geli
+愕	kasima,terpinga-pinga
 愕然	kasima,terpinga-pinga
-投	empap,melemparkan,melontarkan,membuang,adu|v,ali,baling|v,buang undi
+投	labur|v,undian|n,pelaburan|n,empap,membuang,melemparkan,melontarkan,serah|v
 投下	menurunkan|v
 投击	melontari
-投掷	ali,baling|v,eban,empap,lempar|v,limbat,lontar|v,melempari
-投枪	seligi,tohok
-投石	merejam,rejam|v,rajam
+投掷	lontar|v,baling|v,lempar|v,punggal,empap,eban,ali,limbat
+投枪	tohok,seligi
+投石	rejam|v,merejam,rajam
 投石击	rajam
 投石击毙	rajam
-投票	buang undi,mengundi,pembelian undi|n,undi|v,undian|n
-投诉	adu|v
+投票	undian|n,undi|v,pembelian undi|n,mengundi,buang undi
+投票者	pengundi|n
+投诉	ah|part
 投資	laburan|n
-投资	labur|v,melabur|v,pelaburan|n,pelabur|n
+投資词	laburan|n
+投資词汇	laburan|n
+投资	labur|v,pelaburan|n,pelabur|n,melabur|v
+投资人	pelabur|n
+投资家	pelabur|n
 投资者	pelabur|n
 投钱	tempong
 投钱游	tempong
 投钱游戏	tempong
-投降	menyerah,serah|v,serah diri,tunduk
+投降	serah|v,tunduk,serah diri,menyerah
 投骰	tikam dadu
 投骰赌	tikam dadu
 投骰赌钱	tikam dadu
-撕	mencabik,merabak,carik,cebis|cls,kelepik,koyak|adj,kuti,mencarikkan
+撕	merabak,mencabik,tokek|n,cebis|cls,koyak|adj,siat,carik,robek
 撕剥	siat
 撕开	tokek|n
 撕成	kuti
 撕成碎	kuti
 撕成碎片	kuti
-撕破	carik,cebis|cls,mencarikkan,mengoyakkan,rabik,rompang-ramping,sobek
+撕破	cebis|cls,carik,mencarikkan,mengoyakkan,rabik,sobek
 撕破的	rabik,sobek
-撕破边	rompang-ramping
 撕破边缘	rompang-ramping
 撕破边缘的	rompang-ramping
-撕碎	menyiat,sebit
+撕碎	sebit,menyiat
 撕裂	koyak|adj,robek,soyak,kelepik
 撕裂声	kelepik
-枕	bantal|n,bantal peluk,berbantal|v,kalang alas,kalang ulu|n,sarung bantal,suari|n
-枕头	berbantal|v,kalang alas,kalang ulu|n,sarung bantal
+朕兆	tanda|n
+枕	bantal|n,berbantal|v,kalang ulu|n,kalang alas
+枕头	berbantal|v,kalang ulu|n,kalang alas,sarung bantal
 枕头带	sarung bantal
+枕席	katil|n
 榕	beringin,pokok beringin
 榕树	beringin,pokok beringin
-涕	hingus|n,ingus,lintah bulan|n
-涕虫	lintah bulan|n
-焕	berseri
-焕发	berseri
-箕	ayakan,pongkes,pungki
-粕	ampas,hampas,latak|n,rubai
-耕	bajak|n,bercucuk,berladang|v,bersawah,cucuk tanam,huma|n,meluh,tenggalakan
+箕	ayakan
+耕	bajak|n,huma|n,berladang|v,usahakan,cucuk tanam,tenggalakan,bercucuk
 耕作	usahakan
 耕地	huma|n
 耕田	berladang|v,tenggalakan,bersawah
 耕田为	bersawah
 耕田为生	bersawah
-耕种	bercucuk,cucuk tanam,meluh
+耕种	cucuk tanam,bercucuk
 蚕	ulat sutera,hunggis
 蚕食	hunggis
-蠕	geletek,jalar,keletik,ketimbal,lencas,menggeletek,menjalar
-蠕动	geletek,keletik,lencas,menggeletek
+蜕变	transformasi|n
+蠕	jalar,lencas,geletek,keletik,menjalar,menggeletek
+蠕动	lencas,geletek,keletik,menggeletek
 蠕行	jalar,menjalar
 谕	bersabda
-钕	neodimium|n
-锕	aktinium|n
+钕钕	neodimium|n
+钕钕N	neodimium|n
+钕钕Nd	neodimium|n
+锕锕	aktinium|n
+锕锕A	aktinium|n
+锕锕Ac	aktinium|n

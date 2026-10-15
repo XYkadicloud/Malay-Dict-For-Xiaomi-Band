@@ -1,119 +1,149 @@
-ubi	sengsengub|adj
+u	rimbun
 ubiquitous	cap ayam|adj
-udara	putd,tudm
 ugh	isy
 ugly	hodoh|adj
-ujrah	ujrat|n
-ujung	ujong|adj
+uh	er
 ukelele	ukulele|n
-ulat	kutu buku|n
+ulam	ulam|n
 ultraconservative	ultrakonservatif|adj
 ultrasound	ultrabunyi|n
 ultraviolet	ultraungu|n
 um	aaa
-ummah	umat islam|n
-umno	geng baju merah|n
-unable	bular|adj,buta huruf|adj,mandul|adj
-uncertain	meraba-raba|v,syubhah|adj
-uncertainty	kut|part
-unchanging	kelestarian|n,lestari|adj
+umno members who form noisy groups and organise rallies	geng baju merah|n
+un	cemas
+unable to give birth	mandul|adj
+unable to read and write	buta huruf|adj
+unable to see	bular|adj
+unable to speak	bisu|adj
+uncertain or doubtful in whether it is halal or haram of an act	syubhah|adj
+unchanging	lestari|adj
 uncivilised	biadab|adj
-uncle	bapa cik|n,datuk saudara|n,mamak|n,pak cik|n,paman|n
+uncle	paman|n,pak cik|n
 unclear	kabur|adj,samar|adj
-uncoil	orak|v
+uncommon	khusus|adj
 unconditional	mutlak|adj
 unconfident	rendah diri|adj
-uncooked	beras|n
-uncover	selak|v
-undang	undang-undang|n
-undang-undang	ruu|n
-undangan	dun|n
+uncooked rice	beras|n
 undecillion	undesilion|num
-under	bawah|prep,daerah|n,depan hidung,kebawah|prep,kepit|v,mengelek|v
+under	bawah|prep,kebawah|prep
+under someone's nose	depan hidung
 underarm	ketiak|n
-undergraduate	prasiswazah|adj
-underhanded	dedak|n
+underhanded actions by political leaders to gain more support from voters	dedak|n
 underpants	seluar dalam|n
-understand	fahami|v,reti|v
+understand	payah|adj,susah|adj
 understanding	faham|v
-underwear	seluar dalam|n,sependa|n
+underwear	sependa|n,seluar dalam|n
 undone	terurai|adj
-unforeseen	malang tidak berbau|n
-unforgivable	syirik|n
-unfortunate	berau|adj,malang tidak berbau|n,miskin|adj
+unfortunate	berau|adj,miskin|adj
 unguent	palit|n
 unhappy	sedih|adj
 uniform	seragam|adj
-unify	bersatu|v
-union	kongsi|n,persekutuan|n,serikat|n
-unique	keunikan|n,unik|adj
+union	serikat|n,persekutuan|n
+unique	unik|adj,khusus|adj
 uniqueness	keunikan|n
-unit	hasta|n,hun|n,leng|n,liter|n,nalih|n,rian|n
-unite	bersatu|v,bersekutu|v
-united	amerika syarikat,emiriah arab bersatu,united kingdom
+unit	unit|n,satuan|n
+unit of measurement from elbow to fingertip	hasta|n
+unite	bersekutu|v
+united arab emirates	emiriah arab bersatu
+united kingdom	united kingdom
+united states of america	amerika syarikat
 unity	perpaduan|n
-universiti	ums,universitas|n,utar,uum
-university	mahasiswa|n,universiti|n
-unknown	anu|n,negeri antah-berantah|n
-unleavened	capati|n
+university student	mahasiswa|n
+unleavened bread from india and pakistan	capati|n
 unless	melainkan|conj
-unlikely	ketot|adj
 unlimited	tanpa had|adj
-unlucky	celaka|adj,celaka tiga belas|adj,sial|adj
-unmarried	berkhalwat|v,bujang|n
-unpleasant	langu|n
-unravel	orak|v
-unraveling	kasyaf|n
-unregistered	ulat arkitek|n
+unlucky	sial|adj,celaka|adj
+unmarried person	bujang|n
+unnerved	cuak|adj
+unpleasant smell	langu|n
 unrest	kerusuhan|n
-unripe	kebabal|n
+unripe jackfruit	kebabal|n
 unrounded	hampar|adj
+unsteady	goyang|adj
 unstitch	bertas|v
 untamed	liar|adj
 untidy	selerak|adj
-until	ayon|adv,hingga|prep,mengacau|v,sampai|v,sehingga|prep,takat|prep
+until	ayon|adv,hingga|prep,sampai|v,sehingga|prep
+until indicating a limit in space	takat|prep
+unto	until
 unvigintillion	unvigintilion|num
-unwilling	enggan|adv,segan|adj
-unwind	orak|v
-up	bangun|v,beratur|v,bertambun|v,buak|v,cekut|v,clash|v
+unwilling	segan|adj,enggan|adv
+up to	takat|prep,hingga|prep,setakat|prep
+up to indicating a limit in time	sehingga|prep
 up-to-date	mutakhir|adj
 upas	ipuh|n,upas|n
 update	kemas kini|n
-upgrade	menaiktaraf|n,naik taraf|n
+upgrade	naik taraf|n,menaiktaraf|n
 upgrading	menaiktaraf|n
-upload	muat naik|v
-upon	atas|prep,kena|v,menyampah|v,timpa|v
-upper	regan|n
+upon	atas|prep
 upright	tegak|adj
 uprising	pemberontakan|n
-upside	tunggang|adj
-upward	tengadah|v
-upwards	dongak|v,sulur|v
+upside down	tunggang|adj
 uranium	uranium|n
 urban	kebandaran|adj
 urbanism	urbanisme|n
-urbanize	membandarkan|v
-urbanizing	pembandaran|n
-urchin	landak laut|n
+urbanization	pembandaran|n
 urdu	urdu
-urge	desak|v
-urinary	pundi kencing|n
-urinate	kencing|v
+urinary bladder	pundi kencing|n
 urination	kemih|n
-urine	air kecil|n,air kemih|n,air kencing|n,air seni|n,najis kecil|n,urin|n
+urine	urin|n,air seni|n,air kecil|n,air kemih|n,air kencing|n,najis kecil|n
+urine from a cowhouse	saur
 uruguay	uruguay
-us	kita|pron,kitorang|pron,negara dolar|n
+us	kami|pron,kita|pron,kitorang|pron,kita orang|pron
 usage	penggunaan|n
-useful	berfaedah|v,berguna|adj,informatif|adj
+use	faedah|n,manfaat|n,penggunaan|n,sangkar
+used as a response greeting to assalamualaikum	waalaikumussalam
+used as a title of respect	swami
+used as an intensifier	nak mati|adv,nak mampus|adv
+used as fertilizer	guano
+used by muslims to greet other muslims	assalamualaikum
+used for carrying small items	poket|n
+used for different functions	serbaguna|adj
+used in agriculture and as a weapon	golok|n
+used in mat-making	ibus|n
+used or proposed	solusi|n
+used other than figuratively or idiomatically see berkaitan	berkaitan dengan
+used other than figuratively or idiomatically see berkenaan	berkenaan dengan
+used other than figuratively or idiomatically see curi	curi ayam|v
+used other than figuratively or idiomatically see oleh sebab	oleh sebab itu|adv
+used other than figuratively or idiomatically see tanam	tanam anggur|v
+used other than figuratively or idiomatically see tidak	tidak akan|adv
+used to call out to people	hai
+used to express a wish or hope	mudah-mudahan|adv
+used to express affirmation	au,haah
+used to express annoyance	isy
+used to express good wishes on the muslim festival of eid	selamat hari raya|int
+used to express hesitation	er
+used to express sadness to get attention	wahai
+used to express surprise or disbelief	apakah
+used to form numbers 21 29	likur|num
+used to get attention	ya|int
+used to greet people	halo,helo
+used to indicate a location	kat|prep
+used to indicate acknowledgement or acceptance	orait
+used to indicate location or direction	di|prep
+used to show that an action is prohibited	dilarang|adv
+used to store tobacco or gambier	cembul|n
+used to tease someone	amboi
+useful	berguna|adj
+usefulness	harga|n
 useless	andau|adv,hampeh|adj,tak guna|adj
-uses	ktm,negara dolar|n
-ustaz	asatizah|n
-ustazah	asatizah|n
-usual	abnormal|adj,biasa|adj,lazim|adj
-utama	jusa|n
-utara	uum
-uterus	kandung|n,rahim|n,tian|n,uterus|n
+usual	biasa|adj,lazim|adj
+usually	biasanya|adv,lazimnya|adv
+usually a male	mat salih|n,mat salleh|n
+usually a pyramidal tower with an upward	pagoda
+usually about th	borak
+usually as payung terjun	payung|n
+usually by an animal	segok|v
+usually idly or while thinking deeply	congok|v
+usually in a mosque during ramadhan	tadarus|n
+usually larger	repot
+usually of animals	galak|adj
+usually s	sanggup|v
+usually small round bread that can open into a pocket for	pita
+usually used by muslims	abdul
+usually wrapped in cloth or paper	pek|n
+uterus	tian|n,rahim|n,uterus|n,kandung|n
 utilisation	penggunaan|n
-utter	ujar|v
-utterance	kalimah|n,suara|n,ucapan|n
-uvula	anak lidah|n,anak tekak|n,uvula|n
+utterance	suara|n,ucapan|n,kalimah|n
+uvula	uvula|n,anak lidah|n,anak tekak|n

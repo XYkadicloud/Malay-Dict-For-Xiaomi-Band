@@ -1,4 +1,4 @@
-bi	bi	n	词首字母缩略词
+bi	bi	n	词首字母缩略词	initialism of Bahasa Inggeris (“English”)
 biadab	biadab	adj	无礼的，野蛮的，未开化的	uncivilised
 biah	biah		寺院
 biak	biak		生殖，繁殖	to breed; to multiply; to reproduce (to produce offspring…
@@ -12,7 +12,7 @@ biarawan	biarawan	n	修道士	monk
 biarawati	biarawati	n	女性	female equivalent of biarawan
 biarlah	biarlah		任其如此
 biarpun	biarpun		即使，虽然
-bias	bias	v	漂
+bias	bias	v	漂	to be drifted by the wind; to divert  to deflect  to go off course; to refract
 biasa	biasa	adj	普通 平常	normal; usual; ordinary
 biasan	biasan		折射作用
 biasanya	biasanya	adv	通常，一般	normally  usually  generally
@@ -54,7 +54,7 @@ bijibenih	biji benih	n	种子
 bijibijian	biji-bijian		各种子核，各种壳类
 bijih	bijih	n	矿砂	ore (mineralogy)
 bijihtimah	bijih timah		锡米
-bijik	bijik	n	两者择一
+bijik	bijik	n	两者择一	alternative form of biji
 bijimata	biji mata		眼球
 bijirin	bijirin		壳类，壳物
 bika	bika		糕饼之名
@@ -82,7 +82,7 @@ bilikjantung	bilik jantung	n	室	ventricle
 bilikpersalinan	bilik persalinan	n	更衣室	dressing room
 bilikrehat	bilik rehat	n	静止的	A resting room.
 biliktidur	bilik tidur	n	寝室	bedroom
-biling	biling	v	荒废的
+biling	biling	v	荒废的	obsolete form of beleng
 bilion	bilion	num	十亿	billion
 bilis	bilis		江鱼仔
 bilur	bilur		鞭痕
@@ -143,7 +143,7 @@ biot	biot	adj	顽固的	stubborn  obstinate
 bir	bir	n	啤酒	beer
 birah	birah	n	白芋	Alocasia spp.  especially Alocasia macrorrhizos
 birai	birai		边缘，栏杆，短墙
-biram	biram	adj	两者择一
+biram	biram	adj	两者择一	alternative form of berma
 biras	biras		襟兄弟，妯娌
 birat	birat		口唇之伤痕，鞭痕
 biri	biri	n	羊	sheep
@@ -168,7 +168,7 @@ biskut	biskut	n	饼干	biscuit
 bismillah	bismillah		感谢上帝，凭上帝的名	interj. An adjuration or exclamation common among the\n…
 bismut	bismut	n	铋  铋Bi	bismuth (chemical element)
 bisnes	bisnes	n	生意	business
-bistu	bistu	adv	两者择一
+bistu	bistu	adv	两者择一	alternative form of habis tu.
 bisu	bisu	adj	哑吧	mute; speechless; dumb; unable to speak.				bercakap,berkata
 bisul	bisul	n	疮，肿物	abscess  boil  carbuncle
 bisullada	bisul lada		小疮，小丘疹

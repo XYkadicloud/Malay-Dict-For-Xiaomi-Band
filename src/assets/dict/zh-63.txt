@@ -1,111 +1,77 @@
-亿	apal,bilion|num,milyar|num,ribu juta|num,satu bilion|num,satu ribu juta|num,sebilion|num,seribu juta|num
-便	agar|conj,air kecil|n,air kemih|n,air kencing|n,air seni|n,berak|n,berdus,beser
-便便	berdus,bunting-bantang,buyut|n
+便	murah|adj,kemudahan|n,pici,kebebangan,sembelit,peni
 便利	kemudahan|n
 便发	menggentarkan
 便发抖	menggentarkan
-便商	kedai serbaneka|n
-便商店	kedai serbaneka|n
+便器	tandas|n
 便塞	kebebangan
 便士	peni
 便宜	murah|adj
-便尿	beser
-便尿失	beser
 便尿失禁	beser
 便尿失禁的	beser
 便帽	pici
+便当	senang|adj
+便所	tandas|n
+便是	rata|adj,persis|adv
 便欢	menggembirakan
 便欢喜	menggembirakan
 便秘	sembelit
-便饭	ratah
-儿	anak bini,anak lelaki|n,anak merah|n,anak perempuan|n,anakanda,bayi|n,bentar,bin|n
-儿外	tuban-tuban
-儿外膜	tuban-tuban
-儿子	anak lelaki|n,putra|n,bin|n,ibni
-儿的	anak perempuan|n,fatimah
+儿	anak lelaki|n,putra|n,kanak-kanak|n
+儿子	anak lelaki|n,putra|n
 儿童	kanak-kanak|n
-儿脑	ubun-ubun
-儿脑盖	ubun-ubun
 儿茶	kacu|n
-儿麻	polio
-儿麻痹	polio
-儿麻痹症	polio
-势	gubit,jilat|v,kedudukan|n,kekuasaan,pengaruh|n,tenaga keupayaan|n,trend|n,turun senjata|n
-势力	kekuasaan,pengaruh|n
+儿茶儿	kacu|n
+儿茶儿茶	kacu|n
+势	pengaruh|n,kekuasaan
+势力	pengaruh|n,kekuasaan
+势子	isyarat|n
 势能	tenaga keupayaan|n
-势蔓	jilat|v
-势蔓延	jilat|v
-匿	buni|n,perap|n,sembunyi|v
+势能势	tenaga keupayaan|n
+势能势能	tenaga keupayaan|n
+匿	perap|n,sembunyi|v
 匿藏	perap|n,sembunyi|v
 县	daerah|n
-宿	asrama|n,bangsal,bermalam,hostel,inap|v,maab,menginap,sekolah tumpangan
+宿	asrama|n,hostel,bermalam,sekolah tumpangan
 宿夜	bermalam
-宿舍	asrama|n,hostel,sekolah tumpangan,bangsal
-尿	aring,beser,kebebangan,kencing manis|n,salasal
+宿舍	asrama|n,hostel,sekolah tumpangan
+宿营地	kem|n
+尿	kebebangan,aring
 尿具	aring
 尿塞	kebebangan
-尿失	beser
-尿失禁	beser
-尿失禁的	beser
-尿病	kencing manis|n,salasal
-愿	mau-mahu,ambisi,bulan lima|n,embuh,enggan|adv,hajat|n,hasrat|n,kehendak
-愿人	pempetisyen|n
-愿如	semoga|adv
-愿如此	semoga|adv
-愿意	rela|adj,enggan|adv
-愿望	ambisi,embuh,hajat|n,hasrat|n,kehendak,kemahuan,niat|n
-愿申	permohonan
-愿申请	permohonan
-愿申请书	permohonan
-愿的	ogah,rela hati,sukarela|adj,sukarelawan|n
-愿者	sukarelawan|n
-愿能	bulan lima|n,mei,nauzubillah
-房	bilik|n,alas rumah,apotek|n,bait|n,belubur,cecak|n,dapur|n,elaun rumah
+愿	niat|n,hajat|n,hasrat|n,rela|adj,mau-mahu,kehendak,embuh,ambisi
+愿意	rela|adj
+愿景	visi|n
+愿望	niat|n,hajat|n,hasrat|n,kehendak,embuh,ambisi,kemahuan
+房	bilik|n,bait|n,rumah|n,cecak|n,tuan tanah|n,perumahan,mengakomodasikan
 房东	tuan tanah|n
-房子	bait|n,cecak|n,mengakomodasikan,rumah|n
-房屋	perumahan,alas rumah,elaun rumah
+房子	bait|n,rumah|n,cecak|n,mengakomodasikan
+房屋	perumahan,elaun rumah
 房屋津	elaun rumah
 房屋津贴	elaun rumah
-房屋的	alas rumah
-房屋的地	alas rumah
 房屋的地基	alas rumah
-房用	pinggan mangkuk,pinggan-mangkuk
-房用具	pinggan mangkuk,pinggan-mangkuk
-房的	kulinari|adj,lamin|n
-房的床	lamin|n
+房舍	bangunan|n
 房间	kamar|n,pangking
-政	abdi negara|n,administrasi,anarki,anarkisme|n,belanjawan|n,bendahara|n,bendahari|n,birokrasi|n
+房顶	atap|n
+政	siasat|n,politik|n,politikus|n,pemerintah|n,kerajaan|n,parti|n,kompeni|n,gomen|n
+政事	politik|n
 政党	parti|n,parti politik|n
 政客	politikus|n
-政府	gomen|n,kerajaan|n,kompeni|n,pemerintah|n,abdi negara|n,anarki,anarkisme|n,dasar kerajaan
-政府主	anarkisme|n
-政府主义	anarkisme|n
+政府	pemerintah|n,kerajaan|n,kompeni|n,gomen|n,abdi negara|n
 政府官	abdi negara|n
 政府官员	abdi negara|n
-政府状	anarki
-政府状态	anarki
-政府的	dasar kerajaan
-政府的政	dasar kerajaan
 政府的政策	dasar kerajaan
 政权	rejim|n
-政治	politik|n,siasat|n,birokrasi|n,demokrasi|n,monokrasi|n,negarawan,teknokrasi|n
+政治	siasat|n,politik|n,negarawan
+政治人物	politikus|n
+政治学	politik|n
 政治家	negarawan
-政治论	teknokrasi|n
-政的	sipil
-政策	dasar,dasar kerajaan
-政统	kabupaten|n
-政统治	kabupaten|n
-政者	bupati|n
-政预	belanjawan|n
-政预算	belanjawan|n
+政治思想	ideologi|n
+政理	politik|n
+政策	dasar
+政纲	pelantar|n
 椿	sogang
-殿	baginda|pron,duli baginda,istana|n,mahligai,puri|n
 殿下	baginda|pron,duli baginda
-沿	baruh|n,berjaja,menepi,menjaja,menyisi,menyusur,merusuk|v,tembereng
-沿河	baruh|n
-沿河或	baruh|n
-沿河或海	baruh|n
-沿河或海的	baruh|n
+殿堂	balai|n
+沿	merusuk|v
 沿河或海的低	baruh|n
 沿河或海的低地	baruh|n
 沿街	berjaja,menjaja
@@ -115,110 +81,81 @@
 沿边而	menepi,menyisi
 沿边而行	menepi,menyisi
 沿边走	menyusur
-猿	berukera,akwak,gorila,lotong|adj,mawa,siamang|n,tekah,ungka|n
-猿类	mawa
-稿	makalah|n,manuskrip|n,maskhah,naskhah|n
-簿	album,buku rampaian,daftar alamat,diari|n,jadual kedatangan,menghiris
-簿地	menghiris
-簿地切	menghiris
+猿	berukera
+稿子	aksara|n
+簿	daftar alamat
 簿簿	menghiris
 簿簿地	menghiris
 簿簿地切	menghiris
-线	baris|n,benang|n,garis|n,kulindam,lembar,utas,aerial,antena
+线	baris|n,garis|n,utas,susuk|n,benang|n,lembar,kulindam,gegelung|n
 线图	susuk|n
 线圈	gegelung|n
-线或	dawai
-线或丝	dawai
-线条	bergaris,corek
-线状	kordit|n
-线状火	kordit|n
-线状火药	kordit|n
-线生	operetor
-线电	nirwayar|adj,radio|n,wayarles|adj
-线的	inframerah|n,nirwayar|adj,ultraungu|n,wayarles|adj
 线管	gelindung
 线纹	gores
-线织	mastuli
-线织物	mastuli
-线轴	peleting,torak
-肿	ampul,boncol,jujul,sembam,sembap,abses|n,abuh|adj,bakup
-肿块	bonjol,jendol,bintang kartika,bintang tujuh
+线缆	talian|n
+线轴	torak,peleting
+耿直	jujur|adj
+耿耿	cerlang|adj
+肿	sembam,sembap,ampul,boncol,jujul,bisul|n,lambung,puru
+肿块	jendol,bonjol
 肿大	bengkak|adj,tembam
 肿大的	bengkak|adj,tembam
 肿物	bisul|n
 肿疮	puru,tokak
-肿病	basal
-肿症	busung air
-肿的	rejeh,tonjol
-肿胀	abuh|adj,bakup,bengkil,lambung,sembab
+肿胀	lambung,bakup,bengkil,sembab
 肿胀的	sembab
 蜿	beliku,kelang-kelok
 蜿蜒	beliku
 蜿蜓	kelang-kelok
-访	berkunjung,bertamu,jelang,kunjung|v,kunjungan,lanja,lawat,memantau|v
+访	pantau|v,memantau|v,lanja,mendonan,lawat,pelawat,kunjungan,wawancara
 访客	pelawat
 访者	mendonan
-访谈	temubual|n,temuramah
-访问	berkunjung,kunjungan,lanja,lawat,memantau|v,menziarahi,pantau|v,temuramah
-贿	menyogok,rasuah|n,sogok,tumbuk rusuk
-贿赂	rasuah|n,sogok
-锿	einsteinium|n
-阿	ainu,akan,albania,alhamdulilah,alias,aljazair,arab|adj,arab saudi
+访谈	temuramah,temubual|n
+访问	pantau|v,memantau|v,lanja,lawat,kunjungan,wawancara,berkunjung,menziarahi
+贿	rasuah|n
+贿赂	rasuah|n
+锿锿	einsteinium|n
+锿锿E	einsteinium|n
+锿锿Es	einsteinium|n
+阿	tante|n,mak cik|n,emak saudara|n,oman
 阿亚	ayatollah|n
 阿亚图	ayatollah|n
 阿亚图拉	ayatollah|n
-阿伊	ainu
-阿伊努	ainu
-阿伊努人	ainu
-阿历	zulkarnain
-阿历山	zulkarnain
-阿历山大	zulkarnain
-阿历山大大	zulkarnain
+阿公	aki|n
 阿历山大大帝	zulkarnain
 阿司	aspirin
 阿司匹	aspirin
 阿司匹灵	aspirin
 阿坎	akan
 阿坎人	akan
+阿堵	duit|n
+阿堵物	duit|n
 阿塞	azerbaijan
 阿塞拜	azerbaijan
 阿塞拜疆	azerbaijan
-阿姨	emak saudara|n,mak cik|n,tante|n
-阿尔	albania,aljazair
-阿尔及	aljazair
-阿尔及利	aljazair
+阿妈	bu|n,jururawat|n
+阿姨	tante|n,mak cik|n,emak saudara|n
 阿尔及利亚	aljazair
-阿尔巴	albania
-阿尔巴尼	albania
 阿尔巴尼亚	albania
-阿拉	alhamdulilah,alias,arab|adj,arab saudi,gambus|n,gorab,samum,sayid
-阿拉伯	alias,arab|adj,arab saudi,gambus|n,gorab,samum,sayid
-阿拉伯人	arab|adj,sayid
-阿拉伯六	gambus|n
-阿拉伯六弦	gambus|n
-阿拉伯六弦琵	gambus|n
+阿拉	arab|adj
+阿拉伯	arab|adj
+阿拉伯人	arab|adj
 阿拉伯六弦琵琶	gambus|n
-阿拉伯地	samum
-阿拉伯地区	samum
-阿拉伯地区的	samum
-阿拉伯地区的热	samum
 阿拉伯地区的热风	samum
-阿拉伯字	alias
-阿拉伯字母	alias
-阿拉伯字母的	alias
-阿拉伯字母的第	alias
-阿拉伯字母的第一	alias
-阿拉伯字母的第一个	alias
-阿拉伯字母的第一个字	alias
-阿拉伯舟	gorab
 阿拉伯舟名	gorab
 阿曼	oman
-阿月	kacang cerdik|n,pistacio|n,pistasio|n
-阿月浑	kacang cerdik|n,pistacio|n,pistasio|n
-阿月浑子	kacang cerdik|n,pistacio|n,pistasio|n
-阿月浑子树	kacang cerdik|n,pistacio|n,pistasio|n
+阿月浑子树	pistacio|n,pistasio|n,kacang cerdik|n
 阿林	olimpik
 阿林匹	olimpik
 阿林匹克	olimpik
+阿爸	baba|n
+阿爹	baba|n,aki|n
+阿物儿	benda|n
+阿猫阿狗	siapa-siapa|pron
+阿谁	siapa|pron
+阿飘	mambang|n
+阿！	ahai
+阿！呵	ahai
+阿！呵！	ahai
 鸿	lurah
 鸿沟	lurah

@@ -1,11 +1,11 @@
 cobakcabik	cobak-cabik		破烂的褴褛的
 cobarcabir	cobar-cabir		破烂的，褴褛的
 cobek	cobek		研磨辣椒的陶盘
-cocok	cocok	v	合适，符合，相称
+cocok	cocok	v	合适，符合，相称	alternative form of cucuk
 cocokkan	cocokkan		比较，核对，适应
 cogan	cogan	n	旗帜，标帜	ensign  signum  standard
 cogankata	cogan kata	n	标语，口号	slogan
-cokelat	cokelat	n	两者择一
+cokelat	cokelat	n	两者择一	alternative form of coklat (“chocolate”)
 cokin	cokin		浴巾
 coklat	coklat	n	巧克力 巧克力制的	chocolate
 cokmar	cokmar	n	棍棒，御杖	mace:

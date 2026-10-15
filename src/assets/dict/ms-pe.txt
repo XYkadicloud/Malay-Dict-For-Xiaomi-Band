@@ -40,7 +40,7 @@ peguam	peguam	n	律师  律师	A lawyer.
 peguamnegara	peguam negara	n	首席检察官	attorney general.
 pegun	pegun		呆立不动，呆视，沉
 peha	peha	n	两者择一	alternative spelling of paha(Jawi spelling ڤاه)
-pehal	pehal	adv	两者择一
+pehal	pehal	adv	两者择一	alternative form of apa hal
 pejabat	pejabat	n	办公室	office
 pejabatpos	pejabat pos	n	邮局  邮局	post office
 pejal	pejal	adj	坚硬的	Hard and lacking holes or hollows; solid.
@@ -83,7 +83,7 @@ pelak	pelak		发烧，发热 错的，错误的
 pelakon	pelakon	n	演员	actor; actress
 pelaksanaan	pelaksanaan		履行，实践
 pelam	pelam	n	芒果  芒果Mangifera ind	mango
-pelambam	pelambam	n	铅
+pelambam	pelambam	n	铅	obsolete form of plumbum
 pelampau	pelampau	n	极端分子	extremist
 pelan	pelan	n	设计图，平面图	plan (a drawing showing technical details of a building  machine  etc.)
 pelana	pelana	n	马鞍	saddle
@@ -107,7 +107,7 @@ pelastik	pelastik		塑胶
 pelasuh	pelasuh		懒人，骗子，坏蛋
 pelat	pelat	n		the inability to speak correctly
 pelatih	pelatih	n	教练，受训者	trainer; coach
-pelatinam	pelatinam	n	荒废的
+pelatinam	pelatinam	n	荒废的	obsolete form of platinum
 pelatuk	pelatuk	n	啄木鸟	woodpecker
 pelaut	pelaut	n	船员	A seafarer or sailor.
 pelawa	pelawa		邀请
@@ -135,7 +135,7 @@ peleting	peleting		线轴，梭
 pelias	pelias		铁身术，金刚不坏术，刀枪不入
 pelih	pelih		肝脏
 pelihara	pelihara	v	饲养，抚育，照顾，教化	to rear; to keep; to breed (to care for and raise animals or pets).
-pelihatan	pelihatan	n	两者择一
+pelihatan	pelihatan	n	两者择一	alternative form of penglihatan
 pelik	pelik	adj	稀奇的，奇妙的，罕有的，奇难的	strange (not normal)
 pelikbinajaib	pelik bin ajaib	adj	使烂醉	befuddling  confounding  absurdly odd
 pelikuk	pelikuk		弄歪的，扭曲的，扭歪的
@@ -285,7 +285,7 @@ pemotong	pemotong	n	裁剪者	cutter (a person or device that cuts)
 pempengaruh	pempengaruh	n	影响者	An influencer.
 pempetisyen	pempetisyen	n	请愿人	petitioner
 pemprosesmikro	pemproses mikro	n	微处理器  微处理器	microprocessor
-pempuan	pempuan	n	两者择一
+pempuan	pempuan	n	两者择一	alternative form of perempuan.
 pemuda	pemuda		青年
 pemudapemudi	pemuda-pemudi		青年男女
 pemudi	pemudi		女青年
@@ -398,7 +398,7 @@ pengacara	pengacara	n	主人	master of ceremonies
 pengacau	pengacau		捣乱者
 pengadil	pengadil		法官，裁判员
 pengagresif	pengagresif	n	侵略者	aggressor
-pengajar	pengajar	n	教师
+pengajar	pengajar	n	教师	Synonym of guru (“teacher”)
 pengajaran	pengajaran		教训
 pengajian	pengajian	n	详述	recitation of Qur'an.
 pengajianmelayu	pengajian melayu		马来文研究
@@ -565,7 +565,7 @@ penolong	penolong	n	助手	aide  assistant
 penonton	penonton	n	观众	viewer  audience
 penontonan	penontonan	n	行动	the act of viewing or watching something (performances etc.)  a spectacle
 pensel	pensel	n	铅笔	pencil
-penshen	penshen	adj	荒废的
+penshen	penshen	adj	荒废的	obsolete form of pencen
 pensintesis	pensintesis	n	合成器	synthesiser; synth
 penswastaan	penswastaan	n	私有化	privatization (transfer of a company from government to private ownership)
 pensyarah	pensyarah	n	讲师	lecturer
@@ -641,7 +641,7 @@ penyu	penyu	n	海龟	sea turtle (any turtle that inhabits oceans)
 penyunting	penyunting		编者
 penyusun	penyusun		编辑者
 penyusunkamus	penyusun kamus	n	辞典编纂者	lexicographer (someone who writes or compiles a dictionary)
-pepagi	pepagi	adv	两者择一
+pepagi	pepagi	adv	两者择一	alternative form of pagi-pagi.
 pepah	pepah		以棍击之，以竿击之
 pepai	pepai		小虾
 peparu	peparu		肺，腮
@@ -715,7 +715,7 @@ perata	perata	n	油酥点心	pastry
 peraturan	peraturan	n	规则	the rules
 peratus	peratus	cls	百分比	percent
 peratusan	peratusan	n	百分比	percentage
-perau	perau	n	两者择一
+perau	perau	n	两者择一	alternative form of perahu
 perawan	perawan		少女，处女
 perawas	perawas		蛇目木
 perawis	perawis		成分，原料，要素
@@ -855,7 +855,7 @@ perkelang	perkelang		司令官及部长等之称号
 perkembangan	perkembangan		发展
 perkhidmatan	perkhidmatan	n	服务	service; duty; assistance; employment.
 perkosa	perkosa		摧残，强暴	to rape (to force sexual intercourse or other penetrative…
-perkotakan	perkotakan	v	消极的
+perkotakan	perkotakan	v	消极的	First-person and second-person passive of memperkotakan.
 perkuburan	perkuburan	n	坟场	cemetery
 perlahan	perlahan	adj	慢慢地，徐徐的，逐渐的	slow (moving  happening  or doing something without much speed).
 perlahanjalan	perlahan jalan	n	慢的	slow march
@@ -988,7 +988,7 @@ pesa	pesa		卷袖
 pesai	pesai		粉碎，崩溃，散乱，班剥
 pesak	pesak		裆，衽，衣襟
 pesakit	pesakit		专有 病人	patient: a person or animal who receives treatment from a…
-pesal	pesal	adv	两者择一
+pesal	pesal	adv	两者择一	alternative form of apa pasal
 pesan	pesan		命令，吩咐，订购	message; instruction; advice (information  a directive  o…
 pesanan	pesanan	n	定货，定单，使命，指令	message
 pesanggerahan	pesanggerahan	n	办公室	office  resthouse or residence for government use
@@ -1046,9 +1046,9 @@ petisyen	petisyen	n	请愿	petition
 petola	petola	n	上等绢	dishcloth gourd (Luffa acutangula)
 petrol	petrol	n	汽油 中文 汽油 環境 內燃機的燃料，主要由揮發性易燃的液態烴類組成；由原…	petrol; gasoline
 petroliam	petroliam	n	石油  石油	petroleum
-petronas	petronas		abbr.；The
+petronas	petronas		abbr.；The	acronym of Petroliam Nasional Berhad (“National Petroleum Company”)
 petua	petua	n	忠告，谏言，格言，指南	tip; advice
 petualang	petualang		流浪者
 petunjuk	petunjuk		指示
 pewarisan	pewarisan	n	继承法	inheritance; the act of inheriting something
-peygang	peygang	v	两者择一
+peygang	peygang	v	两者择一	alternative form of pegang

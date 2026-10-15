@@ -1,9 +1,10 @@
-做	berbuat|v,buat|v,membikin,mengangkat sembah|v,pulun|v,watpa|adv,abun-abun|n,angan-angan|n
+Z拔	cabut keris
+Z拔剑	cabut keris
+做	buat|v,pulun|v,watpa|adv,berbuat|v,mengangkat sembah|v,membikin,impi|v,memasak|v
+做不到	mustahil|adj
 做人	bawa diri
 做什	buat apa
 做什么	buat apa
-做奴	pengabdian|n
-做奴隶	pengabdian|n
 做媒	tunangkan
 做完	beres
 做就	lakukan|v
@@ -16,189 +17,105 @@
 做得	syabas
 做得不	syabas
 做得不错	syabas
-做成	onde-onde
-做样	loklek
-做梦	bermimpi|v,impi|v,mengimpi
-做生	berniaga|n,buka kedai,meniaga,niaga|n
-做生意	berniaga|n,buka kedai,meniaga,niaga|n
-做白	abun-abun|n,angan-angan|n
-做白日	abun-abun|n,angan-angan|n
-做白日梦	abun-abun|n,angan-angan|n
-做粗	buruh kasar
-做粗活	buruh kasar
-做粗活的	buruh kasar
+做手	katib|n
+做梦	impi|v,bermimpi|v,mengimpi
+做法	resipi|n
+做生	niaga|n,berniaga|n,buka kedai,meniaga
+做生意	niaga|n,berniaga|n,buka kedai,meniaga
 做粗活的人	buruh kasar
 做饭	memasak|v
-僚	birokrasi|n,birokratik|adj,sejawat
-僚化	birokratik|adj
-僚化的	birokratik|adj
-僚政	birokrasi|n
-僚政治	birokrasi|n
-僚的	birokratik|adj
-党	parti|n,banji|n,golongan kecil,kongsi|n,parti politik|n,regu,sosial demokrat|n
-党党	sosial demokrat|n
-党党员	sosial demokrat|n
-党员	sosial demokrat|n
-党所	banji|n
-党所用	banji|n
-党所用的	banji|n
-党所用的十	banji|n
-党所用的十字	banji|n
-党所用的十字记	banji|n
-党所用的十字记号	banji|n
+党	parti|n,regu
 党派	regu
-党组	kongsi|n
-党组织	kongsi|n
-博	arif,judi|n,kaki judi|n,kedoktoran|n,muzium|n,palatau|n,perjudian,tanglung labu|n
-博士	kedoktoran|n,tanglung labu|n
+博士	kedoktoran|n
 博士头	kedoktoran|n
 博士头衔	kedoktoran|n
-博学	arif,palatau|n
-博学的	arif,palatau|n
-博学的人	palatau|n
+博大	raksasa|adj,babur|n
+博学	arif
+博学的	arif
 博物	muzium|n
 博物馆	muzium|n
-博者	kaki judi|n
-囚	mengongkong,mengurung,orang salah,pasung
+囚	pasung,mengongkong,mengurung,orang salah
 囚徒	orang salah
-囚禁	mengongkong,mengurung,pasung
-坚	bangka,begar,berdegil|v,bulat hati,cacak,cancang,cegat,cekal
-坚之	kerikil
-坚之物	kerikil
+囚犯	banduan|n
+囚禁	pasung,mengongkong,mengurung
+坚	kacang|n,larat|v,berdegil|v,kaku,mampat,begar,cegat,nyatuh
 坚信	tetap hati
 坚信的	tetap hati
-坚决	ketabahan,nekat,bulat hati,kenekatan,nekad,pantung
+坚决	nekat,ketabahan,nekad,bulat hati,pantung,kenekatan
 坚决性	kenekatan
-坚决的	bulat hati,nekad,pantung
-坚固	mampat,kukuh|adj,padau,pagan,tegap,tembatu
-坚固之	padau
-坚固之帆	padau
+坚决的	nekad,bulat hati,pantung
+坚固	kukuh|adj,mampat,pagan,tegap,tembatu
 坚固的	kukuh|adj,pagan,tegap,tembatu
-坚实	kabal,kimpal|adj
-坚实的	kabal,kimpal|adj
-坚强	cekal,menegapkan,pagan,tegap
-坚强的	cekal,pagan,tegap
-坚持	berdegil|v,larat|v
+坚定	tetap|adj
+坚实	kimpal|adj,kabal
+坚实的	kimpal|adj,kabal
+坚强	pagan,cekal,tegap
+坚强的	pagan,cekal,tegap
+坚持	larat|v,berdegil|v
 坚木	nyatuh
 坚果	kacang|n
 坚的	kaku
 坚直	cancang
-坚硬	begar,bangka,lokoh,makar,mangar,mengeraskan,pejal|adj,sali
-坚硬的	bangka,lokoh,makar,mangar,pejal|adj,sali,tembatu
-坚立	cancang,cegat,mencacak,tercegat,cacak,mencacakkan
+坚硬	pejal|adj,begar,makar,sali,lokoh,mangar,tembatu,bangka
+坚硬的	pejal|adj,makar,sali,lokoh,mangar,tembatu,bangka
+坚立	cegat,tercegat,cancang,mencacak,cacak
 坚立的	cacak
-坚韧	kenjal,liat|adj
-坚韧的	kenjal,liat|adj
-婚	acaram bertunang,agsa,akad nikah,anak dara,andartu|n,bakal isteri,beristeri,berkahwin
-婚之	agsa
-婚之青	agsa
-婚之青年	agsa
+坚韧	liat|adj,kenjal
+坚韧的	liat|adj,kenjal
+婚	perkahwinan|n,nikah|v,khutbah nikah,akad nikah
 婚事	khutbah nikah
-婚人	kadi
-婚仪	khutbah nikah
-婚仪式	khutbah nikah
-婚夫	tunangan
-婚女	andartu|n
-婚女人	andartu|n
-婚妇	orang rumah|n
-婚妇女	orang rumah|n
-婚妻	bakal isteri,tunangan
-婚姻	perkahwinan|n,mas kahwin|n
-婚姻授	mas kahwin|n
-婚姻授产	mas kahwin|n
-婚姻授产协	mas kahwin|n
+婚典	perkahwinan|n
+婚姻	perkahwinan|n
 婚姻授产协定	mas kahwin|n
-婚少	anak dara
-婚少女	anak dara
-婚戒	acaram bertunang,cincin tanda
-婚戒指	acaram bertunang,cincin tanda
-婚男	bujang|n,jejaka,lajang
-婚男人	lajang
-婚男女	bujang|n
-婚男青	jejaka
-婚男青年	jejaka
-婚的	peterana
-婚的座	peterana
-婚的座位	peterana
-婚礼	khutbah nikah,sadang,sading
-婚礼塌	sadang,sading
-婚礼塌的	sadang,sading
-婚礼塌的屏	sadang,sading
-婚礼塌的屏幕	sadang,sading
-婚约	akad nikah,berpinang,pasah
-婚约的	berpinang
-婚而	tiri|adj
-婚而构	tiri|adj
-婚而构成	tiri|adj
-婚而构成的	tiri|adj
-婚而构成的亲	tiri|adj
-婚而构成的亲缘	tiri|adj
-婚而构成的亲缘关	tiri|adj
-婚而构成的亲缘关系	tiri|adj
+婚礼	khutbah nikah
+婚约	akad nikah
 婚配	nikah|v
-惚	inga|v,malan,teringa-inga
-晚	lewat|adj,aktumalam,isyak|n,kunut,makan malam|n,malam|n,moreh|n,selamat malam|int
+晚	lewat|adj,moreh|n,usia lanjut|n,makan malam|n
 晚上	malam|n,selamat malam|int,sobok
 晚上偷	sobok
 晚上偷盗	sobok
 晚上好	selamat malam|int
 晚年	usia lanjut|n
-晚的	kunut
-晚的祈	kunut
-晚的祈祷	kunut
-晚餐	makan malam|n,moreh|n
-柚	limau abung|n,limau bali|n
-柚子	limau abung|n,limau bali|n
-棚	para-para,pondok|n,sapau
+晚近	baru|adj
+晚间	malam|n
+晚餐	moreh|n,makan malam|n
+柚	limau bali|n,limau abung|n
+柚子	limau bali|n,limau abung|n
+棚	para-para
 棚架	para-para
-楚	bengap|adj,berjelas-jelas|v,jelas|adj,kabut|n,kenyaringan|n,menjelaskan|v,nyata|adj,sejelas-jelasnya|adv
-楚地	sejelas-jelasnya|adv
-楚楚	simbai
-楚楚的	simbai
-楚的	berjelas-jelas|v,nyata|adj,simbai
-滚	menggelek,berendam|v,bergolek,berguling,bergulung-gulung,berhambus,celur,enyah
+棚顶	atap|n,siling|n
+楚楚	indah|adj,kemas|adj
+滚	menggelek,keluar|v,gulat,gelek,meruap,pelesat,ruap,enyah
 滚出	meruap
-滚动	bergolek,gelek,golek,gulat,pelesat,menggulungkan
-滚去	guling-gantang
-滚开	berhambus,enyah,hincit,keluar|v
+滚动	gulat,gelek,pelesat,golek,bergolek
+滚开	keluar|v,enyah,hincit,berhambus
 滚来	guling-gantang
 滚来滚	guling-gantang
 滚来滚去	guling-gantang
-滚水	celur
-滚水中	celur
 滚沸	ruap
-滚的	kubang|n
-滚的地	kubang|n
-滚的地方	kubang|n
 滚起	meruap
 滚转	berguling
-瑚	agas-agas|n,batu karang|n,dedap|n,karang|n,terumbu karang|n
-瑚树	dedap|n
-瑚礁	terumbu karang|n
-瑚部	agas-agas|n
-畚	pongkes,pungki
-畚箕	pongkes,pungki
-筚	kemungkas
+畚	pungki,pongkes
+畚箕	pungki,pongkes
 筚橙	kemungkas
 筚橙椒	kemungkas
-罚	denda|n,hukuman,kena denda,kiamat,lantin,mendera,menghukum,penyaliban|n
-罚款	denda|n,lantin,kena denda
+罚	denda|n,lantin
+罚款	denda|n,lantin
 罚金	denda|n
-聚	berkerumun,berpumpun,himpun|v,kerubung,kumpul,majlis|n,perjumpaan sosial|n,petrol|n
-聚会	majlis|n,perjumpaan sosial|n
-聚合	berpumpun,petrol|n,pumpun,polistirena|n
+聚	majlis|n,himpun|v,kumpul,pumpun,berpumpun,kerubung,berkerumun
+聚会	majlis|n
+聚合	pumpun,berpumpun,polistirena|n
 聚合物	polistirena|n
 聚酯	poliester|n
-聚集	berkerumun,himpun|v,kerubung,kumpul
-胚	lakar|v
-胚型	lakar|v
-荚	jering,urut|v
-荚树	jering
-虚	cangkuk|n,cangkukan,hampa|adj,kahang,karut,kelemahan|n,khayal|adj,lah|part
-虚伪	pura-pura,cangkuk|n,cangkukan,karut
-虚伪的	cangkuk|n,cangkukan,karut
+聚酯聚	poliester|n
+聚酯聚酯	poliester|n
+聚集	himpun|v,kumpul,kerubung,berkerumun
+虚	khayal|adj,kelemahan|n,rapuh|adj,lah|part,pura-pura
+虚伪	cangkuk|n,pura-pura,karut,cangkukan
+虚伪的	cangkuk|n,karut,cangkukan
+虚假	palsu|adj
 虚字	lah|part
-虚弱	kelemahan|n,rapuh|adj,pentar|adj
+虚弱	kelemahan|n,pentar|adj,rapuh|adj
 虚弱的	pentar|adj
 虚拟	realiti maya|n
 虚拟现	realiti maya|n
@@ -206,26 +123,21 @@
 虚无	kahang,lompong
 虚无的	kahang,lompong
 虚构	khayal|adj
-虚的	hampa|adj,lompong
+虚构小说	fiksyen|n
+虚空	sunyi|adj
+虚谎	palsu|adj
 虚饰	pura-pura
-诚	abrar|adj,ajak-ajak ayam|adj,ikhlas|adj,jujur|adj,keikhlasan|n,kejujuran,muhsin,mukmin
-诚实	jujur|adj,keikhlasan|n,ajak-ajak ayam|adj,ikhlas|adj,muhsin,setia|adj
-诚实的	ikhlas|adj,muhsin,setia|adj,ajak-ajak ayam|adj
+诚	jujur|adj,tulus|adj,keikhlasan|n
+诚信	jujur|adj,integriti|n
+诚实	jujur|adj,keikhlasan|n,setia|adj,ikhlas|adj,muhsin
+诚实的	setia|adj,ikhlas|adj,muhsin
 诚心	ikhlas|adj
 诚心的	ikhlas|adj
 诚恳	tulus|adj,ikhlas|adj
 诚恳的	ikhlas|adj
-诚的	abrar|adj,mukmin,mustakim,salih,tunak,warak|adj,zakiah
-诚者	setiawan
-豚	ardvark|n,buntal|n,dolfin|n,duyung|n,lumba-lumba|n
-赚	untung|n,beruntung,untung nasib
+诚笃	jujur|adj
+赚	untung|n,beruntung
 赚大	untung nasib
 赚大钱	untung nasib
+赚头	laba|n
 赚钱	beruntung
-跚	gayang,huyung,kedek-kedek,lilau,royong,terhuyung-huyung|adj
-跚的	huyung,terhuyung-huyung|adj
-跚而	kedek-kedek,lilau
-跚而行	kedek-kedek
-跚而走	lilau
-酚	parasetamol|n
-魚	abalone|n

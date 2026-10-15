@@ -1,6 +1,6 @@
 isa	isa		耶稣	The prophet Jesus.
 isak	isak		isak 哽咽，抽噎，呜咽
-isang	isang	n	两者择一
+isang	isang	n	两者择一	alternative form of insang
 isap	isap		吸，抽烟，吸收
 isekai	isekai	n	两者择一	alternative world
 ishak	ishak		艾萨克	Isaac.
@@ -16,7 +16,7 @@ iskandariah	iskandariah		亚历山大港	Alexandria (a city in Egypt)
 islam	islam		伊斯兰教	Islam
 islambaka	islam baka	n	伊斯兰教	Muslim by birth
 islamkan	islamkan	v	皈依者	To convert someone to Islam.
-ismael	ismael		两者择一
+ismael	ismael		两者择一	alternative form of Ismail
 ismail	ismail		以实玛利	Ishmael.
 isme	isme	n	主义	An ism.
 isnin	isnin		星期一	Monday (day of the week)

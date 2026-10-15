@@ -105,7 +105,7 @@ telempap	telempap		一掌之阔，掌尺
 teleng	teleng		倾耳 ，倾斜
 telentang	telentang		仰卧，朝天
 telepa	telepa		小盒
-telepon	telepon	n	两者择一
+telepon	telepon	n	两者择一	alternative form of telefon
 teleprinter	teleprinter		电传打字电报机	n a character printer connected to a telegraph that opera…
 telepuk	telepuk		印金布，印花的棉布
 telerang	telerang	n	省略	ellipsis of batu telerang (“quartz”)
@@ -117,7 +117,7 @@ telinga	telinga	n	耳朵	ear  organ of hearing.			kuping
 telingalintah	telinga lintah		好听闲话的
 telingkah	telingkah		行为，举止，品行
 teliti	teliti		注意，小心	careful; thorough; meticulous; detailed; precise (showing…
-telu	telu	num	同义词
+telu	telu	num	同义词	synonym of tiga (“three”)
 telubelas	telu belas	num	十三	thirteen
 teluk	teluk	n	湾，港	bay  bend (of a river)  gulf of sea
 telukintan	teluk intan		怡保	Ipoh (a town in Perak  Malaysia)
@@ -186,7 +186,7 @@ tempatjinbuanganak	tempat jin buang anak	n	中央	middle of nowhere; remote and 
 tempatkerja	tempat kerja		工作地点
 tempayan	tempayan	n	大的	large  wide-mouthed earthenware or stoneware jar
 tempe	tempe	n	印尼豆豉	tempeh
-tempeh	tempeh	n	n. [食](用酒霉菌使之发酵后食用的)印尼豆豉
+tempeh	tempeh	n	n. [食](用酒霉菌使之发酵后食用的)印尼豆豉	nonstandard spelling of tempe
 tempel	tempel		粘住，补贴
 tempelak	tempelak		挖苦，侮辱，凌辱
 tempeleng	tempeleng	v	掌击，吃耳光	to slap on the face
@@ -205,9 +205,7 @@ tempuras	tempuras		四散，四散而逃
 tempurung	tempurung	n	半只椰壳	concave body of something
 temu	temu	v	相会，相遇，会见，接合	to meet  to encounter
 temubual	temu bual	n	面谈	interview
-temubual	temubual		访谈
 temuduga	temu duga	n	面谈	interview (job)
-temuduga	temuduga		面谈，面试
 temukan	temukan		连接，和解
 temukut	temukut		米碎，米屑
 temuramah	temuramah		访问，访谈
@@ -225,10 +223,9 @@ tendanganpercuma	tendangan percuma	n	任意球	free kick
 tengadah	tengadah	v	向上，朝上望	to look up  to look upward
 tengah	tengah	n	中间	progressive aspect marker  indicating an ongoing or incomplete action
 tengahhari	tengah hari	n	中午	noon (midday)
-tengahhari	tengah-hari		中午，正午
 tengahjalan	tengah jalan		途中，马路中间
 tengar	tengar	n	靴上装有踢马刺的	spurred mangrove  Ceriops tagal
-tengari	tengari	n	两者择一
+tengari	tengari	n	两者择一	alternative form of tengah hari
 tenggala	tenggala	n	犁	plough
 tenggalakan	tenggalakan		耕田，犁田
 tenggang	tenggang		定期，固定期限
@@ -265,7 +262,7 @@ tentang	tentang	prep	关于	about; regarding; concerning (on the subject of).
 tentanghalitu	tentang hal itu		关于，该事
 tentangmana	tentang mana		向何方
 tentera	tentera	n	军人	army.
-tenterabawang	tentera bawang	n	同义词
+tenterabawang	tentera bawang	n	同义词	synonym of geng bawang (online commenters who gossip); a group of Malaysian nationalist cyberwarriors who organise themselves
 tenteradarat	tentera darat		陆军
 tenteralaut	tentera laut	n	海军	navy
 tenteram	tenteram	adj	和平的，安宁的，静宁的	peaceful; calm; serene; tranquil (free from disturbance  conflict  or turmoil).
@@ -298,7 +295,7 @@ tepung	tepung	n	面粉	flour (ground cereal grains)
 tepungberas	tepung beras		米制成的粉
 tepungberserbukpenaik	tepung berserbuk penaik	n	<英>自发面粉	self-raising flour
 tepunggandum	tepung gandum		麦粉
-tepungnaiksendiri	tepung naik sendiri	n	同义词
+tepungnaiksendiri	tepung naik sendiri	n	同义词	Synonym of tepung berserbuk penaik (“self-raising flour”)
 tepungpenaik	tepung penaik	n	省略	Ellipsis of tepung berserbuk penaik (“self-raising flour”)
 tepungsari	tepung sari		花粉
 tepus	tepus	n	野生姜	Javanese alpinia; Alpinia javanica
@@ -314,7 +311,6 @@ teran	teran		挣扎，挣脱
 terancam	terancam		受威吓
 terang	terang	adj	明亮	bright; light (filled with light; not dark).		gelap
 terangbenderang	terang benderang		光亮
-terangbenderang	terang-benderang		明亮的，光明的
 teranghati	terang hati		聪明的
 terangkum	terangkum	adj	包含的	inclusive
 terap	terap		大树名，捏
@@ -339,11 +335,11 @@ terbanyak	terbanyak		最多的
 terbaring	terbaring		躺着
 terbatas	terbatas	adj	有限的	limited
 terbayang	terbayang	v	出现	Momentane of bayangkan.
-terbayangbayang	terbayang-bayang	v	两者择一
+terbayangbayang	terbayang-bayang	v	两者择一	alternative form of terbayang
 terbelahak	terbelahak		咳嗽
 terbeliak	terbeliak		睁得大大的
 terbenam	terbenam		沉落
-terbentang	terbentang	v	展现
+terbentang	terbentang	v	展现	to be spread out; to be laid out; to be unfolded.; to extend; to stretch.
 terbesar	terbesar		最大的
 terbiar	terbiar		被放弃，被荒废
 terbit	terbit	v	发芽，发出，露出，出版	to rise  to emerge  to appear
@@ -354,7 +350,7 @@ terbuang	terbuang		放逐，流放
 terbul	terbul		河鲤
 terburuburu	terburu-buru		匆匆忙忙
 tercangakcangak	tercangak-cangak		东张西望
-tercatuk	tercatuk	v	消极的
+tercatuk	tercatuk	v	消极的	passive of catuk (“to peck  to tap”); be pecked or be tapped (literall; to be perched (of a bird  small animal  or object resting lightly on a
 tercegat	tercegat		直立，坚立
 tercekik	tercekik		被扼死
 tercicir	tercicir		滴漏
@@ -406,8 +402,8 @@ terimbuh	terimbuh	n	增音的	augmented
 terincutincut	terincut-incut		跛行
 tering	tering		肺结核，肺痨
 teringainga	teringa-inga		茫然，恍惚
-teringat	teringat	v	想起
-terinspirasi	terinspirasi	v	得到灵感的
+teringat	teringat	v	想起	participle of ingat (“to recall  to remember  to be reminded of”)
+terinspirasi	terinspirasi	v	得到灵感的	To be inspired.
 teripang	teripang	n	海参	sea cucumber
 terisakisak	terisak-isak		抽抽噎噎地哭泣
 teristimewa	teristimewa		独特的
@@ -417,7 +413,7 @@ terjadi	terjadi		发生
 terjaga	terjaga		惊醒
 terjajah	terjajah	v	开拓殖民地	colonised; perfective passive of jajah (“to explore; to annex; to colonise”)
 terjamin	terjamin		受到保证，保障
-terjawab	terjawab	v	能干的
+terjawab	terjawab	v	能干的	To be able to be answered.
 terjemah	terjemah	v	译者	to translate
 terjemahan	terjemahan	n	译文，译本	translation
 terjemahanmesin	terjemahan mesin	n	机器翻译	machine translation
@@ -436,9 +432,9 @@ terkaman	terkaman		猛冲
 terkandas	terkandas		搁浅
 terkandung	terkandung		包括
 terkantuk	terkantuk	v	突然	to suddenly be sleepy
-terkata	terkata	v	能干的
-terkatakan	terkatakan	v	能干的
-terkatakata	terkata-kata	v	能干的
+terkata	terkata	v	能干的	To be able to speak or say.; To be able to be described.
+terkatakan	terkatakan	v	能干的	To be able to be described; describable.
+terkatakata	terkata-kata	v	能干的	To be able to speak or say.
 terkatungkatung	terkatung-katung		漂流
 terkebilkebil	terkebil-kebil		眨眼睛
 terkecuali	terkecuali		例外的
@@ -464,7 +460,7 @@ terlanjur	terlanjur		超过限度
 terlantar	terlantar		搁置
 terlarang	terlarang	adj	禁止	Prohibited  banned or forbidden.
 terlena	terlena		不知不觉入睡
-terlepas	terlepas	v	已发布
+terlepas	terlepas	v	已发布	to be released; to be set free.; to miss (an opportunity  chance  or target).; to escape.
 terleset	terleset		滑脱
 terletak	terletak	v	被放在；位于	located  situated
 terlibat	terlibat		被牵连
@@ -496,11 +492,11 @@ terowongan	terowongan		隧道
 terpa	terpa	v	向前跃，扑取，猛扑	to rush towards (to run quickly towards someone  often to embrace or greet).
 terpacupacu	terpacu-pacu		快步地，飞一般地
 terpaksa	terpaksa		被强迫
-terpaku	terpaku	v	用钉钉牢的
+terpaku	terpaku	v	用钉钉牢的	to be nailed (already fastened or secured with a nail).; to be transfixed; to be frozen; to be stunned (unable to move  speak 
 terpal	terpal		帆布
-terpantau	terpantau	v	能干的
+terpantau	terpantau	v	能干的	to be able to monitor; to be monitored
 terpegun	terpegun		呆立不动，呆视，沉
-terpekak	terpekak	v	使聋
+terpekak	terpekak	v	使聋	to be deafened (become deaf)
 terpelajar	terpelajar		受过教育的
 terpelanting	terpelanting		摔倒
 terpelosot	terpelosot		下跌，滑落
@@ -519,8 +515,8 @@ terpingapinga	terpinga-pinga		愕然
 terpingkau	terpingkau		惊叫，尖声喊叫
 terpukau	terpukau		昏迷，着迷，上当，中计
 terpuruk	terpuruk		沉落，陷入
-tersabar	tersabar	v	能干的
-tersaji	tersaji	v	招待
+tersabar	tersabar	v	能干的	to be able to be patient
+tersaji	tersaji	v	招待	to be served (of food)
 tersampuk	tersampuk		蹶，绊倒
 tersandung	tersandung	v	被绊倒	tripped on something (stone  rock  cable  etc.)
 tersangkut	tersangkut		被牵连
@@ -533,7 +529,7 @@ tersedar	tersedar		由…苏醒过来
 tersekat	tersekat		被阻挡
 terseliuh	terseliuh		扭伤
 tersembam	tersembam		扑倒
-tersentak	tersentak	v	震惊				terkejut,terpinga-pinga	tenang,bersahaja
+tersentak	tersentak	v	震惊	to be startled; to be taken aback; to flinch suddenly.; to jerk or move suddenly due to shock or surprise.			terkejut,terpinga-pinga	tenang,bersahaja
 tersentuh	tersentuh		撞到
 tersenyum	tersenyum		微笑
 tersepit	tersepit		被夹
@@ -566,7 +562,7 @@ tertindih	tertindih		被压迫
 tertinggi	tertinggi		最高的
 tertolehtoleh	tertoleh-toleh	v	重复地	To repeatedly turn.
 tertuduh	tertuduh	v	完成的	Perfective passive transitive of menuduh (“to accuse”).
-tertumpu	tertumpu	v	集中的
+tertumpu	tertumpu	v	集中的	to be concentrated; to be focused.; to be centered (upon); to be directed (towards).
 tertutup	tertutup		被关上
 terubuk	terubuk		刺壳鱼
 terubung	terubung		米仓，树皮制成的木桶
@@ -608,7 +604,7 @@ tetas	tetas	v	孵化，破开，裂取	to hatch (to emerge from an egg)
 tetek	tetek		乳房
 tetel	tetel		碎屑，拉圾，腐肉
 tetepkan	tetepkan		定，委任，决定
-tetiba	tetiba	adv	两者择一
+tetiba	tetiba	adv	两者择一	alternative form of tiba-tiba
 tetikus	tetikus	n	老鼠	mouse
 tetingkap	tetingkap	n	窗户	window
 tewas	tewas		败北，失败

@@ -1,61 +1,55 @@
-丑	hodoh|adj,alan-alan,badut|n,buruk|adj,ikan badut|n,itik badut|n,jelik,membadut|v
-丑怪	buruk|adj
-丑角	alan-alan,badut|n,itik badut|n,pelawak|n
+丑	hodoh|adj,skandal|n,badut|n,pelawak|n,jelik,alan-alan
+丑事	skandal|n
+丑恶	hodoh|adj
+丑行	skandal|n
+丑角	badut|n,pelawak|n,alan-alan
+丑角花斑眼镜蛇	itik badut|n
 丑闻	skandal|n
 丑陋	jelik
-丑鱼	ikan badut|n
-云	abal|n,awan|n,mega|n,abrak|n,gabak,harimau dahan|n,konon|adv,marmar|n
+云	awan|n,abal|n,mega|n,marmar|n,harimau dahan|n,urung
+云头	awan|n
+云彩	awan|n
 云母	abrak|n
-云满	gabak
-云满天	gabak
+云母云	abrak|n
+云母云母	abrak|n
+云烟	asap|n,awan|n
 云石	marmar|n
 云豹	harimau dahan|n
 云集	urung
-休	beleter,beradu|v,bercuti,berehat|v,buang lelah,buang letih,buang penat,elaun bersara
+休	rehat|n,jeda|v,istirahat|n,beradu|v,berehat|v,selebih|n,kerehatan|n,jual janji|v
 休假	bercuti
-休地	beleter,epeh
-休地说	beleter,epeh
-休地说话	beleter
-休息	beradu|v,berehat|v,buang lelah,buang letih,buang penat,istirahat|n,jeda|v,jual janji|v
+休息	rehat|n,jeda|v,istirahat|n,beradu|v,berehat|v,selebih|n,kerehatan|n,jual janji|v
 休息时	istirahat|n
 休息时间	istirahat|n
 休息期	masa rehat|n
 休息期间	masa rehat|n
-休息用	patio|n
-休息用的	patio|n
-休息用的石	patio|n
-休息用的石砌	patio|n
-休息用的石砌空	patio|n
-休津	elaun bersara
-休津贴	elaun bersara
-刑	dera,hukuman,hukuman mati|n,jenayah|n,menghukum,penyaliban|n,pertanda|v,rejam|v
+休止符	rehat|n
+刑	jenayah|n,hukuman
 刑事	jenayah|n
-刑吏	pertanda|v
-刑罚	hukuman,penyaliban|n
-向	ka|n,ke|conj,ke arah,kepada|prep,abuya|n,aliran|n,angin barat|n,arah|n
-向一	menyebelahi
-向一边	menyebelahi
-向上	melentikkan,menengadah,tengadah|v,cangak,congak,ngadah,rodok,takat|prep
+刑罚	hukuman
+向	ke|conj,ka|n,kepada|prep,ke arah
+向…	berguru
+向…学	berguru
+向…学习	berguru
+向上	takat|prep,tengadah|v,menengadah,congak,cangak,ngadah,rodok,melentikkan
 向上刺	rodok
+向上弯	melentikkan
+向上弯曲	melentikkan
 向上的	takat|prep
-向上看	cangak,congak,ngadah
-向下	canguk,melendut,mencanguk,rujah,senunggang,tukik
+向上看	congak,cangak,ngadah
+向下	rujah,tukik,canguk,melendut,mencanguk
 向下凝	canguk,mencanguk
 向下凝望	canguk,mencanguk
 向下刺	rujah
 向下弯	melendut
 向下弯曲	melendut
 向下飞	tukik
-向人	buruk siku
-向人要	buruk siku
-向人要回	buruk siku
 向何	tentang mana
 向何方	tentang mana
-向内	cagu|n
-向内生	cagu|n
+向例	adat|n
 向内生长	cagu|n
 向内生长的	cagu|n
-向前	jangkau|v,jerembap,lungsur|v,menjangkau,terkam|v,terpa|v
+向前	jangkau|v,terpa|v,lungsur|v,jerembap,menjangkau
 向前伸	jangkau|v,menjangkau
 向前伸出	jangkau|v,menjangkau
 向前扑	jerembap
@@ -63,273 +57,163 @@
 向前滑	lungsur|v
 向前滑倒	lungsur|v
 向前跃	terpa|v
-向岸	mendamparkan
-向岸地	mendamparkan
-向岸地的	mendamparkan
 向岸地的洗	mendamparkan
-向左	bersibak,sibak
-向左右	bersibak,sibak
-向左右分	bersibak,sibak
-向左右分开	bersibak,sibak
+向左右分开	sibak,bersibak
 向日	bunga matahari|n
 向日葵	bunga matahari|n
-向的	legat
 向着	hadap|v
 向西	angin barat|n
 向西的	angin barat|n
-向过	serondong
-向飞	peluru berpandu|n
-向飞弹	peluru berpandu|n
-少	kurang|adj,anak dara,berapa|adv,berapa harga|int,dara|n,dayang|n,dikit|n,gadis dara
-少女	dara|n,dayang|n,gadis dara,nona|n,perawan,anak dara,santung
-少女嫁	santung
-少女嫁给	santung
-少女嫁给别	santung
-少女嫁给别人	santung
-少女嫁给别人的	santung
-少女嫁给别人的头	santung
-少女嫁给别人的头邪	santung
-少女嫁给别人的头邪术	santung
-少年	juvenil|n,teruna|adj
+少	kurang|adj
+少儿	kanak|n
+少女	nona|n,dara|n,dayang|n,gadis dara,perawan
+少年	teruna|adj,juvenil|n
 少年的	teruna|adj
-少数	golongan kecil,minoriti|n
+少数	minoriti|n,golongan kecil
 少数党	golongan kecil
 少许	dikit|n
-少量	jirai,kiting,minimum
-少钱	berapa harga|int
-我	abdi|n,aku|pron,ana|pron,beta|pron,daku|pron,den|pron,deyen|pron,hamba|n
+少量	kiting,jirai
+我	den|pron,deyen|pron,iolls|pron,ingsun|pron,beta|pron,ku|pron,saya|pron,aku|pron
 我不	entah
 我不知	entah
 我不知道	entah
-我中	egosentrik|adj,egotisme|n
-我中心	egosentrik|adj,egotisme|n
-我中心癖	egotisme|n
-我中心的	egosentrik|adj
-我主	mat pen|n
-我主义	mat pen|n
-我主义者	mat pen|n
-我们	kami|pron,kita|pron,kitorang|pron,manira|pron
-我改	majudiri
-我改进	majudiri
-我服	swalayan|n
-我服务	swalayan|n
-我的	saya|pron,pada hemat saya
-我的意	pada hemat saya
-我的意见	pada hemat saya
+我们	kita|pron,kami|pron,manira|pron,kitorang|pron
+我勒个去	pucuk|n
+我的	saya|pron
+我的名字是…	abdi|n
+我的天啊！	amboi
 抑	wilaan
+抑且	dah tu|adv
 抑扬	wilaan
-挑	memikul,mengusung,usung|v,acum mengacum,arau,cabar|v,cabaran,cungkil
+挑	usung|v,memikul,mengusung,pilih|v,arau,mengkis,kandar,cungkil
 挑剔	cungkil
-挑战	cabar|v,cabaran,menantang,mencabar,mengkis
+挑战	mengkis,cabaran,mencabar,menantang
 挑拔	menghasut
-挑拨	acum mengacum,arau,kecudang
+挑拨	arau,kecudang,acum mengacum
 挑物	gandaran
 挑红	ketiran
 挑红色	ketiran
 挑衅	provokasi
 挑货	kandar
-挑起	membangkitkan,panggul
+挑起	panggul,membangkitkan
 挑选	pilih|v
-撑	ampu|v,bertelekan,kapit,mampankan|v,mengampu,menopang,menunjang,papah
+撑	sokong|n,singkur
 撑架	sokong|n
-撑的	mampankan|v
-撑而	papah
-撑而行	papah
 撑船	singkur
-斑	becak,belak,belang|adj,berbelang-belang,bercapuk,berintik-rintik,bopeng,borek
-斑斑	kurik,telau
+斑	titik|v,belang|adj,kuda belang|n,mopeng,kurik,karah,coreng,belak
+斑块	tanda|n
+斑斑	telau
 斑斑的	telau
-斑点	becak,capuk,cecak bintik,karah,kurik,mopeng,rintik,titik|v
-斑点的	lorek,bercapuk,berintik-rintik
+斑点	titik|v,mopeng,kurik,karah,rintik,capuk,cecak bintik,lorek
+斑点的	lorek
 斑状	seran
 斑状的	seran
 斑痕	coreng
 斑痣	belak
-斑癣	panau|n
-斑的	moreng,telau
-斑眼	itik badut|n
-斑眼镜	itik badut|n
-斑眼镜蛇	itik badut|n
-斑纹	belak,belang|adj,coreng,loreng,berbelang-belang,pelang,telang
-斑纹的	pelang,berbelang-belang,telang
-斑马	kuda belang|n,zebra
-树	cenerai|n,lukut|n,pohon|n,pokok|n,syajarat|n,anime|n,arboris|n,basung
-树之	belantai,bongkot,pulai,sentul|n,serdang
-树之一	belantai,serdang
-树之一种	belantai,serdang
-树之名	pulai,sentul|n
+斑纹	belang|adj,coreng,belak,loreng,pelang
+斑纹的	pelang
+斑马	kuda belang|n
+斑马zebra	zebra
+树	pohon|n,pokok|n,syajarat|n,dahan|n,cabang|n,lukut|n,cenerai|n,perdu|n
+树之	bongkot
 树之干	bongkot
-树叶	daun pokok,rimbunan|n,samir
-树叶编	samir
-树叶编成	samir
-树叶编成之	samir
-树叶编成之屋	samir
-树叶编成之屋顶	samir
-树名	kerayung,menyintuk,nyatuh,perepat,rasau,rengas,sintuk,cermai|n
-树园	ladang getah
-树干	punggur,togok,gubang
-树干下	gubang
-树干下的	gubang
-树干下的切	gubang
+树叶	rimbunan|n,daun pokok
+树名	nyatuh,sintuk,rasau,menyintuk,rengas,perepat,kerayung
+树干	punggur,togok
 树干下的切口	gubang
 树心	empulur|n
-树木	arboris|n,bengku,ibus|n,reba,senamaki
-树木之	bengku,ibus|n
-树木之一	bengku,ibus|n
-树木之一种	bengku,ibus|n
-树木栽	arboris|n
-树木栽培	arboris|n
+树木	pohon|n
+树木之一种	bengku
 树木栽培家	arboris|n
-树枝	cabang|n,cawang|n,dahan|n
+树林	hutan|n
+树枝	dahan|n,cabang|n,cawang|n
 树架	kisi-kisi
-树根	basung,perdu|n
-树汁	nira
-树汁供	nira
-树汁供制	nira
-树汁供制糖	nira
-树汁供制糖用	nira
-树液	lahang
+树根	perdu|n,basung
 树獭	kukang
-树甲	kabur-kabur
-树甲虫	kabur-kabur
-树的	kelarah,petaling,rukam
-树的一	rukam
-树的一种	rukam
-树的名	petaling
-树的名称	petaling
+树的	kelarah
 树的蛀	kelarah
 树的蛀虫	kelarah
-树皮	menyintuk,sintuk,terubung
-树皮制	terubung
-树皮制成	terubung
-树皮制成的	terubung
-树皮制成的木	terubung
 树皮制成的木桶	terubung
-树皮洗	menyintuk,sintuk
-树皮洗发	menyintuk,sintuk
 树立	mendirikan
 树精	puaka|n
 树胶	kebun getah
 树胶园	kebun getah
 树胶园丘	kebun getah
-树脂	damar|n,anime|n
+树脂	damar|n
 树薯	ubi|n
-树身	serangkak
-民	akilrakyat,anak buah|n,anak negeri,ang mo kio,arganegara,bangsa|n,bumiputera|n,canggung|adj
-民主	dap,demokrasi|n,kolonialisme|n,sosial demokrasi|n,sosial demokrat|n
-民主主	sosial demokrasi|n
-民主主义	sosial demokrasi|n
-民主义	kolonialisme|n
-民主党	sosial demokrat|n
-民主党党	sosial demokrat|n
-民主党党员	sosial demokrat|n
+民	kebangsaan|n,bangsa|n,kabilah,kobok
+民主	demokrasi|n
+民主主义	demokrasi|n
 民主政	demokrasi|n
 民主政治	demokrasi|n
-民主的	dap
-民代	akilrakyat
-民代表	akilrakyat
-民入	imigresen|n
-民入境	imigresen|n
-民化	dekolonisasi|n,nyahjajah|v,penyahjajahan|n
-民地	jajahan|n,koloni,kolonial,kolonialis,terjajah|v
-民地主	kolonialis
-民地主义	kolonialis
-民地主义者	kolonialis
-民地的	kolonial
-民家	inap desa|n,rumah inap|n
-民家居	inap desa|n,rumah inap|n
-民家居住	inap desa|n,rumah inap|n
-民家居住的	inap desa|n,rumah inap|n
-民家居住的时	inap desa|n,rumah inap|n
-民家居住的时期	inap desa|n,rumah inap|n
+民主的民主	dap
+民主的民主的	dap
 民政	sipil
 民政的	sipil
-民族	bangsa|n,kabilah,kebangsaan|n,kobok,kenasionalan,nasionalis|n,nasionalisme|n,nomad
-民族主	nasionalis|n,nasionalisme|n
-民族主义	nasionalisme|n,nasionalis|n
+民族	kebangsaan|n,bangsa|n,kabilah,kobok,nasionalisme|n,kenasionalan
+民族主	nasionalisme|n
+民族主义	nasionalisme|n
 民族主义者	nasionalis|n
-民族的	kenasionalan,ronggeng
-民族的土	ronggeng
-民族的土风	ronggeng
-民族的土风舞	ronggeng
-民权	francais|n,kerakyatan|adj
-民的	nasional|adj,popular,urbanisme|n
-民的生	urbanisme|n
-民的生活	urbanisme|n
-民的生活方	urbanisme|n
-民的生活方式	urbanisme|n
-民统	penjajah|n,penjajahan|n
-民统治	penjajah|n,penjajahan|n
-民统治者	penjajah|n
-民者	penjajah|n
-民警	ang mo kio
-民警卫	ang mo kio
-民警卫队	ang mo kio
-民间	canggung|adj,cerita rakyat|n,pak kaduk,pertahanan awam|n,sipil
+民族的	kenasionalan
+民权主义	demokrasi|n
+民间	cerita rakyat|n,sipil,pertahanan awam|n
 民间传	cerita rakyat|n
 民间传说	cerita rakyat|n
-民间故	cerita rakyat|n,pak kaduk
-民间故事	cerita rakyat|n,pak kaduk
-民间故事中	pak kaduk
-民间故事中之	pak kaduk
-民间故事中之痴	pak kaduk
-民间故事中之痴汉	pak kaduk
+民间故	cerita rakyat|n
+民间故事	cerita rakyat|n
 民间的	sipil
-民间舞	canggung|adj
-民间舞蹈	canggung|adj
 民间防	pertahanan awam|n
 民间防卫	pertahanan awam|n
-瀑	air terjun|n,katarak|n
-瀑布	air terjun|n,katarak|n
-疑	syak,adakah|v,aham,asangka,aswas,cemburu|adj,curiga|adj,curiga-mencurigai|v
-疑地	gerenti|adv
+瀑	air terjun|n
+瀑布	air terjun|n
+疑	syak,hipokondria|n,aham,aswas,asangka,ragu,subahat
+疑团	teka-teki|n
 疑心	asangka
+疑念	zan|n
 疑惑	aswas,ragu,subahat
 疑病	hipokondria|n
-疑的	curiga-mencurigai|v,gamer|adj
-疑者	suspek|n
-疑问	aham,adakah|v,kah
-疑问接	kah
-疑问接尾	kah
+疑虑	zan|n
+疑问	aham,adakah|v
+疑问句	aju|v
 疑问接尾语	kah
 疑问词	adakah|v
-碑	batu bersurat|n,batu piagam,tugu|n
-笑	berkahkah|v,giat,tertawa|v,bahak,beracah-acah|v,bercumbu-cumbuan,bercura,berdekah-dekah
-笑声	kekek|adj
-笑容	cerah muka
-笑的	geli,geli hati,jenaka|n,membadut-badutkan|v
-笑话	beracah-acah|v,gurau|n,bergurau senda
+疑难	rumit|adj
+笑	tertawa|v,berkahkah|v,gurau|n,giat,beracah-acah|v
+笑剧	komedi|n
+笑话	gurau|n,beracah-acah|v
 粑	garu|v,pencakar|n
 粑子	pencakar|n
 粑掘	garu|v
-脑	barus,capa|n,kamfor|n,kapur barus,komputer|n,membayang|v,otak|n,serebelum|n
-脑海	membayang|v
-脑海里	membayang|v
-脑盖	ubun-ubun
-蔑	capak|v,memfitnahkan,mencapak
+脑壳	otak|n,tengkorak|n
+脑子进水	gila|adj
+脑瓜	otak|n,tengkorak|n
+脑筋	hulu|n
+脑花	otak|n
+脑袋	hulu|n,tengkorak|n
+脑门	dahi|n
+脑门子	dahi|n
+脑髓	otak|n
+蔑	capak|v,mencapak
 蔑视	capak|v,mencapak
-谑	lawar,senda,senda-gurau
-辑	dilah|n,edit|v,logika|n,lojik,menyunting|v,penyusun,redaksi|n,sidang pengarang
-辑模	dilah|n
-辑模拟	dilah|n
-辑模拟分	dilah|n
-辑模拟分析	dilah|n
-辑模拟分析系	dilah|n
-辑模拟分析系统	dilah|n
-辑者	penyusun
-辑部	redaksi|n,sidang pengarang
-锑	antimoni|n
-频	acap|adv,acap kali|adv,frekuensi|n,kekerapan|n,soalan lazim|n
+锑锑	antimoni|n
+锑锑S	antimoni|n
+锑锑Sb	antimoni|n
+频	acap|adv,frekuensi|n,acap kali|adv,kekerapan|n,soalan lazim|n
+频仍	kerap|adj
+频度	frekuensi|n
+频数	frekuensi|n,kerap|adj
+频次	frekuensi|n
+频段	bebat|n
 频率	frekuensi|n,kekerapan|n
 频繁	acap|adv,acap kali|adv,soalan lazim|n
-馑	kelaparan
-骑	berkendera,celapak,kendera,menaiki,menunggang|v,racak,tunggang|adj,berbasikal|v
+频道	saluran|n,frekuensi|n
+骑	tunggang|adj,menunggang|v,menaiki,racak,celapak,kendera,berkendera,berkuda|v
 骑兵	kavalri|n
 骑师	joki
 骑自	mat motor|n
 骑自行	mat motor|n
 骑自行车	mat motor|n
-骑马	berbasikal|v,berkuda|v,naik kuda
+骑马	berkuda|v,berbasikal|v,naik kuda
 鮑	abalone|n
 鮑魚	abalone|n
 鲑	salmon

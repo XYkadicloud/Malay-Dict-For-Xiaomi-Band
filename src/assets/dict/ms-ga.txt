@@ -43,7 +43,7 @@ gaji	gaji	n	工资	salary (fixed amount of money paid on monthly or annual basis
 gajibuta	gaji buta	n	薪水 给...加薪	salary without doing work
 gajipokok	gaji pokok		基薪，底薪
 gajus	gajus	n	腰果树	cashew (tree).			jambu golok,jambu monyet,janggus,jagus
-gak	gak	adv	两者择一
+gak	gak	adv	两者择一	alternative form of juga
 galah	galah	n	竹竿，长竿，杆	pole  stake
 galak	galak	adj	凶野的，凶猛的，凶暴的	fierce; wild; aggressive (quick to attack or bite  usually of animals).
 galakkan	galakkan		鼓励，刺激，兴奋剂
@@ -149,7 +149,7 @@ garut	garut		抓，搔，磨擦，涂抹
 gas	gas	n	气，气体	Gas:
 gasak	gasak		殴打，攻击；大吃
 gasing	gasing	n	陀螺	spinning top
-gatai	gatai	adj	两者择一
+gatai	gatai	adj	两者择一	alternative form of gatal: itchy
 gatal	gatal	adj	痒的，淫荡的	itchy
 gaul	gaul		混杂，混合，结交	a Celt of ancient Gaul\nn. an ancient region of western E…
 gaun	gaun	n	西式女衣	dress  gown

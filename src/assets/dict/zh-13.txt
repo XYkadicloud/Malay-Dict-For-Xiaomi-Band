@@ -1,147 +1,106 @@
-不	bukan|adv,tidak|adv,abadikan|v,abai|adj,aib,ajak-ajak ayam|adj,ajaran sesat|n,alhalitu
-不中	sasul,tersasul,sipi
-不中的	sipi
-不久	seelok-elok|conj,setiba|prep
+不	bukan|adv,tidak|adv,hebat|adj
+不一定	kalu|adv
+不中已出口	sasul,tersasul
+不为人知	rahsia|adj
+不久	setiba|prep,seelok-elok|conj
 不二	harga mati
 不二价	harga mati
-不人	wutuh
-不人的	wutuh
 不介	semberono|adj
 不介意	semberono|adj
 不介意的	semberono|adj
-不休	beleter,epeh,leter,mericau
-不休地	beleter,epeh
-不休地说	beleter,epeh
-不休地说话	beleter
-不作	bungkam|adj,membisu|v
-不作声	bungkam|adj,membisu|v
-不佳	labang
-不佳的	labang
+不但…而且	bahkan
 不便	halangan|n,lemau
 不信	curiga|adj
 不信任	curiga|adj
-不偏	omnivor|n
-不偏食	omnivor|n
-不偏食的	omnivor|n
+不偏不倚	baru|adj
 不偏食的人	omnivor|n
-不停	beret,bertubi-tubi,jujuh
+不停	bertubi-tubi
 不停的	bertubi-tubi
-不健	bangkut
-不健全	bangkut
-不入	kabal,pelias
-不入的	kabal
-不全	ruit
-不全的	ruit
 不公	aniaya|n
 不公正	aniaya|n
-不关	lengsan,tega
-不关心	lengsan,tega
-不关心的	lengsan,tega
-不决	tegun
+不关	tega,lengsan
+不关心	tega,lengsan
+不关心的	tega,lengsan
 不净	hadas
 不净的	hadas
-不准	larang|v,pelat|n
+不准	larang|v
 不凋	bayam|n
 不凋花	bayam|n
-不出	berkurung,kesima
-不出话	kesima
-不出话来	kesima
 不利	majal,mampal
 不利的	majal,mampal
-不到	bawah umur
-不到法	bawah umur
-不到法定	bawah umur
-不到法定年	bawah umur
 不到法定年龄	bawah umur
-不前	undak
-不动	diam-diam,hartanah|n,mejam,pegan,pegun,terpegun
+不加	tanpa|prep
+不加牛奶	hitam|adj
+不动	diam-diam,hartanah|n,mejam
 不动产	hartanah|n
 不动的	diam-diam,mejam
-不及	berkubang|v,gagal dalam peperiksaan
-不及格	gagal dalam peperiksaan
-不及物	berkubang|v
-不及物动	berkubang|v
-不及物动词	berkubang|v
-不及物的	berkubang|v
+不及物的不及物动词	berkubang|v
 不受	nafi
-不变	kekal-abadi,legat,tetap|adj
-不变方	legat
+不变	tetap|adj
 不变方向	legat
 不变方向的	legat
 不变的	tetap|adj
-不可	diikat|v,keramat|n,mustahil|adj,musykil|adj,syirik|n,tidak boleh|v
+不可	musykil|adj,mustahil|adj,tidak boleh|v
 不可以	tidak boleh|v
-不可原	syirik|n
 不可原谅	syirik|n
 不可原谅的	syirik|n
-不可开	diikat|v
-不可开交	diikat|v
-不可开交的	diikat|v
-不可思	keramat|n
 不可思议	keramat|n
 不可思议的	keramat|n
-不可能	mustahil|adj,musykil|adj
-不可能的	mustahil|adj,musykil|adj
-不合	gagal|v,karut,tikai
-不合口	tikai
-不合口角	tikai
+不可或缺	perlu|v
+不可能	musykil|adj,mustahil|adj
+不可能的	musykil|adj,mustahil|adj
+不合	gagal|v,karut
 不合格	gagal|v
 不合理	karut
-不吉	kidal|adj,naas,nahas,sial|adj
+不吉	kidal|adj,sial|adj,nahas,naas
 不吉利	sial|adj
 不吉利的	sial|adj
-不吉的	naas,nahas
+不吉的	nahas,naas
 不吉祥	kidal|adj
 不吉祥的	kidal|adj
-不同	beda|n,berbeza|v,kelainan|n,selisih,bezanya,dayung-mayung|n,jauh berbeza,kacang puteh|n
+不同	kelainan|n,berbeza|v,beda|n,selisih,kacang puteh|n,dayung-mayung|n,bezanya
 不同之	bezanya
 不同之处	bezanya
+不同凡响	gemilang|adj
 不同点	bezanya
-不同的	dayung-mayung|n,kacang puteh|n
-不名	aib,fadihat
-不名誉	aib,fadihat
+不同的	kacang puteh|n,dayung-mayung|n
+不名	fadihat,aib
+不名誉	fadihat,aib
+不含糊	mantul|adj
 不听	bingal
 不听话	bingal
 不听话的	bingal
 不和	sengketa,singgit,janggal
 不和谐	janggal
 不和谐的	janggal
-不善	busuk hati,kera sumbang,mubah
-不善交	kera sumbang
-不善交际	kera sumbang
-不善交际的	kera sumbang
+不啻	ala|prep
+不善	sakit|adj
 不善交际的人	kera sumbang
-不善的	mubah
-不喜	berpantang,enggan|adv
-不喜欢	berpantang,enggan|adv
-不在	cap ayam|adj
-不在的	cap ayam|adj
-不坏	pelias,wutuh
-不坏术	pelias
-不坏的	wutuh
-不堪	lunyai
-不多	dikit|n,lebih kurang|adv,mubah
-不多的	dikit|n,mubah
+不喜	enggan|adv,berpantang
+不喜欢	enggan|adv,berpantang
+不多	dikit|n
+不多的	dikit|n
 不好	buruk|adj
 不好的	buruk|adj
-不守	elakkan diri,ingkar,putar balik
-不守信	ingkar,putar balik
-不守信用	ingkar,putar balik
+不守	putar balik,ingkar,elakkan diri
+不守信	putar balik,ingkar
+不守信用	putar balik,ingkar
 不守诺	elakkan diri
 不守诺言	elakkan diri
-不安	aswas,cemas,jeri,kebimbangan,kegelisahan,repes,selempang,belisah|adj
+不安	cemas,kebimbangan,risau|v,aswas,belisah|adj,jeri,selempang,repes
 不安定	resah|adj
 不安定的	resah|adj
-不安的	belisah|adj,kebat-kebit,lasak,lenyar,risau|v
-不定	badut-badutkan|v,bincangkan|v,celakakan|v,cetekkan|v,curigai|v,elokkan|v,entah-entah,istirahatkan|v
-不定式	badut-badutkan|v,bincangkan|v,celakakan|v,cetekkan|v,curigai|v,elokkan|v,istirahatkan|v,katakan|v
-不定式的	badut-badutkan|v,bincangkan|v,celakakan|v,cetekkan|v,curigai|v,elokkan|v,istirahatkan|v,katakan|v
+不安的	risau|v,belisah|adj,kebat-kebit,lasak,lenyar
+不定	simbang
+不定式不定式	nakali|v,curigai|v,elokkan|v,katakan|v,perelok|v,cetekkan|v,mudahkan|v,pasarkan|v
+不定式不定式的	nakali|v,curigai|v,elokkan|v,katakan|v,perelok|v,cetekkan|v,mudahkan|v,pasarkan|v
 不定的	simbang
 不客	sama-sama|int
 不客气	sama-sama|int
 不密	melas
 不密的	melas
 不对	bolak
+不对劲	silap|adj
 不对的	bolak
 不寻	bukan barang-barang
 不寻常	bukan barang-barang
@@ -151,96 +110,74 @@
 不小心的	abai|adj,pengabai|n
 不屈	cekal
 不屈的	cekal
-不已	kebat-kebit
-不干	duduk-duduk|v,najis|n
+不带	tanpa|prep
+不干	najis|n
 不干净	najis|n
 不干净的	najis|n
-不平	imbal,lekak-lekuk,lekuk|n,pincang,ternah
+不平	imbal,ternah
 不平凡	ternah
 不平凡的	ternah
 不平等	pincang
 不平等的	pincang
 不平衡	imbal
-不幸	nahas,bedebah|adj,berau|adj,bintangnya gelap,geruh|n,kempunan|adj,malangnya,musibat
+不幸	geruh|n,bedebah|adj,sial|adj,berau|adj,nahas,kempunan|adj,musibat,naas
 不幸地	malangnya
-不幸的	bedebah|adj,berau|adj,geruh|n,kempunan|adj,musibat,naas,sial|adj
-不当	buruk kelakuan
-不得	hebat|adj,ngit,tidak dapat
-不得不	tidak dapat
+不幸的	geruh|n,bedebah|adj,sial|adj,berau|adj,kempunan|adj,musibat,naas
+不得	hebat|adj
 不得了	hebat|adj
+不得劲	canggung|adj
 不必	jangankan
 不必说	jangankan
-不忠	berkhianat,khianat|n,culas
+不忠	khianat|n,berkhianat,culas
 不忠的	culas
 不快	bingit
 不快的	bingit
-不恶	mubah
-不恶不	mubah
 不恶不善	mubah
 不恶不善的	mubah
 不悦	kerut
 不情	ogah
 不情愿	ogah
 不情愿的	ogah
-不愉	langu|n,runsing
-不愉快	runsing,langu|n
-不愉快的	langu|n
+不愉	runsing
+不愉快	runsing
 不愿	enggan|adv
 不愿意	enggan|adv
 不成	gagal|v
 不成功	gagal|v
 不承	bukankan
 不承认	bukankan
-不拔	cekel
-不拔的	cekel
-不整	rangga,ropak,sempuras
+不拘	apa-apa|pron
+不整	ropak,sempuras,rangga
 不整洁	ropak,sempuras
 不整洁的	ropak,sempuras
-不整齐	rangga,sempuras
-不整齐的	rangga,sempuras
+不整齐	sempuras,rangga
+不整齐的	sempuras,rangga
 不文	kasar|adj
 不文雅	kasar|adj
 不文雅的	kasar|adj
-不断	berderet-deret,bertalu-talu,jujuh,memang|adv,polang-paling
-不断地	polang-paling
-不断地转	polang-paling
+不断	memang|adv
 不断地转变	polang-paling
 不断拉	memang|adv
 不断拉扯	memang|adv
-不断的	bertalu-talu
 不时	kadang-kadang|adv
 不明	ketaksaan|n,tidak faham|v
 不明白	tidak faham|v
 不明确	ketaksaan|n
 不明确的	ketaksaan|n
-不是	bukan|adv,bukan main-main
+不易	sukar|adj
+不是	bukan|adv
 不是吗	bukan|adv
-不是开	bukan main-main
-不是开玩	bukan main-main
 不是开玩笑	bukan main-main
-不是玩	bukan main-main
 不是玩玩	bukan main-main
 不是玩玩的	bukan main-main
 不曾	belum pernah
-不来	tegun
-不标	arkaif,bahru,banteng|n,begedil,bharu,biadap,hingget,kasidah
-不标准	arkaif,bahru,banteng|n,begedil,bharu,biadap,hingget,kasidah
-不标准的	arkaif,bahru,banteng|n,begedil,bharu,biadap,hingget,kasidah
-不標	slanga|n
-不標準	slanga|n
-不標準的	slanga|n
-不標準的用	slanga|n
-不標準的用詞	slanga|n
-不止	beret
-不正	ajaran sesat|n,bolak,jangak|adj,pencong,serong hati
-不正常	ajaran sesat|n
-不正常的	ajaran sesat|n
-不正常的人	ajaran sesat|n
+不正	pencong,bolak,serong hati
+不正常的不正常的人	ajaran sesat|n
 不正派	serong hati
 不正派的	serong hati
 不正的	pencong
 不正确	bolak
-不毛	gondol,gurun tandus,mandul|adj,pemandulan|n
+不毛	mandul|adj,gondol,gurun tandus
 不毛之	gondol,gurun tandus
 不毛之地	gondol,gurun tandus
 不毛的	mandul|adj
@@ -251,69 +188,60 @@
 不洁的	seleweng
 不活	lempam
 不活泼	lempam
-不流	bertakung,tergenang
-不清	bekemayau|v,bengap|adj,berbalam,kabut|n,membalam
-不清楚	kabut|n,bengap|adj
-不清的	bekemayau|v
-不灭	pengabadian|n,abadikan|v
-不熟	belantah,ganyut,jelantah,magil,mentah|adj
-不熟的	belantah,mentah|adj,ganyut,jelantah,magil
+不流	bertakung
+不清	kabut|n
+不清楚	kabut|n
+不渝	pemalar|n
+不温不火	sederhana|adj
+不灭	pengabadian|n
+不熟	mentah|adj,belantah
+不熟的	mentah|adj,belantah
+不爽	jitu|adj
 不牢	lekit
 不牢的	lekit
-不理	bena tak,meling,mendak
-不理不	bena tak
-不理不睬	bena tak
+不理	mendak,meling
 不理睬	mendak,meling
 不理睬的	meling
 不用	zonder|prep
 不直	bengkok|adj
 不直的	bengkok|adj
-不相	berlainan,imbal
-不相同	berlainan
-不相同的	berlainan
+不相	imbal
 不相称	imbal
 不省	selap
 不省人	selap
 不省人事	selap
-不睬	bena tak
-不知	entah,palatau|n,sesat barat,terlena,tidak tahu|v
-不知不	terlena
-不知不觉	terlena
-不知不觉入	terlena
+不知	tidak tahu|v,sesat barat
 不知不觉入睡	terlena
 不知去	sesat barat
 不知去向	sesat barat
-不知的	palatau|n
-不知道	tidak tahu|v,entah
+不知道	tidak tahu|v
 不确	syubhah|adj
 不确定	syubhah|adj
 不确定的	syubhah|adj
-不稳	bertatih-tatih,lincah,luntur
-不稳地	bertatih-tatih
-不稳地走	bertatih-tatih
+不稳	lincah
 不稳定	lincah
 不稳定的	lincah
 不管	tanpa mengira|prep,bagaimanapun
 不管怎	bagaimanapun
 不管怎样	bagaimanapun
-不紧	gegai,lekit,nyenyai,ruai|n
+不紧	ruai|n,gegai,lekit,nyenyai
 不紧密	gegai,nyenyai
 不紧密的	gegai,nyenyai
 不紧的	ruai|n
 不紧贴	lekit
 不紧贴的	lekit
-不约	serempak,serentak|adj
-不约而	serempak,serentak|adj
-不约而同	serempak,serentak|adj
+不约	serentak|adj,serempak
+不约而	serentak|adj,serempak
+不约而同	serentak|adj,serempak
 不纯	selungkang
 不纯净	selungkang
 不纯净的	selungkang
 不经	meling
 不经意	meling
 不经意的	meling
-不结	gabuk,mandul|adj
-不结实	gabuk,mandul|adj
-不结实的	gabuk,mandul|adj
+不结	mandul|adj,gabuk
+不结实	mandul|adj,gabuk
+不结实的	mandul|adj,gabuk
 不耐	gelisah|adj
 不耐烦	gelisah|adj
 不肥	kemandulan|n
@@ -321,200 +249,141 @@
 不肯	enggan|adv,memungkiri
 不肯承	memungkiri
 不肯承认	memungkiri
-不育	mandul|adj,safan-safa|adj,tandus|adj
-不育的	mandul|adj,safan-safa|adj,tandus|adj
+不育	mandul|adj,tandus|adj,safan-safa|adj
+不育的	mandul|adj,tandus|adj,safan-safa|adj
 不胶	serul
 不胶粘	serul
 不胶粘的	serul
-不能	bular|adj,kedap
-不能渗	kedap
-不能渗透	kedap
-不能渗透的	kedap
+不能	bular|adj
 不能的	bular|adj
-不行	ngit,meriam buluh
+不苟	cermat|adj
+不菲	tinggi|adj
+不行	ngit
 不要	jangan|adv,jangan-jangan
 不要不	jangan-jangan
-不见	ghaib,lesap,bunian|n,halimunan
-不见的	bunian|n,ghaib,halimunan
-不觉	terlena
-不觉入	terlena
-不觉入睡	terlena
+不见	ghaib,lesap
 不讲	diam-diam
 不讲话	diam-diam
 不讲话的	diam-diam
 不许	melarang|v
 不论	alhalitu
+不论是…还是…	mahupun|conj
 不诚	ajak-ajak ayam|adj
 不诚实	ajak-ajak ayam|adj
 不诚实的	ajak-ajak ayam|adj
-不调	pincang,senggugut
+不调	pincang
 不调和	pincang
 不调和的	pincang
-不起	maaf|int,minta ampun
+不赖	denda|n,baik|adj
 不足	kurang|adj,tekur
 不转	mentung
 不转弯	mentung
 不转弯的	mentung
-不适	bingit,janggal
+不过	cuma|adv,namun|adv
+不适	janggal,bingit
 不适当	janggal
 不适当的	janggal
 不适意	bingit
 不适意的	bingit
-不通	sembelit,senggugut
-不遂	lumpuh|v
+不通	sembelit
 不重	mengetepikan
 不重视	mengetepikan
-不错	syabas
+不韪	kesalahan|n
 不驯	jangla
 不驯的	jangla
-不高	dingin hati,merungut|v,rajuk
+不高	merungut|v,rajuk,dingin hati
 不高兴	merungut|v,rajuk,dingin hati
 不高兴的	dingin hati
-不齐	conggah-cangkih,congkar-cangkir
-不齐的	conggah-cangkih
-伍	angkatan|n,banjar|n,barisan|n,kumpulan|n,pasuk,pasukan|n
-侍	adikung,juak,juak-juak,kenap|adv
-侍从	adikung,juak,juak-juak
-侍从官	juak,juak-juak
+侍	kenap|adv,juak,juak-juak
+侍从	adikung
+侍从官升高	juak,juak-juak
 侍从武	adikung
 侍从武官	adikung
-侍者	juak,juak-juak,kenap|adv
-倍	ganda,lipat|v,angkaganda,berganda,gandakan,kali|v,lipat ganda,sifir
-倍数	angkaganda,kali|v,sifir
-倍的	berganda,lipat ganda
+侍卫官	jaga|v
+侍者	kenap|adv,juak,juak-juak
+倍	lipat|v,ganda,kali|v,sifir,angkaganda
+倍儿棒	elok|adj
+倍数	kali|v,sifir,angkaganda
 傍	isyak|n
+傍亮	fajar|n
 傍晚	isyak|n
-再	kembali|v,lagi|adv,pula|adv,semula|adv,apalagi,arakian,arkian,balik-balik
-再三	berulang-ulang,kerapkali
+傍边	dekat|adj
+再	pula|adv,lagi|adv,semula|adv,kembali|v,balik-balik
+再三	berulang-ulang
 再三地	berulang-ulang
 再会	selamat jalan
-再向	buruk siku
-再向人	buruk siku
-再向人要	buruk siku
-再向人要回	buruk siku
-再婚	tiri|adj
-再婚而	tiri|adj
-再婚而构	tiri|adj
-再婚而构成	tiri|adj
-再婚而构成的	tiri|adj
-再婚而构成的亲	tiri|adj
-再婚而构成的亲缘	tiri|adj
-再婚而构成的亲缘关	tiri|adj
-再婚而构成的亲缘关系	tiri|adj
-再度	membilas
-再度冲	membilas
-再度冲洗	membilas
-再循	mendaur-ulang
-再循环	mendaur-ulang
+再则	dah tu|adv,selain|prep
+再好不过	mantul|adj
 再的	balik-balik
-再者	apalagi,arakian,arkian,dan lagi,kalakian
-再装	muat semula|v
-再装填	muat semula|v
-再装填弹	muat semula|v
-再装填弹药	muat semula|v
-再见	selamat jalan,selamat tinggal|int
-匍	kerumit,lata,loso,rangkak|n
-匍匐	lata,kerumit,loso,rangkak|n
-匍匐而	kerumit,loso,rangkak|n
-匍匐而行	kerumit,loso,rangkak|n
-厍	hangar
-名	a cappella|n,aib,alias,andalas,bengkudu,bernamaan,bertandatangan,bika
+再者	kalakian,apalagi,arakian,dan lagi,arkian
+再装再装填弹药	muat semula|v
+再见	selamat tinggal|int,selamat jalan
+再说	dah tu|adv,selain|prep
+匍	lata
+匍匐	lata,rangkak|n,loso,kerumit
+匍匐而	rangkak|n,loso,kerumit
+匍匐而行	rangkak|n,loso,kerumit
+名	nama|n,senarai|n,isim|n,ef|n,ji|n,hec|n,kiu|n,zed|n
+名义	bersalin|v
+名儿	bersalin|v
 名册	daftar alamat
-名前	si|art
-名前之	si|art
-名前之接	si|art
-名前之接头	si|art
-名前之接头词	si|art
 名单	senarai|n
-名及	si|art
-名及拟	si|art
-名及拟人	si|art
-名及拟人化	si|art
-名及拟人化动	si|art
-名及拟人化动物	si|art
-名及拟人化动物名	si|art
-名及拟人化动物名前	si|art
-名及拟人化动物名前之	si|art
-名及拟人化动物名前之接	si|art
-名及拟人化动物名前之接头	si|art
-名及拟人化动物名前之接头词	si|art
-名声	reputasi,selebriti|n
-名字	ef|n,hec|n,isim|n,ji|n,kiu|n,maha kaya|n,nama|n,zed|n
-名指	jari manis|n
-名流	empat ratus|num,sosialit|n
+名号	bersalin|v
+名声	selebriti|n,reputasi
+名字	nama|n,isim|n,ef|n,ji|n,hec|n,kiu|n,zed|n,maha kaya|n
+名学	logika|n
+名次	nama|n
+名正言顺	senonoh|adj
+名流	empat ratus|num
 名片	kad|n
-名狼	keji
-名狼籍	keji
-名的	bernamaan,kesohor,masyhur|adj,megah,menak,sohor|adj,terkemuka
-名称	petaling,ungkapan
-名签	bertandatangan,tanda nama|n
-名簿	daftar alamat
-名誉	pamur,aib,fadihat,umpat
-名词	kata nama|n,kata nama am|n,kata nama khas|n,penyaji|n
+名目	bersalin|v
+名称	bersalin|v
+名签	tanda nama|n,bertandatangan
+名誉	pamur
+名词	kata nama|n
+名贵	indah|adj
 名门	menak
 名门的	menak
-复	abang-abang|n,abid-abid|n,abidin|n,adik-adik|n,ajak-ajak|n,alih suara|n,anak-anak|n,anjing-anjing|n
+名额	nama|n
+复	belit|v,pulih,pugar,sembuh,tuntut bela,majmuk,marjik,rekonstruksi
 复仇	tuntut bela
 复元	sembuh
-复兴	pugar,pulih,rekonstruksi
-复制	alih suara|n,dabing|n
-复印	zeroks|n
-复印术	zeroks|n
-复原	pulih,memulihkan
-复发	kumat
+复兴	pulih,pugar,rekonstruksi
+复原	pulih
 复句	majmuk
 复合	majmuk
-复国	zionis|n,zionisme|n
-复国主	zionis|n,zionisme|n
-复国主义	zionis|n,zionisme|n
-复国主义者	zionis|n
-复国主义者的	zionis|n
-复地	tertoleh-toleh|v
-复复	berdolok-dalik,dolak-dalik
-复复的	berdolok-dalik,dolak-dalik
+复式	kayu|n
 复归	marjik
-复数	abang-abang|n,abid-abid|n,abidin|n,adik-adik|n,ajak-ajak|n,anak-anak|n,anjing-anjing|n,asatizah|n
-复数的	abang-abang|n,abid-abid|n,abidin|n,adik-adik|n,ajak-ajak|n,anak-anak|n,anjing-anjing|n,asatizah|n
-复杂	belit|v,kompleks|n
+复数	abidin|n,asu-asu|n,asatizah|n,abid-abid|n,adik-adik|n,ajak-ajak|n,anak-anak|n,atap-atap|n
+复数的	abidin|n,asu-asu|n,asatizah|n,abid-abid|n,adik-adik|n,ajak-ajak|n,anak-anak|n,atap-atap|n
+复杂	kompleks|n,belit|v
 复杂的	kompleks|n
-复的	berdolok-dalik,dolak-dalik,meraba-raba|v,mubazir|adj
 复盖	menekup
-對	alah|adj
-對照	alah|adj
-怍	umpilan
-怍用	umpilan
-服	baju|n,binatang jinak,bujuk,bundle|n,busana|n,cuci baju,dobi|n,fasilitator|n
-服从	mematuhi|v,menaati,patuh,junjung|v,junjung titah,patih
+妍丽	lawa|adj
+對照and。战败	alah|adj
+服	servis|n,perkhidmatan|n,fesyen|n,busana|n,khidmat|n,layan|v,jasa,padan muka
+服从	mematuhi|v,patuh,menaati,patih,junjung titah
 服从命	junjung titah
 服从命令	junjung titah
 服从的	patih
-服务	jasa,khidmat|n,padan muka,perkhidmatan|n,servis|n,fasilitator|n,periuk belanga|n,pramugara
-服务员	pramugara
+服务	servis|n,perkhidmatan|n,khidmat|n,jasa,padan muka,fasilitator|n
 服务商	fasilitator|n
+服帖	senonoh|adj
 服待	layan|v
-服的	binatang jinak,jinak
-服的动	binatang jinak
-服的动物	binatang jinak
-服者	dobi|n
-服装	busana|n,fesyen|n,sari
-植	as|n,bakawali|n,benalu,bengkudu,bertanam,botani|n,fitoterapi|n,graf kulit|n
-植土	humus
-植片	graf kulit|n
-植物	ketum|n,nabatah,stamen,tanam|v,tumbuh-tumbuhan,tumbuhan|n,as|n,bakawali|n
-植物名	bengkudu,kerubut,setawar,melaka,selasih|n
-植物学	botani|n
+服装	fesyen|n,busana|n
+植	tumbuhan|n,ketum|n,tanam|v,stamen,nabatah,tumbuh-tumbuhan
+植株	tumbuhan|n
+植民	jajahan|n
+植物	tumbuhan|n,ketum|n,tanam|v,stamen,nabatah,tumbuh-tumbuhan,upas|n,bakawali|n
+植物名	kerubut,setawar,bengkudu
+植物学植物学	botani|n
 植物属	bakawali|n
 植物毒	upas|n
-植物治	fitoterapi|n
-植物治疗	fitoterapi|n
 植物治疗法	fitoterapi|n
 植物疾	hama tanaman
 植物疾病	hama tanaman
-植物菌	menalu
-渍	bekasam,jeruk|adj,lecuh,mengacar|v
-渍物	bekasam,jeruk|adj,mengacar|v
-砍	kerat|v,mencencang,mengapak,membabat,menakuk,menebang,menumbangkan,merampat
-砍伐	membabat,menebang,menumbangkan,tebang|v,tebas,tebangan
+砍	kerat|v,tebas,mencencang,mengapak,tetak|v,tebang|v,membabat,menebang
+砍伐	tebas,tebang|v,membabat,menebang,menumbangkan,tebangan
 砍伐物	tebangan
 砍倒	tebang|v,reba
 砍倒树	reba
@@ -523,45 +392,33 @@
 砍斩	tetak|v
 砍缺	menakuk
 砍缺口	menakuk
-碍	adang,aral|n,galang,ganggu,ganguan,gendala,hadang|n,halang|v
-碍物	ranjau|n,sekatan|n
-稍	berengsot,berganjak,ekor mata,engsot,ganjak|v,pucuk|n
-稍为	berengsot,engsot
-稍为移	berengsot,engsot
+稍	pucuk|n
+稍为	berengsot
+稍为移	berengsot
 稍为移动	berengsot
-稍为移开	engsot
-稍为移开或	engsot
-稍为移开或移	engsot
 稍为移开或移动	engsot
 稍头	pucuk|n
-稍微	berganjak,ganjak|v
-稍微移	berganjak,ganjak|v
-稍微移动	berganjak,ganjak|v
+稍微	ganjak|v,berganjak
+稍微移	ganjak|v,berganjak
+稍微移动	ganjak|v,berganjak
 箍	temin
-耍	bermain|v,senda,senda-gurau
-舍	asrama|n,bangsal,bersedekah,derma|n,gubuk,hostel,ikhtiar|n,khairat
-舍物	derma|n,sedekah|n
-萍	berjerempak,jerempak
-萍水	berjerempak,jerempak
-萍水相	berjerempak,jerempak
-萍水相逢	berjerempak,jerempak
-蜍	kangkung|n,katak puru|n
+萍水	jerempak,berjerempak
+萍水相	jerempak,berjerempak
+萍水相逢	jerempak,berjerempak
 融	pembiayaan|n,setiakawan
 融洽	setiakawan
 融资	pembiayaan|n
-袍	ceongsam|n,jubah
-谍	pengintip|n
 逍	lonco
 逍遥	lonco
 鈍	bot
-钍	torium|n
-霍	buang wang,cika,kolera
+钍钍	torium|n
+钍钍T	torium|n
+钍钍Th	torium|n
+霍	cika
 霍乱	cika,kolera
 霍乱的	kolera
-霍无	buang wang
-霍无度	buang wang
-鞍	rengka,sela,pelana|n
-餍	jelak|adj
+霍尔	balai|n
+鞍	sela,rengka
 餍足	jelak|adj
 餍足的	jelak|adj
 龍	naga|n

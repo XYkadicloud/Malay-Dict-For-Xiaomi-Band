@@ -1,308 +1,216 @@
-乘	berkendera,kali|v,menaiki,mengalikan,tunggang|adj,menumpang,perahu|n,pesisir|n
-乘出	taksi|n,ulat sapu|n,ulat teksi|n
-乘出租	taksi|n,ulat sapu|n,ulat teksi|n
-乘出租车	taksi|n,ulat sapu|n,ulat teksi|n
+X	x-ray
+X光	x-ray
+乘	kali|v,tunggang|adj,pesisir|n,menaiki,berkendera,mengalikan,racak,menumpang
 乘切	selembana
 乘切暴	selembana
 乘切暴风	selembana
+乘务	servis|n
 乘坐	racak
 乘客	pesisir|n
 乘搭	menumpang
-乘方	sekstilion|num
-乘船	perahu|n
-付	bayar|v,bayar tunai,bayar waktu terima|n,bayaran ansur,dam|adj,impas,kontan,melangsai
-付开	membiayai
-付开销	membiayai
-付款	membayar|v,bayar waktu terima|n,bayaran ansur,pembayar,setor,tempah|v
+付	dam|adj,bayar|v,membayar|v
+付款	membayar|v,bayar waktu terima|n,setor,pembayar
 付款交	bayar waktu terima|n
 付款交货	bayar waktu terima|n
 付款人	pembayar
 付款给	setor
-付款项	tempah|v
-付现	kontan,bayar tunai
+付现	bayar tunai
 付现款	bayar tunai
-付的	pascabayar|adj,prabayar|adj
 付还	impas,melangsai
-付钱	bayar|v,dam|adj
+付钱	dam|adj,bayar|v
 俘	menawan
 俘获	menawan
-变	berubah|v,alergi|n,alih|v,alih kata,bertukar,haba|n,harimau jadi-jadian,iskandar
-变体	iskandar
-变化	perubahan,salin|v,syif|n,ubah|v,ubah hati,ubahan,varia,perubahan iklim|n
+勘验	ujian|n
+变	berubah|v,transformasi|n,ubah|v,syif|n,salin|v,lungsin|n,melebar|v,memasam|v
+变元	perang mulut|n,pemboleh ubah|n
+变化	ubah|v,syif|n,salin|v,varia,ubahan,perubahan,ubah hati
 变味	mamik
 变应	alergi|n
 变应性	alergi|n
-变形	lungsin|n,setu,transformasi|n
-变成	melebar|v,memasam|v,membesar|v,membusuk|v,memendek|v,memutih|v,mendunia|v,mengabu|v
+变弯曲	teluk|n
+变形	transformasi|n,lungsin|n,setu
+变成	melebar|v,memasam|v,memutih|v,mengabu|v,membesar|v,membusuk|v,memendek|v,mendunia|v
 变成弓	melengkung|v
 变成弓形	melengkung|v
-变把	silap mata,sunglap mata
-变把戏	silap mata,sunglap mata
-变方	legat
-变方向	legat
-变方向的	legat
+变把	sunglap mata,silap mata
+变把戏	sunglap mata,silap mata
+变故	kemalangan|n
 变更	alih|v
-变热	haba|n
 变焦	kanta zum|n,lensa zum|n
 变焦镜	kanta zum|n,lensa zum|n
 变焦镜头	kanta zum|n,lensa zum|n
-变白	peluntur|n
-变的	harimau jadi-jadian,pemboleh ubah|n,tetap|adj
-变的事	pemboleh ubah|n
-变的事物	pemboleh ubah|n
-变的老	harimau jadi-jadian
-变的老虎	harimau jadi-jadian
-变老	penuaan|n,jadi-jadian
-变老虎	jadi-jadian
-变老虎的	jadi-jadian
-变老虎的人	jadi-jadian
-变聋	memekakkan|v,pekakkan|v
-变航	rempat
-变航路	rempat
+变老	penuaan|n
 变色	sumpah-sumpah|n
 变色龙	sumpah-sumpah|n
 变节	mungkir
-变褐	nilau|n
-变褐色	nilau|n
-变话	alih kata
-变话题	alih kata
 变迁	pancaroba|n
 变迁的	pancaroba|n
-员	abdi negara|n,ahli|n,akademikus,aktres|n,anggota|n,anggota dewan,arga,asit
-员会	hadat,jawatankuasa|n,komiti,pantita,suruhanjaya|n
-员组	teknokratik|adj
-员组成	teknokratik|adj
-员组成的	teknokratik|adj
-塘	tebat,kolam|n,lobok,londang,lopak,paluh,welahar,wilahar
+变量	pemboleh ubah|n
+员工	staf|n,kakitangan|n
+塘	tebat
 姘	pacal|pron
 姘妇	pacal|pron
-存	ada|v,koeksistensi|n,mencari hidup,menitipkan,pendingin hawa|n,penyaman udara|n,simpan|v,titip
-存取	pendingin hawa|n,penyaman udara|n
-存取周	pendingin hawa|n,penyaman udara|n
-存取周期	pendingin hawa|n,penyaman udara|n
+存	titip,menitipkan
 存在	ada|v,wujud
-存放	menitipkan,titip
-忘	alpa|adj,catan,lupa|v,mamang,melupakan|v
-忘录	catan
-忘的	mamang
+存放	titip,menitipkan
+存款者	pelabur|n
+存水弯	perangkap|n
+忘	lupa|v,melupakan|v
 忘记	lupa|v,melupakan|v
-托	menatang,menating,amanah,berdagu,cerana,fakir,iktizam|n,kawasan rehat|n
-托区	kawasan rehat|n
-托的	komited|adj
-托盘	cerana,talam|n
-托着	berdagu
-托着下	berdagu
-托着下巴	berdagu
-托着下巴坐	berdagu
+托	menatang,menating,talam|n,cerana
+托盘	talam|n,cerana
 托着下巴坐着	berdagu
-托者	sengelat
-托车	motosikal|n
 托钵	fakir,zahid
 托钵僧	fakir,zahid
-拘	banduan|n,lokap|n
-拘留	banduan|n,lokap|n
+拘囚	banduan|n
+拘束	canggung|adj
+拘留	lokap|n
 拘留所	lokap|n
-拘留者	banduan|n
-摘	gentas,petik|v,gait,gugat,ikhtisar,jolok,memetik,menggait
-摘一	ranggah
-摘一空	ranggah
-摘取	gentas,menjolok
-摘取果	menjolok
-摘取果子	menjolok
-摘录	mengutip,petik|v
-摘要	ikhtisar,ringkasan,sari
-棘	onak
-橘	jinggakan|v,kemuning|n,limau|n,oyen|n,sejingga|adj,sitrus|n
-橘属	sitrus|n
-橘属果	sitrus|n
-橘属果树	sitrus|n
-淘	kincah,kosek,kumbah,lampan,landa,limbang,mendulang,mengosek
+摘	petik|v,gentas,sari,ikhtisar,mengutip,ringkasan
+摘取	gentas
+摘录	petik|v,mengutip
+摘要	sari,ikhtisar,ringkasan
+橘柑	jingga|adj
+橘红	jingga|adj
+橘色	jingga|adj
+淘	lampan,landa,kincah,kumbah,riau,serkai,kosek,limbang
 淘出	riau
+淘客	bual|n
 淘气	nakal|adj
 淘气的	nakal|adj
-淘洗	kincah,kosek,kumbah,lampan,limbang,mendulang,riau,serkai
+淘洗	lampan,kincah,kumbah,riau,serkai,kosek,limbang,mendulang
 淘洗米	mengosek
+淘箩	bakul|n
 淘金	landa
-烘	bembam,layur,menyalai,panggang|v,kacir,kapis|n,kerepek|n,konjak|n
+烘	panggang|v,layur,bembam,menyalai,kerepek|n,salai,menyejatkan
 烘干	menyejatkan
-烘烘	kacir,konjak|n,kucar-kacir
-烘烘的	kacir,kucar-kacir
-烘烤	kapis|n
+烘炉	ketuhar|n
 烘热	salai
-烘的	kacir,kucar-kacir
+烘箱	ketuhar|n
 烘饼	kerepek|n
-痘	bopeng,borek,cacar,cacar air,cacar monyet|n,jeluntung,kerotot,ketumbuhan
-痘疤	bopeng,borek,kerotot,mopeng,recak
+痘	cacar,mopeng,borek,recak,bopeng,kerotot
+痘疤	mopeng,borek,recak,bopeng,kerotot
 痘症	cacar
-盘	nali,abakus|n,berbelit,berbelit-belit,bergelung,bersila,bindu,cakra|n
-盘子	pinggan|n,sajian|n
+盘	pinggan|n,lingkar|cls,kelecek,mengelecek,berbelit,bergelung,melingkar,berbelit-belit
+盘1	nali
+盘16	nali
+盘子	pinggan|n
 盘尼	penisilin|n
 盘尼西	penisilin|n
 盘尼西林	penisilin|n
 盘球	kelecek,mengelecek
-盘绕	berbelit,berbelit-belit,bergelung,lingkar|cls,melingkar
-盘膝	bersila,timpuh
-盘膝而	bersila,timpuh
-盘膝而坐	bersila,timpuh
-秘	batin,buka rahsia,curi-curi|adv,daya ghaib,ghaib,keinderaan|n,merisik,pecah khabar
-秘主	tasawuf|n
-秘主义	tasawuf|n
-秘书	sekretaris,setiausaha|n
-秘家	sufi
-秘密	rahsia|adj,buka rahsia,curi-curi|adv,merisik,pecah khabar,rahsia perniagaan|n,risik|v,risikan
+盘绕	lingkar|cls,berbelit,bergelung,melingkar,berbelit-belit
+盘膝	timpuh,bersila
+盘膝而	timpuh,bersila
+盘膝而坐	timpuh,bersila
+盘费	tambang|n
+秘	rahsia|adj,setiausaha|n,peru,sekretaris
+秘书	setiausaha|n,sekretaris
+秘密	rahsia|adj,curi-curi|adv,risik|v,merisik,risikan
 秘密地	curi-curi|adv
-秘密调	merisik,risik|v,risikan
-秘密调查	merisik,risik|v,risikan
-秘的	batin,daya ghaib,ghaib,keinderaan|n
-秘的力	daya ghaib
-秘的力量	daya ghaib
+秘密调	risik|v,merisik,risikan
+秘密调查	risik|v,merisik,risikan
+秘诀	rahsia|adj,kunci|n
 秘鲁	peru
-绘	arkitek|n,lukis
+绘	lukis
 绘图	lukis
 绘测	arkitek|n
 绘测师	arkitek|n
 绘画	lukis
-翘	jengkit,jonget,lonjak,menjengkit,menjonget
-翘起	jengkit,jonget,menjengkit,menjonget
+翘	jonget,jengkit,menjonget,menjengkit
+翘硬	keras|adj
+翘起	jonget,jengkit,menjonget,menjengkit
 翘足	lonjak
 翘足而	lonjak
 翘足而行	lonjak
-聘	emas kahwin,mahar kahwin,pecat
+聘	emas kahwin,mahar kahwin
 聘金	emas kahwin,mahar kahwin
-还	masih|adv,mengembalikan|v,agen penurunan|n,alaupundemikian,balik kampung|n,basah lembab,bayaran,belum|adv
-还价	berpayu
-还原	agen penurunan|n
-还原剂	agen penurunan|n
+还	masih|adv,mengembalikan|v
+还原剂还原剂	agen penurunan|n
 还报	kisas
-还是	alaupundemikian,juga|adv
-还未	basah lembab
-还未干	basah lembab
+还是	juga|adv,alaupundemikian
+还有	pun|adv
 还未干透	basah lembab
 还未干透的	basah lembab
 还没	belum|adv
 还清	menjelaskan|v
-还的	bayaran
-还的钱	bayaran
 还钱	dam|adj
 镘	kulir
-飘	berkibar,jembak,katung|n,kibar|v,layang|v,melambai-lambaikan,rapung,terjembak-jembak
-飘动	jembak,melambai-lambaikan,terjembak-jembak
-飘扬	berkibar,kibar|v,layang|v
+飘	kibar|v,katung|n,layang|v,jembak,rapung,berkibar,terjembak-jembak,melambai-lambaikan
+飘动	jembak,terjembak-jembak,melambai-lambaikan
+飘扬	kibar|v,layang|v,berkibar
 飘荡	katung|n,rapung
-高	tinggi|adj,aerologi|n,azhar,bapa moyang|n,belodok,bengah,beria-ria,buyut laki-laki|n
-高一	jongkat-jangkit
-高一低	jongkat-jangkit
-高一低的	jongkat-jangkit
+飘飘	mambang|n
+高	tinggi|adj,lalang|n,penara|n,manggul
 高举	mangku,renjong
 高低	jongkat
 高傲	bengah,huju,jemawa
 高傲的	huju,jemawa
-高兴	gembira|adj,gerang,girang,senang|adj,sukacita,beria-ria,dingin hati,menggirangkan
-高兴得	pekau
-高兴得喊	pekau
-高兴得喊起	pekau
+高兴	senang|adj,gembira|adj,gerang,girang,sukacita
 高兴得喊起来	pekau
-高兴的	dingin hati
 高出	belodok
 高出的	belodok
-高利	cetek pengetahuan,kalendar gregory|n,takwim gregory|n
-高利历	kalendar gregory|n,takwim gregory|n
+高利	cetek pengetahuan
 高利贷	cetek pengetahuan
 高利贷者	cetek pengetahuan
+高压氧治疗	pun|adv
+高压氧疗法	pun|adv
 高原	dataran tinggi
-高地	manggul,penara|n
+高地	penara|n,manggul
+高塔	menara|n
 高声	menengking
 高声说	menengking
-高大	mongkok,serdang,sergam
-高大棕	serdang
-高大棕榈	serdang
-高大棕榈树	serdang
-高大棕榈树之	serdang
-高大棕榈树之一	serdang
+高大	mongkok,sergam
 高大棕榈树之一种	serdang
 高大的	mongkok,sergam
 高尔	golf
 高尔夫	golf
 高尔夫球	golf
+高峰	mercu|n,puncak|n
+高年	buruk|adj
 高度	julang senjata|n,tinjah
-高彩	gemirang,girang-gemirang
-高彩烈	gemirang,girang-gemirang
-高或	celat
-高或跳	celat
-高或跳远	celat
-高敬	junjung tinggi
-高敬意	junjung tinggi
-高曾	bapa moyang|n,buyut laki-laki|n,buyut lelaki|n,buyut perempuan|n,datuk datuk nenek|n,ibu moyang|n,nenek datuk nenek|n
-高曾祖	bapa moyang|n,buyut laki-laki|n,buyut lelaki|n,buyut perempuan|n,datuk datuk nenek|n,ibu moyang|n,nenek datuk nenek|n
-高曾祖母	buyut perempuan|n,ibu moyang|n,nenek datuk nenek|n
-高曾祖父	bapa moyang|n,buyut laki-laki|n,buyut lelaki|n,datuk datuk nenek|n
+高强	elok|adj
+高昂	mubazir|adj,tinggi|adj
+高明	gemilang|adj,bijak|adj
+高曾	ibu moyang|n,bapa moyang|n,buyut lelaki|n,buyut laki-laki|n,buyut perempuan|n,datuk datuk nenek|n,nenek datuk nenek|n
+高曾祖	ibu moyang|n,bapa moyang|n,buyut lelaki|n,buyut laki-laki|n,buyut perempuan|n,datuk datuk nenek|n,nenek datuk nenek|n
+高曾祖母	ibu moyang|n,buyut perempuan|n,nenek datuk nenek|n
+高曾祖父	bapa moyang|n,buyut lelaki|n,buyut laki-laki|n,datuk datuk nenek|n
 高涨	kenaikan
+高深	hebat|adj
 高溺	meningkat
-高烧	demam panas
-高的	lalang|n,langsar,mancung,mughayat,seri|n,tertinggi,tinggi harapan
-高的希	tinggi harapan
-高的希望	tinggi harapan
-高空	aerologi|n,kaji angkasa|n
-高空气	aerologi|n,kaji angkasa|n
-高空气象	aerologi|n,kaji angkasa|n
-高空气象学	aerologi|n,kaji angkasa|n
+高的	lalang|n
+高空气象学空气学	aerologi|n,kaji angkasa|n
 高等	mahkamah tinggi
 高等法	mahkamah tinggi
 高等法庭	mahkamah tinggi
 高粱	sekoi
-高级	temenggung,terburuk,tercantik,tertampan
-高级官	temenggung
-高级官员	temenggung
 高耸	julang|v,menjulang|v,mongkok,tersergam
 高耸的	mongkok,tersergam
-高脚	pahar|n,piala|n
+高脚	piala|n,pahar|n
 高脚杯	piala|n
 高脚盆	pahar|n
-高自	ngada
-高自大	ngada
-高至	rabbani
-高至上	rabbani
-高至上的	rabbani
 高良	lengkuas|n
 高良姜	lengkuas|n
-高血	hipertegangan|n,hipertensi|n
-高血压	hipertegangan|n,hipertensi|n
+高血	hipertensi|n,hipertegangan|n
+高血压	hipertensi|n,hipertegangan|n
 高视	lenggok|v
 高视阔	lenggok|v
 高视阔步	lenggok|v
 高贵	gahara,safi
 高贵的	gahara,safi
 高起	julang|v,menjulang|v
+高超	elok|adj
 高速	ekspreswe|n,jalan ekspres|n,lebuh raya ekspres|n
 高速公	ekspreswe|n,jalan ekspres|n,lebuh raya ekspres|n
 高速公路	ekspreswe|n,jalan ekspres|n,lebuh raya ekspres|n
-高采	riah
-高采烈	riah
-高额	maksimum
+高速路	tol|n
+高靿	lama|adj,tinggi|adj
 高龄	mamai|adj
 高龄的	mamai|adj
-默	berat mulut,berhadis|v,bersemadi,bungkam|adj,diam-diam,hadis|n,humor,jenaka|n
+默	semadi|v,mengung,menung,temenung,bersemadi
 默不	bungkam|adj,membisu|v
 默不作	bungkam|adj,membisu|v
 默不作声	bungkam|adj,membisu|v
-默寡	berat mulut
-默寡言	berat mulut
-默寡言的	berat mulut
-默德	berhadis|v,hadis|n,maulud,sayid
-默德后	sayid
-默德后裔	sayid
-默德后裔的	sayid
-默德后裔的阿	sayid
-默德后裔的阿拉	sayid
-默德后裔的阿拉伯	sayid
-默德后裔的阿拉伯人	sayid
-默德的	maulud
-默德的诞	maulud
-默德的诞辰	maulud
-默德的诞辰日	maulud
-默德言	berhadis|v,hadis|n
-默德言行	berhadis|v,hadis|n
-默德言行录	berhadis|v,hadis|n
-默想	bersemadi,mengung,menung,semadi|v,temenung
-默的	berat mulut,jenaka|n,pegan,sengap
+默想	semadi|v,mengung,menung,temenung,bersemadi
 默考	mengung

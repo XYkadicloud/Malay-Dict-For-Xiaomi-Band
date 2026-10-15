@@ -1,7 +1,7 @@
 mi	mi	n	面条	noodle
 miang	miang	adj	好色的	Itchy sensation similar to psoriasis.
 miap	miap		吱吱喳喳叫，鸟语
-mib	mib		[计] 管理信息库
+mib	mib		[计] 管理信息库	acronym of Melayu Islam Beraja (“the state ideology of Brunei”).
 mika	mika		你，汝，尔
 mikahkan	mikahkan		嫁女，嫁
 mikro	mikro	adj	表示"小"	micro (very small)
@@ -49,13 +49,13 @@ minyak	minyak	n	油	Oil:
 minyaksapi	minyak sapi	n	印度液体奶油  印度酥油	ghee
 minyaktanah	minyak tanah	n	火水；煤灯	kerosene; paraffin oil
 minyakwangi	minyak wangi	n	香水	perfume
-mirah	mirah	adj	荒废的
+mirah	mirah	adj	荒废的	obsolete form of merah
 miring	miring		倾斜；边缘	p. pr. & vb. n. of Mire
 mirip	mirip	adj	相同的，同类的	similar; look like; having similarity to
 misa	misa	n	水牛；古爪哇官衔名	the Mass
 misai	misai	n	髭	moustache (hair on upper lip)
 misal	misal	n	例子，比喻	example
-misalan	misalan	n	同义词
+misalan	misalan	n	同义词	synonym of misal (“example”)
 misalkan	misalkan	v	使相等	to equate
 misalnya	misalnya	prep	例如，譬如	for example (as an example)
 misan	misan	n	蜂蜜	honey
@@ -69,6 +69,6 @@ misoa	misoa	n	真正的	Misua; a very thin variety of salted Chinese noodles mad
 misoginis	misoginis	n	厌恶女人的人	misogynist
 misru	misru		丝绵混织布
 mistar	mistar		尺，横线；面罩
-misyen	misyen	n	同义词
+misyen	misyen	n	同义词	synonym of misi
 mitos	mitos	n	神话	myth (story)
 mizan	mizan	n	缩放	scales

@@ -1,2 +1,2 @@
-ph	ph		词首字母缩略词
-phl	phl	adv	[医][=phospholipid]磷脂
+ph	ph		词首字母缩略词	initialism of Pakatan Harapan (“Alliance of Hope”)
+phl	phl	adv	[医][=phospholipid]磷脂	abbreviation of pahal or pehal.

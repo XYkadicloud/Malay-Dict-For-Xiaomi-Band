@@ -1,8 +1,8 @@
 zodiak	zodiak	n	黄道带	zodiac
-zohor	zohor	n	两者择一
+zohor	zohor	n	两者择一	alternative form of zuhur
 zohrin	zohrin		女性	a female given name
 zon	zon	n	地带	zone
-zonder	zonder	prep	不用，没有
+zonder	zonder	prep	不用，没有	alternative form of sonder
 zonpengudaraan	zon pengudaraan	n	通风  换气	aeration zone
 zonwaktu	zon waktu	n	时区	time zone
 zoo	zoo	n	动物园	zoo (park where live animals are exhibited)

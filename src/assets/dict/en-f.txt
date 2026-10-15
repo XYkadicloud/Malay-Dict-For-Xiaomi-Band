@@ -1,121 +1,131 @@
-fabric	fabrik|n,langit-langit|n
-face	berseba|v,hadap|v,mendada|v,menghadap|v,muka|n,peseban|n
+fabric	lasam|adj
+fabric a material made of fibers	fabrik|n
+fabric placed on top of a room under an attap roof	langit-langit|n
+face	muka|n,wajah|n
 facilitator	fasilitator|n
 facility	fasiliti|n
-fact	fakta|n,memang|adv,sebenarnya|adv
-factor	faktor lorentz|n
+factor one of the elements	faktor
 factory	kilang|n,pabrik|n
 faculty	fakulti|n
 faded	pucat|adj
 faeces	air besar|n
-faham	paham|n
-fahami	difahami|v,memahami|v
-fail	gagal|v,gawak|v,jual janji|v
+fail	gawak|v
 failure	kegagalan|n
-faint	pengsan|v,samar|adj
+faint	samar|adj
 fair	adil|adj
+fairly	agak|adv
 fairy	peri-peri|n
-faith	darul iman,iman|n,soleh|adj
-fajr	subuh|n
-fake	original|adj
-fall	gugur|v,jatuh|v,kejatuhan|n,musim gugur|n,musim luruh|n,penurunan|n
-falling	labuh|adj
-false	bohong|adj,dajal|n,gigi palsu|n,kesedaran palsu|n,palsu|adj,paus hitam|n
-familiar	mat|n
-family	famili|n,insanak|n,keluarga|n,keluarga diraja|n,mawas|n,pohon keluarga|n
+faith	iman|n
+fajr the first of five daily prayers in islam	subuh|n
+fall	kejatuhan|n,penurunan|n,musim gugur|n,musim luruh|n
+falling while hung from something	labuh|adj
+false	palsu|adj,bohong|adj
+false alarm	penggera palsu|n
+false consciousness	kesedaran palsu|n
+false not correct or true	salah|adj
+false teeth	gigi palsu|n
+false untrue	silap|adj
+familiar	kamu|pron
+family	insanak|n
+family father	famili|n,keluarga|n
+family tree	pohon keluarga|n,pokok keluarga|n
 famished	bulur|adj
-famous	masyhur|adj,sohor|adj,terkenal|adj
-fan	kaki jiwang|n,kipas|n,mat rok|n,nyiru|n,peminat|n,penyokong|n
-fanatic	fanatik|adj,taasub|adj
-fancy	mubazir|adj,suji|n
-fantasy	angan|n,fantasi|n,lamunan|n
-far	dura|adj,jauh|adj,setakat|prep,takat|prep
-fardu	fardhu|n
-fardukan	difardukan|v,memfardukan|v
+famous	sohor|adj,masyhur|adj,terkenal|adj
+fan	kipas|n
+fanatic	taasub|adj,fanatik|adj
+fancy	mubazir|adj
+fancy needlework	suji|n
+fantasy	angan|n,fantasi|n,angan-angan|n
+faq	soalan lazim|n
+far	dura|adj,jauh|adj
 fare	tambang|n
 farmer	peladang|n
-farming	pertanian|n,tani|n
+farming	tani|n,pertanian|n
 farsang	farsakh|n
 fart	kentut|n
-fasal	pasal|n
 fascination	pukau|n
 fascism	fasisme|n
-fascist	fasis|n
-fashion	fesyen|n,gaya|n
-fasihkan	difasihkan|v,memfasihkan|v
-fasilitator	fasi|n
-fast	cepat|adj,ekspres|adj,imsak|n,kencang|adj,laju|adj,lancar|adj
-fasten	semat|v
+fashion	gaya|n,fesyen|n
+fast	laju|adj,cepat|adj,lancar|adj,pantas|adj,ekspres|adj,kencang|adj
+fast movement of a horse	ligas|n
+fast-paced	rancak
 fastener	kancing|n
 fasting	puasa|n
-fat	debab|adj,gemuk|adj,lemak|n,lemak trans|n,tambun|adj
+fat	debab|adj,gemuk|adj,lemak|n,tambun|adj
 fat-bellied	gendut|adj
 fate	nasib|n
 fatha	fathah|n
-father	abah|n,abuya|n,aya|n,ayah|n,ayah angkat|n,ayah kandung|n
+father	aya|n,yah|n,abah|n,baba|n,papa|n,rama|n,abuya|n,bapai|n,bapang|n,bapanda|n
 fatherland	tanah air|n
 fatigued	lorat|adj
 fatwa	fatwa|n
 faultless	nirmala|adj
-faults	alas kubur|n
+favourable	bagus|adj
 favourite	boga|n
 fearful	cuak|adj
-feast	id|n,kenduri|n,makan-makan|n,santap|v
-februari	feb
+feast	kenduri|n,makan-makan|n
+feast day	id|n
 february	bulan dua|n,februari
-feces	berak|n,najis|n,tahi|n
+feces	tahi|n,berak|n,najis|n
 federacy	federasi|n
-federal	mosko
-federated	persekutuan mikronesia
+federated states of micronesia	persekutuan mikronesia
 federation	federasi|n,federesyen|n
-federesyen	federesen|n
 fee	fi|n
-feedback	maklum balas|n,suap balik|n
-feel	penyaman|n,terasa|v
-feeling	cinta|n,mat pen|n,pening kepala|adj,perasaan|n
-feign	acah|v,mengacah|v,mengacah-acah|v
-feigning	acahan|n
-fell	tebang|v
-female	amput|n,anjing betina|n,asu betina|n,biarawati|n,bibi|n,farhana
+feedback	suap balik|n,maklum balas|n
+feeling	perasaan|n
+feeling himself important	mat pen|n
+feeling hurt and dizzy	pening kepala|adj
+feeling of love	cinta|n
+feign	acah|v
+female belonging to the sex with larger	perempuan|n,betina
+female dog	asu betina|n,anjing betina|n
+female equivalent of biarawan	biarawati|n
+female equivalent of mahasiswa	mahasiswi|n
+female equivalent of seniman	seniwati|n
+female equivalent of siswa	siswi|n
+female equivalent of wartawan	wartawati|n
+female genital	amput|n
+female hair bun	sanggul|n
+female pimp	ibu ayam|n
 feminism	feminisme|n
-feminist	feminis|n
 fen	paya|n,rawa|n
-fence	memagari|v,pagar|n,pagar elektrik|n
-fend	tangkis|v
+fend off	tangkis|v
 fennel	adas landi|n
-feral	jalang|adj,liar|adj
+feral	jalang|adj
+feral living in a state of nature	liar|adj
 fermentation	penapaian|v
-fermented	belacan|n
 fermium	fermium|n
+fern any of numerous flowerless	paku
 ferocious	ganas|adj,garang|adj
 ferry	feri|n
-fertile	subur|adj
+fertile	subur|adj,produktif|adj
 fertilisation	persenyawaan|n
-fertilized	biji|n
+fertilizable ga	betina
+fertilizable gametes	perempuan|n
+fertilized ovule that contain plant embryo	biji|n
 fertilizer	baja|n,pupuk|n
-festival	hari raya|n,perayaan|n,pesta kaul
-fetch	ambil|v
+festival	perayaan|n,hari raya|n
+festive full of people	ramai|adj
 fetid	hanyir|adj
 feud	perang mulut|n
-feudal	syogun|n
-fever	demam|n,pijau|n
-few	baru|adj,sedikit|adj,sikit|adj
+few	beberapa|adj
 fewer	kurang|adj
 fez	tarbus|n
 fianc	tunang|n
 fiance	tunang|n
-fibers	fabrik|n
-fibre	gentian|n,guni|n
+fibre	gentian|n
 fiction	fiksyen|n
-ficus	jawi-jawi|n
-fidah	fidzah|n
-fiddle	kodek|v
-fiddler	ketam rebab|n
-fidgety	belisah|adj,resah|adj
-field	bendang|n,bidang|n,lapangan|n,otai|n,padang|n
+ficus rhododendrifolia	jawi-jawi|n
+fiddler crab	ketam rebab|n
+fiddler crabs	uca
+fidgety	resah|adj,belisah|adj
+field	bidang|n,lapangan|n
+field an expanse of ground or territory	lahan|n
+field land area free of woodland	padang|n
 fierce	galak|adj,ganas|adj,garang|adj
-fifteen	lima belas|num,satu puluh lima|num,sepuluh lima|num
-fifth	anak panjang|n,kelima|adj
+fifteen	lima belas|num,sepuluh lima|num,satu puluh lima|num
+fifth	kelima|adj
+fifth child	anak panjang|n
 fifty	lima puluh|num
 fifty-eight	lima puluh lapan|num
 fifty-five	lima puluh lima|num
@@ -126,160 +136,215 @@ fifty-seven	lima puluh tujuh|num
 fifty-six	lima puluh enam|num
 fifty-three	lima puluh tiga|num
 fifty-two	lima puluh dua|num
-fig	ara|n,jawi-jawi|n
-fight	gaduh|v,juang|v,perjuangan|n
-fighter	pejuang|n,pesawat pejuang|n,pesawat tempur|n
-figuratively	berkaitan dengan,berkenaan dengan,curi ayam|v,oleh sebab itu|adv,tanam anggur|v,tidak akan|adv
-figure	bunga bahasa|n,rajah|n,reca|n,susuk|n
-fikir	difikir|v,fikiri|v,memikir|v,pikir|n
-fikiri	difikiri|v,memikiri|v
-fikirkan	difikirkan|v
+fig	ara|n
+fight	perjuangan|n
+fighter	pejuang|n
+fighter aircraft	pesawat tempur|n,pesawat pejuang|n
+fighter plane	pesawat tempur|n,pesawat pejuang|n
+figure	reca|n,rajah|n,susuk|n
+figure of speech	bunga bahasa|n
 file	fail|n,kawad|n
-filem	filam|n,filpen|n
-fill	acapi|v,mengisi|v
-filled	berisi|v
-film	filem|n
+film	filem|n,selaput
 filth	kotoran|n
-fin	paus sirip|n,sirip|n
-final	lah|part,muktamad|adj
+fin	sirip|n
+final of a decision	muktamad|adj
+final particle indicating an imperative	lah|part
 finalization	pemuktamadan|n
-finalize	muktamadkan|v
 finance	kewangan|n
-financial	rugi|n
+financial loss	rugi|n
 financing	pembiayaan|n
-finch	emperit|n
-find	mengetahui|v
-fine	denda|n,elok|adj,halus|adj
-finger	jari hantu|n,jari kelengkeng|n,jari manis|n,jari telunjuk|n,jari tengah|n,kelengkeng|n
+finch	pipit|n,emperit|n
+fine	elok|adj,denda|n,halus|adj,indah|adj,renik
 fingerprint	cap jari|n
-fingers	cekak|v
-finish	kautim|v,selesai|v
 finished	habis|v,sudah|adv,tamat|adj
-fire	api|n,balai bomba|n,bomba|n,cerawat|n,mencurah minyak ke api|v,nyala|n
-firearm	senapang|n,senjata api|n
+fire	api|n,nyala|n,pawaka|n,hinggap|v,nyalaan|n
+fire arrow	cerawat|n
+fire brigade	bomba|n
+fire department	bomba|n
+fire extinguisher	pemadam api|n
+fire hydrant	pili bomba|n
+fire station	balai bomba|n
+firearm	senjata api|n
 firecracker	mercun|n
-firefighter	abang bomba,ahli bomba|n
+firefighter	ahli bomba|n
 firefly	kelip-kelip|n
 firewall	tembok api|n
 firewood	kayu api|n
-firework	kembang api|n
-firm	azam|n,padat|adj,tegas|adj
+firm	padat|adj,tegas|adj
+firm intention	azam|n,tekad|n
 firmly	erat|adv
-first	adam,aku|pron,anak sulung|n,awal|adj,kami|pron,kaola|pron
-first-person	abui|v,abuk|v,bandarkan|v,kotai|v,kotakan|v,negaraku|n
-fish	baung|n,baung akar|n,baung pisang|n,berikan|v,bubu|n,budu|n
+first	awal|adj,kesatu|adj,pertama|num
+first child	anak sulung|n
+first person singular pronoun	aku|pron,saya|pron
+first-person and second-person passive of membandarkan	bandarkan|v
+first-person and second-person passive of memperkotakan	perkotakan|v
+first-person and second-person passive of mengotai	kotai|v
+first-person and second-person passive of mengotakan	kotakan|v
+first-person singular possessive of negara	negaraku|n
+fish	ikan|n
+fish hook	mata kail|n
+fish poison made from plant roots	tuba|n
+fish sauce	kicap ikan|n,kicap sotong|n
+fish trap	bubu|n,lukah|n
 fishball	bebola ikan|n
 fisherman	nelayan|n
 fishery	perikanan|n
-fishes	tamban|n
-fishing	kucing ikan|n,pancing|n,payang|n,pukat|n
+fishing cat	kucing ikan|n
+fishing pole	pancing|n
+fishing rod	pancing|n
 fishling	anak ikan|n
-fissure	belah|n
-fist	buku lima|n,tinju|n
-fit	muat|adj,nyaman|adj,segar|adj
-fitting	bilik acu|n,padan|adj,patut|adj
-five	lima|num,lima ratus|num,lima ribu|num,panca|num,pancaindera|n,rukun|n
-fix	membaiki|v,tentukan|v
-fixed	tetap|adj
-fixedly	tenung|v
-flag	bendera|n,bendera merah|n,jalur gemilang,panji|n,panji-panji|n
+fissure	celah|n
+fist	tinju|n,buku lima|n
+fit	muat|adj,nyaman|adj
+fit of plants	segar|adj
+fitting	padan|adj,patut|adj
+fitting room	bilik acu|n
+five	lima|num,panca|num
+five hundred	lima ratus|num
+five senses	pancaindera|n
+five thousand	lima ribu|num
+fixed	tentu|adv,tetap|adj
+flag	panji|n,bendera|n,panji-panji|n
+flags	kibar|v
 flame	nyala|n
+flames	padam|adj
 flamingo	flamingo|n
 flank	rusuk|n,samping|n
-flare	marak|v
 flash	kilas|n
 flashback	imbas kembali|n
 flask	kelalang|n
-flat	capati|n,datar|adj,dataran|n,keping|cls,kuetiau|n,pamah|n
+flat	rata|adj,datar|adj,helai|cls,pamah|n,papar|adj,satah|n,cakera|n,keping|cls
 flat-chested	tekcik|adj
-flat-headed	kucing hutan|n
+flat-headed cat	kucing hutan|n
+flattened	ranap
 flatus	kentut|n
-flavour	perisa|n,rasa|n
+flavour	rasa|n,perisa|n
 flaw	cacat|n
 flawless	nirmala|adj
-flay	lapah|v
-flee	cabut|v
-fleet	armada|n
 flesh	isi|n
-flicker	mengelip|v
-flickering	pendar|n
-flight	pramugari|n
+flexible objects such as cloth	helai|cls
+flexible sheet or layer	selaput
+flickering light	pendar|n
 flipper	sirip|n
-float	apung|v,luntang|n
-flog	mencari jejak dalam air|v
 flood	bah|n,banjir|n
-flooded	keairan|adj,sebak|adj
+flooded	sebak|adj
+flooded with water	keairan|adj
 flooding	keairan|adj
 floodwater	air bah|n
 floor	lantai|n,tingkat|n
-floss	abon|n
-flour	tepung|n,tepung berserbuk penaik|n
-flow	aliran|n,arus|n,leleh|v,salir|v
-flower	bunga|n,kembang|n,kesuma|n,ketam bunga|n
+flour	tepung|n
+flow	aliran|n
+flow continuous movement of air	arus|n
+flower	bunga|n,kesuma|n,kembang|n
+flower crab	ketam bunga|n
 flowering	pengembangan|n
 flowerpecker	kelicap|n
 flowerpot	jambangan|n
+flowers	petikan|n
+flows northward into the lapt	lena
 fluency	kefasihan|n
-fluent	fasih|adj,fasihkan|v
-fluid	cecair badan|n,ketuban|n,liter|n,tuban|n
-fluids	peluh|n
+fluent	fasih|adj
 fluorine	fluorin|n
 flute	seruling|n
-fly	lalat|n,layang|v,terbang|v
-flying	keluang|n,luncur keluang|n
+fly	lalat|n
+flying fox	luncur keluang|n
 foam	busa|n
-focus	meneroka|v,mengelupas|v,menular|v,tumpu|v
-focused	tertumpu|v
 foe	musuh|n
-foetida	bacang|n,embacang|n,kembacang|n,macang|n,mancang|n,membacang|n
 fog	kabut|n
-foil	kerajang|n,kerancang|n
-fold	biru-biru|n,kedut|n,kedutan|n,keledut|n,kerdut|n,lipat|v
-folded	duduk bersimpuh|v
+fold	biru-biru|n
 folder	pelipat|n
-folds	berkedut|v
 foliage	rimbunan|n
-folk	cerita rakyat|n
+folk story	cerita rakyat|n
 folktale	cerita rakyat|n
-follow	berikut|v,ikut|v
 followed	diikuti|v
-following	berikutnya|adj,ikutan|n
-food	gulai|n,luah|v,makanan|n,medan selera|n
+following	berikutnya|adj
+food	makanan|n,syubhah|adj
+food court	medan selera|n
+food mixtures either arranged on a plate or tossed and se	salad
 fooled	terperdaya|v
-foolish	babuk|adj,jahil|adj,sementung|adj,tolol|adj
-foot	hentak|v,kaki|n,terajang|v
+foolish	babuk|adj,jahil|adj,tolol|adj,sementung|adj
+foot	kaki|n
 football	bola sepak|n
 footer	pengaki|n
 foothill	kaki bukit|n
 footrest	bangku kaki|n
+for	nak|prep,demi|prep,hendak|prep,selama|prep
+for a moment	sekilas|adv,sebentar|adv,seketika|adv
+for a while	sebentar|adv,seketika|adv
+for example	misalnya|prep,contohnya|prep,sebagai contoh
+for generations	berzaman-zaman|v
+for intended for	untuk|prep
+for one night	semalam|n
+for shiite	imam
+for sure	gerenti|adv
+for the record	untuk rekod
+for the sake of	demi|prep
+for what reason	kenapa|adv
 forbearance	kesabaran|n
-forbid	larang|v,menegah|v,tegah|v
-forbidden	haram|adj,terlarang|adj
-force	bala|n,paksa|v
+forbidden	haram|adj,berlarangan|adj
+force	bala|n
 forceful	kuat|adj
 forceps	forsep|n
 forecaster	peramal|n
-forefinger	jari telunjuk|n
 forehead	dahi|n
-foreign	asing|adj,wisma putra
+foreign	asing|adj
 foreskin	kulup|n
-forest	bunian|n,hutan|n,pangan|n,rimba|n
+forest	hutan|n,rimba|n,pangan|n
 forestation	penghutanan|n
-forestry	kehutanan|n,perhutanan|n
-forever	abad al-abad|n,selalu|adv,selama-lamanya|adv
-foreword	prakata|n
-forge	meranduk|v
-forget	lupa|v
-forgiveness	astaghfirullah,maaf|int
+forestry	perhutanan|n
+forever	selalu|adv,abad al-abad|n,selama-lamanya|adv
+forgiveness	maaf|int
 fork	garpu|n
-formal	formal|adj,formalkan|v,informal|adj,keformalan|n,melarang|v,melarangkan|v
-formalkan	diformalkan|v,memformalkan|v
-former	mahafiraun,mantan|adj,purba|adj
-formerly	merambong
-fort	benteng|n,kota|n,mengotai|v
-fortress	benteng|n
-fortunate	kemujuran|n,mujur|adj,nasib baik|adj
-fortune	kemujuran|n,suasti|n,tuah|n
+form	rupa|n,bentuk|n,borang|n
+form of address to one's grandfather	tuk|n
+form of ritual washing performed before prayer or salat	air sembahyang|n
+formal	formal|adj
+formal active of abadikan to immortalize	mengabadikan|v
+formal active of abahkan	mengabahkan|v
+formal active of abaikan	mengabaikan|v
+formal active of abar	mengabar|v
+formal active of abdikan	mengabdikan|v
+formal active of animasikan	menganimasikan|v
+formal active of beri	memberi|v
+formal active of berikan	memberikan|v
+formal active of berus	memberus|v
+formal active of capati	mencapati|v
+formal active of cemeti	mencemeti|v
+formal active of curi	mencuri|v
+formal active of edit	mengedit|v
+formal active of erti	mengerti|v
+formal active of imbang balas	mengimbang balas|v
+formal active of jelaskan	menjelaskan|v
+formal active of larang	melarang|v
+formal active of larangkan	melarangkan|v
+formal active of lawan	melawan|v
+formal active of lebarkan	melebarkan|v
+formal active of lihat	melihat|v
+formal active of melayukan to translate into malay	memelayukan|v
+formal active of muat turun	memuat turun|v
+formal active of nasionalisasikan	menasionalisasikan|v
+formal active of pandu	memandu|v
+formal active of pendekkan	memendekkan|v
+formal active of perjelas	memperjelas|v
+formal active of perlebar	memperlebar|v
+formal active of rasuahi	merasuahi|v
+formal active of runut	merunut|v
+formal active of runuti	merunuti|v
+formal active of sentuh	menyentuh|v
+formal active of sunting	menyunting|v
+formal active of tegur	menegur|v
+formal active of telan	menelan|v
+formal active of teliti	meneliti|v
+formal active of tunggang	menunggang|v
+formal of curi-curi	mencuri-curi|adv
+former	purba|adj
+former position holders	mantan|adj
+former prime minister of malaysia	mahafiraun
+formerly a term of respect for important white europeans	sahib
+formerly known as pulo ular	merambong
+formerly the southern part of sudan	sudan selatan
+fortunate	mujur|adj,nasib baik|adj
+fortune	tuah|n,suasti|n,kemujuran|n
 forty	empat puluh|num
 forty-eight	empat puluh lapan|num
 forty-five	empat puluh lima|num
@@ -290,83 +355,96 @@ forty-seven	empat puluh tujuh|num
 forty-six	empat puluh enam|num
 forty-three	empat puluh tiga|num
 forty-two	empat puluh dua|num
-forward	luru|v
 fossil	fosil|n
 foul	hangit|adj
-foul-smelling	konjak|n
-foundation	asas|n,yayasan|n
-founded	berdasar|v,berdasarkan|v
+found in waters of the west indies nv c	permit
+foundation	alas|n,asas|n,yayasan|n
+founded on	berdasarkan|v
 fountain	air pancut|n
-four	catur|num,empat|num,empat ratus|num,empat ribu|num,itik sudu|n,pepejal|n
-four-cornered	keban|n
-four-wheel	pacuan empat roda|n
-fourteen	empat belas|num,satu puluh empat|num,sepuluh empat|num
-fourth	anak pandak|n,keempat|adj,suku|n
-fox	anjing fox terrier|n,keluang|n,luncur keluang|n,rubah|n,rubah artik|n
-foxtail	jawawut|n
-fraction	pecahan|n
+four	catur|num,empat|num
+four hundred	empat ratus|num
+four thousand	empat ribu|num
+four-wheel drive	pacuan empat roda|n
+fourteen	empat belas|num,sepuluh empat|num,satu puluh empat|num
+fourth	suku|n,keempat|adj
+fourth child	anak pandak|n
+fox	rubah|n
+fox terrier	anjing fox terrier|n
+foxtail millet	jawawut|n
+fraction	pecahan|n,sebahagian|det
 fragile	rapuh|adj
 fragmented	cerai-berai|adj
 fragrance	raksi|n,wangian|n
 fragrant	harum|adj,wangi|adj
 framework	alas|n
-francaiskan	difrancaiskan|v,memfrancaiskan|v
 france	perancis
-franchise	francais|n,francaiskan|v,pemfrancaisan|n
-franchisee	francaisi|n
-franchisor	francaisor|n
+franchising	pemfrancaisan|n
 francium	fransium|n
-free	bebas|adj,gratis|adj,masa lapang|n,masa lega|n,membebaskan|v,merdeka|adj
-free-running	melincirkan|v
-freedom	ampun|n,kebebasan|n
+free	bebas|adj,gratis|adj,merdeka|adj,percuma|adj
+free kick	sepakan percuma|n,tendangan percuma|n
+free time	masa lega|n,masa lapang|n
+freedom	kebebasan|n
+freedom from a punishment	ampun|n
 freeway	lebuh raya|n
 freezer	peti sejuk beku|n
 freight	tambang|n
-french	kentang goreng|n
+french fries	kentang goreng|n
+french painter of italian landscapes	corot
 frequency	frekuensi|n,kekerapan|n
 frequent	kerap|adj
-frequently	acap|adv,acap kali|adv,kaki disko|n,sering|adv,soalan lazim|n
+frequently	acap|adv,sering|adv,acap kali|adv
+frequently asked questions	soalan lazim|n
+frequently goes to nightclub or discos	kaki disko|n
 fresco	fresko|n
-fresh	makan angin|v
-freshener	penyegar udara|n
-fresher	penyaman|n
-freshwater	yuyu|n
-friable	lempung|adj,rapuh|adj
+friable	rapuh|adj
 friday	jumaat
-fridge	peti air batu|n,peti ais|n
-fried	ayam goreng|n,nasi goreng|n
-friend	kawan|n,konco|n,member|n,rakan|n,sahabat|n,sobat|n
+fridge	peti ais|n,peti air batu|n
+fried chicken	ayam goreng|n
+fried rice	nasi goreng|n
+friend	kawan|n,konco|n,rakan|n,sobat|n,teman|n
 friendly	manja|adj
-fries	kentang goreng|n
-frighten	takutkan|v
 frightened	ketakutan|adj
-frivolously	merepet|v,repet|v
 frog	katak|n,kodok|n
+frog and so on	uak|n
+from	daripada|prep
+from a place	dari|prep
+from arabic	maryam,meriam
+from exertion	lemas|adj
+from the beginning	sedia|adv,semula|adv
 frond	pelepah|n
-front	barisan|n,depan|prep
-frost	fros|n,ibun|n,nyahfros|v
+front	depan|prep,barisan|n
+frontier the line that separates two g	sempadan
+frost	fros|n,ibun|n
 frozen	beku|adj
-fruit	alap|v,belimbing|n,berbuah|v,buah|n,ciku|n,halwa|n
+fruit and leaves of any lycium species used in cooking goji	koki|n,kauki|n
+fruit of garcinia mangostana	manggista|n,manggistan|n
+fruit of the tropical tree artocarpus altilis	sukun|n
+fruit of the tropical tree nephelium ramboutan-ake	pulasan|n
+fruit preserved in sugar	halwa|n
+fruit the seed-bearing part of a plant	buah|n
 fruitful	makmur|adj
-fry	anak ikan|n,goreng|v
-frying	rendang|n
-fuel	mencurah minyak ke api|v
-fulfil	memperkotakan|v
-full	bersungguh-sungguh|adv,jenuh|adj,kenyang|adj,khusyuk|adj,nama penuh|n,penuh|adj
+fruits	petikan|n
+fry	anak ikan|n
+frying in nothing more than a little oil or fat	rendang|n
+full	tepu|adj,jenuh|adj,penuh|adj,kenyang|adj,sempurna|adj
+full moon	pernama|n,purnama|n
+full name	nama penuh|n
 full-time	sepenuh masa|adj
 fume	wasap|n
-fun	bergarah|v,ejek|v,kelucuan|n,menganjing|v,seronok|adj,usik|v
+fun	seronok|adj,kelucuan|n
 function	fungsi|n
-functions	serbaguna|adj
 fund	dana|n
 fundamental	asasi|adj
-fundamentalist	walaun|n
 fungus	kulat|n
-funny	kekek|adj,lawak|adj,lucu|adj,membadut-badutkan|v
-furious	bengis|adj
+funny	lucu|adj,kekek|adj,lawak|adj
+fur	regas|v
+furious	bengis|adj,geram
+furlough	cuti|n
 furniture	perabot|n
 furry	berbulu|adj
+furthest away	hujung|adj
 fuse	fius|n,sumbu|n
 futanari	futanari|n
 futile	sia-sia|adj,tak guna|adj
-future	masa depan|n,nanti|adv
+future	masa depan|n
+fuzzy brown egg-shaped fruit with slightly tart green fle	kiwi

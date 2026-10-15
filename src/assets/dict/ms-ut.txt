@@ -1,4 +1,4 @@
-utak	utak	n	荒废的
+utak	utak	n	荒废的	obsolete form of otak
 utama	utama	adj	主要	best
 utan	utan	n	拼错	misspelling of hutan
 utang	utang	n	债

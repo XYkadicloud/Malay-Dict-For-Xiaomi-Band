@@ -1,121 +1,78 @@
-厂	kilang|n,kilang papan,loji|n,pabrik|n
-喂	oi,mam|v,menyuapkan,menyusukan,sombol,susukan
+。数	puloh|num
+。数词	puloh|num
+。数词一近义词	eka|num
+。数词十近义词	dasa|num
+。藍色的近义词	belau|adj
+。言语举止	bahasa|n
+厂子	kilang|n,ela|n
+厂家	kilang|n
+厂工	kilang|n
+厂房	kilang|n
+喂	oi,mam|v,hai,susukan,heh,menyuapkan,menyusukan
 喂养	mam|v
-喂奶	menyusukan,susukan
+喂奶	susukan,menyusukan
 喂食	menyuapkan
-垂	anak lidah|n,anak tekak|n,anting,bergayut,berjumbai,berkelapai,berkulai,cacak
-垂下	kelemping,luyu
-垂吊	bergayut,berkulai,gantung|v,gayut
+喂！	hai,heh
+垂	labuh|adj,gantung|v,rudu,jelejeh,gayut,kuncup,rumbai,runtai
+垂下	kelemping
+垂吊	gantung|v,gayut,bergayut,berkulai
 垂头	romok
 垂头丧	romok
 垂头丧气	romok
-垂悬	berkelapai,kelepai
-垂摆	runtai,kulai,lebir
-垂摆动	kulai,lebir
-垂摆动的	kulai
-垂摇	kelepik,kelepit
-垂摇动	kelepik,kelepit
-垂摇动状	kelepit
+垂悬	kelepai,berkelapai
+垂摆	runtai
 垂曳	labuh|adj
 垂死	nazak|n
 垂死挣	nazak|n
 垂死挣扎	nazak|n
 垂涎	jelejeh
-垂物	anting
-垂的	berjumbai,gelabir,gelambir,jumbai,jumbil,kulai,kutai,lampai
-垂的皮	gelabir,gelambir,jumbil
-垂的皮肉	gelabir,gelambir
-垂直	cacak,garis tegak lurus,horizontal|adj,hunjam,mengufuk|adj,tegak|adj,terhunjam,vertikal|adj
+垂直	tegak|adj,mengufuk|adj,vertikal|adj,cacak,horizontal|adj,hunjam,terhunjam,garis tegak lurus
 垂直插	hunjam,terhunjam
 垂直插入	hunjam,terhunjam
-垂直的	cacak,mengufuk|adj,tegak|adj
-垂直线	garis tegak lurus,horizontal|adj,vertikal|adj
+垂直的	tegak|adj,mengufuk|adj,cacak
+垂直线	vertikal|adj,horizontal|adj,garis tegak lurus
 垂脸	rudu
-垂荡	berjumbai,jumbai
-垂荡着	berjumbai,jumbai
+垂荡	jumbai,berjumbai
+垂荡着	jumbai,berjumbai
 垂闭	kuncup
 垂饰	rumbai
-堂	ruang|n,adan,akaf,balai raya|n,bilal|n,cendarawasih,gendang raya,gereja|n
-堂兄	sepupu|n
-堂兄弟	sepupu|n
-堂兄弟姐	sepupu|n
+堂	ruang|n,lantin
+堂兄弟姊妹	sepupu|n
 堂兄弟姐妹	sepupu|n
-堂内	mimber
-堂内之	mimber
-堂内之讲	mimber
-堂内之讲经	mimber
-堂内之讲经台	mimber
-堂庙	lebai|n
-堂庙祝	lebai|n
-堂或	pupu
-堂或表	pupu
-堂或表兄	pupu
-堂或表兄弟	pupu
-堂或表兄弟姐	pupu
+堂堂	agung|adj
+堂堂正正	persegi|n
 堂或表兄弟姐妹	pupu
-堂所	akaf
-堂所拥	akaf
-堂所拥有	akaf
-堂所拥有的	akaf
-堂所拥有的产	akaf
-堂所拥有的产业	akaf
-堂的	gendang raya
-堂的鼓	gendang raya
 堂皇	perlenteh
 堂皇的	perlenteh
-堂祈	bilal|n
-堂祈祷	bilal|n
-堂祈祷召	bilal|n
-堂祈祷召唤	bilal|n
-堂祈祷召唤人	bilal|n
 堂费	lantin
-堂鸟	cendarawasih
-如	laksana|prep,penaka,apa macam|adv,apakala,asalkan,awalan,bagaikan|prep,bagaimanapun
-如上	insya allah
-如上帝	insya allah
-如上帝允	insya allah
-如上帝允许	insya allah
-如上帝允许的	insya allah
+如	laksana|prep,bagaikan|prep,apa macam|adv,begini|adv,jikalau|conj,jika|conj,seperti|prep,kalau|conj
+如一	selaras|adj
 如上帝允许的话	insya allah
-如也	kompal-kampil
-如何	apa macam|adv,betapa,macam mana|adv,bagaimanapun
+如何	apa macam|adv,macam mana|adv,betapa
 如同	bagaikan|prep,seperti|prep
-如山	mambu
 如斯	kian
 如是	begini|adv
-如果	apakala,asalkan,jika|conj,jikalau|conj,kalau|conj,kiranya,malah,malahan
-如棉	putih macam kapas
-如棉花	putih macam kapas
-如此	begini|adv,demikian|adv,macam ini|adv,sekian,sekianlah,biarlah,dan sebagainya,semoga|adv
-如此类	dan sebagainya
-如泥	budu|n
-如泥的	budu|n
-市	bandaraya|n,bandar|n,bandar raya|n,bentong,budak bandar|n,canggung|adj,cawat|n,cyberjaya
-市化	membandarkan|v
+如果	jikalau|conj,jika|conj,kalau|conj,malah,asalkan,malahan,apakala,senyampang
+如此	begini|adv,demikian|adv,macam ini|adv,sekian
+如此到此为止	sekianlah
+如金似玉	indah|adj
+岂能？怎能？食物	masakan
+市	bandaraya|n,pekan|n,warganegara|n,pasar|n,rakyat|n,pasaran|n,memasarkan|v,malakat
 市区	bentong,temerloh
-市场	malakat,memasarkan|v,pasar|n,pasaran|n,pekan|n,pasaran dunia
-市居	urbanisme|n
-市居民	urbanisme|n
-市居民的	urbanisme|n
-市居民的生	urbanisme|n
-市居民的生活	urbanisme|n
-市居民的生活方	urbanisme|n
-市居民的生活方式	urbanisme|n
-市州	perlis
-市民	rakyat|n,warganegara|n,canggung|adj
-市民间	canggung|adj
-市民间舞	canggung|adj
+市场	pekan|n,pasar|n,pasaran|n,memasarkan|v,malakat
+市民	warganegara|n,rakyat|n
 市民间舞蹈	canggung|adj
-市男	budak bandar|n
-市男孩	budak bandar|n
-市的	kebandaran|adj,urban
-市蜃	logamaya|n
-市蜃楼	logamaya|n
-市镇	madinat,pekan|n,pura
+市立	bandar|n
+市镇	pekan|n,pura,madinat
 市长	datuk bandar|n
-异	ajaib|adj,aneh|adj,bercengan,bidaah|n,dahsyat|n,diversiti|n,kafir,kagum|adj
-异常	dahsyat|n,negaraku|n,sebatang|cls,secangkir|cls,seekor|cls,sehelai|cls,sepucuk|cls
-异常的	dahsyat|n,negaraku|n,sebatang|cls,secangkir|cls,seekor|cls,sehelai|cls,sepucuk|cls
+市长市	datuk bandar|n
+市长市长	datuk bandar|n
+市集	adil|adj
+异	bidaah|n,selisih
+异乎寻常	mantul|adj
+异同	banding|n
+异常	dahsyat|n,seekor|cls,sehelai|cls,sepucuk|cls,negaraku|n,sebatang|cls,secangkir|cls
+异常的	dahsyat|n,seekor|cls,sehelai|cls,sepucuk|cls,negaraku|n,sebatang|cls,secangkir|cls
 异形	saleh
 异形的	saleh
 异教	bidaah|n,kafir,zindik
@@ -125,170 +82,138 @@
 异火	upit
 异火线	upit
 异点	selisih
-异的	ajaib|adj
+异物	mambang|n
 异端	keparat
 异端的	keparat
+异议	bantahan|n
 怂	lenja
 怂恿	lenja
-挂	bergantung|v,kendong|v,menyampirkan,menyangkukan,berjuntai,bimbang,gantung|v,kelompong
-挂于	selepang
-挂于肩	selepang
-挂于肩上	selepang
+挂	kendong|v,bergantung|v,menyampirkan,menyangkukan,luar talian|adj,suspens,kelompong
 挂念	bimbang
 挂念的	bimbang
-挂的	lara
 挂皮	kulim
 挂皮树	kulim
-挂着	tergantung,berjuntai,terjuntai
+挂着	tergantung
 挂线	luar talian|adj
 挂虑	suspens
 挂钩	kelompong
-掂	menggamak,menimang-nimang
-掂量	menggamak,menimang-nimang
-昂	bergelora,berkobar-kobar,gelora|n,menggelodak
-昂的	bergelora,berkobar-kobar
-暂	buat sementara,fana,gencat,istirahat|n,jeda|v,sementara|adv,sentara|adj,singgah|v
+昂贵	mubazir|adj,mahal|adj
+暂	sementara|adv,jeda|v,tumpang|v,istirahat|n,singgah|v,buat sementara
 暂住	tumpang|v
 暂停	istirahat|n,singgah|v,jeda|v
 暂停时	jeda|v
 暂停时间	jeda|v
-暂时	buat sementara,jeda|v,sementara|adv,gencat,sentara|adj
+暂时	sementara|adv,sentara|adj,jeda|v,buat sementara,gencat
 暂时停	gencat
 暂时停止	gencat
 暂时的	sentara|adj
-暂的	fana
-概	agaknya|adv,gagasan,gamak-gamak,gambaran,hitung-hitung|v,ikhtisar,imej|n,lebih kurang|adv
-概念	gagasan,gambaran,pemandangan,imej|n
+暂短	singkat|adj
+概	membayangkan|v,sinopsis|n,ikhtisar,pemandangan,gagasan,gambaran
+概形	skim|n
+概念	imej|n,pemandangan,gagasan,gambaran
 概念形	imej|n
 概念形象	imej|n
+概括	sekilas|adv
 概略	hitung-hitung|v
 概略地	hitung-hitung|v
 概要	sinopsis|n
 概论	ikhtisar
 概述	membayangkan|v
-涂	berlumur,calit,conteng|n,memalit,palit|n,becat|n,belacak|n,bercelak
-涂以	sadur
-涂以金	sadur
-涂以金属	sadur
-涂以金属色	sadur
+涂	palit|n,conteng|n,lumus|adj,memalit,calit,berlumur,usap,pupus
 涂以金属色彩	sadur
 涂以金属色彩的	sadur
-涂抹	corek,garut,lulut,lumas,melumas,pantis,usap
-涂掉	memupuskan,mencoret,pupus
-涂料	sepuh
-涂污	lumur,lumus|adj,mencalit,menconteng,sememeh,semlelat,sokom,gelumang
+涂家	seniman|n,pengecat|n
+涂抹	usap,garut,lulut,lumas,corek,pantis,melumas
+涂抹酱	pembentangan|n
+涂掉	pupus,memupuskan,mencoret
+涂料	cat|n
+涂污	lumus|adj,lumur,sokom,sememeh,mencalit,semlelat,menconteng,gelumang
 涂污的	gelumang
-涂的	ropak
-涂眉	bercelak,celak
-涂眉黛	bercelak,celak
-涂鱼	becat|n,belacak|n
-漂	bias|v,melampung,rapung,ampung,calak,cantik|adj,cantik molek,elok|adj
-漂亮	cantik|adj,cantik molek,mejelis,calak,elok|adj,gelis|adj,jelita,julai
+涂眉	celak,bercelak
+涂眉黛	celak,bercelak
+漂	bias|v,cantik|adj,rapung,melampung,larut|v,hanyut|v,embara,tualang
+漂亮	cantik|adj,elok|adj,gelis|adj,julai,mejelis,cantik molek,jelita,permai
 漂亮男	mat jambu|n
 漂亮男孩	mat jambu|n
-漂亮的	calak,elok|adj,gelis|adj,jelita,julai,permai,santing,simbai
-漂泊	embara,hanyut|v,kembara,mengembara,tualang
-漂流	ampung,empar,hanyut|v,larut|v,ombang-ombing,terkatung-katung
+漂亮的	elok|adj,gelis|adj,julai,jelita,permai,calak,simbai,santing
+漂泊	hanyut|v,embara,tualang,kembara,mengembara
+漂流	larut|v,hanyut|v,empar,ampung,ombang-ombing,terkatung-katung
 漂浮	hanyut|v,lampung,mengapung
-漂白	peluntur|n
+漂白变白漂白	peluntur|n
 漂离	empar
 漂离航	empar
 漂离航线	empar
-皂	kaldron|n,kawah|n,sabun|n,sabun wangi
-皂锅	kaldron|n,kawah|n
-砂	batu kerikil|n,bijih|n,empedal|n,gersik,kelilip,kerakal,kersik|n,tingkal|n
+皂碱	sabun|n
+砂	kersik|n,empedal|n,batu kerikil|n,kelilip,kerakal,gersik
 砂囊	empedal|n
-砂烁	kerakal,kersik|n
+砂子	pasir|n
+砂烁	kersik|n,kerakal
 砂石	gersik
-砂砾	batu kerikil|n,gersik,kelilip
-纂	leksikografi|n,pekamus|n,penyusun kamus|n,perkamusan|n
-纂者	pekamus|n,penyusun kamus|n
-脂	anime|n,batu pahat,damar|n,debab|adj,gincu|n,kebayakan,lemak|n,lemak trans|n
-脂眼	tulai|n
-脂眼凹	tulai|n
-脂眼凹肩	tulai|n
+砂砾	batu kerikil|n,kelilip,gersik
+脂	lemak|n,debab|adj,tambun|adj,lulut
 脂眼凹肩鲹	tulai|n
 脂粉	lulut
-脂肪	debab|adj,lemak|n,tambun|adj,kebayakan,lemak trans|n
-脂肪酸	lemak trans|n
-舂	antan|n,hentak|v,menumbuk,memirik,pirik,sula
-舂碎	memirik,pirik
-节	acara|n,aidilfitri,artropod|n,bioritma|n,buku jadi,buku jari|n,buku lali|n,camna|adv
-节主	camna|adv,camni|adv,camtu|adv,cereka|n,filpen|n,gimam|v,medsos|n,takyah|adv
-节主音	camna|adv,camni|adv,camtu|adv,cereka|n,filpen|n,gimam|v,medsos|n,takyah|adv
-节俭	irit,jimat|adj
-节律	bioritma|n
-节快	selamat hari raya|int
-节快乐	selamat hari raya|int
-节拍	irama,rentak|n
-节日	hari besar,hari raya|n,id|n,perayaan|n
+脂肪	lemak|n,debab|adj,tambun|adj
+脂膏	lemak|n,suasti|n
+膂力	muthu|n
+舂	antan|n,hentak|v,menumbuk,pirik,memirik
+舂碎	pirik,memirik
+节	acara|n,hari raya|n,rentak|n,perayaan|n,jimat|adj,id|n,irama,iktisad
+节俭	jimat|adj,irit
+节候	musim|n
+节奏	ritma|n
+节庆	perayaan|n
+节律	ritma|n
+节拍	rentak|n,irama
+节操	integriti|n
+节日	hari raya|n,perayaan|n,id|n,hari besar
 节略	rumuskan
-节痛	sengal|adj
-节的	camna|adv,camni|adv,camtu|adv,cereka|n,filpen|n,gimam|v,medsos|n,monggol
-节目	acara|n,lebaran,juruacara,juruhebah|n,pengaturcaraan|n,program|n,siaran
-节目报	juruacara,juruhebah|n
-节目报告	juruacara,juruhebah|n
-节目报告员	juruacara,juruhebah|n
-节目的	pengaturcaraan|n
-节目的计	pengaturcaraan|n
+节目	acara|n,lebaran,program|n
+节目报告员	juruhebah|n,juruacara
 节目的计划	pengaturcaraan|n
 节目表	program|n
-节省	iktisad,irit,jimat|adj,mencermatkan,cermat|adj
+节省	cermat|adj,jimat|adj,iktisad,irit,mencermatkan
 节省的	cermat|adj
-节第	kunut
-节第十	kunut
-节第十六	kunut
-节第十六夜	kunut
-节第十六夜晚	kunut
-节第十六夜晚的	kunut
-节第十六夜晚的祈	kunut
-节第十六夜晚的祈祷	kunut
 节约	iktisad
 节肢	artropod|n
 节肢动	artropod|n
 节肢动物	artropod|n
-节间	lopak,ruas
-节间的	lopak,ruas
-节间的段	ruas
-节间的间	lopak
-节间的间隙	lopak
-茂	lebat|adj,mewah|adj,rendang|n,repuh,riap,rimbun,subur|adj
-茂密	rendang|n,rimbun
-茂密的	rendang|n,rimbun
+节选	pemilihan|n
+茂	repuh
+茂密	rimbun
+茂密的	rimbun
 茂生	repuh
-茂的	riap
 茂盛	lebat|adj,mewah|adj,rendang|n,subur|adj
 茂盛的	lebat|adj,mewah|adj,rendang|n,subur|adj
-蒂	meranti|n,puntung
-蒂木	meranti|n
-蚂	rangrang,semut|n
-蚂蚁	semut|n,rangrang
-蜂	angkut-angkut,apitoksin|n,geriak,kelulut,kerawai,kerumun|v,lebah|n,madu|n
-蜂巢	sialang,medok,sambang
+蚂	semut|n
+蚂蚁	semut|n
+蜂	kerumun|v,madu|n,misan|n,geriak,rubung,sialang
+蜂巢	sialang,medok
 蜂巢状	medok
-蜂拥	geriak,kerumun|v,rubung
+蜂拥	kerumun|v,geriak,rubung
 蜂毒	apitoksin|n
 蜂毒素	apitoksin|n
 蜂蜜	madu|n,misan|n
-螂	cecunguk|n,cencada,cencadu,cengkadak,kepuyuk|n,lipas|n,lipas kudung|n,mentadak|n
-貂	samur|n
-适	adaptasi|n,bingit,cocok|v,cocokkan,cukup umur,gegadan,janggal,keselesaan|n
-适中	lumayan|adj,sederhana|adj
+适	selaras|adj,adaptasi|n,kesesuaian|n,penuhi,cocokkan,cukup umur,mengakomodasikan,menyesuaikan
+适中	sederhana|adj,lumayan|adj
 适中的	sederhana|adj
-适合	kesesuaian|n,penuhi,selaras|adj,gegadan,padan|adj,pas|adj,sembada,suai
-适合的	gegadan,padan|adj,pas|adj,sembada,suai,surup|v,yogia
+适切	senonoh|adj
+适合	selaras|adj,kesesuaian|n,padan|adj,pas|adj,surup|v,penuhi,suai,yogia
+适合的	padan|adj,pas|adj,surup|v,suai,yogia,gegadan,sembada
 适宜	labut
 适宜的	labut
-适应	adaptasi|n,cocokkan,mengakomodasikan,menyesuaikan,melaraskan
-适当	janggal,layak|adj,munasabah,ngam|adj,sedang|adv,semenggah,senonoh|adj,ugahari
-适当的	layak|adj,munasabah,ngam|adj,sedang|adv,semenggah,senonoh|adj,ugahari,yogia
-适意	bingit
-适意的	bingit
-适的	luang|adj,padan|adj
+适应	adaptasi|n,cocokkan,mengakomodasikan,menyesuaikan
+适度	senonoh|adj
+适当	senonoh|adj,layak|adj,sedang|adv,munasabah,ugahari,yogia,semenggah
+适当地	elok-elok|adv
+适当的	senonoh|adj,layak|adj,sedang|adv,munasabah,ugahari,yogia,semenggah
+适当的适当	ngam|adj
+适当的适当的	ngam|adj
 适龄	cukup umur
-锂	litium|n
-颂	berzikir
-骂	maki|v,memarahi,mencaci,redik,sigai,bentak,bercedak,cacimaki
+锂锂	litium|n
+锂锂L	litium|n
+锂锂Li	litium|n
+骂	maki|v,sigai,redik,mencaci,memarahi,ronggah
 骂人	ronggah,hamun
 骂人的	hamun
 骂人的话	hamun

@@ -1,112 +1,103 @@
-仪	adab|n,air sembahyang|n,kesusilaan,khutbah nikah,pengimbas|n,susila|n,upacara|n,wiladan
-仪式	air sembahyang|n,upacara|n,khutbah nikah,wiladan
+仪	upacara|n,adab|n,air sembahyang|n
+仪典	upacara|n
+仪器	peranti|n
+仪容	rupa|n
+仪式	upacara|n,air sembahyang|n
 仪态	adab|n
-剪	memotong|v,menggunting,potong|v,tutuh,astaga,astakona|adj,babat,cyber
+仪表	rupa|n
+剪	potong|v,memotong|v,tutuh,menggunting,potongan|n,dah|adv,pat|num,gunting|n
 剪刀	gunting|n
 剪去	punggal
-剪指	tobak
-剪指甲	tobak
-剪断	astaga,astakona|adj,cyber,dah|adv,insta,legas,pat|num
-剪者	pemotong|n
-剪裁	gunting|n,potongan|n
+剪断	dah|adv,pat|num,astakona|adj,legas,cyber,insta,astaga
+剪裁	potongan|n,gunting|n
 剪饰	lilis
-只	hanya|adv,sahaja|adv,cuma|adv,sekadar|adv,selagi,semata-mata|adv,tempurung|n
+只	hanya|adv,sahaja|adv
+只不过	cuma|adv
+只怕	barangkali|adv,kalu|adv
 只是	cuma|adv,sekadar|adv,semata-mata|adv
-只椰	tempurung|n
-只椰壳	tempurung|n
+只管	baru|adj,sekadar|adv
 只要	selagi
-哪	dari mana|adv,di mana|adv,ke mana|pron,mana|adv
-哪里	dari mana|adv,ke mana|pron,mana|adv,di mana|adv
-啪	berdetus,detus,gerutup
-啪声	berdetus,detus,gerutup
-噪	bergeming|v,gempar,hiruk-piruk,kebisingan,memek
-噪的	memek
+哪个	siapa|pron
+哪些	apa|pron,siapa|pron
+哪儿	di mana|adv,mana-mana|adv
+哪怕	rata|adj
+哪里	mana|adv
+哪门子	apa|pron
+噪	bergeming|v
+噪声	hingar|n
 噪音	bergeming|v
-婪	haloba,loba,meliak,ogok,okok,sekut,tamak|adj
-婪的	loba,sekut,tamak|adj
-廪	lumbung
-歪	meneleng,bengut,erut,erutbenyut,geleding,kerekut,lenting|v,memulas
-歪去	erutbenyut
-歪斜	lenting|v,mencong,mengsol,pencong,senget|adj,serong|adj
-歪斜的	mencong,mengsol,pencong,senget|adj,serong|adj
+恪慎	cermat|adj
+歪	meneleng,lenting|v,bengut,putar balik,seleweng
+歪斜	lenting|v,senget|adj,serong|adj,mencong,pencong,mengsol
+歪斜的	senget|adj,serong|adj,mencong,pencong,mengsol
 歪曲	putar balik,seleweng
 歪来	erutbenyut
 歪来歪	erutbenyut
 歪来歪去	erutbenyut
-歪的	bengut,erut,lenting|v,pekuk,pelikuk
-汪	mengongkong
-汪叫	mengongkong
+歪瓜劣枣	hodoh|adj
+歪瓜裂枣	hodoh|adj
+歪的	bengut
+汪星人	anjing|n
 汪汪	mengongkong
 汪汪叫	mengongkong
-泪	air mata|n,genang|n,gerabak|n,linang
 泪涟	linang
 泪涟涟	linang
-浪	abur|v,alun|n,bazir|v,baziz,berkelana,berombak,berselancar|v,boros
+泪滴	air mata|n
+浪	pembaziran|n,abur|v,bazir|v,buih,boros,kekat,baziz,memboroskan
 浪光	buih
+浪头	alun|n
 浪涛	kekat
 浪漫	mat bunga|n,romantik
 浪漫的	mat bunga|n,romantik
-浪者	petualang
-浪费	abur|v,bazir|v,baziz,boros,memboroskan,pembaziran|n,buang wang,lewa
+浪潮	alun|n
+浪莽	luas|adj
+浪费	pembaziran|n,abur|v,bazir|v,sia-sia|adj,boros,baziz,memboroskan,lewa
 浪费时	lewa
 浪费时间	lewa
 浪费的	sia-sia|adj
 浪费者	pemboros
 浪费钱	buang wang
 浪费钱财	buang wang
-番	biawas,durian belanda|n,itik kumbang|n,jambu batu,ketela|n,pepaya|n,rangam|n,ubi keledek
-番木	pepaya|n
-番木瓜	pepaya|n
-番木瓜树	pepaya|n
-番瓜	pepaya|n
+番	rangam|n,ketela|n,ubi keledek
+番木瓜树番瓜	pepaya|n
 番石	biawas,jambu batu
 番石榴	biawas,jambu batu
 番茄	rangam|n
-番荔	durian belanda|n
-番荔枝	durian belanda|n
 番薯	ketela|n,ubi keledek
-番鸭	itik kumbang|n
-痪	capik,tepok
-绪	emosi|n,emosional|adj,perasaan|n
-绪的	emosional|adj
-罪	dosa|n,maksiat,ampunan,berdosa,buang kes,dosa asal|n,fasik,jenayah|n
-罪人	fasik
+番麦	jagung|n
+罪	dosa|n,jenayah|n,penjenayah|n,maksiat,tuduhan
+罪名	cas|n
+罪孽	jenayah|n,dosa|n
 罪恶	dosa|n,maksiat
+罪愆	dosa|n
 罪犯	jenayah|n,penjenayah|n
 罪状	tuduhan
-罪的	berdosa,pasik
-罪羔	kambing hitam|n
-罪羔羊	kambing hitam|n
-罪释	buang kes
-罪释放	buang kes
-聪	akal|n,akal kancil,berkebolehan|adj,bijak|adj,cerdas,hikmat,pandai|adj,pintar|adj
-聪明	akal|n,akal kancil,bijak|adj,hikmat,pandai|adj,berkebolehan|adj,cerdas,pintar|adj
-聪明的	berkebolehan|adj,cerdas,pintar|adj,terang hati
-自	daripada|prep,akuan,alam|n,autobiografi,automasi|n,automatik|adj,automaton|n,bangga
-自从	menjak,sejak|conj,semenjak|conj
-自以	palatau|n
-自以为	palatau|n
-自以为博	palatau|n
-自以为博学	palatau|n
-自以为博学的	palatau|n
-自以为博学的人	palatau|n
-自传	autobiografi,kidar
+罪行	jenayah|n
+罪过	dosa|n
+聪	pandai|adj,akal|n,bijak|adj,hikmat,akal kancil
+聪慧	cerlang|adj,pandai|adj
+聪敏	cerlang|adj,pandai|adj
+聪明	pandai|adj,akal|n,bijak|adj,berkebolehan|adj,pintar|adj,hikmat,akal kancil,cerdas
+聪明的	berkebolehan|adj,pintar|adj,cerdas,terang hati
+聪明绝顶	gemilang|adj
+聪颖	pandai|adj,bestari|adj
+自	daripada|prep,merdeka|adj,alam|n,semenjak|conj,sendiri|adj,bebas|adj,kebebasan|n,semula jadi|n
+自从	semenjak|conj,sejak|conj,menjak
+自以为博学的人自称无所不知	palatau|n
+自以为博学的人自称无所不知的	palatau|n
+自传	kidar,autobiografi
 自作	siapa makan lada dia rasa peda
 自作自	siapa makan lada dia rasa peda
 自作自受	siapa makan lada dia rasa peda
-自傲	kebanggaan
 自力	berdikari|v
 自力更	berdikari|v
 自力更生	berdikari|v
-自动	automasi|n,automatik|adj,automaton|n,mesin juruwang automatik|n,mesin layan diri|n,pecat diri
-自动出	mesin juruwang automatik|n
-自动出纳	mesin juruwang automatik|n
+自动	automatik|adj,automasi|n,automaton|n,pecat diri
 自动出纳机	mesin juruwang automatik|n
 自动化	automasi|n
+自动手枪	automatik|adj
 自动机	automaton|n
 自动的	automatik|adj
-自动贩	mesin layan diri|n
-自动贩卖	mesin layan diri|n
 自动贩卖机	mesin layan diri|n
 自动辞	pecat diri
 自动辞职	pecat diri
@@ -114,25 +105,22 @@
 自助餐	bufet|n
 自卑	rendahkan diri
 自卫	bela diri
-自受	siapa makan lada dia rasa peda
-自在	leluasa
-自大	berakah,bongkak,rencik,hidung tinggi|adj,jemawa,ngada,petentangan,pongah
-自大的	hidung tinggi|adj,jemawa,petentangan,pongah
+自大	berakah,bongkak,hidung tinggi|adj,rencik,pongah,petentangan,jemawa
+自大的	hidung tinggi|adj,pongah,petentangan,jemawa
+自定义	adat|n
 自家	rumah-tangga
-自尊	petentangan
-自尊大	petentangan
-自尊大的	petentangan
-自己	diri|n,diri sendiri,sendiri|adj,berbiola|v,mengga
-自己的	berbiola|v,mengga
-自愿	sukarelawan|n,rela hati,sukarela|adj
-自愿的	rela hati,sukarela|adj
-自我	egosentrik|adj,egotisme|n,majudiri,mat pen|n,swalayan|n
-自我中	egosentrik|adj,egotisme|n
-自我中心	egosentrik|adj,egotisme|n
+自己	sendiri|adj,diri|n,diri sendiri,mengga
+自己的	mengga
+自己的自己	berbiola|v
+自己的自己的	berbiola|v
+自愿	sukarela|adj,rela hati
+自愿性	sukarela|adj
+自愿的	sukarela|adj,rela hati
+自愿者	sukarelawan|n
+自我	swalayan|n,majudiri
+自我中心	egosentrik|adj
 自我中心癖	egotisme|n
 自我中心的	egosentrik|adj
-自我主	mat pen|n
-自我主义	mat pen|n
 自我主义者	mat pen|n
 自我改	majudiri
 自我改进	majudiri
@@ -140,103 +128,85 @@
 自我服务	swalayan|n
 自拍	swafoto|n
 自拍照	swafoto|n
-自杀	buang diri,bunuh diri|v,membela
+自杀	bunuh diri|v,membela,buang diri
 自此	semenjak|conj
-自然	alam|n,semula jadi|n,ilmu alam|n,makhluk halus|n,memang|adv,namus,natural|adj,sewajarnya
-自然的	memang|adv,natural|adj,sewajarnya,makhluk halus|n,namus
-自然的法	namus
+自然	alam|n,semula jadi|n,memang|adv,ilmu alam|n,sewajarnya
+自然的	memang|adv,sewajarnya
 自然的法则	namus
 自然科	ilmu alam|n
 自然科学	ilmu alam|n
-自由	bebas|adj,kebebasan|n,membebaskan|v,merdeka|adj,gaya bebas,gratis|adj,ikhtiar|n,leluasa
-自由主	liberal|adj
+自由	merdeka|adj,bebas|adj,kebebasan|n,gratis|adj,ikhtiar|n,membebaskan|v,selesa,leluasa
 自由主义	liberal|adj
 自由主义的	liberal|adj
+自由体操	tingkat|n
 自由作	gaya bebas
 自由作风	gaya bebas
+自由派	liberal|adj
 自由的	gratis|adj,selesa
 自由自	leluasa
 自由自在	leluasa
 自由选	ikhtiar|n
 自由选择	ikhtiar|n
-自的	mengga
-自称	palatau|n
-自称无	palatau|n
-自称无所	palatau|n
-自称无所不	palatau|n
-自称无所不知	palatau|n
-自称无所不知的	palatau|n
 自舐	kelum
 自舐口	kelum
 自舐口唇	kelum
-自行	basikal|n,kereta angin|n,mat motor|n,sepeda|n
-自行车	basikal|n,kereta angin|n,sepeda|n,mat motor|n
+自行	sepeda|n,basikal|n,kereta angin|n
+自行车	sepeda|n,basikal|n,kereta angin|n
 自觉	sedar diri
 自言	ngangut
 自言自	ngangut
 自言自语	ngangut
 自认	iktikad
-自语	kulum,ngangut
 自负	bangga,bengah,bongkak,congkak,keangkuhan,ranggi
 自负的	ranggi
-自赏	kera sumbang
-自赏者	kera sumbang
-自身	diri sendiri,sendiri|adj
-自转	berpusar,pusar|n,pusingan
+自身	sendiri|adj,diri sendiri
+自转	pusar|n,berpusar,pusingan
 自顾	penjagaan diri|n
 自首	akuan
 自高	ngada
 自高自	ngada
 自高自大	ngada
-豪	heroin,landak|n,perwira
-豪杰	perwira,heroin
+豪	landak|n,perwira
+豪杰	perwira
 豪猪	landak|n
-跪	berlutut,simpuh,sujud,derum,indik,menderum,sungkur,telut
+跪	sujud,simpuh,berlutut,indik,sungkur
 跪下	derum,menderum,telut,terum
 跪拜	indik,sungkur
-迪	kain batik
-迪布	kain batik
-酪	dadih|n,keju|n,krim|n,panir|n,tenusu,yogurt|n
-酪业	tenusu
 铪	hafnium|n
-闪	bergemerlapan,berkerlip,berkilau-kilau,elak|v,gelipar,gemilap,gerlap,gerlip
+铪铪	hafnium|n
+闪	elak|v,halilintar|n,kelip|n,kilat|n,mengelip|v,telau,hindar,liuk
 闪亮	gilap,telau
 闪亮发	telau
 闪亮发光	telau
 闪亮的	gilap
-闪光	gerlap,kerlap,kilap,memarak,menggerlap,telau
-闪发	berkilau-kilau,kerlip,relap,silau
-闪发光	berkilau-kilau,kerlip,relap,silau
+闪光	telau,kilap,gerlap,kerlap,memarak,menggerlap
+闪失	kemalangan|n
 闪开	jerembat
 闪炔	gemilap,gilap-gemilap
-闪烁	bergemerlapan,berkerlip,gerlap,gerlip,kelip|n,kerlap,mengelip|v,mengerlip
+闪烁	kelip|n,mengelip|v,gerlap,gerlip,kerlap,menggerlap,menggerlip,berkerlip
 闪烁的	malap
 闪电	halilintar|n,kilat|n,lintar,sabung-menyabung
-闪耀	gemilap,gilang,gilap-gemilap,kilap,ledang
+闪耀	gilang,ledang,kilap,gemilap,gilap-gemilap
 闪躲	kelit
-闪避	elak|v,gelipar,hindar,lengos,liuk,mengelak,mengelakkan,sengelat
-闪避的	sengelat
-闪避的人	sengelat
-闪闪	gerlip,menggerlip,berkilau-kilau,kerlip,relap,silau
-闪闪发	berkilau-kilau,kerlip,relap,silau
-闪闪发光	berkilau-kilau,kerlip,relap,silau
-陪	iring,juri,mahar|n,menemani,mengawani,mengiring|v,menyertai,pawai|n
-陪伴	iring,menemani,mengawani,mengiring|v,turut|v,pawai|n
+闪避	elak|v,hindar,liuk,lengos,gelipar,mengelak,mengelakkan
+闪闪	gerlip,menggerlip,silau,kerlip,relap,berkilau-kilau
+闪闪发	silau,kerlip,relap,berkilau-kilau
+闪闪发光	silau,kerlip,relap,berkilau-kilau
+陪	turut|v,mengiring|v,iring,mengawani,menyertai,menemani
+陪伴	turut|v,mengiring|v,iring,mengawani,menemani,pawai|n
 陪伴者	pawai|n
 陪同	menyertai
-陪嫁	mahar|n
-陪嫁物	mahar|n
 陪审	juri
 陪审团	juri
-雪	salji|n,salju|n,air batu|n,cerut|n,cerutu|n,damansara,metah,orang salji|n
+雪	salji|n,salju|n,air batu|n,cerutu|n,orang salji|n
+雪亮	tajam|adj
 雪人	orang salji|n
-雪兰	damansara,selangor
-雪兰莪	damansara,selangor
-雪兰莪州	damansara,selangor
+雪兰	selangor,damansara
+雪兰莪	selangor,damansara
+雪兰莪州	selangor,damansara
 雪加	cerut|n
 雪加烟	cerut|n
 雪水	air batu|n
-雪白	metah,putih melepak,putih-metah
-雪白的	metah,putih melepak,putih-metah
+雪白	metah,putih-metah,putih melepak
+雪白的	metah,putih-metah,putih melepak
 雪茄	cerutu|n
-饪	air tangan|n,masak|v

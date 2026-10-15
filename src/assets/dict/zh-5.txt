@@ -1,210 +1,154 @@
-内	aduktor|n,baju dalam,batin,beranta,bernas,bunyi|n,bunyi surat,cagu|n
-内之	mimber
-内之讲	mimber
-内之讲经	mimber
-内之讲经台	mimber
-内亚	guinea khatulistiwa
-内加	negara brunei darussalam,rukun negara
-内加拉	negara brunei darussalam,rukun negara
+ㄅㄧㄤˋ	keren|adj
+内	bunyi|n,isi|n,di dalam|prep,juru|n,coli|n,kandungan|n,kabinet|n,sependa|n
+内加	rukun negara,negara brunei darussalam
+内加拉	rukun negara,negara brunei darussalam
 内卷	kelum
 内卷的	kelum
 内在	batin
 内在的	batin
-内容	bunyi|n,isi|n,kandungan|n,bernas,bunyi surat,inti,mambung
+内室	bilik tidur|n
+内容	bunyi|n,isi|n,kandungan|n,bernas
 内容充	bernas
 内容充实	bernas
-内容的	mambung
-内心	batin
-内心的	batin
 内战	perang saudara|n
-内收	aduktor|n
-内收肌	aduktor|n
-内河	beranta
-内河船	beranta
-内生	cagu|n
-内生长	cagu|n
-内生长的	cagu|n
-内的	geliga
-内的胃	geliga
-内的胃石	geliga
+内战内	perang saudara|n
+内战内战	perang saudara|n
+内收肌收肌	aduktor|n
+内核	teras|n
+内源	asal|n
 内行	juru|n
-内衣	baju dalam,coli|n,sependa|n
+内衣	coli|n,sependa|n,baju dalam
 内裤	seluar dalam|n
-内部	di dalam|prep,dinding|n,usus|n
-内部的	dinding|n,usus|n
+内部	di dalam|prep,usus|n,dinding|n
+内部的	usus|n,dinding|n
 内阁	kabinet|n
-包	bungkus|cls,ikat|n,kunca,air botol|n,balut|n,balut rokok,beg tangan|n,belingkas
-包刀	pisau paung|n,pisau roti|n
+内鬼	tikus|n
+包	ikat|n,bungkus|cls,sampul|n,ulas|n,gawai|n,kunca,liput|v,balut|n
 包厢	losi
-包含	berbateri|adj,berikan|v,beriklan|v,berlosen|v,beroksigen|v,bertelefon|v,kandung|n,mengandungi
+包含	kandung|n,berikan|v,beriklan|v,berlosen|v,berbateri|adj,beroksigen|v,bertelefon|v,pendam
 包含的	terangkum|adj
-包商	kontraktor,pemborong
-包器	pembakar roti|n
-包围	galu,kebat,kepung,likung,mengepung,terkepung
+包围	galu,kepung,likung,kebat,mengepung
 包头	serban|n
 包头布	serban|n
-包封	menyalut,palut
-包屑	serdak roti|n
-包工	borong,gawai|n
+包封	palut,menyalut
+包工	gawai|n,borong
 包布	kelumun
-包扎	balut|n,bolot,bungkus|cls,membalut,membarut,membolot,membungkus,mengebat
-包括	liput|v,terkandung,termasuk|v
-包果	sukun|n,kulur|n
+包扎	bungkus|cls,balut|n,bolot,membarut,membalut,membolot,mengebat,membungkus
+包括	liput|v,termasuk|v,terkandung
+包探	detektif|n
+包果	sukun|n
 包款	memberkas
 包满	kepuh
 包满的	kepuh
 包烟	balut rokok
-包煎	mertabak
-包煎蛋	mertabak
-包煎蛋肉	mertabak
-包皮	kulup|n,sampul|n,ulas|n
-包着	berbungkus,berpalut
-包着的	berbungkus,berpalut
+包皮	sampul|n,ulas|n,kulup|n
+包着	berpalut,berbungkus
+包着的	berpalut,berbungkus
 包租	memajak
+包米	jagung|n
+包粟	jagung|n
 包纸	sampul|n
 包袱	unjut
-包装	bungkusan,palut,air botol|n,libat|v
-包装的	libat|v
-包装饮	air botol|n
-包装饮用	air botol|n
+包装	palut,bungkusan
 包装饮用水	air botol|n
-包裹	balut|n,bungkus|cls,bungkusan,memalut,membarut,pakej|n,palut,pek|n
-包裹的	nasi bungkus
-包裹的饭	nasi bungkus
-包裹的饭菜	nasi bungkus
-厅	pendapa|n,balai|n,dewan|n,kantin,pendopo,restoran|n
-墅	banglo,vila
-宅	kediaman
-帅	panglima|n
-待	hidangan,jamu,kondangan,layan|v,masokisme|n,melayan,meminta|v,menanti
-待人	jamu
-待人客	jamu
-待从	perwara
-待从官	perwara
+包裹	pp|n,bungkus|cls,balut|n,pek|n,pakej|n,tepas,palut,membarut
+包裹邮	pp|n
+包裹邮件	pp|n
+包裹邮递	pp|n
+包谷	jagung|n
+厅	pendapa|n
+厅堂	balai|n
+帅呆了	gemilang|adj
+帅气	bestari|adj
+待	pelayan|n,melayan
 待会	nanti|adv
 待会儿	nanti|adv
-待员	pelayan|n
-待物	hidangan
-待狂	masokisme|n,sadis|n,sadisme|n
-待狂者	sadis|n
-待者	melayan,pelayan|n
-待请	meminta|v
-待请求	meminta|v
-搅	jara,karau,karih,kebur,kincau,mengecohkan,ulak
-搅拌	karau,karih,kebur,kincau,mengecohkan,ulak,jara
+待者	pelayan|n,melayan
+待遇	gaji|n,layanan|n
+怅怅然	kecewa|adj
+搅	ulak,karau,kebur,kincau,karih,mengecohkan
+搅拌	ulak,karau,kebur,kincau,karih,mengecohkan,jara
 搅拌器	jara
 搅起	kebur
 撅	cemik,keleweh,mengelewehkan
 撅嘴	cemik,keleweh,mengelewehkan
-栅	kubu|n,sawar,bubu|n,embarau,gubuk,jerjah,kelung,serangkak
-梅	bank harimau,kusta,meranti|n,restung,tanah tinggi cameron
-梅伦	tanah tinggi cameron
+栅	kubu|n,sawar
+梅	kusta
 梅兰	meranti|n
 梅兰蒂	meranti|n
 梅兰蒂木	meranti|n
-梅毒	kusta,restung
-梅毒而	restung
-梅毒而烂	restung
-梅毒而烂鼻	restung
+梅毒	kusta
 梅班	bank harimau
 梅班克	bank harimau
-椅	ambin|n,bangku|n,kerusi|n,kerusi roda|n,kursi|n,kusyen|n,stul|n
+梅瑟	pun|adv
+椅	stul|n,kerusi|n,kusyen|n,kursi|n
+椅凳	bangku|n
 椅垫	kusyen|n
-椅子	kerusi|n,kursi|n,stul|n,bangku|n
-清	bekemayau|v,bengap|adj,bening,berbalam,berjelas-jelas|v,cuci perut,habis kalas,hening
+椅子	stul|n,kerusi|n,kursi|n
+清	tegas|adj,jelas|adj,siuman|adj,kenyaringan|n,lunas,meliak,mambung,usai
+清丽	lawa|adj
+清亮	cerlang|adj
 清净	kudus|adj
 清净的	kudus|adj
 清凉	serbat
 清凉饮	serbat
 清凉饮料	serbat
-清或	mengkalas,mengkalas cuci
-清或禁	mengkalas,mengkalas cuci
-清或禁止	mengkalas,mengkalas cuci
-清新	penyegar udara|n
-清新剂	penyegar udara|n
-清早	pagi-pagi
+清廉	jujur|adj
 清晰	lawah
 清晰的	lawah
-清楚	jelas|adj,kenyaringan|n,tegas|adj,usai,bengap|adj,berjelas-jelas|v,kabut|n,menjelaskan|v
+清楚	tegas|adj,jelas|adj,kenyaringan|n,nyata|adj,usai,berjelas-jelas|v,sejelas-jelasnya|adv
 清楚地	sejelas-jelasnya|adv
-清楚的	berjelas-jelas|v,nyata|adj
+清楚的	nyata|adj,berjelas-jelas|v
 清汤	ulap-ulap
 清泻	cuci perut
 清洁	kebersihan
-清洗	wiladan
-清洗腹	wiladan
-清洗腹部	wiladan
-清洗腹部之	wiladan
-清洗腹部之仪	wiladan
-清洗腹部之仪式	wiladan
-清澈	bening,hening,jelah,jernih|adj
-清澈的	hening,jelah,jernih|adj
-清的	bekemayau|v,habis kalas,jernih|adj
+清淡	nur|n
+清澈	jernih|adj,bening,hening,jelah
+清澈的	jernih|adj,hening,jelah
+清癯	kurus|adj
 清真	masjid|n,misigit|n
 清真寺	masjid|n,misigit|n
 清算	mambung
+清绮	lawa|adj
 清讫	lunas
 清还	impas
-清醒	meliak,siuman|adj
+清醒	siuman|adj,meliak
 清锐	mersik
 清锐声	mersik
 清除	siangi
-溅	berkecimpung,kecimpung,merecik,celempung,kirai|n,memercik,menyimbah,pias
+清静	diem|adj
+溅	merecik,kecimpung,berkecimpung,memercik,menyimbah
 溅泼	pias,celempung
 溅泼声	celempung
+溅泼鲱	pias
 溅湿	menyimbah
-溅起	memercik,terpercik|v
-琅	enamel,koping,lampan
-紅	gincu|n
-者	pengirim,a go go|n,aba|n,aba-aba|n,abad al-abid|n,abad alabid|n,abadiyyat|adj,abalon|n
-者之	antara|prep
-者之间	antara|prep
-者利	kepenggunaan|n
-者利益	kepenggunaan|n
-者利益运	kepenggunaan|n
-者利益运动	kepenggunaan|n
-者名	penyaji|n
-者名词	penyaji|n
-者择	a go go|n,aba|n,aba-aba|n,abad al-abid|n,abad alabid|n,abadiyyat|adj,abalon|n,abis tu|adv
-者择一	a go go|n,aba|n,aba-aba|n,abad al-abid|n,abad alabid|n,abadiyyat|adj,abalon|n,abis tu|adv
-者的	berdua|det,lidah pengarang,uak|n,zionis|n
-者的称	uak|n
-者的称呼	uak|n
-者的话	lidah pengarang
-者都	berdua|det
-者随	zawadah
-者随身	zawadah
-者随身食	zawadah
-者随身食物	zawadah
-舅	pakcik|n,bapa saudara,paman|n
-舅父	bapa saudara,paman|n
-茅	dangau,gubuk,pandan duri|n,pandan hutan|n,pondok|n,rumah atap,sapau,teratak|n
-茅屋	dangau,pondok|n,rumah atap,sapau,teratak|n
+溅起	memercik
+缅邈	terpencil|adj,dura|adj
+舅	paman|n,pakcik|n,bapa saudara
+舅妈	tante|n
+舅母	tante|n
+舅父	paman|n,bapa saudara
+茅	teratak|n,pondok|n,dangau,gubuk,sapau,rumah atap,welingi
+茅屋	teratak|n,pondok|n,dangau,sapau,rumah atap
+茅房	tandas|n
 茅舍	gubuk
-茅草	welingi,pandan duri|n,pandan hutan|n
-谅	ampun|n,maafkan saya|int,memaafkan,mengampunkan,minta ampun,syirik|n
-谅我	maafkan saya|int
-谅的	syirik|n
-超	adikuasa|n,adiwira|n,cecikut|n,dahului,kuki|n,lanjir,lebih|adv,longsong
-超光	takion|n
-超光速	takion|n
-超光速粒	takion|n
+茅草	welingi
+谅解	faham|v
+超	pasar raya|n,dahului,longsong
 超光速粒子	takion|n
 超声	ultrabunyi|n
+超声超	ultrabunyi|n
+超声超声	ultrabunyi|n
 超市	pasar raya|n
-超文	cecikut|n,kuki|n
-超文本	cecikut|n,kuki|n
-超文本传	cecikut|n,kuki|n
-超文本传输	cecikut|n,kuki|n
-超文本传输协	cecikut|n,kuki|n
-超文本传输协议	cecikut|n,kuki|n
+超文本传输协议	kuki|n,cecikut|n
 超短	miniskirt|n
 超短裙	miniskirt|n
-超级	adikuasa|n,adiwira|n
+超级	adiwira|n,adikuasa|n
 超级强	adikuasa|n
 超级强权	adikuasa|n
 超级英	adiwira|n
 超级英雄	adiwira|n
+超绝	khusus|adj
 超群	sadu
 超群的	sadu
 超自	makhluk halus|n
@@ -215,24 +159,33 @@
 超过	lebih|adv,melebihi,terlanjur
 超过限	terlanjur
 超过限度	terlanjur
-辅	bunyi mati|n,huruf benar|n,huruf mati|n,koku|n,konsonan|n
 辅助	koku|n
 辅助课	koku|n
 辅助课程	koku|n
-辅音	bunyi mati|n,huruf benar|n,huruf mati|n,konsonan|n
-钅	roentgenium|n
-钅仑	roentgenium|n
-锅	kuali|n,apan|n,belanga|n,dandang|n,kaldron|n,kancah|n,kawah|n,kawah peleburan|n
-锅匠	kodek|v
+辅导员	jurulatih|n
+辅音一致	konsonan|n,bunyi mati|n,huruf mati|n,huruf benar|n
+辅音一致的	konsonan|n,bunyi mati|n,huruf mati|n,huruf benar|n
+钅喜	siborgium|n
+钅喜▽	siborgium|n
+钅杜	dubnium|n,hahnium|n
+钅杜▽	dubnium|n,hahnium|n
+钅达	darmstadtium|n
+钅达▽	darmstadtium|n
+钅麦	meitnerium|n
+钅麦▽	meitnerium|n
+钅黑	hassium|n
+钅黑▽	hassium|n
+锅	kuali|n,lekar,sauk belanga
+锅子	pasu|n,apan|n
 锅架	lekar
 锅盖	sauk belanga
-锅饭	nasi kawah
-阅	baca|v,biofizik|n,canda|n,dasa|num,elastik|adj,fizikal|adj,khinzir|n,komrad|n
-阅读	baca|v,biofizik|n,canda|n,dasa|num,elastik|adj,fizikal|adj,khinzir|n,komrad|n
-隅	ceruk,padun,penjuru|n,sudut|n,pelosok
-颅	jemala
-馅	onde-onde,pai|n
-馅的	onde-onde
-馅的团	onde-onde
-馅的团子	onde-onde
+阅	baca|v
+阅历	pengalaman|n
+阅听人	penonton|n
+阅读	baca|v
+阅读器	pembaca|n
+隅	sudut|n,penjuru|n,ceruk,padun
+鞅掌	sibuk|adj
+颅骨	tengkorak|n
+馅	pai|n
 馅饼	pai|n

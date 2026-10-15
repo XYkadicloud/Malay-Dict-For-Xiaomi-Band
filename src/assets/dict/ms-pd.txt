@@ -1,2 +1,2 @@
-pdb	pdb		词首字母缩略词
-pdrm	pdrm		词首字母缩略词
+pdb	pdb		词首字母缩略词	initialism of Polis Diraja Brunei (“Royal Brunei Police Force”)
+pdrm	pdrm		词首字母缩略词	initialism of Polis Diraja Malaysia (“Royal Malaysia Police”)

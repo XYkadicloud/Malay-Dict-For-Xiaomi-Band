@@ -2,18 +2,18 @@ mena	mena		计算，理由，缘故
 menaati	menaati		服从
 menabur	menabur		播
 menaburkan	menaburkan		传播
-menadah	menadah	v	盛装
+menadah	menadah	v	盛装	active of tadah (“cupping upwards (hands)  catch”)
 menafikan	menafikan		否认
 menagih	menagih		讨债，嗜好
 menahagu	menahagu		催促，催讨，催付
-menahan	menahan	v	活跃的
+menahan	menahan	v	活跃的	active of tahan
 menaiki	menaiki		攀登；骑，乘
 menaikkan	menaikkan		升，举起
 menaiktaraf	menaiktaraf	n	上坡	upgrade  upgrading (as in improving or renovating a system or a machine)
 menaip	menaip		打字
 menaja	menaja		提倡，创办
 menak	menak		贵人，英雄，著名的，名门的
-menakal	menakal	v	顽皮的
+menakal	menakal	v	顽皮的	to be naughty or to behave naughtily; to be evil or to behave evilly
 menakali	menakali	v	扰乱	to disturb someone
 menakar	menakar		量
 menakik	menakik		割
@@ -22,7 +22,7 @@ menaklukkan	menaklukkan		统治
 menaksir	menaksir		估量
 menakuk	menakuk		砍缺口
 menakung	menakung		使沉淀
-menakutkan	menakutkan	v	吓惊，使害怕
+menakutkan	menakutkan	v	吓惊，使害怕	active of takutkan
 menalu	menalu		寄生植物菌
 menamai	menamai		命名，取名
 menamakan	menamakan		命名，取名
@@ -102,7 +102,7 @@ mencantum	mencantum		连缀
 mencantumkan	mencantumkan		合并
 mencapai	mencapai	v	达到，取得，获得	to achieve something
 mencapak	mencapak		轻视，蔑视
-mencapap	mencapap	v	活跃的
+mencapap	mencapap	v	活跃的	Active of capap.
 mencapati	mencapati	v	正式的	Formal active of capati.
 mencari	mencari	v	寻找	to seek  to search  to look for		jumpa
 mencarihidup	mencari hidup		谋生，求生存
@@ -159,7 +159,7 @@ mencong	mencong		歪斜的，倾斜的，曲折的
 mencongak	mencongak		心算
 menconteng	menconteng		涂污
 mencontengkan	mencontengkan		以…涂污
-mencontoh	mencontoh	v	活跃的
+mencontoh	mencontoh	v	活跃的	active of contoh
 mencontohi	mencontohi	v	副本	to copy (the style or behaviour of someone)
 mencontohkan	mencontohkan	v	考虑	to consider as an example
 mencopet	mencopet		扒窃
@@ -182,7 +182,7 @@ mencurangi	mencurangi		欺骗
 mencurat	mencurat		喷
 mencuri	mencuri	v	正式的	formal active of curi (“to steal”)
 mencuricuri	mencuri-curi	adv	正式的	formal of curi-curi (“secretly”)
-mencurigai	mencurigai	v	怀疑
+mencurigai	mencurigai	v	怀疑	To be suspicious of.
 mencurigakan	mencurigakan	adj	引起怀疑	Causing suspicion; suspicious.
 menda	menda	adv	词首字母脱落的	apheretic form of amenda
 mendada	mendada	v	使面对	to confront or face something or someone
@@ -200,7 +200,7 @@ mendampar	mendampar		冲击
 mendamparkan	mendamparkan		向岸地的洗  海滩
 mendampingkan	mendampingkan		接近，靠近
 mendandankan	mendandankan		打扮
-mendapat	mendapat	v	获得
+mendapat	mendapat	v	获得	Active of dapat.
 mendapati	mendapati		发现
 mendapatkan	mendapatkan		会见
 mendarat	mendarat		登陆，上岸
@@ -208,7 +208,7 @@ mendatangkan	mendatangkan		派人去请，招来，带来，造成
 mendaurulang	mendaur-ulang		使再循环
 mendayu	mendayu		雷鸣声 呻吟，叹息声
 mende	mende	adv	照拼法发音	pronunciation spelling of menda  representing schwa-variety Malay
-mendegilkan	mendegilkan	v	活跃的
+mendegilkan	mendegilkan	v	活跃的	active of degilkan (“to make stubborn”)
 mendekati	mendekati		行近，逼近
 mendelevium	mendelevium	n	钔  钔Md	mendelevium (chemical element)
 mendengar	mendengar	v	听
@@ -217,9 +217,9 @@ mendengus	mendengus	v	喷着气弄响鼻子	To snort; to grunt — usually to ex
 mendera	mendera		处罚 鞭打
 menderam	menderam		发出隆隆声
 menderhaka	menderhaka		反抗，出卖
-menderita	menderita	v	遭受，忍受
-menderma	menderma	v	捐赠
-mendermakan	mendermakan	v	活跃的
+menderita	menderita	v	遭受，忍受	active of derita.
+menderma	menderma	v	捐赠	Active of derma (“to donate”).
+mendermakan	mendermakan	v	活跃的	Active of dermakan (“to donate something”).
 menderong	menderong	n	照拼法发音	pronunciation spelling of menderung
 menderu	menderu		怒吼，轰鸣
 menderum	menderum		跪下，隆隆声
@@ -242,7 +242,7 @@ mendorong	mendorong		推动
 menduduki	menduduki	v	占领	to sit at
 mendudukkan	mendudukkan	v	地方	to place (something)
 mendugakan	mendugakan		猜测在
-mendukung	mendukung	v	背负
+mendukung	mendukung	v	背负	Active of dukung.
 mendulang	mendulang		淘洗
 mendung	mendung	n	昏暗的，阴霾的，模糊的	rain cloud			berawan,berawan hitam,gabak,gelap,gobar	cerah,berseri
 mendunia	mendunia	v	变成	to become known worldwide; to go global; to gain international recognition
@@ -303,7 +303,7 @@ menepi	menepi		沿边而行
 menepis	menepis		挡开，推开
 menepuk	menepuk		拍，打
 menerajang	menerajang		踢
-menerangkan	menerangkan	v	开垦，照明，说明
+menerangkan	menerangkan	v	开垦，照明，说明	active of terangkan
 menerbangkan	menerbangkan		使起飞
 menerbitkan	menerbitkan		刊行，出版者
 menerima	menerima	v	收到	to receive  to accept
@@ -322,10 +322,10 @@ mengabah	mengabah	v	去	To go towards.
 mengabahkan	mengabahkan	v	正式的	Formal active of abahkan.
 mengabaikan	mengabaikan	v	轻篾，藐视，批评	Formal active of abaikan.
 mengabar	mengabar	v	正式的	Formal active of abar.
-mengabdi	mengabdi	v	奴隶
+mengabdi	mengabdi	v	奴隶	To be a slave.; To serve.
 mengabdikan	mengabdikan	v	正式的	Formal active of abdikan.
 mengabet	mengabet	v	举止端正	To behave in a certain way.
-mengabjadkan	mengabjadkan	v	活跃的
+mengabjadkan	mengabjadkan	v	活跃的	Active of abjadkan.
 mengabsahkan	mengabsahkan	v	使有效	to validate
 mengabsen	mengabsen	v	召唤...行动	To call out people's name to find out or determine who is not present.
 mengabstrakkan	mengabstrakkan	v	抽象的	to abstract
@@ -334,12 +334,12 @@ mengabui	mengabui	v	放	to put ash on something
 mengabuimata	mengabui mata	v	欺骗	to deceive
 mengabuk	mengabuk	v	剽窃	to plagiarize
 mengabulkan	mengabulkan		答应
-mengabur	mengabur	v	活跃的
+mengabur	mengabur	v	活跃的	Active of abur.
 mengacah	mengacah	v	假装	to feign
 mengacahacah	mengacah-acah	v	假装	to feign repeatedly  to keep on feigning
 mengacak	mengacak	v	偶然	To randomly do.
-mengacan	mengacan	v	活跃的
-mengacapi	mengacapi	v	活跃的
+mengacan	mengacan	v	活跃的	active of acan
+mengacapi	mengacapi	v	活跃的	Active of acapi.
 mengacar	mengacar	v	腌渍物	To make pickles or achar.
 mengacau	mengacau	v	捣乱	to stir a mixture until its composition becomes even
 mengacu	mengacu		恐吓
@@ -391,17 +391,17 @@ mengampunkan	mengampunkan		原谅
 mengamuk	mengamuk	v	发狂逞凶	to run amok; go berserk; go rampage
 mengamuskan	mengamuskan	v	添加字典	to add (a word) to the dictionary
 menganalisa	menganalisa		分析
-menganalisis	menganalisis	v	活跃的
+menganalisis	menganalisis	v	活跃的	Active of analisis.
 mengancam	mengancam		威吓
 mengancamkan	mengancamkan		威吓
 mengandam	mengandam		修剪
-mengandung	mengandung	v	怀孕
+mengandung	mengandung	v	怀孕	to be pregnant
 mengandungi	mengandungi		含有，包含
 menganga	menganga		目瞪口呆
-menganggap	menganggap	v	当初，当作
+menganggap	menganggap	v	当初，当作	active of anggap (“to consider  to regard  to assume”)
 menganggarkan	menganggarkan		预算，估计
 mengangguk	mengangguk		点头
-menganggur	menganggur	v	失业
+menganggur	menganggur	v	失业	to be idle; to do nothing; to be unemployed
 mengangkat	mengangkat		举起，升
 mengangkatsembah	mengangkat sembah	v	做	To do a sembah gesture.
 mengangkut	mengangkut		搬运
@@ -416,7 +416,7 @@ mengantuk	mengantuk	adj	瞌睡，打盹	sleepy
 menganugerahi	menganugerahi		封赐，颁赐
 menganut	menganut		追随，信仰，信
 menganwaranwarkan	menganwar-anwarkan	v	欺骗	to deceive  to distort the truth  to mislead
-menganwarkan	menganwarkan	v	两者择一
+menganwarkan	menganwarkan	v	两者择一	alternative form of menganwar-anwarkan
 menganyam	menganyam		编织
 mengapa	mengapa	adv	为什么	why (for what reason)
 mengapak	mengapak		砍
@@ -426,7 +426,7 @@ mengapungkan	mengapungkan		使浮起
 mengapuri	mengapuri		粉刷
 mengarah	mengarah	prep	朝向	towards.
 mengarahkan	mengarahkan		对准
-mengarang	mengarang	v	写作
+mengarang	mengarang	v	写作	Active of karang.
 mengarih	mengarih		伸手
 mengarung	mengarung		渡过
 mengasah	mengasah		磨利
@@ -435,7 +435,7 @@ mengasuh	mengasuh		养育，抚养
 mengata	mengata	v	说	To say.
 mengatai	mengatai	v	嘲笑	To mock or ridicule.
 mengatakan	mengatakan	v	说	To say.
-mengatangatai	mengata-ngatai	v	同义词
+mengatangatai	mengata-ngatai	v	同义词	Synonym of mengatai.
 mengatasi	mengatasi		克服，解决
 mengatur	mengatur		整理，处理
 mengaup	mengaup		刮起
@@ -460,13 +460,13 @@ mengecohkan	mengecohkan		摇动，搅拌
 mengedar	mengedar		施转
 mengedari	mengedari		运行，施转
 mengedit	mengedit	v	正式的	Formal active of edit (“to edit”).
-mengeduduki	mengeduduki	v	两者择一
-mengedutkan	mengedutkan	v	活跃的
+mengeduduki	mengeduduki	v	两者择一	alternative form of menduduki (“to reside in”)
+mengedutkan	mengedutkan	v	活跃的	Active of kedutkan.
 mengeja	mengeja		拼写
 mengejut	mengejut		突然的
 mengejutkan	mengejutkan		令…惊骇
 mengekori	mengekori		尾随
-mengeksport	mengeksport	v	输出，出口
+mengeksport	mengeksport	v	输出，出口	Active of eksport (“to export”).
 mengeksportkan	mengeksportkan		输出，出口
 mengelak	mengelak		闪避，避开
 mengelakkan	mengelakkan		闪避，避开
@@ -517,13 +517,13 @@ mengerlip	mengerlip		闪烁
 mengerna	mengerna		多色的，快乐的，亲爱的
 mengeroyok	mengeroyok		围攻
 mengerti	mengerti	v	懂，了解，明白	formal active of erti
-mengertikan	mengertikan	v	注释，说明，解释
+mengertikan	mengertikan	v	注释，说明，解释	Active of ertikan (“to interpret; to make someone understand”).
 mengerumuni	mengerumuni		围集在…to
 mengerutkan	mengerutkan		蹙
 mengesahkan	mengesahkan	v	证明	to verify; to confirm; to validate
 mengesat	mengesat		抹
 mengesot	mengesot		拖着臀部移动
-mengestrim	mengestrim	v	活跃的
+mengestrim	mengestrim	v	活跃的	Active of strim.
 mengesyaki	mengesyaki		怀疑
 mengesyorkan	mengesyorkan		提议
 mengetahui	mengetahui	v	知道，发觉，发现	to discover  to find out
@@ -534,7 +534,7 @@ mengetil	mengetil		切片
 mengeting	mengeting		申请，要求
 mengetip	mengetip		叮
 mengetuai	mengetuai		率领
-mengezumkan	mengezumkan	v	活跃的
+mengezumkan	mengezumkan	v	活跃的	active of zumkan (“to zoom”)
 mengga	mengga		各自的，自己的
 menggadaikan	menggadaikan		典当，抵押
 menggagalkan	menggagalkan		挫折，失败
@@ -556,11 +556,11 @@ menggaris	menggaris		画线，搔抓
 menggaruk	menggaruk		抓，搔
 menggasak	menggasak		殴击
 menggaul	menggaul		搀混
-menggedangkan	menggedangkan	v	活跃的
+menggedangkan	menggedangkan	v	活跃的	active of gedangkan (“to make big”)
 menggedebak	menggedebak		顿足
 menggegarkan	menggegarkan		摇动
 menggelakkan	menggelakkan		取笑
-menggelar	menggelar	v	称呼
+menggelar	menggelar	v	称呼	Active of gelar.; to confer a title; Active of gelar.
 menggeledah	menggeledah		搜查
 menggeleding	menggeleding		弯曲
 menggelegak	menggelegak		起泡，沸腾
@@ -621,8 +621,8 @@ menghabiskan	menghabiskan		完成
 menghadamkan	menghadamkan		消化
 menghadap	menghadap	v	面对，朝向，谒见拜访	to face (position oneself/itself towards)			menghala,mengarah	membelakangi
 menghadapi	menghadapi		面对
-menghadiahi	menghadiahi	v	活跃的
-menghadiahkan	menghadiahkan	v	赠送
+menghadiahi	menghadiahi	v	活跃的	Active of hadiahi.
+menghadiahkan	menghadiahkan	v	赠送	Active of hadiahkan.
 menghadiri	menghadiri		参加，出席的
 menghafazkan	menghafazkan		背诵
 menghairankan	menghairankan		可惊的，今人惊奇的
@@ -640,12 +640,12 @@ menghantar	menghantar	v	送 寄
 menghantarkan	menghantarkan		送，带
 menghapuskan	menghapuskan		废除，删除，取消，扫除
 mengharamkan	mengharamkan		禁止
-menghargai	menghargai	v	估价，评价，重视，尊重
+menghargai	menghargai	v	估价，评价，重视，尊重	active of hargai
 mengharukan	mengharukan		使感动，打动
 mengharumkan	mengharumkan		使芬香，使闻名
 menghasilkan	menghasilkan		出产
 menghasut	menghasut		挑拔，煽动
-menghela	menghela	v	拖，拉
+menghela	menghela	v	拖，拉	active of hela
 menghembuskan	menghembuskan		吹出，喷出
 menghempap	menghempap		重击，压 .
 menghempas	menghempas		用力投掷，冲击
@@ -674,7 +674,7 @@ menghiris	menghiris		簿簿地切
 menghirup	menghirup		吸
 menghisap	menghisap		吸，吮
 menghitamkan	menghitamkan		染黑
-menghitung	menghitung	v	计算
+menghitung	menghitung	v	计算	active of hitung
 menghormati	menghormati		互相尊敬
 menghubungkan	menghubungkan		连系，连结
 menghukum	menghukum		处刑，处罚
@@ -695,24 +695,24 @@ mengigau	mengigau		说梦话，昏迷乱说
 mengih	mengih		气喘，吹息，打噎
 mengikat	mengikat	v	绑，捆	to tie
 mengikis	mengikis		刮去
-mengiklankan	mengiklankan	v	活跃的
+mengiklankan	mengiklankan	v	活跃的	Active of iklankan.
 mengikrarkan	mengikrarkan		发誓
 mengikuti	mengikuti		跟随
 mengilai	mengilai		大笑，哄笑
 mengilir	mengilir		磨，磨利
-mengimaginasikan	mengimaginasikan	v	活跃的
+mengimaginasikan	mengimaginasikan	v	活跃的	Active of imaginasikan.
 mengimbangbalas	mengimbang balas	v	正式的	Formal active of imbang balas (“to counterbalance”).
-mengimbuh	mengimbuh	v	活跃的
+mengimbuh	mengimbuh	v	活跃的	active of imbuh
 mengimpi	mengimpi		做梦，梦见
-mengimplementasikan	mengimplementasikan	v	活跃的
-mengimport	mengimport	v	活跃的
+mengimplementasikan	mengimplementasikan	v	活跃的	Active of implementasikan (“to implement”).
+mengimport	mengimport	v	活跃的	Active of import (“to import”).
 menginap	menginap		住宿，过夜
 mengindahkan	mengindahkan		注意，关心，重视
-mengingat	mengingat	v	记得			lupa
+mengingat	mengingat	v	记得	active of ingat (“to remember  to recall”)		lupa
 mengingatkan	mengingatkan		想起，记起
 mengingkari	mengingkari		否认
 menginjak	menginjak		踏，踩踏
-menginsafi	menginsafi	v	认识，了解
+menginsafi	menginsafi	v	认识，了解	to be aware of (something)
 menginsafkan	menginsafkan	v	知道的	to make (someone) aware of (something)
 menginspirasi	menginspirasi	v	使感动	to inspire
 mengintai	mengintai		偷看
@@ -727,22 +727,22 @@ mengiris	mengiris		切开，切成薄片
 mengisahkan	mengisahkan		讲，讲述
 mengisi	mengisi	v	填满，塞入，填写	to fill; to fill up; to make something full.
 mengisikan	mengisikan		用…装满
-mengislamkan	mengislamkan	v	使之成为回教徒
+mengislamkan	mengislamkan	v	使之成为回教徒	Active of islamkan.
 mengistirahatkan	mengistirahatkan	v	休息	To rest something.
 mengistirahatkandiri	mengistirahatkan diri	v	休息	To rest oneself.
 mengisytiharkan	mengisytiharkan		宣告，通告
 mengizinkan	mengizinkan		准许，批准，同意
-mengkafirkan	mengkafirkan	v	活跃的
+mengkafirkan	mengkafirkan	v	活跃的	Active of kafirkan.
 mengkal	mengkal		半熟的，疼痛的，痛苦的
 mengkala	mengkala		其时，当时
 mengkalas	mengkalas		肃清或禁止
 mengkalascuci	mengkalas cuci		肃清或禁止
 mengkam	mengkam		疝气，疝痛，腹痛
 mengkanunkan	mengkanunkan		规定…为
-mengkarung	mengkarung	n	两者择一
-mengkasar	mengkasar		荒废的
-mengkategorikan	mengkategorikan	v	活跃的
-mengkaunseling	mengkaunseling	v	活跃的
+mengkarung	mengkarung	n	两者择一	alternative form of bengkarung (“skink”)
+mengkasar	mengkasar		荒废的	obsolete form of Makassar
+mengkategorikan	mengkategorikan	v	活跃的	Active of kategorikan.
+mengkaunseling	mengkaunseling	v	活跃的	Active of kaunseling.
 mengkelan	mengkelan		卡梗，骨梗，阻塞
 mengkerit	mengkerit		卷缩，收缩，害怕，惊怕
 mengkhabarkan	mengkhabarkan		通知
@@ -753,7 +753,7 @@ mengkung	mengkung		面孔低凹处，眼眶凹
 mengoder	mengoder	v	次序	To order:
 mengoksida	mengoksida	v	氧化	to oxidise
 mengoksidakan	mengoksidakan	v	氧化	to oxidise
-mengoksigenkan	mengoksigenkan	v	活跃的
+mengoksigenkan	mengoksigenkan	v	活跃的	Active of oksigenkan.
 mengolah	mengolah	v	程序	to process;
 mengomel	mengomel		发牢骚
 mengongkong	mengongkong		囚禁，汪汪叫
@@ -849,15 +849,15 @@ menilik	menilik		细看；占卜
 menimangnimang	menimang-nimang		用手掂量
 menimba	menimba		戽，汲
 menimbulkan	menimbulkan		引起
-menimpa	menimpa	v	打
-menindas	menindas	v	压迫
+menimpa	menimpa	v	打	active of timpa.; befell  struck
+menindas	menindas	v	压迫	active of tindas (“to press down  to crush  to oppress”)
 menindih	menindih		压
 meninggal	meninggal	v	死去	to die; to pass away.			mati,wafat	hidup
 meninggaldunia	meninggal dunia	v	死亡，去世，逝世	To pass away.
 meninggalkan	meninggalkan		离开
 meninggalkanzuriat	meninggalkan zuriat	v	有	to have offspring
 meningkat	meningkat		高溺，爬上
-meninjau	meninjau	v	视察
+meninjau	meninjau	v	视察	Active of tinjau.
 meninju	meninju		用拳头打
 menipu	menipu	v	欺骗	to deceive
 menir	menir		米碎，先生，阁下
@@ -873,7 +873,7 @@ menjadijadi	menjadi-jadi	v	加强 强化	to intensify; to escalate; to grow wors
 menjaga	menjaga		看守，守卫
 menjahit	menjahit	v	缝
 menjaja	menjaja		沿街叫卖
-menjajah	menjajah	v	游历，同游，占领，殖民
+menjajah	menjajah	v	游历，同游，占领，殖民	active of jajah (“to explore; to annex; to colonise”)
 menjak	menjak		自从，从…之后
 menjala	menjala		用网网鱼
 menjalani	menjalani	v	在…走，走过	to walk on (something)
@@ -912,7 +912,7 @@ menjengkang	menjengkang		仰卧
 menjengket	menjengket		用脚尖走
 menjengkit	menjengkit		翘起
 menjentik	menjentik		拧，用指尖弹
-menjepunkan	menjepunkan	v	活跃的
+menjepunkan	menjepunkan	v	活跃的	Active of jepunkan.
 menjerangkan	menjerangkan		把…放在炉上煮
 menjerat	menjerat		捕捉，安圈套，欺骗
 menjerit	menjerit		叫喊，哀叫
@@ -923,7 +923,7 @@ menjilat	menjilat		舐
 menjilid	menjilid		装钉成册
 menjinakkan	menjinakkan		使驯服
 menjingga	menjingga	v	变成	to become or seem orange
-menjinggakan	menjinggakan	v	活跃的
+menjinggakan	menjinggakan	v	活跃的	active of jinggakan (“to make orange”)
 menjinjing	menjinjing		用手提
 menjirus	menjirus		浇，淋
 menjolok	menjolok		用竿摘取果子
@@ -934,7 +934,7 @@ menjulang	menjulang	v	高耸，高起，肩负，肩挑	to lift or raise high  o
 menjulur	menjulur		伸出，探出
 menjumpai	menjumpai	v	遇见
 menjunjung	menjunjung		用头顶着
-menjustifikasikan	menjustifikasikan	v	活跃的
+menjustifikasikan	menjustifikasikan	v	活跃的	Active of justifikasikan.
 menokok	menokok		增进
 menoleh	menoleh	v	回头看	To turn.
 menolehkan	menolehkan	v	转弯	To turn something (especially one's face).
@@ -945,8 +945,8 @@ menopang	menopang		支持，支撑
 menora	menora	n	传统的	a traditional Thai theatrical and dance performance
 menoreh	menoreh		割
 mensifatkan	mensifatkan		描述，形容
-mensosialkan	mensosialkan	v	活跃的
-menstrim	menstrim	v	活跃的
+mensosialkan	mensosialkan	v	活跃的	Active of sosialisasikan.
+menstrim	menstrim	v	活跃的	Active of strim.
 menswastakan	menswastakan	v	使私有化	to privatise (release government control to private industry)
 menta	menta		象思春期的鸣叫
 mentadak	mentadak	n	螳螂	praying mantis
@@ -956,21 +956,21 @@ mentahmentah	mentah-mentah		活生生的，绝对地
 mental	mental	adj	精神的	Mental:
 mentaliti	mentaliti	n	精神力	A mentality:
 mentang	mentang		虽然，尽管，因为
-mentari	mentari		同义词
+mentari	mentari		同义词	synonym of matahari (“sun”)
 mentat	mentat		萎缩，缩小，皱缩
 mentega	mentega	n	牛油	butter (soft foodstuff made from milk)
 menteri	menteri	n	muda 副部长	A minister (head of a ministry).
 menterjemahkan	menterjemahkan		翻译
 mentimun	mentimun		黄瓜
 mentol	mentol	n	灯泡	light bulb
-mentranskrip	mentranskrip	v	活跃的
+mentranskrip	mentranskrip	v	活跃的	active of transkrip (“to transcribe”)
 mentua	mentua	n	岳父母，继父母	A parent-in-law.
 mentung	mentung		迟钝的，迳直的，不转弯的
 menuai	menuai		收割
 menuang	menuang		倒
 menubuhkan	menubuhkan		使结合，使合并，组织
 menugaskan	menugaskan		委派
-menujah	menujah	v	活跃的
+menujah	menujah	v	活跃的	active of tujah (“to thrust  to jab upwards”)
 menuju	menuju	v	朝向	to head towards; to go in the direction of.			menghala,menujui
 menukar	menukar		更换
 menular	menular	v	传染	Agent focus form of tular.
@@ -1004,23 +1004,23 @@ menunjukkan	menunjukkan		指示
 menuntun	menuntun		牵引，指引
 menuntut	menuntut		要求
 menurunkan	menurunkan	v	投下	to make something go down  to lower
-menurunkanzuriat	menurunkan zuriat	v	同义词
+menurunkanzuriat	menurunkan zuriat	v	同义词	synonym of meninggalkan zuriat
 menurut	menurut	v	跟着	to go along (a path)
 menurutabjad	menurut abjad		依字母顺序的	In alphabetical order.
-menuruturutanabjad	menurut urutan abjad		两者择一
+menuruturutanabjad	menurut urutan abjad		两者择一	alternative form of menurut abjad
 menusuk	menusuk		刺
 menutup	menutup	v	关闭	to close		buka
 menutupkan	menutupkan		封锁，阻塞，关闭
 menyabarkan	menyabarkan	v	有人	to make someone patient
 menyabit	menyabit		割
 menyahaktifkan	menyahaktifkan	v	撤消遣散	to deactivate  to disable (to put something out of action)				mengaktifkan
-menyahjajah	menyahjajah	v	活跃的
+menyahjajah	menyahjajah	v	活跃的	active of nyahjajah (“to decolonize”)
 menyahserpih	menyahserpih	v	消除碎化程序	to defragment
 menyahut	menyahut		回答
 menyajikan	menyajikan	v	捧出	to serve (food)
 menyakat	menyakat		戏弄
 menyaksikan	menyaksikan		目击，观看
-menyala	menyala	v	着火，燃烧
+menyala	menyala	v	着火，燃烧	active of nyala
 menyalahkan	menyalahkan		责怪
 menyalai	menyalai		烘
 menyalak	menyalak		吠
@@ -1028,7 +1028,7 @@ menyalakan	menyalakan		点燃
 menyalurkan	menyalurkan		引导
 menyalut	menyalut		包封
 menyamarkan	menyamarkan		伪装
-menyambar	menyambar	v	活跃的
+menyambar	menyambar	v	活跃的	active of sambar
 menyambat	menyambat		连结
 menyambung	menyambung	v	连结	to continue or resume
 menyambut	menyambut		欢迎
@@ -1036,7 +1036,7 @@ menyampah	menyampah	v	厌恶	to loathe or hate upon
 menyampaikan	menyampaikan		转交
 menyampirkan	menyampirkan		吊，挂
 menyampuk	menyampuk		打断
-menyamun	menyamun	v	抢劫
+menyamun	menyamun	v	抢劫	Active of samun (“to rob”).
 menyandang	menyandang		背
 menyandarkan	menyandarkan		把…靠在…
 menyangga	menyangga		支持
@@ -1056,13 +1056,13 @@ menyatakan	menyatakan	v	说明	to explain; to make something clearer
 menyatupadukan	menyatupadukan		合并，统一，团结
 menyauk	menyauk		舀
 menyayat	menyayat		割切
-menyebabkan	menyebabkan	v	致使
+menyebabkan	menyebabkan	v	致使	active of sebabkan
 menyebarkan	menyebarkan		播
 menyebat	menyebat		鞭打
 menyebelahi	menyebelahi		倾向一边，偏袒
 menyeberangi	menyeberangi		渡过
 menyebu	menyebu		塞满
-menyebut	menyebut	v	提起
+menyebut	menyebut	v	提起	active of sebut (“to mention  say  or utter”); active of sebut (“to pronounce a word or name”)
 menyedarkan	menyedarkan		唤醒
 menyediakan	menyediakan		预备
 menyedihkan	menyedihkan		使悲伤
@@ -1075,13 +1075,13 @@ menyelam	menyelam		潜水
 menyelamatkan	menyelamatkan		拯救，保护
 menyelami	menyelami		潜入
 menyelenggarakan	menyelenggarakan		管理，经营
-menyelesaikan	menyelesaikan	v	活跃的
+menyelesaikan	menyelesaikan	v	活跃的	active of selesaikan
 menyeleweng	menyeleweng		越轨
 menyelia	menyelia		监督
 menyelidiki	menyelidiki		调查
 menyelinap	menyelinap		潜入
 menyelongkar	menyelongkar		翻查，搜查，搜遍
-menyelubungi	menyelubungi	v	遮盖
+menyelubungi	menyelubungi	v	遮盖	active of selubung (“to cover  to shroud  to envelop  to veil”)
 menyeluduk	menyeluduk		爬行
 menyeludup	menyeludup		潜入
 menyeludupkan	menyeludupkan		私运
@@ -1093,7 +1093,7 @@ menyemai	menyemai	v	播种	to sow (seeds)  to plant by scattering
 menyemaikan	menyemaikan		撒，播
 menyemat	menyemat		扣
 menyembah	menyembah	v	崇拜	to worship
-menyembahkan	menyembahkan	v	呈奉，呈上
+menyembahkan	menyembahkan	v	呈奉，呈上	Synonym of mempersembahkan (“to present; to perform (a work of art)”).
 menyembar	menyembar		喷射
 menyembat	menyembat		鞭打
 menyembelih	menyembelih		宰杀
@@ -1136,7 +1136,7 @@ menyerudi	menyerudi		磨
 menyeruduk	menyeruduk		钻进，潜入
 menyesal	menyesal	v	后悔	to regret
 menyesali	menyesali	v	遗憾	to regret
-menyesalkan	menyesalkan	v	为…感到后悔
+menyesalkan	menyesalkan	v	为…感到后悔	synonym of menyesali (“to regret; to blame”); to make (someone) feel regretful
 menyesap	menyesap		吮吸
 menyesuaikan	menyesuaikan		适应
 menyeterika	menyeterika	v	烫衣	to iron
@@ -1210,5 +1210,5 @@ menyusurgalurkan	menyusurgalurkan	v	痕迹	to trace (the lineage or origins of s
 menyusut	menyusut		退却
 menyusuti	menyusuti		减少
 menyusutkan	menyusutkan		减少
-menzeroks	menzeroks	v	活跃的
+menzeroks	menzeroks	v	活跃的	active of zeroks
 menziarahi	menziarahi		去参拜圣地，访问

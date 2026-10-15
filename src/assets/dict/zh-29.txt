@@ -1,255 +1,174 @@
-丝	kawat|n,sutera|n,bebenang|n,beldu,besuta,dawai,desir,fius|n
+丝	kawat|n,sutera|n,lencana|n,pita,beldu,besuta
 丝丝	desir
 丝丝声	desir
-丝之	ladung
-丝之锤	ladung
-丝声	desir
-丝带	lencana|n,pita,limar
-丝线	perambut
-丝织	tegarun
-丝织品	tegarun
+丝带	lencana|n,pita
+丝竹	musik|n
 丝绒	beldu
 丝绢	besuta
-丝绵	misru
-丝绵混	misru
-丝绵混织	misru
 丝绵混织布	misru
-丝网	pagar elektrik|n
-丝轴	ruing
-丝雀	kenari
-依	abjadkan|v,alaupundemikian,beranggap|v,bersandar,bersandarkan,ekar,islamkan|v,kononnya|adv
+丝绸	sutera|n
+丝网	skrin|n
+依	pedoman|n,sandar|v,beranggap|v,ekar,alaupundemikian,bersandar,tergantung,bersandarkan
 依其	kononnya|adv
 依其申	kononnya|adv
 依其申述	kononnya|adv
 依凭	sandar|v
-依回	mualap
-依回教	mualap
-依字	abjadkan|v,menurut abjad
-依字母	abjadkan|v,menurut abjad
-依字母顺	abjadkan|v,menurut abjad
-依字母顺序	abjadkan|v,menurut abjad
-依字母顺序排	abjadkan|v
+依字母顺序	menurut abjad
 依字母顺序排列	abjadkan|v
 依字母顺序的	menurut abjad
-依我	pada hemat saya
-依我的	pada hemat saya
-依我的意	pada hemat saya
 依我的意见	pada hemat saya
+依托	sokong|n
+依据	alas|n
 依格	ekar
 依次	beranggap|v
+依法	absah|adj
 依然	alaupundemikian
 依照	pedoman|n
-依者	islamkan|v,masuk islam|v,penganut
-依赖	bersandarkan,sandar-menyandar
-依靠	bersandar,sandar|v,tergantung
-初	awal|adj,cetakan pertama,cinta monyet|n,jati|adj,julung,julung-julung,meluh,menganggap|v
-初恋	cinta monyet|n
+依稀	agaknya|adv
+依赖	bersandarkan
+依靠	sandar|v,bersandar,tergantung
+初	awal|adj,cetakan pertama
+初始	inisial|n,mulai|v
 初期	awal|adj,primitif
 初期的	primitif
-初次	julung,meluh
-初次开	meluh
-初次开地	meluh
-初次开地耕	meluh
+初次	julung
 初次开地耕种	meluh
 初次的	julung
+初步	inisial|n
 初版	cetakan pertama
-初的	jati|adj,julung,julung-julung,ori|adj,sediakala
-劝	bujuk,menasihati,merayu,pujuk,rayuan|n
+劝	rayuan|n,bujuk,pujuk,merayu,menasihati
+劝告	ajaran|n
 劝导	bujuk
-劝说	menasihati,merayu,pujuk,rayuan|n
-吝	bakhil,cekel,kedekut|adj,kikir,lokek,medit,pelit,sekut
-吝啬	kedekut|adj,medit,bakhil,cekel,kikir,lokek,pelit,sekut
-吝啬的	bakhil,cekel,kikir,lokek,pelit,sekut
-喝	minum|v,aklamasi,belalah,bentak,gelogok,gogok,mabuk|adj,membentak
+劝说	rayuan|n,pujuk,merayu,menasihati
+吝	kedekut|adj,medit
+吝啬	kedekut|adj,medit,kikir,cekel,lokek,sekut,bakhil,pelit
+吝啬的	kikir,cekel,lokek,sekut,bakhil,pelit
+喝	minum|v,tempik|n,sorak|v,senggak,sorak-sorai,aklamasi
 喝彩	sorak-sorai
-喝水	sesapan
-喝水之	sesapan
-喝水之处	sesapan
-喝的	gelogok
-喝的声	gelogok
-喝的声音	gelogok
-喝醉	mabuk|adj,pemabuk|n
-喝醉了	mabuk|adj,pemabuk|n
-喝醉了的	mabuk|adj,pemabuk|n
-喝采	aklamasi,senggak,sorak|v,tempik|n
-宝	barang kemas|n,berlian|n,jauhari,kampar,kumala,lahu|n,lolo,manah
-宝商	jauhari
+喝醉了的drink的过去式	mabuk|adj,pemabuk|n
+喝采	tempik|n,sorak|v,senggak,aklamasi
+宝	permata|n,barang kemas|n,mestika,peterana,pagoda,ratna
+宝剑	rencong|n
 宝塔	pagoda
+宝宝	bayi|n
 宝座	peterana
 宝玉	permata|n
-宝石	barang kemas|n,mestika,permata|n,ratna,berlian|n,kumala,nilam|n,pudi
-宝石的	pudi
-宝石的粉	pudi
+宝石	permata|n,barang kemas|n,mestika,ratna
 宝石的粉末	pudi
-宝鱼	lahu|n
-尝	merasai,aci-aci|n,cecap|v,cuba|v,mencuba,percubaan,tray|v
-尝味	cecap|v
-尝味道	cecap|v
-尝试	aci-aci|n,cuba|v,mencuba,percubaan,tray|v
-帝	allah,allah taala,bismillah,dewata|n,empayar|n,ilah|n,imperialis,imperialisme
-帝允	insya allah
-帝允许	insya allah
-帝允许的	insya allah
-帝允许的话	insya allah
-帝创	makhluk|n
-帝创造	makhluk|n
-帝创造物	makhluk|n
+宝贝	bayi|n
+宝贵	indah|adj
+尝	aci-aci|n,merasai,cuba|v,tray|v,mencuba,percubaan
+尝试	aci-aci|n,cuba|v,tray|v,mencuba,percubaan
+帝	empayar|n,maharaja besar,monarki
 帝制	monarki
-帝国	empayar|n,imperialis,imperialisme
-帝国主	imperialis,imperialisme
-帝国主义	imperialisme,imperialis
+帝国	empayar|n,imperialisme
+帝国主	imperialisme
+帝国主义	imperialisme
 帝国主义者	imperialis
 帝汶	timor
 帝汶岛	timor
-帝王	maharaja besar,nobat,santapan
-帝王加	nobat
-帝王加冕	nobat
-帝王加冕时	nobat
-帝王加冕时敲	nobat
-帝王加冕时敲击	nobat
-帝王加冕时敲击之	nobat
-帝王加冕时敲击之皮	nobat
+帝王	maharaja besar
 帝王加冕时敲击之皮鼓	nobat
-帝王的	santapan
-帝王的进	santapan
 帝王的进宴	santapan
-帝的	bismillah
-帝的名	bismillah
-帝第	allah taala
-帝第一	allah taala
-思	abun,angan|n,berfikir|v,bersemadi,buah fikiran,cinta kasih,erti|n,fahaman
-思主	marxisme|n
-思主义	marxisme|n
+思	angan|n,fikir|v,minda|n,fikiran|n,memikirkan|v,berfikir|v,abun,fahaman
 思念	mengenangkan
 思恋	cinta kasih
-思想	abun,angan|n,buah fikiran,fahaman,fikiran|n,minda|n,sahi
-思想的	sahi
-思春	mada,menta
-思春期	mada,menta
-思春期中	mada
-思春期中的	mada
+思想	angan|n,minda|n,fikiran|n,abun,fahaman,buah fikiran
+思想体系	ideologi|n
+思想意识	kesedaran|n
 思春期中的象	mada
-思春期的	menta
-思春期的鸣	menta
-思春期的鸣叫	menta
-思熟	timbang menimbang
-思熟虑	timbang menimbang
-思病	mat cintan|n
-思病的	mat cintan|n
-思的	marxisme|n,muna
-思考	berfikir|v,fikir|v,memikirkan|v
-思议	keramat|n
-思议的	keramat|n
-思豆	saga|n
+思维	fikir|v
+思考	fikir|v,memikirkan|v,berfikir|v
 思路	jalan fikiran
-朝	ke|conj,berguk,dinasti|n,haji|n,indik,jerangkang,lentang|v,menengadah
-朝上	menengadah,tengadah|v
-朝上望	menengadah,tengadah|v
-朝代	dinasti|n,wangsa|n
+朝	ke|conj,ufti|n,lentang|v,sembahyang|n,rukun islam|n,wangsa|n,dinasti|n,indik
+朝上	tengadah|v,menengadah
+朝上望	tengadah|v,menengadah
+朝代	wangsa|n,dinasti|n
 朝功	rukun islam|n
-朝向	mengarah|prep,menghadap|v,menuju|v,tuju|v
-朝圣	berguk,haji|n,merguk,naik haji
-朝圣时	berguk
-朝圣时用	berguk
-朝圣时用的	berguk
-朝圣时用的露	berguk
-朝圣时用的露眼	berguk
-朝圣时用的露眼面	berguk
+朝向	mengarah|prep,tuju|v,menghadap|v,menuju|v
 朝圣时用的露眼面罩	berguk
-朝圣用	merguk
-朝圣用的	merguk
-朝圣用的露	merguk
-朝圣用的露眼	merguk
-朝圣用的露眼面	merguk
 朝圣用的露眼面幂	merguk
-朝圣的	haji|n
-朝圣的人	haji|n
-朝天	lentang|v,telentang,jerangkang,tunggang balik
-朝天躺	jerangkang
-朝天躺着	jerangkang
-朝拜	indik,sembahyang|n
-朝臣	periai
+朝天	lentang|v,telentang
+朝廷	mahkamah|n
+朝拜	sembahyang|n,indik
+朝着	ka|n
 朝觐	ziarah
 朝贡	ufti|n
 朝露	nyamur
-枝	cabang|n,cawang|n,cerangah,dahan|n,durian belanda|n,gelegar,julai,laici|n
+枝	gelegar
+枝子	dahan|n
+枝干	dahan|n
+枝条	dahan|n
 枝柱	gelegar
-枝桠	loncos
-枝桠的	loncos
-疝	burut,kondaran,mengkam,rengat
-疝气	burut,kondaran,mengkam
+枝桠	dahan|n
+疝	mengkam,burut,rengat,kondaran
+疝气	mengkam,burut,kondaran
 疝痛	mengkam,rengat
-窝	mengerami,sarang|n,kelek|n,ketiak|n,pondok|n
+窝	sarang|n,mengerami,pondok|n
+窝巢	sarang|n
 窝棚	pondok|n
 箝	sepit|n,ketap
 箝夹	ketap
-缝	jahit|v,jelujur,menjahit|v,bersela,bertas|v,celah|n,celah jari,gela
-缝师	penjahit,tukang jahit
-缝的	bertas|v,gela
-缝的线	bertas|v
+缝	jahit|v,menjahit|v,jelujur,tunduk udang|n,menampung,tekat,jerumat,pelipit
+缝子	celah|n
 缝纫	jahit-menjahit
 缝纽	tekat
 缝缀	jelujur
-缝补	jerumat,menampung,menjerumat
+缝补	menampung,jerumat,menjerumat
 缝褶	tunduk udang|n
 缝边	pelipit
+缝针	jarum|n
+缝隙	celah|n
 羝	kambeli
 羝毯	kambeli
-肝	limpa|n,antara hati dengan jantung,kalbu|n,pelih
-肝其	antara hati dengan jantung
-肝其间	antara hati dengan jantung
+肝	limpa|n,pelih
 肝脏	pelih
-膝	haribaan,pangku|n,ribaan,tuhut|n,bersila,bersimpuh,komputer riba|n,laptop|n
-膝上	komputer riba|n,laptop|n,memangku,meriba,riba|n
-膝上型	komputer riba|n,laptop|n
-膝上型的	komputer riba|n,laptop|n
+膝	tuhut|n,pangku|n,lutut|n,ribaan,haribaan
+膝上	laptop|n,komputer riba|n
+膝上型	laptop|n,komputer riba|n
+膝上型的	laptop|n,komputer riba|n
 膝盖	lutut|n
-膝而	bersila,bersimpuh,timpuh
-膝而坐	bersila,timpuh
-膝而脆	bersimpuh
-膝而脆坐	bersimpuh
 芝	bijan
+芝士	keju|n
 芝麻	bijan
-萝	jintan|n,kelingtang,lobak|n,lobak merah|n,nanas|n,nangka|n
-萝卜	lobak|n,kelingtang,lobak merah|n
+芝麻绿豆	minit|n
+萝	lobak|n
+萝卜	lobak|n,kelingtang
 萝卜果	kelingtang
-萝蜜	nangka|n
-蚝	kijing|n,lokan|n,sos tiram|n
+蚝	lokan|n,kijing|n,sos tiram|n
 蚝油	sos tiram|n
-贝	batok|n,kapis|n,kerang|n,kirip,kupang|n,lala|n,lupat,mising
-贝名	lala|n,sinting
-贝壳	batok|n,mising
-贝壳类	mising
-贝壳类毒	mising
+贝	batok|n,kerang|n,kirip
+贝壳	batok|n
 贝壳类毒斗	mising
-贝状	kapis|n
-贝状碟	kapis|n
-贝状碟烘	kapis|n
-贝状碟烘烤	kapis|n
+贝尔	loceng|n
 贝类	kerang|n,kirip
-踝	buku lali|n,keting|n
 踝关	buku lali|n
 踝关节	buku lali|n
-逝	afatdunia,hapus|v,meninggal dunia|v,resi
-逝世	afatdunia,meninggal dunia|v
-钝	ahmak|adj,benak|n,berat kepala,gersang|adj,lembam,majal,mampal,mentung
-钝的	gersang|adj,majal,mampal,papar|adj,tumpul|adj,ahmak|adj,berat kepala,lembam
+踝骨	buku lali|n
+逝	meninggal dunia|v,afatdunia
+逝世	meninggal dunia|v,afatdunia
+钝	papar|adj,gersang|adj,tumpul|adj,majal,mampal
+钝的	papar|adj,gersang|adj,tumpul|adj,majal,mampal
 钝笨	tumpul|adj
 钝笨的	tumpul|adj
 锝	teknetium|n
-额	dahi|n,baki,gombak,gumba,imbuh|n,kerut,kuota|n,maksimum
+锝锝	teknetium|n
+额	dahi|n,gombak,petam,tulang dahi
+额吉	bu|n
 额外	imbuh|n
 额外物	imbuh|n
+额外补贴	yuran|n
+额头	dahi|n
+额定	penilaian|n
+额定值	penilaian|n
 额带	petam
+额度	had|n
 额毛	gombak
-额瘤	gumba
-额的	nilaian
-额的估	nilaian
-额的估定	nilaian
+额角	dahi|n
 额饰	petam
 额骨	tulang dahi
-麝	cencorot,jebat,kasturi|n,kesturi,musang|n,napuh,zabad
-麝香	jebat,kasturi|n,kesturi,cencorot,musang|n,napuh,zabad
-麝香猫	kesturi,musang|n,zabad
+麝	kasturi|n,kesturi,jebat
+麝香	kasturi|n,kesturi,jebat,musang|n,napuh,zabad,cencorot
+麝香猫	musang|n,kesturi,zabad
 麝香鹿	napuh
 麝香鼠	cencorot

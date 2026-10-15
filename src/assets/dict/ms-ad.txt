@@ -27,28 +27,27 @@ adem	adem		冷
 adenium	adenium	n	箭毒胶属	adenium
 adhesi	adhesi		胶着，粘着
 adhoc	ad hoc		特别的
-adi	adi	n	首要，主要
+adi	adi	n	首要，主要	alternative form of adik (esp. in Brunei)
 adib	adib		有礼貌的 学者，文学家  作家
-adicita	adicita	n	同义词
+adicita	adicita	n	同义词	synonym of ideologi (“ideology”)
 adik	adik	n	弟弟 妹妹	sibling ((younger) person who shares same parents)
-adikadik	adik-adik	n	复数的
+adikadik	adik-adik	n	复数的	plural of adik
 adikara	adikara		当权，专制
 adikarya	adikarya	n	杰作	masterpiece
 adikberadik	adik beradik		兄弟，手足
-adikberadik	adik-beradik	n	兄弟	siblings (persons who share the same parents)
-adiklakilaki	adik laki-laki	n	两者择一
+adiklakilaki	adik laki-laki	n	两者择一	alternative form of adik lelaki
 adiklelaki	adik lelaki	n	兄弟	brother ((younger) male sibling)
 adikperempuan	adik perempuan	n	年纪较小者 较年轻的	younger sister
 adikuasa	adikuasa	n	超级强权	superpower
 adikung	adikung		侍从武官
 adil	adil	adj	公道，公平	fair  just  right
-adinda	adinda	n	弟妹
-ading	ading	n	弟弟，妹妹
+adinda	adinda	n	弟妹	alternative form of adik
+ading	ading	n	弟弟，妹妹	alternative form of adik
 adiwira	adiwira	n	超级英雄	superhero
 adjektif	adjektif	n	形容词 形容词的	adjective.
 administrasi	administrasi		行政
 admiral	admiral		海军上将
-adoi	adoi		两者择一
+adoi	adoi		两者择一	alternative form of aduh
 adres	adres		地址
 adu	adu	v	争斗，比赛 投诉，控告	to compete  to contest.
 aduan	aduan		诉讼，争斗

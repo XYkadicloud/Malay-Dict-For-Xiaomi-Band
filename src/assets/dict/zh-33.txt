@@ -1,227 +1,172 @@
-亡	afatdunia,arwah,binasa|adj,diang,hudar,humbas,jahanamkan,jiwa melayang
+亡	minggat,diang,mendiang
 亡命	minggat
 亡故	diang,mendiang
-亡的	obituari|n
-亡者	pelari
-倡	menaja,penganjur|n
-倡者	penganjur|n
-儡	orang-orang|n,patung|n
-务	ajib,bea|n,cucuk tanam,fardu|n,fasilitator|n,hutang|n,jabatan|n,jasa
-务主	syahbandar
-务主任	syahbandar
+倡议	inisiatif|n
+务	cucuk tanam
 务农	cucuk tanam
-务员	kakitangan|n,pramugara
-务商	fasilitator|n
-务的	wajib|adj
-务给	mengembani
-务给某	mengembani
-务给某人	mengembani
-堡	benteng|n,kota|n,kubu|n,puri|n,salika
-堡垒	benteng|n,kubu|n,salika
-审	buka bicara,hakim|n,juri,mahkamah tentera|n,verifikasi|n
-审判	hakim|n,mahkamah tentera|n
+堡	kubu|n,salika
+堡垒	kubu|n,salika,benteng|n
+堡垒奶	benteng|n
+堡垒奶头	benteng|n
+审	verifikasi|n
+审判	hakim|n
 审判官	hakim|n
-审团	juri
+审判庭	mahkamah|n
 审核	verifikasi|n
-御	alat kerajaan,cokmar|n,penangkis
+审级	rayuan|n
+审美	rasa|n
+审美观	panji-panji|n
+审酌	ujian|n
+帡幪	khemah|n
+御	cokmar|n,alat kerajaan
 御仗	alat kerajaan
 御杖	cokmar|n
-御用	penangkis
-御用的	penangkis
-御用的东	penangkis
-御用的东西	penangkis
 怡	ipoh,teluk intan
 怡保	ipoh,teluk intan
 抡	jarah,menjarah
 抡劫	jarah,menjarah
-挡	hambat,menangkis,menepis,mengadang,menghalangi,pegat,sekat|v,tepis
-挡开	menangkis,menepis,tepis,tolak|v
-校	akademi|n,cikgu besar|n,guru besar|n,jeneral|n,kadet,kampus,kolonel,koreksi
-校园	kampus
-校学	kadet
-校学生	kadet
-校长	guru besar|n,cikgu besar|n,pengetua|n
+挡	tolak|v,tepis,menepis,menangkis
+挡开	tolak|v,tepis,menepis,menangkis
+校	koreksi
+校监	perdana|adj
+校长	guru besar|n
 校队	koreksi
-模	acuan|n,ajuk,awning|n,bekemayau|v,berbalam,cara besar-besaran,cetakan,dilah|n
-模仿	imitasi,meneladan,mengajuk,meniru,perli,tiru,turut serta
-模作	ajuk
-模作样	ajuk
-模做	loklek
-模做样	loklek
-模型	cetakan,kelebut,model|n,teladan|n,tiruan
+模	model|n,ikutan|n,teladan|n,acuan|n,simulasi|n,perli,cetakan,tiru
+模仿	perli,tiru,imitasi,turut serta,meniru,mengajuk,meneladan
+模型	model|n,teladan|n,cetakan,tiruan,kelebut
 模子	acuan|n
-模拟	simulasi|n,tiru,dilah|n
-模拟分	dilah|n
-模拟分析	dilah|n
-模拟分析系	dilah|n
-模拟分析系统	dilah|n
-模法	pembukuan|n
-模特	peragawati,pragawati
-模特儿	peragawati,pragawati
-模糊	redam,bekemayau|v,berbalam,ilam-ilam,kabur|adj,kabut|n,lapat-lapat,membalam
-模糊不	bekemayau|v,berbalam,membalam
-模糊不清	berbalam,membalam,bekemayau|v
+模式	cara|n
+模拟	simulasi|n,tiru
+模样	rupa|n,kilas|n
+模特	peragawati
+模特儿	peragawati
+模糊	samar|adj,kabur|adj,mendung|n,kabut|n,redam,sayup,ilam-ilam,lapat-lapat
+模糊不	berbalam,membalam
+模糊不清	bekemayau|v,berbalam,membalam
 模糊不清的	bekemayau|v
-模糊的	ilam-ilam,kabur|adj,kabut|n,lapat-lapat,mendung|n,samar|adj,sayup
+模糊的	samar|adj,kabur|adj,mendung|n,kabut|n,sayup,ilam-ilam,lapat-lapat
 模范	ikutan|n
-模面	tekan tubi|n
-模面挤	tekan tubi|n
-模面挤凹	tekan tubi|n
-次	ganda,kali|v,beranggap|v,berganda,berkali-kali,bulanan,dua kali,dua-dua
-次两	dua-dua
-次两个	dua-dua
-次于	temenggung
-次于宰	temenggung
-次于宰相	temenggung
-次于宰相之	temenggung
-次于宰相之高	temenggung
-次于宰相之高级	temenggung
-次于宰相之高级官	temenggung
-次于宰相之高级官员	temenggung
+次	kali|v,ganda,oder|v,mengoder|v,infrabunyi|n,keesokan
+次元	matra|n
 次声	infrabunyi|n
-次幂	kuindesilion|num,sentilion|num
-次序	mengoder|v,oder|v
-次开	meluh
-次开地	meluh
-次开地耕	meluh
-次开地耕种	meluh
-次方	kuadrilion|num,kuintilion|num,nonilion|num,oktilion|num,septilion|num
+次序	oder|v,mengoder|v
+次数	frekuensi|n
 次日	keesokan
-次的	berganda,bulanan,julung
-氡	radon|n
-没	bebek|n,belum|adv,benam,bukan-bukan,buta huruf|adj,dogel,gelagapan,golok kayu
-没人	telantar
-没人照	telantar
+次第	perintah|n
+氡氡	radon|n
+氡氡R	radon|n
+氡氡Rn	radon|n
 没人照顾	telantar
 没人照顾的	telantar
-没入	bebek|n
-没入水	bebek|n
-没入水中	bebek|n
-没受	buta huruf|adj
-没受过	buta huruf|adj
-没受过教	buta huruf|adj
+没准	kalu|adv
 没受过教育	buta huruf|adj
-没收	luncur|v,menyita,sita
-没有	tanpa|prep,tiada|v,tidak|adv,tidak ada|prep,zonder|prep,bukan-bukan,dogel,golok kayu
-没有学	golok kayu
-没有学识	golok kayu
-没有学识的	golok kayu
+没得说	elok|adj
+没收	luncur|v,sita,menyita
+没有	tanpa|prep,tidak|adv,tidak ada|prep,zonder|prep,tiada|v,dogel,hampa udara
 没有学识的人	golok kayu
 没有尾	dogel
 没有尾巴	dogel
-没有根	bukan-bukan
 没有根据	bukan-bukan
 没有根据的	bukan-bukan
 没有空	hampa udara
 没有空气	hampa udara
-没的	keairan|adj
-没精	lengai,rengsa
-没精打	lengai,rengsa
+没溜儿	masuk air|adj
+没电	rata|adj,mati|v
+没精	lengai
+没精打	lengai
 没精打采	lengai,rengsa
 没精打采的	rengsa
-涡	lesung|n,olak|n,pusaran air,turbin
+没谁了	mantul|adj
+没错	pasti|adj
+没门儿	mustahil|adj
+涡	olak|n,turbin
 涡流	olak|n
 涡轮	turbin
-渡	feri|n,harung|v,makan angin|v,mengarung,menyeberangi,randai,randuk|adj,serah|v
+渡	harung|v,serah|v,makan angin|v,feri|n,randai
 渡假	makan angin|v
 渡船	feri|n
 渡让	serah|v
 渡越	harung|v,randai
 渡轮	feri|n
 渡过	harung|v,mengarung,menyeberangi
-澡	abdas|n,mandi|v
-疡	kanker|n
-管	corong,paip|n,pipa,terompong,tiub,bagaimanapun,berumbung,gelindung
-管乐	mandali
-管乐器	mandali
-管乐器之	mandali
+管	paip|n,merinyu|n,pipa,corong,tiub,terompong,kundang,selenggara
 管乐器之名	mandali
+管他呢	apa-apa|pron
+管他的	apa-apa|pron
+管取	pasti|adj
+管子	paip|n
+管家	pengurus|n
 管工	merinyu|n
 管弦	orkestra|n
 管弦乐	orkestra|n
 管弦乐队	orkestra|n
-管怎	bagaimanapun
-管怎样	bagaimanapun
-管理	kundang,mengelola,menyelenggarakan,pentadbirkan,selenggara,meritokratik|adj,pemangku
-管理的	meritokratik|adj
+管束	sekatan|n,kontrol|n
+管理	kundang,selenggara,mengelola,pentadbirkan,menyelenggarakan,pemangku
+管理人	pengurus|n
+管理员	pengurus|n
 管理者	pemangku
-管货	kiwi
-管货船	kiwi
-管货船货	kiwi
-管货船货物	kiwi
-管货船货物的	kiwi
+管用	berguna|adj
 管货船货物的人	kiwi
+管道	cara|n,saluran|n
+管风琴	organ|n
+管龠	kunci|n,paip|n
 羡	panas hati
 羡慕	panas hati
-股	habuan|n,kongsi|n,pantat|n,pinggul|n,rantam,saham,syarik,syarikat|n
+股	habuan|n,kongsi|n,syarik,saham
 股东	syarik
 股份	habuan|n,kongsi|n,saham,syarikat|n
 股份公	syarikat|n
 股份公司	syarikat|n
+股本	laburan|n
 股票	saham
-舡	angkang
-蜡	jambu|n,batik|n,dian|n,kandil,lilin|n,tingkal|n
+股长	hulu|n,pengarah|n
+蜡	jambu|n,dian|n,kandil
 蜡染	batik|n
 蜡染布	batik|n
+蜡炬	lilin|n
 蜡烛	dian|n,kandil
-计	akauntan|n,anggap,anggar,banci|n,banci penduduk,berancang,berhitung,bida
-计划	berancang,cadandan,denah,jangka|v,merancangkan,merencanakan,rancang,rancangan
-计员	jurukira,perangkawan|n
-计图	pelan|n,peta|n
-计学	perangkaan|n,statistik gunaan|n
-计师	akauntan|n
+计	muslihat|n,daya|adj,hitungan|n,perhitungan|n,penghitungkan|n,bilang|v,jangka|v,kira|v
+计划	jangka|v,upaya,cadandan,denah,rancang,rancangan,rundingan,merencanakan
 计数	penghitung|n
+计数器	daftar|n,kaunter|n
+计数法	hitungan|n
+计数管	kaunter|n
+计数者	kaunter|n
 计时	pemasa|n,randik|n
 计时员	pemasa|n
 计时表	randik|n
-计的	statistik|n
-计算	anggar,berhitung,bilang|v,hisab,hitung|v,hitungan|n,kira|v,membilangkan
-计算字	patah|v
-计算字的	patah|v
-计算字的单	patah|v
+计算	hitungan|n,perhitungan|n,penghitungkan|n,bilang|v,kira|v,hitung|v,reken|v,menghitung|v
+计算器	kaunter|n
 计算字的单位	patah|v
-计算机	sains komputer|n
-计算机科	sains komputer|n
+计算机	komputer|n
 计算机科学	sains komputer|n
 计算者	kalkulator|n,mesin kira|n
-计者	disainer
-计谋	bida,daya|adj,helah,muslihat|n
-计量	ekonometrik|n,statistik|n
-计量经	ekonometrik|n
-计量经济	ekonometrik|n
-计量经济学	ekonometrik|n
-贡	hidang,jakun|n,langsat|n,saji|n,ufti|n
-贡人	jakun|n
+计谋	muslihat|n,daya|adj,helah,bida
+计较	pelan|n
+计量经济学计量经济学	ekonometrik|n
+贡	ufti|n,saji|n,hidang
 贡品	ufti|n
-贡献	hidang,saji|n
+贡物	ufti|n
+贡献	saji|n,hidang
+贡赋	ufti|n
 逡	langlang
 逡巡	langlang
-钡	barium|n
-锡	besi putih|n,stanum|n,timah|n,bijih timah,calung,lampan,palung,sailan
-锡兰	sailan,selan
-锡杯	calung
+钡钡	barium|n
+钡钡B	barium|n
+钡钡Ba	barium|n
+锡	timah|n,stanum|n,besi putih|n,lampan,selan,sailan,terak,bijih timah
+锡兰	selan,sailan
 锡渣	terak
-锡矿	palung
-锡矿的	palung
-锡矿的金	palung
-锡矿的金山	palung
 锡矿的金山沟	palung
-锡米	bijih timah,lampan
+锡米	lampan,bijih timah
 骡	baghal|n
-鸡	ayam|n,anak ayam,ayam aduan,ayam belanda|n,ayam betina,ayam dara,ayam goreng|n,ayam hutan
-鸡冠	balung|n
-鸡啼	berkokok,kokok
-鸡啼声	berkokok,kokok
-鸡场	gelanggang ayam
-鸡声	kur
+鸡	ayam|n,kaldu|n,liwat|n,semburit,serun
 鸡奸	liwat|n,semburit
 鸡抓	kais
 鸡抓土	kais
-鸡标	baling-baling|n
 鸡栏	serun
 鸡汁	kaldu|n
-鸡纳	kuinin
-鸡纳孀	kuinin
-鸡鱼	tengkerong
+鸡眼	jagung|n
+鸡蛋	telur|n
 鸡鸭	kuak
 鸡鸭叫	kuak

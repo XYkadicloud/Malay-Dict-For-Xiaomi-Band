@@ -1,195 +1,153 @@
-仑	gelen|n,roentgenium|n
-佑	berkat,pertolongan allah
-兑	menunaikan,urup wang,valuta
+兑	menunaikan,urup wang
 兑换	urup wang
-兑比	valuta
-兑比率	valuta
 兑现	menunaikan
-凑	secara kebetulan
 凑巧	secara kebetulan
 凑巧的	secara kebetulan
-剑	bilah|n,pedang,badik,bersilat,golok|n,keris,lela,lesir
-剑之	sampir
-剑之护	sampir
-剑之护手	sampir
-剑刺	rencong|n
+剑	bilah|n,pedang,todak,pencak,memencak,sarung keris
 剑术	pencak
 剑舞	memencak
 剑鞘	sarung keris,sigi
 剑鞘的	sigi
 剑鞘的环	sigi
 剑鱼	todak
-卑	daif,hina|adj,leta,lucah|adj,rendahkan diri
-卑贱	daif,leta
-卑贱的	daif,leta
+卑下	alas|n,rendah|adj
+卑劣	alas|n,min|n
+卑贱	leta,daif
+卑贱的	leta,daif
 卑鄙	hina|adj,lucah|adj
 卑鄙下	lucah|adj
 卑鄙下流	lucah|adj
 卑鄙的	hina|adj
-发	abuh|adj,amben|n,amende|pron,amuk|v,ape|pron,bangar,bangkit,bangkut
-发亮	gilap,linang
-发亮的	gilap,linang
-发作	pengamuk,serangan jantung|n
-发作的	pengamuk
-发作的人	pengamuk
-发光	bercahaya,berpijar-pijar,bersinar,gilang,penyinaran|n,berkilau-kilau,gemilang|adj,kerlip
+发	murka|v,nyala|n,usul|n,edisi|n,reka|v,kejadian|n,edar|v,tumbuh|v
+发丝	rambut|n
+发亮	linang,gilap
+发亮的	linang,gilap
+发光	gemilang|adj,penyinaran|n,gilang,bersinar,bercahaya,berpijar-pijar
 发光的	gemilang|adj
-发出	sulur|v,terbit|v,berdengung,berderam,berdering,berdesing,beri amaran,beri izin
+发出	terbit|v,sulur|v,beri amaran,beri izin
+发出…的气味	berbau|v
 发出准	beri izin
 发出准证	beri izin
-发出叮	berdering
-发出叮当	berdering
 发出叮当响	berdering
-发出呼	berdesing
-发出呼呼	berdesing
 发出呼呼声	berdesing
-发出哀	jerit|n
-发出哀叫	jerit|n
 发出哀叫声	jerit|n
-发出嗡	berdengung
-发出嗡嗡	berdengung
 发出嗡嗡声	berdengung
-发出嘘	siuh
-发出嘘声	siuh
-发出嘘声赶	siuh
-发出磷	pendarfosfor|adj
 发出磷光	pendarfosfor|adj
 发出磷光的	pendarfosfor|adj
 发出警	beri amaran
 发出警告	beri amaran
-发出重	gedegang|n
-发出重击	gedegang|n
 发出重击声	gedegang|n
 发出重击声的	gedegang|n
-发出隆	berderam,menderam
-发出隆隆	berderam,menderam
 发出隆隆声	berderam,menderam
 发呕	jijik|adj
-发商	pemborong
-发土	buka tanah
-发土地	buka tanah
 发型	gaya rambut|n
 发射	galir|n,luntang|n,melancarkan|v,pancar
-发展	perkembangan,melung
-发展的	melung
-发布	terlepas|v
-发师	barbier|n
-发怒	memberangsang,menggarang,meradang,murka|v,palak,panas hati,gusar,nafsi
-发怒的	gusar,nafsi,rangsang
-发抖	bergetar,gegar,geletar,gementar,getar,gigil|v,gogoh,menggeletar
-发散	menebarkan,sejat,sugun
-发散乱	sugun
-发散乱的	sugun
-发明	mencipta|v,reka|v,rekacipta,pencipta
+发射物	peluru berpandu|n
+发展	perkembangan
+发怒	murka|v,palak,panas hati,menggarang,meradang,memberangsang,nafsi,rangsang
+发怒的	nafsi,rangsang,gusar
+发抖	gigil|v,gegar,gogoh,geletar,gementar,menggetar,getar,bergetar
+发散	sejat,menebarkan
+发明	reka|v,mencipta|v,rekacipta,pencipta
 发明家	pencipta
 发条	pegas
+发源	asal|n
+发源地	asal|n
 发火	nyala|n
 发炎	abuh|adj
 发炮	letup
-发点	paduk
-发烧	dedar,demam|n,palak,pelak
-发热	dedar,palak,pelak,suam
+发烧	demam|n,palak,pelak,dedar
+发烧友	kipas|n
+发热	palak,dedar,suam,pelak
 发热的	suam
+发热错	pelak
+发热错的	pelak
 发牌	perdi
-发牢	bersungut-sungut,gerutu,mencomel,menggerutu,mengomel,merajuk|v,merungut|v,ngeram
-发牢骚	bersungut-sungut,gerutu,mencomel,menggerutu,mengomel,merajuk|v,merungut|v,ngeram
-发狂	amuk|v,biul|adj,gila|adj,maniak|n,masuk air|adj,mengamuk|v
-发狂的	biul|adj,gila|adj,maniak|n,masuk air|adj
-发狂胡	amuk|v
-发狂胡乱	amuk|v
-发狂胡乱杀	amuk|v
+发牢	merungut|v,rungut|v,sungut|n,merajuk|v,rajuk,omel,ngeram,mencomel
+发牢骚	merungut|v,rungut|v,sungut|n,merajuk|v,rajuk,omel,ngeram,mencomel
+发狂	gila|adj,masuk air|adj,biul|adj,maniak|n,mengamuk|v
+发狂的	gila|adj,masuk air|adj,biul|adj,maniak|n
 发狂胡乱杀人	amuk|v
 发狂逞	mengamuk|v
 发狂逞凶	mengamuk|v
-发现	mendapati,mengetahui|v,terdapat
-发生	berlaku|v,kejadian|n,terjadi,tumbuh|v,kontinjen|n
-发生的	kontinjen|n
+发现	mengetahui|v,terdapat,mendapati
+发生	kejadian|n,tumbuh|v,berlaku|v,terjadi
 发电	dinamo,janakuasa
 发电机	dinamo,janakuasa
 发疤	retih
 发疹	sarap|v
-发症	sindrom|n
-发症状	sindrom|n
-发痒	gelenyar,kegatalan,menggelenyar
-发的	beruban,gantung di hujung rambut,tedung ranggas|n
+发痒	kegatalan,gelenyar,menggelenyar
 发票	invois|n
-发秘	buka rahsia
-发秘密	buka rahsia
-发竖	remang|n
-发竖立	remang|n
-发站	mengusulkan,usul|n
+发站	usul|n,mengusulkan
 发笑	ketawa|v
-发者	pemaju|n
-发育	tumbuh|v,bangkut,melung
-发育不	bangkut
-发育不健	bangkut
+发育	tumbuh|v
 发育不健全	bangkut
-发育过	melung
 发育过早	melung
 发育过早的	melung
 发腻	jelak|adj
 发腻的	jelak|adj
-发臭	bangar,ketibus|n,unai
-发臭的	ketibus|n,unai
-发芽	berkecambah,bertaruk,semi,terbit|v,tumbuh|v
-发行	edar|v,edisi|n
+发臭	ketibus|n,bangar
+发臭的	ketibus|n
+发芽	tumbuh|v,terbit|v,semi,bertaruk,berkecambah
+发行	edisi|n,edar|v
+发行人	penerbit|n
+发行商	penerbit|n
 发表	curah fikiran
+发表会	prestasi|n
 发表意	curah fikiran
 发表意见	curah fikiran
-发觉	mengetahui|v,ketahuan
-发言	bersuara,ucap|v
+发觉	mengetahui|v
+发言	ucap|v,bersuara
 发誓	bersumpah,mengikrarkan
 发诊	ruam|n
+发车	perlepasan|n
 发辫	tocang
 发酵	beragi,penapaian|v
+发酵发	penapaian|v
+发酵发酵	penapaian|v
 发酸	basi|adj
 发酸的	basi|adj
-发问	menyoal,lagih
-发霉	basi|adj,hapak,kepam,lapuk|adj
-发霉的	basi|adj,hapak,kepam,lapuk|adj
-发音	sebutan baku|n,amende|pron,ape|pron,camne|adv,cantek|adj,dok|v,kete|n,mende|adv
+发问	menyoal
+发霉	basi|adj,lapuk|adj,kepam,hapak
+发霉的	basi|adj,lapuk|adj,kepam,hapak
+发音	sebutan baku|n
 发高	demam panas
 发高烧	demam panas
 发髻	sanggul|n
-哑	kelu,babuk|adj,bisu|adj,bisu tuli,gagu,garau|adj,parau|adj,tungkap
+哑	babuk|adj,kelu,bisu|adj,gagu
 哑口	tungkap
 哑口难	tungkap
 哑口难言	tungkap
 哑吧	bisu|adj
-哑的	babuk|adj,gagu,garau|adj,parau|adj
-坑	anjing pandan|n,genahar,limbah,lombong|n,lopak,paluh,sapir,seronggong
-坑中	anjing pandan|n,seronggong
-坑中的	anjing pandan|n,seronggong
-坑中的坑	seronggong
-坑中的坑架	seronggong
-坑中的混	anjing pandan|n
-坑中的混合	anjing pandan|n
-坑中的混合废	anjing pandan|n
-坑中的混合废料	anjing pandan|n
-坑架	seronggong
+哑的	babuk|adj,gagu
+哑谜	teka-teki|n
+坑	lombong|n
+坑洞	lubang|n
 坑穴	lombong|n
 坑道	sapir
 坑道兵	sapir
-塑	pelastik,plastik|n,supik|n
+塑	plastik|n,pelastik
+塑像	patung|n
 塑料	plastik|n,supik|n
 塑料袋	supik|n
 塑胶	pelastik
-契	aad,akad,geran|n,kontrak
+契	aad,akad,kontrak
 契约	aad,akad,kontrak
-姑	bapa saudara,bibi|n,bonda saudara,gadis dara,tomboi|n
+姑	bibi|n,bapa saudara,gadis dara,bonda saudara
 姑丈	bapa saudara
-姑娘	gadis dara,tomboi|n
+姑夫	paman|n
+姑娘	gadis dara
 姑母	bibi|n,bonda saudara
+姑父	paman|n
+姑爷	paman|n
+姑爹	paman|n
 孑	jentik-jentik|n
 孑孓	jentik-jentik|n
-屑	serbuk|n,berketai-ketai,gambal,lemukut,reja,remah,sempak,serdak|n
+孑然	sepi|adj
+屑	serbuk|n
 屑片	sempak
-忑	kebat-kebit,lebuk
-忑不	kebat-kebit
-忑不安	kebat-kebit
-忑声	lebuk
-惑	aswas,bingung|adj,gemang,godaan|n,kekeliruan|n,keliru|adj,lima puluh empat|num,mantera|n
-扑	cekup|v,mencekup,celempung,celeng,celengan,daun pakau,debur,dekam
+惑星	cakerawala|n
+扑	cekup|v,mencekup,padam|adj,terpa|v,terkam|v,jerembap,tekup,celeng
 扑倒	jerembap,jerumus,tersembam,tersungkur
 扑克	daun pakau
 扑克牌	daun pakau
@@ -201,257 +159,185 @@
 扑水	ketimbang|part
 扑水声	ketimbang|part
 扑满	celeng,celengan
-扑灭	membasmi,padam|adj
+扑灭	padam|adj,membasmi
 扑缀	lompok
-扑过	dekam
-扑过去	dekam
 扑通	celempung,debur
 扑通声	debur
 扑面	sabung
-救	almukhalis,ambulans|n,balai bomba|n,belampung,bomba|n,dana|n,derma|n,kelampung
+救	pertolongan
 救世	almukhalis
 救世主	almukhalis
-救护	ambulans|n
-救护车	ambulans|n
-救济	pertolongan,dana|n,derma|n,sedekah|n
-救济品	dana|n,derma|n,sedekah|n
-救火	balai bomba|n,bomba|n
+救助	perkhidmatan|n
+救护车救护车	ambulans|n
+救济	dana|n,sedekah|n,pertolongan,derma|n
+救济品	dana|n,sedekah|n,derma|n
+救火	bomba|n,balai bomba|n
 救火局	balai bomba|n
 救火机	bomba|n
 救球	selamatkan|v
+救球解	selamatkan|v
+救球解救	selamatkan|v
 救生	belampung,kelampung
 救生圈	belampung,kelampung
-村	desa|n,akar umbi|n,dusun,kampung|n,penggawa|n,penghulu|n,penghulu kampung,qaryah
+村	desa|n,penggawa|n,kampung|n
 村吏	penggawa|n
-村地	akar umbi|n
-村地区	akar umbi|n
 村庄	kampung|n
+村舍	pondok|n
 村长	penghulu|n,penghulu kampung
-柑	jinggakan|v,kemuning|n,limau|n,oyen|n,sejingga|adj,sitrus|n
-柑橘	jinggakan|v,kemuning|n,limau|n,oyen|n,sejingga|adj,sitrus|n
-柑橘属	sitrus|n
-柑橘属果	sitrus|n
+柑	limau|n,oyen|n,kemuning|n,sejingga|adj,jinggakan|v
+柑橘	limau|n,oyen|n,kemuning|n,sejingga|adj,jinggakan|v
 柑橘属果树	sitrus|n
-桑	bunga raya|n,farsakh|n
-桑花	bunga raya|n
-浑	kacang cerdik|n,keruh,pistacio|n,pistasio|n
-浑子	kacang cerdik|n,pistacio|n,pistasio|n
-浑子树	kacang cerdik|n,pistacio|n,pistasio|n
+浑圆	lancar|adj
+浑家	bini|n
 浑浊	keruh
 浑浊的	keruh
 淑	empuan|n
 淑女	empuan|n
-滑	licin|adj,peleset,selusuh,akal kancil,carbi,gelangsar,gelecek,geli hati
-滑下	luncur|v,meluncur,menyelusuh
-滑倒	gelangsar,gelecek,gelicik,gelincir,peleset,tergelincir|v,lungsur|v
+淑静	landai|adj,lunak|adj
+滑	licin|adj,selusuh,peleset,tergelincir|v,rudu,lucut,rosot,geli hati
+滑下	luncur|v,menyelusuh,meluncur
+滑倒	tergelincir|v,gelangsar,gelecek,gelicik,peleset,gelincir
 滑机	geris
 滑机油	geris
 滑润	carbi
 滑润油	carbi
-滑溜	gelecek,gelicik,rosot,rudu
-滑物	pelincir|n
-滑的	lancap|v,lancarkan|v,licau,licin|adj,lincir|adj,lira,menggalirkan|v,pelincir|n
-滑稽	geli hati,jenaka|n,kelakar|n,lawak|adj,seloroh
-滑稽的	jenaka|n,kelakar|n,lawak|adj,seloroh
+滑溜	rudu,rosot,gelecek,gelicik
+滑溜溜	lancar|adj
+滑稽	lawak|adj,jenaka|n,kelakar|n,geli hati,seloroh
+滑稽的	lawak|adj,jenaka|n,kelakar|n,seloroh
 滑脱	leset,lorot,meleset,melorot,terleset
 滑腻	lecok
 滑腻的	lecok
-滑落	gelongsor,lucut,pelosot,terpelosot
+滑落	lucut,gelongsor,pelosot,terpelosot
 滑走	gelincir
 滑车	kapi
 滑轮	kerek
-滑过	gelongsor
 滑过去	gelongsor
+滑鼠	tikus|n
 濑	ketarap
 濑鱼	ketarap
-监	celung,inding,intip|v,jel,keladau,lapan puluh empat|num,lelar,mandur
+监	merinyu|n,rawat|v,penjara|n,penjagaan|n,pemantauan|n,pondok tol|n,inding,mengawal
 监守	merinyu|n
 监守者	merinyu|n
+监察人	monitor|n
 监工	mandur
-监护	mangku,rawat|v
+监护	rawat|v,mangku
 监控	pemantauan|n
-监牢	jel,penjara|n
-监狱	penjara|n,pondok tol|n,lapan puluh empat|num
-监督	lelar,mengawal,menyelia,merinyu|n,monitor|n,pemantau|n,pengawas,penyelia
+监查员	monitor|n
+监牢	penjara|n,jel
+监狱	penjara|n,pondok tol|n
+监督	merinyu|n,monitor|n,pemantau|n,mengawal,lelar,menyelia,penyelia,pengawas
 监督人	pengawas
 监督员	penyelia
 监督器	monitor|n,pemantau|n
 监督官	penyelia
-监禁	celung,penjarakan,sekap
-监视	inding,keladau,mengawasi,penjagaan|n,intip|v
-睑	kelopak mata,pelupuk mata
-科	seksyen|n,ablasi|n,ahli bedah|n,ahli sains|n,akademi|n,as|n,buku teks|n,doktor gigi|n
-科书	buku teks|n
-科全	ensiklopedia|n
-科全書	ensiklopedia|n
-科医	ahli bedah|n,doktor gigi|n,ginekologi|n
-科医学	ginekologi|n
-科医生	ahli bedah|n,doktor gigi|n
+监禁	celung,sekap,penjarakan
+监视	penjagaan|n,inding,keladau,mengawasi
+监趸	banduan|n
+科	seksyen|n,sains|n,widya|n,tertakluk|n,kafir zimmi|n,ilmu pegetahuan
+科仪	upacara|n
 科威	kuwait
 科威特	kuwait
-科学	ilmu pegetahuan,sains|n,widya|n,ahli sains|n,akademi|n,ginekologi|n,ilmiah,ilmu alam|n
+科学	sains|n,widya|n,ahli sains|n,ilmu pegetahuan,kaedah saintifik|n,saintifik,ilmiah
 科学上	ilmiah
 科学上的	ilmiah
-科学家	ahli sains|n,ilmuwan|n,saintis|n
+科学家	ahli sains|n
+科学家科学家	ilmuwan|n,saintis|n
 科学方	kaedah saintifik|n
 科学方法	kaedah saintifik|n
-科学校	akademi|n
 科学的	saintifik
-科树	ibus|n,pedada
-科树木	ibus|n
-科树木之	ibus|n
-科树木之一	ibus|n
-科树木之一种	ibus|n
-科植	as|n,kelembahang,melaka,ru|n,setul
-科植物	as|n,kelembahang,melaka,ru|n,setul
-科植物名	melaka
-科的	ablasi|n
-科目	kafir zimmi|n,tertakluk|n
-科鸣	emperit|n
-科鸣鸟	emperit|n
+科室	unit|n
+科目	tertakluk|n,kafir zimmi|n
+科研	penyelidikan|n
 穑	kiap
 穑座	kiap
-筑	arkitek|n,bangunan|n,bina|v,binaan,pembinaan|n,ramuan|n,seni bina|n
-筑学	seni bina|n
-筑师	arkitek|n
-筑材	ramuan|n
-筑材料	ramuan|n
-筑物	bangunan|n,binaan,pembinaan|n
-绑	mengikat|v,bon|n,culik|v,jerut,kamban,membebat,memuntal,menculik
+绑	mengikat|v,culik|v,jerut,menjerut,menculik,penculik,mengeratkan
 绑上	membebat
-绑住	serangkak,terikat
-绑住树	serangkak
-绑住树身	serangkak
 绑匪	penculik
 绑架	menculik
-绑物	bon|n
 绑票	culik|v
-绑紧	jerut,mengeratkan,menjerut
+绑紧	jerut,menjerut,mengeratkan
 绑走	culik|v
-网	jala|n,jaring|n,rajutan|n,sirat,cc|n,internet|n,jaringan|n,jejala
-网捕	jaring|n
-网捕捉	jaring|n
+网	jaring|n,jala|n,rajutan|n,sirat,tapak web|n,warga maya|n,tapak sesawang|n
+网桥	jambatan|n
 网民	warga maya|n
-网状	jejala,selirat
+网点	dahan|n
+网版	skrin|n
+网状	jejala
 网状物	jejala
 网球	tenis|n
-网站	tapak sesawang|n,tapak web|n
-网络	jaringan|n,siber|adj
-网络的	siber|adj
-网网	menjala
-网网鱼	menjala
-网膜	tembuni|n
-网鱼	menjala,penjala
+网球tenis	tenis|n
+网站	tapak web|n,tapak sesawang|n
+网络	rangkaian|n
+网路	rangkaian|n
+网鱼	penjala
 网鱼的	penjala
 网鱼的人	penjala
-虑	anggap,anziolitik|adj,bertafakur,cemas,fikirkan|v,kebimbangan,keluh-kesah,keresahan|n
-虑的	santai|adj
-虑药	anziolitik|adj
-蟑	cecunguk|n,kepuyuk|n,lipas|n,lipas kudung|n
-蟑螂	cecunguk|n,kepuyuk|n,lipas|n,lipas kudung|n
-译	alih bahasa|n,interpreter,jurubahasa|n,kuda padi|n,melayukan|v,memindahkan,menterjemahkan,terjemah|v
-译员	interpreter,jurubahasa|n
-译文	terjemahan|n,kuda padi|n
-译文翻	kuda padi|n
-译文翻译	kuda padi|n
+蟑	lipas|n
+蟑螂	lipas|n,kepuyuk|n,cecunguk|n
+蟑螂蟑	kepuyuk|n,cecunguk|n
+蟑螂蟑螂	kepuyuk|n,cecunguk|n
+译	terjemahan|n,terjemah|v,versi
+译文	terjemahan|n
 译本	terjemahan|n,versi
 译者	terjemah|v
-跑	berlari|v,lari|v,menciput|v,hudar,humbas,kelindan,kengkang,ligas|n
+跑	lari|v,menciput|v,berlari|v
 跑车	kelindan
 跑车员	kelindan
-近	dekat|adj,akhdar|adj,akhir-akhir,anak tekak|n,baharu-baharu,baru-baru,belakangan,belau|adj
-近义	akhdar|adj,anak tekak|n,belau|adj,congek|adj,dasa|num,eka|num,khinzir|n,lontar peluru|n
-近义词	akhdar|adj,anak tekak|n,belau|adj,congek|adj,dasa|num,eka|num,khinzir|n,lontar peluru|n
+近	dekat|adj,kabur|adj,daerah|n,rabun jauh|n
+近人	kontemporari|adj
+近似	serupa|adj
+近日	baru|adj
 近来	belakangan
-近的	baharu-baharu,bersebelahan,damping
 近视	kabur|adj,rabun jauh|n,buta rabun
 近视眼	buta rabun
-近路	memintas,pintas
 近郊	daerah|n
-金	emas|n,abad emas|n,abad keemasan|n,alamas,alkimia|n,amalgam|n,anak emas|n,ang
-金丝	kenari,tegarun
+近顷	baru|adj
+郑重	serius|adj
+金	emas|n,keemasan|adj,wang|n,logam|n,anak emas|n,ringgit|n,beraso|n,fosfor|n
+金丝	tegarun,kenari
 金丝织	tegarun
 金丝织品	tegarun
 金丝雀	kenari
-金会	yayasan|n
-金似	keemasan|adj
-金似的	keemasan|adj
-金储	cadangan emas
-金储备	cadangan emas
-金储备量	cadangan emas
-金刚	pelias,wutuh
-金刚不	pelias,wutuh
-金刚不坏	pelias,wutuh
+金刚不坏	wutuh
 金刚不坏术	pelias
 金刚不坏的	wutuh
 金匠	tukang emas
-金单	mutu|n
-金单位	mutu|n
-金娘	as|n
-金娘科	as|n
-金娘科植	as|n
-金娘科植物	as|n
+金子	emas|n
 金字	limas|n,piramid
 金字塔	piramid,limas|n
 金字塔形	limas|n
 金宝	kampar
-金属	beraso|n,logam|n,baldi|n,cembul|n,dawai,derang,lota,pamur
+金属	logam|n,beraso|n,syiling|n,baldi|n,lota,derang,pamur,sampak
 金属声	derang
-金属小	lota,selepi
-金属小型	selepi
-金属小型盒	selepi
+金属小	lota
 金属小型盒子	selepi
 金属小瓮	lota
-金属护	pendongkok
-金属护手	pendongkok
-金属护手或	pendongkok
-金属护手或铁	pendongkok
 金属护手或铁环	pendongkok
 金属桶	baldi|n
 金属环	sampak
-金属的	syiling|n,pancalogam,pending
-金属的混	pancalogam
-金属的混合	pancalogam
-金属的混合金	pancalogam
-金属的腰	pending
-金属的腰带	pending
-金属盒	cembul|n
-金属线	dawai
-金属线或	dawai
+金属的	syiling|n
 金属线或丝	dawai
-金属色	sadur
-金属色彩	sadur
-金属色彩的	sadur
 金属镶	pamur
 金属镶嵌	pamur
-金山	palung
-金山沟	palung
-金布	telepuk
-金时	abad emas|n,abad keemasan|n
-金时代	abad emas|n,abad keemasan|n
-金星	fosfor|n,kejora,nahid,zaharat,zuhrah
-金术	alkimia|n
-金的	anak emas|n,keemasan|adj
-金石	batu uji
-金矿	urung
+金星	fosfor|n,zuhrah,nahid,kejora,zaharat
+金玉	indah|adj
+金的	anak emas|n
+金秋	musim gugur|n
 金箔	kerajang|n,kerancang|n
 金线	mastuli
 金线织	mastuli
 金线织物	mastuli
-金绣	kida-kida,madukara
-金绣绢	madukara
-金绣绢织	madukara
-金绣绢织物	madukara
+金绣	kida-kida
 金色	keemasan|adj
-金花	tupai belang|n,tupai kecil|n
-金花鼠	tupai belang|n,tupai kecil|n
+金花	tupai kecil|n,tupai belang|n
+金花鼠	tupai kecil|n,tupai belang|n
 金莺	selempukau
-金返	pulangan tunai|n
-金返还	pulangan tunai|n
-金钢	alamas,intan|n
+金融	kewangan|n
+金钢	intan|n,alamas
 金钢石	alamas
 金钢钻	intan|n
-金钱	ang,duit raya|n,ringgit|n,wang|n,kurap|n
+金钱	wang|n,ringgit|n,duit raya|n,ang,kurap|n
 金钱癣	kurap|n
 金项	kalung|n
 金项饰	kalung|n
@@ -462,33 +348,30 @@
 金鸡	kuinin
 金鸡纳	kuinin
 金鸡纳孀	kuinin
-金黄	jingga|adj
-金黄色	jingga|adj
-铑	rodium|n
-鹑	puyuh|n
-黑	hitam|adj,anjing arau|n,anjing ladang|n,aswad|adj,biru lebam,bolong|adj,cimpanzi|n,gelap-gulita
-黑一	gelap-gulita
-黑一片	gelap-gulita
-黑暗	gulita,ketitam|n,silam
+金黄	keemasan|adj
+铑铑	rodium|n
+铑铑R	rodium|n
+铑铑Rh	rodium|n
+黑	hitam|adj,aswad|adj,bolong|adj,langking|adj,samur|n,ketitam|n,anjing arau|n,anjing ladang|n
+黑夜	malam|n
+黑影	bayang|n
+黑手	mekanik|adj
+黑暗	ketitam|n,gulita,silam
 黑暗的	silam
 黑板	papan hitam|n
 黑海	itik kumbang|n
 黑海番	itik kumbang|n
 黑海番鸭	itik kumbang|n
-黑点	porong
-黑点痣	porong
+黑炭	arang|n
 黑猩	cimpanzi|n
 黑猩猩	cimpanzi|n
-黑的	hitam-hitam,legam,lotong|adj
+黑糊糊	hitam|adj
 黑绢	pangsi
-黑色	anjing arau|n,anjing ladang|n,aswad|adj,bolong|adj,langking|adj,ijuk|n,lebam|n,lotong|adj
-黑色纤	ijuk|n
-黑色纤维	ijuk|n
-黑色长	lotong|adj
-黑色长尾	lotong|adj
+黑色	aswad|adj,bolong|adj,langking|adj,anjing arau|n,anjing ladang|n
 黑色长尾猿	lotong|adj
 黑豹	harimau kumbang|n
 黑貂	samur|n
-黑青	biru lebam
+黑青blue	biru lebam
 黑非	zanggi|n
 黑非洲	zanggi|n
+黑魆魆	hitam|adj

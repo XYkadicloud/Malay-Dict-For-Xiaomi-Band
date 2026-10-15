@@ -16,7 +16,7 @@ asarrendah	asar rendah		下午四时左右
 asartinggi	asar tinggi		下午三时左右
 asas	asas	n	基础，地基	base  foundation
 asasi	asasi	adj	基本原理	basic; fundamental; essential			asas
-asatizah	asatizah	n	复数的
+asatizah	asatizah	n	复数的	Plural of ustaz and ustazah.
 aset	aset	n	资产	An asset:
 asfalt	asfalt	n	柏油 用柏油铺成的 以柏油铺	asphalt
 asflat	asflat		柏油，沥青
@@ -49,9 +49,9 @@ astakona	astakona	adj	剪断	clipping of berastakona (“octagonal”)
 astana	astana	n	王宫	palace  castle
 astatin	astatin	n	砹  砹At	astatine (chemical element)
 astrofizik	astrofizik	n	天体物理学  天体物理	astrophysics
-astu	astu	adv	两者择一
-asu	asu	n	同义词
-asuasu	asu-asu	n	复数的
+astu	astu	adv	两者择一	alternative form of lepas tu
+asu	asu	n	同义词	synonym of anjing (“dog”)
+asuasu	asu-asu	n	复数的	plural of asu
 asubetina	asu betina	n	母狗	bitch (female canine); female dog
 asuh	asuh	v	看护，养育	to nurse; to care for; to babysit; to rear (to look after a child).
 asuhan	asuhan		教育，养育

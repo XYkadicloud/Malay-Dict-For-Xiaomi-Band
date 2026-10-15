@@ -1,415 +1,403 @@
-pace	tongkat penyukat|n
+p pr vb n of cede	ceding
+p pr vb n of mire	miring
+p pr vb n of rue	ruing
+pace stick	tongkat penyukat|n
 pacemaker	pemacu|n,perentak jantung|n
-pacific	lautan pasifik,lautan teduh
-pack	pek|n,peket|n,tapau|v
-package	pakej|n,peket|n
-packaged	bungkus|cls
-packaging	polistirena|n
-packed	bekal|n
+pacific ocean	lautan teduh,lautan pasifik
+pack of something	pek|n
+packed lunch	bekal|n
 pact	pakatan|n
-pad	paprik|n
-padang	padang besar
+pad	alas|n
+pad prik	paprik|n
+padang besar a town in perlis	padang besar
 paddle	dayung|n
-paddles	dayung-mayung|n
-paddy	bendang|n,padi|n,sawah|n,sawah padi|n
-page	laman sesawang|n,laman web|n,muka surat|n
+paddy	padi|n,sawah|n,sawah padi|n
+paddy field	bendang|n
+page	laman|n,muka surat|n
 pager	kelui|n
-pagi-pagi	pepagi|adv
-paha	peha|n
-pahal	phl|adv
-pahang	bentong,darul makmur,jerantut,lipis,maran,pahang
-pahat	batu pahat
+pahang	pahang,darul makmur
 pail	baldi|n
-pain	aduh,bahal|adj,ngilu|n
-painful	bisa|adj,pedih|adj,sakit|adj
-paint	cat|n
-painted	abau|n,bercat|adj
+painful	pedih|adj,sakit|adj
+paint	cat|n,kelupas|v
+painted	bercat|adj
 painter	pengecat|n
-pair	digraf|n,jangka lukis|n,lamin|n,pasang|num,teraju|n
-pak	cik|n,pakcik|n
-pakatan	ph
-palace	astana|n,istana|n,seba|v
-palanquin	jempana|n,joli|n,takhta rawan|n,tandu|n
+pair	lamin|n,pasang|num
+pair of compasses	jangka lukis|n
+palace	astana|n,istana|n
+palanquin	joli|n,tandu|n
 palate	lelangit|n
 pale	lepak|adj
-palestine	palestin
+palestine	betlehem,palestin
+palestine and israel	laut mati
 palladium	paladium|n
-palm	aren|n,enau|n,ibus|n,kirai|n,palma|n,pinang|n
-palms	ampu|v,tadah|v
-pan	apan|n,jerang|v
-pan-fry	goreng tohor|v
-pan-malaysian	parti ajaran sesat
+palm	tapak tangan|n,telapak tangan|n,telapak
+palm cabbage	umbut|n
+palm or sole	tapak|n
+palm tree	palma|n
+palm wine an alcoholic beverage created from the sap of	tuak
+pan	apan|n
+pan-malaysian islamic party	parti ajaran sesat
 pancake	pankek|n
-pancing	memancing|v
 pancreas	pankreas|n
-panda	panda|n,panda merah|n
-pandang	memandang|v
-pandanus	pandan wangi|n
+panda	panda|n
+pandanus amaryllifolius	pandan wangi|n
 pandemic	pandemik|n
-pandu	memandu|v
 paneer	panir|n
-panggil	dipanggil|v,memanggil|v
 pangolin	tenggiling|n
 panicked	cuak|adj
-pans	periuk belanga|n
-pant	sedu|v
 pantaloons	pantelon|n
-pantau	dipantau|v,memantau|v
 pantheism	panteisme|n
 panther	harimau kumbang|n,harimau peturun|n
-panties	sependa|n
+panthera pardus	macan tutul|n,harimau bintang|n
+panties	sependa|n,seluar dalam|n
 pantoum	pantun|n
 pants	celana|n,seluar|n,sependa|n
 papaya	betik|n,ketela|n,pepaya|n
-paper	jeluang|n,kapal terbang kertas|n,kertas|n
+paper	kedut|n,kerdut|n,kedutan|n,keledut|n,berkedut|v,kedutkan|v
+paper aeroplane	kapal terbang kertas|n
 paper-thin	nipis macam kertas|adj
 paracetamol	parasetamol|n
-parachute	payung|n,payung terjun|n
-parade	perarakan tentera|n,perbarisan|n
-paradise	cenderawasih|n,inderaloka|n,jannah|n,kayangan|n,syurga|n
+parachute	payung terjun|n
+parade	perbarisan|n
+paradise	jannah|n,syurga|n,kayangan|n,inderaloka|n
 paradox	paradoks|n
-paraffin	minyak tanah|n
-paragogic	bawak|v,jugak|adv,mintak|adv,pulak|adv,siaper|pron
+paraffin oil	minyak tanah|n
+paragogic form of bawa	bawak|v
+paragogic form of juga	jugak|adv
+paragogic form of minta	mintak|adv
+paragogic form of pula	pulak|adv
+paragogic form of siape who	siaper|pron
 parakeet	bayan|n
 parallel	selari|adj
-paralyzed	lumpuh|v
-parang	candung|n
-parap	paraf|n
 parasang	farsakh|n
-parasite	bendalu|n,parasit|n
-parched	bertih|n
+parasite	parasit|n
+paratapes textilis	lala|n
+parched rice	bertih|n
+pardofelis temminckii	kucing emas|n,kucing tulap|n
 pardon	maaf|int
-pare	raut|v
-parent	biang|n,datuk|n,emak ayah|n
-parent-in-law	mentua|n,mertua|n
+parent	biang|n,emak ayah|n
 parents	ibu bapa|n
-park	kawasan perindustrian|n,parkir|n,parkiran|n,taman|n,taman hiburan|n,taman tema air|n
-parking	parkir|n,parkiran|n
-parkir	diparkir|v,memarkir|v
-parliament	parlimen|n,parlimen tergantung|n
-parrot	nuri|n
-parsi	farsi
-part	aandeel|n,anggota|n,awning|n,bakkerij|n,baruh|n,juzuk|n
+park	taman|n
+parking lot	parkir|n,parkiran|n
+parliament	parlimen|n
+parry an attack	tangkis|v
+part	aandeel|n,bakkerij|n
 part-time	sambilan|adj
-parti	gps,partai|n,pbrs,pbs,pkm,pprs
-participate	turut|v
-participle	teringat|v
-particle	ah|part,butir|n,lah|part
-particular	otai|n,suatu|det,tertentu|adj
-parties	berparti|adj
-partner	berkhalwat|v
-parts	regan|n
+partially decomposed organic matter	humus
+participle of ingat to recall	teringat|v
+particle	butir|n
+particle to express astonishment	ah|part
+particular	suatu|det,tertentu|adj
+particularly th	jubli
 parturition	pelahiran|n
-party	dap,parti|n,parti ajaran sesat,parti kerajaan|n,parti pembangkang|n,parti pemerintah|n
-pasal	apasal|adv,apesal|adv,pesal|adv,sal|adv
-pasang	dipasang|v
-pasir	pasir ris
-pass	lalu|v,lewat|adj,mangkat|v,meninggal|v,meninggal dunia|v
-passage	gerhana|n
+party	pesta|n
+pasir ris	pasir ris
+passage of a planetary object between others	gerhana|n
 passenger	penumpang|n
 passion	gembira|adj,ghairah|n
-passive	bandarkan|v,diabadikan|v,diabahkan|v,diabaikan|v,diabar|v,diabdikan|v
+passive	pasif|adj
+passive of buat	dibuat|v
+passive of buka	dibuka|v
+passive of catuk to peck	tercatuk|v
+passive of fahami	difahami|v
+passive of fikiri	difikiri|v
+passive of fikirkan	difikirkan|v
+passive of hitung	dihitung|v
+passive of jemur	dijemur|v
+passive of jepunkan	dijepunkan|v
+passive of justifikasikan	dijustifikasikan|v
+passive of kedutkan	dikedutkan|v
+passive of lakukan	dilakukan|v
+passive of lepaskan	dilepaskan|v
+passive of lestarikan	dilestarikan|v
+passive of letak	diletak|v
+passive of makan	dimakan|v
+passive of mampankan	dimampankan|v
+passive of masak	dimasak|v
+passive of melayukan to translate into malay	dimelayukan|v
+passive of menangkap captured	ditangkap|v
+passive of mengoksidakan	dioksidakan|v
+passive of pasang	dipasang|v
+passive of pecut	dipecut|v
+passive of pegang grasp	dipegang|v
+passive of pendap to press down	dipendapkan|v
+passive of peningkan	dipeningkan|v
+passive of pertuan to be lorded over	dipertuan|v
+passive of pinta	dipinta|v
+passive of potong	dipotong|v
+passive of punyakan	dipunyakan|v
+passive of regas	diregas|v
+passive of regat	diregat|v
+passive of sayang	disayangi|v
+passive of tanam	ditanam|v
+passive of tinjau	ditinjau|v
+passive of tumbuk	ditumbuk|v
+passive transitive of letakkan	diletakkan|v
 passport	pasport|n
 password	kata laluan|n
-past	lalu|v,lepas|adj
+past	lepas|adj
 pasta	pasta|n
-paste	pes|n,petis|n,tampal|v
+paste	pes|n
 pastry	perata|n
-pasu	kubang pasu
-pasukan	palapes,putd
-pat	tepuk|v
+pat	tampar|n
 patani	patani
-patch	koyok|n
 path	jalan|n
 pathogen	patogen|n
 pathology	kaji penyakit|n
 patience	kesabaran|n
-patient	bersabar|v,derana|adj,dihitung-hitung|v,menyabarkan|v,penyabar|n,sabar|adj
+patient	sabar|adj,derana|adj
+patient a person or animal who receives treatment from a	pesakit
+patient of hitung-hitung to be counted up	dihitung-hitung|v
+patient person	penyabar|n
 patio	patio|n
 patriarchal	baka|adj
 patriot	pahlawan|n
-patron	langgan|v
-paut	dipaut|v,memaut|v
-pawn	bidak|n,gadai|n,piadah|n,pion|n
-pay	bayar|v,endah|v,kisah|v,mempedulikan|v,menghiraukan|v,perhati|v
-payment	percuma|adj
-payslip	penyata gaji|n,slip gaji|n
-payung	payung|n
-peace	darul aman,kedamaian|n,mengganggu keamanan|v,sejahtera|n,selamat|adj
+pawn	gadai|n
+payslip	slip gaji|n,penyata gaji|n
+peace	selamat|adj,kedamaian|n,sejahtera|n
 peaceful	aman|adj,sentosa|adj,tenteram|adj
 peach	toh|n
-peacock	biru merak|adj
-peafowl	merak|n
+peacock blue	biru merak|adj
 peak	mercu|n,puncak|n
 peanut	kacang tanah|n
 pear	lai|n
 pearl	mutiara|n
 peat	gambut|n
-peck	catuk|v,patuk|v
-pecked	tercatuk|v
-pecut	dipecut|v,memecut|v
-peel	kelupas|v,kelupaskan|v,kupas|v,kupasan|n
-peep	menjengah|v
-peeping	mat skodeng|n
+pebble	batu|n
+peeping tom	mat skodeng|n
 peevish	mua|adj
-peg	pasak|n
-pegang	dipegang|v,peygang|v
-pegawai	ptt|n
-pehal	phl|adv
+peg	pasak|n,tiang|n
 pejorative	pejoratif|adj
-peket	paket|n
-pelajaran	spm|n
-pelanggan	pelanggam|n
-pelir	kelepir|n
-pemandu	supir|n
-pen	kalam|n,kandang|n
-penang	pulau pinang
-pencen	penshen|adj
-pencil	berpensel|v,pensel|n,potlot|n
-pendaftaran	jpn
-pendap	dipendapkan|v
-pendekkan	dipendekkan|v,memendekkan|v
-pendidikan	pj|n
-penetrate	tembus|v
-pengantin	mempelai|n
-penglihatan	pelihatan|n
+pelancong	lancong
+pellicle a thin	selaput
+pen	pen|n,kalam|n,kandang|n
+penang	jelutong,balik pulau
+penang a state of malaysia	pulau pinang
+pencil	pensel|n,potlot|n
 penicillin	penisilin|n
-peningkan	dipeningkan|v,memeningkan|v
-peninsula	semenanjung|n,tanah melayu|n
-penis	butoh|n,butuh|n,canggar|n,kepala butuh|n,konek|n,palat|n
+peninsula	semenanjung|n
+penis	butoh|n,butuh|n,konek|n,palat|n,pelir|n,zakar|n,paller|n
+penis erection	canggar|n
 pennon	panji-panji|n
-pensel	pensil
-pensions	berpencen|v
+pensioned	pencen|adj
 pentecost	pantekosta
-pepper	lada|n,sirih|n
+people	arus|n,kaum|n,umat|n,orang|n,manusia|n,melayu,portugis
+people with a muscular appearance	sado|adj
+people's republic of china	republik rakyat china
+pepper	lada|n
 peppermint	poho|n
-perahu	perau|n
-perak	darul ridzuan,manjung,perak darul ridzuan,pirak|n
-peranakan	nyonya|n
-perang	prang|n
-perbaharu	diperbaharu|v,memperbaharu|v
-percaya	caya|v
+perak	slim river,darul ridzuan,tanjong malim,tanjung rambutan
 percent	peratus|cls
+percent the amount	persen
 percentage	peratusan|n
-perch	puyu|n
-perdana	jpm,pm|n
-perempuan	pempuan|n,pompuan|n,pp|n
 perfect	sempurna|adj
-perfective	terjajah|v,tersurat|v,tertuduh|v
-perform	berabdas|v,berbuat|v,melakukan|v
+perfective passive of jajah to explore	terjajah|v
+perfective passive of menyurat	tersurat|v
+perfective passive transitive of menuduh	tertuduh|v
+perforation	lubang|n
 performance	prestasi|n
-performed	air sembahyang|n
-performs	abid|n
-perfume	kelonyor|n,minyak wangi|n
-pergi	gimam|v,pegi|v,pigi|v
-perhaps	agaknya|adv,barangkali|adv,mungkin|adv
-peria	pria|n
-perikatan	pn
+perfume	minyak wangi|n
+perhaps	agaknya|adv,mungkin|adv,barangkali|adv,entah-entah
 perineum	pukang|n
-period	kala|n,masa rehat|n,pertunangan|n,tempoh|n
-perish	mampus|v
-perished	luput|adj
-perjelas	diperjelas|v,memperjelas|v
-perlebar	diperlebar|v,memperlebar|v
+period	kala|n,zaman|n,tempoh|n
+perished of goods	luput|adj
 perlis	perlis
 permanence	keabadian|n
 permanent	kekal|adj
+permanently	selama-lamanya|adv
 permission	izin|n,kebenaran|n
-permit	benarkan|v
-pernah	tak pernah|adv
-peroxide	hidrogen peroksida|n
-perpaduan	pprs
-perpendicular	horizontal|adj,vertikal|adj
-perpendiucular	mengufuk|adj
+perpendicular to the ground	tegak|adj
+perpendicular to the horizontal	vertikal|adj
+perpendicular to the vertical	horizontal|adj
+perpendiucular to the vertical	mengufuk|adj
 perplexity	kebingungan|n
 perseverance	ketekunan|n
-personal	kaola|pron,peribadi|adj
-personnel	kakitangan|n,tenaga|n
-perspire	berpeluh|v
-pertahanan	kementah
-pertaining	anti-amerika|adj,belanda|adj,kedaerahan|adj,masihi|adj,nuklear|adj,rabun|adj
-pertuan	dipertuan|v,mempertuan|v
-pertubuhan	pbb
-peru	peru,piru
-pesanggerahan	pasanggerahan|n
+person	nara|n,insan|n,orang|n,manusia|n
+personal	peribadi|adj
+personified as the wife of a deity n	sakti
+personnel	tenaga|n,kakitangan|n
+pertaining to people of the netherlands	belanda|adj
+pertaining to the nucleus of an atom	nuklear|adj
+peru	peru
 pessimistic	pesimis|adj,pesimistik|adj
 pestle	alu|n,antan|n
-peta	peta-peta
-petaling	petaling jaya
+petaling jaya a city in the petaling district	petaling jaya
 petition	petisyen|n
 petitioner	pempetisyen|n
-petrol	petrol|n,stesen minyak|n
+petrol	petrol|n
+petrol station	stesen minyak|n
 petroleum	petroliam|n
-petroliam	petronas
 pharisee	farisi|n
 pharmaceutical	farmaseutikal|adj
-pharmacist	ahli farmasi|n,juruubat|n
 pharmacology	farmakologi|n
 pharmacopoeia	farmakopeia|n
 pharmacy	apotek|n,farmasi|n
 pharyngitis	faringitis|n
 pharynx	farinks|n
-phase	fasa|n,pancaroba|n
-pheasant	bubut|n,kuang|n,kuangkuit|n,kuau|n,pegar|n
-philanthropist	dermawan|n
+phase	fasa|n
+pheasant	pegar|n,kuangkuit|n
 philippines	filipina
 philology	filologi|n,kaji bahasa|n
 philosopher	ahli fikir|n
 philosophy	falsafah|n,filsafat|n
-phlegm	kahak|n,lendir|n,serak|n
-phone	fon|n,telefon bimbit|n
+phlegm	kahak|n,lendir|n
+phoenix dactylifera	kurma
+phone	fon|n
 phonology	fonologi|n
-phosphide	zink fosfida|n
 phosphor	fosfor|n
-phosphorescence	kinar|n
+phosphorescence in saltwater	kinar|n
 phosphorescent	pendarfosfor|adj
 phosphorus	fosforus|n
-photo	syot|n
-photoelectric	kesan fotoelektrik|n
+photoelectric effect	kesan fotoelektrik|n
 photosynthesis	fotosintesis|n
+phrases	dan|conj
 phycology	fikologi|n
-physical	fizikal|adj,pendidikan fizikal|n,pendidikan jasmani|n
-physician	doktor|n,tabib|n
+physical	fizikal|adj
+physical education	pendidikan fizikal|n,pendidikan jasmani|n
+physician	tabib|n,doktor|n
 physics	fizik|n
 physiology	fisiologi|n,kaji tugas organ|n
-phytotherapy	fitoterapi|n
+phytotherapy the use of plant extracts for medical purposes	fitoterapi|n
 piano	piano|n
-pick	cekut|v,kutip|v,lurut|v,melurut|v,memungut|v,petik|v
-picking	petikan|n
-pickle	acar|n
-pickled	budu|n,jeruk|adj
-pickles	mengacar|v
-picks	pemilih|n
-pickup	pikap|n
+pickled	jeruk|adj
+pickled fish	budu|n
 picture	citra|n,gambar|n
 pie	pai|n
-piece	batu|n,bidak|n,buah catur|n,piadah|n,pion|n,potongan|n
-pieces	bogam|n,roti paun|n,tapa-tapa|n
-pied	selancang|n
-pierce	cucuk|v,tembus|v
-pig	argus|n,babi|n,kambing batu|n,khinzir|n,tikus belanda|n
-pigeon	acang|n,merpati|n,pergam|n,punai|n
-piggybacked	berdukung|v
-pigtail	beruk|n
-pile	bertambun|v,turus|n
-pilihan	pru
-pillars	rukun|n,rukun islam|n
-pillow	bantal|n,berbantal|v,kalang ulu|n
-pilot	juruterbang|n,paus pandu|n,paus pendek sirip|n
-pilsbryoconcha	kijing|n
-pimp	bapak ayam|n,barua|n,ibu ayam|n
+piece of land	kebun|n
+piece of this material	batu|n
+pieces of fish sliced very thin	tapa-tapa|n
+pied triller	selancang|n
+pier	tiang|n
+pig	babi|n,khinzir|n
+pigeon	merpati|n
+pigtail macaque	beruk|n
+pile	tiang|n
+pillar	tiang|n,turus|n
+pillow	bantal|n,kalang ulu|n
+pilot	juruterbang|n
+pilsbryoconcha exilis	kijing|n
 pimple	jerawat|n
-pin	pasak|n,semat|v
-pinak	pinak|n
-pincer	capit|n,sepit|n
+pin	pasak|n
+pincer	sepit|n
 pincers	angkup|n
-pinch	cubit|v
-pine	sanubari|n
-pineapple	nanas|n
+pine tree	sanubari|n
 pink	merah jambu|adj
-pinky	jari kelengkeng|n,kelengkeng|n
-pinta	dipinta|v,meminta|v
-pintail	itik runcing|n
+pintail duck	itik runcing|n
 pioneer	perintis|n
-pious	abrar|adj,warak|adj
-pipe	paip|n,serombong|n
-pipi	lesung pipit|n
-piranha	ikan pirana|n,pirana|n
+pious	abrar|adj,soleh|adj,warak|adj
+pipe	paip|n
+piranha	pirana|n,ikan pirana|n
 pirate	lanun|n
-pistachio	kacang cerdik|n,pistacio|n,pistasio|n
-pistol	pistol|n
+pistachio	pistacio|n,pistasio|n,kacang cerdik|n
 pitcher	kendi|n
-pith	empulur|n,ruyung|n,umbut|n
+pith	ruyung|n,empulur|n
 pitiful	kasihan|adj
-pixels	leraian|n
+pity	belas kasihan
 pizza	piza|n
-place	acaran|n,bertempat|v,daerah artikulasi|n,dudukkan|v,letak|v,lombong|n
-placed	langit-langit|n,tanda singkat|n
+pl a division of birds including the woodpeckers and n	pici
+pl of notum	nota
+place	isim|n,nama|n
+place from which ore is extracted	lombong|n
+place of articulation	daerah artikulasi|n
+placed	diletak|v
 placement	pemasukan|n
-placenta	plasenta|n,sampul tian|n,tembuni|n
-plagiarism	plagiarisme|n,plagiat|n
-plagiarize	mengabuk|v
-plagiat	diplagiat|v,memplagiat|v
+placenta	tembuni|n,plasenta|n,sampul tian|n
+plagiarism	plagiat|n,plagiarisme|n
 plaiting	anyam|v
-plan	pelan|n,solusi|n
-plane	ketam|n,pesawat pejuang|n,pesawat tempur|n,satah|n
+plan a drawing showing technical details of a building	pelan|n
+plan or other means	solusi|n
+plane	satah|n
 planet	cakerawala|n
-planetary	gerhana|n
 plank	papan|n
-plant	bakawali|n,berladang|v,fitoterapi|n,jelai|n,jerangau|n,kanker|n
+plant	kilang|n,tumbuhan|n
+plant a cultivated plant grown for food	tanaman|n
+plant belonging to the fami	terung
+plant disease marked by gradual decay	kanker|n
+plant especially in botanical	kayu|n
+plant fruit	labu siam|n
 plantation	kebun|n
-plastic	supik|n
-plate	pinggan|n,piring|n
-plateau	penara|n
-platform	panggau|n,pelantar|n
-platinum	pelatinam|n,platinum|n
+planted	ditanam|v
+plants	rimbunan|n
+plants with sword-shaped leaves and erect stalks bearing	iris
+plastic bag	supik|n
+plastic etc	kad|n
+plate	pinggan|n
+platform	pelantar|n
+platinum	platinum|n
 platoon	platun|n
-platyrhynchos	itik melewar|n
-play	bermain|v,main|v,sandiwara|n,wayang|n
+platter or plate	capah|n
+play	sandiwara|n
 player	pemain|n
 playground	taman permainan|n
-playing	cari pasal|v,masak-masak|n
+playing with fire	cari pasal|v
 plaything	mainan|n
+plc	berhad|n
 pleasant	seronok|adj
-pleasure	kebahagiaan|n,kegemaran|n
-pleats	biru-biru|n
-pleiades	bintang kartika,bintang tujuh
+pleasure	kegemaran|n,kebahagiaan|n
+pleiades	bintang tujuh,bintang kartika
+plenty	cukup|adj
 plier	playar|n
-plot	lahan|n,petak|n
-plough	bajak|n,gembur|v,tenggala|n
+plot	lahan|n
+plot a measured piece of land	petak|n
+plough	bajak|n,tenggala|n
 plowshare	lanjam|n
-pluck	petik|v
-plug	palam|v,sumbat|n
+plug	sumbat|n
 plug-in	pemalam|n
-plughole	cerat|n
-plum	boi|n
-plumbum	pelambam|n
+plughole of a liquid vessel	cerat|n
 plump	montel|adj,montok|adj
-plural	abang-abang|n,abid-abid|n,abidin|n,adik-adik|n,ajak-ajak|n,anak-anak|n
+plural of abang	abang-abang|n
+plural of abid	abidin|n,abid-abid|n
+plural of adik	adik-adik|n
+plural of ajak	ajak-ajak|n
+plural of anak	anak-anak|n
+plural of anjing	anjing-anjing|n
+plural of asu	asu-asu|n
+plural of atap	atap-atap|n
+plural of benang	bebenang|n
+plural of kanak	kanak-kanak|n
+plural of khas	khusus|adj
+plural of labah alternative form of labah and lelabah	labah-labah|n
+plural of mata	mata-mata|n
+plural of undang	undang-undang|n
+plural of ustaz and ustazah	asatizah|n
 plus	tambah|v
 plutonium	plutonium|n
 pochard	itik selam|n
-pocket	poket|n
-podcast	audio siar|n,siniar|n
-poetry	puisi naratif|n
-point	abahkan|v,four flat|n,hala|v,mengutarakan|v,noktah|n,paksi|n
-pointed	pen|n,tonggak|n
+pocket a bag stitched to an item of clothing	poket|n
+podcast	siniar|n
+point	noktah|n,setakat|prep
+point in time	ketika|n
+pointed plant shoot	tonggak|n
 pointless	sia-sia|adj
-poison	butun|n,butung|n,racun|n,santau|n,tuba|n
+poison	racun|n
 poker-faced	selamba|adj
-polar	beruang kutub|n
-pole	alap|v,galah|n,kutub|n,pancing|n,tiang|n
+polar bear	beruang kutub|n
+pole	galah|n,kutub|n,tiang|n
 polemic	polemik|n
-police	abang polis|n,anjing polis|n,balai mata-mata|n,balai polis|n,bukit aman,kepolisan|adj
-policies	walanon|n
-policy	polisi|n
-polis	pdb,pdrm
-polish	beraso|n
+police	kepolisian|adj
+police dog	anjing polis|n
+police station	balai polis|n,balai mata-mata|n
+polishing or grinding	canai|n
 polite	sopan santun|adj
 politeness	adab|n
-political	berparti|adj,dedak|n,kepartian|adj,parti politik|n,sayap kanan|adj,sayap kiri|adj
+political party	parti politik|n
 politician	politikus|n
 politics	politik|n
-polled	dogol|adj
-pollution	pencemaran|n
+polled lacking horns in livestock	dogol|adj
+pollution	bersih|adj,pencemaran|n
 polonium	polonium|n
 polyester	poliester|n
-polygamy	berpoligami|v,poligami|n
-polygon	oktagon|n
-polymer	polistirena|n
+polygamy	poligami|n
+polystyrene	polistirena|n
 pomegranate	delima|n
-pomelo	limau abung|n,limau bali|n
+pomelo	limau bali|n,limau abung|n
 pomfret	bawal|n
 pond	kolam|n
-ponder	memikirkan|v
-pongidae	mawas|n
-ponteng	diponteng|v,memonteng|v
 pony	kuda padi|n
-pool	langgam|v
-poop	air besar|n,berak|n,taik|n
+poop	berak|n,air besar|n
 poor	miskin|adj
-pop	budaya pop|n
-popular	populer|adj,sohor|adj
+pop culture	budaya pop|n
+popular	sohor|adj
 populated	berpenduduk|adj
 population	kependudukan|n
 populous	makmur|adj
@@ -417,80 +405,75 @@ porcelain	porselin|n
 porch	anjung|n
 porcupine	landak|n
 porridge	bubur|n
-port	julang senjata|n,pelabuhan|n,pelabuhan klang,port dickson
-portable	keran|n,mudah alih|adj,mudalih|adj
-portugal	portugal
-portuguese	peringgi|adj,portugis,ubur-ubur api|n
-portunus	ketam bunga|n,ketam renjong|n
+port	pelabuhan|n
+port dickson a town and district of negeri sembilan	port dickson
+port klang a town and port in the klang district	pelabuhan klang
+portable	mudalih|adj,mudah alih|adj
+portable stove	keran|n
+portions	bahagi|v
+portugal a country in southern europe	portugal
+portuguese	peringgi|adj
+portuguese ethnic group	portugis
+portuguese man-of-war	ubur-ubur api|n
+portunus pelagicus	ketam bunga|n
 pose	acah|v
-position	darjat|n,duduk|v,jawatan|n,kat|prep,pekerma|n,tunduk udang|n
-possess	rasuk|v
-possessing	pelangi|adj
-possession	kepunyaan|n
-possessive	negaraku|n
+position	kat|prep,duduk|v,darjat|n,tempat|n,jawatan|n
+position for royalty	pekerma|n
+positions	mantan|adj
 possessor	empunya|n
-possibility	berkemungkinan|v,kemungkinan|n
-possible	memungkinkan|v,secepat mungkin|adv,sedapat mungkin|adv,sejelas-jelasnya|adv,selekas mungkin|adv
+possibility	kemungkinan|n
 possibly	mungkin|adv
-post	jawatan|n,pejabat pos|n,tugu|n,turus|n
-postage	setem pos|n
-postal	poskod|n
+post	tugu|n,tiang|n,jawatan|n
+post office	pejabat pos|n
+postage stamp	setem pos|n
+postal code	poskod|n
 postcard	poskad|n
 poster	poster|n
 posterior	udi|n
-postgraduate	pascasiswazah|adj
 postpaid	pascabayar|adj
-pot	kawah peleburan|n,pasu|n,periuk|n
-potassium	kalium|n,sendawa|n
-potato	kentang|n,kerepek kentang|n,ubi kentang|n
-potential	tenaga keupayaan|n
+pot	pasu|n,repot
+potassium	kalium|n
+potassium nitrate	sendawa|n
+potato	kentang|n,ubi kentang|n
+potato chip	kerepek kentang|n
+potato crisp	kerepek kentang|n
+potential energy	tenaga keupayaan|n
 potion	posyen|n
-potong	dipotong|v,memotong|v
-pots	periuk belanga|n
-pouch	pundi|n
-poultry	reban|n
-pounce	terkam|v
-pound	paun|n
-pour	curah|v,simbah|v
+pots and pans	periuk belanga|n
+pounded	ditumbuk|v
 pouring	deras|adj
-pout	merajuk|v
 poverty	kemiskinan|n
-powder	pupogh|n,pupur|n,serbuk|n
+powder	pupogh|n,serbuk|n
 powdered	lumat|adj
-power	baterai|n,kuasa|n,kuripan|n
+power	kuasa|n,kudrat
 powerful	kuat|adj,perkasa|adj
-practical	pragmatik|adj,praktis|adj
-practice	bidaah|n,veganisme|n,vegetarianisme|n
-practise	berpoligami|v
-pragmatic	pragmatik|adj
-pragmatik	pragmatis|adj
+practical	praktis|adj
+pragmatic or practical	pragmatik|adj
 pragmatism	pragmatisme|n
 prague	praha
-prairie	anjing prairi|n
-praise	alhamdulillah,madah|n
+prairie dog	anjing prairi|n
+praise	madah|n
+praise be to god	alhamdulillah
 praseodymium	praseodimium|n
-prawn	keropok udang|n,udang|n,udang galah|n
-pray	bersembahyang|v
-prayer	astaghfirullah,bapa kami,isyak|n,sembahyang|n,takbir raya|n
-praying	mentadak|n
-precaution	ikhtiyat|n
-precious	manikam|n
+prawn	udang|n
+prawn crackers originally from javanese cuisine	keropok udang|n
+praying mantis	mentadak|n
+precious	indah|adj
+precious stone	manikam|n
 precipitate	mendakan|n
-precisely	jangka|v,persis|adv
+precise showing	teliti
+precisely	persis|adv
 predator	pemangsa|n
-predict	ramal|v
 prediction	ramalan|n
-preface	prakata|n
 prefecture	prefektur|n
 prefer	lebih suka|v
 preferably	sebaiknya|adv
 pregnancy	kehamilan|n
-pregnant	hamil|adj,mengandung|v
+pregnant	hamil|adj
 prehistory	prasejarah|n
 premier	perdana|adj
 premium	yuran|n
 prepaid	prabayar|adj
-prepare	bersaji|v
 prepared	siap|adj
 prepayment	prapembayaran|n
 preposition	kata sendi nama|n
@@ -498,176 +481,156 @@ preschool	prasekolah|n
 prescription	preskripsi|n,surat ubat|n
 prescriptive	preskriptif|adj
 presence	hadirat|n,kehadiran|n
-present	hadiah|n,hadir|v,hormat senjata|n,kini|adj,la ni|adv,mempersembahkan|v
+present	kini|adj
+present arms	hormat senjata|n
 presentable	selia|adj
-preserve	lestarikan|v
-preserved	asam boi|n,halwa|n,jeruk|adj
-preserving	pelestarian|n
-president	presiden|n
-press	apit|v,henyak|v,tekan|v
-pressed	dipendapkan|v
+preservation	pelestarian|n
+preserved	jeruk|adj
+press or wedge something between two detached or separate surfaces	apit|v
 prestige	prestij|n
-pretend	acah|v,sadin|v
+pretend	acah|v
 pretext	dalih|n
 prettiness	kecantikan|n
-pretty	cantik|adj,gelis|adj,mat jambu|n
-prevent	cegah|v,fius|n
-preview	mempreviu|v,pratonton|n,previu|n
-previously	dahulu|adv,dulu|adv
+pretty	gelis|adj,cantik|adj
+prevent from happening	debar
+prevent the occurrence of	debar
+preview	pratonton|n
+previously	dulu|adv,dahulu|adv
 prey	mangsa|n
 priapism	ayuk-ayutan|n
 priapus	ayuk-ayutan|n
-price	indeks harga pengguna|n,rega|n
-pride	bulan jatidiri
-priest	paderi|n,sami|n
-prik	paprik|n
-primary	sekolah rendah|n
-prime	mangkubumi|n,nombor perdana|n,perdana|adj,perdana menteri|n
-prince	bupala|n,pangeran|n,putera|n
+price	rega|n
+pride month	bulan jatidiri
+priest	paderi|n
+primary school	sekolah rendah|n
+prime	perdana|adj
+prime minister	mangkubumi|n,perdana menteri|n
+prime number	nombor perdana|n
+prince	bupala|n,putera|n,pangeran|n
 princess	puteri|n
-principal	guru besar|n,perdana|adj
-principe	sao tome dan principe
+principal	perdana|adj,pengetua|n,cikgu besar|n
 principle	kanun|n,prinsip|n
-prionailurus	kucing hutan|n
+prionailurus planiceps	kucing hutan|n
 prism	prisma|n
-prisma	prizam|n
 prisoner	banduan|n
-private	peribadi|adj,sektor swasta|n,sendirian berhad|n,swasta|adj
-privatise	menswastakan|v
+private	swasta|adj,peribadi|adj
+private limited company	sendirian berhad|n
 privatization	penswastaan|n
 privilege	hak istimewa|n
 privy	jamban|n
-prize	anugerah|n,berhadiah|adj
+prize	anugerah|n
 probability	kebarangkalian|n
 probably	agaknya|adv
+probably derived from ba	papas
 problem	masalah|n
 procedure	tatacara|n
-proceed	lanjutkan|v,teruskan|v
-process	ketibaan|n,mengolah|v,pelebaran|n,pelestarian|n,pemampanan|n,pemasaan|n
-proclamation	takbir|n
-produce	bikin|v,mengeluarkan|v
-produced	kupasan|n,telur|n
-produces	karyawan|n,pegoh|n
+proceed	teruskan|v
+process of editing	pengeditan|n
+process of estimating the age of something	pentarikhan|n
+produce	bikin|v
+produced by various animals to house an embryo	telur|n
 product	hasil|n
 production	pengeluaran|n
-productive	makmur|adj,produktif|adj
+productive	makmur|adj
+productive capable of producing something	produktif|adj
 productivity	produktiviti|n
 profanity	carut-marut|n
-profess	anut|v
-profession	karier|n
-professor	profesor|n,profesor madya|n
-professorship	kursi|n
+professor	profesor|n
 proficient	mahir|adj
-profit	faedah|n,laba|n
-profitable	berfaedah|v,lumayan|adj
+profit	laba|n,faedah|n
+profitable	lumayan|adj
 profligate	jangak|adj
 profound	hebat|adj
-progenitor	adam
-program	program|n
-programme	program|n
+program programme	program|n
 programming	pengaturcaraan|n
 progress	kemajuan|n
-progressive	maju|adj,sedang|adv,tengah|n
-prohibit	larangkan|v,menegah|v,tegah|v
-prohibited	dilarang|adv,larangan|n,pelarangan|n,terlarang|adj
-prohibition	berlarangan|adj
+progressive	maju|adj
+progressive aspect marker	sedang|adv,tengah|n
+prohibited	terlarang|adj,berlarangan|adj
 project	projek|n
 projectile	peluru|n
-projection	gigi|n
 prolapse	tumbung|n
 prolonged	lanjut|adj
 promethium	prometium|n
-prominent	pelangi|adj
-promise	ikrar|n,janji|n,jual janji|v
-prone	gelojoh|adj
-pronoun	aku|pron,anda|pron,awak|pron,awda|pron,baginda|pron,dia|pron
-pronunciation	amende|pron,ape|pron,camne|adv,cantek|adj,dok|v,kete|n
-proof	berhadis|v
-proper	kata nama khas|n,patut|adj,senonoh|adj
+promise	ikrar|n,janji|n
+prompt	cepat|adj
+prone to excessive eating	gelojoh|adj
+pronunciation	sebutan|n
+pronunciation spelling of amenda	amende|pron
+pronunciation spelling of apa	ape|pron
+pronunciation spelling of camna	camne|adv
+pronunciation spelling of cantik	cantek|adj
+pronunciation spelling of duk	dok|v
+pronunciation spelling of keta	kete|n
+pronunciation spelling of menda	mende|adv
+pronunciation spelling of menderung	menderong|n
+pronunciation spelling of menerung	menerong|n
+pronunciation spelling of nasi lemak	nasik lemak|n
+pronunciation spelling of tiga	tige|num
+proper	patut|adj,senonoh|adj
+proper noun	kata nama khas|n
 properly	elok-elok|adv
-property	harta|n,hartanah|n,milik|n,sifat|n
-prophesied	saleh
-prophet	daud,fatimah,hud,ibrahim,idris,isa
-propose	aju|v,lamar|v,saran|v
-prose	hikayat|n
-prosperity	darul makmur,suasti|n
+property	harta|n,milik|n,sifat|n,berada|adj
+prophet	nabi|n
+proprietor	empunya|n
+prosperity	suasti|n
 prostitute	pelacur|n
 protactinium	protaktinium|n
-protect	nauzubillah
 protection	kawalan|n
-protective	sarap|v
 protector	pengawal|n
-protest	bantah|v
 protocol	protokol|n
 proton	proton|n
 prototype	prototaip|n,purbarupa|n
+protracted	lanjut|adj
 protrusion	tumbung|n
 protuberance	bonggol|n,jongkol|n
-proverb	pepatah|n,peribahasa|n
-provide	kaunseling|v
-providing	berpencen|v,informatif|adj
+proverb	peribahasa|n
+providing or including pensions	berpencen|v
+province	wilayah|n
+provision food	rezeki
 provisional	sementara|adv
 proxy	proksi|n
-prunus	asam boi|n
-pry	colek|v
-psikologi	saikoloji|n
+pseudorca crassidens	paus hitam|n
 psychiatry	psikiatri|n
 psycho	psiko|n
 psychologist	psikologis|n
 psychology	psikologi|n
-puasa	berbuka|v
 puberty	baligh|n
-public	awam|adj,berhad|n,ceramah|n,notari awam|n,pidato|n,sekolah kebangsaan|n
-publicity	capap|n
+public	awam|adj,umum|adj
+public school	sekolah kebangsaan|n
+public talk	pidato|n
+publicly visible	telus|adj
 publisher	penerbit|n
-puchong	puchong
-pucuk	pucuk-pucuk,sepucuk|cls
-puff	karipap|n
-puffed	bepang|n
-pukimak	kimak
-pula	lak|adv,pulak|adv
-pulau	merambong,pulau brani
-pull	hela|v,heret|v,mengait|v,selak|v,sentak|v,tarik|v
-pulled	tarikan|n
-pulmonary	arteri pulmonari|n
-puluh	puloh|num
-puma	kugar|n,puma|n
-pumpun	punpun|v
-pun	pon|adv
-punch	tumbuk|v
-punching	penebuk|n
+puchong a town	puchong
+puddle	kubang|n
+puffed rice	bepang|n
+pulau brani	pulau brani
+pulau merambong a shoal in johor	merambong
+pulmonary artery	arteri pulmonari|n
+puma	puma|n,kugar|n
 punctual	tepat masa|adj
-pungent	pedar|adj
-punishment	ampun|n,hukuman mati|n,seksa|n
+punishment	seksa|n
 punji	ranjau|n
-puntianak	pontianak|n
-punya	nya|part
-punyai	dipunyai|v,mempunyai|v
-punyakan	dipunyakan|v,mempunyakan|v
-pupil	anak mata|n,murid|n,pupil|n
+pupil	murid|n,pupil|n,anak mata|n
 puppet	boneka|n,orang-orang|n
 puppeteer	dalang|n
-puppy	anak anjing|n,anak asu|n,cinta monyet|n,kirik|n
-purata	pukul rata|n
+puppy	kirik|n,anak asu|n,anak anjing|n
+puppy love	cinta monyet|n
 purchase	pembelian|n
 purchaser	pembeli|n
-pure	jati|adj,sengkek|n,suci|adj
-purely	semata-mata|adv
-purify	membersihkan|v
+pure	suci|adj
+purely	semata|adv,semata-mata|adv
 purple	ungu|adj
-purpose	hajat|n
+purpose	hajat|n,tujuan|n
 purse	dompet|n,pundi-pundi|n
-purse-net	ambai|n
+purse-net attached in a tideway or river	ambai|n
 pus	nanah|n
-push	dorong|v,sorong|v,tolak|v
 push-up	tekan tubi|n
 pussy	pepek|n
-put	aju|v,bubuh|v,hapus|v,jerang|v,letak|v,lontar peluru|n
-puteh	kacang putih|n
-putera	putra|n
-putih	puteh|adj
-putihkan	diputihkan|v,diputihkan mata|v,memutihkan|v,memutihkan mata|v
-putrajaya	prang besar,putrajaya
-putting	hidung tinggi|adj
+put in a new	repot
+put out	padam|adj
+putrajaya	putrajaya,prang besar
+putting on airs	hidung tinggi|adj
+pycnonotus squamatus	tiak|n
 pyrite	pirit|n
-python	sanca|n,ular sawa|n
+python	ular sawa|n

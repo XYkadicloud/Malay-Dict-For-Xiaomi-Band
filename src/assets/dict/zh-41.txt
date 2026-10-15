@@ -1,179 +1,140 @@
-亩	ekar,relung|n
-利	aljazair,altruistik|adj,angbunga,asah|v,atas nama,badan kebajikan,bajik,berfaedah|v
-利亚	aljazair,nigeria,suryani|adj,syria
-利亚的	suryani|adj
+利	guna|n,laba|n,faedah|n,manfaat|n,atas nama,angbunga,kepentingan
 利他	altruistik|adj
 利他的	altruistik|adj
-利佛	tanah seribu
-利历	kalendar gregory|n,takwim gregory|n
-利品	rampasan
+利刀	pisau|n
+利好	baik|adj
+利害	serius|adj,berkebolehan|adj
+利害关系	galah|n
 利己	egosentrisme|n
 利己主	egosentrisme|n
 利己主义	egosentrisme|n
-利恒	betlehem
-利息	angbunga,faedah|n
-利机	badan kebajikan
-利机构	badan kebajikan
-利权	monopoli,pajak
-利比	liberia|n,libya
+利得	laba|n,untung|n
+利息	faedah|n,angbunga
+利比	libya
 利比亚	libya
-利比里	liberia|n
-利比里亚	liberia|n
-利比里亚人	liberia|n
-利比里亚人的	liberia|n
+利比里亚人利比里亚人	liberia|n
+利比里亚人利比里亚人的	liberia|n
 利润	laba|n
-利的	berfaedah|v,fasihkan|v,lincir|adj,majal,mampal,mujur|adj,petah,rancung
-利益	atas nama,faedah|n,guna|n,kepentingan,manfaat|n,kepenggunaan|n,laba modal|n
-利益运	kepenggunaan|n
-利益运动	kepenggunaan|n
-利者	pemenang|n
-利贷	cetek pengetahuan
-利贷者	cetek pengetahuan
-利面	pasta|n
-利面食	pasta|n
-助	adalah|part,abet|n,bahu membahu,bantu,bantuan,bertolong-tolongan,bufet|n,dermasiswa
-助于	sumbang|v
-助产	dukun beranak|n,pengulin|n
-助产士	dukun beranak|n,pengulin|n
-助品	solok
+利益	guna|n,faedah|n,manfaat|n,atas nama,kepentingan
+助	penolong|n,mandur,pembantu
+助产	pengulin|n,dukun beranak|n
+助产士	pengulin|n,dukun beranak|n
+助力	perkhidmatan|n
 助学	dermasiswa
 助学金	dermasiswa
-助手	mandur,pembantu,penolong|n
+助手	penolong|n,mandur,pembantu
 助数	penjodoh bilangan|n
 助数词	penjodoh bilangan|n
-助物	sambilan|adj
-助论	kesalingan|n
-助课	koku|n
-助课程	koku|n
-助逐	kuda padi|n
-助逐字	kuda padi|n
-助逐字直	kuda padi|n
-助逐字直译	kuda padi|n
-助逐字直译文	kuda padi|n
-助逐字直译文翻	kuda padi|n
-助逐字直译文翻译	kuda padi|n
-助餐	bufet|n
-吩	direksi,memesan,pesan,suruh|v
-吩咐	direksi,memesan,pesan,suruh|v
-咩	embek
-咩叫	embek
+助是	adalah|part
+助理	penolong|n
+助益	guna|n
+助词	butir|n
+助跑	pendekatan|n
+吩	pesan,suruh|v,direksi,memesan
+吩咐	pesan,suruh|v,direksi,memesan
 咩咩	embek
 咩咩叫	embek
-垩	kapur tonor
-墩	andas,bahu jalan|n,busut|n,guar|n,pengaki|n
+墩	pengaki|n
 墩基	pengaki|n
-天	cakerawala|n,hari|n,langkat|n,ritu|adv,yaum|n,abilah|n,adan,aerial
+天	cakerawala|n,yaum|n,bakat|n,hari|n,ritu|adv,langkat|n,hawa|n,cuaca|n
 天下	rejang
-天主	katolik,perumian|n,serani
-天主教	katolik,perumian|n,serani
-天主教化	perumian|n
+天主	serani,katolik
+天主教	katolik,serani
 天主教徒	serani
 天井	tela
+天亮	fajar|n
 天份	ahlak
-天休	patio|n
-天休息	patio|n
-天休息用	patio|n
-天休息用的	patio|n
-天休息用的石	patio|n
-天休息用的石砌	patio|n
-天休息用的石砌空	patio|n
 天佑	berkat
-天体	astrofizik|n
-天体物	astrofizik|n
-天体物理	astrofizik|n
-天体物理学	astrofizik|n
+天体物理学天体物理	astrofizik|n
 天使	malaikat|n,malak
-天假	empat puluh lapan|num
-天假日	empat puluh lapan|num
+天候	cuaca|n
+天公	syurga|n
 天分	bakat|n
-天南	kelembahang
-天南星	kelembahang
-天南星亚	kelembahang
-天南星亚科	kelembahang
-天南星亚科植	kelembahang
+天分形	bakat|n
+天分形迹	bakat|n
 天南星亚科植物	kelembahang
+天命	nasib|n
 天国	nabha
-天堂	adan,jannah|n,kayangan|n,nabha,syurga|n,cendarawasih
+天堂	jannah|n,kayangan|n,nabha,adan,cendarawasih
+天堂sebab因为	syurga|n
 天堂鸟	cendarawasih
-天天	sehari-hari,harian|adv
+天大	raksasa|adj
+天天	harian|adv,sehari-hari
 天天的	harian|adv
 天女	bidadari|n
 天幕	sengkuap
-天平	dacing|n,teraju|n
+天平	teraju|n,dacing|n
+天庭	syurga|n
 天惠	restu|n
-天才	ahlak,bakat|n,bakat seni,dikurniakan|v
-天才的	dikurniakan|v
+天才	bakat|n,ahlak
+天敌	pemangsa|n
 天数	pinta|n
-天明	allahualam
-天明察	allahualam
+天明	fajar|n
 天晓	allahualam
 天晓得	allahualam
 天桥	jejatas
-天楼	pencakar langit|n
-天气	cuaca|n,hawa|n
+天棚	siling|n
+天气	hawa|n,cuaca|n
 天河	galaksi|n
 天渊	jauh berbeza
 天渊之	jauh berbeza
 天渊之别	jauh berbeza
+天演	evolusi|n
 天灾	mala-petaka|n
-天然	getah asli,jepang,jepun
-天然漆	jepang,jepun
+天然	getah asli
 天然胶	getah asli
-天爷	allahi
-天爷在	allahi
-天爷在上	allahi
-天牛	kelulut,kumbang|n
+天牛	kumbang|n,kelulut
 天理	namus
-天的	harian|adv
-天真	monel,naif|adj
-天真可	monel
+天界	syurga|n
+天癸	tempoh|n
+天真	naif|adj
 天真可爱	monel
 天真可爱的	monel
 天真的	naif|adj
 天秤	neraca
-天空	cakerawala|n,falak|n,langit|n,nabha,wati
+天空	langit|n,cakerawala|n,falak|n,nabha,wati
 天窗	magun,ram,tingkap magun
 天竺	argus|n,tikus belanda|n
 天竺鼠	argus|n,tikus belanda|n
 天线	aerial,antena
+天罗地网	perangkap|n
 天罚	kiamat
-天色	mambang|n
-天花	abilah|n,cacar,ketumbuhan,sakit cacar,setawar,langit-langit|n,lelangit|n,siling kaca|n
-天花板	langit-langit|n,lelangit|n,siling kaca|n
-天蓝	biru langit|adj,nilakandi|adj,nilam|n
-天蓝色	biru langit|adj,nilakandi|adj,nilam|n
-天蓝色的	nilam|n
-天谢	mengucap syukur
-天谢地	mengucap syukur
-天躺	jerangkang
-天躺着	jerangkang
+天色	cuaca|n
+天花	cacar,setawar,ketumbuhan,sakit cacar,abilah|n,lelangit|n,langit-langit|n
+天花天	abilah|n
+天花天花	abilah|n
+天花板	lelangit|n,langit-langit|n
+天蓝	nilakandi|adj,biru langit|adj
+天蓝色	nilakandi|adj,biru langit|adj
+天蓝色的蓝宝石	nilam|n
+天边	horizon|n
+天造地设	sempurna|adj
+天道	cuaca|n
+天际	horizon|n
+天际线	horizon|n
 天青	lazuardi|n
 天青石	lazuardi|n
 天顶	rembang|n
-天鹅	baldu|n,beldu
-天鹅绒	baldu|n,beldu
-天鹅绒的	baldu|n
+天鹅	beldu
+天鹅绒	beldu
+天鹅绒天鹅绒	baldu|n
+天鹅绒天鹅绒的	baldu|n
 天黑	suntuk malam
-娩	bersalin|v,kopak,melahirkan|v,pelahiran|n
-娩的	kopak
-岩	batu besi|n,batuan|n,gua|pron,lahar|n,mat rok|n,padas,pancalogam,sabak|n
+妩媚	indah|adj
+岩	gua|pron,batuan|n,mat rok|n,padas
 岩洞	gua|pron
-岩石	batuan|n,mat rok|n,padas,pancalogam
-崩	berpesai,ledus,membobrokkan,merus,pesai,rahap,roboh|v,runtuh|v
-崩倒	rahap,roboh|v,runtuh|v
-崩溃	berpesai,ledus,membobrokkan,pesai,terban,tumbang
-復	ensiklopedia|n
-復興	ensiklopedia|n
-掩	berseliput,lindung|v,liput|v,litup,menekap,naungkan,penyamaran|n,seliput
+岩石	batuan|n,mat rok|n,padas
+崩	roboh|v,runtuh|v,pesai,tumbang,berpesai,ledus,terban,rahap
+崩倒	roboh|v,runtuh|v,rahap
+崩溃	pesai,tumbang,berpesai,ledus,terban,membobrokkan
+掩	liput|v,timbus,litup,naungkan,menekap
 掩埋	timbus
 掩护	naungkan
-掩盖	liput|v,menekap,berseliput,seliput
-掩盖着	berseliput,seliput
+掩盖	liput|v,menekap
 掩蔽	litup
-掩飾	penyamaran|n
-斩	cencang,menetak,pancung|v,babat,kutai,landas cencang|n,mengayau,tebangan
+掩飾延伸阅读	penyamaran|n
+斩	pancung|v,cencang,menetak,babat,mengayau,tebangan
 斩伐	tebangan
-斩杀	tetak-menetak
 斩碎	cencang
 斩而	kutai
 斩而未	kutai
@@ -182,140 +143,112 @@
 斩肉板	landas cencang|n
 斩除	babat
 斩首	mengayau
-氩	argon|n
-温	anteng|n,hipotermia|n,iklim sederhana,jangka suhu,jinak,lemah-lembut,mandum,pancutan air
+氩氩	argon|n
+氩氩A	argon|n
+氩氩Ar	argon|n
+温	suhu|n,ulangkaji|v,iklim sederhana
 温习	ulangkaji|v
-温和	mandum,anteng|n,jinak,lemah-lembut,santun,ugahari
-温和的	anteng|n,jinak,lemah-lembut,santun,ugahari
+温厚	landai|adj
+温和	anteng|n,mandum,ugahari,jinak,santun,lemah-lembut
+温和地	perlahan-lahan|adv
+温和的	anteng|n,ugahari,jinak,santun,lemah-lembut
+温婉	landai|adj
+温存	lunak|adj
 温带	iklim sederhana
 温度	suhu|n,jangka suhu,termometer
 温度表	jangka suhu
 温度计	jangka suhu,termometer
-温柔	lemah-lembut,ramah-tamah
+温柔	ramah-tamah,lemah-lembut
 温柔文	lemah-lembut
 温柔文雅	lemah-lembut
 温柔的	ramah-tamah
-温泉	pancutan air
+温润	landai|adj
 温热	suam
 温热的	suam
-温的	suam-suam
+温雅	landai|adj
 漩	pusaran air
 漩涡	pusaran air
-猩	cimpanzi|n,gorila,mawas|n,orang utan|n
-猩猩	gorila,mawas|n,orang utan|n,cimpanzi|n
-玩	main|v,memainkan,bercumbu-cumbuan,bercura,bergurau senda,berjalan-jalan,berjenaka,berkelakar
+猩	mawas|n,gorila
+猩猩	mawas|n,gorila,orang utan|n
+猩猩猩	orang utan|n
+猩猩猩猩	orang utan|n
+玩	pemain|n,main|v,mainan|n,permainan|n,memainkan,usik|v,bermain|v,cumbu
 玩乐	bersukaria
 玩具	mainan|n,permainan|n
-玩吹	gelembung-gelembungan
-玩吹泡	gelembung-gelembungan
-玩吹泡泡	gelembung-gelembungan
-玩吹泡泡游	gelembung-gelembungan
 玩吹泡泡游戏	gelembung-gelembungan
-玩弄	olokkan,usik|v
+玩咖	pemain|n
+玩家	pemain|n
+玩弄	usik|v,olokkan
+玩意	benda|n,mainan|n
 玩水	ketimpung
 玩水声	ketimpung
-玩玩	bukan main-main
-玩玩的	bukan main-main
-玩的	bukan main-main
-玩笑	bercura,canda|n,cumbu,cura,bercumbu-cumbuan,bergurau senda,berjenaka,berkelakar
+玩物	mainan|n
+玩笑	cumbu,bercura,cura
 玩纸	terup
 玩纸牌	terup
 玩者	pemain|n
 玩耍	bermain|v,senda,senda-gurau
 玩魔	silap mata
 玩魔术	silap mata
-眩	ganar|adj,keliru|adj,kepala pusing|adj,pengar,pening|adj,silau
+眩	pening|adj,keliru|adj,silau
+眩惑	kebingungan|n
 眩晕	pening|adj,pengar
 眩晕的	pengar
-眩的	ganar|adj,kepala pusing|adj
 眩目	keliru|adj,silau
-箩	bujam
-缩	kempung,aa|n,abdb,abim,ac,apr,apsl,aq
-缩写	ac,apr,apsl,aq,asl,blkg,blm|adv,bln|conj
-缩写词	ac,apr,apsl,aq,asl,blkg,blm|adv,bln|conj
-缩小	kempis,mentat,susut|v
-缩拼	abim,jakoa,kementah,kj,mageran,mib,palapes,petronas
-缩拼词	abim,jakoa,kementah,kj,mageran,mib,palapes,petronas
+缩	kempung,mizan|n,meringkaskan
+缩小	susut|v,mentat,kempis
 缩放	mizan|n
-缩略	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
-缩略词	aa|n,abdb,atm,bbnu|n,bi|n,bm,bn,bsmm
-缩的	kedengkik,kumal,lecik,lesut,melar
 缩短	meringkaskan
-義	mak kau hijau
-肩	akromion|n,bahu|n,bahu membahu,belikat,bergandingan,bersanding,julang|v,kandar
-肩上	selepang
-肩坐	bersanding
-肩坐着	bersanding
-肩头	tepam
+肩	bahu|n,kendong|v,julang|v,usung|v,menjulang|v,akromion|n,kandar,markah
+肩头	bahu|n
 肩峰	akromion|n
-肩巾	selampai,tetampam
-肩布	sebai
+肩巾	selampai
 肩带	sandang
 肩并	bahu membahu
 肩并肩	bahu membahu
-肩弓	kebongkokkan|n
-肩弓身	kebongkokkan|n
-肩弓身的	kebongkokkan|n
 肩担	panggul
-肩挑	julang|v,kandar,mengusung,menjulang|v,sompoh,usung|v
+肩挑	julang|v,usung|v,menjulang|v,kandar,mengusung,sompoh
 肩章	markah
-肩而	sanding
-肩而坐	sanding
-肩而坐着	sanding
 肩胛	belikat,tulang belikat
 肩胛骨	belikat,tulang belikat
 肩膀	bahu|n
-肩负	julang|v,kendong|v,menanggung,menjulang|v,sompoh
-肩鲹	tulai|n
-让	entak|v,jom,membolehkan,hindar,serah|v,tolak ansur|n
+肩膊	bahu|n
+肩负	kendong|v,julang|v,menjulang|v,sompoh,menanggung
+肩部	bahu|n
+让	entak|v,jom,membolehkan,hindar
 让开	hindar
 让路	hindar
 谩	rampus,ronggah
 谩骂	rampus,ronggah
-贩	jaja,jualan,mesin layan diri|n,penjaja,penjual|n
-贩卖	jaja,jualan,mesin layan diri|n,penjual|n
+贩	jaja
+贩卖	jaja,penjual|n,jualan
 贩卖品	jualan
-贩卖机	mesin layan diri|n
 贩卖者	penjual|n
-踩	merencah,pijak|v,injak,irik,lenjang,menginjak,mengirik,rapah
+踩	pijak|v,merencah,irik,lenjang,injak,rapah,menginjak,mengirik
 踩平	lenjang
-踩踏	injak,irik,menginjak,mengirik,rapah
-辩	babil,bahas|n,bahaskan|v,balah|v,bantah-bentuh,bentuh,berdebat,berlidah fasih|adj
+踩踏	irik,injak,rapah,menginjak,mengirik
+辩	bahas|n,debat|n,bahaskan|v,justifikasi|n,babil,berdebat,perbahasan
 辩护	justifikasi|n
-辩的	berlidah fasih|adj,polemik|n
-辩论	babil,bahas|n,bahaskan|v,berdebat,debat|n,perbahasan,cerewet,pembahas
-辩论的	cerewet
+辩护人	pembela|n
+辩护士	pembela|n
+辩论	bahas|n,debat|n,bahaskan|v,babil,berdebat,perbahasan,pembahas
 辩论者	pembahas
 辩证	dialektik|n
 辩证的	dialektik|n
-钩	gaet,kukut,gait,gancu,kait|n,kaitan,kaluk,kelompong
-钩之	piarit
-钩之矛	piarit
-钩之鱼	piarit
-钩之鱼叉	piarit
-钩住	kait|n,memauk,mencangkuk,mengail,pauk,paut|v,sangkut|v
+钩	sangkut|v,kukut,gaet,paut|v,kait|n,gait,pencangkuk,lengkang
+钩住	sangkut|v,paut|v,kait|n,pauk,memauk,mengail,mencangkuk
+钩子	cangkuk|n
 钩形	sabit
 钩形的	sabit
-钩拉	gait,memauk,pauk
+钩扣	cangkuk|n
+钩拉	gait,pauk,memauk
 钩摘	gait,menggait
 钩棒	pencangkuk
 钩状	kaluk
 钩状的	kaluk
 钩环	lengkang
-钩竿	perambut
-钩竿上	perambut
-钩竿上的	perambut
-钩竿上的丝	perambut
 钩竿上的丝线	perambut
-钩等	seruit
-钩等的	seruit
-钩等的倒	seruit
-钩等的倒钩	seruit
 钩织	kaitan
 钩织物	kaitan
 钩结	sambat
 钩结的	sambat
-钩长	gancu
-钩长竿	gancu
-钩鱼	tempuling|n
-钩鱼叉	tempuling|n

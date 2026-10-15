@@ -1,93 +1,69 @@
-僵	kaku,kejang,kejat,kejur,kersang,kiat
-僵硬	kaku,kejang,kejat,kiat,kejur,kersang
+僵	kaku,kiat,kejat,kejang
+僵硬	kaku,kiat,kejat,kejang,kejur,kersang
 僵硬的	kejur,kersang
-兵	bidak|n,soldadu,berek|n,hulubalang|n,kavalri|n,lasykar,pengawal|n,perajurit|n
+兵	bidak|n,senjata|n,serdadu|n,soldadu,berek|n,lasykar,rangsum
 兵器	senjata|n
-兵士	lasykar,serdadu|n
+兵团	tentera|n
+兵士	serdadu|n,lasykar
+兵家	askar|n
+兵戈	perang|n
 兵粮	rangsum
 兵营	berek|n
-卵	ovum|n,eram,pengovuman|n,uritan
+卵	ovum|n,uritan
 卵巢	uritan
-呵	hihi,kuap|v,menguap
+呵	hihi
 呵呵	hihi
-呵欠	kuap|v,menguap
-孵	eram,menetas,tetas|v
-孵化	menetas,tetas|v
+婵娟	indah|adj
+孵	tetas|v,menetas,eram
+孵化	tetas|v,menetas
 孵卵	eram
-念	abun,angan|n,aswas,ateisme|n,batu piagam,bimbang,cenderamata|n,gagasan
+念	jampi|n
 念咒	jampi|n
-念品	cenderamata|n,kenang-kenangan
-念头	aswas
-念形	imej|n
-念形象	imej|n
-念的	bimbang
-念碑	batu piagam,tugu|n
-杵	alu|n,kobah,mat disko|n,sadap
+念头	idea|n,fikir|v
+念想	tanggapan|n
+念想儿	tanggapan|n
+杵	alu|n
 杵状	mat disko|n
 杵状变	mat disko|n
-杵的	sadap
-杵的汁	sadap
-灵	animisme,arwah,aspirin,gendang hati,ilham|n,inspirasi|n,jin,jiwa|n
-灵感	gendang hati,ilham|n,inspirasi|n,terinspirasi|v
-灵感的	terinspirasi|v
-灵的	langkas
-灵论	animisme
-灵降	pantekosta
-灵降临	pantekosta
-灵降临节	pantekosta
+泵灯	lampu|n
+灵	jiwa|n,ilham|n,inspirasi|n,semangat|n,arwah,roh,gendang hati
+灵利	cerlang|adj,pandai|adj
+灵妙	mantul|adj,pandai|adj
+灵异	aneh|adj
+灵感	ilham|n,inspirasi|n,gendang hati
+灵敏	pandai|adj,bestari|adj
+灵通	pandai|adj
 灵验	manjur,mujarab
 灵验的	manjur,mujarab
-灵魂	arwah,jiwa|n,roh,semangat|n,jiwa raga,mani
-灵鹿	sang kancil
-牵	babit,bimbing,melibatkan,membabitkan,menuntun,terbabit,terlibat,tersangkut
+灵魂	jiwa|n,semangat|n,arwah,roh
+牵	babit,menuntun,membabitkan,melibatkan
 牵引	menuntun,bimbing
 牵引带	bimbing
 牵引带领	bimbing
-牵连	babit,melibatkan,membabitkan,terbabit,terlibat,tersangkut
-绵	biri-biri|n,bunga karang|n,domba|n,kambing biri-biri|n,lecek,lesak,misru,rangkaian|n
-绵混	misru
-绵混织	misru
-绵混织布	misru
-绵的	lecek,lesak
-绵绵	lecek
-绵绵的	lecek
+牵连	babit,membabitkan,melibatkan
+绵	biri-biri|n,domba|n,kambing biri-biri|n
 绵羊	biri-biri|n,domba|n,kambing biri-biri|n
-罵	mak kau hijau
-罵的	mak kau hijau
-罵的視	mak kau hijau
-罵的視頻	mak kau hijau
-葵	bunga matahari|n,buran|n,remunggai,seleguri
-葵属	seleguri
-葵属植	seleguri
-葵属植物	seleguri
-诵	baca doa,deklamasi,hafaz,hapal,madah|n,mahfuz,mengaji,menghafazkan
+绵远	terpencil|adj
+绵邈	terpencil|adj
+诵	madah|n,baca doa
 诵经	baca doa
 诵词	madah|n
-诵读	mengaji,qari,qariah
-诵读可	mengaji
-诵读可兰	mengaji
 诵读可兰经	mengaji
-诵读者	qari,qariah
-赵	rujuk|v
-践	berpoligami|v,lanyak,lenjang,letum-letam,melakukan|v,melanyak,mengamalkan,menjejak
-践踏	lanyak,lenjang,melanyak,menjejak,terajang|v,letum-letam
+践	terajang|v,lanyak,lenjang,melanyak,menjejak
+践踏	terajang|v,lanyak,lenjang,melanyak,menjejak,letum-letam
 践踏声	letum-letam
 遵	junjung|v
 遵命	junjung|v
-酵	beragi,enzim|n,laru,penapaian|v,ragi
-酵母	laru,ragi
+酵	enzim|n,ragi,laru
+酵母	ragi,laru
 酵素	enzim|n
-陵	bukit-bukau
-陵和	bukit-bukau
-陵和荒	bukit-bukau
-陵和荒野	bukit-bukau
-韵	irama,aliterasi,laras|n,puisi,sajak,wilaan
+闵凶	sengsara|n
+韵	irama,laras|n,wilaan,puisi,sajak
 韵律	wilaan
 韵文	puisi,sajak
 韵调	laras|n
-页	bab|n,halaman|n,lembaran,muka surat|n,kelui|n
-页调	kelui|n
-页调度	kelui|n
-页调度程	kelui|n
+页	bab|n,halaman|n,muka surat|n,lembaran
 页调度程序	kelui|n
+页边	jidar|n
+页边的空白	jidar|n
 饵	umpan|n

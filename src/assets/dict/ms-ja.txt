@@ -2,7 +2,7 @@ jabanah	jabanah		地道
 jabat	jabat		握执，拿住，掌握一份工作
 jabatan	jabatan	n	职务，办事处，局，署	office  service.
 jabattangan	jabat tangan		握手
-jadah	jadah	n	两者择一
+jadah	jadah	n	两者择一	alternative form of zadah
 jadi	jadi	v	成为 所以	to become (to come into existence as; to change into).
 jadijadian	jadi-jadian		传说中会变老虎的人
 jadual	jadual	n	目录，记录，表，表格	table (grid of data in rows and columns)
@@ -20,7 +20,7 @@ jahanam	jahanam	adj	地狱，该死的	hellish			neraka	jannah,syurga
 jahanamkan	jahanamkan		毁坏，灭亡
 jahat	jahat	adj	坏 邪恶	bad  evil		baik
 jahe	jahe	n	姜	ginger
-jahi	jahi	n	两者择一
+jahi	jahi	n	两者择一	alternative form of jahe
 jahil	jahil	adj	愚昧无知的	ignorant  foolish
 jahit	jahit	v	缝	to sew  to stitch
 jahitmenjahit	jahit-menjahit		缝纫
@@ -71,7 +71,7 @@ jamtangan	jam tangan	n	手表	wristwatch
 jamu	jamu		宴客，招待人客
 jamuan	jamuan	n	宴会	banquet
 jamung	jamung	n	火炬，火把	torch
-jan	jan		n. 一月
+jan	jan		n. 一月	abbreviation of Januari (“January”)
 janakuasa	janakuasa		发电机
 janda	janda	n	遗孀	widow: a woman whose spouse has died and has not yet remarried
 jangak	jangak	adj	行为不正，放荡的，淫荡的	profligate; wanton; immoral
@@ -81,7 +81,7 @@ jangankan	jangankan		别说，不必说
 janganrisau	jangan risau	int	别担心
 jangat	jangat		外皮，表皮
 janggal	janggal		不和谐的，刺耳的，刺眼的，不适当的
-janggi	janggi	n	两者择一
+janggi	janggi	n	两者择一	alternative form of zanggi
 janggus	janggus	n	嫁枣	cashew (tree).			gajus,jambu golok
 janggut	janggut	n	胡子	beard
 jangka	jangka	v	两脚规，期间，计划	to measure something precisely (in carpentry  weaving)
@@ -144,7 +144,7 @@ jauhmalam	jauh malam		深夜
 jauzah	jauzah	n	胡桃  胡桃木	walnut
 jawa	jawa		爪哇，爪哇的	Java (an island of Indonesia)
 jawab	jawab	v	回答	an answer or reply
-jawaban	jawaban	n	两者择一
+jawaban	jawaban	n	两者择一	Alternative form of jawapan.
 jawapan	jawapan	n	答案，答覆	An answer (to a question).
 jawat	jawat		拿住，握住
 jawatan	jawatan	n	部，局，署，职业，职位	position  post  job
@@ -152,4 +152,4 @@ jawatankuasa	jawatankuasa	n	委员会	committee
 jawawut	jawawut	n	粟	foxtail millet
 jawi	jawi	n	马来人，马来的	A cow.
 jawijawi	jawi-jawi	n	香蕉叶	banana-leaf fig  Ficus rhododendrifolia
-jaya	jaya	n	胜利，凯旋，成功 神话：一个佛教女神，是希瓦妻子的名字之一。源于梵语 जय 意思
+jaya	jaya	n	胜利，凯旋，成功 神话：一个佛教女神，是希瓦妻子的名字之一。源于梵语 जय 意思	synonym of kejayaan (“victory  success”)

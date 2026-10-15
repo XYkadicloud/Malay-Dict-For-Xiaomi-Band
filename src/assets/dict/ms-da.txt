@@ -22,7 +22,7 @@ dagang	dagang		卖
 dagangan	dagangan		货物
 daging	daging	n	肉	meat:
 daginganjing	daging anjing	n	狗	dog meat (dog eaten as meat)
-dagingasu	daging asu	n	同义词
+dagingasu	daging asu	n	同义词	synonym of daging anjing: dogmeat (dog eaten as meat)
 dagingkambing	daging kambing	n	羊肉
 daginglembu	daging lembu	n	牛肉
 dagingmanis	daging manis		甜肉
@@ -37,7 +37,6 @@ dahi	dahi	n	额	forehead (part of face above eyebrows)
 dahlah	dahlah		词首字母脱落的	apheretic form of sudahlah
 dahsyat	dahsyat	n	恐布的，可怕的，吓人的，异常的	terror; shock
 dahtu	dah tu	adv	而且	Then  moreover.
-dahtu	dahtu	adv	两者择一	alternative spelling of dah tu
 dahulu	dahulu	adv	以前，从前，过去，先前	before  earlier  previously
 dahului	dahului		超越，先行，领先
 dahulukala	dahulu kala		古代，以前，过去时代
@@ -46,11 +45,11 @@ daif	daif		弱的，卑贱的
 daiman	daiman	n	荨麻疹样丹毒	diamonds
 daing	daing	n	晒干的	sundried fish or meat
 dajal	dajal	n	错误的	The false messiah; dajjal.
-dajjal	dajjal	n	两者择一
+dajjal	dajjal	n	两者择一	alternative form of dajal
 dak	dak	adv	词首字母脱落的	not (negates meaning of verb)
 dakap	dakap		抱，拥抱
 daki	daki	n	肮脏的	dirty stuff that sticks to the body  clothes etc.
-daksina	daksina	n	同义词
+daksina	daksina	n	同义词	synonym of selatan (“south”)
 daku	daku	pron	我	I (personal pronoun)
 dakwa	dakwa	n	控告，起诉	accusation  complaint
 dakwat	dakwat	n	墨水	ink
@@ -91,7 +90,7 @@ dansebagainya	dan sebagainya		等等，诸如此类	etc.  and so on  and so fort
 dansterusnya	dan sterusnya		以及其他等等
 danta	danta	n	牙齿	tooth (biological tooth)
 dap	dap		民主的  民主的	the Democratic Action Party (a Malaysian centre-left political party).
-dapat	dapat	v	得到 能够			Saya dapat hadiah.
+dapat	dapat	v	得到 能够	To be able to; can.; To succeed in doing.; To get:		Saya dapat hadiah.
 dapur	dapur	n	厨房	stove
 dara	dara	n	少女，处女	maiden  virgin
 darab	darab		血
@@ -124,7 +123,7 @@ dasileher	dasi leher		领带
 dasun	dasun	n	大蒜  大蒜	garlic  Allium sativum
 datang	datang	v	来	to come (to move from further away to nearer to)		Dia datang esok.	pergi
 datangbertapak	datang bertapak		接踵而至，络绎而来
-datangbulan	datang bulan	n	同义词
+datangbulan	datang bulan	n	同义词	synonym of haid (“menstruation”)
 datanghaid	datang haid		月经来潮
 datar	datar	adj	平的，平坦的	flat (having no variations in altitude)
 dataran	dataran	n	平原，平地	area that is flat (place  ground)
@@ -147,9 +146,9 @@ daunkurap	daun kurap	n	有翅决明	Cassia alata (a tree)
 daunpakau	daun pakau		纸牌，扑克牌
 daunpokok	daun pokok		树叶
 daunteh	daun teh		茶叶
-daut	daut		两者择一
+daut	daut		两者择一	alternative form of Daud
 dawai	dawai		电线，金属线或丝
-dawud	dawud		两者择一
+dawud	dawud		两者择一	alternative form of Daud
 daya	daya	adj	力量，能力，影响，方法，计谋	only used in barat daya (“southwest”)
 dayacipta	daya cipta		创造力
 dayaghaib	daya ghaib		神秘的力量

@@ -1,208 +1,130 @@
-似	laksana|prep,penaka,ala|prep,amacam|adv,analogi,gelempang,iras,keemasan|adj
+<主英>=Romanize	merumikan|v
+<主英>=fertilization	persenyawaan|n
+<主英>即将毕业的学生	graduan|n
+<日>合气道	aikido|n
+<植>莎草	menderung|n
+<法>烤肉	roti john|n
+<美>一级防范禁闭	sekatan pergerakan|n
+<美>消防队员	ahli bomba|n,abang bomba
+<美口>吸毒者	mat gian|n
+<英>自发面粉	tepung berserbuk penaik|n
+<贬>乳房小	tekcik|adj
+<贬>乳房小的	tekcik|adj
+<马来语>中国商人	tauke|n
+似	laksana|prep,penaka,gelempang,nampaknya
 似乎	nampaknya
 似卧	gelempang
-似男	tomboi|n
-似男孩	tomboi|n
-似男孩的	tomboi|n
-似男孩的顽	tomboi|n
-似男孩的顽皮	tomboi|n
-似男孩的顽皮姑	tomboi|n
 似男孩的顽皮姑娘	tomboi|n
-似的	ala|prep,amacam|adv,keemasan|adj,kembar,macam itu|adv,semisal|prep,semuka
-似非	paradoks|n
-似非而	paradoks|n
-似非而是	paradoks|n
-似非而是的	paradoks|n
-似非而是的论	paradoks|n
 似非而是的论点	paradoks|n
-值	abus|adj,andau|adv,baloi|n,berharga,berjaga,bernilai,faedah|n,luak|v
+值	berjaga
 值班	berjaga
-值的	abus|adj,andau|adv,mati katak
-值的死	mati katak
-值的死去	mati katak
-吼	aum mengaum,deram,deru,menderu,meraung,raung
-吼叫	meraung,raung
+值钱	mubazir|adj,mahal|adj
+吼	deram,raung,meraung
+吼叫	raung,meraung
 吼声	deram
-嚼	ganyang,gonyeh,hunggis,kerekah,kerepek|n,komak-kamik,kulum,kunyah|v
+嚼	ganyang,mamah|v,mewek
 嚼咀	mewek
-嚼声	kerekah,kerepek|n
-嚼栳	sepah
-嚼栳叶	sepah
-嚼栳叶的	sepah
-嚼栳叶的一	sepah
 嚼栳叶的一口	sepah
-嚼的	sirih|n
-嚼的栳	sirih|n
-嚼的栳叶	sirih|n
 嚼碎	mamah|v
-娼	barua|n,lanji,loki,lonte,moler,sundal
-娼妓	lanji,loki,lonte,moler,sundal
+娼	barua|n,moler,loki,lanji,lonte,sundal
+娼妓	moler,loki,lanji,lonte,sundal
 娼家	barua|n
-尼	abaka|n,albania,beriani|n,danial,dominika,indogsial|n,indon,indonesia
-尼亚	albania,slovenia
-尼人	indogsial|n
-尼加	dominika,republik dominika
-尼加共	republik dominika
-尼加共和	republik dominika
-尼加共和国	republik dominika
+尼	nilon
 尼古	kelekit,nikotin
 尼古丁	kelekit,nikotin
-尼尔	danial
-尼拉	abaka|n
-尼拉麻	abaka|n
-尼斯	venis
+尼斯	bagus|adj
 尼日	nigeria
 尼日利	nigeria
 尼日利亚	nigeria
-尼的	indogsial|n
 尼罗	nil,sungai nil
 尼罗河	nil,sungai nil
-尼群	nusantara
-尼群岛	nusantara
-尼菜	beriani|n
-尼西	indonesia,penisilin|n
-尼西亚	indonesia
-尼西林	penisilin|n
-尼豆	tempe|n
-尼豆豉	tempe|n
-尼货	rupiah
-尼货币	rupiah
 尼龙	nilon
-怼	kasumat
-悼	berkabung,takziah|n
-押	gadai|n,cagar,cagaran,gadai janji|n,kiwi,menggadaikan
-押品	cagaran
+押	gadai|n
 押货	kiwi
 押货人	kiwi
-於	dek,kesudahan
-格	petak|n,rangka|n,akhlak|n,beregek|adj,bergumul,berkelayakan,beroti,bidal
-格兰	england
-格列	kalendar gregory|n,takwim gregory|n
-格列高	kalendar gregory|n,takwim gregory|n
-格列高利	kalendar gregory|n,takwim gregory|n
-格列高利历	kalendar gregory|n,takwim gregory|n
-格地	terkekek-kekek
-格地笑	terkekek-kekek
+格	petak|n,rangka|n,perangai|n,petua|n,pepatah|n,bidal,bidalan,gumul
+格位	peti|n
+格列高利历	takwim gregory|n,kalendar gregory|n
 格子	beroti,jerjah
 格子栅	jerjah
+格局	struktur|n
+格式	rupa|n
 格性	perangai|n
-格斗	bergumul,gumul
+格斗	gumul,bergumul
+格斯塔	jumlah|n
 格格	terkekek-kekek
 格格地	terkekek-kekek
 格格地笑	terkekek-kekek
-格的	beregek|adj,berkelayakan,genggang|adj,regek|adj,vegan|n
-格的布	genggang|adj
-格的素	vegan|n
-格的素食	vegan|n
-格的素食主	vegan|n
-格的素食主义	vegan|n
-格的素食主义者	vegan|n
-格蘭	inggeris
-格蘭的	inggeris
-格表	daftar harga
-格言	bidal,bidalan,pematah,pepatah|n,petitih,petua|n
-沼	kedung,lahar|n,lecah,paya|n,rawa|n,redang|n
-沼泽	kedung,lahar|n,lecah,paya|n,rawa|n,redang|n
+格言	petua|n,pepatah|n,bidal,bidalan,pematah
+格调	rupa|n
+沼	paya|n,rawa|n,lahar|n,redang|n,lecah,kedung
+沼泽	paya|n,rawa|n,lahar|n,redang|n,lecah,kedung
 洼	lepan
 洼地	lepan
-炼	menyaring,air tangan|n,alkimia|n,latih,penapisan|n,senam|v
+炼	menyaring
 炼金	alkimia|n
 炼金术	alkimia|n
-疼	mengkal,sayang|v,senak perut,tubin|n
+疼	sayang|v,senak perut
 疼爱	sayang|v,tubin|n
 疼爱的	tubin|n
 疼痛	senak perut,mengkal
 疼痛的	mengkal
-眼	ain|n,air mata|n,anak mata|n,ayak|n,bebola mata|n,belalak,belek|v,beliak
-眼儿	brekmok|n
-眼凹	tulai|n
-眼凹肩	tulai|n
-眼凹肩鲹	tulai|n
-眼帘	luyu
-眼帘垂	luyu
-眼帘垂下	luyu
+眼	mata|n,air mata|n,ain|n,belek|v,saujana|adj,anak mata|n,kaca mata|n,wijana
+眼光	visi|n
 眼泪	air mata|n
-眼球	anak mata|n,bebola mata|n,biji mata
+眼球	anak mata|n,biji mata,bebola mata|n
+眼球眼	bebola mata|n
+眼球眼球	bebola mata|n
 眼界	saujana|adj,wijana
 眼痛	belek|v
-眼的	ayak|n,janggal
-眼的筛	ayak|n
+眼皮子底下	kini|adj
 眼眶	mengkung
 眼眶凹	mengkung
 眼睑	kelopak mata,pelupuk mata
-眼睛	ain|n,mata|n,belalak,belek|v,beliak,kebil,kedip|v,optik|adj
+眼睛	mata|n,ain|n,optik|adj,belek|v
 眼睛的	optik|adj
 眼睛红	belek|v
 眼睛红肿	belek|v
 眼睫	bulu mata|n
 眼睫毛	bulu mata|n
-眼科	oftalmologi|n
-眼科学	oftalmologi|n
+眼科学眼科学	oftalmologi|n
 眼稍	ekor mata
-眼花	menyilaukan,pening|adj,pitam,pusing kepala
-眼角	ekor mata,menjeling
-眼角斜	menjeling
-眼角斜视	menjeling
+眼角	ekor mata
 眼针	ketumbit
-眼镜	cermin mata|n,kaca mata|n,bercermin mata|adj,berkaca mata|adj,itik badut|n,kera hantu|n,tedung|n,ular tedung
+眼镜	kaca mata|n,tedung|n,cermin mata|n,kera hantu|n,ular tedung
 眼镜猴	kera hantu|n
-眼镜的	bercermin mata|adj,berkaca mata|adj
-眼镜蛇	tedung|n,ular tedung,itik badut|n
-眼面	berguk,merguk
-眼面幂	merguk
-眼面罩	berguk
-礼	adab|n,adat|n,adib,bahasa|n,bawaan,beradab,berbahasa|v,beri hormat
-礼仪	kesusilaan,susila|n
-礼员	muazin|n
-礼塌	sadang,sading
-礼塌的	sadang,sading
-礼塌的屏	sadang,sading
-礼塌的屏幕	sadang,sading
-礼师	modin
+眼镜眼	cermin mata|n
+眼镜眼镜	cermin mata|n
+眼镜蛇	tedung|n,ular tedung
+礼	adat|n,pemberian|n,istiadat|n,sembahyang|n,solat|n,hadiah|n,susila|n,hadiahi|v
+礼义	keadilan|n
+礼仪	susila|n,kesusilaan
+礼俗	adat|n
+礼宾	protokol|n
 礼拜	sembahyang|n,solat|n,sujud,penyembah|n,sabat
 礼拜六	sabat
+礼拜堂	gereja|n
 礼拜者	penyembah|n
-礼时	pacai
-礼时撒	pacai
-礼时撒于	pacai
-礼时撒于尸	pacai
-礼时撒于尸布	pacai
-礼时撒于尸布上	pacai
-礼时撒于尸布上的	pacai
-礼时撒于尸布上的白	pacai
-礼时撒于尸布上的白檀	pacai
-礼时撒于尸布上的白檀香	pacai
-礼时撒于尸布上的白檀香粉	pacai
-礼炮	hormat diraja|n
-礼物	bawaan,bingkisan,buah tangan,bunga tangan,hadiah|n,hadiahi|v,hadiahkan|v,manah
-礼的	biadab|adj,ceroboh|adj,sopan
+礼物	pemberian|n,hadiah|n,hadiahi|v,hadiahkan|v,persembahan|n,bawaan,manah,pembawaan
 礼节	istiadat|n
-礼貌	adat|n,bahasa|n,adib,beradab,berbahasa|v,budi bahasa,halus bahasa,hormat|adj
-礼貌的	adib,beradab,budi bahasa,hormat|adj,sopan santun|adj
-笼	kurung|n,raga|n,sangkar,belat,bemban|n,bubu|n,celung,jebak
-笼布	kain batik
-笼罩	liput|v,menyerkup,serkup
-笼草	moyong
-萼	saribunga
-蔼	keramahan|n,muhibah,peramah
-蔼可	peramah
-蔼可亲	peramah
-蔼可亲的	peramah
-蔼可亲的人	peramah
-讼	aduan,guam|n,litigan|n,litigasi|n
-讼当	litigan|n
-讼当事	litigan|n
-讼当事人	litigan|n
-讼案	guam|n
-讼的	litigan|n
-贼	kawar,pencuri|n,cumi,ikan cumi-cumi,kleptokrasi|n,nus,penderhaka
-贼统	kleptokrasi|n
-贼统治	kleptokrasi|n
-逼	mendekati,tegih
+礼貌	adat|n,bahasa|n
+礼貌词	bahasa|n
+礼貌词汇	bahasa|n
+笼	sangkar,kurung|n,raga|n,liput|v,serkup,menyerkup
+笼子	bakul|n,kurung|n
+笼槛	kurung|n
+笼统	jeneral|n,babur|n
+笼罩	liput|v,serkup,menyerkup
+笼鸟槛猿	banduan|n
+贼	pencuri|n,kawar
+贼亮	cerlang|adj
+逼	tegih,mendekati
+逼仄	sempit|adj
 逼债	tegih
 逼近	mendekati
 钼	molibdenum|n
-骼	bengkarak,jerangkung,rangka|n
-鬼	jin,ketam angin|n,pelesit,iblis,kaki botol|n,kaki minum|n,kemang,mat botol|n
+钼钼	molibdenum|n
+鬼	ketam angin|n,jin,pelesit,polong
 鬼怪	polong
-鲼	pari burung|n,pari lang|n,pari kaluk|n,pari paus|n
+鬼魂	mambang|n
+鲼	pari lang|n,pari burung|n

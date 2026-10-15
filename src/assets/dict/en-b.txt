@@ -1,506 +1,439 @@
-babble	berkicau|v
-babi	babi-babi
 babiroussa	babi rusa|n
 baboon	babun|n
-baby	bayi|n,gigi susu|n
-babysit	asuh|v
-bachelor	sarjana muda|n
-back	balik|v,belakang|n,bingkas|v,kembali|v,lentang|v,patah balik|v
+baby	bayi|n
+baby tooth	gigi susu|n
+bachelor's degree	sarjana muda|n
+back	balik|v,belakang|n
 backdrop	latar pentas|n
-backside	pungkur|n
+backside	pungkur|n,punggung|n
 backyard	halaman belakang|n
-bad	berbau|v,bermasam muka|v,busuk|adj,geruh|n,jahat|adj
+bad	jahat|adj
+bad luck	geruh|n
 badge	lencana|n
-badminton	badminton|n,bola tangkis|n
-bag	beg|n,beg jinjing|n,kantung tidur|n,keban|n,poket|n,supik|n
-bagaimanapun	walaubagaimanapun|conj
-baggage	bagasi|n,begej|n
-bagitahu	bagitau|v
-bagitau	gitau|v
-baguskan	dibaguskan|v
-baharu	bahru,bharu
-baharui	dibaharui|v,membaharui|v
-bahas	dibahas|v,membahas|v
-bahasa	bahasa wicet|n,bi|n,bm,dbp
-bahaskan	dibahaskan|v,membahaskan|v
-bahru	jb,johor bahru,ulu tiram
-baik	sebaik|adj
+baggage	begej|n,bagasi|n
 bailer	timba|n
 bait	umpan|n
-baitulmuqaddis	baitulmaqdis
-bak	bak kut teh|n
-balaena	paus kepala busur|n
-balaenoptera	paus bryde|n,paus omura|n,paus sei|n,paus sirip|n
+bak kut teh	bak kut teh|n
+balaena mysticetus	paus kepala busur|n
+balaenoptera acutorostrata	paus tombak|n
+balaenoptera borealis	paus sei|n
+balaenoptera brydei	paus bryde|n
+balaenoptera omurai	paus omura|n
+balaenoptera physalus	paus sirip|n
 balance	keseimbangan|n
 balcony	balkoni|n
 bald	botak|adj
-baleen	paus balin|n
+baleen whale	paus balin|n
+balei	balai|n
 bali	bali
-balik	balek|adv
-ball	bola|n,kepal|v,korah|n,nasi kepal|n,takraw|n
-ball-like	bebola|n
-balloon	belon|n
-bamboo	aur|n,bambu|n,buluh|n,rebung|n,suda|n,tukil|n
-ban	berlarangan|adj,larangkan|v,menegah|v,syaaban,tegah|v
+ball	bola|n,korah|n
+bamboo	aur|n,raga|n,bambu|n,buluh|n
+bamboo shoot	rebung|n
+bamboo vessel	tukil|n
+bamboozled	terperdaya|v
 banal	banal|adj
-banana	pisang|n,pisang raja|n,punti|n
-banana-leaf	jawi-jawi|n
-banci	dibanci|v,membanci|v
-band	bebat|n,emban|n,jalur|n,kabung|n,kugiran|n
-bandar	bandar seri begawan,bandaraya|n,bbb
-bandaraya	dbkl,mbs,mbsa,mbsj,mbsp
-bangi	bbb
-bangsa-bangsa	pbb
+banana	pisang|n
+banana-leaf fig	jawi-jawi|n
+band	bebat|n,jalur|n,kugiran|n
+band going around the body	emban|n
+bandar baru bangi a city in selangor	bbb
+bandar seri begawan	bandar seri begawan
 banjo	banjo|n
-bank	bank|n,bank sotong,tebing|n
+bank of a river	tebing|n
 banknote	bankbiljet|n,wang kertas|n
-bankrap	bangkrap|adj
-bankrupt	bankrap|adj,muflis|adj
-banned	terlarang|adj
-banner	kain rentang|n,sepanduk|n
+bankrupt	muflis|adj,bankrap|adj
+banned or forbidden	terlarang|adj
+banner	sepanduk|n,kain rentang|n
 banquet	jamuan|n
-bantam	ayam katik|n
 banteng	banting|n,tembadau|n
 banter	kelakar|n
-banting	banteng|n
-banyak	bnyk
-bapa	bapak|n
-bapuk	bapok|n
-barat	barat semata selatan|n,daya|adj
 barbados	barbados
-barbed	tempuling|n
 barber	barbier|n
-bare	bundarkan|v,contohi|v,contohkan|v,jengah|v,jerkah|v,kamuskan|v
+bare form of membundarkan	bundarkan|v
+bare form of mempercontohkan	percontohkan|v
+bare form of mempersembahkan to present	persembahkan|v
+bare form of memvideokan	videokan|v
+bare form of mencontohi	contohi|v
+bare form of mencontohkan	contohkan|v
+bare form of mengamuskan to the dictionary	kamuskan|v
+bare form of menjengah to peep	jengah|v
+bare form of menjerkah	jerkah|v
+bare form of menswastakan	swastakan|v
+bare form of menyajikan	sajikan|v
+bare form of menyembahkan to present	sembahkan|v
+bare form of menyurati to write on	surati|v
+bare form of menyuratkan to write someone something	suratkan|v
+bare form of merumikan	rumikan|v
 barefoot	kaki ayam|adj
-barisan	bn
 barium	barium|n
-bark	gonggong|v
 barley	beras belanda|n
-barn	jelapang|n
 barnacle	teritip|n
 barotrauma	barotrauma|n
 barracks	berek|n
 barracuda	alu-alu|n
-barrel	laras|n,tong|n
-barren	safan-safa|adj,tandus|adj
+barrel	tong|n,laras|n
+barren	tandus|adj
+barren and flat	safan-safa|adj
 barrier	bendung|n
-barringtonia	putat|n
 barrow	pongsu|n
-baru	bbb,bbnu|n
-base	alas|n,asas|n,pangkal|n,pangkalan tentera laut|n,perdu|n
-base-ten	perpuluhan|adj
+bars	sangkar
+base	alas|n,asas|n,perdu|n
+base of a tree	pangkal|n
 baseball	besbol|n
-based	berdasarkan|v,berparti|adj,kepartian|adj,normatif|adj
-basic	asasi|adj,letakkan|v
+based on	berdasarkan|v
+based on political parties	berparti|adj
+basic	asasi|adj
+basic form of meletakkan	letakkan|v
 basil	lampes|n,selasih|n
-basket	bakul|n,keranjang|n,nyiru|n,raga|n
+basket	bakul|n
 basketball	basketbol|n,bola keranjang|n
-bass	gitar bes|n
-bastard	anak haram|n,gampang|n,haram jadah|n,zadah|n
-bat	kalong|n,kelawar|n,kelelawar|n
-batang	sebatang|cls
-bathing	basahan|adj
+bass guitar	gitar bes|n
+bastard	zadah|n,anak haram|n,haram jadah|n
+bat	kelawar|n,kelelawar|n
 bathroom	bilik air|n
 bathtub	tab mandi|n
 batik	batik|n
-batteries	berbateri|adj
-battery	baterai|n,bateri|n
+batter	celup|v
+battery	bateri|n
+battery a device used to power electric devices	baterai|n
 battle	pertempuran|n
-batu	batu pahat,telerang|n
-baui	membaui|v
-bawa	bawak|v
-bawang	tentera bawang|n
-bay	kucing borneo|n,kucing merah|n,kucing merah borneo|n,teluk|n
-bayang	bayang-bayang|n,bayangan|n
-bayang-bayangi	dibayang-bayangi|v,membayang-bayangi|v
-bayang-bayangkan	dibayang-bayangkan|v,membayang-bayangkan|v
-bayangi	bayang-bayangi|v,dibayangi|v,membayangi|v
-bayangkan	bayang-bayangkan|v,dibayangkan|v,membayangkan|v,pembayangan|n,terbayang|v
-bayar	dibayar|v
-bayu	wayu|n
-beach	dampak|v,pantai|n
+batu pahat a town and district of johor	batu pahat
+bay	teluk|n
+bay cat	kucing merah|n,kucing borneo|n,kucing merah borneo|n
+be blissful	daulat|v
+be boiling	mendidih|v
+be c	dipendapkan|v
+be careful	berhati-hati
+be pecked or be tapped literall	tercatuk|v
+be pressed down	dipendapkan|v
+beach	pantai|n
 beached	dampar|adj
-beaked	paus paruh|n
+beaked whale	paus paruh|n
 beam	sinar|n
-bean	buncis|n,kacang hijau|n,kacang panjang|n,petai|n,putu|n,remis|n
-bear	beruang|n,beruang kutub|n,beruang madu|n,lahir|v,tahan|v
+bean clam	remis|n
+bear	beruang|n
 beard	janggut|n
 bearded	randuk|adj
 beast	binatang|n
-beat	degup|n,pukul|v
-beater-in	belera|n
-beating	ambat|n
-beautiful	cantik|adj,gelis|adj,indah|adj,laksmi|adj,lawa|adj,taruk angsoka|n
+beautiful	lawa|adj,gelis|adj,indah|adj,cantik|adj,laksmi|adj
+beautiful ears	taruk angsoka|n
 beauty	kecantikan|n
-because	galir|n,hangat|adj,kerana|conj,lantaran itu|adv,oleh|adv,oleh sebab|prep
-become	antuk|v,jadi|v,jepunkan|v,lumpuh|v,magang|n,melebar|v
-becomes	karier|n
+because	oleh|adv,kerana|conj
+because of	oleh sebab|prep
+because of that	lantaran itu|adv
 becoming	senonoh|adj
+becoming indicatin	semakin
 bed	katil|n,ranjang|n
-bedbug	pepijat|n,pijat|n,pijat-pijat|n
-bedding	binca|n
+bedbug	pijat|n
 bedroom	bilik tidur|n
 bee	lebah|n
-beef	konbif|n
 beer	bir|n
 beetle	kumbang|n
-befall	timpa|v
-before	dahulu|adv,dulu|adv,kelmarin|n,malam raya|n,sebelum|prep
+befell	menimpa|v
+before	dulu|adv,dahulu|adv,sebelum|prep
 befuddling	pelik bin ajaib|adj
-begawan	bandar seri begawan
 beggar	pengemis|n
-beginning	awal|adj,mula|n,sedia|adv,semula|adv
-behalf	atas nama
-behave	bisa mengabet|v,menakal|v,mengabet|v
-behaves	abet|n,cainis|n
-behavior	telatah|n
-behaviour	mat ragut|n,susila|n,tatasusila|n
-behead	pancung|v
+beginning	awal|adj
+behavior	telatah|n,tingkah
+behaviour	abet|n
 behind	udi|n
-bekaskan	dibekaskan|v,membekaskan|v
-belakang	blkg
-belau	berlau|adj
-beleng	biling|v
-belerang	belirang|n,melirang|n,welirang|n
-belia	abim
-belief	ateisme|n,keyakinan|n,minarkisme|n,pegangan|n
-believed	indera|n
-believing	ateistik|adj,fardu|n,percaya|v
+being	makhluk|n
+being imported	import|adj
+being pleased with	ridwan|n
+being satisfied with	ridwan|n
+being the same or similar in meaning	seerti|adj
+being trapped in something	terkurung|adj
+belief	pegangan|n
+belief a firmly held opinion	keyakinan|n
+belief of there being no god	ateisme|n
+beliefs that are against proper sunni islam	ajaran sesat|n
+believing	percaya|v
 bell	loceng|n,lonceng|n
 bellows	hubub|n
-bells	genta|n
 belly	perut|n
-belonging	sendiri|adj
-beloved	kekasih|n
+belonging to	untuk|prep
+belonging to oneself	sendiri|adj
+beloved person	kekasih|n
 below	bawah|prep,kebawah|prep
-belt	sawat|n,tali pinggang|n
-belud	kota belud
-belum	blm|adv,lum|adv
-benang	bebenang|n
-bench	bangku|n,kaki bangku|n
+belt	tali pinggang|n
+bench	bangku|n
 benchmark	penanda aras|n
-bend	lentur|n,liku|n,membongkok|v,teluk|n
-benefactive	menggerekkan|v
-benefit	faedah|n,guna|n,manfaat|n
+bend	teluk|n
+bend of a river	liku|n
+benefit	guna|n,faedah|n,manfaat|n
 bengal	benggala
-bengkarung	cengkarung|n,mengkarung|n
-benincasa	kundur|n
+benincasa hispida	kundur|n
 bent	bengkok|adj,bengkong|adj
-bentara	abintara|n
-berang-berang	memberang|n,memerang|n
-berani	beran|adj,bran|adj
-berapa	berap|det
-berastakona	astakona|adj
-berbayang	berbayang-bayang|v
-berbincang	berbincang-bincang|v
-berbuka	berbuka|v
-bergedel	begedil
-berhormat	yb|n
-beri	diberi|v,memberi|v
-beriani	briyani|n
-berikan	diberikan|v,memberikan|v
 berkelium	berkelium|n
-berkewajipan	berkewajiban|v
-berma	biram|adj
-bernam	sekinchan
-bersatu	gbs,pbrs,pbs
-bersenjata	abdb
-berserbuk	tepung naik sendiri|n,tepung penaik|n
-bersesalan	bersesal-sesalan|v,sesal-menyesali|v
-berus	diberus|v,memberus|v
 beryllium	berilium|n
-berzaman-zaman	zaman-berzaman|adv
-besar	padang besar
 beside	di samping
-besides	di samping,selain|prep
-besmear	labur|v
+besides	selain|prep,di samping
 besotted	asyik|adj
-bespectacled	bercermin mata|adj,berkaca mata|adj
-besprinkle	siram|v
-best	pulun|v,sahabat|n,sebaiknya|adv,seelok-eloknya|adv,seperti gergaji dua mata,terbaik|adj
+bespectacled	berkaca mata|adj,bercermin mata|adj
+best	utama|adj,terbaik|adj
+best friend	sahabat|n
 bestiality	kebinatangan|n
-bestow	mengurniakan|v
-bestowed	dikurniakan|v
-bet	tikam|v
-beta	slomang|n
-betel	celapa|n,sirih|n
-bethlehem	betlehem
+bet	lopes
+beta fish	slomang|n
+betel	sirih|n
+betel pepper	sirih|n
+bethlehem a city in the west bank	betlehem
 betrayal	khianat|n
 betta	laga|n
-better	memperelok|v,sebaiknya|adv
-betul	betol|adj,tul|adj
-between	antara|prep,pancaroba|n,sawang|n
-beverage	ciu|n,minuman|n
+better	sebaiknya|adv
+between	antara|prep
+beverage	minuman|n
 bewildered	ganar|adj
 bewilderment	kebingungan|n
-bharu	kb,kota bharu
-biadab	biadap
-biarawan	biarawati|n
-bible	alkitab,lut
-bicarbonate	natrium bikarbonat|n
-bicycle	basikal|n,berbasikal|v,kereta angin|n,sepeda|n
+bicycle	sepeda|n,basikal|n,kereta angin|n
 bier	seliri|n
 bifurcating	cawang|n
-big	besar|adj,besau|adj,big mac|n,gedang|adj,gedangkan|v,graha|n
+big	raya|adj,besar|adj,besau|adj,gedang|adj
+big building	loji|n
+big mac	big mac|n
+big residence	graha|n
 big-boob	tekshar|adj
 bigamy	bigami|n
-bigeye	tulai|n
-bigger	membesar|v,membesarkan|v
-biji	bijik|n
-biker	mat motor|n
+bigeye scad	tulai|n
+biker or motorcycle enthusiast	mat motor|n
 bile	hempedu|n
 bilingual	dwibahasa|adj
-bill	bil api|n,rang undang-undang|n
-billion	bilion|num,milyar|num,ribu juta|num,satu bilion|num,satu ribu juta|num,sebilion|num
+bill	rang undang-undang|n
+billion	bilion|num,milyar|num,ribu juta|num
 billow	ombak|n
 bin	tong|n
-bintulu	bintulu
-binturong	binturung|n,musang turun|n,tenturun|n
-binturung	benturung|n
+bintulu a city in bintulu district	bintulu
+bintulu division	bintulu
+binturong	tenturun|n,binturung|n,musang turun|n
 bioecology	bioekologi|n
 biofluid	cecair badan|n
-biological	abang kandung|n,ayah kandung|n,bapa kandung|n,emak kandung|n,ibu kandung|n,jantina|n
-biology	biologi|n
+biological father	ayah kandung|n,bapa kandung|n
+biological mother	ibu kandung|n,mak kandung|n,emak kandung|n
+biological older brother	abang kandung|n
+biological sex	jantina|n
+biology	biologi|n,osmosis
 biophysics	biofizik|n
 biorhythm	bioritma|n
 biosphere	biosfera|n
-bird	ayam belanda|n,ayam inggeris|n,ayam piru|n,burung|n,burung randuk|n,cenderawasih|n
+bird	manuk|n,burung|n
+bird of paradise	cenderawasih|n
 birdlime	pulut|n
-birds	pipit|n
-biri-biri	bebiri|n,kambing bebiri|n,kambing biri-biri|n
-birth	beranak|v,islam baka|n,kelahiran|n,lahir|v,lahirkan|v
-birthday	hari jadi|n,hari lahir|n,selamat hari jadi|int,selamat hari lahir
-biru	sebiru|adj
+birth	kelahiran|n
+birthday	hari jadi|n,hari lahir|n
 biryani	beriani|n
 biscuit	biskut|n
-bishop	biskop|n,uskup|n
+bishop	uskup|n,biskop|n
 bismuth	bismut|n,timah wurung|n
-bitch	anjing betina|n,asu betina|n,bangsat
-bite	gigit|v,patuk|v
-bitter	pahit|adj,peria|n,petai|n
-black	anjing arau|n,anjing koreng|n,anjing kumbang|n,anjing ladang|n,aswad|adj,bolong|adj
-black-coloured	petis|n
-black-spotted	anjing sokom|n
-bladder	pundi hempedu|n,pundi kencing|n
-blade	bilah|n,candung|n,pisau cukur|n
-blame	bersesalan|v
+bitch	asu betina|n,anjing betina|n
+bite-sized cakes	kuih
+bitter	pahit|adj
+bitter bean	petai|n
+bitter gourd	peria|n
+black	aswad|adj,hitam|adj,bolong|adj,lotong|adj,langking|adj
+black and white striped dog	anjing arau|n
+black dog	anjing kumbang|n
+black sheep	kambing hitam|n
+black-coloured shrimp paste	petis|n
+black-spotted dog	anjing sokom|n
+blade	bilah|n
 bland	hambar|adj
-blank	borang|n
-blanket	berselimut|v,gebar|n,kamul|n,selimut|n
-blaze	marak|v,nyala|n
+blanket	kamul|n,selimut|n
+blaze	nyala|n
 bleach	peluntur|n
-bleed	berdarah|v
-blessing	kurnia|n,rahmat|n,restu|n
-blind	bular|adj,buta|adj
-blindly	babi buta|v,buta tuli|v
-blindness	buta warna|n,rabun ayam|n
-blink	kedip|v
+blended with meat and or vegetables	beriani|n
+blessing	rahmat|n
+blind	buta|adj,bular|adj
 bliss	kebahagiaan|n
-blissful	daulat|v
 bloated	kembung|adj
-bloc	blok komunis|n
-bloch	kebasi|n
-block	empang|v,halang|v,menampan|v,sekat|v
-blood	ab|n,darah|n,jenis darah|n,kumpulan darah|n,pemindahan darah|n,transfusi|n
-bloom	mekar|v
+bloo	saraf
+blood	darah|n
+blood group	kumpulan darah|n
+blood transfusion	transfusi|n,pemindahan darah|n
+blood type	jenis darah|n
 blooming	pengembangan|n
 blot	noda|n
 blouse	kolar|n
-blow	bertiup|v,hembus|v,puput|v,tiup|v
 blowfish	buntal|n
-blowpipe	sumpit|n
-blue	belau|adj,biru|adj,biru langit|adj,biru merak|adj,nilakandi|adj,paul|adj
+blue	biru|adj,paul|adj,belau|adj
+blue whale	paus biru|n
 blueberry	beri biru|n
 bluebottle	ubur-ubur api|n
-blunt	parap|v,tumpul|adj
-blurred	bekemayau|v
-boar	babi hutan|n
-board	landas cencang|n
-boat	bahtera|n,beciyau|v,nakhoda|n,perahu|n,sengkar|n
-bodily	cecair badan|n,peluh|n
-body	ablasi|n,anggota|n,badan|n,bangkai|n,bulu|n,jasad|n
+blunt	tumpul|adj
+boat	mudi|n,labur|v,kemudi|n,perahu|n,bahtera|n
+bodily fluid	cecair badan|n
+bodily fluids ejected through the skin to cool down the body	peluh|n
+bodily part	pangkal|n
+body	badan|n,jasad|n,tubuh|n,jasmani|n
+body hair	bulu|n,remang|n
+body part	anggota|n
 bodybuilding	bina badan|n
-boehmeria	rami|n
+boehmeria nivea	rami|n
 bohrium	bohrium|n
-boil	bisul|n,didih|v,mendidih|v,punat|n
+boil	bisul|n
 boiled	rebus|adj
 boiler	dandang|n
 boilerman	pendandang|n
-boiling	mendidih|v
 boisterous	gegap gempita|adj
-boleh	bulih|v,leh|v
-bomb	bom|n,bom atom|n,bom hidrogen|n
-bon	selamat jalan,selamat makan
-bond	bon|n,ikatan hidrogen|n,ikatan tunggal|n
+bolt	pasak|n
+bomb	bom|n
+bon app tit	selamat makan
+bon voyage	selamat jalan
+bond documentary obligation to pay a sum or to perform a contract	bon|n
 bone	tulang|n
 bonfire	unggun api|n
-bongok	ngok|adj
-bongsu	bungsu|adj
 booger	tahi hidung|n
-book	buku catatan|n,pustaka|n,tempah|v
-booking	pembukuan|n
+book collection of sheets of paper bound together contai	kitab
+book of divination or sorcery	pustaka|n
+booking the act or process of writing something down in a book or books	pembukuan|n
 bookshop	kedai buku|n
 bookstore	kedai buku|n
 bookworm	ulat buku|n
 boot	kasut but|n
-booth	barung|n,gerai|n,pondok tol|n,ruai|n
+booth	ruai|n,gerai|n,barung|n
 borax	tingkal|n
-border	imigresen|n,jidar|n,pinggir|n
-bore	gerek|v,menggerek|v
+border	tepi|n,jidar|n,pinggir|n,sempadan
+border inspection	imigresen|n
 bored	baus|adj,jelak|adj
+bored suffering from boredom	bosan|adj
 borer	penggerek|n
-boring	penggerek|n
-born	gampang|n
-bornean	kucing borneo|n,kucing merah|n,kucing merah borneo|n
-borneo	borneo
+bornean cat	kucing merah|n,kucing borneo|n,kucing merah borneo|n
+borneo	borneo,nangoi
 boron	boron|n
-borrow	pinjam|v
-borzoi	anjing serigala rusia|n,borzoi|n
-bosan	boring|adj
+borzoi	borzoi|n,anjing serigala rusia|n
 boss	tua-tua|n
-botak	butak|adj
 botany	botani|n
-both	berdua|det,depa|v,kedua-dua|det,seperti gergaji dua mata,tadah|v
+botfly larva	bot
+both	berdua|det,kedua-dua|det
 bothered	terganggu|adj
-bothering	gangguan|n
-bottle	botol|n,jebul|n
-bottled	air botol|n
-bottles	balang|n
-bottom	boti|n,punggung|n
+bottle	botol|n,jebul|n,tutup|v
+bottled water	air botol|n
+bottom	punggung|n
 bouillon	kaldu|n
-bounce	bingkas|v
-bound	batas|n
+boundary	sempadan
 bourgeois	borjuis|n
 bow	busur|n
-bowhead	paus kepala busur|n
-bowl	bokor|n,mangkuk|n
-box	celapa|n,kotak|n,peti|n
-boy	budak bandar|n,manai|n,mat jambu|n
-boyfriend	boifren|n,pakwe|n
+bowl hemispherical container used to hold	mangkuk|n
+box	peti|n,kotak|n
+boy	manai|n
+boyfriend	pakwe|n,boifren|n
 bra	coli|n
 bracelet	gelang|n
 brachylogy	brakilogi|n
 braiding	anyam|v
-brain	benak|n,kepala otak|n,otak|n
-branch	cabang|n,cawang|n,cawangan|n,dahan|n,dahan kayu|n,ranting|n
-brand	jenama|n,kesedaran jenama|n,selar|v
-brani	pulau brani
-brass	kuningan|n,loyang|n,tembaga kuning|n
+brain	otak|n,benak|n,kepala otak|n
+branch	dahan|n,cabang|n,cawang|n,cawangan|n
+brand	jenama|n
+brand awareness	kesedaran jenama|n
+brand name	jenama|n
+brass	loyang|n,kuningan|n,tembaga kuning|n
 brassiere	coli|n
-brave	berani|adj,gagah|adj
+brave	gagah|adj,berani|adj
 bravery	keberanian|n
 brazil	brazil
-bread	capati|n,paung|n,pisau paung|n,pisau roti|n,roti|n,roti paun|n
+bread	roti|n,paung|n
 breadcrumb	serdak roti|n
-breadfruit	kulur|n,sukun|n
-break	beristirahat|v,clash|v,istirahat|n,jual janji|v,leklu,pecah|v
-breakdown	bahu jalan|n
+breadfruit	sukun|n
+breakdown lane	bahu jalan|n
 breakfast	sarapan|n
-breaking	pecah masuk|n
+breaking and entering	pecah masuk|n
 breast	dada|n,payudara|n
 breath	nafas|n
-breathe	bernafas|v
-breed	pelihara|v
+breathing heavily nn any fabric used	panting
 breeze	angin|n
 breezy	sepoi|adj,sepui|adj
-breve	bref|n,tanda singkat|n
-bribe	duit kopi|n,rasuah|n,rasuahi|v
-bribes	perasuah|n
+breve	bref|n
+breve placed above a vowel	tanda singkat|n
+bribe	duit kopi|n
 brick	batu bata|n
-bride	raja sehari|n
-bridge	gertak|n,jambatan|n,jambatan gantung|n
+bride and groom	raja sehari|n
+bridge	gertak|n,jambatan|n
+bridges etc	titi|n
 brief	singkat|adj
-briefly	sebentar|adv,seketika|adv,sekilas|adv
-brigade	bomba|n,briged|n
+briefly	sekilas|adv,sebentar|adv,seketika|adv
+briefs	seluar dalam|n
+brigade	briged|n
 brigadier	brigedier|n
-bright	abiad|adj,cerlang|adj,terang|adj
-brilliant	berlian|n,gemilang|adj
-bring	baktang|v,kena|v,mencelakakan|v,ungkit|v
-brings	pembaharu|n
-brink	ambang|n
+bright	terang|adj,cerlang|adj
+bright and colourless	abiad|adj
+brilliant	gemilang|adj
+bring it on	baktang|v
+brinjal	terung
+brink	ambang|n,pinggir|n
 briquette	brikuet|n
-british	inggeris
+brisk	rancak
+british person	inggeris
 brittle	rapuh|adj
+bro	sahabat|n
 broad	babur|n
 broke	pokai|adj
-broken	luruh|v,melukut|n,pokah|adj
+broken	pokah|adj
+broken rice grains	melukut|n
 bromine	bromin|n
-bronze	gangsa|n,pahar|n,perunggu|n
-broom	penyapu|n,sapu|v
+bronze	gangsa|n,perunggu|n
+bronze or copper legged tray	pahar|n
+broom	sapu|v,penyapu|n
 broth	kaldu|n
 brothel	rumah ayam|n
-brother	abang|n,abang kandung|n,abang long|n,adik lelaki|n,berabangkan|v,bung|n
-brother-in-law	abang mantu|n
-brothers	berabang|adj
-brown	nilau|n,pungguk|n
-brown-like	kerbing|adj
-brown-nosing	kaki bodek|n
-brownish	anjing nibung|n
-brownnoser	kaki bodek|n,mat bodek|n
-browser	pelayar web|n,penyemak imbas|n
+brother	uda|n,bung|n,nana|n,engko|n
+brother male sibling	adik lelaki|n
+brown kurrajong	nilau|n
+brownish dog	anjing nibung|n
 bruise	lebam|n
-brunei	brunei,brunei darussalam,hari kebangsaan,negara brunei darussalam
-bruneian	dolar brunei,ringgit brunei
-brush	berus|n,gosok|v,menggosok|v
+brunei	brunei
+brunei darussalam the official name of brunei	brunei darussalam
 brutal	brutal|adj
 brutality	kekejaman|n
-bryde	paus bryde|n
-buah	kelepir|n
-buat	boat|v,dibuat|v,wat|v
-buatan	ai|n,kebijaksaan buatan|n,kebijaksanaan buatan|n,kecerdikan buatan|n,kepintaran buatan|n
 bucket	baldi|n
-bucket-like	limas|n
 buckle	kancing|n
 bud	taruk|n
-budak	bbnu|n
-buddhist	sami|n
+buddhist monk or priest	sami|n
 buddy	sobat|n
-budge	geming|v
 budget	bajet|n,belanjawan|n
-budgeting	pembelanjawanan|n
-buffalo	benuang|n,kerbau|n,kerbau afrika|n,uak|n
+budgeting the activity of constructing a budget	pembelanjawanan|n
+buffalo	uak|n
 buffer	penampan|n
 buffet	bufet|n
-build	bina|v,mengotai|v,susuk|n
-building	bangunan|n,empang|v,galeri|n,gedung|n,loji|n,pembangunan|n
-buka	dibuka|v
-bukan	kemain|adv
-bukit	bukit kayu hitam,bukit merah
-buku	buku nota|n,kutu buku|n
-bulan	bln|conj,bsmm
-bulb	mentol|n
-bulbul	tiak|n
+build	susuk|n
+building	wisma|n,gedung|n,bangunan|n,pembinaan|n,pembangunan|n
+bukit kayu hitam a town in kubang pasu district	bukit kayu hitam
+bukit merah	bukit merah
 bulky	sado|adj
-bullet	peluru|n,peluru sesat|n,syinkansen|n
+bullet	peluru|n
+bullet train	syinkansen|n
 bulletin	buletin|n
-buluh	buloh|n
 bumiputra	bumiputera|n
-bump	jongkol|n,singgung|v
-bun	sanggul|n
-bundle	berkas|n,tungkus|v
-bunga	puspa|n
-bunsen	penunu bunsen|n
+bump	jongkol|n
+bumpy	gerutu
+bundle	berkas|n
+bungalow	pondok|n
+bunsen burner	penunu bunsen|n
 bunting	gegantung|n
 burden	beban|n
 bureaucracy	birokrasi|n
 bureaucratic	birokratik|adj
-buried	semadi|v
-burn	bakar|v,tunu|v
-burner	penunu|n,penunu bunsen|n
-buruk	terburuk
-bus	bas|n,bas dua tingkat|n,koc|n,perhentian bas|n
-bush	belukar|n,semak|n
+burner	penunu|n
+bus	bas|n,tebas
+bus stop	perhentian bas|n
+bush	semak|n,belukar|n
 bushes	semak samun|n
-business	bisnes|n,hal|n
+business	hal|n,bisnes|n
+business owner	tauke|n
 busted	kantoi|adj
 bustling	ramai|adj
 busty	tekshar|adj
 busy	sibuk|adj
-butt	buntut|n,popor|n
+but	tetapi|conj
+but also any species of the genus mobula	pari kaluk|n
+but also includes rhinopteridae	pari burung|n
+but by a parent's marriage	tiri|adj
+but not because of being left in the sun	hangat|adj
+butt	popor|n,buntut|n
 butter	mentega|n
-butterfly	kupu-kupu|n,pari kelawar|n,rama-rama|n,rerama|n
-butterworth	bagan,butterworth
-buttocks	burit|n,punggung|n,pungkur|n
+butterfly	rerama|n,kupu-kupu|n,rama-rama|n
+butterfly ray	pari kelawar|n
+butterworth a city in penang	butterworth
+buttocks	burit|n,pungkur|n,punggung|n
 button	butang|n,kancing|n
-buy	beli|v
-buying	pembelian undi|n
+by loosening it	gembur|v
+by way of	secara|adv
+by what means	bagaimana|adv

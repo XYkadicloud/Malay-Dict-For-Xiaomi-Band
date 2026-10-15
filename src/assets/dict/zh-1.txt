@@ -1,347 +1,253 @@
-丁	abc|n,abese|n,kelekit,latin|n,lawang|n,nikotin,puding,rumawi
-丁人	latin|n,rumawi
-丁字	abc|n,abese|n
-丁字母	abc|n,abese|n
-丁字母表	abc|n,abese|n
 丁香	lawang|n
 丁香花	lawang|n
-丁鱼	sadin|v,sardin,tamban|n
-企	hajat|n,kasad,murad|n,penguin|n,sindiket|n,usahawan
+企	hajat|n,murad|n,penguin|n,kasad
 企业	sindiket|n,usahawan
 企业家	usahawan
 企业联	sindiket|n
 企业联合	sindiket|n
-企图	hajat|n,kasad,murad|n
+企图	hajat|n,murad|n,kasad
+企图心	cita-cita|n
+企望	asa|n
 企鹅	penguin|n
-吁	engah,keluh-kesah,keriau,terengah-engah,terunkap
-吁吁	engah,terengah-engah,terunkap
-吁吁的	terunkap
-吁的	terunkap
-吁短	keluh-kesah
-吁短叹	keluh-kesah
-吁短叹不	keluh-kesah
-吁短叹不安	keluh-kesah
-威	acu,agustus,ancam,bulan lapan|n,ejaan jawi,gamak,gertak|n,kuwait
-威严	agustus,bulan lapan|n
-威严的	agustus,bulan lapan|n
-威作	perusa
-威作福	perusa
-威作福的	perusa
+威	prestasi|n,gertak|n,ugut|v,ancam,acu,maruah,ugutan,mengancam
+威严	agustus
+威严的	agustus
 威信	prestasi|n
-威吓	gertak|n,mengancam,mengancamkan,ugut|v,ugutan,terancam
+威吓	gertak|n,ugut|v,ugutan,mengancam,mengancamkan
 威尼	venis
 威尼斯	venis
-威文	ejaan jawi,tulisan jawi
-威望	maruah,prestasi|n
-威特	kuwait
-威胁	acu,ancam,gamak
-威风	laram,melaram
-宁	aman dan damai,biar|v,keling,kesunyian|n,kuinin,lebih suka|v,lugu,remak
-宁人	keling
-宁可	biar|v,lebih suka|v
+威望	prestasi|n,maruah
+威权	murka|v
+威灵	murka|v
+威烈	ganas|adj
+威胁	ancam,acu
+宁	kesunyian|n,lebih suka|v,biar|v,lugu,remak
+宁可	lebih suka|v,biar|v
 宁愿	lugu,remak
-宁的	sakinat,tenteram|adj
 宁静	kesunyian|n,sunyi|adj
 宁静的	sunyi|adj
-封	batu lak,buntu,embelop,feudal,ipuh|n,katup,kedap,lak|adv
+封	sampul|n,meterai|n,lak|adv,menutupkan,katup,lampir,batu lak,pembalut
 封入	lampir
-封喉	ipuh|n
-封套	pembalut,sampul|n
+封印	sil|n
+封套	sampul|n,pembalut
 封密	meterai|n
 封建	feudal
 封建的	feudal
-封的	pengap
-封腊	batu lak,lak|adv
+封斋	ekspres|adj
+封条	sil|n
+封皮	sampul|n,sil|n
+封盖	sil|n
+封腊	lak|adv,batu lak
 封赐	menganugerahi
 封锁	menutupkan,buntu
 封锁的	buntu
 封闭	katup
-岁	berusia,daulat|v,daulat tuanku,dirgahayu|v,panjang umur|v
-币	ang,angkertas,pitis,rupiah,siling|n
-征	ciri,gejala|n,gelagat,isyarat|n,keistimewaan,lamar|v,lambang|n,melamar
-征兆	gejala|n,isyarat|n,padah,riak
-征性	simbolik
-征性的	simbolik
-征服	mengalahkan,meruntum
+岁	berusia
+岁数	umur|n
+岁时	musim|n
+征	isyarat|n,gejala|n,gelagat,padah,riak,mencukai,meruntum,mengalahkan
+征信	handal|adj
+征候	tanda|n,simptom|n
+征兆	isyarat|n,gejala|n,padah,riak
+征士	askar|n
+征战	kempen|n
+征服	meruntum,mengalahkan
+征状	simptom|n
+征程	cengkerama|n
 征税	mencukai
 征象	gelagat,padah
-态	adab|n,anarki,bentuk|n,bioekologi|n,corak,darurat|n,ekologi|n,embih
-态学	bioekologi|n,ekologi|n,kaji alam haiwan|n,kaji alam hayat|n,sinekologi|n,zooekologi|n
-态度	laku|n,olah|n,peri|n,perilaku,sikap|n,ungkapan,lagak,meminta|v
-态度对	meminta|v
-态度对待	meminta|v
-态度对待请	meminta|v
-态度对待请求	meminta|v
-愁	rayu,bersut,masyghul,nostalgia|n,sendu
-愁的	masyghul
+态	laku|n,peri|n,olah|n,sikap|n,ungkapan,perilaku
+态度	laku|n,peri|n,olah|n,sikap|n,ungkapan,perilaku
+态样	rupa|n
+愁	rayu
+愁肠	lega|adj
 愁苦	bersut
-持	abet|n,bantu,berdegil|v,durasi|n,francaisi|n,geng pelangi|n,jejenang,kapit
+愁苦演	bersut
+愁苦演说	bersut
+持	mengabadikan|v
 持久	mengabadikan|v,leka
 持久的	leka
-持有	francaisi|n
-持有人	francaisi|n
-持枪	turun senjata|n
-持枪立	turun senjata|n
-持枪立正	turun senjata|n
-持枪立正的	turun senjata|n
-持枪立正的姿	turun senjata|n
+持平	adil|adj
+持方	sisi|n
 持枪立正的姿势	turun senjata|n
-持生	vital
-持生命	vital
-持生命所	vital
-持生命所需	vital
-持生命所需的	vital
 持续	durasi|n
 持续时	durasi|n
 持续时间	durasi|n
-持者	geng pelangi|n,penyokong|n,walanon|n
-搁	akhirulkalam,bangku kaki|n,dampak|v,dampar|adj,kandas,lantar,mengetepikan,sadai
+搁	sakat|v,dampak|v,dampar|adj,lantar,kandas,sadai,sanggat,terkandas
 搁在	mengetepikan
 搁在一	mengetepikan
 搁在一边	mengetepikan
-搁浅	dampak|v,dampar|adj,kandas,lantar,sadai,sakat|v,sanggat,terkandas
-搁笔	akhirulkalam
+搁板	para|n
+搁浅	sakat|v,dampak|v,dampar|adj,lantar,kandas,sadai,sanggat,terkandas
 搁置	terlantar
 搁脚	bangku kaki|n
 搁脚物	bangku kaki|n
-极	kutub|n,sangat|adv,aktif|adj,anod|n,bandarkan|v,beruang kutub|n,bukan kepalang,cendarawasih
+极	sangat|adv,kutub|n,mercu|n,kemuncak,suntuk
 极上	mughayat
 极上的	mughayat
 极乐	cendarawasih,unggas dewata
 极乐鸟	cendarawasih,unggas dewata
-极大	hebat|adj,hutan rimba|n
-极大的	hebat|adj,hutan rimba|n
-极大的森	hutan rimba|n
+极大	hebat|adj
+极大的	hebat|adj
 极大的森林	hutan rimba|n
-极密	serit
-极密的	serit
-极密的梳	serit
+极好	elok|adj
 极密的梳栉	serit
 极峰	kemuncak
 极度	bukan kepalang
 极度的	bukan kepalang
 极点	mercu|n
-极熊	beruang kutub|n
-极狐	rubah artik|n
-极的	bandarkan|v,diabadikan|v,diabahkan|v,diabaikan|v,diabar|v,diabdikan|v,diabjadkan|v,diabsahkan|v
 极短	senting
 极短的	senting
-极矿	kalamin|n
-极端	gelemat|adj,nian,pelampau|n,ultrakonservatif|adj
-极端保	ultrakonservatif|adj
+极端	gelemat|adj,pelampau|n,nian
 极端保守	ultrakonservatif|adj
 极端保守的	ultrakonservatif|adj
 极端分	pelampau|n
 极端分子	pelampau|n
 极端地	gelemat|adj
 极端的	nian
+极致	mercu|n
+极角	perang mulut|n
 极贪	hina-hina
 极贪贱	hina-hina
 极贪贱的	hina-hina
 极迟	suntuk
-极雁	teritip|n
-极露	paus kepala busur|n
-极露脊	paus kepala busur|n
-极露脊鲸	paus kepala busur|n
-梁	bendul,gelegar,batang hidung,beremban,jeriau,monorel|n,pangkal hidung,rasuk|v
+极限	had|n
+梁	bendul,jeriau
+梁木	sinar|n
 梁桁	jeriau
-洁	beres,hening,kebersihan,kelulu,kudus|adj,metah,mubarak,muhsin
-洁白	metah,putih macam kapas,putih-metah
-洁白如	putih macam kapas
-洁白如棉	putih macam kapas
+梁颤	gelegar
+梁颤动	gelegar
+洁净	suci|adj
+洁白	metah,putih-metah
 洁白如棉花	putih macam kapas
 洁白的	metah,putih-metah
-洁的	beres,hening,kelulu,kudus|adj,mubarak,muhsin,murni,rapi
 犁	bajak|n,tenggala|n,membajak,tenggalakan
 犁地	membajak
 犁田	tenggalakan
-省	anak saudara|n,angkasa,cermat|adj,iktisad,irit,jimat|adj,langkau,mencermatkan
-省人	selap
-省人事	selap
-省略	anak saudara|n,angkasa,langkau,telerang|n,tepung penaik|n
-省的	cermat|adj
-码	bagan,ela|n,jeti|n,kata laluan|n,kod,nombor|n,pangkalan,pelabuhan|n
-码头	jeti|n,pangkalan,pelabuhan|n,bagan
-礁	terumbu,kandas,terumbu karang|n,tukun|n
-禁	ara|n,berbuka|v,beser,buka puasa,bulan puasa|n,cegah|v,celung,haram|adj
-禁令	larangan|n,larangkan|v,nahi
-禁忌	pantang|n,pemali|n
-禁戒	ara|n,pantang|n
-禁欲	tasawuf|n
-禁欲神	tasawuf|n
-禁欲神秘	tasawuf|n
-禁欲神秘主	tasawuf|n
-禁欲神秘主义	tasawuf|n
-禁止	cegah|v,larang|v,larangan|n,larangkan|v,mencegah,menegah|v,mengharamkan,pantang|n
-禁止的	haram|adj
+省	telerang|n,anak saudara|n,tepung penaik|n,angkasa,langkau
+省事	faham|v
+省份	wilayah|n
+省略	telerang|n,anak saudara|n,tepung penaik|n,angkasa,langkau
+码	pelabuhan|n,jeti|n,pangkalan
+码头	pelabuhan|n,jeti|n,pangkalan
+码子	nombor|n,kaunter|n
+码字	kaunter|n
+礁	terumbu
+禁	cegah|v,tegah|v,puasa|n,pemali|n,pantang|n,larang|v,larangan|n,menegah|v
+禁令	larangan|n,larangkan|v
+禁令禁	larangkan|v
+禁令禁止	larangkan|v
+禁制	sekatan|n
+禁忌	pemali|n,pantang|n
+禁戒	pantang|n
+禁戒无花果	ara|n
+禁止	cegah|v,tegah|v,pemali|n,pantang|n,larang|v,larangan|n,menegah|v,terlarang|adj
 禁用	pemali|n
-禁的	beser,mutlak|adj
 禁食	puasa|n,bulan puasa|n
 禁食月	bulan puasa|n
-突	amuk|v,antuk|v,bancut,bimbing,conggah,dadak,geseran,jerangkang
-突入	lucup,sampuk
-突出	bimbing,conggah,jongkar,menganjur,persil,rodok,sembul,sempuk
-突出的	bancut,monggok,sempal,songil,telanjur,jerangkang
-突击	amuk|v,menyergap,sergap,komando
+突	tiba-tiba|adv,amuk|v,terfikir|v,terkantuk|v,sampuk,lucup,dadak,sergap
+突入	sampuk,lucup
+突出	sulur|v,bimbing,rodok,persil,sempuk,menganjur,sembul,terpersil
+突出的	monggok,sempal,telanjur,bancut,songil
+突击	amuk|v,sergap,menyergap,komando
 突击队	komando
+突发事件	kecemasan|n
 突吻	paus paruh|n
 突吻鲸	paus paruh|n
-突然	dadak,konyong,sekonyong-konyong,terfikir|v,terkantuk|v,tiba-tiba|adv,mengejut,tertegun
+突然	tiba-tiba|adv,terfikir|v,terkantuk|v,dadak,konyong,sekonyong-konyong,mengejut,tertegun
 突然停	tertegun
 突然停止	tertegun
 突然的	mengejut
-突的	jungur,luncung
-突的鼻	jungur
-突的鼻子	jungur
-突破	toberos,tembus|v
+突破	tembus|v,toberos
+突破口	celah|n
 突破的	tembus|v
-突而	simbar
-突而成	simbar
-突而成的	simbar
-突而成的大	simbar
-突而成的大浪	simbar
-突起	sunti
 突露	mangkih
 羁	siding
 羁绊	siding
-老	lanjut|adj,ahli|n,ak,allahi,bahari,berida,bongkok sabut,bos|n
-老人	orang tua|n,gelabir,gelambir
-老人颈	gelabir,gelambir
-老人颈部	gelabir,gelambir
-老人颈部下	gelabir,gelambir
-老人颈部下垂	gelabir,gelambir
-老人颈部下垂的	gelabir,gelambir
-老人颈部下垂的皮	gelabir,gelambir
-老人颈部下垂的皮肉	gelabir,gelambir
+老	lanjut|adj,tua|adj,guru|n,tikus|n,mencit|n,tetikus|n,bos|n,macan|n
+老人	orang tua|n
 老伯	ak
+老例	adat|n
+老儿	baba|n,laki|n
+老公	laki|n
 老兵	veteran
 老咕	tengkerong
 老咕鱼	tengkerong
-老天	allahi
-老天爷	allahi
-老天爷在	allahi
+老大	tua-tua|n
+老大爷	paman|n
 老天爷在上	allahi
 老头	nyanyuk|adj
 老头儿	nyanyuk|adj
-老妇	nyal
-老妇或	nyal
-老妇或贵	nyal
-老妇或贵妇	nyal
-老妇或贵妇的	nyal
-老妇或贵妇的称	nyal
 老妇或贵妇的称号	nyal
-老师	cikgu|n,guru|n,guru darjah
-老式	periuk belanga|n
-老式电	periuk belanga|n
-老式电话	periuk belanga|n
-老式电话服	periuk belanga|n
-老式电话服务	periuk belanga|n
+老妈	bu|n
+老婆	bini|n
+老子	baba|n
+老实	jujur|adj
+老师	guru|n,cikgu|n
 老当	tua suntuk
 老当益	tua suntuk
 老当益壮	tua suntuk
+老总	tua-tua|n
+老朋友	tempoh|n
 老朽	bongkok sabut
 老朽驼	bongkok sabut
 老朽驼背	bongkok sabut
 老板	bos|n
+老梗	buruk|adj
+老父	baba|n
+老爸	baba|n
+老爹	baba|n
+老玉米	jagung|n
 老百	jalata,rakyat jelata
 老百姓	jalata,rakyat jelata
-老的	tua|adj,bahari,kolot,kuno|adj,purba|adj
-老练	ahli|n,berida,pacak,ulung
-老练的	berida,pacak,ulung
+老的	tua|adj
+老练	ahli|n,ulung,berida
+老练的	ulung,berida
+老练的尖的棍棒	pacak
 老练者	ahli|n
 老胡	nyanyuk|adj
 老胡涂	nyanyuk|adj
-老虎	harimau|n,harimau belang|n,harimau dandi|n,harimau loreng|n,harimau terung kasau|n,macan|n,macan loreng|n,pak belang|n
-老虎的	jadi-jadian
-老虎的人	jadi-jadian
+老脸	muka|n
+老茧	pun|adv
+老虎	macan|n,rimau|n,harimau|n,pak belang|n,macan loreng|n,harimau dandi|n,harimau belang|n,harimau loreng|n
 老衰	rungkuh
-老金	pencen sara
-老鼠	mancit,mencit|n,tetikus|n,tikus|n,hidung dicium pipi digigit,sembat tikus
-老鼠假	hidung dicium pipi digigit
-老鼠假慈	hidung dicium pipi digigit
-老鼠假慈悲	hidung dicium pipi digigit
-茁	longgor,sulur|v
+老鼠	tikus|n,mencit|n,tetikus|n,mancit
+茁	sulur|v
 茁芽	sulur|v
 茁长	longgor
-蚁	anai-anai|n,aragas,busut|n,busut betina,busut jantan,kelekatu,kerangga,larun
-蚁一	sentada
-蚁一种	sentada
-蚁之	aragas
-蚁之一	aragas
-蚁之一种	aragas
-蚁冢	busut|n,busut betina,busut jantan
+蚁	busut|n
+蚁冢	busut|n
 蚁墩	busut|n
 蚁窠	busut|n
-要	kan|adv,mahu|v,mau-mahu,minta|v,nak|prep,sualak,adi|n,akan datang
-要不	jangan-jangan
-要人	mahajana,pembesar
-要内	inti
-要内容	inti
-要回	buruk siku
-要因	faktor utama
-要因素	faktor utama
-要地	secara ringkas
+要	nak|prep,kan|adv,mahu|v,minta|v,unsur|n,sualak,mau-mahu,kehendak
+要人	pembesar,mahajana
+要加牛奶	putih|adj
 要塞	puri|n
 要寨	kubu|n
-要扑	dekam
-要扑过	dekam
-要扑过去	dekam
+要得	denda|n,baik|adj
 要旨	simpulan|n
-要来	akan datang
-要来临	akan datang
-要来临的	akan datang
-要求	kehendak,meminta|v,memohon,mengaku|v,mengeting,menghendaki,menuntut,permintaan
-要点	atad,pati,buku bicara
-要物	pengokot|n
-要物产	pengokot|n
-要物产商	pengokot|n
-要特	ciri penting
-要特点	ciri penting
-要由	petrol|n
-要由揮	petrol|n
-要由揮發	petrol|n
-要由揮發性	petrol|n
-要由揮發性易	petrol|n
-要由揮發性易燃	petrol|n
-要由揮發性易燃的	petrol|n
-要由揮發性易燃的液	petrol|n
-要由揮發性易燃的液態	petrol|n
-要由揮發性易燃的液態烴	petrol|n
-要由揮發性易燃的液態烴類	petrol|n
-要由揮發性易燃的液態烴類組	petrol|n
-要由揮發性易燃的液態烴類組成	petrol|n
-要的	bakal|n,kerata,mustahak,taknak|v,terutama,vital
-要的东	taknak|v
-要的东西	taknak|v
-要粮	ruji
-要粮食	ruji
-要素	faktor,pati,perawis,unsur|n,zat
-谁	siapa|pron,barang siapa|pron,buat siapa,entah
+要样儿	cara|n,rupa|n
+要求	kehendak,pinta|n,meminta|v,mengaku|v,memohon,usulkan,mengeting,permintaan
+要点	pati,atad
+要略	lebih kurang|adv
+要素	unsur|n,pati,faktor,perawis,zat
+要紧	perlu|v
+要约	tawaran|n
+谁	siapa|pron
+谁的	siapa|pron
 谁知	entah
 谁知道	entah
-躁	bengkeng,bingas,galgal,garang|adj,merunsing,muring
-躁的	bingas,galgal,garang|adj,muring
-送	hantar|v,menghantar|v,menghantarkan,angkut|v,antar,bingkis,kawal|v,kirim|v
-送的	percit|v,percuma|adj
-送礼	bingkis,membingkis
-送礼物	bingkis,membingkis
-送给	lelat
-送给新	lelat
-送给新娘	lelat
-送给新娘的	lelat
-送给新娘的栳	lelat
-送给新娘的栳叶	lelat
-送者	mengawal,penghantar,pengiring
-锁	ibu kunci|n,anak kunci|n,buntu,mengunci,menutupkan,menyelak,pingit,rantaikan
+送	hantar|v,menghantar|v,menghantarkan,bingkis
+送礼	bingkis
+锁	ibu kunci|n,anak kunci|n,pingit,sengkela,rantaikan,menyelak
 锁上	mengunci
-锁住	menyelak,rantaikan,sengkela
+锁住	sengkela,rantaikan,menyelak
 锁匙	anak kunci|n
-锁的	buntu
+锁掣	menadah|v
 锁闭	pingit
-阁	kabinet|n,lamunan|n,menir,paduka|n,yang amat mulia
-阁下	menir,paduka|n,yang amat mulia
+阁下	paduka|n,menir,yang amat mulia
 颁	menganugerahi
 颁赐	menganugerahi
-鲁	ceroboh|adj,gegabah,kurang ajar|adj,megak,peru
-鲁莽	megak,ceroboh|adj,gegabah,kurang ajar|adj
-鲁莽的	ceroboh|adj,gegabah,kurang ajar|adj
+鲁	megak
+鲁莽	ceroboh|adj,megak,kurang ajar|adj,gegabah
+鲁莽的	ceroboh|adj,kurang ajar|adj,gegabah

@@ -23,7 +23,7 @@ hadat	hadat		委员会，议院
 hadiah	hadiah	n	礼物	A gift or present.
 hadiahi	hadiahi	v	礼物	To gift someone.
 hadiahkan	hadiahkan	v	礼物	To gift something.
-hadir	hadir	v	有在，到的，出席的，在场的
+hadir	hadir	v	有在，到的，出席的，在场的	to be present
 hadirat	hadirat	n	出席，到席，陛下	presence
 hadirin	hadirin		到会的人，出席者
 hadis	hadis	n	穆罕默德言行录	hadith
@@ -44,7 +44,6 @@ hak	hak	n	权利	right  truly
 hakam	hakam		仲裁者，调解人
 hakasasimanusia	hak asasi manusia	n	人权	human right
 hakcipta	hak cipta	n	版权	copyright
-hakcipta	hakcipta		版权
 hakikat	hakikat		真实的，真正的
 hakim	hakim	n	法官，审判官	A judge:
 hakis	hakis	v	浸蚀，腐蚀	to erode (of land)
@@ -101,7 +100,7 @@ hampirhampir	hampir-hampir		差一点要，几乎要
 hampus	hampus		责骂
 hamun	hamun		恶言，骂人的话，咒骂
 hana	hana	adj	空的	empty and quiet
-hanat	hanat	adj	两者择一
+hanat	hanat	adj	两者择一	alternative form of lahanat
 hancing	hancing		臭气，恶味
 hancur	hancur	v	碎的，粉碎的，溶化，溶解	to dissolve; to melt (to become incorporated into a liquid).
 hancurlebur	hancur lebur		全部粉碎，瓦解
@@ -165,17 +164,17 @@ hariminggu	hari minggu		星期日
 harirabu	hari rabu		星期三
 hariraya	hari raya	n	节日，大日子	holiday  festival
 harirayaaidilfitri	hari raya aidilfitri		Expression Interacti	Eid al-Fitr (feast celebrated after the end of Ramadan)
-harirayahaji	hari raya haji		同义词
-harirayakorban	hari raya korban		同义词
-harirayapuasa	hari raya puasa		同义词
+harirayahaji	hari raya haji		同义词	synonym of Hari Raya Aidiladha
+harirayakorban	hari raya korban		同义词	synonym of Hari Raya Aidiladha
+harirayapuasa	hari raya puasa		同义词	synonym of Hari Raya Aidilfitri
 haris	haris		男人	a male given name from Arabic
 harisabtu	hari sabtu		星期六
 harisatu	hari satu		星期一	Monday
 hariselasa	hari selasa		星期二
-harith	harith		两者择一
+harith	harith		两者择一	alternative form of Haris
 haritiga	hari tiga		星期三	Wednesday
 harmonika	harmonika		口琴	harmonica: a musical wind instrument with a series of hol…
-haron	haron		两者择一
+haron	haron		两者择一	alternative form of Harun
 harta	harta	n	财产，财富，产业	property
 hartabenda	harta benda		财产，财物，一般的财产
 hartal	hartal	n	关闭 使终止	The closure of shops and offices  typically as a strike.
@@ -198,13 +197,13 @@ hasutan	hasutan		煽动
 hati	hati	n	心	liver (organ of the body)
 hatibatu	hati batu		顽固，固执
 hatta	hatta		于是，然后，其次，接着
-hatur	hatur	v	荒废的
+hatur	hatur	v	荒废的	obsolete form of atur
 haus	haus	adj	口渴，擦损，消耗	thirsty
 hawa	hawa	n	空气，天气，气候	atmosphere  air.
 hawadingin	hawa dingin		冷气
 hawanafsu	hawa nafsu		欲，欲望，性欲
 hawar	hawar		流行病，传染病
-hayam	hayam	n	荒废的
+hayam	hayam	n	荒废的	obsolete form of ayam
 hayatumum	hayat umum		赠品，报告，公布
-hayun	hayun	v	两者择一
+hayun	hayun	v	两者择一	alternative form of ayun
 hazmi	hazmi		姓	a surname

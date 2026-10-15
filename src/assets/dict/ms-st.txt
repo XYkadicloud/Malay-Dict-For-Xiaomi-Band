@@ -8,16 +8,16 @@ stanum	stanum	n	锡	tin (element)
 statik	statik	adj	静电	static
 statistik	statistik	n	统计量 统计的	statistic:
 statistikgunaan	statistik gunaan	n	应用统计  应用统计学	applied statistics
-steng	steng	n	两者择一
+steng	steng	n	两者择一	alternative form of setengah
 stereotaip	stereotaip	n	铅版	stereotype
 stesen	stesen	n	车站	station:
 stesenminyak	stesen minyak	n	加油站	gas station  petrol station  service station
-stesyen	stesyen	n	两者择一
+stesyen	stesyen	n	两者择一	alternative form of stesen (“station”)
 stetoskop	stetoskop	n	听诊器 用听诊器诊断	stethoscope
 stik	stik	n	牛排	steak
 stim	stim	n	蒸汽	steam  hot gaseous form of water
 stor	stor	n	商店	store
-str	str		词首字母缩略词
+str	str		词首字母缩略词	initialism of Sumbangan Tunai Rahmah (“Rahmah Cash Donation”)
 strata	strata	n	层	stratum:
 strategi	strategi	n	战略	strategy
 strategik	strategik	adj	战略的	strategic

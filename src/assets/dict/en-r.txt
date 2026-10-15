@@ -1,361 +1,308 @@
-rabbit	arnab|n,kucing belanda|n,kucing tapai|n
-rabu	arbaa
-raccoon	anjing rakun|n
-race	bangsa|n,lumba|n,lumba lari|n,ras|n
+r face-to-face with	vis-a-vis
+rabbit	arnab|n,kucing tapai|n,kucing belanda|n
+raccoon dog	anjing rakun|n
+race	lumba|n
 racer	pelumba|n
-racial	diskriminasi kaum|n,diskriminasi ras|n
+racial discrimination	diskriminasi ras|n,diskriminasi kaum|n
 racism	rasisme|n
 racist	rasis|adj
 racket	raket|n
 radio	radio|n
 radiometer	radiometer|n
-radish	lobak|n
 radium	radium|n
 radon	radon|n
 raft	rakit|n
 rafter	kasau|n
 rag	lap|n
-rain	hujan|n,hujan asid|n,mendung|n
-rainbow	balingkawat|n,bangun-bangun|n,benang raja|n,bianglala|n,ganu|n,gegana|n
+rain	hujan|n
+rain cloud	mendung|n
+rainbow	ganu|n,teja|n,lanum|n,gegana|n,kuwung|n,mangun|n,bianglala|n,ular danu|n,balingkawat|n,benang raja|n
 raincoat	baju hujan|n
-raindrops	tempias|n
+raindrops that spatter or splash in	tempias|n
 rainforest	hutan hujan|n
 rainstorm	hujan ribut|n
-rainy	musim hujan|n
-raise	angkat|v,julang|v,menjulang|v,naikkan|v
-raised	panggau|n
-raisin	kismis|n,zabib|n
-raja	raja-raja
+rainy season	musim hujan|n
+raisin	zabib|n,kismis|n
 rajab	rejab
-rakyat	grs
-rakyatkan	dirakyatkan|v,merakyatkan|v
-ram	segok|v
-ramadan	ramadhan
-rambutan	moktan|n,rambutan|n
+ramadan	bulan puasa|n
+rambutan	rambutan|n
 ramie	rami|n
-rampart	berkota|v,berkotakan|v,mengotakan|v
-rampok	dirampok|v,merampok|v
 rancid	basi|adj,pedar|adj,perat|adj
 random	acak|adj,rawak|adj
-randomly	acak-acakan|adv,mengacak|v
-rang	ruu|n
+randomly	acak-acakan|adv
 range	julat|n
 rank	darjah|n,pangkat|n
-ransack	barek|v
-ransom	tebus|v
 rape	rogol|n
-rapi	terapi|adj
-rapid	cepat|adj,lrt
+rapid	cepat|adj,rancak
+rarely necessary	si|art
 rash	ruam|n
-rasuahi	dirasuahi|v,merasuahi|v
 rat	tikus|n
-rate	kadar|n,kepecutan|n
+rate	kadar|n
 rather	agak|adv
 rating	penilaian|n
 ratio	kadar|n,nisbah|n
 ration	bekal|n
 rational	rasional|adj
 ratoon	pucuk|n
-rattan	lampit|n,rotan|n,siring|n,takraw|n
-raw	bakal|n,mentah|adj,ulam|n
-ray	pari|n,pari bendera|n,pari burung|n,pari kaluk|n,pari karan|n,pari kelawar|n
-raya	hari raya haji,hari raya korban,hari raya puasa,pru
-razor	pisau cukur|n
-rd	keadaannya|n
-reach	jangkau|v,tuju|v
+rattan	rotan|n
+rattan mat	lampit|n
+raw	mentah|adj
+raw material	bakal|n
+raw vegetable dish eaten with boiled rice	ulam|n
+ray	sinar|n
+ray marine fish with a flat body	pari|n
+razor blade	pisau cukur|n
 reaction	tindak balas|n
-read	baca|v,buta huruf|adj,membaca|v
 reader	pembaca|n
 reading	bacaan|n
-ready	reda|adj,siap|adj,tunai|adj
-real	hartanah|n,realiti|n,sejati|adj,sungguh|adj
-reality	realiti|n,realiti maya|n
+ready	siap|adj,tunai|adj
+ready with honest intentions to do something	reda|adj
+real	sejati|adj,sungguh|adj
+real estate	hartanah|n
+real property	hartanah|n
+reality	realiti|n
 really	benar|adj,memang|adv
 realm	darul|n
-rear	buntut|n,mudi|n,pelihara|v,punggung|n
-reason	akal|n,alasan|n,kenapa|adv,sebab|conj
-reasonable	keraguan munasabah|n,masuk akal|adj
+rear	mudi|n,punggung|n
+rear end	buntut|n
+reason	akal|n,alasan|n
+reasonable	masuk akal|adj
+reasonable doubt	keraguan munasabah|n
+reassurance or emphasis	lah|part
 rebel	pemberontak|n
-rebound	bingkas|v,lenting|v
-recede	susut|v
-receive	menerima|v,tadah|v,terima|v
-receiving	pencen|adj
+receipt written acknowledgment that a specified article	resit
+receive or absorb	kapasiti|n
 recently	baru|adj
-recess	masa rehat|n,relung|n
+recess	relung|n,masa rehat|n
 recipe	resipi|n
-recitation	pengajian|n,pengucapan|n
-reciting	tadarus|n
+recitation	pengucapan|n
+recitation of qur'an	pengajian|n
 reckless	semberono|adj
 reckoning	perhitungan|n
-recognise	cam|v
-recognition	itulah tu
 recollection	kenangan|n
-recommendation	perakuan|n,syor|n
-reconcile	rujuk|v
-record	rakam|v,untuk rekod
+recommendation	perakuan|n
 recording	rakaman|n
 recovery	pemulihan|n
 recreation	rekreasi|n
-recreational	dadah|n
-recreations	berekreasi|v
+recreational drugs	dadah|n
 rectangle	segiempat tepat|n
-rectify	membetulkan|v
-red	anjing pandan|n,bendera merah|n,berma|adj,bulan sabit merah,laut kulzum,laut merah
-red-headed	tedung ranggas|n
-redeem	tebus|v
-reducing	agen penurunan|n
-reduplication	sangat-sangat|adv
+red	berma|adj,merah|adj
+red crescent	bulan sabit merah
+red dog	anjing pandan|n
+red flag	bendera merah|n
+red panda	panda merah|n
+red sea	laut merah,laut kulzum
+red-headed krait	tedung ranggas|n
+reducing agent	agen penurunan|n
 reed	teberau|n
-reef	terumbu karang|n,tukun|n
-refer	budak baru nak up|n
+reef	tukun|n
+reel	kili-kili|n
 reference	rujukan|n
 refinery	penapisan|n
 refining	penapisan|n
 reflection	renungan|n
 reforestation	penghutanan semula|n
-reform	baharui|v,pembaharu|n,pembaharuan|n,reformasi|v,reformasi agraria|n,reformasi pendidikan|n
-reformasi	direformasi|v,mereformasi|v
-reformation	pembaharuan|n
-reformist	reformis|n
-refrigerator	lemari es|n,peti air batu|n,peti ais|n,peti sejuk|n
-regale	santap|v
-regard	peri|n
+refrigerator	peti ais|n,lemari es|n,peti sejuk|n,peti air batu|n
+regarde	persen
+regarded as an ideal of woman	sita
 regarding	tentang|prep,terhadap|prep
-regardless	nenda|n,tanpa mengira|prep
-regas	diregas|v,meregas|v
-regat	diregat|v,meregat|v
-regatta	regata|n
-rege	reggae|n
+regardless of	tanpa mengira|prep
 regency	kabupaten|n
 regent	bupati|n
-regime	rejim|n
+reggae	rege|n
 regiment	rejimen|n
-region	kedaerahan|adj,rantau|n,seringat
+region	rantau|n
+regional	kedaerahan|adj
 register	daftar|n
-regret	menyesal|v,menyesali|v,sesal|n,sesalan|n,sesali|v
+regret	sesal|n,sesalan|n
 regretfulness	kesesalan|n
-regretting	penyesalan|n
-regular	langgan|v
-regularly	sering|adv
+regularly many times	sering|adv
 rehearsal	raptai|n
 reindeer	rusa kutub|n
 reject	buang|v
-rejimen	ramd
-relating	automotif|adj,bandaran|adj,jelata|adj,kebenuaan|adj,kehutanan|n,keislaman|adj
-relation	perhubungan|n,perkaitan|n
-relations	kekitaan|adj
+relating to	prasiswazah|adj,pascasiswazah|adj
+relating to continents	kebenuaan|adj
+relating to forestry of business	kehutanan|n
+relating to islam	keislaman|adj
+relating to lineage or genealogy	kesalasilahan|adj
+relating to nusantara	kenusantaraan|adj
+relating to or based on political parties	kepartian|adj
+relating to or characteristic of a nation	nasional|adj
+relating to relations with people of one's kind	kekitaan|adj
+relating to socialism	sosialis|adj
+relating to the people or the citizens of the country	kerakyatan|adj
+relating to the police	kepolisan|adj
+relating to towns or cities	bandaran|adj,perbandaran|adj
+relation	perkaitan|n,perhubungan|n
 relationship	hubungan|n
-relative	kerelatifan|n
-relativity	relativiti|n
-relax	rilek|v
-relaxes	rehat|n
-released	terlepas|v
+relative	relatif|adj
+relativity	relativiti|n,kerelatifan|n
 relevant	relevan|adj
 reliability	keandalan|n
 reliable	andal|adj,handal|adj
 relieved	lega|adj
-religion	agama|n,din|n,syinto,taifah|n
-religious	penunggang agama|n
-reload	muat semula|v
-reluctant	enggan|adv,liat|adj,segan|adj
-remain	geming|v,membisu|v
-remainder	lebih|adv,selebih|n,selebihnya|pron
-remaining	lestari|adj
+religion system of beliefs dealing with soul	din|n,agama|n
+reluctant	liat|adj,segan|adj,enggan|adv
+remainder	lebih|adv
+remaining the same	lestari|adj
 remains	sisa|n
-remark	perasan|v
-remember	ingat|v
 remembrance	kenangan|n
-reminder	ikhtiyat|n
 remnant	ketinggalan|n
-remote	tempat jin buang anak|n,terpencil|adj
-removal	ablasi|n,penanggalan|n
-remove	kikis|v,nyahfros|v
+remote	terpencil|adj
+remote and desolate place	tempat jin buang anak|n
+removal	penanggalan|n
 rennet	renet|n
 renowned	sohor|adj
-rent	menyewa|v
-rented	sewa|adj
 renter	penyewa|n
-renung	merenungi|v
-repair	baharui|v
-repairing	woksyop|n
-repeat	ulang|v
-repeated	meraba-raba|v
-repeatedly	mengacah-acah|v,tertoleh-toleh|v,tikam-tikam|v
+reorganise	rombak|v
+repeated uncertain searching by touch	meraba-raba|v
 repent	taubat|v
-repet	repek|v
-replace	ganti|v,salin|v
-reply	balas|v,jawab|v,sahut|v
-report	lapor|n
+report	lapor|n,artikel|n,makalah|n,rencana|n
 reportedly	konon|adv,kononnya|adv
-represent	merupakan|v
-representation	kahkah
 representative	wakil|n
+representing malaysia-singapore malay	nasik lemak|n
+representing schwa-variety malay	ape|pron,kete|n,camne|adv,mende|adv,amende|pron
 reprobate	laknatullah|n
 reproduction	pembiakan|n
-republic	republik|n,republik afrika tengah,republik congo,republik czech,republik dominika,republik rakyat china
+republic of the congo	republik congo
 republicanism	republikanisme|n
-republik	repablik|n
-request	minta|v,mohon|v,pinta|n,tarik balik|v
 research	penyelidikan|n
-resembling	kekotaan|adj,laksana|prep
-reserve	rizab|n,tempah|v
-reside	tinggal|v
-residen	residen|n
-residence	graha|n,pesanggerahan|n
+resembling	laksana|prep
+resembling or characteristic of a city	kekotaan|adj
+reserve	rizab|n
 residency	kedudukan|n
 resident	penduduk|n
-residents	kariah|n
 residue	sisa|n
 resin	damar|n
-resolute	tegas|adj
-resolution	azam|n,leraian|n,resolusi|n
-resolve	tekad|n
+resolute having a strong will or resolve to	nekad
+resolute unwavering in attitude	tegas|adj
+resolution	azam|n,leraian|n,resolusi|n,keputusan
+resolve	azam|n,tekad|n
+resounding	bahana|n
 respectful	hormat|adj
 respective	masing|det,masing-masing|adj
 respiration	nafas|n
-respond	balas|v,sahut|v
-response	balasan|n,waalaikumussalam
+resplendent	gemilang|adj
+response	balasan|n
 responsibility	tanggungjawab|n
-responsible	berwajib|v,jamin|v
-rest	beradu|v,berehat|v,beristirahat|v,istirahat|n,jeda|v,kawasan rehat|n
-restaurant	mekdi,restoran|n
-resthouse	peristirahatan|n,pesanggerahan|n,rumah rehat|n
-resting	bilik rehat|n
-restless	belisah|adj,resah|adj
+rest	rehat|n
+rest area	kawasan rehat|n
+restaurant	cef|n,restoran|n,ketua jurumasak|n
+resthouse or residence for government use	pesanggerahan|n
+restless	resah|adj,belisah|adj
 restoration	restorasi|n
-restore	rujuk|v
-restriction	batas|n,sekatan|n
+restriction	sekatan|n
 restroom	bilik air|n
-result	akibat|n,petikan|n
-resume	lanjutkan|v,menyambung|v
+result	akibat|n
+retail store	kedai runcit|n
 retailer	toko|n
 retarded	oku|adj
-retreat	khalwat|n,undur|v
-return	kembali|v,mengembalikan|v,pulang|v
-returning	balik kampung|n
-revenge	balas dendam|v
+retreat	khalwat|n
+return	mengembalikan|v
+returning home to meet one's family and relatives	balik kampung|n
+revamp something	rombak|v
 reverence	bakti|n
 reverie	lamunan|n
-reverse	gostan|v
 reversed	songsang|adj
+revise	rombak|v
 revolt	rusuhan|n
-revolution	pemberontakan|n,revolusi|n
-revolve	edar|v
+revolution	revolusi|n,pemberontakan|n
 reward	habuan|n,pahala|n
 rhenium	renium|n
 rhinoceros	badak|n
 rhinology	rinologi|n
-rhinoptera	pari bendera|n
+rhinoptera adspersa	pari bendera|n
 rhodium	rodium|n
-rhythm	rentak|n,ritma|n
+rhythm	ritma|n,rentak|n
 rial	rial|n
 rib	tulang rusuk|n
-rice	bendang|n,bepang|n,beras|n,bertih|n,bihun|n,huma|n
-rice-based	lauk|n
-rich	berada|adj,kaya|adj,kaya raya|adj,mampu|adj
-rickshaw	beca|n,lancia|n
-riddle	teka-teki|n
-ride	berbasikal|v,berkuda|v,tumpang|v
+rice	tangkai|n
+rice cooked by either steaming or boiling	nasi|n
+rice cooker	periuk nasi|n
+rice field	bendang|n
+rice hull	sekam|n
+rice husk	sekam|n
+rice noodle	bihun|n
+rice plant	padi|n
+rice vermicelli	bihun|n
+rice weevil	kutu beras|n
+rice with side dishes added such as meat and vegetables	nasi campur|n
+rich	kaya|adj,mampu|adj,berada|adj
+rich in proteins	sera,serum
+rickshaw	lancia|n
+riddle a verbal puzzle	teka-teki|n
 ridge	permatang|n
-ridicule	bergarah|v,mengatai|v
-riding	pelarian|n
-ridzuan	ridzuan
-rig	abah-abah|n,pelantar|n
-rigging	laberang|n
-right	adil|adj,baiklah|int,hak|n,hak asasi manusia|n,kanan|n,padan muka
-rights	berhak|adj
+rig	pelantar|n,abah-abah|n
+right	hak|n,adil|adj,kanan|n,patut|adj
+right whale	paus sikat|n
+right-wing	sayap kanan|adj
+rightist	sayap kanan|adj
 rim	pinggir|n
-ring	cincin|n,jari manis|n
-ringgit	hingget,ringgit|n,ringgit malaysia
+ring	hunus|v,cincin|n
 ringworm	kurap|n
-rinse	bilas|v
-riot	kerusuhan|n,rusuhan|n
+riot	rusuhan|n,kerusuhan|n
 riotous	tenar|adj
-rip	bertas|v
-ripple	kocak|v
-ris	pasir ris
-rise	angkatan|n,terbit|v
+rip open	bertas|v
+rises in northeast turkey and fl	kura
 risk	risiko|n
 rite	upacara|n
-ritual	air sembahyang|n,istiadat|n,upacara|n
-river	alur|n,bengawan|n,ci|n,liku|n,slim river,sungai|n
-road	jalan|n,jalan raya|n,jalan tol|n,liku|n
+ritual	upacara|n,istiadat|n
+river	ci|n,wai|n,alur|n,regat|v,sungai|n,bengawan|n
+road	liku|n,jalan|n,seberang|n,jalan raya|n
 roadshow	jerayawara|n
-roast	sangai|v
-rob	rompak|v,sakar|v,sakau|v
-robbed	kesamunan|v,samunan|n
-robber	penyamun|n,perompak|n
-robbers	rampok|n
-robbery	rompakan|n,samun|n,samun sakal|n
-robbing	penyamunan|n,perompakan|n
-rock	ayun|v,batuan|n,cenuram|n,mat rok|n
-rocket	cerawat|n,roket|n
-rod	bawar|n,pancing|n
-rodent	tupai belang|n,tupai kecil|n
-rodents	tupai terbang|n
+robbed goods or things	samunan|n
+rock	batuan|n,tersandung|v
+rocket	cerawat|n
 roentgenium	roentgenium|n
-role	suri teladan|n
-roll	guling|v,gulung|v,gulungan|n,popia|n
-romanise	merumikan|v
+role model	suri teladan|n
 romanization	perumian|n
-romantic	mat bunga|n
-rome	rum,rumi|adj
-rompak	dirompak|v,merompak|v
+rome a metropolitan city of lazio	rum
 roof	atap|n,bumbung|n
-rook	tir|n
-room	bilik|n,bilik acu|n,bilik persalinan|n,bilik rehat|n,galeri|n,gimnasium|n
+room	tempah|v
 roomy	lapang|adj
 rooster	jaguh|n
-root	akar|n,keladi|n
-roots	akar umbi|n
+root of a plant	akar|n
 rope	tali|n
 ropes	abah-abah|n
-rose	jambu|n,mawar|n
+rose	mawar|n
 rosewater	air mawar|n
-roti	rotcai|n,roti canai|n,roti john|n
+roti canai	roti canai|n
+roti john	roti john|n
 rotten	buruk|adj,hangit|adj
-rough	kasar|adj
-roughly	hitung-hitung|v
-round	bebola|n,belon|n,bulat|adj,bundar|adj,bundaran|n,capah|n
-rounded	kopiah|n
-roundish	sebiji|num
-rouse	gera|v
+rough	kasar|adj,gerutu
+roughly	lebih kurang|adv
+round	bundar|adj
+round ball-like object	bebola|n
+round or circular	bulat|adj
+rounded skullcap worn by muslim men during prayers	kopiah|n
 route	laluan|n
-row	banjar|n,baris|n,beciyau|v,deret|cls,kawad|n,nirai|n
+row	baris|n,deret|cls,kawad|n,nirai|n,banjar|n
 rowdy	tenar|adj
-royal	bera|n,bukit aman,diraja|adj,hormat diraja|n,jempana|n,keluarga diraja|n
-royalty	pekerma|n
-rub	gesek|v,gosok|v,menggosok|v
+royal	diraja|adj
+royal family	keluarga diraja|n
+royal palanquin	jempana|n
+royal salute	hormat diraja|n
 rubber	karet|n,pemadam|n
-rubbish	tong sampah|n
+rubbish bin	tong sampah|n
 rubidium	rubidium|n
-rudder	mudi|n
+rudder of ship	mudi|n
+rude manner	cainis|n
 rug	babut|n
 rugby	ragbi|n
 ruin	laknat|n
 ruined	binasa|adj
+ruined fractured	pokah|adj
 ruinous	melarat|adj
-rukun	rukun negara
-ruled	baka|adj
-rules	peraturan|n
-ruling	parti kerajaan|n,parti pemerintah|n
-rumah	krt|n,ribi
-ruminant	domba|n
+rukun negara	rukun negara
+ruled by men	baka|adj
+ruling or governing party	parti kerajaan|n,parti pemerintah|n
 rumour	angin-angin|n,khabar angin|n
-run	abrit-abritan|v,amuk|v,cabut|v,dampak|v,lama-lama|adv,langgar lari|n
-rungut	merungut|v
-running	lumba lari|n
-runs	kong|adj
-runut	dirunut|v,merunut|v,runuti|v
-runuti	dirunuti|v,merunuti|v
-rush	luru|v,meluru|v,terpa|v
-rushing	derau|v
-rusia	rusyiya
+runs out quickly	kong|adj
+rush	meluru|v
 russia	rusia,rusyiya
-russian	anjing serigala rusia|n
+russian wolfhound	anjing serigala rusia|n
 rust	karat|n,tegagh|n
 rusting	pengaratan|n
-rusuk	dirusuk|v,merusuk|v
 ruthenium	rutenium|n
 rutherfordium	ruterfordium|n
 rye	rai|n

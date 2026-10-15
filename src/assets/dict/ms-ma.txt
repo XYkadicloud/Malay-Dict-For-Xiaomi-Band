@@ -25,12 +25,12 @@ madu	madu	n	蜂蜜	honey
 madukara	madukara		蜜蜂 金绣绢织物
 mafhum	mafhum		理解，领悟；通晓，精通
 magang	magang	n	太熟的，烂熟的；受训的	someone who will become an officer (but not yet receive a salary)
-maghrib	maghrib		西方，夕暮；日落				barat,kulon
+maghrib	maghrib		西方，夕暮；日落	alternative form of Maghreb			barat,kulon
 maghribi	maghribi		摩洛哥	Morocco (a country in North Africa)
-magik	magik	adj	两者择一
+magik	magik	adj	两者择一	alternative form of magis
 magil	magil		半生不熟的
 magindanau	magindanau		岛	island of Mindanao
-maging	maging	n	食肉的
+maging	maging	n	食肉的	syllabic abbreviation of makan daging: carnivore
 magis	magis	adj	魔术的	magical
 magnesium	magnesium	n	镁  镁Mg	magnesium (chemical element)
 magnet	magnet	n	磁铁，磁体，磁石，有吸引力的人	A magnet.
@@ -44,7 +44,6 @@ mahaguru	mahaguru	n	教授，讲师	grandmaster; great teacher
 mahajana	mahajana		显要，要人
 mahakarya	mahakarya	n	杰作	masterpiece
 mahakaya	maha kaya		名字	A name or title for God meaning "the Almighty".
-mahakaya	mahakaya	n	两者择一	alternative spelling of maha kaya
 mahal	mahal	adj	贵	expensive; costly		murah
 mahar	mahar	n	嫁妆  陪嫁物	dowry; marriage settlement
 maharaja	maharaja	n	皇帝	emperor
@@ -89,7 +88,7 @@ maju	maju	adj	进步，进展，成功	progressive
 majudiri	majudiri		自我改进，进修
 majun	majun		药剂，补药
 majung	majung		填絮，粗麻
-mak	mak	n	母亲，妈妈
+mak	mak	n	母亲，妈妈	alternative form of emak
 maka	maka	conj	因此	so; therefore
 makadunia	makadunia		马其顿	Macedonia (an ancient Greek kingdom in Southeastern Europe)
 makalah	makalah	n	文稿，报章上的文章	article (story  report  or opinion piece)
@@ -109,7 +108,6 @@ makar	makar		坚硬的，欺诈；奇妙的
 makaroni	makaroni	n	通心面	macaroni
 makbul	makbul		允许，赞成；可闻的
 makcik	mak cik	n	阿姨	aunt (a parent’s sister or sister-in-law)
-makcik	makcik	n	婶婶，姨母	alternative spelling of mak cik
 makdan	makdan	n	矿	mine  quarry
 makelar	makelar		经纪人
 makhluk	makhluk	n	人类；上帝创造物	creature; being
@@ -150,8 +148,6 @@ malangnya	malangnya		不幸地
 malangtidakberbau	malang tidak berbau	n	未预料的	an unforeseen accident or unfortunate event
 malap	malap		暗淡的；闪烁的
 malapetaka	mala petaka		各种灾害，灾祸
-malapetaka	mala-petaka		灾难重重，天灾，人祸
-malapetaka	malapetaka	n	大灾难	catastrophe  disaster
 malar	malar		连续的，恒久的，经常的	n the arch of bone beneath the eye that forms the promine…
 malaria	malaria		疟疾 疾病 疾病	an infective disease caused by sporozoan parasites that a…
 malas	malas	adj	懒	indolent		rajin
@@ -163,7 +159,7 @@ malik	malik		国王；拥有，财产	the leader of a town or community in some 
 malim	malim		航者
 maling	maling		羞耻，羞怯，谦虚
 malu	malu	adj	害羞	shy
-mam	mam	v	咀嚼；喂养
+mam	mam	v	咀嚼；喂养	alternative form of mampus
 mamah	mamah	v	嚼碎，咀嚼	to chew  to masticate  to munch
 mamai	mamai	adj	高龄的	senile
 mamak	mamak	n	母亲的	a maternal uncle or elder brother; the male head of a household
@@ -214,8 +210,8 @@ mangan	mangan	n	锰  锰	manganese (chemical element)
 mangar	mangar		坚硬的；强韧的
 mangga	mangga	n	芒果	mango (fruit)
 manggis	manggis	n	山竹 果實	A tropical fruit of the tree genus Garcinia.
-manggista	manggista	n	两者择一
-manggistan	manggistan	n	两者择一
+manggista	manggista	n	两者择一	alternative form of manggis – mangosteen  fruit of Garcinia mangostana
+manggistan	manggistan	n	两者择一	alternative form of manggis – mangosteen  fruit of Garcinia mangostana
 manggul	manggul		土堆，高地，小山丘
 manggustan	manggustan	n	莽吉柿	mangosteen.
 mangkas	mangkas		脆硬的
@@ -241,11 +237,11 @@ manja	manja	adj	宠爱，娇生惯养的	friendly
 manjanik	manjanik	n	抛石机	trebuchet
 manjung	manjung		火炬，船舳	a district of Perak  Malaysia
 manjur	manjur		灵验的，有效的
-manoi	manoi	adv	两者择一
+manoi	manoi	adv	两者择一	alternative form of mana
 mansuh	mansuh	v	取消，作废	to abolish
 mantan	mantan	adj	从前的	former (position holders  positions  etc); ex-
 mantap	mantap		呆；平静，安静
-mantera	mantera	n	咒语，魔力，诱惑
+mantera	mantera	n	咒语，魔力，诱惑	alternative form of mantra(Jawi spellingمنترا)
 manteri	manteri		官吏，大臣，部长	a group of royal dignitaries within the Sultanate of Brun…
 mantra	mantra	n	咒语	incantation			jampi
 mantul	mantul	adj	非常的	extraordinary  wonderful
@@ -257,7 +253,7 @@ manuskrip	manuskrip	n	手稿	manuscript
 manyau	manyau		梦话
 manzum	manzum		贯穿，穿线
 maoisme	maoisme	n	毛泽东主义	Maoism; Mao Zedong Thought
-mara	mara		前进，进步，推进
+mara	mara		前进，进步，推进	acronym of Majlis Amanah Rakyat (“People's Trust Council”)
 marah	marah	adj	生气	angry; mad
 marak	marak	v	燃烧，点火	to flare up; to blaze (of fire or flame).
 maran	maran		城镇	a town and district of Pahang  Malaysia
@@ -295,11 +291,11 @@ masalapang	masa lapang	n	闲暇	Free time (time when one is not working).
 masalega	masa lega	n	空闲时间	Free time (time when one is not working).
 masam	masam	adj	酸	sour		manis
 masamkan	masamkan	v	酸的	to make sour
-masammasaman	masam-masaman	adj	同义词
+masammasaman	masam-masaman	adj	同义词	synonym of kemasam-masaman (“quite sour”)
 masarehat	masa rehat	n	休息期间	A rest period; recess.
 masih	masih	adv	还 仍然	still
 masihi	masihi	adj	基督教的	Of or pertaining to Christianity.
-masin	masin	adj	咸
+masin	masin	adj	咸	alternative form of asin
 masing	masing	det	各自，每个	each; respective.
 masingmasing	masing-masing	adj	分别的	respective
 masir	masir		埃及
@@ -335,7 +331,7 @@ matahari	matahari	n	太阳	sun (the star around which the Earth revolves)
 matajahat	mata jahat	n	有些人具有目视他人而使之遭殃的能力	evil eye
 matakail	mata kail	n	鱼钩，钓钩	fish hook
 matakucing	mata kucing		龙眼
-matamata	mata-mata	n	巡警，警察
+matamata	mata-mata	n	巡警，警察	plural of mata; a police officer; a spy
 matang	matang		土堆，小丘；煮熟的；成熟
 matbelia	mat belia	n	小孩	youngster
 matbodek	mat bodek	n	拍马屁者	a brownnoser  as lable or stereotype
@@ -370,14 +366,14 @@ matrok	mat rok	n	岩石	a rock fan  associated with the 80s and 90s rock and hea
 matsalih	mat salih	n	白色	white person  usually a male.
 matsalleh	mat salleh	n	白色	white person  usually a male.
 matskodeng	mat skodeng	n	好偷看的人	peeping Tom
-matterap	mat terap	n	两者择一
+matterap	mat terap	n	两者择一	alternative form of mat tiarap (“male soldier”)
 mattiarap	mat tiarap	n	男人	male soldier
 mau	mau	v	收缩	contraction of mahu
 maulana	maulana		吾主，先生
 maulud	maulud		回教主穆罕默德的诞辰日
 maumahu	mau-mahu		要，欲，愿
 maun	maun	n	草食动物	herbivore
-maung	maung	n	恶臭味，苦而难闻的
+maung	maung	n	恶臭味，苦而难闻的	synonym of harimau
 maut	maut	n	死亡，死神	death; mortality (the end of life or the state of being dead).
 mauz	mauz		香蕉
 mawa	mawa		长臂猿类
@@ -388,7 +384,7 @@ mayam	mayam		衡量单位名
 mayang	mayang		棕榈穗状花；椰穗花
 mayat	mayat	n	尸体，死尸	corpse
 mayones	mayones	n	蛋黄酱	mayonnaise
-mayonis	mayonis	n	两者择一
+mayonis	mayonis	n	两者择一	alternative form of mayones
 mayung	mayung		南洋特产之食用鱼
 mayur	mayur		各种蔬菜
 mazbah	mazbah	n	圣坛	altar

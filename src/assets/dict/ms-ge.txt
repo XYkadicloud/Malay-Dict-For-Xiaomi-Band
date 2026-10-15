@@ -81,7 +81,7 @@ gelihati	geli hati		滑稽，好笑的，逗笑
 gelimpang	gelimpang		横阵，横卧
 gelincir	gelincir		滑倒，滑走
 gelindung	gelindung		线管
-gelinggang	gelinggang	n	荒废的
+gelinggang	gelinggang	n	荒废的	obsolete form of gelenggang
 gelintir	gelintir		丸，小弹
 gelipar	gelipar		闪避，躲开
 gelis	gelis	adj	漂亮的	pretty  beautiful

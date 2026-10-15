@@ -33,7 +33,7 @@ sompek	sompek		凹的，缺边的
 sompoh	sompoh		肩负，肩挑
 sompok	sompok		相碰，相遇
 sondek	sondek		橡胶的一种
-sonder	sonder	prep	同义词
+sonder	sonder	prep	同义词	synonym of tanpa (“without”)
 sondol	sondol		用头顶球，头击	to butt; to gore; to push with the head or snout (especia…
 sondong	sondong		捕虾网
 sonet	sonet		十四行诗
@@ -49,9 +49,9 @@ sopansantun	sopan santun	adj	有礼貌的	polite; courteous; well-mannered				ku
 sopir	sopir	n	两者择一	alternative spelling of supir. synonym of pemandu (“driver”)
 sorak	sorak	v	欢呼，喝采	to cheer; to shout (in celebration  encouragement  or derision).
 soraksorai	sorak-sorai		欢呼，喝彩
-sorang	sorang	cls	两者择一
+sorang	sorang	cls	两者择一	alternative form of seorang
 sore	sore	n	午后	afternoon (part of the day between noon and evening)
-sorg	sorg	pron	abbr.；Southern
+sorg	sorg	pron	abbr.；Southern	abbreviation of sorang
 sorok	sorok		蜷伏，藏身
 sorong	sorong	v	推进，推前	to push
 sos	sos	n	酱	sauce

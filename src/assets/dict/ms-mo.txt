@@ -13,12 +13,12 @@ mogokduduk	mogok duduk	n	静坐罢工	sit-down strike (striking by means of leav
 mogokkilat	mogok kilat	n	劳动	labour strike that happens without giving any warning
 mogoklapar	mogok lapar	n	表示抗议的绝食	hunger strike (fast undertaken as a means of protest)
 mogokmakan	mogok makan	n	表示抗议的绝食	hunger strike (fast undertaken as a means of protest)
-mohamad	mohamad		两者择一
-mohamed	mohamed		两者择一
+mohamad	mohamad		两者择一	alternative form of Muhammad
+mohamed	mohamed		两者择一	alternative form of Muhammad
 mohon	mohon	v	申请，请求，求恕	to request (formally); to apply for.
-mohong	mohong	v	两者择一
+mohong	mohong	v	两者择一	alternative form of membohong (“to lie”)
 mohor	mohor	n	印章，盖章	seal (especially of official or royal use)
-moktan	moktan	n	同义词
+moktan	moktan	n	同义词	synonym of rambutan
 molek	molek		美丽，迷人，优良的
 moler	moler		娼妓，卖淫，情妇 西班牙语 vt. 磨，研，折磨，烦扰
 molibdenum	molibdenum	n	钼  钼	molybdenum (chemical element)

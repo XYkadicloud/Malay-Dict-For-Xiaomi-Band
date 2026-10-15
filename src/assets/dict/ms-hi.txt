@@ -1,4 +1,4 @@
-hiang	hiang	n	仙人，神仙
+hiang	hiang	n	仙人，神仙	alternative form of yang (“a deity  god  or goddess”)
 hias	hias	v	打扮，装饰，修饰	to decorate.
 hiasan	hiasan	n	装饰	decoration.
 hiatus	hiatus	n	裂缝	hiatus
@@ -9,8 +9,8 @@ hibur	hibur	v	安慰，抚慰，慰问，娱乐	to entertain
 hiburan	hiburan	n	安慰，安抚，娱乐	entertainment
 hidang	hidang		奉下食物，拿出食物，提出，贡献
 hidangan	hidangan		食品，款待物
-hidap	hidap	v	生病
-hidong	hidong	n	两者择一
+hidap	hidap	v	生病	to be afflicted with  to suffer from
+hidong	hidong	n	两者择一	alternative form of hidung
 hidraulik	hidraulik	adj	与水有关的	hydraulic
 hidrogen	hidrogen	n	氢气	hydrogen (chemical element)
 hidrogenkarbonat	hidrogen karbonat	n	碳酸氢盐	hydrogen carbonate (carbonic acid)
@@ -76,4 +76,4 @@ hitung	hitung	v	算，计算	to count (to enumerate or determine number)
 hitungan	hitungan	n	计算	calculation; counting; the act or result of counting.			kiraan,perhitungan
 hitunghitung	hitung-hitung	v	概略地	to roughly calculate; to estimate.
 hitungpanjang	hitung panjang		平均，平均数
-hiu	hiu	n	荒废的
+hiu	hiu	n	荒废的	obsolete form of yu

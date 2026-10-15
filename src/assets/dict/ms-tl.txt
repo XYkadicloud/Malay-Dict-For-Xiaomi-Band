@@ -1,2 +1,2 @@
-tldb	tldb		词首字母缩略词
-tldm	tldm		词首字母缩略词
+tldb	tldb		词首字母缩略词	initialism of Tentera Laut Diraja Brunei (“Royal Brunei Navy”)
+tldm	tldm		词首字母缩略词	initialism of Tentera Laut Diraja Malaysia (“Royal Malaysian Navy”)

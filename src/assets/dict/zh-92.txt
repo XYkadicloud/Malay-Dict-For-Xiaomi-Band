@@ -1,29 +1,21 @@
-作	adib,adikarya|n,ajuk,angkatan perang,ayub,bahu membahu,banting tulang,bekerja|v
+乜嘢	apa|pron
+作	gaya|n,katib|n,penulis|n,jurusurat|n,karya|n,karang|n,luak|v,rawi|n
 作不	ngit
 作不得	ngit
-作乐	bersuka-suka,berjoli
-作人	kakitangan|n
-作人员	kakitangan|n
-作吹	temiang
-作吹箭	temiang
-作吹箭用	temiang
-作吹箭用之	temiang
-作吹箭用之细	temiang
+作业	fiil|n,operasi|n
+作为	ramai|adj,kelakonan|n
+作乐	bersuka-suka
+作兴	kalu|adv,mungkin|adv
 作吹箭用之细竹	temiang
-作呕	dugal,jeluak,luak|v,luat,medu,muak,sengkak
-作品	ciptaan,gubahan,karya|n,rekaan
-作响	berdenging-denging,denging,keletang,lebap,lesit
+作呕	luak|v,muak,luat,medu,dugal,jeluak,sengkak
+作品	karya|n,ciptaan,rekaan,gubahan
 作噼	berdetus
 作噼啪	berdetus
 作噼啪声	berdetus
-作地	tempat kerja
-作地点	tempat kerja
-作声	bungkam|adj,membisu|v,sanggit
-作威	perusa
-作威作	perusa
+作坊	bengkel|n
 作威作福	perusa
 作威作福的	perusa
-作家	adib,jurusurat|n,katib|n,pengarang,penulis|n,pujangga,rawi|n
+作家	katib|n,penulis|n,jurusurat|n,adib,pengarang,pujangga
 作废	mansuh|v
 作弄	gobek
 作弊	curang
@@ -31,184 +23,138 @@
 作战	laga|n,angkatan perang
 作战部	angkatan perang
 作战部队	angkatan perang
+作手	katib|n
 作文	karang|n,karangan
 作曲	komposer|n
 作曲家	komposer|n
-作权	pencabulan hak cipta|n
-作样	ajuk
 作物	tanaman|n
-作用	biasan,fotosintesis|n,interaksi|n,kapilariti|n,karsinogenik|adj
+作用	laku|n,ramai|adj
 作白	melamun|v
 作白日	melamun|v
 作白日梦	melamun|v
-作的	pengamuk
-作的人	pengamuk
-作社	koperasi
-作福	perusa
-作福的	perusa
-作系	sistem pengendalian|n
-作系统	sistem pengendalian|n
 作网	selirat
 作网状	selirat
-作者	rawi|n,budayawan,jurnalis,pemanipulasi|n,pengarang,sosiawan
-作自	siapa makan lada dia rasa peda
-作自受	siapa makan lada dia rasa peda
-作风	corak,gaya|n,cara barat,gaya bebas,lagak
-作馅	onde-onde
-作馅的	onde-onde
-作馅的团	onde-onde
-作馅的团子	onde-onde
-停	henti|v,beret,berhenti|v,berlabuh|v,bertakung,bertambat,bertubi-tubi,depoh|n
+作者	rawi|n
+作风	gaya|n,corak
+停	henti|v,perhentian|n,hinggap|v,berlabuh|v,genang|n,labuh|adj,singgah|v,berhenti|v
 停下	mandik
 停战	gencatan
-停时	jeda|v
-停时间	jeda|v
 停歇	mampir
-停止	berhenti|v,perhentian|n,gencat,memperhentikan,teduh,tertegun
+停止	perhentian|n,berhenti|v,teduh
 停止的	teduh
-停泊	berlabuh|v,bertambat,labuh|adj,singgah|v,melabuh|v,menyinggah
-停滞	bertakung,genang|n,tergenang,undak
-停滞不	tergenang,undak
+停泊	berlabuh|v,labuh|adj,singgah|v,bertambat
+停滞	genang|n,bertakung,undak,tergenang
+停滞不	undak,tergenang
 停滞不前	undak
 停滞不流	tergenang
-停火	gencatan,gencatan senjata|n
+停火	gencatan senjata|n,gencatan
 停留	hinggap|v
-停的	bertubi-tubi
-停船	kuarantin
 停车	depoh|n,parkir|n,parkiran|n
 停车场	depoh|n,parkir|n,parkiran|n
 停顿	henti|v,mandik
-兜	meraun,pandan wangi|n,raun
-兜树	pandan wangi|n
-兜风	meraun,raun
-卜	kelingtang,lobak|n,lobak merah|n,menilik,nujum,ramal|v,tilik
+兜	raun,meraun
+兜风	raun,meraun
+卜	nujum
 卜卦	nujum
-卜果	kelingtang
-呜	ayuh,esak,isak,jiwa melayang,teresak-esak
-呜呼	ayuh,jiwa melayang
+呜	ayuh,esak,isak,teresak-esak
+呜呼	ayuh
 呜咽	esak,isak,teresak-esak
-啜	meneguk,esak,hirup|v,irup,mengecap,teresak-esak
+啜	meneguk,hirup|v,esak,teresak-esak,irup
 啜泣	esak,teresak-esak
 啜饮	hirup|v,irup
-嗜	gemar,hobi,kecenderungan,kegemaran|n,menagih,tegih
-嗜好	gemar,hobi,kecenderungan,kegemaran|n,menagih,tegih
-噜	dengkur|n,leter,muring,ngangut,ngut-ngut,nyonyeh,omel,rengut
-噜呼	dengkur|n
-噜呼噜	dengkur|n
-噜呼噜声	dengkur|n
-噜唆	rengut,rotok,muring
+嗜	kegemaran|n,gemar,hobi,tegih,menagih,kecenderungan
+嗜好	kegemaran|n,gemar,hobi,tegih,menagih,kecenderungan
+噜	leter,omel,rotok,rengut
+噜唆	rotok,rengut,muring
 噜唆的	muring
-噜声	dengkur|n
 噜苏	leter,omel
-姜	halia|n,jae|n,jahe|n,kunyit|n,lengkuas|n,nasi kunyit,tepus|n
-姜饭	nasi kunyit
+姜	jae|n,jahe|n,halia|n,kunyit|n
 姜黄	kunyit|n
-惜	kasihan|adj,rahman,selenggara
-惜的	rahman
-拜	azerbaijan,bertamu,berziarah,ibadat,indik,jelang,kultus|n,kunjung|v
+拜	pantau|v,memantau|v,sembahyang|n,kunjung|v,menemui|v,jelang,lawat,bertamu
 拜候	lawat
-拜六	sabat
-拜圣	menziarahi
-拜圣地	menziarahi
-拜疆	azerbaijan
 拜神	sembahyang|n,setanggi
 拜神用	setanggi
 拜神用香	setanggi
-拜者	penyembah|n
-拜访	bertamu,jelang,kunjung|v,memantau|v,menemui|v,pantau|v,menghadap|v,sambut-menyambut
-杜	arar|n,duku
+拜访	pantau|v,memantau|v,kunjung|v,menemui|v,jelang,bertamu
+杜	duku
 杜古	duku
-杜松	arar|n
-杜松属	arar|n
-柜	ajaibkhanah|n,almari besi,beremban,kaunter|n
+杜松属杜松	arar|n
+柜	kaunter|n
 柜台	kaunter|n
-潜	haba|n,hendap,imej pendam|n,itik selam|n,junam,kapal selam|n,lucup,menyelam
+潜	itik selam|n,selinap,hendap,selulup,serodok,susup,seruduk,selusup
 潜伏	hendap
-潜入	menyelami,menyelinap,menyeludup,menyelusup,menyeruduk,selinap,selulup,selusup
-潜入水	junam,lucup
-潜入水中	junam,lucup
-潜影	imej pendam|n
+潜入	selinap,selulup,susup,seruduk,selusup,menyeruduk,menyelami,menyelinap
+潜入水	lucup,junam
+潜入水中	lucup,junam
 潜望	periskop
 潜望镜	periskop
 潜水	menyelam,kapal selam|n
 潜水艇	kapal selam|n
-潜热	haba|n
 潜爬	serodok
 潜象	imej pendam|n
+潜象潜	imej pendam|n
+潜象潜影	imej pendam|n
 潜鸭	itik selam|n
-瓜	labu|n,betik|n,kambas,ketimun,kundur|n,labu siam|n,lepang,mendikai|n
-瓜树	pepaya|n
-畜	bantai|n,binatang jinak,kandang|n,ternak,ternakan,zabah|n
+煜煜	cerlang|adj
+煜熠	cerlang|adj
+瓜	labu|n
+瓜葛	perhubungan|n
+畜	kandang|n,ternak
 畜栏	kandang|n
 畜牲	ternak
-畜生	bantai|n
-糜	lenyet
+畜生	binatang|n
 糜烂	lenyet
 糜烂的	lenyet
-络	anduhan,balai rakyat,bauk,berkenal-kenal,datang bertapak,hubung|v,jaringan|n,perhubungan|n
 络丝	ruing
 络丝轴	ruing
-络所	balai rakyat
-络的	siber|adj
 络绎	datang bertapak
 络绎而	datang bertapak
 络绎而来	datang bertapak
 络腮	bauk
 络腮胡	bauk
 络腮胡子	bauk
-胜	fatah|n,jaya|n,kemenangan,pemenang|n,wijaya
-胜利	jaya|n,kemenangan,pemenang|n,wijaya
+胜	jaya|n,kemenangan
+胜出	jaya|n
+胜利	jaya|n,pemenang|n,kemenangan,wijaya
 胜利的	wijaya
 胜利者	pemenang|n
-菜	acar|n,agar-agar|n,bekasam,beriani|n,bermi,bongkot,capcai,carta|n
-菜之	bermi,bongkot
-菜之一	bermi
-菜之一种	bermi
+胜者	juara|n
+菜	lauk|n,kuah,marjerin,kebun sayur,majerin
+菜之	bongkot
 菜之茎	bongkot
-菜单	carta|n
+菜单西班牙语f.信…	carta|n
 菜园	kebun sayur
-菜杂	gado-gado
-菜杂拌	gado-gado
-菜杂拌成	gado-gado
-菜杂拌成的	gado-gado
-菜杂拌成的食	gado-gado
-菜杂拌成的食品	gado-gado
-菜汤	kuah,menggulai
-菜油	majerin,marjerin
-菜的	rantang
-菜的食	rantang
-菜的食格	rantang
-菜类	sayur-sayuran|n
-菜肴	lauk|n,pauk lauk
-菜色	lauk-pauk
-远	jauh|adj,abad al-abad|n,azali,baheula,celat,dura|adj,ganggang|n,jauhkan diri
+菜式	sajian|n
+菜汤	kuah
+菜油	marjerin,majerin
+菜肴	lauk|n
+菜色	sajian|n
+菜谱	resipi|n
+菜馆	restoran|n
+远	jauh|adj,dura|adj,singkir|v,nyah|v,memencil,rambih,azali
 远古	azali,baheula
 远古的	baheula
-远的	dura|adj,ganggang|n,renggang|adj,selama-lamanya|adv
-远离	memencil,nyah|v,menjauhkan
-远藤	wikang|n
-远藤公	wikang|n
-远藤公司	wikang|n
+远大	babur|n
+远天	syurga|n
+远的	dura|adj
+远离	nyah|v,memencil
+远程	terpencil|adj
+远端	terpencil|adj
+远藤	akhir|adj
+远见	visi|n
 远足	rambih
+远近	sehingga|prep
 远避	singkir|v
-远镜	teleskop,terompong
 远隔	terpencil|adj
 远隔的	terpencil|adj
-釜	rencak
-铜	fulus|n,kuprum|n,tembaga|n,bendir,gangsa|n,gong|n,kangsa,kelenung
-铜币	pitis
+铜	fulus|n,kuprum|n,tembaga|n,gong|n,mong|n,pitis,sanggan
 铜板	pitis
-铜盘	sanggan,semberip
-铜钟	kelenung
-铜钟的	kelenung
-铜钟的回	kelenung
+铜盘	sanggan
 铜钟的回声	kelenung
 铜钱	pitis
-铜锣	gong|n,mong|n,bendir
-镜	cermin|n,bercermin,bercermin mata|adj,berkaca mata|adj,cermin mata|n,itik badut|n,kaca mata|n,kanta|n
-镜头	kanta zum|n,lensa zum|n
-镜子	bercermin
-镜猴	kera hantu|n
-镜的	bercermin mata|adj,berkaca mata|adj
-镜蛇	itik badut|n,tedung|n,ular tedung
+铜锣	gong|n,mong|n
+镜	cermin|n,sagai
+镜像站点	cermin|n
+镜头	adegan|n
+镜子	cermin|n
 镜鱼	sagai

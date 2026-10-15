@@ -1,233 +1,149 @@
-丐	pengemis|n
-伐	pancung|v,derap,langkah|v,membabat,menebang,menumbangkan,tebang|v,tebangan
-伐声	derap
-伐物	tebangan
-匐	kerumit,lata,lepa|adj,loso,rangkak|n
-匐而	kerumit,loso,rangkak|n
-匐而行	kerumit,loso,rangkak|n
+【动】鲻鱼乌鱼	belanak|n
+【城】圣多美首都圣多美	sao tome dan principe
+伐	pancung|v
+匐	lepa|adj
 匐行	lepa|adj
-吐	batuk darah,bengap|adj,berdahak,berludah,loksun kering,loya,luah|v,luik
-吐不	bengap|adj
-吐不清	bengap|adj
-吐不清楚	bengap|adj
-吐出	luik,meluahkan,sembur|v
-吐吐	bengap|adj
-吐吐不	bengap|adj
-吐吐不清	bengap|adj
-吐吐不清楚	bengap|adj
+吐	sembur|v,pangus,memangus,batuk darah,meludah,loksun kering,berdahak,berludah
+吐出	sembur|v,luik,meluahkan,bura|v
+吐出…	bura|v
 吐射	sembur|v
-吐气	memangus,pangus
-吐痰	berdahak,berludah,meludah,mendahak
-吐的	sentil|n,uik
-吐的声	uik
-吐的声音	uik
+吐气	pangus,memangus
+吐痰	meludah,berdahak,berludah,mendahak
 吐血	batuk darah,loksun kering
-咐	direksi,memesan,pesan,suruh|v
-唐	kinabatangan,mekdi,sindrom down|n
-唐岸	kinabatangan
 唐氏	sindrom down|n
 唐氏症	sindrom down|n
-唐纳	mekdi
-帐	tirai|n,akaun|n,angsirih,audit,bil,juruaudit,kelambu|n,khemah|n
-帐单	bil,rang undang-undang|n
-帐员	juruaudit
+岐视	diskriminasi|n
+帐	tirai|n,khemah|n,akaun|n,rang undang-undang|n,bil
+帐单	rang undang-undang|n,bil
+帐幔	tirai|n
 帐幕	khemah|n
 帐目	akaun|n
-帐顶	singkil
-徐	gonmel,kesak,perlahan|adj
-徐侧	kesak
-徐侧行	kesak
-徐地	gonmel
-徐地工	gonmel
-徐地工作	gonmel
-徐徐	gonmel,kesak,perlahan|adj
+帐篷	khemah|n
+徐徐	perlahan|adj,kesak
 徐徐侧	kesak
 徐徐侧行	kesak
-徐徐地	gonmel
-徐徐地工	gonmel
 徐徐地工作	gonmel
 徐徐的	perlahan|adj
-徐的	perlahan|adj
-成	abses|n,ahli|n,akilbaligh,anggota|n,arga,asfalt|n,bacuk,bagian
-成一	mujamal,sejajar
+徐缓	lambat|adj
+成	hasil|n,kos|n,ahli|n,kejayaan|n,warga|n,maju|adj,keputusan,baligh|n
+成一	sejajar
 成一排	sejajar
-成一集	mujamal
-成一集的	mujamal
-成不	pemandulan|n
-成不毛	pemandulan|n
-成丸	untal
-成为	jadi|v,menjadi|v,menggerekkan|v,mengislamkan|v
-成为原	menggerekkan|v
-成为原因	menggerekkan|v
-成为原因的	menggerekkan|v
-成为回	mengislamkan|v
-成为回教	mengislamkan|v
-成为回教徒	mengislamkan|v
-成之	bacuk,samir
-成之屋	samir
-成之屋顶	samir
-成之盛	bacuk
-成之盛水	bacuk
-成之盛水器	bacuk
-成书	bukukan
+成为	jadi|v,menjadi|v
+成为原因的使役动词	menggerekkan|v
 成人	baligh|n,dewasa,umur baligh
 成人的	dewasa,umur baligh
+成份	kaleng|n
 成倍	berganda
 成倍的	berganda
 成全	sempurnakan
-成册	menjilid
-成凹	rangkup
-成凹形	rangkup
-成分	bagian,perawis,wilana,zat,faktor,sektor swasta|n
+成分	bagian,perawis,zat,wilana
 成列	berleret-leret
-成功	falah,jaya|n,kejayaan|n,kemenangan,maju|adj,berhasil,berjaya|adj,gagal|v
-成功的	berhasil,berjaya|adj,ghalib
-成双	beborot|adj,berjodoh
+成功	kejayaan|n,maju|adj,berjaya|adj,kemenangan,falah,ghalib,berhasil
+成功的	berjaya|adj,ghalib,berhasil
+成功神话：一个佛教女神	jaya|n
+成双	beborot|adj
 成双的	beborot|adj
-成员	ahli|n,arga,kesatria|n,syarik,warga|n,anggota|n
-成器	pensintesis|n
-成园	runjung
-成园锥	runjung
-成园锥形	runjung
-成堆	berlonggok,jerembun,monggok,susun|v,timbunan
-成堆的	jerembun,monggok,susun|v,timbunan
+成员	ahli|n,warga|n,kesatria|n,syarik,arga
+成堆	susun|v,berlonggok,monggok,jerembun,timbunan
+成堆的	susun|v,monggok,jerembun,timbunan
 成家	berkeluarga
+成就	jaya|n,kelakonan|n
 成层	berlapis
 成层的	berlapis
-成年	akilbaligh,baligh|n,cukup umur,remaja,sampai umur,bawah umur,dewasa,umur baligh
+成年	baligh|n,remaja,cukup umur,akilbaligh,sampai umur,umur baligh,dewasa
 成年人	dewasa
 成年的	umur baligh
-成弓	melengkung|v
-成弓形	melengkung|v
 成排	berjajar,berbanjar
 成排成	berbanjar
 成排成的	berbanjar
+成文	tersurat|v
 成本	kos|n,ongkos
 成果	hasil|n
-成灰	penunuan|n
-成熟	matang,kebabal|n,koment,malan,muda|adj,peram,sedang masak,tua|adj
-成熟果	kebabal|n
-成熟果实	kebabal|n
-成熟的	malan,tua|adj,koment,muda|adj
+成熟	tua|adj,matang,malan
+成熟的	tua|adj,malan
 成百	berjuta-juta
 成百万	berjuta-juta
 成百万的	berjuta-juta
-成的	asfalt|n,berbanjar,bidai,gado-gado,sagun,simbar,tamat|adj,teknokratik|adj
-成的亲	tiri|adj
-成的亲缘	tiri|adj
-成的亲缘关	tiri|adj
-成的亲缘关系	tiri|adj
-成的大	simbar
-成的大浪	simbar
-成的帘	bidai
-成的木	terubung
-成的木桶	terubung
-成的粉	tepung beras
-成的菜	sagun
-成的食	gado-gado
-成的食品	gado-gado
-成碎	kecai|adj,kuti,penyerpihan|n
-成碎片	kecai|adj,kuti,penyerpihan|n
 成立	membentuk
-成粉	memirik,pirik
-成粉末	memirik,pirik
 成绉	lapih
 成绉的	lapih
 成绩	keputusan,buku kemajuan
 成绩单	buku kemajuan
-成群	ngeriap,berdusta,bergerombol,berkawan-kawan,bubus,duyun,gerombol,kusu
+成群	ngeriap,berkawan-kawan,bubus,kusu,gerombol,bergerombol
 成群的	berkawan-kawan
-成群结	berdusta,bergerombol,duyun,gerombol,kusu
-成群结队	bergerombol,gerombol,kusu,berdusta,duyun
-成群结队地	berdusta,duyun
+成群结	kusu,gerombol,bergerombol
+成群结队	kusu,gerombol,bergerombol,duyun
+成群结队地	duyun
 成群飞	bubus
 成群飞出	bubus
-成脓	abses|n
-成脓肿	abses|n
 成荫	rampak
 成荫的	rampak
-成薄	didis,lawar,mendidis,mengiris
-成薄片	didis,lawar,mendidis,mengiris
 成虫	imago
-成行	membariskan
-成行列	membariskan
 成见	prasangka
 成语	bidal,bidalan
 成长	longgor
-析	analisa|n,analisis|n,cerakin|n,dilah|n,huraian|n,ilmu tasyrih|n,leraian|n,mencerakin
-析机	analisis|n
-析系	dilah|n
-析系统	dilah|n
-析者	penganalisis|n
-檐	cucuran,rabung
+斐然	gemilang|adj
+檐	cucuran
 檐口	cucuran
-渐	ansur,beransur,beransur-ansur,lambat-laun,loncong,perlahan|adj,tirus
-渐地	ansur,beransur-ansur
+渐	beransur
 渐尖	loncong,tirus
 渐尖形	tirus
 渐尖的	loncong
 渐渐	beransur,ansur
 渐渐地	ansur
-渐的	perlahan|adj
-源	air pancut|n,algebra,asal|n,asal usul|n,asalnya,hilir-mudik,hulu|n,hulu sungai|n
+源	hulu|n,sumber|n,hulu sungai|n,ocak-ocak air
 源头	hulu|n
-源泉	ocak-ocak air,sumber|n
+源泉	sumber|n,ocak-ocak air
 源流	hulu sungai|n
-耐	bersabar|v,gelisah|adj,keabadian|n,kesabaran|n,ketahanan|n,sabar|adj
+源点	asal|n
+耐	sabar|adj,kesabaran|n,bersabar|v
 耐久	keabadian|n,ketahanan|n
 耐久性	keabadian|n,ketahanan|n
-耐心	bersabar|v,kesabaran|n,sabar|adj
-耐烦	gelisah|adj
+耐心	sabar|adj,kesabaran|n,bersabar|v
+耐心烦	kesabaran|n
+耐性	kesabaran|n
 脐	pusat|n
-舐	jilat|v,menjilat,sesap,kelum,kusal,lecat,momit
+舐	jilat|v,sesap,menjilat,momit,kusal,lecat
 舐净	lecat
 舐动	momit
-舐口	kelum
-舐口唇	kelum
 舐洗	kusal,lecat
-褐	anjing nibung|n,hitam manis,nilau|n,tedung ranggas|n
-褐色	nilau|n,anjing nibung|n,hitam manis,tedung ranggas|n
-褐色头	tedung ranggas|n
-褐色头发	tedung ranggas|n
-褐色头发的	tedung ranggas|n
-褐色的	nilau|n,anjing nibung|n,hitam manis
-谐	janggal,kapas|n,kelakar|n,lawak|adj,merdu
-谐的	janggal,lawak|adj,merdu
-辐	radiometer|n
+褐色褐色的变褐色	nilau|n
 辐射	radiometer|n
 辐射计	radiometer|n
-逐	alau,beransur-ansur,berhanyut-hanyut,berkejar-kejar,demi|prep,halau|v,hambat,kejar|v
-逐一	satu bersatu,satu-satu|adv,demi|prep
+逐	lambat-laun
+逐一	demi|prep,satu-satu|adv,satu bersatu
 逐一的	demi|prep
-逐字	kuda padi|n
-逐字直	kuda padi|n
-逐字直译	kuda padi|n
-逐字直译文	kuda padi|n
-逐字直译文翻	kuda padi|n
-逐字直译文翻译	kuda padi|n
-逐流	berhanyut-hanyut
-逐渐	lambat-laun,beransur-ansur,perlahan|adj
+逐日	harian|adv
+逐渐	perlahan|adj,lambat-laun,beransur-ansur
 逐渐地	beransur-ansur
 逐渐的	perlahan|adj
-钐	samarium|n
-锐	kilir,mersik,nyaring,rancung,runcing,sigap
+逐行	maju|adj
+钐钐	samarium|n
+钐钐S	samarium|n
+钐钐Sm	samarium|n
 锐利	rancung
 锐利的	rancung
-锐声	mersik
-锐的	nyaring,rancung,runcing,sigap
-隐	bertapa,buni|n,halimunan,kemul,mendak,pendam,pendap|v,pertapa
+隐	pendap|v,sembunyi|v,buni|n,mendak,zahid,pendam,selindung,kemul
 隐匿	buni|n
-隐士	pertapa,zahid
+隐士	zahid,pertapa
+隐密	rahsia|adj
 隐居	bertapa
-隐蔽	kemul,mendak
-隐藏	pendam,pendap|v,selindung,sembunyi|v
+隐晦	samar|adj
+隐秘	rahsia|adj
+隐约	samar|adj
+隐蔽	mendak,kemul
+隐藏	pendap|v,sembunyi|v,pendam,selindung
+隐藏处	naungan|n
 隐身	halimunan
-颐	lungguh,teleku
-颐而	lungguh
-颐而坐	lungguh
-餐	berkelah,bersarap,bufet|n,kantin,kedai makan|n,makan malam|n,makan tengah hari|n,moreh|n
-餐厅	kantin,restoran|n
-餐后	pembasuh mulut|n,pencuci mulut|n
-餐后甜	pembasuh mulut|n,pencuci mulut|n
-餐后甜点	pembasuh mulut|n,pencuci mulut|n
+隐隐	samar|adj
+隐隐约约	samar|adj
+隐隐绰绰	samar|adj
+餐	restoran|n,kedai makan|n,kantin
+餐厅	restoran|n,kantin
+餐后	pencuci mulut|n,pembasuh mulut|n
+餐后甜	pencuci mulut|n,pembasuh mulut|n
+餐后甜点	pencuci mulut|n,pembasuh mulut|n
+餐点	makanan|n,sajian|n
+餐食	makanan|n
+餐饮店	restoran|n
 餐馆	kedai makan|n

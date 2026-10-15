@@ -1,211 +1,159 @@
-乒	pingpong
 乒乓	pingpong
 乒乓球	pingpong
-勒	cekik|v,farsakh|n,kendali,kujut,lampes|n,palestin,ruku-ruku,sabda|n
+勒	cekik|v,sabda|n,kujut
 勒令	sabda|n
-勒属	lampes|n,selasih|n
-勒属植	lampes|n,selasih|n
-勒属植物	lampes|n,selasih|n
-勒属植物名	selasih|n
-勒斯	palestin
-勒斯坦	palestin
-勒果	salak|n
-勒桑	farsakh|n
 勒死	cekik|v,kujut
-卒	bidak|n,gesa,gopoh
-卒的	gopoh
-哒	detak
+卒	bidak|n
 哒哒	detak
 哒哒声	detak
-哒声	detak
-嗒	ketik
-嗒响	ketik
 嗒嗒	ketik
 嗒嗒响	ketik
-寒	demam gigil,iklim dingin,kesejukan
+寒	kesejukan,iklim dingin
 寒冷	kesejukan
 寒带	iklim dingin
 寒热	demam gigil
 寒热病	demam gigil
-归	balik kampung|n,gelandangan|n,maab,marjik,nasionalisasikan|v,pengarkiban|n,rujuk|v,tuna wisma|n
-归化	nasionalisasikan|v
+寒碜	hodoh|adj
+归	pengarkiban|n,maab
+归口	relevan|adj
 归宿	maab
 归档	pengarkiban|n
-归赵	rujuk|v
+归结	akhir|adj,kesimpulan|n
 归还	balik kampung|n,marjik
-恒	abadi|adj,abadiah|adj,betlehem,gangga,kekal-abadi,malar,syaaban
-恒不	kekal-abadi
-恒不变	kekal-abadi
+恒	gangga
 恒久	malar
 恒久的	malar
+恒定	pemalar|n
+恒常	pemalar|n
 恒星	syaaban
 恒星时	syaaban
 恒星时角	syaaban
 恒河	gangga
-恒的	abadi|adj,abadiah|adj
-懒	malas|adj,berat tangan,berat tulang|adj,berlengah-lengah,culas,curi tulang|v,geliat,kemalasan|n
+恒等	identiti|n
+恒等式	identiti|n
+懒	malas|adj,kemalasan|n,pelasuh,culas,lonte
 懒人	pelasuh
 懒妇	lonte
 懒怠	teledor
 懒怠的	teledor
-懒惰	culas,kemalasan|n,berat tangan,berat tulang|adj,kerusi rehat|n,pemalas|n
-懒惰的	berat tangan,berat tulang|adj,kerusi rehat|n
+懒惰	kemalasan|n,culas,berat tulang|adj,kerusi rehat|n,pemalas|n,berat tangan
+懒惰的	berat tulang|adj,kerusi rehat|n,berat tangan
 懒惰虫	pemalas|n
 懒洋	berlengah-lengah
 懒洋洋	berlengah-lengah
 懒洋洋的	berlengah-lengah
-懒腰	geliat,menggeliat
-扒	bifstik,copet,mencopet,mengais
+扒	mengais,copet,mencopet
 扒地	mengais
 扒窃	copet,mencopet
-拒	enggan|adv,geleng|n,menumangkan,nafi,sangkak,sangkal,tolak|v,tumang
-拒绝	enggan|adv,menumangkan,nafi,sangkal,tolak|v,tumang,geleng|n
-插	merunjung,tujah|v,bergambar,cerat|n,cucuk|v,gambar|n,hunjam,ilustrasi
-插入	cucuk|v,lantak,memacak,membaji,menancap,mengunjamkan,menyisip,pantak
+拒	enggan|adv,tolak|v,tumang,nafi,sangkal,menumangkan
+拒绝	enggan|adv,tolak|v,tumang,nafi,sangkal,menumangkan
+插	tujah|v,gambar|n,merunjung,cucuk|v,cerat|n,sampuk,lantak,pantak
+插入	cucuk|v,sampuk,lantak,pantak,memacak,selit,sisip,unjam
 插嘴	ngeletuk
-插图	gambar|n,ilustrasi,bergambar
+插图	gambar|n,ilustrasi
 插孔	cerat|n
+插曲	perihal|n
 插翅	memegas
-晒	jemur|v,berjemur,daing|n,jemuran,mengeringkan,menjemur
+晒	jemur|v,menjemur,mengeringkan
 晒太	berjemur
 晒太阳	berjemur
-晒干	jemur|v,mengeringkan,menjemur,daing|n
+晒干	jemur|v,daing|n,menjemur,mengeringkan
 晒干的	daing|n
 晒晾	jemuran
 晒晾物	jemuran
-棒	alu|n,antan|n,gada,tongkat|n,cokmar|n,memangkung,pacak,pangkung
-棒击	memangkung,pangkung
-毒	racun|n,adenium|n,angkut-angkut,apitoksin|n,beracun,bisa|adj,dadah|n,daiman|n
-毒剂	penawar
+棒	tongkat|n,alu|n,antan|n,gada,pangkung,memangkung
+棒击	pangkung,memangkung
+棒子	kelab|n
+棒极了	elok|adj
+毒	racun|n,bisa|adj,dadah|n,racunkan,koreng,meracun,narkotik,angkut-angkut
 毒品	dadah|n,narkotik
 毒害	racunkan
-毒斗	mising
 毒杀	meracun
 毒液	bisa|adj
 毒疮	koreng
-毒的	beracun
-毒素	apitoksin|n
-毒者	kaki dadah|n,mat dadah|n
-毒而	restung
-毒而烂	restung
-毒而烂鼻	restung
-毒胶	adenium|n
-毒胶属	adenium|n
 毒药	bisa|adj,racun|n
 毒蜂	angkut-angkut
 毒蜘	sepasan
 毒蜘蛛	sepasan
-毒进	racunkan
-毒进去	racunkan
-狒	babun|n
 狒狒	babun|n
-痒	giang|n,kegatalan,merenyam,renyam,gatal|adj,gelenyar,geli,gelitik
-痒的	gatal|adj,gidik,lenyar,geli,lidas,merenyam,renyam
-盒	peti|n,bekas sirih,cembul|n,dulang|n,gedebung,jorong,kalamdan,kelamdan
-盒子	kotak|n,gedebung,selepi
-硒	selenium|n
-秒	acik|n,anak angah|n,awda|pron,detik|n,kalian|pron,kau orang|pron,saat|n
-筒	pipa,tiub,bacuk,berumbung,buluh meriam,corong telefon,kaleidoskop,kelongsong
-筒制	bacuk
-筒制成	bacuk
-筒制成之	bacuk
-筒制成之盛	bacuk
-筒制成之盛水	bacuk
-筒制成之盛水器	bacuk
-筒处	kelongsong
-筒处之	kelongsong
-筒处之外	kelongsong
-筒处之外皮	kelongsong
-筒枪	senapang dua laras
-筒炮	buluh meriam
-筒粢	lemang|n
-筒粢饭	lemang|n
-绒	baldu|n,beldu,itik baldu|n,pacal|pron,rabuk|n,rambuti
+狒狒狒	babun|n
+狒狒狒狒	babun|n
+痒	giang|n,gatal|adj,renyam,merenyam,kegatalan,gidik,lenyar
+痒的	gatal|adj,gidik,lenyar
+盒	peti|n,kotak|n
+盒子	kotak|n
+硒硒	selenium|n
+硒硒S	selenium|n
+硒硒Se	selenium|n
+秒	saat|n,awda|pron,detik|n,kalian|pron,kau orang|pron,acik|n,anak angah|n
+秒钟	saat|n
+筒	pipa,tiub
+绒	pacal|pron,itik baldu|n,rambuti
 绒垫	pacal|pron
 绒布	rambuti
-绒的	baldu|n
 绒鸭	itik baldu|n
-荒	a kapela|n,abdoman|n,absurd|adj,absurdisme|n,achara|n,alor star,anam|num,ayer|n
-荒凉	senyap|adj,sepi|adj
+荒	liar|adj,kelumpang|n,karut,bangai,khilaf
+荒凉	sepi|adj
 荒凉的	sepi|adj
-荒废	a kapela|n,abdoman|n,achara|n,alor star,anam|num,ayer|n,barat semata selatan|n,biling|v
-荒废的	a kapela|n,abdoman|n,achara|n,alor star,anam|num,ayer|n,barat semata selatan|n,biling|v
-荒芜	bangai,senyap|adj
+荒废	rusyiya,sa|num,hiu|n,anam|num,ayer|n,boat|v,tuha|adj,utak|n
+荒废的	rusyiya,sa|num,hiu|n,anam|num,ayer|n,boat|v,tuha|adj,utak|n
+荒漠	gurun|n
+荒芜	senyap|adj,bangai
 荒芜静	senyap|adj
 荒芜静寂	senyap|adj
 荒诞	absurdisme|n
 荒诞主	absurdisme|n
 荒诞主义	absurdisme|n
-荒谬	karut,khilaf,absurd|adj
+荒谬	karut,absurd|adj,khilaf
 荒谬的	absurd|adj
-荒野	kelumpang|n,liar|adj,bukit-bukau
-蟒	sanca|n,sawa,ular sawa|n
-蟒蛇	sawa,ular sawa|n
-角	bucu,penjuru|n,pukang|n,segi,siku|n,sudut|n,tanduk|n,tanjong malim
-角力	bergelut,gelut|v,gomol,gusti|n
-角处	ceruk
-角学	trigonometri|n
-角小	panji-panji|n
-角小旗	panji-panji|n
-角形	astagona,empat segi,oktagon|n,segi telu|n,segi tiga|n
-角恋	cinta segi tiga|n
-角恋爱	cinta segi tiga|n
-角抵	tebuk|v
-角抵之	tebuk|v
-角斜	menjeling
-角斜视	menjeling
-角架	kuda-kuda
-角的	bersegi,dogol|adj
-角笛	mandali
-角笛的	mandali
-角笛的一	mandali
+荒野	liar|adj,kelumpang|n
+蟒	ular sawa|n,sawa
+蟒蛇	ular sawa|n,sawa
+角	zawiat|n,sudut|n,siku|n,tanduk|n,pukang|n,penjuru|n,bahagian|n,segi
+角力	gelut|v,gusti|n,gomol,bergelut
+角度	zawiat|n
+角楼	zawiat|n
 角笛的一种	mandali
-角膜	kornea|n,saput
-角色	bahagian|n,karakter,lakon|v,peranan
-角落	ceruk,padun,pelosok,penjuru|n,sudut|n,tepas
+角膜	saput,kornea|n
+角膜角	kornea|n
+角膜角膜	kornea|n
+角色	bahagian|n,lakon|v,karakter,peranan
+角落	sudut|n,penjuru|n,tepas,ceruk,padun,pelosok
 角豆	bendi,kacang bendi
-角酰	dua puluh lima|num,lima likur|num
-角酰二	dua puluh lima|num,lima likur|num
-角酰二乙	dua puluh lima|num,lima likur|num
-角酰二乙胺	dua puluh lima|num,lima likur|num
+角钢	zawiat|n
 角隅	pelosok
-角顶	menanduk
-角顶撞	menanduk
-蹒	gayang,huyung,kedek-kedek,lilau,royong,terhuyung-huyung|adj
-蹒跚	gayang,royong,huyung,kedek-kedek,lilau,terhuyung-huyung|adj
-蹒跚的	huyung,terhuyung-huyung|adj
-蹒跚而	kedek-kedek,lilau
+赒人	sedekah|n
+蹒	gayang,royong
+蹒跚	gayang,royong,terhuyung-huyung|adj,huyung,lilau,kedek-kedek
+蹒跚的	terhuyung-huyung|adj,huyung
+蹒跚而	lilau,kedek-kedek
 蹒跚而行	kedek-kedek
 蹒跚而走	lilau
-酒	syarab,alkohol|n,beram,bir|n,champagne|n,hotel|n,irung,kabaret
+酒	hotel|n,alkohol|n,syarab,lesung|n,kaki minum|n,mat botol|n,kaki botol|n,irung
 酒吧	kabaret
+酒家	restoran|n
 酒店	hotel|n
 酒杯	irung
-酒杵	sadap
-酒杵的	sadap
-酒杵的汁	sadap
+酒楼	restoran|n
 酒涡	lesung|n
-酒精	alkohol|n,lima puluh lima|num
-酒精啤	lima puluh lima|num
-酒精啤酒	lima puluh lima|num
+酒精	alkohol|n
 酒醉	kemabukan|adj
 酒醉的	kemabukan|adj
-酒釀	tapai|n
-酒鬼	kaki botol|n,kaki minum|n,mat botol|n
+酒釀衍生词汇延伸阅读	tapai|n
+酒鬼	kaki minum|n,mat botol|n,kaki botol|n
 铒	erbium|n
-青	agsa,anak muda|n,angsana|n,asflat,belia,biru lebam,biru nila|adj,burung pialing
-青人	belia
-青尾	burung pialing,pialing
-青尾鹦	burung pialing,pialing
-青尾鹦鹉	burung pialing,pialing
-青年	anak muda|n,jejaka,orang muda,pemuda,agsa,pemuda-pemudi,pemudi
+铒铒	erbium|n
+青	perunggu|n,katak|n,anak muda|n,daun bawang|n,jejaka,pemuda,tengkek,memparang
+青尾	pialing,burung pialing
+青尾鹦	pialing,burung pialing
+青尾鹦鹉	pialing,burung pialing
+青山	hidup|v
+青年	anak muda|n,jejaka,pemuda,orang muda,pemuda-pemudi
 青年男	pemuda-pemudi
 青年男女	pemuda-pemudi
-青春	puspajuita
 青白	pucat|adj
 青白的	pucat|adj
-青的	belia
-青石	lazuardi|n
+青睐	perhatian|n
 青葱	daun bawang|n
 青蛙	katak|n
 青铜	perunggu|n,tembaga gansa

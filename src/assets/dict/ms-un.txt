@@ -6,7 +6,7 @@ undak	undak		停滞不前
 undan	undan		慢吞吞地
 undang	undang		法律，法规
 undangan	undangan		请柬
-undangundang	undang-undang	n	法律
+undangundang	undang-undang	n	法律	plural of undang (“law”) (the body of binding rules and regulations)
 undangundangrimba	undang-undang rimba	n	弱肉强食的原则  无法无天	law of the jungle
 undesilion	undesilion	num	10#	undecillion
 undi	undi	v	骰子，签，投票	to vote
@@ -40,7 +40,7 @@ uniform	uniform		制服	clothing of distinctive design worn by members of a part
 unik	unik	adj	独特的	Different from the others; unique.
 unit	unit	n	单位	unit
 unitedkingdom	united kingdom		联合王国  联合王国	United Kingdom (a kingdom and country in Northern Europe)
-universitas	universitas	n	两者择一
+universitas	universitas	n	两者择一	alternative form of universiti (“university”)
 universiti	universiti	n	大学	A university.
 unjam	unjam		插入，穿孔
 unjuk	unjuk		告诉，报告，伸出，提供

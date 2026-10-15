@@ -1,364 +1,217 @@
-亨	pahang
-侨	peranakan|n,singkek|n
+侨	peranakan|n
 侨生	peranakan|n
-储	angcadangan,cadandan,cadang|v,cadangan emas,jegung
-储备	cadandan,cadang|v,angcadangan,cadangan emas
-储备量	cadangan emas
+储	cadang|v,cadandan
+储备	cadang|v,cadandan,angcadangan
+储备品	rizab|n
 储备金	angcadangan
-储藏	jegung
-储藏处	jegung
-刨	memarut,penarah,menarah,serut,serutan
+刨	penarah,memarut,serut,menarah,serutan
 刨刀	serut
+刨子	satah|n
 刨平	menarah,serutan
-动	gerak|n,abdikasi|n,acahan|n,acum mengacum,aduk,aerodinamik|adj,agitasi|n,ajuk
+动	gerak|n,binatang|n,haiwan|n,kerah|n,mobilisasi|n,kuit,ogah,gelagat
 动乱	golak,kekacauan
-动于	kelalaian
-动于衷	kelalaian
-动产	hartanah|n
 动作	geri,rewang
-动出	mesin juruwang automatik|n
-动出纳	mesin juruwang automatik|n
-动出纳机	mesin juruwang automatik|n
-动力	aerodinamik|adj
-动力学	aerodinamik|adj
-动力学的	aerodinamik|adj
-动化	automasi|n
+动力	bala|n
 动向	gerakan|n
-动员	kerah|n,mengerahkan,mobilisasi|n,atlet|n
-动器	berida
-动场	padang besar,taman permainan|n
-动大	olimpiad|n
-动大会	olimpiad|n
+动员	kerah|n,mobilisasi|n,mengerahkan
+动因	ejen|n
 动态	gelagat
-动怒	naik darah,ngeram
-动摇	gual-gail,kuit,ogah
-动摩	geser
-动摩擦	geser
-动时	dendang
-动时的	dendang
-动时的歌	dendang
-动时的歌唱	dendang
-动机	motif,automaton|n
-动物	binatang|n,binca|n,dabat|n,haiwan|n,satwa|n,amfibia,aneliada,araknid|n
-动物名	si|art
-动物名前	si|art
-动物名前之	si|art
-动物名前之接	si|art
-动物名前之接头	si|art
-动物名前之接头词	si|art
-动物园	kebun binatang|n,taman haiwan|n,zoo|n
+动态影像	video|n
+动怒	ngeram,naik darah
+动感	dinamik|adj
+动摇	kuit,ogah,gual-gail
+动机	motif
+动物	binatang|n,haiwan|n,dabat|n,satwa|n,binca|n,zoo|n,taman haiwan|n,kebun binatang|n
+动物动	dabat|n,satwa|n,binca|n
+动物动物	dabat|n,satwa|n,binca|n
+动物园	zoo|n,taman haiwan|n,kebun binatang|n
 动物学	kajihaiwan
-动物生	kaji alam haiwan|n,zooekologi|n
-动物生态	kaji alam haiwan|n,zooekologi|n
-动物生态学	kaji alam haiwan|n,zooekologi|n
-动物的	inkuilin|n
-动物肚	geliga
-动物肚内	geliga
-动物肚内的	geliga
-动物肚内的胃	geliga
+动物生态学	zooekologi|n,kaji alam haiwan|n
 动物肚内的胃石	geliga
-动物腹	kemalala
-动物腹中	kemalala
-动物腹中结	kemalala
 动物腹中结石	kemalala
-动状	kelepit
-动电	telefon bimbit|n
-动电话	telefon bimbit|n
-动的	atletik|adj,automatik|adj,diam-diam,gegak|adj,gempa|n,goyah,kirap,kulai
-动者	penyaji|n,perghasut
-动者名	penyaji|n
-动者名词	penyaji|n
 动能	tenaga kinetik|n
-动脉	salurnadi,arteri pulmonari|n
-动荡	unggit,ungkang-ungkit
-动行	inisiatif|n
-动行动	inisiatif|n
-动表	overtur|n
-动表示	overtur|n
-动词	kata kerja|n,berkubang|v,menggerekkan|v,menumpukan|v
-动贩	mesin layan diri|n
-动贩卖	mesin layan diri|n
-动贩卖机	mesin layan diri|n
-动辞	pecat diri
-动辞职	pecat diri
-厨	dapur|n,kulinari|adj,penanggahan,pinggan mangkuk,pinggan-mangkuk,sembilan puluh sembilan|num,siok|n,tanak|v
-厨司	sembilan puluh sembilan|num
-厨司长	sembilan puluh sembilan|num
+动能动	tenaga kinetik|n
+动能动能	tenaga kinetik|n
+动脉	salurnadi
+动议	gerak|n
+动词	kata kerja|n
+动词动	kata kerja|n
+动词动词	kata kerja|n
+动辄	acap|adv,mudah|adj
+动静	ramai|adj
+厨	siok|n,dapur|n,tanak|v,tukang masak,penanggahan
 厨子	tanak|v,tukang masak
 厨师	tukang masak
-厨房	dapur|n,penanggahan,siok|n,kulinari|adj,pinggan mangkuk,pinggan-mangkuk
+厨房	siok|n,dapur|n,kulinari|adj,penanggahan,pinggan mangkuk,pinggan-mangkuk
 厨房用	pinggan mangkuk,pinggan-mangkuk
 厨房用具	pinggan mangkuk,pinggan-mangkuk
 厨房的	kulinari|adj
-在	berada|adj,ada|v,allahi,antara hati dengan jantung,apung-apung,bakau|n,batin,belakang|n
-在一	campur aduk,mengapit,mengetepikan
-在一块	mengapit
-在一起	campur aduk
-在一边	mengetepikan
-在上	allahi
-在下	kebawah|prep
-在下面	kebawah|prep
-在前	menjelang,sebelum|prep
-在十	penyaliban|n
-在十字	penyaliban|n
-在十字架	penyaliban|n
-在十字架上	penyaliban|n
-在十字架上钉	penyaliban|n
-在十字架上钉死	penyaliban|n
-在十字架上钉死的	penyaliban|n
-在十字架上钉死的刑	penyaliban|n
+在	berada|adj
+在...之下	depan hidung
+在...之前在...之前在前	sebelum|prep
+在...之后	selepas|prep,setelah|conj,pasni|adv,lepas tu|adv
+在...周围	mengenai|prep
+在…	selama|prep,di atas|prep,menjalani|v,di bawah,di antara,berhampiran,di belakang
+在…之	di atas|prep,di bawah,di antara,di belakang
+在…之上	di atas|prep
+在…之下	di bawah
+在…之后	di belakang
+在…之间	di antara
+在…期	selama|prep
+在…期间	selama|prep
+在…走	menjalani|v
+在…附	berhampiran
+在…附近	berhampiran
+在下面在下面	kebawah|prep
+在前	menjelang
 在十字架上钉死的刑罚	penyaliban|n
-在口	gumam
-在口中	gumam
-在后	belakang|n,sehabis,mengakhirkan,udi|n
-在后头	mengakhirkan
+在后	belakang|n,udi|n,sehabis
 在后的	udi|n
-在哪	dari mana|adv,di mana|adv,ke mana|pron
-在哪里	dari mana|adv,di mana|adv,ke mana|pron
-在嘴	mengulum
-在嘴里	mengulum
+在哪	di mana|adv
+在哪里	di mana|adv
+在哪里哪里地点	ke mana|pron,dari mana|adv
 在场	hadir|v
 在场的	hadir|v
-在坐	riba|n
-在坐上	riba|n
-在头	junjung|v
-在头上	junjung|v
-在头上服	junjung|v
-在头上服从	junjung|v
-在头顶	junjung|v
-在当	inap desa|n,rumah inap|n
-在当地	inap desa|n,rumah inap|n
-在当地居	inap desa|n,rumah inap|n
-在当地居民	inap desa|n,rumah inap|n
-在当地居民家	inap desa|n,rumah inap|n
-在当地居民家居	inap desa|n,rumah inap|n
-在当地居民家居住	inap desa|n,rumah inap|n
-在当地居民家居住的	inap desa|n,rumah inap|n
-在当地居民家居住的时	inap desa|n,rumah inap|n
 在当地居民家居住的时期	inap desa|n,rumah inap|n
-在心	antara hati dengan jantung
-在心肝	antara hati dengan jantung
-在心肝其	antara hati dengan jantung
 在心肝其间	antara hati dengan jantung
-在旁	ganding,kepil
-在水	apung-apung,rendam,selam|v
-在水中	rendam,selam|v
-在水面	apung-apung
-在水面上	apung-apung
-在海	bakau|n
-在海边	bakau|n
-在海边的	bakau|n
-在海边的红	bakau|n
-在海边的红木	bakau|n
-在灰	keunggulan
-在灰里	keunggulan
-在炉	jerang|v
-在炉上	jerang|v
-在王	hadrat
-在王或	hadrat
-在王或神	hadrat
-在王或神前	hadrat
-在的	batin,cap ayam|adj,mutakhir|adj,sungguh|adj,zahir
-在米	peram
-在米里	peram
-在背	gendong,menggendong
-在背后	gendong,menggendong
-在脑	membayang|v
-在脑海	membayang|v
-在脑海里	membayang|v
-在膝	memangku,meriba,riba|n
-在膝上	memangku,meriba,riba|n
-在袋	sarungkan
-在袋中	sarungkan
-在这	dalam keadaan,di sini
-在这种	dalam keadaan
-在这种情	dalam keadaan
-在这种情况	dalam keadaan
-在这种情况之	dalam keadaan
+在旁	kepil,ganding
+在此之前	dulu|adv
+在此之后	hadapan|det
+在深处	dalam-dalam|adv
+在这	di sini
 在这种情况之下	dalam keadaan
 在这里	di sini
 在那	di sana
 在那里	di sana
-墨	dakwat|n,mangsi|n,nus,pita,sap,sotong katak|n,tinta
+墨	dakwat|n,mangsi|n,sotong katak|n,pita,nus
 墨带	pita
-墨水	dakwat|n,mangsi|n,tinta,sap
-墨水纸	sap
-墨鱼	nus,sotong katak|n
-妨	gendala,halang|v,hambat,membantul,mencampuri,menyangkak,sangkak
+墨水	dakwat|n,mangsi|n
+墨水tinta	tinta
+墨渍	tanda|n
+墨鱼	sotong katak|n,nus
+妨	halang|v,hambat,gendala,sangkak,membantul,mencampuri,menyangkak
 妨害	sangkak
-妨碍	gendala,halang|v,hambat,membantul,mencampuri,menyangkak
-徨	senteri|n
-徨者	senteri|n
-怨	dendam|n,hasad,kasumat,kebencian,merajuk|v,meresan,rungutnya|v,sengketa
+妨碍	halang|v,hambat,gendala,membantul,mencampuri,menyangkak
+怨	dendam|n,rungutnya|v,hasad,sengketa,kasumat,meresan,kebencian
 怨怼	kasumat
-怨恨	dendam|n,hasad,kebencian,meresan,sengketa
+怨恨	dendam|n,hasad,sengketa,meresan,kebencian
+怨敌	musuh|n
+怨气	ah|part
 怨言	rungutnya|v
 您	pakanira
-挨	berdampingan,bulur|adj,lendih
-挨近	berdampingan,lendih
+挨	bulur|adj,lendih,berdampingan
+挨着	dekat|adj
+挨边	relevan|adj
+挨近	lendih,berdampingan
 挨饿	bulur|adj
-推	dorong|v,mendesak,menyorong,tolak|v,agak-agak,aham,andai,berasak-asakan
+推	tolak|v,dorong|v,perakuan|n,mendesak,menyorong,dalih|n,sangka|v,tekan|v
 推事	majistret|n
 推倒	menjerumuskan,merebahkan
-推出	mengunjurkan,unjur
+推出	unjur,mengunjurkan
 推前	sorong|v
-推动	geming|v,mendorong
+推动	mendorong
 推定	andai
-推开	menepis,sesar,tepis,tolak|v,sigung
+推开	tolak|v,tepis,menepis,sesar
 推托	sengelat
 推托者	sengelat
-推挤	berdesak,desak|v,berasak-asakan
+推挤	desak|v,berdesak,berasak-asakan
 推挤着	berasak-asakan
 推断	ekstrapolasi|n
-推测	agak-agak,aham,gamak,menampa,menerka,mengagak,sangka|v,terka
+推测	sangka|v,aham,gamak,terka,agak-agak,menampa,menerka,terkaan
 推理	bertaakul
 推翻	menggulingkan,merobohkan
 推荐	perakuan|n
 推踢	kuis
 推辞	dalih|n
 推运	dorong|v
-推进	dorong|v,mara,sorong|v
+推进	dorong|v,sorong|v,mara
 推迫	tekan|v
-推鉛	lontar peluru|n
-推鉛球	lontar peluru|n
+推鉛球近义词延伸阅读	lontar peluru|n
 昨	kemarin|n,semalam|n
 昨天	kemarin|n,semalam|n
-木	abnus|n,akrot|n,anak-anakan,angsana|n,arang|n,arboris|n,bakau|n,balut rokok
-木之	bengku,ibus|n
-木之一	bengku,ibus|n
-木之一种	bengku,ibus|n
-木偶	boneka|n,orang-orangan,patung|n,anak-anakan,wayanggolek
+木	peti|n,kayu|n,kasut|n,arang|n,pasak|n,patung|n,dulang|n,urat|n
+木偶	patung|n,boneka|n,orang-orangan,anak-anakan,wayanggolek
 木偶人	anak-anakan
 木偶戏	wayanggolek
-木制	abnus|n
-木制的	abnus|n
 木刺	selumbar
 木匠	tukang kayu
-木名	legundi|n
 木块	tongkong
-木塞	gabus,pemalam|n
+木塞	pemalam|n,gabus
 木头	kayu|n,penyerpihan|n,kaki bangku|n
 木头支	kaki bangku|n
 木头支架	kaki bangku|n
 木屐	terompah
-木属	merunggai|n
 木履	kasut|n
 木心	rias
-木材	dahan kayu|n,tatal|n,kayu-kayan,kayu-kayuan
+木材	tatal|n,dahan kayu|n
 木杵	kobah
 木架	kekuda
-木柱	mandika,terucuk
 木柴	kayu api|n
 木栅	embarau
 木栉	bonggol|n,menggul
-木树	belantai
-木树之	belantai
-木树之一	belantai
-木树之一种	belantai
-木栽	arboris|n
-木栽培	arboris|n
-木栽培家	arboris|n
-木桥	palemban,titian
-木桶	terubung
-木棉	kabu-kabu,kapuk|n,kekabu|n
+木桩	galah|n
+木棉	kapuk|n,kekabu|n,kabu-kabu
 木楔	pating
 木槿	worawari|n
 木炭	arang|n
-木片	suban,jerjah
+木片	suban
 木版	papan|n
 木理	urat|n
-木琴	gambang,xilofon|n
-木瓜	betik|n,papaya,pepaya|n
-木瓜树	pepaya|n
+木琴	xilofon|n,gambang
+木瓜	betik|n,papaya
 木瓦	sirap|n
 木瘤	menggul
-木的	kebas,sebah
 木盆	capah|n
 木盒	dulang|n
-木盘	capah|n,dulang|n
+木盘	dulang|n,capah|n
 木矛	serunjang
 木箫	serunai
 木箱	peti|n
 木耳	cendawan|n
-木舟	ibar-ibar,jalur|n,jongkong,jukung,kempang,kolek,sagur
-木船	tongkang
-木薯	bandong|n,ubi kayu|n
+木薯	ubi kayu|n,bandong|n
+木薯木	bandong|n
+木薯木薯	bandong|n
 木虱	basat
-木质	gubal,teras|n,xilem
+木质	xilem
 木质部	xilem
-木钉	pasak|n,pating,tumang
-木锤	gandia
+木钉	pasak|n,tumang,pating
 木髓	empulur|n,menggul,rias
-木鸟	belatuk|n,jelatuk,pelatuk|n
-木麻	eru|n,ru|n
-木麻黄	eru|n,ru|n
-木龙	serempu
-木龙骨	serempu
+木麻	ru|n,eru|n
+木麻黄	ru|n,eru|n
 梨	lai|n
 梨子	lai|n
-榨	memeras,peras|v,hempit,himpit,kilang|n,lurut|v,mengempa,perah|v
-榨出	hempit,himpit,perah|v
-榨机	kilang|n
-榨板	sengkalan
-榨的	tetal
-氨	asid amino|n,parasetamol|n
-氨基	asid amino|n,parasetamol|n
-氨基酚	parasetamol|n
+榨	peras|v,memeras
+榨出	perah|v,hempit,himpit
+氨基	asid amino|n
 氨基酸	asid amino|n
-涨	air pasang,empoh,kenaikan,lambung,sebak|adj
-涨溢	empoh,sebak|adj
+涨	sebak|adj,lambung,empoh,air pasang
+涨溢	sebak|adj,empoh
 涨潮	air pasang
 涨起	lambung
+涨钱	inflasi|n
 熨	seterika|n
 熨斗	seterika|n
-用	mak kau hijau,memakai,adat resam,air botol|n,air minum|n,alat|n,alat perkakas,alatan|n
-用主	pragmatisme|n
-用主义	pragmatisme|n
-用之	belantik,telekung,temiang
-用之有	belantik
-用之有弹	belantik
-用之有弹性	belantik
-用之有弹性捕	belantik
-用之有弹性捕器	belantik
-用之细	temiang
-用之细竹	temiang
-用之面	telekung
-用之面幕	telekung
-用乐	nobat
-用乐队	nobat
-用以	gaba,serampin
-用以放	serampin
-用以放硕	serampin
-用以放硕莪	serampin
-用以放硕莪的	serampin
+用	guna|n,faedah|n,perabot|n,alat|n,penggunaan|n,memakai,alatan|n,perkakas
+用…	mengisikan,menyemburi,menamparkan
+用…作枕头	berbantalkan
+用…喷	menyemburi
+用…喷在	menyemburi
+用…拍	menamparkan
+用…拍打	menamparkan
+用…装	mengisikan
+用…装满	mengisikan
 用以放硕莪的席	serampin
-用以装	gaba
-用以装饰	gaba
-用以装饰牌	gaba
-用以装饰牌楼	gaba
-用以装饰牌楼的	gaba
-用以装饰牌楼的椰	gaba
 用以装饰牌楼的椰叶	gaba
-用其	menyintuk,sintuk
-用其树	menyintuk,sintuk
-用其树皮	menyintuk,sintuk
-用其树皮洗	menyintuk,sintuk
-用其树皮洗发	menyintuk,sintuk
-用具	alat|n,alat perkakas,alatan|n,perabot|n,peralatan,perkakas,kelong,pinggan mangkuk
-用出	taksi|n,ulat sapu|n,ulat teksi|n
-用出租	taksi|n,ulat sapu|n,ulat teksi|n
-用出租车	taksi|n,ulat sapu|n,ulat teksi|n
-用出租车送	taksi|n,ulat sapu|n,ulat teksi|n
+用其树皮洗发	sintuk,menyintuk
+用具	perabot|n,alat|n,alatan|n,perkakas,peralatan,alat perkakas
 用刀	salang|v
 用刀刺	salang|v
 用刀刺死	salang|v
-用剑	rencong|n
-用剑刺	rencong|n
-用力	kial,terkial-kial,gelodar,gelosok,hentam|v,menghempas,menghentak,menghentam
+用力	kial,terkial-kial,hentam|v,tarik tali|n,gelodar,gelosok,menghempas,rentap
 用力打	hentam|v,menghentam
 用力投	menghempas
 用力投掷	menghempas
-用力拉	merentap,rentap,tarik tali|n
+用力拉	tarik tali|n,rentap,merentap
 用力摆	gelodar
 用力摆脱	gelodar
 用力擦	gelosok
@@ -366,42 +219,20 @@
 用匙	mencedok|v
 用匙舀	mencedok|v
 用匙舀取	mencedok|v
-用卡	kad kredit|n
-用叶	jolek
-用叶子	jolek
-用叶子包	jolek
 用叶子包裹	jolek
-用听	stetoskop|n
-用听诊	stetoskop|n
-用听诊器	stetoskop|n
-用听诊器诊	stetoskop|n
-用听诊器诊断	stetoskop|n
-用吹	sumpit|n
-用吹箭	sumpit|n
-用品	bekal|n,kaduk
-用处	faedah|n,guna|n
-用头	menjunjung,sondol
-用头顶	menjunjung,sondol
+用处	guna|n,faedah|n
+用头	sondol,menjunjung
+用头顶	sondol,menjunjung
 用头顶球	sondol
 用头顶着	menjunjung
 用完	mompong
 用心	inding
 用心倾	inding
 用心倾听	inding
-用扇	kapis|n
-用扇贝	kapis|n
-用扇贝状	kapis|n
-用扇贝状碟	kapis|n
-用扇贝状碟烘	kapis|n
-用扇贝状碟烘烤	kapis|n
-用手	bertelekan,kelatu,membibir,menggamak,menimang-nimang,menjinjing
-用手或	kelatu
-用手或书	kelatu
-用手或书本	kelatu
-用手或书本打	kelatu
+用意	niat|n,hajat|n
+用户	pelanggan|n
+用手	menggamak,bertelekan,menjinjing,menimang-nimang
 用手或书本打头	kelatu
-用手指	membibir
-用手指携	membibir
 用手指携带	membibir
 用手掂	menggamak,menimang-nimang
 用手掂量	menggamak,menimang-nimang
@@ -411,255 +242,135 @@
 用拳	meninju
 用拳头	meninju
 用拳头打	meninju
-用指	cecap|v,jentik|n,jinjit,menjentik,tindas|v
+用指	tindas|v,menjentik
 用指压	tindas|v
 用指压死	tindas|v
-用指头	cecap|v
-用指头蘸	cecap|v
-用指头蘸食	cecap|v
-用指头蘸食物	cecap|v
-用指头蘸食物来	cecap|v
-用指头蘸食物来尝	cecap|v
-用指头蘸食物来尝味	cecap|v
 用指头蘸食物来尝味道	cecap|v
-用指尖	jentik|n,jinjit,menjentik
-用指尖弹	menjentik,jentik|n
+用指尖	menjentik
+用指尖弹	menjentik
 用指尖弹击	jentik|n
-用指尖走	jinjit
 用指尖走路	jinjit
-用掌	merangkap
-用掌心	merangkap
-用掌心捕	merangkap
 用掌心捕捉	merangkap
 用斧	patil
 用斧砍	patil
 用旺	goreng kilas|v
 用旺火	goreng kilas|v
 用旺火煸	goreng kilas|v
-用杠	ungkit|v
-用杠杆	ungkit|v
-用杠杆撬	ungkit|v
-用杠杆撬起	ungkit|v
-用柏	asfalt|n
-用柏油	asfalt|n
-用柏油铺	asfalt|n
-用柏油铺成	asfalt|n
-用柏油铺成的	asfalt|n
-用椰	nasi lemak|n
-用椰斗	nasi lemak|n
-用椰斗煮	nasi lemak|n
-用椰斗煮的	nasi lemak|n
+用杠杆撬起重申	ungkit|v
 用椰斗煮的饭	nasi lemak|n
-用水	air botol|n,air minum|n,membilas
-用水再	membilas
-用水再度	membilas
-用水再度冲	membilas
 用水再度冲洗	membilas
 用法	penggunaan|n
 用点	bertambul
 用点心	bertambul
-用物	kumanga
-用的	banji|n,berguk,berguna|adj,bermanfaat,denak,hampeh|adj,merguk,mubazir|adj
-用的东	penangkis
-用的东西	penangkis
-用的人	penyewa|n
-用的十	banji|n
-用的十字	banji|n
-用的十字记	banji|n
-用的十字记号	banji|n
-用的厚	sengkalan
-用的厚板	sengkalan
-用的坚	padau
-用的坚固	padau
-用的坚固之	padau
-用的坚固之帆	padau
-用的小	denak
-用的小动	denak
-用的小动物	denak
-用的石	patio|n
-用的石砌	patio|n
-用的石砌空	patio|n
-用的胶	pulut|n
-用的胶汁	pulut|n
-用的露	berguk,merguk
-用的露眼	berguk,merguk
-用的露眼面	berguk,merguk
-用的露眼面幂	merguk
-用的露眼面罩	berguk
-用眼	menjeling
-用眼角	menjeling
-用眼角斜	menjeling
 用眼角斜视	menjeling
-用竹	sengget
-用竹竿	sengget
-用竹竿打	sengget
-用竹竿打落	sengget
 用竹竿打落果	sengget
 用竹竿打落果了	sengget
-用竿	menjolok
-用竿摘	menjolok
-用竿摘取	menjolok
-用竿摘取果	menjolok
 用竿摘取果子	menjolok
 用篮	mengambung
 用篮背	mengambung
 用篮背负	mengambung
-用篱	pagari
-用篱笆	pagari
-用篱笆围	pagari
 用篱笆围住	pagari
 用糖	gado-gado
-用统	statistik gunaan|n
-用统计	statistik gunaan|n
-用统计学	statistik gunaan|n
 用网	jaring|n,menjala
 用网捕	jaring|n
 用网捕捉	jaring|n
 用网网	menjala
 用网网鱼	menjala
-用翅	gelepar
-用翅膀	gelepar
-用翅膀拍	gelepar
 用翅膀拍击	gelepar
-用肘	menyenggol,senggol,sigung
+用肘	sigung,senggol,menyenggol
 用肘推	sigung
 用肘推开	sigung
-用肘轻	menyenggol,senggol
-用肘轻触	menyenggol,senggol
-用脚	berjengket,jengket,menanjak,menjengket
-用脚尖	berjengket,jengket,menanjak,menjengket
-用脚尖走	berjengket,menanjak,menjengket,jengket
+用肘轻	senggol,menyenggol
+用肘轻触	senggol,menyenggol
+用脚	menanjak,berjengket,menjengket
+用脚尖	menanjak,berjengket,menjengket
+用脚尖走	menanjak,berjengket,menjengket
 用脚尖走路	jengket
-用蕉	nasi bungkus
-用蕉叶	nasi bungkus
-用蕉叶包	nasi bungkus
-用蕉叶包裹	nasi bungkus
-用蕉叶包裹的	nasi bungkus
-用蕉叶包裹的饭	nasi bungkus
 用蕉叶包裹的饭菜	nasi bungkus
-用蜡	lilin|n
 用角	menanduk
 用角顶	menanduk
 用角顶撞	menanduk
-用詞	slanga|n
-用语	bahasa dalam
-用途	faedah|n,guna|n,adat resam,serbaguna|adj
-用途的	serbaguna|adj
+用语	istilah|n
+用途	guna|n,faedah|n
+用量	dos|n
 用鉛	pencil|v
 用鉛筆	pencil|v
 用鉛筆寫	pencil|v
-用钉	terpaku|v
-用钉钉	terpaku|v
 用钉钉牢	terpaku|v
 用钉钉牢的	terpaku|v
 用铲	itik sudu|n
 用铲者	itik sudu|n
-用长	beranta,bergalah,jolok
-用长桨	beranta
-用长桨的	beranta
-用长桨的内	beranta
-用长桨的内河	beranta
 用长桨的内河船	beranta
-用长竹	jolok
-用长竹竿	jolok
-用长竹竿击	jolok
 用长竹竿击落	jolok
-用长竿	bergalah
-用面	onde-onde,sagun
-用面粉	sagun,onde-onde
-用面粉和	onde-onde
-用面粉和椰	onde-onde
-用面粉和椰子	onde-onde
-用面粉和椰子做	onde-onde
+用面	sagun
+用面粉	sagun
 用面粉和椰子做成	onde-onde
-用须	sugi
-用须根	sugi
-用须根擦	sugi
 用须根擦牙	sugi
-用香	setanggi
-用马	memacu
-用马刺	memacu
-用马刺来	memacu
-用马刺来踢	memacu
 用马刺来踢马	memacu
-用鱼	mayung
 用鼻	sengau
 用鼻子	sengau
-用鼻音	sengau
-用鼻音说	sengau
 用鼻音说话	sengau
-眨	berkejap-kejap,berkelip-kelip,kebil,kedip|v,kenyit,mengenyit,siluk,terkebil-kebil
-眨眼	berkejap-kejap,berkelip-kelip,kenyit,mengenyit,siluk,kebil,kedip|v,terkebil-kebil
-眨眼睛	kebil,kedip|v,terkebil-kebil
-笨	bahlul|adj,bodoh|adj,ahmak|adj,bagur,bebal|adj,berat tangan,buta kayu,cempelang
-笨手	berat tangan
-笨手笨	berat tangan
+眨	siluk,berkejap-kejap,berkelip-kelip
+眨眼	siluk,berkejap-kejap,berkelip-kelip,kedip|v,kebil,terkebil-kebil
+眨眼睛	kedip|v,kebil,terkebil-kebil
+窨井	telaga|n
+笨	bahlul|adj,bodoh|adj,kecanggungan|n,bagur
+笨嘴笨舌	canggung|adj
 笨手笨脚	berat tangan
 笨手笨脚的	berat tangan
-笨拙	kecanggungan|n,cempelang,kekok,tolol|adj
-笨拙的	cempelang,kekok,tolol|adj
-笨的	ahmak|adj,bebal|adj,dogol|adj,kikuk,pandir,sedat,sementung|adj,tumpul|adj
-笨脚	berat tangan
-笨脚的	berat tangan
+笨拙	tolol|adj,kecanggungan|n,kekok,cempelang
+笨拙的	tolol|adj,kekok,cempelang
 笨重	bagur
-膨	boyot,buncir,busung|v,gembung,gendut|adj,inflasi|n,kelembung,kembung|adj
-膨胀	busung|v,gembung,kelembung,kembung|adj,lembung,luap,mekar|v,mencing
-膨胀的	boyot,gendut|adj,kepuh,buncir
-舨	sampan berkung
-茨	keledek
-萨	bomor|n,ishak,kalimah syahadah|n,piza|n,poyang|n
-萨克	ishak
+膨	mekar|v,busung|v,kembung|adj,luap,mencing,gembung,kelembung,muai
+膨胀	mekar|v,busung|v,kembung|adj,gendut|adj,luap,mencing,gembung,kelembung
+膨胀的	gendut|adj,kepuh
 萨哈	kalimah syahadah|n
 萨哈达	kalimah syahadah|n
-萨满	bomor|n,poyang|n
-萨满教	bomor|n,poyang|n
-萨满教巫	bomor|n,poyang|n
-萨满教巫医	bomor|n,poyang|n
-萨饼	piza|n
-讨	adawat|n,ambil hati,bahas|n,beka|n,benci|v,berbincang|v,berpayu,berunding
+萨满教巫医巫师	bomor|n,poyang|n
+讨	luah|v,bahas|n,adawat|n,bincang|v,beka|n,debat|n,benci|v,berbincang|v
 讨价	berpayu
 讨价还	berpayu
 讨价还价	berpayu
-讨会	seminar
 讨债	menagih
-讨厌	adawat|n,benci|v,jemu,luah|v,jelak|adj,membosankan,menggerek|v,menjemukan
-讨厌的	jelak|adj,someng,menggerek|v,menjemukan,orang lanat
-讨厌的人	menggerek|v
-讨厌的家	orang lanat
-讨厌的家伙	orang lanat
+讨厌	jelak|adj,luah|v,adawat|n,benci|v,jemu,someng
+讨厌的	jelak|adj,someng
 讨好	ambil hati
-讨论	bahas|n,beka|n,berbincang|v,berunding,berura-ura,bincang|v,cakapkan,debat|n
+讨论	bahas|n,bincang|v,beka|n,debat|n,berbincang|v,ngomong|v,membahaskan|v,membincangkan|v
+讨论区	maklum balas|n
+讨论班	bengkel|n
 讨论要	buku bicara
 讨论要点	buku bicara
-谨	baik-baik,cermat|adj,telatan
-谨慎	baik-baik,cermat|adj,telatan
+谨	baik-baik
+谨慎	cermat|adj,baik-baik,telatan
 谨慎的	cermat|adj,telatan
-质	berkualiti|adj,cair|adj,colok|n,gubal,hemoglobin,jirim|n,karsinogen|n,keabnormalan|n
+质	kualiti|n,jirim|n,soal|v
 质地	kualiti|n
 质子	jirim|n,proton|n
-质导	colok|n
-质导火	colok|n
-质导火线	colok|n
-质的	cair|adj,rohani
-质部	xilem
+质子质	proton|n
+质子质子	proton|n
+质料	jirim|n
+质点	butir|n
+质量	massa|n
 质问	soal|v
 辨	mencamkan
+辨别力	diskriminasi|n
 辨认	mencamkan
-钨	siamang|n,tungsten|n,wolfram|n
-馨	cempaka|n,kemboja
-馨花	kemboja
-骨	bangkai|n,belikat,bengkarak,bertulang,iga rusuk,jejala,jerangkung,kerangka
+钨	siamang|n
+钨钨	wolfram|n,tungsten|n
+钨钨W	wolfram|n,tungsten|n
+骨	sendi|n,tulang|n,rangka|n,mengkelan,sumsum,bengkarak,jerangkung
+骨力	tulang belakang|n
 骨头	tulang|n
+骨头节儿	sendi|n
+骨朵	kelab|n
 骨架	bengkarak
 骨梗	mengkelan
-骨的	linggi
-骨的夹	linggi
-骨的夹板	linggi
+骨气	integriti|n
 骨节	sendi|n,sengal|adj
 骨节痛	sengal|adj
-骨骼	bengkarak,jerangkung,rangka|n
+骨骼	rangka|n,bengkarak,jerangkung
 骨髓	sumsum
-鲨	ikan yu|n,jerung|n,yu|n
-鲨鱼	ikan yu|n,jerung|n,yu|n
-鸨	alku,barua|n
+鲨	yu|n,jerung|n,ikan yu|n
+鲨鱼	yu|n,jerung|n,ikan yu|n
+鸨	alku
 鸨母	alku

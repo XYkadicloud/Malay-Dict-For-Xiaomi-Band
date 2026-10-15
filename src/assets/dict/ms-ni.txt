@@ -22,7 +22,7 @@ niobium	niobium	n	铌  铌Nb	niobium (chemical element)
 nipah	nipah		葺草棕榈
 nipis	nipis	adj	薄	Having little thickness; thin.		tebal
 nipismacamkertas	nipis macam kertas	adj	薄的	thin as a wafer  paper-thin
-nipu	nipu	v	两者择一
+nipu	nipu	v	两者择一	alternative form of menipu (“to deceive; to lie”)
 nira	nira		糖棕榈树汁供制糖用
 nirai	nirai	n	排	row  line
 nirmala	nirmala	adj	无瑕疵的	flawless  faultless  spotless

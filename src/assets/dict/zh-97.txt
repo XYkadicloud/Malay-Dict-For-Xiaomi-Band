@@ -1,174 +1,125 @@
-乡	akar umbi|n,atan,desa|n,dusun,mudik,nostalgia|n,qaryah,rantau|n
+abbr.二月	feb
+abbr.十一月	nov
+乡	desa|n,nostalgia|n,dusun,qaryah
 乡下	sepok|adj
 乡下人	sepok|adj
 乡愁	nostalgia|n
 乡村	desa|n,dusun,qaryah,akar umbi|n
 乡村地	akar umbi|n
 乡村地区	akar umbi|n
-信	carta|n,menganut,surat|n,warkah|n,acang-acang|n,akidah,amanah,andal|adj
-信仰	akidah,anut|v,ikrar|n,iman|n,menganut,beragama,din|n,ibadat
+乡长	datuk bandar|n
+信	surat|n,warkah|n,isyarat|n,ikrar|n,umat|n,iman|n,pegangan|n,keyakinan|n
+信仰	ikrar|n,iman|n,anut|v,menganut,akidah,beragama
 信仰宗	beragama
 信仰宗教	beragama
-信仰的	keparat
-信仰者	kafir
 信件	arkah
-信任	andalan,kepercayaan,ateistik|adj,curiga|adj
-信任他	ateistik|adj
+信任	andalan,kepercayaan
 信任他人	ateistik|adj
 信任他人的	ateistik|adj
-信函	e-mel|n
-信号	gawar,isyarat|n,semboyan kata
-信后	assalam
-信后的	assalam
-信后的祝	assalam
-信后的祝语	assalam
-信回	mualap
-信回教	mualap
-信回教者	mualap
-信子	lembayung|n
+信号	isyarat|n,gawar,semboyan kata
+信实	handal|adj
 信封	embelop
 信度	keandalan|n
-信徒	penganut,pengikut,rasul|n,umat|n
-信心	akidah,ikrar|n,iman|n,itikad,keyakinan|n,beritikad,patah hati,rendah diri|adj
-信心的	rendah diri|adj
-信念	ateisme|n,ikrar|n,minarkisme|n,pegangan|n
+信徒	umat|n,rasul|n,penganut,pengikut
+信得过	handal|adj
+信心	ikrar|n,iman|n,keyakinan|n,itikad,akidah
+信念	ikrar|n,pegangan|n,ateisme|n,minarkisme|n
 信息	teknologi maklumat|n
 信息技	teknologi maklumat|n
 信息技术	teknologi maklumat|n
 信托	amanah
-信条	rukun|n,kalimah|n
-信片	poskad|n
-信用	nadim,ingkar,kad kredit|n,kebolehpercayaan|n,kredibiliti|n,onar,putar balik
+信条	rukun|n
+信用	nadim,kad kredit|n
 信用卡	kad kredit|n
-信用的	onar
-信的	bunyi surat,fanatik|adj,onar,tetap hati
+信的	bunyi surat
 信的内	bunyi surat
 信的内容	bunyi surat
 信石	arangan
 信管	murang
 信箱	peti surat
-信者	acang-acang|n
+信誉	izzat|n
 信赖	andal|adj
-凡	awam|adj,banal|adj,kepalang|adj,rucah,sindrom marfan|n,ternah,variasi
+信道	saluran|n
+凡事	segala|pron
 凡士	variasi
 凡士林	variasi
-凡的	banal|adj,rucah,ternah
-凡综	sindrom marfan|n
-凡综合	sindrom marfan|n
-凡综合征	sindrom marfan|n
-卡	kad|n,kad debit|n,kad kredit|n,kadbod,kalori,kartun|n,kasino|n,limau purut|n
+凡百	segala|pron
+卡	trak|n,lori|n,mengkelan,kadbod
+卡拉	mat karok|n,kaki karok|n
+卡拉O	mat karok|n,kaki karok|n
+卡拉OK	mat karok|n,kaki karok|n
 卡梅	tanah tinggi cameron
 卡梅伦	tanah tinggi cameron
 卡梗	mengkelan
 卡片	kad|n
 卡纸	kadbod
-卡菲	limau purut|n
-卡菲尔	limau purut|n
-卡菲尔酸	limau purut|n
 卡菲尔酸橙	limau purut|n
-卡西	kasino|n
-卡西诺	kasino|n
-卡西诺赌	kasino|n
 卡西诺赌场	kasino|n
 卡路	kalori
 卡路里	kalori
-卡车	lori|n,trak|n
+卡车	trak|n,lori|n
 卡通	kartun|n
 卡通画	kartun|n
-啡	duit kopi|n,hampas kopi,kahwa|n,kedai kopi|n,kopi|n,kopi o|n,kopitiam|n,losmen
-啡店	kedai kopi|n,kopitiam|n,losmen
-啡渣	hampas kopi
-嗡	berdenging-denging,berdengung,denging,dengung,lesit
-嗡作	berdenging-denging,denging,lesit
-嗡作响	berdenging-denging,denging,lesit
-嗡嗡	berdenging-denging,berdengung,denging,dengung,lesit
-嗡嗡作	berdenging-denging,denging,lesit
-嗡嗡作响	berdenging-denging,denging,lesit
-嗡嗡声	dengung,berdengung
-嗡声	berdengung,dengung
-囡	anak-anakan
-囡囡	anak-anakan
-坡	adat perpatih,dolar singapura,four flat|n,lepap,menaiktaraf|n,naik taraf|n,ringgit singapura,riyal|n
-坡元	dolar singapura,ringgit singapura,riyal|n
+卡顿	lambat|adj
+嗡嗡	lesit,dengung,denging,berdenging-denging
+嗡嗡作	lesit,denging,berdenging-denging
+嗡嗡作响	lesit,denging,berdenging-denging
+嗡嗡声	dengung
+囡囡	bayi|n
 坡度	four flat|n
 坡度点	four flat|n
-坡族	adat perpatih
-坡族母	adat perpatih
-坡族母系	adat perpatih
-坡族母系社	adat perpatih
-坡族母系社会	adat perpatih
-坡族母系社会风	adat perpatih
-坡族母系社会风俗	adat perpatih
 坡陡	lepap,tengkurap
 坡陡的	lepap,tengkurap
-嫡	gahara
 嫡出	gahara
 嫡出的	gahara
-寡	balu|n,berat mulut,bujang|n,bujang talan,randa
-寡妇	balu|n,bujang|n,randa,bujang talan
-寡妇或	bujang talan
-寡妇或鳏	bujang talan
-寡妇或鳏夫	bujang talan
-寡言	berat mulut
-寡言的	berat mulut
-屡	berkali-kali,madang
+寡	bujang|n,balu|n,randa
+寡妇	bujang|n,balu|n,randa
+屡	madang,berkali-kali
 屡屡	madang
 屡次	berkali-kali
-峡	celah bukit,genting bukit,jurang,kanyon|n,segenting|n,selat|n
-峡谷	jurang,kanyon|n
-巡	itik kening putih|n,langlang,mata-mata|n,meraun,meronda,pair,persiaran|n,raun
+峡	kanyon|n,jurang
+峡谷	kanyon|n,jurang
+巡	mata-mata|n,persiaran|n,itik kening putih|n,ronda,pair,raun,meraun,langlang
 巡凫	itik kening putih|n
 巡察	langlang
-巡查	ronda
+巡查西班牙语f.巡逻	ronda
 巡航	persiaran|n
 巡警	mata-mata|n
-巡逻	meraun,meronda,pair,raun,ronda
-忡	lisah,lorat|adj
-忡不	lisah,lorat|adj
-忡不安	lisah,lorat|adj
-握	berjawat,memegang,bermoreh|v,capai|v,cekak|v,cekik|v,cengkaman,genggam|n
-握一	jabat
-握一份	jabat
-握一份工	jabat
-握一份工作	jabat
-握两	pancil tangan
-握两手	pancil tangan
-握住	capai|v,cekak|v,cekik|v,jawat,menjabat,pegang|v
+巡逻	ronda,pair,raun,meraun,meronda
+握	berjawat,memegang,capai|v,cekik|v,cekak|v,pegang|v,jabat,kaut
+握住	capai|v,cekik|v,cekak|v,pegang|v,jawat,menjabat
+握力	genggam|n
 握取	kaut
 握手	jabat tangan
 握执	jabat
-条	lonjor,apik,barut,belebas|n,bergaris,beroti,bersyarat,camti
-条件	syarat,bersyarat
-条件的	bersyarat
+条	lonjor
+条件	syarat
+条凳	bangku|n
 条子	jalur|n
 条板	beroti
 条款	syarat
-条状	lajur
+条理	perintah|n,persediaan|n
 条痕	coreng
-条的	renceng
-条纹	jalur|n,loreng,pelang,genggang|adj,gingam|n,seran
+条纹	jalur|n,pelang,loreng,gingam|n,seran
 条纹棉	gingam|n
 条纹棉布	gingam|n
-条纹的	seran,genggang|adj
-条纹的布	genggang|adj
+条纹的	seran
 条线	galur
-条肉	cincang|v
+条线关	galur
+条线关系	galur
 桡	kayuh|n,kalas
 桡架	kalas
-橡	getah|n,karet|n,kebun getah,kejai,ladang getah,pemadam|n,sondek
+橡	getah|n,karet|n,pemadam|n,kejai
 橡树	kejai,ladang getah
 橡树园	ladang getah
 橡皮	karet|n,pemadam|n
-橡胶	getah|n,kebun getah,sondek
+橡皮线	talian|n
+橡胶	getah|n,kebun getah
 橡胶园	kebun getah
-橡胶的	sondek
-橡胶的一	sondek
 橡胶的一种	sondek
-毡	guderi,hambal,permadani,tarbus|n
-毡帽	tarbus|n
-污	becak,berbecak-becak,bercalit,bergelumang,bintik|n,carut,carut-marut|n,cemar
-污垢	lumar,noda|n,comot-momot,momot
-污垢的	comot-momot,momot
+污	noda|n,bintik|n,pencemaran|n,kelemumur|n,kotoran|n,cemar,lumar,keredak
+污垢	noda|n,lumar,momot,comot-momot
+污垢的	momot,comot-momot
 污损	selekah
 污斑	moreng
 污斑的	moreng
@@ -178,72 +129,47 @@
 污泥	keredak
 污浊	gelodar,likat
 污浊的	gelodar,likat
-污点	becak,bintik|n,noda|n,berbecak-becak,bercalit
-污点的	berbecak-becak,bercalit
+污点	noda|n,bintik|n,becak
 污物	kelemumur|n
-污痕	coreng-moreng
-污痕的	coreng-moreng
-污的	bergelumang,gelumang,kertang,rujah
-污神	carut-marut|n
-污神圣	carut-marut|n
-污秽	cemar,kotoran|n,carut,comot,hadas,najis|n
-污秽的	comot,hadas,najis|n
+污秽	kotoran|n,najis|n,cemar,comot,hadas,carut
+污秽的	najis|n,comot,hadas
 污秽语	carut
 污穗	keruh
 污穗的	keruh
-污粘	selepet
-污粘物	selepet
 污蔑	memfitnahkan
-泡	berbuih,berbusa,buih,busa|n,gelegak,gelembung,gelembung-gelembungan,gelogok
-泡沫	buih,busa|n,gelembung,berbusa,kekat
+泡	gerobok|n,busa|n,gelembung,buih,robok,lembak
+泡沫	busa|n,gelembung,buih,kekat
 泡沫的	kekat
-泡泡	gelembung-gelembungan
-泡泡游	gelembung-gelembungan
-泡泡游戏	gelembung-gelembungan
-泡涌	gerobok|n,lembak,robok
-泡游	gelembung-gelembungan
-泡游戏	gelembung-gelembungan
-淡	air tawar,ambar,campah,dingin hati,hambar|adj,kelalaian,kelesa,kepah|n
-淡水	air tawar,kelesa,lundu,ruan,udang galah|n
-淡水鱼	kelesa,ruan
-淡水鱼的	ruan
-淡水鱼的一	ruan
+泡涌	gerobok|n,robok,lembak
+淡	kepah|n,kelalaian,air tawar
+淡巴菰	tembakau|n
+淡水	air tawar,udang galah|n,kelesa,lundu
+淡水鱼	kelesa
 淡水鱼的一种	ruan
 淡水鲇	lundu
 淡水龙	udang galah|n
 淡水龙虾	udang galah|n
+淡淡	samar|adj
 淡漠	kelalaian
-淡的	dingin hati,lindap,malap,mamik,muda|adj,pudar,seput
 淡红	kesumba
 淡红色	kesumba
-淡而	ambar,campah,hambar|adj
-淡而无	ambar,campah,hambar|adj
-淡而无味	ambar,campah,hambar|adj
+淡而	hambar|adj,ambar,campah
+淡而无	hambar|adj,ambar,campah
+淡而无味	hambar|adj,ambar,campah
 淡菜	kepah|n
-满	penuh|adj,acapi|v,asak,berbecak-becak,bernas,bomor|n,bulan purnama,calar-calar
-满口	suap
-满天	gabak
-满希	penuh harapan
-满希望	penuh harapan
-满意	memadai,puas|adj,puaskan|v
-满教	bomor|n,poyang|n
-满教巫	bomor|n,poyang|n
-满教巫医	bomor|n,poyang|n
-满是	calar-calar,coreng-moreng
+淡薄	nur|n,kurus|adj
+满	penuh|adj,jenuh|adj,puas|adj,limpah|adj,pernama|n,purnama|n,cukupi,limbak
+满意	puas|adj,memadai
+满是	calar-calar
 满是抓	calar-calar
 满是抓搔	calar-calar
-满是污	coreng-moreng
 满是污痕	coreng-moreng
 满是污痕的	coreng-moreng
-满月	bulan purnama,pernama|n,purnama|n
-满污	berbecak-becak
-满污点	berbecak-becak
-满污点的	berbecak-becak
-满溢	limbak,limpah|adj
-满的	kepuh,lunak|adj,mambu,montok|adj,padat|adj,pedat,penuh sesak,pudat
-满足	cukupi,jenuh|adj,memadai,puas|adj,suka hati,memuaskan|adj,penuhi
-满身	moreng
-满身班	moreng
+满月	pernama|n,purnama|n,bulan purnama
+满溢	limpah|adj,limbak
+满满	penuh|adj
+满盘	komprehensif|adj
+满足	jenuh|adj,puas|adj,cukupi,suka hati,memadai
 满身班痕	moreng
 满身班痕的	moreng
 满载	sarat
@@ -251,98 +177,69 @@
 满面	cerah muka
 满面笑	cerah muka
 满面笑容	cerah muka
-濡	lepek
 濡湿	lepek
 濡湿的	lepek
-牡	jantan|adj,senduduk,tiram|n
-牡丹	senduduk
+牡	jantan|adj,tiram|n
 牡蛎	tiram|n
-狡	akal kancil,lengit,pintar|adj
+狡	akal kancil
 狡滑	akal kancil
-狡猾	lengit,pintar|adj
-狡猾的	lengit,pintar|adj
-睡	ambin|n,antuk|v,berantuk,bobok,jendera,kaki tidur|n,kantuk|n,kantung tidur|n
+狡猾	pintar|adj,lengit
+狡猾的	pintar|adj,lengit
+睡	ambin|n,tidur|v,tunjung|n,kantung tidur|n,lengset,bobok
+睡乡	tidur|v
 睡台	ambin|n
-睡意	molor
-睡意的	molor
-睡的	lelap|adj,lena,lenyak,ralip
+睡房	bilik tidur|n
 睡眠	penidur|n
 睡眠者	penidur|n
-睡者	kaki tidur|n
-睡而	tidur ayam
-睡而易	tidur ayam
 睡而易醒	tidur ayam
 睡而易醒的	tidur ayam
 睡莲	tunjung|n
 睡袋	kantung tidur|n
-睡觉	bobok,lengset,tidur|v
+睡觉	tidur|v,lengset,bobok
 翡	zamrud|n
 翡翠	zamrud|n
-胡	akrot|n,amuk|v,bauk,hulu langat,jambang pasu,janggut|n,jauzah|n,jenggot
-胡乱	amuk|v
-胡乱杀	amuk|v
-胡乱杀人	amuk|v
+胡	repet|v,lada|n,lenga|n,janggut|n,merepet|v,rapik,lepang,lombok
 胡卢	hulu langat
+胡同	lorong|n
 胡姬	orkid|n
 胡姬花	orkid|n
-胡子	janggut|n,jenggot,bauk,jambang pasu
-胡扯	melantur,merepet|v,repet|v
-胡桃	akrot|n,jauzah|n,walnat|n
-胡桃木	akrot|n,jauzah|n,walnat|n
+胡子	janggut|n,jenggot
+胡扯	repet|v,merepet|v,melantur
+胡桃胡桃木	akrot|n,jauzah|n,walnat|n
 胡椒	lada|n,lombok
-胡涂	nyanyuk|adj,ropak
+胡涂	ropak
 胡涂的	ropak
 胡瓜	lepang
-胡萝	lobak merah|n
-胡萝卜	lobak merah|n
-胡话	raban
-胡说	memborak,merapik,rapik,kalut
+胡萝卜胡萝卜	lobak merah|n
+胡说	rapik,memborak,merapik,kalut
 胡说的	kalut
 胡麻	lenga|n
-荡	ayun|v,berayun,bergayut,berjela,berjumbai,bertualang,embara,gatal|adj
+荡	goncang|v,ayun|v
 荡样	ayun|v
 荡漾	goncang|v
-荡的	gatal|adj,gempa|n,jangak|adj,lengah|adj,perlenteh
-荡着	berjumbai,jumbai
-葡	anggur|n,glukos,kismis|n,peringgi|adj,portugal,portugis,sape|pron,zabib|n
-葡萄	anggur|n,glukos,kismis|n,peringgi|adj,portugal,portugis,sape|pron,zabib|n
-葡萄干	kismis|n,zabib|n
+葡	anggur|n
+葡萄	anggur|n,portugis,sape|pron,zabib|n,peringgi|adj,kismis|n,portugal,glukos
+葡萄干	zabib|n,kismis|n
 葡萄浓	sape|pron
 葡萄浓汁	sape|pron
-葡萄牙	portugal,peringgi|adj,portugis
-葡萄牙人	peringgi|adj,portugis
+葡萄牙	portugal,portugis,peringgi|adj
+葡萄牙人	portugis,peringgi|adj
 葡萄糖	glukos
-衡	imbal,imbang,keseimbangan|n,mayam,seimbang,sukat|n,tim|n,timbal
-衡的	seimbang
-衡量	sukat|n,mayam
-衡量单	mayam
-衡量单位	mayam
+衡	sukat|n
+衡量	sukat|n
 衡量单位名	mayam
 诡	honar,olahan
+诡异	aneh|adj
 诡计	honar,olahan
-象	cara|n,kusa|n,leman|n,liman|n,abstrak|adj,abstraksi|n,aerologi|n,begini|adv
-象一	seolah-olah
-象一样	seolah-olah
-象化	abstraksi|n,peniskalaan|n
-象奴	gembala|n
-象学	aerologi|n,kaji angkasa|n,kajiangkasa|n
+象	cara|n,liman|n,leman|n,kusa|n,simbol|n,gading|n,lambang|n,rengga|n
 象座	rengka
 象座鞍	rengka
-象征	lambang|n,pedah,simbol|n,simbolik
+象征	simbol|n,lambang|n,pedah,simbolik
 象征性	simbolik
 象征性的	simbolik
-象思	menta
-象思春	menta
-象思春期	menta
-象思春期的	menta
-象思春期的鸣	menta
 象思春期的鸣叫	menta
-象性	keabstrakan|n
-象棋	buah catur|n
-象棋棋	buah catur|n
-象棋棋子	buah catur|n
 象牙	gading|n,siung
-象的	abstrak|adj,gading|n,gumba,mengabstrakkan|v,niskala|adj,rohani
+象的	gading|n,gumba
 象的长	gading|n
 象的长牙	gading|n
 象的额	gumba
@@ -356,5 +253,3 @@
 象这	begini|adv
 象这样	begini|adv
 象鼻	belalai
-陡	lepap,tengkurap,tindak|v
-陡的	lepap,tengkurap

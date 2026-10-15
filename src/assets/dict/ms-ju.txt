@@ -26,7 +26,7 @@ jujul	jujul		肿
 jujur	jujur	adj	诚实	honest  truthful
 jukung	jukung		独木舟
 jukut	jukut		草
-jul	jul		七月
+jul	jul		七月	abbreviation of Julai (“July”)
 julai	julai		嫩枝，细枝 美丽的，漂亮的，优雅的	July (seventh month of the Gregorian calendar).
 julang	julang	v	高耸，高起，肩负，肩挑	to raise or lift high something especially on top of one's shoulders
 julangsenjata	julang senjata	n	高度	high port arms
@@ -63,8 +63,7 @@ jurong	jurong			Jurong (a region of Singapore)
 juru	juru	n	能手，内行，专家	A corner.
 juruacara	juruacara		节目报告员
 juruaudit	juruaudit		查帐员
-jurubahasa	juru bahasa	n	两者择一
-jurubahasa	jurubahasa	n	翻译员	interpreter
+jurubahasa	juru bahasa	n	两者择一	alternative form of jurubahasa
 juruh	juruh	n	糖浆	syrup (made from palm sugar and coconut milk)
 juruhebah	juruhebah	n	节目报告员	announcer (one who announces something)
 jurukira	jurukira		会计员
@@ -83,7 +82,7 @@ juruubat	juruubat	n	药师	A pharmacist.
 juruukur	juruukur	n	测量员	surveyor
 juruwang	juruwang	n	出纳员	cashier
 jus	jus	n	果汁	juice:
-jusa	jusa	n	词首字母缩略词
+jusa	jusa	n	词首字母缩略词	initialism of jawatan utama sektor awam (“main position of the public
 justeru	justeru		恰好，刚好，正因为，就因为
 justifikasi	justifikasi	n	辩护	justification
 justifikasikan	justifikasikan	v	替...辩护	To justify.

@@ -14,7 +14,7 @@ kuantiti	kuantiti	n	量	quantity
 kuap	kuap	v	打呵欠，欠伸，闷热的	to yawn
 kuar	kuar	v	晕厥的	syncopic form of keluar
 kuarantin	kuarantin		检疫停船	quarantine  a sanitary measure to prevent the spread of a…
-kuarga	kuarga	n	两者择一
+kuarga	kuarga	n	两者择一	alternative form of keluarga.
 kuari	kuari	n	采石场	quarry
 kuarza	kuarza	n	石英  石英	quartz
 kuasa	kuasa	n	权力，能力	power
@@ -135,7 +135,7 @@ kumpiang	kumpiang		水池
 kumpul	kumpul		聚集，收集
 kumpulan	kumpulan	n	集会，集团，队伍	group
 kumpulandarah	kumpulan darah	n	血型  血型	blood group
-kumpulangitarrancak	kumpulan gitar rancak	n	两者择一
+kumpulangitarrancak	kumpulan gitar rancak	n	两者择一	alternative form of kugiran
 kumuh	kumuh	adj	排泄物	dirty (unclean)
 kumur	kumur	v	漱口	To gargle.
 kuna	kuna		古代的，陈旧的
@@ -175,7 +175,7 @@ kurang	kurang	adj	少 不足	less; fewer; not enough.		lebih		lebih,cukup
 kurangajar	kurang ajar	adj	鲁莽的	impudent  insolent  impolite
 kuranghatihati	kurang hati-hati		不注意的  轻率
 kurap	kurap	n	金钱癣	tinea  ringworm
-kureng	kureng	adv	两者择一
+kureng	kureng	adv	两者择一	alternative form of kurang
 kuretaj	kuretaj	n	刮术	curettage
 kurik	kurik		斑点，毛色斑斑
 kuripan	kuripan	n	领土的	territorial power.
@@ -185,7 +185,7 @@ kurma	kurma		枣子	date  the fruit of the date palm  Phoenix dactylifera  so…
 kurnia	kurnia	n	仁慈，恩惠	a blessing of God			kasih,anugerah,pemberian,nikmat,hadiah
 kursi	kursi	n	椅子	chair: a distinguished professorship at a university.
 kursus	kursus		分科，课程
-kuruh	kuruh	n	荒废的
+kuruh	kuruh	n	荒废的	obsolete form of guruh
 kurun	kurun	n	世纪，千年	century (period of 100 years)
 kurung	kurung	n	笼	cage
 kurus	kurus	adj	瘦	thin  lean		gemuk
@@ -213,7 +213,7 @@ kutuberas	kutu beras	n	米象	rice weevil  Sitophilus oryzae
 kutubjanubi	kutub janubi		南极
 kutubkhanah	kutubkhanah	n	图书馆	library
 kutubsyamali	kutub syamali		北极
-kutubuku	kutu buku	n	同义词
+kutubuku	kutu buku	n	同义词	synonym of ulat buku
 kutuk	kutuk	n	咒诅，咒骂	curse
 kutung	kutung		短的，切断
 kuwait	kuwait		科威特	Kuwait (a country in West Asia in the Middle East)

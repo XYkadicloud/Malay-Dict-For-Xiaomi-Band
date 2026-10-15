@@ -29,7 +29,7 @@ polo	polo		马球	Venetian traveler who explored Asia in the 13th century a…
 polong	polong		鬼怪，幽灵
 polonium	polonium	n	钋  钋Po	polonium (chemical element)
 polos	polos		平滑的，单色的，无花纹的
-pompuan	pompuan	n	两者择一
+pompuan	pompuan	n	两者择一	alternative form of perempuan.
 pon	pon	adv	两者择一	alternative spelling of pun
 pondan	pondan	n	柔弱的	effeminate man; transvestite
 pondoh	pondoh		嫩叶芽
@@ -41,7 +41,7 @@ pongsu	pongsu	n	小山	knoll; mound; barrow
 pontangpanting	pontang-panting		散乱，四散，狼狈，慌慌张张
 pontangponting	pontang-ponting		四散
 ponteng	ponteng	v	欺骗	To cheat; to swindle.
-pontianak	pontianak	n	坤甸
+pontianak	pontianak	n	坤甸	nonstandard form of puntianak
 pontoh	pontoh		臂环，臂镯
 ponton	ponton		浮桥	See Pontoon.
 pop	pop		流行	a sweet drink containing carbonated water and flavoring\n…

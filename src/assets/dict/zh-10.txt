@@ -1,12 +1,8 @@
-上	naik|v,admiral,ahera,aktubelajar,allah,allah taala,allahi,allahualam
-上一	jongkat-jangkit,unggat-unggit
-上一下	jongkat-jangkit,unggat-unggit
-上一下的	jongkat-jangkit
+上	naik|v
 上上	golak-galik
 上上下	golak-galik
 上上下下	golak-galik
-上下	hulu-hilir,enjut,golak-galik,kemut,konteks|n,mengemut,mengenjut,unggit
-上下下	golak-galik
+上下	konteks|n,hulu-hilir,unggit,enjut,kemut,ungkang-ungkit,mengenjut,mengemut
 上下动	kemut,mengemut,unggit,ungkang-ungkit
 上下动荡	unggit,ungkang-ungkit
 上下摇	enjut,mengenjut
@@ -16,288 +12,163 @@
 上下起伏	unggit
 上个	bulan sudah,bulan yang lalu
 上个月	bulan sudah,bulan yang lalu
-上之	ahera,bubul,porong
-上之光	ahera
-上之光圈	ahera
-上之脓	bubul
-上之脓疮	bubul
-上之黑	porong
-上之黑点	porong
-上之黑点痣	porong
-上偷	sobok
-上偷盗	sobok
-上公	taman tema air|n
-上公园	taman tema air|n
-上刺	rodok
-上升	kambang,mumbung,naik|v,naikkan|v,ranak,zum|n,zum dekat|n,zumkan|v
+上佳	elok|adj
+上升	naik|v,naikkan|v,mumbung,ranak,kambang
 上午	loha
-上吞	rahu
-上吞食	rahu
-上吞食日	rahu
-上吞食日月	rahu
-上吞食日月而	rahu
-上吞食日月而引	rahu
-上吞食日月而引起	rahu
-上吞食日月而引起亏	rahu
-上吞食日月而引起亏蚀	rahu
-上吞食日月而引起亏蚀的	rahu
-上吞食日月而引起亏蚀的巨	rahu
-上吞食日月而引起亏蚀的巨龙	rahu
-上唇	benta,uring
-上唇的	benta,uring
-上唇的小	benta
-上唇的小胧	benta
+上半天	pagi|n
+上半晌	pagi|n
+上司	tua-tua|n
 上唇的小胧包	benta
-上唇的细	uring
 上唇的细槽	uring
-上坡	menaiktaraf|n,naik taraf|n
-上型	komputer riba|n,laptop|n
-上型的	komputer riba|n,laptop|n
-上外	menguliti
-上外皮	menguliti
+上坡	naik taraf|n,menaiktaraf|n
+上坡路	kemajuan|n
 上天	tribuana,allahualam
 上天明	allahualam
 上天明察	allahualam
-上好	selamat malam|int,selamat pagi|int
-上将	admiral
-上小	jerewat
-上小疮	jerewat
-上岸	mendarat,serunda,terdampar
-上岸边	terdampar
-上帝	allah,dewata|n,ilah|n,pengasal,tuhan|n,allah taala,bismillah,insya allah
-上帝允	insya allah
-上帝允许	insya allah
-上帝允许的	insya allah
-上帝允许的话	insya allah
-上帝创	makhluk|n
-上帝创造	makhluk|n
+上将	jeneral|n
+上岸	mendarat
+上峰	mercu|n,puncak|n
+上帝	tuhan|n,ilah|n,pengasal,dewata|n,allah,allah taala
 上帝创造物	makhluk|n
-上帝的	bismillah
-上帝的名	bismillah
 上帝第	allah taala
 上帝第一	allah taala
 上座	rambat
 上弯	lentik
-上当	terpukau,memperdayakan
+上当	terpukau
 上手	membelenggu
 上手铐	membelenggu
-上扎	gaba-gaba
-上扎的	gaba-gaba
-上扎的花	gaba-gaba
-上扎的花彩	gaba-gaba
 上斜	loncong
 上斜的	loncong
-上服	junjung|v
-上服从	junjung|v
-上望	menengadah,tengadah|v
-上校	jeneral|n,kolonel
+上星	satelit|n
 上模	awning|n
-上流	ulu|adj,atasan
-上流社	atasan
+上流	ulu|adj
 上流社会	atasan
 上流社会的	atasan
-上浮	bairup
-上浮标	bairup
-上游	hulu|n,mudik,udik,ulu|adj,mundar-mandir
-上游下	mundar-mandir
-上灰	berdebu|adj
-上灰尘	berdebu|adj
-上灰尘的	berdebu|adj
-上病	kena sakit
+上游	hulu|n,ulu|adj,mudik,udik
 上瘾	ketagih
-上的	bulu rama,fardu|n,fasik,geladak,hukum adat,ilmiah,kepalingan|adj,makalah|n
-上的丝	perambut
-上的丝线	perambut
-上的义	fardu|n
-上的义务	fardu|n
-上的文	makalah|n
-上的文章	makalah|n
-上的毛	bulu rama
-上的甲	geladak
-上的甲板	geladak
-上的白	pacai
-上的白檀	pacai
-上的白檀香	pacai
-上的白檀香粉	pacai
-上的禁	nahi
-上的禁令	nahi
-上的罪	fasik
-上的罪人	fasik
-上的规	hukum adat
-上的规则	hukum adat
-上看	cangak,congak,ngadah
 上等	petola|n
 上等绢	petola|n
 上臂	pangkal lengan
-上舷	timbau|n
-上舷板	timbau|n
-上行	rompak|v
-上行劫	rompak|v
-上装	muat naik|v,tengar|n
-上装有	tengar|n
-上装有踢	tengar|n
-上装有踢马	tengar|n
-上装有踢马刺	tengar|n
-上装有踢马刺的	tengar|n
-上议	senator
-上议院	senator
-上议院议	senator
+上苍	syurga|n
+上装	muat naik|v
 上议院议员	senator
-上诉	kasasi,kelah
+上诉	kasasi
 上课	aktubelajar
 上课时	aktubelajar
 上课时间	aktubelajar
 上车	naik kereta
-上迟	oku|adj
-上迟钝	oku|adj
-上迟钝的	oku|adj
-上述	auta|n,yts
-上述的	auta|n,yts
-上钉	penyaliban|n
-上钉死	penyaliban|n
-上钉死的	penyaliban|n
-上钉死的刑	penyaliban|n
-上钉死的刑罚	penyaliban|n
+上进心	cita-cita|n
+上述	yts
+上述的	yts
+上述的say的过去式和过去分词	auta|n
 上镣	rantaikan
 上镣铐	rantaikan
-上陆	ranggak
-上面	atas|prep,pepet,regan|n
-上面的	regan|n,pepet
-上面的符	pepet
-上面的符号	pepet
-上颚	langit-langit|n,lelangit|n
+上面	atas|prep,regan|n
+上面的	regan|n
+上颚	lelangit|n,langit-langit|n
 上齿	jongeng
 上齿突	jongeng
 上齿突出	jongeng
-伊	ainu,iran,islam,islam baka|n,mujahid|n,orang islam|n,parti ajaran sesat,tahfiz|n
-伊努	ainu
-伊努人	ainu
-伊斯	islam,islam baka|n,mujahid|n,orang islam|n,parti ajaran sesat,tahfiz|n,umat islam|n,walaun|n
-伊斯兰	islam,islam baka|n,mujahid|n,orang islam|n,parti ajaran sesat,tahfiz|n,umat islam|n,walaun|n
-伊斯兰教	islam,islam baka|n,mujahid|n,orang islam|n,umat islam|n,walaun|n,parti ajaran sesat,tahfiz|n
-伊斯兰教的	parti ajaran sesat,tahfiz|n
+伊	iran
+伊斯	walaun|n,mujahid|n,islam baka|n,umat islam|n,orang islam|n,islam
+伊斯兰	walaun|n,mujahid|n,islam baka|n,umat islam|n,orang islam|n,islam
+伊斯兰教	walaun|n,mujahid|n,islam baka|n,umat islam|n,orang islam|n,islam,tahfiz|n,parti ajaran sesat
+伊斯兰教的	tahfiz|n,parti ajaran sesat
 伊朗	iran
-刊	bulanan,cantumkan,cenderamata|n,edisi|n,majalah|n,menerbitkan,mingguan|adj,tahunan|adj
-刊物	majalah|n,terbitan
+刊	edisi|n,cantumkan,menerbitkan,termuat
 刊登	termuat
 刊行	edisi|n,menerbitkan
 刊载	cantumkan
-吊	bergantung|v,menyampirkan,menyangkukan,anduhan,ayunan,bergayut,berkulai,buaian rajut|n
+吊	bergantung|v,menyampirkan,menyangkukan,jambatan gantung|n,sarau,ayunan,anduhan,endul
 吊带	anduhan
-吊床	ayunan,buaian rajut|n,endul
+吊床	ayunan,endul,buaian rajut|n
+吊床吊	buaian rajut|n
+吊床吊床	buaian rajut|n
 吊桥	jambatan gantung|n
-吊着	gantung|v,terumbai-umbai,umbai
+吊着	gantung|v,umbai,terumbai-umbai
 吊篮	sarau
 吊钩	sampiran
-喊	berteriak,dedau,himbau,jerit|n,keriau,laung|v,melaung,memekik
-喊乱	pikau,terpikau
-喊乱叫	pikau,terpikau
-喊叫	berteriak,dedau,jerit|n,memekik,pingkau,terpingkau
-喊声	laung|v,pekik
-喊起	pekau
-喊起来	pekau
-妊	bunting,kandungan|n
-妊娠	bunting,kandungan|n
-尊	bera|n,engku,gelar|n,hormat|adj,kabir,kakanda|n,kebesaran,menghargai|v
-尊大	petentangan
-尊大的	petentangan
+喊	jerit|n,dedau,memekik,berteriak
+喊叫	jerit|n,dedau,memekik,berteriak
+妊	kandungan|n,bunting
+妊娠	kandungan|n,bunting
+尊	gelar|n,hormat|adj,menghargai|v,sembah|v,mutabar,kebesaran,syarif
 尊崇	mutabar
-尊敬	hormat|adj,mutabar,sembah|v,bera|n,kakanda|n,menghormati
+尊敬	hormat|adj,sembah|v,bera|n,mutabar
 尊敬的	bera|n
-尊的	kabir
-尊称	gelar|n,syarif,engku,raden
-尊贵	kebesaran,mulia|adj,terhormat
+尊称	gelar|n,syarif
+尊贵	mulia|adj,kebesaran,terhormat
 尊贵的	mulia|adj,terhormat
 尊重	hormat|adj,menghargai|v
-床	katil|n,kuteri,ledikan,alahan,ayunan,bangkit,bangun|v,buaian rajut|n
-床医	klinisian|n
-床医师	klinisian|n
+床	katil|n,kuteri,ledikan,cadar,kain cadar
+床位	katil|n
 床布	cadar,kain cadar
-床的	klinikal|adj
-弊	curang,kecurangan
-弊的	curang
-徊	hilir-mudik,kelana,rayau,senteri|n
-徊者	senteri|n
-把	ikat|n,jaras,berkas|n,bermoreh|v,gemal|v,hendel,hulu|n,jamung|n
+床铺	katil|n
+弊案	skandal|n
+把	hulu|n,ikat|n,jaras,jongkol|n,bermoreh|v,kukut,hendel
+把...存档档案馆	arkib|n
+把...放在平底锅上煎	goreng tohor|v
+把…放在炉上煮	menjerangkan
+把…靠在…	menyandarkan
 把头	menyungkur
 把头放	menyungkur
 把头放低	menyungkur
-把戏	silap mata,sunglap mata
-把手	hendel,hulu|n,jongkol|n,kukut
+把手	hulu|n,jongkol|n,kukut,hendel
 把握	bermoreh|v
-把有	serangkak
-把有刺	serangkak
-把有刺的	serangkak
-把有刺的带	serangkak
-把有刺的带绑	serangkak
-把有刺的带绑住	serangkak
-把有刺的带绑住树	serangkak
 把有刺的带绑住树身	serangkak
-把果	peram
-把果实	peram
-把果实放	peram
-把果实放在	peram
-把果实放在米	peram
 把果实放在米里	peram
-把火	keunggulan
-把火养	keunggulan
-把火养在	keunggulan
-把火养在灰	keunggulan
 把火养在灰里	keunggulan
 把舵	jurumudi
 把舵的	jurumudi
 把舵的人	jurumudi
-殊	khas|adj
-殊的	khas|adj
-渊	jauh berbeza,ngarai|n
-渊之	jauh berbeza
-渊之别	jauh berbeza
+殊荣	izzat|n
+渊博	hebat|adj
+渊深	hebat|adj
+渊源	asal|n,hubungan|n
+渊薮	sarang|n
+渊远	hebat|adj,dalam|prep
 炊	kukus|adj
-焊	pateri,pengimpalan|n
+焊	pateri
 焊接	pateri
 焊的	pengimpalan|n
-熊	beruang|n,beruang kutub|n,beruang madu|n,binturung|n,kerawai,musang turun|n,panda|n,tenturun|n
-熊狸	binturung|n,musang turun|n,tenturun|n
-熊猫	panda|n
+焊的熔	pengimpalan|n
+焊的熔接	pengimpalan|n
+熊	beruang|n,tenturun|n,binturung|n,musang turun|n,kerawai
+熊狸	tenturun|n,binturung|n,musang turun|n
+熊瞎子	beruang|n
 熊蜂	kerawai
 紊	orak-arik
 紊乱	orak-arik
-羊	biri|n,antelop|n,biri-biri|n,daging kambing|n,domba|n,embek,gembala kambing,geming|v
-羊人	gembala kambing
+羊	biri|n,wul|n,tuban|n,ketuban|n,daging kambing|n,embek
 羊毛	wul|n
-羊水	ketuban|n,tuban|n
+羊水	tuban|n,ketuban|n
 羊痫	gila babi
 羊痫疾	gila babi
-羊皮	geming|v,kompang
+羊皮	kompang
 羊皮鼓	kompang
-羊肉	daging kambing|n,gulai kambing
+羊肉	daging kambing|n
+羊肚手巾	tuala|n
 羊鸣	embek
-羊齿	paku
-羊齿植	paku
-羊齿植物	paku
-脊	bertulang,bumbung|n,paus kepala busur|n,paus sikat|n,perabung,skoliosis|n,sulbi
+脊	sulbi,bertulang
 脊柱	skoliosis|n
 脊柱侧	skoliosis|n
 脊柱侧凸	skoliosis|n
+脊梁	balik|v,tulang belakang|n
 脊美	paus sikat|n
 脊美鲸	paus sikat|n
-脊骨	bertulang,sulbi
-脊鲸	paus kepala busur|n
-蚊	lingkaran ubat nyamuk|n,rengit|n,kelambu|n,nyamuk|n,rabun|adj,selempada,singkil,tembelok
-蚊子	lingkaran ubat nyamuk|n,nyamuk|n
-蚊帐	kelambu|n,tirai kelambu,singkil
-蚊帐顶	singkil
+脊背	balik|v
+脊骨	sulbi,bertulang
+蚊	rengit|n,nyamuk|n,kelambu|n,tembelok,tirai kelambu
+蚊子	nyamuk|n,lingkaran ubat nyamuk|n
+蚊子蚊	lingkaran ubat nyamuk|n
+蚊帐	kelambu|n,tirai kelambu
 蚊虫	tembelok
-谊	persahabatan|n,silaturahim
-越	afiat,anugerah|n,dahului,harung|v,jangkah,lanjir,lintas|v,longsong
-越的	anugerah|n,lanjir,megah,pokta
-越的赐	anugerah|n
-越的赐与	anugerah|n
-越的赐与下	anugerah|n
-越的赐与下贱	anugerah|n
-越的赐与下贱的	anugerah|n
+褊狭	sempit|adj
+越	menyeleweng
+越…	kian
+越…越	kian
 越轨	menyeleweng
-越过	jangkah,melampaui,menempuh,menjangkah,tempuh
+越过	tempuh,menempuh,jangkah,menjangkah,melampaui
 逊	turun takhta|n
 逊位	turun takhta|n
-颊	cambang,pipi|n
+颊	pipi|n,cambang

@@ -1,0 +1,8 @@
+awake	sedar|adj
+award	pingat|n,anugerah|n
+aware	insaf|adj,sedar|adj
+awareness	keinsafan|n,kesedaran|n
+awesome	gempak|adj
+awkward	canggung|adj
+awkwardness	kecanggungan|n
+awning	kajang|n

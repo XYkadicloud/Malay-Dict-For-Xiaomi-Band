@@ -1,241 +1,142 @@
-决	aci,azam|n,berazam|adj,beritikad,bertekad,bulat hati,daun kupang|n,daun kurap|n
-决定	hitamkan dan putihkan|v,memutuskan,menentukan,menetapkan,tentukan|v,tetepkan
-决心	azam|n,berazam|adj,beritikad,ikrar|n,itikad,keazaman,tetap hati,bertekad
-决性	kenekatan
+3英	relung|n
+3英亩	relung|n
+决	azam|n,ikrar|n,gelanggang|n,berazam|adj,tentukan|v,hitamkan dan putihkan|v,tetepkan,itikad
+决定	tentukan|v,hitamkan dan putihkan|v,tetepkan,memutuskan,menentukan,menetapkan
+决心	azam|n,ikrar|n,berazam|adj,itikad,beritikad,tetap hati,keazaman
 决斗	gelanggang|n
-决明	daun kupang|n,daun kurap|n,gelenggang|n
-决权	veto
-决的	bulat hati,nekad,pantung
-决裂	patah arang
-决问	urai
-决问题	urai
-劳	balas jasa,berjasa,berkuli,besu,buruh,dendang,ganjaran,jaring angin
-劳动	mogok kilat|n,dendang
-劳动时	dendang
-劳动时的	dendang
-劳动时的歌	dendang
+决断	resolusi|n
+决议案	resolusi|n
+劳	mogok kilat|n,buruh
+劳作	fiil|n
+劳务	servis|n
+劳动	mogok kilat|n
 劳动时的歌唱	dendang
-劳工	buruh,berkuli
-劳的	berjasa,lelah|adj,rimpuh,sia-sia|adj
-咳	batuk|v,batuk darah,batuk jerih,batuk kering|n,batuk rejan,belahak,daham,membelahak
-咳出	batuk|v
-咳嗽	batuk|v,belahak,membelahak,terbelahak
-咳声	daham
+劳工	buruh
+劳累	lelah|adj
+咳	belahak,batuk darah,membelahak,terbelahak
+咳嗽	belahak,membelahak,terbelahak
+咳嗽咳嗽咳出	batuk|v
 咳血	batuk darah
-喳	kicau|n,miap
-喳叫	miap
-喳喳	kicau|n,miap
-喳喳叫	miap
 媳	menantu|n
 媳妇	menantu|n
-害	bunuh|v,cemas,gemang,gerun,jenangan,jera,jeri,lasi
-害到	membahayakan
-害怕	cemas,gemang,gerun,jera,jeri,lasi,maras,mengkerit
-害的	memudaratkan|adj,penanggalan|n,rompong,sungguh|adj
-害的女	penanggalan|n
-害的女鬼	penanggalan|n
-害相	mat cintan|n
-害相思	mat cintan|n
+媳妇儿	bini|n
+害	takut|adj,cemas,malu|adj,mengkerit,silu,gemang,jeri,jera
+害处	kerosakan|n
+害怕	takut|adj,cemas,mengkerit,gemang,jeri,jera,lasi,gerun
 害相思病	mat cintan|n
 害相思病的	mat cintan|n
-害稻	pianggang
-害稻之	pianggang
-害稻之绿	pianggang
-害稻之绿色	pianggang
-害稻之绿色昆	pianggang
-害稻之绿色昆虫	pianggang
 害羞	malu|adj,silu,sipu,likat
 害羞的	likat
-害虫	jenangan
-岳	mentua|n
 岳父	mentua|n
 岳父母	mentua|n
-戳	tusuk,menikam,tikam|v,tikam-menikam
-栳	bekas sirih,cembul|n,kaduk,kerakap,lelat,semberap,sepah,sirih|n
-栳叶	bekas sirih,cembul|n,kaduk,kerakap,lelat,semberap,sepah,sirih|n
-栳叶代	kaduk
-栳叶代用	kaduk
+戳	tusuk
+戳儿	sil|n
+戳子	sil|n
+戳记	sil|n
+栳叶	tepak,semberap,bekas sirih
 栳叶代用品	kaduk
-栳叶的	sepah
-栳叶的一	sepah
-栳叶的一口	sepah
-栳叶盒	bekas sirih,semberap,tepak
-栳叶等	cembul|n
-栳叶等的	cembul|n
-栳叶等的金	cembul|n
-栳叶等的金属	cembul|n
-栳叶等的金属盒	cembul|n
-梳	menyikat,sikat|n,sisir,bersisir,geragas,serit
-梳栉	serit
-梳理	bersisir,geragas
-河	batang hari,ci|n,sungai|n,wai|n,alahan,aluran,badak air|n,baruh|n
-河口	kuala|n,kuala terengganu,muara|n
-河床	dasar,alahan
-河或	baruh|n
-河或海	baruh|n
-河或海的	baruh|n
-河或海的低	baruh|n
-河或海的低地	baruh|n
-河湖	yuyu|n
-河湖泊	yuyu|n
-河湖泊的	yuyu|n
-河盘	ketiap
-河船	beranta
+栳叶盒	tepak,semberap,bekas sirih
+梳	sikat|n,sisir,menyikat,geragas,bersisir
+梳理	geragas,bersisir
+河	ci|n,wai|n,sungai|n,muara|n,batang hari,kuala|n,buntal|n,badak air|n
+河口	muara|n,kuala|n,kuala terengganu
+河床	dasar
+河曲	teluk|n
+河槽	saluran|n
+河流	ci|n
 河豚	buntal|n
-河边	jamban|n
-河边的	jamban|n
-河边的冲	jamban|n
-河边的冲凉	jamban|n
-河边的冲凉房	jamban|n
 河马	badak air|n,unduk-unduk
-河鱼	biawan
-河鱼之	biawan
-河鱼之一	biawan
 河鱼之一种	biawan
 河鲤	terbul
-澳	dingo|n
 澳洲	dingo|n
 澳洲野	dingo|n
 澳洲野犬	dingo|n
-申	borang permintaan,kononnya|adv,meminta|v,memohon,mengeting,mohon|v,permintaan,permohonan
-申请	meminta|v,memohon,mengeting,mohon|v,permohonan,borang permintaan,permintaan
-申请书	permintaan,permohonan
+申	meminta|v,mohon|v,memohon,mengeting,permohonan
+申诉	rayuan|n,ah|part
+申请	meminta|v,mohon|v,memohon,mengeting,permohonan,permintaan,borang permintaan
+申请书	permintaan
 申请表	borang permintaan
 申请表格	borang permintaan
-申述	kononnya|adv
+眳睛	sedih|adj
 瞳	anak mata|n
 瞳孔	anak mata|n
-碳	karbon|n,hidrogen karbonat|n,karbid,karbon dioksida,karbonat|n,karburetor|n,natrium bikarbonat|n,zink karbonat|n
+碳	karbon|n,karbon dioksida
 碳化	karbid
 碳化物	karbid
-碳器	karburetor|n
 碳气	karbon dioksida
-碳酸	hidrogen karbonat|n,karbon dioksida,karbonat|n,natrium bikarbonat|n,zink karbonat|n
+碳酸	hidrogen karbonat|n,karbon dioksida
 碳酸气	karbon dioksida
-碳酸氢	hidrogen karbonat|n,natrium bikarbonat|n
+碳酸氢	hidrogen karbonat|n
 碳酸氢盐	hidrogen karbonat|n
-碳酸氢钠	natrium bikarbonat|n
-碳酸盐	karbonat|n
-碳酸盐化	karbonat|n
-碳酸锌	zink karbonat|n
-稳	bertatih-tatih,gitar tenor|n,lincah,luntur,stabil
-稳地	bertatih-tatih
-稳地走	bertatih-tatih
-稳定	stabil,gitar tenor|n,lincah
-稳定的	gitar tenor|n,lincah
-稳定的进	gitar tenor|n
+碳酸氢钠碳酸氢钠	natrium bikarbonat|n
+碳酸盐使碳酸盐化	karbonat|n
+碳酸锌碳酸锌	zink karbonat|n
+稳	stabil
+稳便	handal|adj
+稳固	tetap|adj
+稳定	stabil
 稳定的进程	gitar tenor|n
-纳	banji|n,capa|n,jalan tol|n,juruwang|n,kinabatangan,kuinin,labuan,mekdi
-纳员	juruwang|n
-纳孀	kuinin
-纳巴	kinabatangan
-纳巴唐	kinabatangan
-纳巴唐岸	kinabatangan
-纳机	mesin juruwang automatik|n
-纳粹	banji|n,nazisme
+稳实	tetap|adj
+稳当	handal|adj
+稳恒	tetap|adj,pemalar|n
+稳重	tetap|adj
+稳静	tetap|adj
+纳尼	apa|pron
+纳粹	nazisme
 纳粹主	nazisme
 纳粹主义	nazisme
-纳粹党	banji|n
-纳粹党所	banji|n
-纳粹党所用	banji|n
-纳粹党所用的	banji|n
-纳粹党所用的十	banji|n
-纳粹党所用的十字	banji|n
-纳粹党所用的十字记	banji|n
 纳粹党所用的十字记号	banji|n
-纳通	jalan tol|n
-纳通行	jalan tol|n
-纳通行税	jalan tol|n
-纳通行税后	jalan tol|n
-纳通行税后才	jalan tol|n
-纳通行税后才能	jalan tol|n
-纳通行税后才能通	jalan tol|n
-纳通行税后才能通行	jalan tol|n
-纳通行税后才能通行的	jalan tol|n
-纳通行税后才能通行的道	jalan tol|n
-纳通行税后才能通行的道路	jalan tol|n
 纳闽	labuan
 纳闽岛	labuan
-纳香	capa|n
-纳香脑	capa|n
-耳	anak telinga,anting-anting|n,berbisik-bisik,bersubang,bisikan,cendawan|n,congek|adj,cuping|n
-耳光	tempeleng|v
-耳其	tarbus|n
-耳其无	tarbus|n
-耳其无边	tarbus|n
-耳其无边毡	tarbus|n
-耳其无边毡帽	tarbus|n
+耳	telinga|n,kuping|n,cuping|n,subang|n,anting-anting|n,bisikan,sunting,torek
 耳垂	cuping|n
 耳当	kerabu
-耳朵	kuping|n,telinga|n,torek
-耳朵流	torek
-耳朵流脓	torek
+耳朵	telinga|n,kuping|n
 耳朵流脓病	torek
+耳根	telinga|n
+耳根子	telinga|n
 耳炎	radang telinga|n
-耳环	anting-anting|n,kerabu,koping,subang|n,bersubang
+耳炎耳	radang telinga|n
+耳炎耳炎	radang telinga|n
+耳环	subang|n,anting-anting|n,kerabu,koping
 耳琅	koping
-耳的	janggal,merdu
-耳聾	congek|adj
-耳聾的	congek|adj
-耳语	berbisik-bisik,bisikan,desus
+耳目	maklumat|n,ilmu|n
+耳聾的近义词	congek|adj
+耳语	bisikan,berbisik-bisik,desus
 耳语声	desus
 耳饰	sunting
 耳鸣	torek
 耳鼓	anak telinga
-舳	manjung
-芳	kera sumbang,kesuma|n,lazat|adj,wangian|n
-芳的	lazat|adj
-芳自	kera sumbang
-芳自赏	kera sumbang
-芳自赏者	kera sumbang
+芳龄	umur|n
 莳	jintan|n
 莳萝	jintan|n
-螳	cencada,cencadu,cengkadak,mentadak|n
-螳螂	cencada,cencadu,cengkadak,mentadak|n
-足	adik beradik|n,bekas|n,berjinjit-jinjit,bola sepak|n,cepoh,cukup|adj,cukupi,denai
+螳	mentadak|n,cencadu,cencada,cengkadak
+螳螂	mentadak|n,cencadu,cencada,cengkadak
+足	bekas|n,cukup|adj,kesan|n,jejak|n,bola sepak|n,denai,runut|n,jijak
 足下	pakanira
-足之	kedal
-足之皮	kedal
-足之皮肤	kedal
-足之皮肤病	kedal
-足可	mampankan|v
-足可支	mampankan|v
 足可支撑	mampankan|v
 足可支撑的	mampankan|v
-足地	tumpu|v
-足够	cukup|adj,kecupan,mencukupi,segenap,pada|prep
+足够	cukup|adj,pada|prep,segenap,kecupan,mencukupi
 足够的	pada|prep
-足独	kedidi
-足独立	kedidi
 足球	bola sepak|n,sepak bola
-足的	jelak|adj,melulu
-足而	lonjak
-足而行	lonjak
-足舒	senang linang
-足舒服	senang linang
-足节	khamis suci
-足虫	gonggok,ulat gonggok|n
-足走	berjinjit-jinjit
-足走路	berjinjit-jinjit
-足迹	bekas|n,denai,jejak|n,jijak,kesan|n,runut|n
+足色	denda|n
+足踝	buku lali|n
+足迹	bekas|n,kesan|n,jejak|n,denai,runut|n,jijak
 足部	cepoh
 足部畸	cepoh
 足部畸形	cepoh
-钳	apit|v,gapit,getil,pelaya,playar|n,ragum
-钳子	gapit,pelaya,playar|n
+足额	penuh|adj
+钳	apit|v,playar|n,gapit,pelaya
+钳子	playar|n,gapit,pelaya
 钳往	getil
-阳	anod|n,balkoni|n,batang pelir,berjemur,burut,butuh|n,cahaya matahari|n,canggar|n
-阳人	kedi
-阳光	sinar|n,cahaya matahari|n,nur|n
-阳具	batang pelir,butuh|n,pelir|n,zakar|n
+阳	sinar|n,pelir|n,butuh|n,zakar|n,konek|n,paller|n,balkoni|n,canggar|n
+阳光	sinar|n
+阳具	pelir|n,butuh|n,zakar|n,batang pelir
 阳台	balkoni|n
-阳帽	terendak
-阳年	kamariah
+阳宗	matahari|n
 阳极	anod|n
-阳物	canggar|n,konek|n,paller|n
-阳穴	pelipis
-阳鸟	kelicap|n
-鲳	bawal|n,sembak
-鲳鱼	bawal|n,sembak
-鸳	kendak
-鸳鸯	kendak
+阳极阳	anod|n
+阳极阳极	anod|n
+阳物	konek|n,paller|n,canggar|n
+鲳	bawal|n
+鲳鱼	bawal|n

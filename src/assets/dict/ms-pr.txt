@@ -1,7 +1,7 @@
 prabayar	prabayar	adj	先付的	prepaid
 pragawati	pragawati		时装模特儿
 pragmatik	pragmatik	adj	忙碌的	Pragmatic or practical.
-pragmatis	pragmatis	adj	两者择一
+pragmatis	pragmatis	adj	两者择一	alternative form of pragmatik
 pragmatisme	pragmatisme	n	实用主义  实用主义	pragmatism
 praha	praha		布拉格	Prague (the capital city of the Czech Republic)
 prahara	prahara	n	暴风雨	storm; typhoon
@@ -31,14 +31,14 @@ preskriptif	preskriptif	adj	规定的	prescriptive
 prestasi	prestasi	n	威信，威望	performance
 prestij	prestij	n	声望	prestige
 previu	previu	n	事先查看	A preview
-pria	pria	n	两者择一
+pria	pria	n	两者择一	alternative form of peria
 pribadi	pribadi		个人的，私人的，个性，特性
 pribumi	pribumi		原住民
 prihatin	prihatin	adj	有责任心的	conscientious; scrupulous
 primitif	primitif		原始的，初期的
 prinsip	prinsip	n	原理，原则	principle.
 prisma	prisma	n	棱镜	prism
-prizam	prizam	n	两者择一
+prizam	prizam	n	两者择一	alternative form of prisma
 produksi	produksi		生产，产品
 produktif	produktif	adj	能生产的	productive (capable of producing something  especially in abundance; fertile)
 produktiviti	produktiviti	n	生产力  生产率	productivity
@@ -57,4 +57,4 @@ protokol	protokol	n	草案	protocol
 proton	proton	n	质子  质子	proton
 prototaip	prototaip	n	原型  样机	prototype
 provokasi	provokasi		挑衅
-pru	pru		词首字母缩略词
+pru	pru		词首字母缩略词	initialism of Pilihan Raya Umum (“general election”)

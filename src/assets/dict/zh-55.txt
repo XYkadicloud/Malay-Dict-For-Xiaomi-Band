@@ -1,32 +1,27 @@
-冷	adem,sejuk|adj,dingin|adj,dingin hati,hawa dingin,kesejukan,lengang|adj,lengsan
-冷刀	parang|n
+冷	sejuk|adj,dingin|adj,adem,ringis,hawa dingin,senyum kambing
+冷冷清清	sepi|adj
+冷寂	sepi|adj
 冷气	hawa dingin
 冷淡	dingin hati
 冷淡的	dingin hati
+冷清清	sepi|adj
 冷漠	lengsan
 冷漠的	lengsan
-冷炙	udap-udapan
+冷热度数	suhu|n
 冷的	dingin|adj
 冷笑	ringis,senyum kambing
-冷落	lengang|adj,sunyi|adj
-冷落的	lengang|adj,sunyi|adj
-冷静	sengap,sepi|adj
-冷静的	sengap,sepi|adj
-刷	gosok|v,sikat|n,berus|n,berus gigi|n,cetak,cetakan,gonyoh,jidar|n
-刷品	cetakan,jidar|n
-刷品之	jidar|n
-刷品之边	jidar|n
-刷品之边缘	jidar|n
-唷	weh,wei,woi,aduh
-喷	bersimbur,curat,mencurat,merenjis,simbur,basut,bersin|v,besut
-喷出	besut,lampias,lancit,memancur,membesut,memercit,menghembuskan,muntah|v
-喷嚏	lesit,bersin|v
-喷声	lecus
-喷射	lancit,mancit,memercit,menyembar,menyemprot,sembur|v,semprot,jet
-喷射式	jet
-喷射式飞	jet
+冷落	sunyi|adj,lengang|adj
+冷落的	sunyi|adj,lengang|adj
+冷静	sepi|adj,sengap
+冷静的	sepi|adj,sengap
+刷	gosok|v,sikat|n
+唷	weh,wei,woi
+喷	curat,simbur,merenjis,bersimbur,mencurat,sembur|v,lesit,pangus
+喷出	muntah|v,pancar,pancut,memercit,lancit,lampias,semprot,besut
+喷嚏	lesit
+喷射	sembur|v,mancit,memercit,lancit,semprot,menyembar,menyemprot
 喷射式飞机	jet
-喷气	memangus,pangus,jet
+喷气	pangus,memangus,jet
 喷气机	jet
 喷水	basut,kus
 喷水声	kus
@@ -34,39 +29,19 @@
 喷火	genahar,kepundan
 喷火口	genahar
 喷火山	kepundan
-喷着	mendengus|v
-喷着气	mendengus|v
-喷着气弄	mendengus|v
-喷着气弄响	mendengus|v
-喷着气弄响鼻	mendengus|v
 喷着气弄响鼻子	mendengus|v
-喷霜	pengembangan|n
-嚷	seru|v,gegap,hingar|n,hingar-bingar,ingas,recok
-嚷的	gegap
-夷	meranap,ranap
-夷平	meranap,ranap
-康	aras,bugar,kesihatan|n,sehat|adj,sihat|adj,urip
-康的	aras,bugar,urip
-德	akhlak|n,aristotle,berhadis|v,durjana|n,etika|n,hadis|n,jerman,maulud
-德后	sayid
-德后裔	sayid
-德后裔的	sayid
-德后裔的阿	sayid
-德后裔的阿拉	sayid
-德后裔的阿拉伯	sayid
-德后裔的阿拉伯人	sayid
+嚷	seru|v
+夷	ranap,meranap
+夷平	ranap,meranap
+帷幔	tirai|n
+康健	muat|adj,segar|adj
+康强	muat|adj
+德	jerman
 德国	jerman
-德的	durjana|n,maulud
-德的诞	maulud
-德的诞辰	maulud
-德的诞辰日	maulud
-德规	etika|n
-德规范	etika|n
-德言	berhadis|v,hadis|n
-德言行	berhadis|v,hadis|n
-德言行录	berhadis|v,hadis|n
-户	faraj|n,jendela|n,klien|n,pelanggan|n,penjawan|n,puki|n,tetingkap|n
-掷	campak|n,melempar,membuang,ali,antul,baling|v,banting|n,eban
+德律风	telefon|n
+德谟克拉西	demokrasi|n
+户口	kependudukan|n
+掷	campak|n,melempar,membuang,timpuk
 掷去	antul
 掷石	timpuk
 掷钱	lerap
@@ -76,127 +51,76 @@
 掷骰子	parih
 枷	pasungan,belenggu
 枷销	belenggu
-样	ajuk,aneka,apa macam|adv,arna-warni,ayun|v,bagai|conj,bagaimana|adv,bagaimanapun
-样丹	daiman|n,retin|n
-样丹毒	daiman|n,retin|n
-样响	gemuruh
-样响亮	gemuruh
-样大	sama besar
-样大小	sama besar
-样子	embih,gaya|n,olah|n,secara|adv
-样平	sama rata
-样式	bagai|conj,cara|n,seragam|adj
-样式的	seragam|adj
+样	cara|n,gaya|n,olah|n,bagai|conj,secara|adv,teladan|n,embih
+样例	model|n
+样单	rupa|n
+样子	gaya|n,olah|n,secara|adv,embih
+样式	cara|n,bagai|conj
 样本	teladan|n
-样机	prototaip|n,purbarupa|n
-样的	arna-warni,batu-batan,beraneka,beras petas,beras-petas,bunga-bungaan,demikan juga,kayu-kayan
-样的木	kayu-kayan,kayu-kayuan
-样的木材	kayu-kayan,kayu-kayuan
-样的石	batu-batan
-样的石头	batu-batan
-样的米	beras petas,beras-petas,petas
-样的花	bunga-bungaan
-样菜	lauk-pauk
-样菜色	lauk-pauk
-爷	allahi
-爷在	allahi
-爷在上	allahi
-玷	carut-marut|n,gelumang
-玷污	carut-marut|n,gelumang
+样板	model|n,contoh|n
+样貌	rupa|n
+玷污	gelumang,carut-marut|n
 玷污的	gelumang
 玷污神	carut-marut|n
 玷污神圣	carut-marut|n
-男	laki|n,lanang,aaron,abdul,abdullah,agus,anas,ayuk-ayutan|n
-男人	aaron,abdul,abdullah,agus,anas,bapak ayam|n,berahim,danish
+男	laki|n,manai|n,mat|n,wira|n,lelaki|n,lanang,agus,mamat|n
+男人	manai|n,mat|n,wira|n,lelaki|n,agus,mamat|n,icibos|n,laki-laki|adj
 男傧	pengapit
 男傧相	pengapit
-男可	qari
-男可兰	qari
-男可兰经	qari
-男可兰经诵	qari
-男可兰经诵读	qari
+男儿	manai|n,bin|n
+男友	pakwe|n
 男可兰经诵读者	qari
-男女	bujang|n,feminis|n,pemuda-pemudi
-男女平	feminis|n
-男女平等	feminis|n
-男女平等主	feminis|n
-男女平等主义	feminis|n
+男同胞	mat|n,jantan|adj
+男士	mat|n
 男女平等主义者	feminis|n
-男孩	budak bandar|n,mak kau hijau,mat jambu|n,said,tomboi|n
-男孩之	said
-男孩之名	said
-男孩打	mak kau hijau
-男孩打架	mak kau hijau
-男孩打架互	mak kau hijau
-男孩打架互罵	mak kau hijau
-男孩打架互罵的	mak kau hijau
-男孩打架互罵的視	mak kau hijau
-男孩打架互罵的視頻	mak kau hijau
-男孩的	tomboi|n
-男孩的顽	tomboi|n
-男孩的顽皮	tomboi|n
-男孩的顽皮姑	tomboi|n
-男孩的顽皮姑娘	tomboi|n
-男宗	ustaz|n
-男宗教	ustaz|n
-男宗教教	ustaz|n
+男娃	manai|n
+男子汉	mat|n
+男孩	manai|n
+男孩子	manai|n
 男宗教教师	ustaz|n
-男性	laki-laki|adj,ayuk-ayutan|n,butuh|n,lanang,palat|n,pramugara,zakar|n
-男性性	zakar|n
-男性性器	zakar|n
+男性	laki-laki|adj,lanang
 男性性器官	zakar|n
-男性生	ayuk-ayutan|n,butuh|n,palat|n
-男性生殖	ayuk-ayutan|n,butuh|n,palat|n
 男性生殖器	butuh|n,palat|n
 男性生殖神	ayuk-ayutan|n
 男性的	lanang
-男性空	pramugara
-男性空中	pramugara
-男性空中服	pramugara
-男性空中服务	pramugara
 男性空中服务员	pramugara
-男朋	boifren|n,pakwe|n
-男朋友	boifren|n,pakwe|n
+男朋	pakwe|n,boifren|n
+男朋友	pakwe|n,boifren|n
 男歌	biduan|n
 男歌唱	biduan|n
 男歌唱家	biduan|n
+男演员	pelakon|n
+男生	manai|n
+男的	mat|n
+男票	pakwe|n
+男童	manai|n
 男色	semburit
-男青	jejaka
-男青年	jejaka
-眷	kaum|n
 砷	arsenik|n
-纷	aneka warna,balingkawat|n,bangun-bangun|n,bantah|v,benang raja|n,berterbangan,ganu|n,gegana|n
-纷的	balingkawat|n,bangun-bangun|n,benang raja|n,ganu|n,gegana|n,lanum|n,mangun|n,tali mangon|n
 纷纷	berterbangan
 纷纷飞	berterbangan
 纷纷飞翔	berterbangan
-纷飞	berterbangan
-纷飞翔	berterbangan
-舷	katir|n,timbau|n
 舷外	katir|n
 舷外支	katir|n
 舷外支架	katir|n
-舷板	timbau|n
-获	capai|v,laba|n,memperoleh|v,memperolehi,menawan,mencapai|v,mendapat|v,panen
+获	laba|n,perolehan|n,capai|v,mencapai|v,mendapat|v,memperoleh|v,memperolehi,terkabul
 获准	terkabul
 获利	laba|n
-获得	capai|v,memperoleh|v,memperolehi,mencapai|v,mendapat|v,perolehan|n,rebutan
+获得	perolehan|n,capai|v,mencapai|v,mendapat|v,memperoleh|v,memperolehi,rebutan
 获得物	rebutan
 蔷	meur
 蔷薇	meur
 蜷	sorok,suruk
 蜷伏	sorok,suruk
-谷	alur|n,abuk-abuk|n,antah|n,bukau,celah bukit,gabah,jelai|n,jurang
+谷	alur|n,antah|n,jelai|n,gabah,mandah
 谷仓	mandah
+谷地	lembah|n
 谷壳	antah|n
-谷米	abuk-abuk|n,sagu|n
-谷粒	gabah,jelai|n
-谷鸟	tekukur
-贷	cetek pengetahuan,pinjaman|n,piutang
+谷粒	jelai|n,gabah
+贷	pinjaman|n,piutang
 贷方	piutang
 贷款	pinjaman|n,piutang
-贷者	cetek pengetahuan
 钷	prometium|n
 骷	tengkolok|n
 骷髅	tengkolok|n
-鲷	bekuku,ungar
+鲷	bekuku
+鼷鼠	tikus|n

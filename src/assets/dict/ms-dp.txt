@@ -1,1 +1,1 @@
-dpn	dpn	conj	[医] 二磷酸吡啶核甙酸
+dpn	dpn	conj	[医] 二磷酸吡啶核甙酸	abbreviation of depan (“next  in front”)

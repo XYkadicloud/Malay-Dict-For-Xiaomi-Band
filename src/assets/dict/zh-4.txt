@@ -1,46 +1,32 @@
-侄	anak penakan,anak saudari|n,cucu saudara|n,cucu saudari|n,lut
+侄	anak penakan,lut,anak saudari|n,cucu saudara|n
 侄女	anak saudari|n
 侄子	lut
 侄孙	cucu saudara|n,cucu saudari|n
 侄孙女	cucu saudari|n
-厄	bala|n
-各	saban,tiap|det,aneka,aneka ragam,arna-warni,arnasari,batu-batan,beraneka
-各不	berlainan
-各不相	berlainan
+各	tiap|det,masing|det,saban,serata,aneka,tiap-tiap orang,serba bangsa
 各不相同	berlainan
 各不相同的	berlainan
+各个	beberapa|adj
 各人	tiap-tiap orang
 各地	serata
+各式各样	beberapa|adj
 各族	serba bangsa
-各样	aneka,arna-warni,batu-batan,beraneka,beras petas,beras-petas,berjenis-jenis,bermacam-macam
-各样的	arna-warni,batu-batan,beraneka,beras petas,beras-petas,bunga-bungaan,kayu-kayan,kayu-kayuan
-各样的木	kayu-kayan,kayu-kayuan
-各样的木材	kayu-kayan,kayu-kayuan
-各样的石	batu-batan
-各样的石头	batu-batan
-各样的米	beras petas,beras-petas,petas
-各样的花	bunga-bungaan
-各样菜	lauk-pauk
-各样菜色	lauk-pauk
-各种	aneka,aneka ragam,arna-warni,arnasari,batu-batan,beraneka,beras petas,beras-petas
+各样	aneka
+各种	pelbagai|adj,aneka,pancaragam,pahit getir,piah,bermacam-macam,biji-bijian,mala petaka|n
 各种书	kitab-kemitab
 各种书籍	kitab-kemitab
-各种各	arna-warni,batu-batan,beraneka,beras petas,beras-petas,berjenis-jenis,bermacam-macam,bunga-bungaan
-各种各样	berjenis-jenis,bermacam-macam,pancaragam,pelbagai|adj,serba-serbi,serbaneka,arna-warni,batu-batan
-各种各样的	arna-warni,beraneka,manca,rupa-rupa,batu-batan,beras petas,beras-petas,bunga-bungaan
-各种各样的木	kayu-kayan,kayu-kayuan
+各种各	pelbagai|adj,pancaragam,bermacam-macam,berjenis-jenis,serbaneka,serba-serbi
+各种各样	pelbagai|adj,pancaragam,bermacam-macam,berjenis-jenis,serbaneka,serba-serbi,arna-warni,manca
+各种各样的	arna-warni,manca,beraneka,rupa-rupa
 各种各样的木材	kayu-kayan,kayu-kayuan
-各种各样的石	batu-batan
 各种各样的石头	batu-batan
-各种各样的米	beras petas,beras-petas,petas
+各种各样的米	petas,beras petas,beras-petas
 各种各样的花	bunga-bungaan
-各种各样菜	lauk-pauk
 各种各样菜色	lauk-pauk
 各种壳	biji-bijian
 各种壳类	biji-bijian
 各种子	biji-bijian
 各种子核	biji-bijian
-各种形	aneka ragam
 各种形式	aneka ragam
 各种果	buah-buahan
 各种果子	buah-buahan
@@ -59,812 +45,177 @@
 各种菜肴	pauk lauk
 各种蔬	mayur
 各种蔬菜	mayur
-各种颜	pancalogam
-各种颜色	pancalogam
-各种颜色的	pancalogam
-各种颜色的岩	pancalogam
 各种颜色的岩石	pancalogam
-各种香	pawah,piah,rempah-piah
-各种香料	pawah,piah,rempah-piah
+各种香	piah,pawah,rempah-piah
+各种香料	piah,pawah,rempah-piah
 各自	masing|det,mengga
 各自的	mengga
-善	amal,amalan,baguskan|v,bajik,betulkan,busuk hati,dermawan|n,elok-elok|adv
-善事	amalan,pahala|n
-善于	muntil,sengelat
-善于奉	muntil
+各色各样	beberapa|adj,pelbagai|adj
+咄咄怪事	aneh|adj,mantul|adj
+咄咄逼人	agresif|adj
+善	pahala|n,elok-elok|adv,ihsan|n,seelok|prep,baguskan|v,membaguskan|v,amal,amalan
+善事	pahala|n,amalan
 善于奉承	muntil
 善于奉承的	muntil
-善于闪	sengelat
-善于闪避	sengelat
-善于闪避的	sengelat
 善于闪避的人	sengelat
-善交	kera sumbang
-善交际	kera sumbang
-善交际的	kera sumbang
-善交际的人	kera sumbang
-善家	dermawan|n
-善的	mubah,ramah,selengkapnya
+善哉	elok|adj
 善良	zakiah
 善良的	zakiah
-善行	amal,baguskan|v,elok-elok|adv,ihsan|n,membaguskan|v,seelok|prep
-处	barek|v,bawa diri,berkaparan,bezanya,bikir,ceruk,dahulukan,dara|n
-处之	kelongsong
-处之外	kelongsong
-处之外皮	kelongsong
-处乱	menyepahkan
-处乱撒	menyepahkan
-处停	menyinggah
-处停泊	menyinggah
+善行	elok-elok|adv,ihsan|n,seelok|prep,baguskan|v,membaguskan|v,amal
+处	urus|v,kelola|v,dara|n,preskripsi|n,surat ubat|n,gadis dara,selenggara,bawa diri
 处刑	menghukum
-处女	bikir,dara|n,gadis dara,keperawanan,perawan
-处搜	barek|v
-处搜索	barek|v
+处女	dara|n,gadis dara,bikir,perawan,keperawanan
+处所	nama|n
 处方	preskripsi|n,surat ubat|n
-处横	berkaparan,jelempah
-处横置	jelempah
-处横陈	berkaparan
-处理	kelola|v,memangku,mengatur,mentadbirkan,selenggara,urus|v,dahulukan,manipulatif|adj
-处理器	mikropemproses|n,pemproses mikro|n
-处理或	pakai buang|adj
-处理或处	pakai buang|adj
-处理或处置	pakai buang|adj
-处理或处置的	pakai buang|adj
-处理的	manipulatif|adj,pakai buang|adj
-处罚	mendera,menghukum
-处置	hak kuasa,pakai buang|adj
+处理	urus|v,kelola|v,selenggara,memangku,manipulatif|adj,mengatur,mentadbirkan
+处理的	manipulatif|adj
+处罚	menghukum,mendera
+处罚鞭	mendera
+处罚鞭打	mendera
+处置	hak kuasa
 处置权	hak kuasa
-处置的	pakai buang|adj
-处走	jangla
 处身	bawa diri
-妄	petentangan
-妄自	petentangan
-妄自尊	petentangan
 妄自尊大	petentangan
 妄自尊大的	petentangan
-射	biasan,corongkan,cucuk|v,galir|n,injeksi,jet,lancit,lancut
-射作	biasan
-射作用	biasan
-射免	pasir ris
-射免疫	pasir ris
-射免疫吸	pasir ris
-射免疫吸附	pasir ris
-射免疫吸附剂	pasir ris
-射出	lancut,pancar,pancut
-射击	membedil,menembak,taruk|n,tembak|v,sipi
-射击不	sipi
+妄言	fantasi|n
+射	taruk|n,tembak|v,membedil,memanah,menembak
+射出	pancar,pancut,lancut
+射击	taruk|n,tembak|v,membedil,menembak
 射击不中	sipi
 射击不中的	sipi
-射器	pecagari
-射在	menyinari
-射式	jet
-射式飞	jet
-射式飞机	jet
 射杀	memanah
-射计	radiometer|n
-庄	agung|adj,kampung|n,tahana|n
+射线	sinar|n
+庄	tahana|n
 庄严	tahana|n
 庄重	agung|adj
 庄重的	agung|adj
-弄	ajuk,berpintal-pintal,conteng|n,ejek|v,erut,genit,gobek,gonbeng
-弄乱	berpintal-pintal,pintal
-弄乱的	berpintal-pintal,pintal
+弄	lumus|adj,palit|n,conteng|n,perlebar|v,potong stim|v,ikal,memaparkan,sejat
+弄乱	pintal,berpintal-pintal
+弄乱的	pintal,berpintal-pintal
 弄卷	ikal
-弄响	mendengus|v
-弄响鼻	mendengus|v
-弄响鼻子	mendengus|v
-弄坏	memburukkan,merosakkan
+弄坏	merosakkan,memburukkan
+弄堂	lorong|n
 弄大	gonbeng
 弄宽	perlebar|v
 弄干	sejat,ikan kering|n
 弄干了	ikan kering|n
 弄干了的	ikan kering|n
 弄平	memaparkan,papat
-弄弯	membengkokkan,lentur|n
+弄弯	lentur|n,membengkokkan
 弄弯的	lentur|n
-弄成	memirik,pirik
-弄成粉	memirik,pirik
-弄成粉末	memirik,pirik
+弄成	pirik,memirik
+弄成粉	pirik,memirik
+弄成粉末	pirik,memirik
 弄歪	erut,pelikuk
 弄歪的	erut,pelikuk
-弄污	memalit,palit|n
-弄湿	membasahi,membasahkan,potong stim|v
+弄污	palit|n,memalit
+弄湿	potong stim|v,membasahi,membasahkan
 弄烧	memanaskan
-弄的	tacod
 弄碎	memecahkan
 弄糟	lumus|adj
 弄绉	peronyok
 弄翻	menggulingkan
-弄者	pemain|n
 弄脏	conteng|n,mencemarkan,mengotorkan
 弄钝	tumpulkan
 弄长	tongkah
 弄阔	renggangkan
-弄风	genit
-弄风情	genit
-弄风情的	genit
 弄高	juak,juak-juak,tinggikan
-径	empat puluh lima|num,ikhtiar|n,jejari,laluan|n,legat,melintas,pemuras
-径的	empat puluh lima|num
-径的手	empat puluh lima|num
-径的手枪	empat puluh lima|num
 径直	legat
 径直的	legat
-径短	pemuras
-径短枪	pemuras
-抄	geledah,melintas,salinan,transkrip|n
+径迹	cara|n
+悄悄	diem|adj
+抄	transkrip|n,geledah,salinan
 抄捷	melintas
 抄捷径	melintas
-抄本	salinan,transkrip|n
+抄本	transkrip|n,salinan
 抄查	geledah
-构	agensi|n,badan berkanun,badan kebajikan,binaan,infrastruktur|n,khayal|adj,organisasi,perbadanan
-构成	tiri|adj
-构成的	tiri|adj
-构成的亲	tiri|adj
-构成的亲缘	tiri|adj
-构成的亲缘关	tiri|adj
-构成的亲缘关系	tiri|adj
+构	binaan
+构件	aandeel|n
+构型	struktur|n,persediaan|n
+构思	idea|n,pelan|n
+构成	piagam|n
+构架	struktur|n
 构造	binaan
-榄	ragbi|n,zabarjad,zaitun|n
-榄球	ragbi|n
-榄石	zabarjad
-澄	jernih|adj,penjelasan|n,perjelas|v
-澄清	penjelasan|n,perjelas|v,jernih|adj
+澄	perjelas|v,penjelasan|n
+澄清	jernih|adj,perjelas|v,penjelasan|n
 澄清的	jernih|adj
 熄	padam|adj,memadamkan
 熄灭	memadamkan
-玄	anak lelaki cicit|n,cucu lelaki cucu|n,piut laki-laki|n,piut lelaki|n
-玄孙	anak lelaki cicit|n,cucu lelaki cucu|n,piut laki-laki|n,piut lelaki|n
-的	baka|adj,fasih|adj,ganjil|adj,kualun,pada|prep,a kapela|n,abadi|adj,abadiah|adj
-的一	debak|n,dingkis,gubang,kemang,kermak,kuau|n,kudeta|n,lebak|n
-的一击	kudeta|n,rampasan kuasa|n
-的一口	sepah
-的一声	debak|n,lebak|n
-的一头	popor|n
-的一片	patio|n
-的一片供	patio|n
-的一片供晴	patio|n
-的一片供晴天	patio|n
-的一片供晴天休	patio|n
-的一片供晴天休息	patio|n
-的一片供晴天休息用	patio|n
-的一片供晴天休息用的	patio|n
-的一片供晴天休息用的石	patio|n
-的一片供晴天休息用的石砌	patio|n
-的一片供晴天休息用的石砌空	patio|n
-的一百	sentilion|num
-的一百次	sentilion|num
-的一百次幂	sentilion|num
-的一种	dingkis,gubang,kemang,kermak,kuau|n,mandali,mendora,ronggeng
-的七	sekstilion|num
-的七乘	sekstilion|num
-的七乘方	sekstilion|num
-的三	kuintilion|num
-的三次	kuintilion|num
-的三次方	kuintilion|num
-的东	cencangan,kejutan|n,kiriman,penangkis,taknak|v
-的东西	cencangan,kejutan|n,kiriman,penangkis,taknak|v
-的丝	perambut
-的丝线	perambut
-的义	fardu|n
-的义务	fardu|n
-的九	nonilion|num,oktilion|num
-的九次	nonilion|num,oktilion|num
-的九次方	nonilion|num,oktilion|num
-的事	berbual|v,pemboleh ubah|n
-的事物	berbual|v,pemboleh ubah|n
-的二	bandung|n
-的二物	bandung|n
-的五	kuadrilion|num
-的五次	kuadrilion|num
-的五次方	kuadrilion|num
-的产	akaf
-的产业	akaf
-的亲	tiri|adj
-的亲缘	tiri|adj
-的亲缘关	tiri|adj
-的亲缘关系	tiri|adj
-的人	ajaran sesat|n,bapa cik|n,buruh kasar,fakir,fasih lidah|adj,francaisi|n,golok kayu,hadirin
-的估	nilaian
-的估定	nilaian
-的低	baruh|n
-的低地	baruh|n
-的佬	jorong
-的佬叶	jorong
-的佬叶盒	jorong
-的使	gunatenaga
-的使用	gunatenaga
-的倒	seruit
-的倒钩	seruit
-的储	jegung
-的储藏	jegung
-的储藏处	jegung
-的儿	bin|n,ibni
-的儿子	bin|n,ibni
-的兄	duai,ipar|n
-的兄弟	duai,ipar|n
-的兄弟姐	duai,ipar|n
-的兄弟姐妹	duai,ipar|n
-的八	septilion|num
-的八次	septilion|num
-的八次方	septilion|num
-的内	beranta,bunyi surat
-的内容	bunyi surat
-的内河	beranta
-的内河船	beranta
-的冲	jamban|n
-的冲凉	jamban|n
-的冲凉房	jamban|n
-的切	gubang
-的切口	gubang
-的刑	penyaliban|n
-的刑罚	penyaliban|n
-的剪	kelati
-的力	daya ghaib
-的力量	daya ghaib
-的动	binatang jinak,binatang maging
-的动物	binatang jinak,binatang maging
-的包	geruk
-的包裹	geruk
-的十	banji|n,kuindesilion|num
-的十五	kuindesilion|num
-的十五次	kuindesilion|num
-的十五次幂	kuindesilion|num
-的十字	banji|n
-的十字记	banji|n
-的十字记号	banji|n
-的华	singkek|n
-的华侨	singkek|n
-的单	patah|v,pucuk|n
-的单位	patah|v,pucuk|n
-的厚	sengkalan
-的厚板	sengkalan
-的原	undang-undang rimba|n
-的原则	undang-undang rimba|n
-的发	lagih
-的发问	lagih
-的召	bang|n
-的召唤	bang|n
-的叶	pelepah|n
-的叶梗	pelepah|n
-的名	bismillah,petaling
-的名称	petaling
-的命	bohrium|n,mortaliti|n
-的命名	bohrium|n
-的命运	mortaliti|n
-的回	kelenung,keletung
-的回声	kelenung
-的回音	keletung
-的团	onde-onde
-的团子	onde-onde
-的圈	kelandara
-的土	ronggeng
-的土风	ronggeng
-的土风舞	ronggeng
-的圣	rigal
-的圣灵	rigal
-的地	alas rumah,cetek|adj,kubang|n,memperdangkal,mencetekkan|v,rubu
-的地基	alas rumah
-的地方	cetek|adj,kubang|n,memperdangkal,mencetekkan|v
-的地步	rubu
-的地步行	rubu
-的坑	seronggong
-的坑架	seronggong
-的坚	padau
-的坚固	padau
-的坚固之	padau
-的坚固之帆	padau
-的声	gelogok,uik
-的声音	gelogok,uik
-的外	kelesek,ruyung|n,siring|n
-的外皮	kelesek,ruyung|n,siring|n
-的夜	zabaniah
-的夜叉	zabaniah
-的大	simbar
-的大浪	simbar
-的天	mambang|n
-的天色	mambang|n
-的头	santung
-的头邪	santung
-的头邪术	santung
-的夹	linggi
-的夹板	linggi
-的女	binti|n,penanggalan|n
-的女儿	binti|n
-的女鬼	penanggalan|n
-的姿	turun senjata|n
-的姿势	turun senjata|n
-的子	anak halal
-的子女	anak halal
-的学	graduan|n
-的学生	graduan|n
-的孩	anak bongsu
-的孩子	anak bongsu
-的宝	berlian|n
-的宝石	berlian|n
-的家	orang lanat,saka-baka
-的家伙	orang lanat
-的家系	saka-baka
-的寡	bujang talan
-的寡妇	bujang talan
-的寡妇或	bujang talan
-的寡妇或鳏	bujang talan
-的寡妇或鳏夫	bujang talan
-的實	mak kau hijau
-的實際	mak kau hijau
-的實際含	mak kau hijau
-的實際含義	mak kau hijau
-的寺	candi
-的寺庙	candi
-的寿	ajal|n
-的寿命	ajal|n
-的尊	engku,kakanda|n,raden
-的尊敬	kakanda|n
-的尊称	engku,raden
-的小	benta,bintil,denak
-的小动	denak
-的小动物	denak
-的小红	bintil
-的小红点	bintil
-的小胧	benta
-的小胧包	benta
-的尾	cemara|n
-的尾毛	cemara|n
-的屋	sutuh
-的屋顶	sutuh
-的屏	sadang,sading
-的屏幕	sadang,sading
-的岩	pancalogam
-的岩石	pancalogam
-的巨	rahu
-的巨龙	rahu
-的布	genggang|adj
-的希	tinggi harapan
-的希望	tinggi harapan
-的帘	bidai
-的带	serangkak
-的带绑	serangkak
-的带绑住	serangkak
-的带绑住树	serangkak
-的带绑住树身	serangkak
-的席	serampin
-的帽	songkok|n
-的干	bekal|n
-的干粮	bekal|n
-的干粮或	bekal|n
-的干粮或用	bekal|n
-的干粮或用品	bekal|n
-的床	lamin|n
-的座	peterana
-的座位	peterana
-的形	baheula
-的形成	baheula
-的态	lagak
-的态度	lagak
-的怒	puputan
-的怒号	puputan
-的怪	cepat tangan
-的怪癖	cepat tangan
-的意	pada hemat saya
-的意见	pada hemat saya
-的成	perghhh,walao
-的成功	perghhh,walao
-的手	empat puluh lima|num
-的手枪	empat puluh lima|num
-的政	dasar kerajaan
-的政策	dasar kerajaan
-的教	sekular|adj
-的教士	sekular|adj
-的文	makalah|n
-的文章	makalah|n
-的方	cara mengaji,jelimput,kiblat
-的方向	jelimput,kiblat
-的方法	cara mengaji
-的时	aktusembahyang,inap desa|n,rumah inap|n
-的时期	inap desa|n,rumah inap|n
-的时间	aktusembahyang
-的晕	gelanggang bulan
-的晕轮	gelanggang bulan
-的暴	garang|adj
-的暴躁	garang|adj
-的暴躁的	garang|adj
-的月	ramadan
-的月份	ramadan
-的服	sari
-的服装	sari
-的木	kayu-kayan,kayu-kayuan,terubung
-的木材	kayu-kayan,kayu-kayuan
-的木桶	terubung
-的果	halwa|n
-的果子	halwa|n
-的柱	tiang rumah
-的树	togok
-的树干	togok
-的校	cikgu besar|n,pengetua|n
-的校长	cikgu besar|n,pengetua|n
-的栳	lelat,sirih|n
-的栳叶	lelat,sirih|n
-的梗	puris,tongkol
-的梗心	tongkol
-的梗心果	tongkol
-的梗心果实	tongkol
-的梗或	puris
-的梗或筋	puris
-的梳	serit
-的梳栉	serit
-的检	amati
-的检查	amati
-的棉	telepuk
-的棉布	telepuk
-的棍	pacak
-的棍棒	pacak
-的棒	tembung|v
-的森	hutan rimba|n
-的森林	hutan rimba|n
-的椰	gaba
-的椰叶	gaba
-的槟	jerkat
-的槟榔	jerkat
-的歌	dendang
-的歌唱	dendang
-的死	mati katak,rejam|v
-的死刑	rejam|v
-的死去	mati katak
-的段	ruas
-的毛	bulu rama
-的水	zamzam
-的汁	sadap
-的沙	sakai|n
-的沙盖	sakai|n
-的沙盖族	sakai|n
-的河	alahan
-的河床	alahan
-的法	namus
-的法则	namus
-的洗	mendamparkan
-的液	petrol|n
-的液態	petrol|n
-的液態烴	petrol|n
-的液態烴類	petrol|n
-的液態烴類組	petrol|n
-的液態烴類組成	petrol|n
-的混	anjing pandan|n,pancalogam,samsam
-的混合	anjing pandan|n,pancalogam
-的混合废	anjing pandan|n
-的混合废料	anjing pandan|n
-的混合金	pancalogam
-的混种	samsam
-的混种人	samsam
-的火	bara|n,orong
-的火头	bara|n
-的火门	orong
-的灵	mani
-的灵魂	mani
-的热	samum
-的热风	samum
-的燃	petrol|n
-的燃料	petrol|n
-的爱	cauvinisme|n
-的爱国	cauvinisme|n
-的爱国主	cauvinisme|n
-的爱国主义	cauvinisme|n
-的牧	chalet|n
-的牧人	chalet|n
-的牧人小	chalet|n
-的牧人小屋	chalet|n
-的物	objek
-的狗	anjing ajak|n,anjing geladak|n
-的环	sigi
-的班	dalang|n
-的班主	dalang|n
-的班主或	dalang|n
-的班主或导	dalang|n
-的班主或导演	dalang|n
-的生	urbanisme|n
-的生活	urbanisme|n
-的生活方	urbanisme|n
-的生活方式	urbanisme|n
-的用	slanga|n
-的用詞	slanga|n
-的甲	geladak
-的甲板	geladak
-的男	said
-的男孩	said
-的男孩之	said
-的男孩之名	said
-的白	pacai
-的白檀	pacai
-的白檀香	pacai
-的白檀香粉	pacai
-的皮	gelabir,gelambir,jumbil
-的皮肉	gelabir,gelambir
-的目	haluan
-的目的	haluan
-的真	asli|adj
-的真正	asli|adj
-的真正的	asli|adj
-的短	petaram
-的短剑	petaram
-的石	batu-batan,patio|n
-的石头	batu-batan
-的石砌	patio|n
-的石砌空	patio|n
-的硬	watas
-的确	benar-benar,nah
-的祈	kunut
-的祈祷	kunut
-的祝	assalam
-的祝语	assalam
-的神	mahadewa
-的禁	nahi
-的禁令	nahi
-的称	hang|pron,nyal,rangga,uak|n
-的称号	hang|pron,nyal,rangga
-的称呼	uak|n
-的空	cerang
-的空地	cerang
-的章	surah|n
-的竹	betung|n
-的笔	cakar ayam|n
-的笔迹	cakar ayam|n
-的符	pepet
-的符号	pepet
-的第	alias,slomang|n,teta|n
-的第一	alias
-的第一个	alias
-的第一个字	alias
-的第二	slomang|n
-的第二个	slomang|n
-的第二个字	slomang|n
-的第二个字母	slomang|n
-的第八	teta|n
-的第八字	teta|n
-的笼	jebak
-的筛	ayak|n
-的米	beras petas,beras-petas,petas
-的粉	pudi,tepung beras
-的粉末	pudi
-的素	vegan|n
-的素食	vegan|n
-的素食主	vegan|n
-的素食主义	vegan|n
-的素食主义者	vegan|n
-的红	bakau|n
-的红木	bakau|n
-的线	bertas|v
-的细	uring
-的细槽	uring
-的织	tisu|n
-的织物	tisu|n
-的绝	mogok lapar|n,mogok makan|n
-的绝食	mogok lapar|n,mogok makan|n
-的罪	fasik
-的罪人	fasik
-的老	harimau jadi-jadian
-的老虎	harimau jadi-jadian
-的职	prefektur|n
-的职位	prefektur|n
-的肚	tian|n
-的肚子	tian|n
-的胃	geliga
-的胃石	geliga
-的背	bonggol|n
-的背峰	bonggol|n
-的胶	pulut|n
-的胶汁	pulut|n
-的能	mata jahat|n
-的能力	mata jahat|n
-的脓	ruam|n
-的脓头	ruam|n
-的腌	ulam|n
-的腌菜	ulam|n
-的腰	pending
-的腰带	pending
-的花	bunga-bungaan,cepudebunga,gaba-gaba
-的花彩	gaba-gaba
-的花粉	cepudebunga
-的花粉囊	cepudebunga
-的茅	pandan duri|n,pandan hutan|n
-的茅草	pandan duri|n,pandan hutan|n
-的药	nyiat-nyiat,tela
-的药池	tela
-的药草	nyiat-nyiat
-的菜	sagun
-的蚁	busut betina,busut jantan
-的蚁冢	busut betina,busut jantan
-的蛀	kelarah
-的蛀虫	kelarah
-的蜂	sambang
-的蜂巢	sambang
-的褴	cobak-cabik
-的褴褛	cobak-cabik
-的褴褛的	cobak-cabik
-的視	mak kau hijau
-的視頻	mak kau hijau
-的规	hukum adat
-的规则	hukum adat
-的誓	idah
-的誓约	idah
-的计	pengaturcaraan|n
-的计划	pengaturcaraan|n
+犄角	tanduk|n
+犄角旮旯	zawiat|n
+玄	piut lelaki|n,piut laki-laki|n,cucu lelaki cucu|n,anak lelaki cicit|n
+玄妙	hebat|adj
+玄孙	piut lelaki|n,piut laki-laki|n,cucu lelaki cucu|n,anak lelaki cicit|n
+玄秘	teka-teki|n
+玄色	hitam|adj
+玄远	hebat|adj
+的	pada|prep,ganjil|adj,baka|adj,pasif|adj,fasih|adj,kualun
+的确	nah,benar-benar
+的組詞。滅火器延伸阅读	pemadam api|n
 的记	prasasti|n
 的记载	prasasti|n
-的论	paradoks|n
-的论点	paradoks|n
-的话	hamun,insya allah,lidah pengarang
-的诞	maulud
-的诞辰	maulud
-的诞辰日	maulud
-的谚	gurindam
-的谚语	gurindam
-的象	mada
-的贝	sarak
-的财	harta benda
-的财产	harta benda
-的货	belian|n,gerobak kuda
-的货物	belian|n
-的货车	gerobak kuda
-的赐	anugerah|n
-的赐与	anugerah|n
-的赐与下	anugerah|n
-的赐与下贱	anugerah|n
-的赐与下贱的	anugerah|n
-的赠	idah
-的赠品	idah
-的进	gitar tenor|n,santapan
-的进宴	santapan
-的进程	gitar tenor|n
-的连	bahawa|conj
-的连接	bahawa|conj
-的连接词	bahawa|conj
-的道	jalan tol|n
-的道路	jalan tol|n
-的邪	tumbal
-的邪术	tumbal
-的金	cembul|n,palung
-的金属	cembul|n
-的金属盒	cembul|n
-的金山	palung
-的金山沟	palung
-的錯	ensiklopedia|n
-的錯誤	ensiklopedia|n
-的錯誤合	ensiklopedia|n
-的錯誤合寫	ensiklopedia|n
-的钱	bayaran
-的铁	temin
-的铁圈	temin
-的铜	semberip
-的铜盘	semberip
-的锡	calung
-的锡杯	calung
-的长	gading|n,umbul
-的长大	umbul
-的长牙	gading|n
-的间	lopak
-的间隙	lopak
-的阿	sayid
-的阿拉	sayid
-的阿拉伯	sayid
-的阿拉伯人	sayid
-的附	susulan
-的附录	susulan
-的陶	cobek
-的陶盘	cobek
-的雌	ayam dara
-的雌鸡	ayam dara
-的露	berguk,merguk
-的露眼	berguk,merguk
-的露眼面	berguk,merguk
-的露眼面幂	merguk
-的露眼面罩	berguk
-的非	sastera|n
-的非标	sastera|n
-的非标准	sastera|n
-的非标准写	sastera|n
 的非标准写法	sastera|n
-的顽	tomboi|n
-的顽皮	tomboi|n
-的顽皮姑	tomboi|n
-的顽皮姑娘	tomboi|n
-的颈	serviks|n
-的颈部	serviks|n
-的额	gumba
-的额瘤	gumba
-的风	tugas|n
-的食	ayapan,gado-gado,rantang
-的食品	gado-gado
-的食格	rantang
-的食物	ayapan
-的饭	nasi bungkus,nasi lemak|n
-的饭菜	nasi bungkus
-的魔	gergasi|n
-的魔王	gergasi|n
-的鱼	gegat|n
-的鸣	menta
-的鸣叫	menta
-的鹦	teraling
-的鹦鹉	teraling
-的黑	ijuk|n
-的黑色	ijuk|n
-的黑色纤	ijuk|n
-的黑色纤维	ijuk|n
-的鼓	gendang raya
-的鼻	jungur,tahi hidung|n
-的鼻子	jungur
-的鼻粘	tahi hidung|n
-的鼻粘液	tahi hidung|n
-瞄	bidik|v,memidi,pejera,pidi,rambang,tuju|v
-瞄准	bidik|v,memidi,pidi,tuju|v,pejera,rambang
+瞄	tuju|v,bidik|v,pidi,memidi
+瞄准	tuju|v,bidik|v,pidi,memidi,pejera
+瞄准具	pandangan|n
 瞄准器	pejera
-窄	sempit|adj,bebang,picik,terik
-窄的	picik,terik
-缄	berat mulut
+窄	sempit|adj,picik
+窄的	picik
 缄默	berat mulut
 缄默的	berat mulut
-茄	terung,cerutu|n,rangam|n,terung ungu|n
+茄	terung,terung ungu|n
 茄子	terung ungu|n
-萄	anggur|n,glukos,kismis|n,peringgi|adj,portugal,portugis,sape|pron,zabib|n
-萄干	kismis|n,zabib|n
-萄浓	sape|pron
-萄浓汁	sape|pron
-萄牙	peringgi|adj,portugal,portugis
-萄牙人	peringgi|adj,portugis
-萄糖	glukos
-薄	nipis|adj,tipis|adj,apam|n,didis,iris,jerebu|n,lawar,lembek
+薄	nipis|adj,tipis|adj,apam|n,nipis macam kertas|adj,selaput,poho|n,jerebu|n,pudina|n
 薄层	selaput
 薄席	lembek
 薄烤	pankek|n,serabai
 薄烤饼	pankek|n,serabai
-薄片	iris,didis,lawar,mendidis,mengiris
-薄的	apam|n,nipis macam kertas|adj,pipih,tisu|n
+薄片	iris
+薄的	apam|n,nipis macam kertas|adj,tisu|n
 薄的织	tisu|n
 薄的织物	tisu|n
-薄皮	saput,selaput
+薄皮	selaput,saput
+薄膜	filem|n
 薄荷	poho|n,pudina|n
 薄雾	jerebu|n
 薄饼	lempeng
-谄	mengumbuk,peleceh,pujuk,umbuk
-谄媚	pujuk,mengumbuk,peleceh,umbuk
-谄媚奉	mengumbuk,umbuk
-谄媚奉承	mengumbuk,umbuk
+谄	pujuk
+谄媚	pujuk,umbuk,mengumbuk,peleceh
+谄媚奉	umbuk,mengumbuk
+谄媚奉承	umbuk,mengumbuk
 谄媚的	peleceh
 谄媚的人	peleceh
-锄	cangkul|n,mencangkul,pacul,penggali,pangkur,tembilang
+锄	cangkul|n,pacul,penggali,mencangkul,pangkur
 锄头	cangkul|n,pacul,pangkur
-预	anggaran,bajet|n,belanjawan|n,daud,faal,gelagat,gerak hati,hirau|v
-预他	mencampuri
-预他人	mencampuri
-预他人之	mencampuri
-预他人之事	mencampuri
+预	belanjawan|n,ramalan|n,tenung|v,ramal|v,sangka|v,sedia|adv,raptai|n,ikhtiyat|n
 预付	prapembayaran|n,tempah|v
 预付款	tempah|v
 预付款项	tempah|v
+预估	ramalan|n
 预兆	gelagat,padah,pedah
-预备	menyediakan,persiapan|n,sedia|adv
-预定	memialang,menempah,pembelanjawanan|n,pialang,losi
+预备	sedia|adv,persiapan|n,menyediakan
+预定	pembelanjawanan|n,pialang,menempah,memialang,losi
 预定席	losi
 预定席位	losi
 预感	gerak hati
 预报	peramal|n
 预报员	peramal|n
-预料	sangka|v,malang tidak berbau|n
-预料的	malang tidak berbau|n
-预测	menelah,ramal|v,ramalan|n
+预料	sangka|v
+预测	ramalan|n,ramal|v,menelah
 预演	raptai|n
-预算	anggaran,bajet|n,belanjawan|n,menganggarkan
-预约	pembukuan|n
-预约演	pembukuan|n
-预约演出	pembukuan|n
-预约演出合	pembukuan|n
-预约演出合同	pembukuan|n
-预言	faal,menelah,menenung,meramalkan,tenung|v,daud,hud,ibrahim
+预算	belanjawan|n,menganggarkan,anggaran
+预算编预算编入预算	bajet|n
+预约演出合同书型模法	pembukuan|n
+预见	visi|n
+预言	tenung|v,faal,menenung,menelah,meramalkan,nabi|n,hud,daud
 预言家	nabi|n
-预言者	daud,hud,ibrahim,idris
+预言者	hud,daud,idris,ibrahim
+预警	amaran|n
 预防	ikhtiyat|n,pencegah
-骄	angkuh,bangga,berbangga,bongkak,bulan jatidiri,congkak,kebanggaan,lagak
-骄傲	angkuh,bangga,bongkak,bulan jatidiri,congkak,kebanggaan,sombong,tinggi hati
-骄傲的	pongah,rangah,ranggi,lagak
-骄傲的态	lagak
+骄	lanja,bangga,bongkak,angkuh,congkak,sombong,tombang,bulan jatidiri
+骄傲	bangga,bongkak,angkuh,congkak,sombong,tombang,bulan jatidiri,tinggi hati
+骄傲的	pongah,ranggi,rangah
 骄傲的态度	lagak
+骄傲自	kebanggaan
+骄傲自傲	kebanggaan
 骄奢	lanja
-龄	bawah umur,bawat|adj,cukup umur,mamai|adj,sebaya,seumur,umur|n,usia|n
-龄的	mamai|adj

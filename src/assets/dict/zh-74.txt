@@ -1,251 +1,141 @@
-今	belakang hari,hari ini|adv,jemah,kini|adj,lima puluh empat|num,menghairankan,zaman sekarang
-今人	menghairankan
-今人惊	menghairankan
+今	hari ini|adv,zaman sekarang
 今人惊奇	menghairankan
 今人惊奇的	menghairankan
-今后	belakang hari,jemah
-今夜	lima puluh empat|num
-今夜星	lima puluh empat|num
-今夜星光	lima puluh empat|num
-今夜星光诱	lima puluh empat|num
-今夜星光诱惑	lima puluh empat|num
+今后	jemah,belakang hari
+今夜星光诱惑54	lima puluh empat|num
 今天	hari ini|adv
 今日	zaman sekarang
-俊	gagah|adj,tampan|adj
-俊的	tampan|adj
-削	guntung,kaup,kikis|v,kobak,lancip,legas,mancung,memelupuh
+俊杰	elit|n
+俊秀	gelis|adj
+俊美	gelis|adj
+削	kikis|v,legas,seliat,kaup,guntung,pelupuh,memelupuh,meraut
 削刮	kaup
 削尖	meraut
-削平	memelupuh,pelupuh,ratakan
+削平	pelupuh,memelupuh,ratakan
 削掉	kikis|v
 削球	legas
-削的	lancip,runcing
+削瘦	kurus|adj
 削皮	seliat
 削短	guntung
-半	cembung,ganyut,hemisfera,jejari,jelantah,kelung,labang,lumpuh|v
+半	semenanjung|n,setengah dozen|num,jejari,hemisfera
+半升音调	tajam|adj
 半只	tempurung|n
 半只椰	tempurung|n
 半只椰壳	tempurung|n
 半合	sepet
 半合眼	sepet
-半吐	sentil|n
-半吐的	sentil|n
-半吞	sentil|n
-半吞半	sentil|n
 半吞半吐	sentil|n
 半吞半吐的	sentil|n
-半圆	cembung,kelung
+半圆	kelung,cembung
 半圆形	kelung,cembung
 半圆形的	cembung
-半岛	semenanjung|n,tanah melayu|n
-半工	separuh masa|n
-半工半	separuh masa|n
-半工半薪	separuh masa|n
+半岛	semenanjung|n
+半工半薪半日薪	separuh masa|n
 半开	sepet
 半开半	sepet
 半开半闭	sepet
 半径	jejari
+半截	separuh|num
 半打	setengah dozen|num
-半日	separuh masa|n
-半日薪	separuh masa|n
+半拉	separuh|num
+半数	separuh|num
+半桶水	terbatas|adj
 半满	sambang
 半满的	sambang
 半熟	mengkal
 半熟的	mengkal
-半球	hemisfera,masyrik
-半生	ganyut,jelantah,magil
-半生不	ganyut,jelantah,magil
-半生不熟	ganyut,jelantah,magil
-半生不熟的	ganyut,jelantah,magil
+半球	hemisfera
+半生不熟	ganyut,magil,jelantah
+半生不熟的	ganyut,magil,jelantah
+半白	lima puluh|num
+半百	lima puluh|num
 半聋	labang
 半聋的	labang
-半薪	separuh masa|n
 半身	lumpuh|v
 半身不	lumpuh|v
 半身不遂	lumpuh|v
 半透	lutcahaya
 半透明	lutcahaya
 半透明的	lutcahaya
-半闭	sepet
-及	a,aljazair,berkubang|v,dan sterusnya,gagah|adj,gagal dalam peperiksaan,kedap,lulus
-及不	kedap
-及不能	kedap
-及不能渗	kedap
-及不能渗透	kedap
-及不能渗透的	kedap
-及其	dan sterusnya
-及其他	dan sterusnya
-及其他等	dan sterusnya
-及其他等等	dan sterusnya
-及利	aljazair
-及利亚	aljazair
-及强	gagah|adj
-及强壮	gagah|adj
-及拟	si|art
-及拟人	si|art
-及拟人化	si|art
-及拟人化动	si|art
-及拟人化动物	si|art
-及拟人化动物名	si|art
-及拟人化动物名前	si|art
-及拟人化动物名前之	si|art
-及拟人化动物名前之接	si|art
-及拟人化动物名前之接头	si|art
-及拟人化动物名前之接头词	si|art
-及格	lulus,gagal dalam peperiksaan
-及活	gagah|adj
-及活耀	gagah|adj
-及活耀的	gagah|adj
-及物	berkubang|v,menumpukan|v
-及物动	berkubang|v,menumpukan|v
-及物动词	menumpukan|v,berkubang|v
-及物的	menumpukan|v,berkubang|v
-及部	perkelang
-及部长	perkelang
-及部长等	perkelang
-及部长等之	perkelang
-及部长等之称	perkelang
-及部长等之称号	perkelang
-告	adu|v,amaran|n,artaberita,beri amaran,beritahu|v,buletin|n,dakwa|n,fitnah|n
-告书	penyata|n
-告人	modin
+半间不界	cetek|adj
+及	a
+及拟人化动物名前之接头词参阅SiSI	si|art
+及格	lulus
+及物的及物动词	menumpukan|v
+告	beritahu|v,royat|v,unjuk,minta diri,pamit diri,pelekat,memberitahu
 告别	pamit diri
-告员	juruacara,juruhebah|n
-告时	modin
-告时间	modin
-告时间报	modin
-告时间报告	modin
-告时间报告人	modin
 告白	pelekat
 告知	beritahu|v
-告者	pengiklan|n
-告诉	beritahu|v,memberitahu,royat|v,unjuk
-告车	van|n
+告示牌	notis|n
+告诉	beritahu|v,royat|v,unjuk,memberitahu
 告辞	minta diri,pamit diri
 告退	minta diri
-囊	kantung,kedempung,cepudebunga,empedal|n,hempedal|n,kandi,kudai,pedal
-囊袋	kudai
-姊	kak|n
-姊姊	kak|n
-廊	arked|n,benderung,beranda|n,kaki lima,serambi,tepas
-惊	alamak,bercengan,cengang,fuh,fuyoh,hairan|adj,imsak|n,jelengar
+囊	kantung,kedempung
+姊妹	saudari|n
+姊姊哥哥或姐姐哥哥	kak|n
+惊	penggera|n,kagum|adj,imsak|n,kekaguman|n,mengkerit,fuh,fuyoh,alamak
 惊叫	pingkau,terpingkau
-惊吓	ketakutan|adj,takutkan|v
-惊吓的	ketakutan|adj
 惊呆	jelengar
-惊呼	alamak,fuh,fuyoh
+惊呼	fuh,fuyoh,alamak
 惊喊	pekik
 惊喊声	pekik
-惊奇	cengang,kagum|adj,hairan|adj,menghairankan
-惊奇的	hairan|adj,menghairankan
-惊异	bercengan,kagum|adj,kekaguman|n
+惊奇	hairan|adj,kagum|adj,cengang
+惊奇的	hairan|adj
+惊异	kagum|adj,kekaguman|n,bercengan
 惊怕	mengkerit
-惊恐	penggera|n,takutkan|v
+惊恐	penggera|n
 惊惧	lasi
 惊愕	cengang
-惊慌	pikau,terpikau
-惊慌而	pikau,terpikau
-惊慌而乱	pikau,terpikau
-惊慌而乱喊	pikau,terpikau
-惊慌而乱喊乱	pikau,terpikau
-惊慌而乱喊乱叫	pikau,terpikau
 惊扰	karau
-惊的	hairan|adj,kejutan|n,menghairankan
-惊的东	kejutan|n
-惊的东西	kejutan|n
-惊虾	terkejut|adj
-惊虾了	terkejut|adj
-惊虾了一	terkejut|adj
-惊虾了一跳	terkejut|adj
 惊讶	kesima
 惊讶的	kesima
 惊起	imsak|n
 惊醒	terjaga
-惊骇	cengang,kejut|v
+惊骇	kejut|v,cengang
 惊骇的	kejut|v
-惊鸟	kelontang,pacau
+惊鸟	pacau,kelontang
 惊鸟器	pacau
 惊鸟笼	kelontang
-懊	jengkel,kesal,sesal|n
+懊	sesal|n,kesal
 懊恼	jengkel
 懊恼的	jengkel
-懊悔	kesal,sesal|n
-摊	barung|n,gerai|n,lepau
+懊悔	sesal|n,kesal
+摊	barung|n,gerai|n
 摊位	gerai|n
-泊	berlabuh|v,bertambat,embara,hanyut|v,kembara,labuh|adj,melabuh|v,mengembara
-泊的	yuyu|n
-浊	air keruh,gelodar,keruh,likat
+浊	air keruh
 浊水	air keruh
-浊的	gelodar,keruh,likat
-珊	agas-agas|n,batu karang|n,dedap|n,karang|n,terumbu karang|n
-珊瑚	batu karang|n,karang|n,agas-agas|n,dedap|n,terumbu karang|n
+珊	karang|n,batu karang|n
+珊瑚	karang|n,batu karang|n,dedap|n,terumbu karang|n
 珊瑚树	dedap|n
 珊瑚礁	terumbu karang|n
-珊瑚部	agas-agas|n
-痊	betah,pulih,sembuh
-痊愈	betah,pulih,sembuh
-益	amal,atas nama,beret,bertambah,faedah|n,guna|n,hampa|adj,kepenggunaan|n
-益事	amal
-益事业	amal
-益壮	tua suntuk
-益的	beret,hampa|adj,seman
-益运	kepenggunaan|n
-益运动	kepenggunaan|n
-糊	bekemayau|v,berbalam,ilam-ilam,kabur|adj,kabut|n,lapat-lapat,membalam,mendung|n
-糊不	bekemayau|v,berbalam,membalam
-糊不清	bekemayau|v,berbalam,membalam
-糊不清的	bekemayau|v
-糊剂	pasta|n
-糊的	ilam-ilam,kabur|adj,kabut|n,lapat-lapat,mendung|n,samar|adj,sayup
-绊	sandung,saruk,saur,serandung,siding,tersampuk,tersandung|v,terserandung
-绊倒	saruk,saur,serandung,tersampuk,sandung,tersandung|v
+痊	pulih,betah,sembuh
+痊愈	pulih,betah,sembuh
+益处	guna|n
+糊涂	masuk air|adj
+糊里糊涂	samar|adj
+绊	saur,saruk,serandung,tersampuk,terserandung
+绊倒	saur,saruk,serandung,tersampuk
 绊跌	terserandung
-聊	baus|adj,berceloteh,bergebang,borak,bosan|adj,cakap-cakap,gebang,obrol|v
-聊天	berceloteh,bergebang,borak,cakap-cakap,gebang,obrol|v
-聊的	baus|adj
-腊	andalas,batu lak,lak|adv,slomang|n,teta|n,yunani
-腊人	yunani
-腊字	slomang|n,teta|n
-腊字母	slomang|n,teta|n
-腊字母的	teta|n
-腊字母的第	teta|n
-腊字母的第八	teta|n
-腊字母的第八字	teta|n
-腊字母表	slomang|n
-腊字母表的	slomang|n
-腊字母表的第	slomang|n
-腊字母表的第二	slomang|n
-腊字母表的第二个	slomang|n
-腊字母表的第二个字	slomang|n
-腊字母表的第二个字母	slomang|n
-腊岛	andalas
-腊岛之	andalas
-腊岛之古	andalas
-腊岛之古名	andalas
-菊	cikori|n,kekwa|n
+聊	obrol|v,borak,cakap-cakap,gebang,bergebang,berceloteh
+聊天	obrol|v,borak,cakap-cakap,gebang,bergebang,berceloteh
+菊	kekwa|n
 菊花	kekwa|n
 菊苣	cikori|n
-蕊	benangsari,cepudebunga
-蕊的	cepudebunga
-蕊的花	cepudebunga
-蕊的花粉	cepudebunga
-蕊的花粉囊	cepudebunga
-诊	klinik|n,retih,ruam|n,stetoskop|n,ubatkan
-诊器	stetoskop|n
-诊器诊	stetoskop|n
-诊器诊断	stetoskop|n
+菊苣菊	cikori|n
+菊苣菊苣	cikori|n
+诊	ubatkan
 诊所	klinik|n
-诊断	stetoskop|n
 诊治	ubatkan
-郊	daerah|n
-释	bebaskan,buang kes,dalil,definisi,ertian|n,ertikan|v,jelaskan|v,kata|n
+蹊径	cara|n
+蹊跷	aneh|adj
+释	lepas|adj,membebaskan|v,bebaskan,definisi,melepaskan
 释义	definisi
-释放	bebaskan,lepas|adj,melepaskan,membebaskan|v,buang kes
-释清	menjelaskan|v
-释清楚	menjelaskan|v
-铊	talium|n
-镊	angkup|n,catut,forsep|n
-镊子	angkup|n,catut,forsep|n
+释放	lepas|adj,membebaskan|v,bebaskan,melepaskan
+铊铊	talium|n
+铊铊T	talium|n
+铊铊Tl	talium|n
+镊	angkup|n,forsep|n,catut
+镊子	angkup|n,forsep|n,catut
 鹊	itik murai|n,murai
 鹊鸟	murai
 鹊鸭	itik murai|n

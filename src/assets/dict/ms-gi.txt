@@ -30,7 +30,7 @@ gilas	gilas		碾，磨，研
 gilingan	gilingan		车轴
 gilir	gilir		更换，交替，轮流
 giliran	giliran		轮次，轮班
-gimam	gimam	v	音节主音 音节的
+gimam	gimam	v	音节主音 音节的	syllabic abbreviation of pergi mampus
 gimnasium	gimnasium	n	健身房	gymnasium: large room or building for indoor sports.
 gincu	gincu	n	胭脂、口紅	lipstick (make-up for the lips)
 ginekologi	ginekologi	n	妇科医学  妇科学	gynecology

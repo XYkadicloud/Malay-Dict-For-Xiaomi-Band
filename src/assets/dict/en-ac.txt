@@ -1,0 +1,183 @@
+ac	pendingin hawa|n,penyaman udara|n
+academy	akademi|n
+acceleration	kepecutan|n
+accelerator	pemecut|n,penderas|n
+accent	aksen|n
+accepting of other people	bertolak ansur|adj
+access	capaian|n
+accessory	aksesori|n
+accident	geruh|n,kemalangan|n
+accompaniment	iringan|n
+accord	muafakat|n
+accordance	muafakat|n
+accordion	akordion|n
+accountant	akauntan|n
+accuracy	kejituan|n,ketepatan|n
+accurate	jitu|adj,tepat|adj
+accusation	dakwa|n,tomahan|n
+accuse	tuduh|v
+achievement	kelakonan|n
+acid	asid|n
+acid rain	hujan asid|n
+acidity	keasidan|n
+acne	jerawat|n
+acorus calamus	jerangau|n
+acoustic guitar	gitar akustik|n
+acoustics	akustik|n
+acquisition	perolehan|n
+acromion	akromion|n
+acronym of khairy jamaluddin	kj
+acronym of majlis amanah rakyat	mara
+acronym of melayu islam beraja	mib
+acronym of pendatang asing tanpa izin illegal immigrant	pati
+acronym of petroliam nasional berhad	petronas
+acronym of sumbangan asas rahmah	sara
+acronym of wan ahmad fayhsal	waf
+act	akta|n,laku|n,perbuatan|n
+act of abdicating	abdikasi|n
+act of feigning	acahan|n
+act of holding something tightly	pautan|n
+act of islamkan	pengislaman|n
+act of monitoring	pantauan|n
+act of neglecting	pengabaian|n
+act of regretting	penyesalan|n
+act of serving	penyajian|n
+act of wearing	pemakaian|n
+act or process of advertising	pengiklanan|n
+act or process of alphabetizing	pengabjadan|n
+act or process of animating	penganimasian|n
+act or process of arriving	ketibaan|n
+act or process of bayangkan	pembayangan|n
+act or process of going on strike or striking	pemogokan|n
+act or process of making something formal	pemformalan|n
+act or process of zooming	pengezuman|n
+actinium	aktinium|n
+action	aksi|n,laku|n,gerak|n,tindakan|n
+action of making someone or something malay	pemelayuan|n
+active	aktif|adj
+active and agile in an activity	ligat|adj
+active of abjadkan	mengabjadkan|v
+active of abur	mengabur|v
+active of acan	mengacan|v
+active of acapi	mengacapi|v
+active of analisis	menganalisis|v
+active of anggap to consider	menganggap|v
+active of baharui	membaharui|v
+active of bahas to debate	membahas|v
+active of bahaskan to debate something	membahaskan|v
+active of banci	membanci|v
+active of baui	membaui|v
+active of bayang-bayangi	membayang-bayangi|v
+active of bayang-bayangkan	membayang-bayangkan|v
+active of bayangi	membayangi|v
+active of bayangkan	membayangkan|v
+active of bekaskan	membekaskan|v
+active of capap	mencapap|v
+active of contoh	mencontoh|v
+active of dapat	mendapat|v
+active of degilkan	mendegilkan|v
+active of derita	menderita|v
+active of derma	menderma|v
+active of dermakan	mendermakan|v
+active of dukung	mendukung|v
+active of eksport	mengeksport|v
+active of ertikan to interpret	mengertikan|v
+active of fahami	memahami|v
+active of fardukan	memfardukan|v
+active of fasihkan	memfasihkan|v
+active of fikir	memikir|v
+active of fikiri	memikiri|v
+active of formalkan	memformalkan|v
+active of francaiskan	memfrancaiskan|v
+active of gedangkan	menggedangkan|v
+active of gelar	menggelar|v
+active of hadiahi	menghadiahi|v
+active of hadiahkan	menghadiahkan|v
+active of hargai	menghargai|v
+active of hela	menghela|v
+active of hitung	menghitung|v
+active of iklankan	mengiklankan|v
+active of imaginasikan	mengimaginasikan|v
+active of imbuh	mengimbuh|v
+active of implementasikan	mengimplementasikan|v
+active of import	mengimport|v
+active of ingat to remember	mengingat|v
+active of islamkan	mengislamkan|v
+active of jajah to explore	menjajah|v
+active of jepunkan	menjepunkan|v
+active of jinggakan	menjinggakan|v
+active of justifikasikan	menjustifikasikan|v
+active of kafirkan	mengkafirkan|v
+active of karang	mengarang|v
+active of kategorikan	mengkategorikan|v
+active of kaunseling	mengkaunseling|v
+active of kedutkan	mengedutkan|v
+active of labuhkan	melabuhkan|v
+active of lahirkan	melahirkan|v
+active of lancarkan	melancarkan|v
+active of lengkung	melengkung|v
+active of lestarikan	melestarikan|v
+active of lokap	melokap|v
+active of makan	memakan|v
+active of mampankan	memampankan|v
+active of masak	memasak|v
+active of masamkan	memasamkan|v
+active of mohon	bermohon|v
+active of muktamadkan	memuktamadkan|v
+active of nyahjajah	menyahjajah|v
+active of nyala	menyala|v
+active of oksigenkan	mengoksigenkan|v
+active of pancing	memancing|v
+active of pandang to look	memandang|v
+active of panggil	memanggil|v
+active of pantau	memantau|v
+active of parkir	memarkir|v
+active of paut	memaut|v
+active of pecut	memecut|v
+active of peningkan	memeningkan|v
+active of perbaharu	memperbaharu|v
+active of pertuan	mempertuan|v
+active of pinta	meminta|v
+active of plagiat	memplagiat|v
+active of ponteng	memonteng|v
+active of potong	memotong|v
+active of punyai to have	mempunyai|v
+active of punyakan	mempunyakan|v
+active of putihkan	memutihkan|v
+active of putihkan mata	memutihkan mata|v
+active of rakyatkan	merakyatkan|v
+active of rampok	merampok|v
+active of reformasi	mereformasi|v
+active of regas	meregas|v
+active of regat	meregat|v
+active of renung to ponder	merenungi|v
+active of rompak	merompak|v
+active of rungut	merungut|v
+active of rusuk	merusuk|v
+active of sambar	menyambar|v
+active of samun	menyamun|v
+active of sebabkan	menyebabkan|v
+active of sebut	menyebut|v
+active of sebut to mention	menyebut|v
+active of selesaikan	menyelesaikan|v
+active of selubung to cover	menyelubungi|v
+active of sosialisasikan	mensosialkan|v
+active of strim	menstrim|v,mengestrim|v
+active of tadah	menadah|v
+active of tahan	menahan|v
+active of takutkan	menakutkan|v
+active of terangkan	menerangkan|v
+active of timpa	menimpa|v
+active of tindas to press down	menindas|v
+active of tinjau	meninjau|v
+active of transkrip	mentranskrip|v
+active of tujah to thrust	menujah|v
+active of wajibkan	mewajibkan|v
+active of zeroks	menzeroks|v
+active of zumkan	mengezumkan|v
+activities etc	mengular|v
+activity	ramai|adj,aktiviti|n,kegiatan|n
+activity where one relaxes oneself	rehat|n
+actor	pelakon|n
+actress	aktres|n,pelakon|n
+actually	sebenarnya|adv

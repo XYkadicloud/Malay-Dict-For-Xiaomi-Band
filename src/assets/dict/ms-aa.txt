@@ -1,5 +1,5 @@
 a	a		与，及，和，而，且	The first letter of the Malay alphabet  written in the La…
-aa	aa	n	词首字母缩略词
+aa	aa	n	词首字母缩略词	initialism of Asia-Afrika (“Asian-African”)
 aaa	aaa		嗯	um
 aad	aad		契约，合同
 aandeel	aandeel	n	部分	part

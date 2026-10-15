@@ -1,19 +1,18 @@
 ab	ab	n	从	The AB blood type.
-aba	aba	n	两者择一
-abaaba	aba-aba	n	两者择一
+aba	aba	n	两者择一	alternative form of abah
+abaaba	aba-aba	n	两者择一	alternative form of aba
 abab	abab	v	谎言	to lie (on the stomach)
 abad	abad	n	世纪	A century (period of 100 years).
 abadaba	aba-daba	n	细菌	germ
 abadahu	abadahu		然后，其后
 abadalabad	abad al-abad	n	永远	forever
-abadalabid	abad al-abid	n	两者择一
-abadalabid	abad alabid	n	两者择一
+abadalabid	abad al-abid	n	两者择一	alternative form of abad al-abad
 abademas	abad emas	n	黄金时代	golden age
 abadi	abadi	adj	永恒的	eternal; everlasting:
 abadiah	abadiah	adj	永恒的	eternal
-abadiat	abadiat	adj	无限
+abadiat	abadiat	adj	无限	alternative form of abadiah
 abadikan	abadikan	v	使不灭	to immortalize
-abadiyyat	abadiyyat	adj	两者择一
+abadiyyat	abadiyyat	adj	两者择一	alternative form of abadiah
 abadkeemasan	abad keemasan	n	黄金时代	golden age
 abadpertengahan	abad pertengahan		中世纪	Middle Ages
 abadtengah	abad tengah		中世纪	Middle Ages
@@ -28,10 +27,10 @@ abak	abak		传染病瘟疫
 abaka	abaka	n	马尼拉麻	abaca (plant)
 abakus	abakus	n	算盘  算盘	abacus (device for performing arithmetical calculations)
 abal	abal	n	云	cloud
-abalon	abalon	n	两者择一
+abalon	abalon	n	两者择一	alternative form of abalone
 abalone	abalone	n	鮑魚	abalone (edible univalve mollusc)
 abang	abang	n	哥哥	An older brother or male sibling.		Abang saya seorang doktor.	adik
-abangabang	abang-abang	n	复数的
+abangabang	abang-abang	n	复数的	plural of abang
 abangbomba	abang bomba		<美>消防队员	a firefighter  especially one who is seen as nice
 abangkandung	abang kandung	n	生物学的  生物学的	biological older brother.
 abanglong	abang long	n	最旧的	oldest older brother.
@@ -42,12 +41,12 @@ abarabar	abar-abar	n	墙	A wall.
 abau	abau	n	彩色龟	The painted turtle; Chrysemys picta.
 abc	abc	n	拉丁字母表	The Latin alphabet; ABC.
 abdas	abdas	n	洗澡	ablution  abdest
-abdb	abdb		词首字母缩略词
+abdb	abdb		词首字母缩略词	initialism of Angkatan Bersenjata Diraja Brunei (“Royal Brunei Armed F
 abdi	abdi	n	僕人，lurik 通常是王宮僕人穿的，我，我的名字是…	A slave.
 abdikan	abdikan	v	奴役	To enslave.
 abdikasi	abdikasi	n	行动	Act of abdicating; abdication.
 abdinegara	abdi negara	n	政府官员	government official
-abdoman	abdoman	n	荒废的
+abdoman	abdoman	n	荒废的	obsolete spelling of abdomen
 abdomen	abdomen	n	腹部	abdomen (the belly  or any of the similar part  not including the back)
 abdul	abdul		男人	a male given name from Arabic  usually used by Muslims
 abdullah	abdullah		男人	a male given name from Arabic
@@ -55,11 +54,11 @@ abese	abese	n	拉丁字母表	The Latin alphabet; ABC.
 abet	abet	n	行为举止，教唆，煽動，幫助，支持	The way someone behaves; behaviour.
 abiad	abiad	adj	明亮的	Bright and colourless; white.
 abid	abid	n	有人	Someone who performs acts of worship a lot.
-abidabid	abid-abid	n	复数的
-abidin	abidin	n	复数的
+abidabid	abid-abid	n	复数的	Plural of abid.
+abidin	abidin	n	复数的	Plural of abid.
 abilah	abilah	n	天花  天花	Smallpox or chickenpox.
-abintara	abintara	n	传令官，丞官
-abistu	abis tu	adv	两者择一
+abintara	abintara	n	传令官，丞官	alternative form of bentara
+abistu	abis tu	adv	两者择一	alternative form of habis tu.
 abjad	abjad	n	白色，字母表，輔音音素文字	An ordered set of letters used in a language; an alphabet.
 abjadkan	abjadkan	v	依字母顺序排列	To alphabetize.
 ablasi	ablasi	n	外科的	The surgical removal of a body part  an organ  or especially a tumor; ablation.

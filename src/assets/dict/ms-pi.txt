@@ -21,7 +21,7 @@ picit	picit		压挤，拧捏，按摩	to squeeze; to press; to pinch (to compres
 picu	picu		板机
 pidato	pidato	n	演说，演讲	speech; public talk
 pidi	pidi		瞄准，对准
-pigi	pigi	v	两者择一
+pigi	pigi	v	两者择一	alternative form of pergi
 pihak	pihak	n	方，方面，边，侧；当局	side
 pijak	pijak	v	踩，踏	to step on.
 pijakpijak	pijak-pijak		踏板
@@ -34,7 +34,7 @@ pikap	pikap	n	拾起	A pickup; a small van or truck with low sides.
 pikat	pikat	v	入迷，受诱惑	captivate  attract  charm
 pikau	pikau		因惊慌而乱喊乱叫，惶惑
 piket	piket		进行纠察
-pikir	pikir	n	两者择一
+pikir	pikir	n	两者择一	alternative form of fikir
 pikul	pikul		担子，担
 pil	pil		药丸
 pili	pili		水管，水龙头
@@ -42,7 +42,6 @@ pilibomba	pili bomba	n	消防栓  消防栓	fire hydrant
 pilih	pilih	v	选择，挑选，选举	to choose (to pick; to make a choice)
 pilihan	pilihan	n	选择	choice; selection
 pilihanraya	pilihan raya	n	选举	election
-pilihanraya	pilihanraya		大选，选举
 pilihanrayaumum	pilihan raya umum	n	普选  大选	general election
 pilin	pilin	n	搓，捻，绞，扭，转	trickery
 pilot	pilot		飞机师	someone who is licensed to operate an aircraft in flight\…
@@ -60,7 +59,6 @@ pingat	pingat	n	徽章，勋章	medal  stamped ornamental metal disk; award
 pinggan	pinggan	n	盘子	plate
 pinggang	pinggang	n	腰	waist
 pingganmangkuk	pinggan mangkuk		陶瓷器，厨房用具
-pingganmangkuk	pinggan-mangkuk		碗碟，厨房用具
 pinggir	pinggir	n	边，缘，端，侧旁	edge  border  rim  brink
 pinggul	pinggul	n	屁股	hip
 pingit	pingit		幽禁，锁闭
@@ -85,20 +83,20 @@ pipis	pipis		磨细，捣碎，烂
 pipit	pipit	n	麻雀	any small birds especially Munia spp. - sparrow; finch
 pipitrawa	pipit rawa	n	栗子	chestnut munia (Lonchura atricapilla)
 pirai	pirai		痛风，风湿症
-pirak	pirak	n	荒废的
+pirak	pirak	n	荒废的	obsolete form of perak
 piramid	piramid		金字塔
 pirana	pirana	n	水虎鱼	piranha
 pirau	pirau	adj	灰色 灰色的	grey (colour)
 pirik	pirik		舂碎，捣碎，弄成粉末
 piring	piring	n	碟子，小碟 延伸閱讀	small dish or plate
 pirit	pirit	n	黄铁矿  黄铁矿	Pyrite.
-piru	piru		荒废的
+piru	piru		荒废的	obsolete spelling of Peru
 pisah	pisah	v	分离，离开，分割	to separate.
 pisang	pisang	n	香蕉	banana (of fruit)
-pisangbenang	pisang benang	n	同义词
-pisangmanila	pisang manila	n	同义词
+pisangbenang	pisang benang	n	同义词	synonym of abaka (“abaca”)
+pisangmanila	pisang manila	n	同义词	synonym of abaka (“abaca”)
 pisangraja	pisang raja	n	混血儿	a hybrid banana (Musa × paradisiaca)
-pisangtali	pisang tali	n	同义词
+pisangtali	pisang tali	n	同义词	synonym of abaka (“abaca”)
 pisau	pisau	n	刀	knife
 pisaucukur	pisau cukur	n	剃刀	razor blade
 pisaupaung	pisau paung	n	面包刀	A bread knife.

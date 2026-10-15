@@ -1,4 +1,4 @@
-tiada	tiada	v	没有			ada
+tiada	tiada	v	没有	alternative form of tidak ada		ada
 tiak	tiak	n	夜莺	The scaly-breasted bulbul (a species of songbird  Pycnonotus squamatus).
 tian	tian	n	孕妇的肚子	uterus; womb
 tiang	tiang	n	柱子	mast; pole; tower; pile; pier; staff; pillar; post; peg; column
@@ -19,7 +19,7 @@ tidakapa	tidak apa		事件	it doesn’t matter
 tidakboleh	tidak boleh	v	不可以			boleh
 tidakdapat	tidak dapat		tidak 不得不，一定
 tidakfaham	tidak faham	v	不明白			faham
-tidakorganik	tidak organik	adj	两者择一
+tidakorganik	tidak organik	adj	两者择一	alternative form of tak organik (“inorganic”)
 tidakpernah	tidak pernah	adv	从不	never (at no time (in the past or present))
 tidaktahu	tidak tahu	v	不知道			tahu
 tidapa	tidapa		抗恶性贫血因素	Tidak apa.
@@ -60,14 +60,14 @@ tilam	tilam	n	褥，垫子	mattress (a pad on which a person can recline and sle
 tilik	tilik		凝视，占卜，观注
 tilikan	tilikan		使聋
 tim	tim	n	平衡，均衡，调情	team
-tima	tima	v	两者择一
+tima	tima	v	两者择一	alternative form of terima.
 timah	timah	n	锡	tin (element)
 timahhitam	timah hitam	n	铅	lead (chemical element)
 timahputih	timah putih		马口铁
 timahsari	timah sari	n	锌	zinc (Element)
 timahwurung	timah wurung	n	铋  铋Bi	bismuth (chemical element)
 timba	timba	n	水桶，铅桶 timba	bailer; dipper; hand bucket
-timbak	timbak	v	荒废的
+timbak	timbak	v	荒废的	obsolete form of tembak
 timbal	timbal		比较，平衡，相等	A kettledrum. See Tymbal.
 timbalan	timbalan		平均，平衡；副
 timbang	timbang	v	同情	to weigh (to measure the weight of something).
@@ -130,7 +130,7 @@ tinjau	tinjau	v	观察，观注	To observe.
 tinju	tinju	n	拳击	fist
 tinta	tinta		墨水 tinta
 tionghoa	tionghoa	adj	中华	Chinese; of Chinese descent
-tionghua	tionghua	adj	两者择一
+tionghua	tionghua	adj	两者择一	alternative form of Tionghoa
 tipar	tipar		旱田
 tipis	tipis	adj	薄			tebal
 tipu	tipu	n	欺诈，欺骗	deceit
@@ -146,7 +146,7 @@ tirus	tirus		渐尖形，方锥体
 tisu	tisu	n	薄的织物	Tissue:
 titah	titah	n	命令，王命，敕令	decree  commandment
 titanium	titanium	n	钛  钛Ti	titanium (chemical element)
-titau	titau	prep	两者择一
+titau	titau	prep	两者择一	alternative form of tidak tahu
 titi	titi	n	任何的 任何	any small narrow road or passage encompassing pathways  bridges etc
 titian	titian		独木桥，桥	old master of the Venetian school (1490-1576)
 titik	titik	v	点，滴，斑点	to drip  to let some liquid fall one drop at a time

@@ -23,7 +23,6 @@ embung	embung		长的，最大的
 embunjantan	embun jantan		大露
 embus	embus		吹
 emel	e-mel	n	电子信函	email
-emel	emel	n	两者择一
 emiriaharabbersatu	emiriah arab bersatu		联合的	United Arab Emirates (a country in West Asia in the Middle East)
 emosi	emosi	n	情绪，感情	emotion
 emosional	emosional	adj	情绪的	emotional
@@ -49,7 +48,7 @@ empatratus	empat ratus	num	名流	four hundred
 empatribu	empat ribu	num	四	four thousand
 empatsegi	empat segi		四角形，四方形
 empayar	empayar	n	帝国	empire
-empedal	empedal	n	砂囊
+empedal	empedal	n	砂囊	nonstandard form of hempedal
 empedu	empedu		胆，胆汁
 emperit	emperit	n	雀科鸣鸟	finch.
 empik	empik		热望，渴望，切望

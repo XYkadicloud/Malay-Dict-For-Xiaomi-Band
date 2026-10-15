@@ -4,7 +4,6 @@ apaapa	apa-apa	pron	什么都，无论什么	anything; whatever (any thing of an
 apabenda	apa benda	pron	地球	What on earth or what the heck  intensive form of apa.
 apabila	apabila	conj	当...的时候 何时	when; at such time as.
 apahal	apa hal	adv	情形	what's the case  why.
-apahal	apahal	adv	两者择一
 apak	apak		流汗的，臭味的
 apakah	apakah		快车	Used to express surprise or disbelief; "what!".
 apakala	apakala		当；如果，假如
@@ -16,12 +15,12 @@ apamacam	apa macam	adv	怎样，如何，好吗	how.
 apan	apan	n	平锅	pan
 apapasal	apa pasal	adv	为什么	How come  why.
 apas	apas		绮丽的，雅致的
-apasal	apasal	adv	两者择一
+apasal	apasal	adv	两者择一	alternative form of apa pasal
 apatah	apatah		何况，无奈	what; what else; what then (used in rhetorical questions…
 ape	ape	pron	照拼法发音	pronunciation spelling of apa  representing schwa-variety Malay
 apendik	apendik	n	附录	appendix
 apepasal	ape pasal	adv	两者择一	alternative spelling of apa pasal
-apesal	apesal	adv	两者择一
+apesal	apesal	adv	两者择一	alternative form of apa pasal
 api	api	n	火	fire (oxidation reaction)
 apiapi	api-api		萤火虫
 apik	apik		整齐，美观 井井有条

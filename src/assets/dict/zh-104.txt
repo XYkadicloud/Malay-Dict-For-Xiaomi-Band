@@ -1,26 +1,24 @@
-全	aman sentosa,amanah,anak-beranak,antena seantero,antero|det,asyik|adj,bangkut,belaka
-全不	jauh berbeza
-全不同	jauh berbeza
-全世	sedunia,sejagat
-全世界	sedunia,sejagat
-全书	perjanjian baru
-全体	sekalian|det,sekotah,staf|n
+hang的过去式和过去分词	nekshar|adj,parlimen tergantung|n
+hati生气	hangus
+hati生气的	hangus
+have的第三人称单数现在式	mualaf|n
+hidup生活的目	haluan
+hidup生活的目的	haluan
+全	segala|pron,para|n,semua|pron,sekalian|det,antero|det,gus|adv,serba,seluruh|det
+全世	sejagat,sedunia
+全世界	sejagat,sedunia
+全乎	lengkap|adj,komprehensif|adj
+全体	sekalian|det,staf|n,sekotah
 全体人	staf|n
 全体人员	staf|n
-全光	punah
-全光了	punah
-全决	patah arang
-全决裂	patah arang
-全准	siapkan
-全准备	siapkan
-全力	mati-matian,dengan sesungguhnya,menumpuhkan,tumpu|v
+全力	mati-matian,dengan sesungguhnya
 全力以	dengan sesungguhnya
 全力以赴	dengan sesungguhnya
 全名	nama penuh|n
 全天	sehari-harian
 全套	seberhana
 全套的	seberhana
-全家	anak-beranak,imbit
+全家	imbit,anak-beranak
 全家人	anak-beranak
 全家搬	imbit
 全家搬走	imbit
@@ -29,30 +27,25 @@
 全心	tunak
 全心的	tunak
 全数	sekotah
+全方位	lengkap|adj,komprehensif|adj
 全是	semata-mata|adv
-全書	ensiklopedia|n
 全权	mahaduta
 全权大	mahaduta
 全权大使	mahaduta
 全毁	ranah
-全毁坏	ranah
-全毁坏的	ranah
 全毁的	ranah
-全消	hilang pintang,pintang
-全消失	hilang pintang,pintang
 全然	sekali-kali
-全球	globalisasi|n,globalisme|n
+全球	globalisme|n,globalisasi|n
 全球主	globalisme|n
 全球主义	globalisme|n
 全球化	globalisasi|n
-全的	semesta,bulat|adj,komplit|adj,lompi,melulu,ruit,sempurna|adj,siap|adj
+全的	semesta
+全盘	komprehensif|adj
 全神	asyik|adj
 全神贯	asyik|adj
 全神贯注	asyik|adj
-全装	kedongkok
-全装置	kedongkok
-全部	antena seantero,antero|det,genap|adj,gus|adv,jumlahnya,khusyuk|adj,lompi,para|n
-全部时	sepenuh masa|adj
+全般	seantero|det
+全部	segala|pron,para|n,semua|pron,antero|det,gus|adv,serba,seluruh|det,khusyuk|adj
 全部时间	sepenuh masa|adj
 全部时间的	sepenuh masa|adj
 全部毁	hancur luluh
@@ -65,325 +58,200 @@
 全露	mujarad
 全露的	mujarad
 全面	rata-rata
-叨	berleter,epeh,lebir,meleter,merepek
-叨叨	berleter,meleter
-周	minggu|n,berita mingguan,edaran,jelajah|v,keliling|n,kitar,lilit,litar
+全额	penuh|adj
+周	minggu|n,mingguan|adj,jelajah|v,keliling|n,putaran,litar,edaran,menjelajah
+周全	komprehensif|adj
 周刊	mingguan|adj
-周围	keliling|n,litar,sekitar,selitar,persekitaran|n,sekeliling
-周围的	persekitaran|n
+周围	keliling|n,litar,sekitar,selitar
+周密	cermat|adj
 周年	ulang tahun|n
 周年纪	ulang tahun|n
 周年纪念	ulang tahun|n
-周新	berita mingguan
-周新闻	berita mingguan
-周期	edaran,pendingin hawa|n,penyaman udara|n,piantan
+周折	kepayahan|n
+周期	edaran,piantan
 周期的	piantan
+周济	sedekah|n
 周游	jelajah|v,menjelajah
 周知	masyhur|adj
 周知的	masyhur|adj
-周章	sasap
+周详	lengkap|adj,komprehensif|adj
 周转	putaran
-哨	bersiul,puput|v,sentri,siul,siulan,suit
+哨	puput|v,sentri
 哨兵	sentri
-哨声	siulan
 哨子	puput|v
 嗨	hoi
-器	abaimana|n,alat perang,alat perkakas,bacuk,banar|n,bekas|n,belantik,berida
-器之	mandali
-器之名	mandali
-器人	bot,robot
+器	perkakas,radas,alat perkakas
+器件	peranti|n
 器具	perkakas,radas
-器官	organ|n,organik|adj,serviks|n,zakar|n
-器官的	organik|adj,serviks|n
-器官的颈	serviks|n
+器官	organik|adj
+器官的	organik|adj
 器官的颈部	serviks|n
-器时	zaman batu
-器时代	zaman batu
 器械	alat perkakas
-器碎	tembikar
-器碎片	tembikar
-器翻	terjemahan mesin|n
-器翻译	terjemahan mesin|n
-器诊	stetoskop|n
-器诊断	stetoskop|n
-姨	bapa saudara,bibi|n,bonda saudara,emak saudara|n,mak cik|n,makcik|n,tante|n
+器物	benda|n
+器质性	organik|adj
+姨	bibi|n,makcik|n,bapa saudara,bonda saudara
 姨丈	bapa saudara
-姨母	bibi|n,bonda saudara,makcik|n
-寨	khemah|n,kubu|n
-巨	banang,biancak|n,bota|n,garuda,gedang|adj,genahar,gergasi|n,kelung
+姨母	bibi|n,makcik|n,bonda saudara
+姨父	paman|n
+巨	bota|n,gergasi|n,biancak|n,banang,garuda,kelung,genahar
 巨人	bota|n,gergasi|n
 巨坑	genahar
-巨大	gedang|adj,mengumbang,perghhh,raksasa|adj,raya|adj,unbang,walao
-巨大的	gedang|adj,mengumbang,raksasa|adj,raya|adj,unbang,perghhh,walao
-巨大的成	perghhh,walao
-巨大的成功	perghhh,walao
+巨型	raksasa|adj,bota|n
+巨大	raksasa|adj,raya|adj,gedang|adj,unbang,mengumbang
+巨大的	raksasa|adj,raya|adj,gedang|adj,unbang,mengumbang
 巨头	paus pandu|n
 巨头鲸	paus pandu|n
+巨擘	murka|v
+巨无霸	bota|n
 巨的	banang
 巨盾	kelung
 巨蜥	biancak|n
+巨量	besau|adj
 巨鹰	garuda
-巨龙	rahu
-恨	benci|v,adawat|n,aram,dendam|n,hasad,kasumat,kebencian,membenci
-恨外	xenofobia|n
-恨外国	xenofobia|n
-恨外国人	xenofobia|n
-恨的	sebal
-惨	bencana|n,paus omura|n,tragik|adj
+恨	benci|v
+惨	bencana|n
 惨事	bencana|n
-惨的	tragik|adj
-惨败	paus omura|n
-慨	murah hati,pemurah
-慨的	murah hati
-慨者	pemurah
-拨	bubut|n,acum mengacum,anjing prairi|n,arau,cungkil,ibu jari|n,kecudang,marmut|n
+惨剧	tragedi|n
+惨案	tragedi|n
+惨烈	pahit|adj
+惨痛	sakit|adj,pahit|adj
+拨	bubut|n,tenggek|v
 拨出	cungkil
-拨弄	ibu jari|n
 拨筛	tenggek|v
-拨鼠	anjing prairi|n,marmut|n
-旨	murad|n,simpulan|n
-晨	kunut,pertolehan|n
-晨的	kunut
-晨的祈	kunut
-晨的祈祷	kunut
+旨意	perintah|n
+旨趣	matlamat|n
+晨间	pagi|n
 杨	yang di-pertuan agong,belimbing|n
 杨桃	belimbing|n
-桨	dayung|n,kayuh|n,beranta,kalas,kelibat,keliti,lesa,linggis
+桨	kayuh|n,dayung|n,kalas,keliti,linggis
 桨叉	keliti
 桨座	linggis
-桨的	beranta
-桨的内	beranta
-桨的内河	beranta
-桨的内河船	beranta
 桨耳	kalas
-汨	gerobok|n
-汨声	gerobok|n
 汨汨	gerobok|n
 汨汨声	gerobok|n
-注	acuh,ajal|n,asyik|adj,awas|v,berdaftar,berhati-hati,bidik|v,cam|v
-注于	mencucuri
+注	perhatian|n,minat|n,pandangan|n,renungan|n,teliti,hirau|v,tenung|v,cucuk|v
 注入	suntik
-注册	daftarkan,pendaftaran,berdaftar
-注册的	berdaftar
-注定	qadar,ajal|n
-注定的	ajal|n
-注定的寿	ajal|n
+注册	daftarkan,pendaftaran
+注定	qadar
 注定的寿命	ajal|n
-注射	cucuk|v,injeksi,suntik,pecagari
+注射	cucuk|v,suntik,injeksi,pecagari
 注射器	pecagari
-注意	acuh,awas|v,berhati-hati,cam|v,capap|n,cerap,hirau|v,kelih
-注意地	mendengarkan
-注意地倾	mendengarkan
+注射针	jarum|n
+注意	perhatian|n,minat|n,teliti,hirau|v,cam|v,awas|v,capap|n,perasan|v
+注意力	perhatian|n
 注意地倾听	mendengarkan
-注意的	kurang hati-hati
-注明	pentarikhan|n
-注明日	pentarikhan|n
-注明日期	pentarikhan|n
-注的	mencurahi
-注目	mencolok mata|adj
-注目的	mencolok mata|adj
-注视	bidik|v,membidik,pandang|v,pandangan|n,renung|v,renungan|n,selia|adj,tenung|v
+注目	perhatian|n
+注视	pandangan|n,renungan|n,tenung|v,selia|adj,bidik|v,renung|v,pandang|v,membidik
+注解	pengertian|n
 注释	kata|n,mengertikan|v
 注重	mementingkan,mengutamakan
-滨	pesisir|n,rantau|n
+滨	rantau|n
 滨岸	rantau|n
-痨	loksun kering,tering
 睨	agah
 睨视	agah
-磨	asah|v,gilas,kelang,kilang|n,kisar,memipis,mencanai,menggilas
+磨	kilang|n,asah|v,meluru|v,lasam|adj,kelang,kisar,gilas,mencanai
 磨亮	gerus
-磨光	lampas,luru|v,meluru|v,upam
+磨光	meluru|v,luru|v,lampas,upam
 磨刀	las,pengasah
 磨刀匠	pengasah
 磨刀石	las,pengasah
-磨利	asah|v,kilir,lampas,mencanai,mengasah,mengilir
+磨利	asah|v,lampas,kilir,mencanai,mengasah,mengilir
 磨刮	sental
 磨力	canai|n
 磨力石	canai|n
-磨平	dabung,memepat,mencanai,pepat
+磨坊	kilang|n
+磨子	kilang|n
+磨平	pepat,memepat,dabung,mencanai
 磨损	kelukur
 磨损的	kelukur
-磨擦	bergesek,gahar,garut,gelosok,gesek|v,gisar,gonyoh,gonyoh-gonyah
-磨时	melengah-lengah
-磨时间	melengah-lengah
+磨擦	gesek|v,garut,gahar,gisar,gonyoh,gelosok,gonyoh-gonyah,bergesek
 磨机	kelang
 磨滑	gerus,larik,mencanai
-磨石	batu asah,canai|n
+磨石	canai|n,batu asah
 磨研	menggiling
 磨穿	lasam|adj
 磨细	pipis
-磨辣	cobek
-磨辣椒	cobek
-磨辣椒的	cobek
-磨辣椒的陶	cobek
-磨辣椒的陶盘	cobek
 磨锉	kukur|n
 磨锐	kilir
 磨难	rundung
-票	karcis|n,angkertas,bankbiljet|n,buang undi,cabutan loteri,culik|v,invois|n,kena loteri
+票	karcis|n,tiket
+票价	tambang|n
 票券	ulat tiket|n
 票券黄	ulat tiket|n
 票券黄牛	ulat tiket|n
-票员	konduktor|n
 票子	tiket
-票开	cabutan loteri
-票开彩	cabutan loteri
-罨	temah,tuam
-罨法	temah,tuam
-荨	daiman|n,jelatang|n,latang|n,retin|n
-荨麻	jelatang|n,daiman|n,latang|n,retin|n
-荨麻疹	daiman|n,retin|n
-荨麻疹样	daiman|n,retin|n
-荨麻疹样丹	daiman|n,retin|n
-荨麻疹样丹毒	daiman|n,retin|n
-表	arloji,jadual|n,abc|n,abese|n,abjad|n,agen,akil,akilrakyat
-表兄	pupu
-表兄弟	pupu
-表兄弟姐	pupu
-表兄弟姐妹	pupu
+荨	jelatang|n
+荨麻	jelatang|n
+荨麻疹样丹毒	retin|n,daiman|n
+表	jadual|n,daftar|n,jaga|v,borang|n,arloji,melahirkan|v,merupakan|v,ungkapan
+表亲	sepupu|n
 表册	daftar|n
+表决权	undian|n
+表单	rupa|n
+表征	simbol|n
 表情	ungkapan
-表意	curah fikiran
-表意见	curah fikiran
-表格	borang|n,jadual|n,borang permintaan
+表格	jadual|n,borang|n
 表演	pertunjukan,sunglap mata
 表演魔	sunglap mata
 表演魔术	sunglap mata
-表现	melahirkan|v,memperlihatkan,menampakkan,merupakan|v
-表的	slomang|n
-表的第	slomang|n
-表的第二	slomang|n
-表的第二个	slomang|n
-表的第二个字	slomang|n
-表的第二个字母	slomang|n
-表皮	jangat,selupat
-表示	mogok lapar|n,mogok makan|n,overtur|n,tiri|adj,wati
-表示女	wati
-表示女性	wati
-表示抗	mogok lapar|n,mogok makan|n
-表示抗议	mogok lapar|n,mogok makan|n
-表示抗议的	mogok lapar|n,mogok makan|n
-表示抗议的绝	mogok lapar|n,mogok makan|n
+表率	model|n,contoh|n
+表现	melahirkan|v,merupakan|v,menampakkan,memperlihatkan
+表皮	selupat,jangat
+表示	overtur|n
+表示"小"	mikro|adj
+表示…的意思	itulah tu
 表示抗议的绝食	mogok lapar|n,mogok makan|n
-表示父	tiri|adj
-表示父母	tiri|adj
-表示父母再	tiri|adj
-表示父母再婚	tiri|adj
-表示父母再婚而	tiri|adj
-表示父母再婚而构	tiri|adj
-表示父母再婚而构成	tiri|adj
-表示父母再婚而构成的	tiri|adj
-表示父母再婚而构成的亲	tiri|adj
-表示父母再婚而构成的亲缘	tiri|adj
-表示父母再婚而构成的亲缘关	tiri|adj
 表示父母再婚而构成的亲缘关系	tiri|adj
+表象	idea|n
 表达	cis
 表链	jaga|v
-跨	kendera,celapak,jangkah,kangkang,menjangkah
+表面	rupa|n
+裨益	guna|n,laba|n
+裨补	guna|n
+跨	kendera,kangkang,celapak
 跨坐	celapak
 跨踞	kangkang
 跨过	jangkah,menjangkah
-轨	lajak,landasan,lencong,melencong,menyeleweng,monorel|n,orbit|n,terlajak
-轨梁	monorel|n
-轨道	landasan,orbit|n
-轨铁	monorel|n
-轨铁路	monorel|n
-部	jawatan|n,jilid,wisma putra,aandeel|n,abdomen|n,agas-agas|n,anak buah|n,angkatan perang
-部下	anak buah|n,bawahan,gelabir,gelambir
-部下垂	gelabir,gelambir
-部下垂的	gelabir,gelambir
-部下垂的皮	gelabir,gelambir
-部下垂的皮肉	gelabir,gelambir
-部之	sunti,wiladan
-部之仪	wiladan
-部之仪式	wiladan
-部之瘤	sunti
-部之瘤状	sunti
-部之瘤状突	sunti
-部之瘤状突起	sunti
-部会	kaki disko|n
-部会员	kaki disko|n
-部分	aandeel|n,bahagian|n,bakkerij|n,juzuk|n,bagian
-部厨	sembilan puluh sembilan|num
-部厨司	sembilan puluh sembilan|num
-部厨司长	sembilan puluh sembilan|num
-部向	senunggang
-部向下	senunggang
-部时	sepenuh masa|adj
-部时间	sepenuh masa|adj
-部时间的	sepenuh masa|adj
-部毁	hancur luluh
-部毁灭	hancur luluh
-部畸	cepoh
-部畸形	cepoh
-部的	borong,boti|n,dinding|n,usus|n
-部移	berkesot,kesot,mengesot
-部移动	berkesot,kesot,mengesot
-部突	tonggeng|n,tunggit
-部突出	tonggeng|n,tunggit
-部粉	hancur lebur
-部粉碎	hancur lebur
-部膨	buncir
-部膨胀	buncir
-部膨胀的	buncir
-部迁	imbit
-部迁居	imbit
-部长	manteri,bekas menteri,menteri|n,perdana menteri|n,perkelang
-部长等	perkelang
-部长等之	perkelang
-部长等之称	perkelang
-部长等之称号	perkelang
-部门	bagian,seksyen|n,sektor awam|n
-部队	pasukan|n,angkatan perang
-镨	praseodimium|n
-门	pintu|n,tampuk|n,ambang|n,andalas,bagian,balai|n,bawab,bendul pintu
-门上	gaba-gaba
-门上扎	gaba-gaba
-门上扎的	gaba-gaba
-门上扎的花	gaba-gaba
-门上扎的花彩	gaba-gaba
-门不	berkurung
-门不出	berkurung
-门人	bawab,pakar|n
-门人才	pakar|n
+轨	orbit|n,landasan
+轨范	panji-panji|n
+轨道	orbit|n,landasan
+部	jawatan|n,aandeel|n,bahagian|n,pasukan|n,seksyen|n,bakkerij|n,jilid,wisma putra
+部下	anak buah|n,bawahan
+部件	aandeel|n
+部分	aandeel|n,bahagian|n,bakkerij|n,juzuk|n
+部类	kategori|n
+部长	manteri
+部门	seksyen|n,bagian
+部队	pasukan|n
+镨镨	praseodimium|n
+镨镨P	praseodimium|n
+镨镨Pr	praseodimium|n
+门	pintu|n,balai|n,tampuk|n,kancing|n,ambang|n,dewan|n,selak|v,loceng pintu|n
 门卫	bawab
 门厅	balai|n,dewan|n
 门大	celengap
 门大开	celengap
 门大开着	celengap
-门技	bisa mengabet|v
-门技术	bisa mengabet|v
-门拉	combol|n
-门拉手	combol|n
-门术	jargon|n
-门术语	jargon|n
+门子	pintu|n
+门店	stor|n
+门径	capaian|n
+门户	pintu|n,keluarga|n
+门扇	pintu|n
 门柱	jenang
 门档	selarak
 门槛	ambang|n,bendul pintu
+门派	sekolah|n
 门牙	gigi seri
-门的	khas|adj,menak
-门答	andalas
-门答腊	andalas
-门答腊岛	andalas
-门答腊岛之	andalas
-门答腊岛之古	andalas
-门答腊岛之古名	andalas
+门生	murid|n
+门票	karcis|n
+门类	kelas|n,kategori|n
+门诊室	klinik|n
 门铃	loceng pintu|n
 门闩	kancing|n,selak|v
-雨	hujan|n,air hujan,awal musim hujan,baju hujan|n,berhujan-hujan,gerimis,hujan asid|n,hujan lebat|n
+雨	hujan|n,payung|n,tengkujuh|n,baju hujan|n,hujan ribut|n,hutan hujan|n,musim hujan|n,limpas
 雨伞	payung|n
-雨季	musim hujan|n,rendeng,tengkujuh|n,awal musim hujan
-雨季之	awal musim hujan
-雨季之开	awal musim hujan
+雨季	tengkujuh|n,musim hujan|n,rendeng
 雨季之开始	awal musim hujan
-雨时	padau
-雨时使	padau
-雨时使用	padau
-雨时使用的	padau
-雨时使用的坚	padau
-雨时使用的坚固	padau
-雨时使用的坚固之	padau
-雨时使用的坚固之帆	padau
 雨暴	hujan ribut|n
 雨林	hutan hujan|n
 雨水	air hujan

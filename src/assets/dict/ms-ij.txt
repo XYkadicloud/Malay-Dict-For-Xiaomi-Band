@@ -4,6 +4,6 @@ ijazahsarjanamudasains	ijazah sarjana muda sains		理学士
 ijazahsarjanamudasastera	ijazah sarjana muda sastera		文学士
 ijazahsarjanasains	ijazah sarjana sains		理硕士
 ijazahsarjanasastera	ijazah sarjana sastera		文硕士
-ijo	ijo	adj	两者择一
+ijo	ijo	adj	两者择一	alternative form of hijau
 ijok	ijok		荒废的	Ijok (a town in Selangor)
 ijuk	ijuk	n	椰糖棕榈的黑色纤维	gomuti (Arenga pinnata)

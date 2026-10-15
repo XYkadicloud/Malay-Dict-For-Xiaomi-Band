@@ -6,5 +6,5 @@ medanselera	medan selera	n	美食广场	food court  eatery
 mediasosial	media sosial	n	社会的	Social media.
 medit	medit		吝啬
 medok	medok		多孔的，蜂巢状；肮脏
-medsos	medsos	n	音节主音 音节的
+medsos	medsos	n	音节主音 音节的	syllabic abbreviation of media sosial.
 medu	medu		作呕，反胃

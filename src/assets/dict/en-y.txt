@@ -1,36 +1,38 @@
-yaakub	yakub
+y'all	uolls|pron,korang|pron
 yak	yak|n
-yam	tomyam|n,ubi|n
-yamaha	ysuku
-yang	hiang|n,yang di-pertuan agong,yang-yang|n,yb|n,yg|conj
+yam	ubi|n
+yang di-pertuan agong	yang di-pertuan agong
 yard	ela|n,halaman|n
-yardlong	kacang panjang|n
-yawn	kuap|v,sangap|v,uap|v
-year	tahun|n,tahun baru,tahun baru cina,tahun lompat|n
+yardlong bean	kacang panjang|n
+yeah	haah
+year	tarikh|n
 yearly	tahunan|adj
-yearn	rindu|v
-yearning	dendam|n,kempunan|adj
-years	perang tiga puluh tahun
-yell	jerit|n,laung|v,tempik|n,teriak|n
-yellow	anjing koreng|n,anjing ladang|n,anjing langsat|n,kuning|adj
+yearning	dendam|n
+yellow	kuning|adj
+yellow and black lined dog	anjing koreng|n
 yemen	yaman
 yes	au,haah
-yet	belum|adv
 yield	hasil|n
 yo	weh,wei,woi
 yogurt	yogurt|n
-yolk	kuning telur|n
-yong	peran|n
-you	ajeh|pron,awak semua|pron,dikau|pron,engkau|pron,engkau orang|pron,hang|pron
-young	anak muda|n,budak|n,gadis|n,muda|adj,teruna|adj
-younger	adik perempuan|n,yayi|n
-youngest	acik|n,bapa cik|n,bongsu|adj
+you	lu|pron,kau|pron,ajeh|pron,anda|pron,awak|pron,awda|pron,hang|pron,kome|pron,dikau|pron,kitak|pron
+you all	kome|pron,kalian|pron,kau orang|pron,awak semua|pron,kamu semua|pron
+you guys	kalian|pron,kau orang|pron,awak semua|pron,kamu semua|pron
+you singular	kamu|pron
+young	muda|adj,teruna|adj
+young girl	gadis|n
+young man	anak muda|n
+young person	budak|n
+younger sibling	yayi|n
+younger sister	adik perempuan|n
+youngest	bongsu|adj
+youngest uncle	bapa cik|n
 youngster	mat belia|n
+your	kau|pron,ajeh|pron,dikau|pron,engkau|pron
+your excellency	yang berhormat|pron
+your majesty	paduka|n
 yours	ajeh|pron
 youtiao	cakoi|n
 ytterbium	iterbium|n
 yttrium	itrium|n
-yu	hiu|n
 yummy	enak|adj
-yunani	yunan|n
-yusuf	eusof,euysof,yusof,yusop

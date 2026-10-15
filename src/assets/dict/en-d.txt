@@ -1,433 +1,348 @@
-dabbling	itik kening putih|n
-dagger	beladau|n,belati|n,rencong|n
-daging	daging asu|n
-dah	dahtu|adv
-daily	diari|n,harian|adv,imsak|n
-daing	daeng|n
+dagger	belati|n,rencong|n
+daily	harian|adv
 dainty	ayu|adj
 dais	geta|n
-dajal	dajjal|n
 dajjal	dajal|n
-dalam	dlm|conj
 dalmatia	dalmatia
 dalmatian	anjing dalmatia|n
 dam	empangan|n
 damage	kerosakan|n
 damaged	pokah|adj,rosak|adj
 damn	lahanat|adj
-damned	bedebah|adj,malaun|n
-dampen	potong stim|v
+damned	bedebah|adj
 damping	pelembapan|n
-dance	dansa|n,joget|v,menari|v,rege|n,tarian|n
-dancer	penari|n
-dandelion	paliman|n
+dandelion plant	paliman|n
 dandruff	kelemumur|n
 danger	bahaya|n
 dangerous	berbahaya|adj
 daniel	danial
-dapat	didapat|v,mendapat|v
-darat	tddb
-dare	cabar|v
-darjah	derajat|n
-dark	anjing ladang|n,gelap|adj,gelemat|adj,ketitam|n
+dark	gelap|adj
+dark armpit	ketitam|n
 darmstadtium	darmstadtium|n
-darul	ehsan,ridzuan
-darussalam	brunei darussalam,negara brunei darussalam
-dash	garis|n,lintas|v,luru|v
-datang	dtg|adv
-date	kapel|v,tamar|n,tarikh|n
-dated	analisa|n,daeng|n,ekspot|n,impot|adj,katerangan|n,puteh|adj
-dating	pentarikhan|n
-datu	lahad datu
-datuk	tuk|n
-daub	labur|v
-daud	daut,dawud
-daughter	anak perempuan|n,binti|n,fatimah
-daughter-in-law	menantu|n
-david	daud
+dash	garis|n
+date	tamar|n,kurma
+date the description of the current time	tarikh|n
+dated form of analisis	analisa|n
+dated form of eksport	ekspot|n
+dated form of import	impot|adj
+dated form of syarikat	sharikat|n
+dated form of tanjung	tanjong|n
+dated spelling of daing	daeng|n
+dated spelling of hulu upriver	ulu|adj
+dated spelling of keterangan	katerangan|n
+dated spelling of putih	puteh|adj
+dating setting of a date	pentarikhan|n
+daughter	anak perempuan|n
+daughter of	binti|n
 dawn	fajar|n
-day	hari jadi|n,hari kebangsaan,id|n,kelmarin|n,langkat|n,lusa|n
-daya	barat semata selatan|n,daya|adj
-daydream	abun-abun|n,angan-angan|n,lamun|v,lamunan|n,melamun|v
+day	yaum|n,tarikh|n
+day a period of time equal or almost equal to a full day	hari|n
+day after day after day after tomorrow	tubin|n,tonggeng|n
+day after day after tomorrow	tulat|n,langkat|n
+day after tomorrow	lusa|n
+daydream	angan|n,lamunan|n,abun-abun|n,angan-angan|n
 daytime	siang|n
-deactivate	menyahaktifkan|v
-dead	bangkai|n,batang|cls,laut mati,mati|v,mencari jejak dalam air|v
-deadly	santau|n
-deaf	bengap|adj,congek|adj,pekak|adj,tuli|adj
-deafen	memekakkan|v,pekakkan|v
-deafened	terpekak|v
+dead	mati|v
+dead sea a highly saline lake in jordan	laut mati
+deaf	tuli|adj,pekak|adj,congek|adj
 dean	dekan|n
-dear	walao
-death	ajal|n,kematian|n,mati|v,maut|n,nazak|n
-debate	bahaskan|v,debat|n
-debit	kad debit|n
+dear me	walao
+death	ajal|n,mati|v,maut|n,kematian|n
+death throes	nazak|n
+debit card	kad debit|n
 debris	serpihan|n
 debt	hutang|n
 debug	nyahpepijat|v
 debugger	penyahpepijat|n
 decade	dekad|n
-decagon	dekagon|n
-decagram	dekagram|n
-decapitate	pancung|v
-deceased	gemulah|n,mati|v
+deceased	mati|v
+deceased person	gemulah|n
 deceit	tipu|n
-deceive	mengabui mata|v,menganwar-anwarkan|v,menipu|v
 deceived	terperdaya|v
-deceiver	kaki kelentong|n,mat kelentong|n
 december	bulan dua belas|n,disember
 decent	bagus|adj
-decide	tentukan|v
 decided	payu|n
 decillion	desilion|num
-decimal	perpuluhan|adj
+decimal or base-ten	perpuluhan|adj
+decision	keputusan
 decisive	muktamad|adj
-decisiveness	kemuktamadan|n
+decisiveness of a decision	kemuktamadan|n
 declaration	pernyataan|n
 declare	isytihar|v
 decolonization	dekolonisasi|n,penyahjajahan|n
-decolonize	nyahjajah|v
-decompose	mekar|v
 decor	dekor|n
-decorate	hias|v
-decoration	dekorasi|n,hiasan|n
-decorative	dekoratif|adj,menyulam|v
-decorum	dekorum|n
+decoration	hiasan|n,dekorasi|n
+decorative	dekoratif|adj
+decorum	susila|n,dekorum|n,tatasusila|n
 decree	dekri|n,titah|n
 dedication	bakti|n
-deed	geran|n,laku|n,perbuatan|n
-deep	art berat|n,dalam|prep,garau|adj,lelap|adj,redang|n
-deep-fry	goreng jeluk|v
+deed	laku|n,perbuatan|n
+deep	dalam|prep,garau|adj
+deep in asleep	lelap|adj
+deep swamp	redang|n
 deeply	dalam-dalam|adv
-deer	pelanduk|n,rusa|n
+deer	rusa|n
 defeated	kalah|v
-defence	pertahanan|n,pertahanan awam|n
+defecation	taik|n
+defence	pertahanan|n
 defender	pembela|n
-defense	pertahanan awam|n
 defiance	amang|n
 deficiency	kekurangan|n
 deficit	defisit|n
 definite	tentu|adv
 definitely	gerenti|adv
 definition	takrif|n
-deflate	pancit|v
 deflation	deflasi|n
-defragment	menyahserpih|v,nyahserpih|v
 defragmentation	penyahserpihan|n
-defrost	nyahfros|v
-degilkan	didegilkan|v,mendegilkan|v
-degree	angkatan|n,sarjana muda|n,sebaik|adj,sebiru|adj,secantik|adj,selancar|adj
 dehydration	dehidrasi|n
-delay	tunda|v
-delegate	utus|v
+deity and or life after death	din|n,agama|n
+delayed happening or arriving af	terlambat
 delicious	enak|adj,lazat|adj,sedap|adj
-deliver	hantar|v
-delivery	bayar waktu terima|n
 deluxe	mewah|adj
 demise	ajal|n,kematian|n
-democracy	demokrasi|n,sosial demokrasi|n
-democrat	sosial demokrat|n
-democratic	dap
-demolished	rombak|v
-demonstrate	tunjuk|v
-dengan	dgn,ngan|prep
+democracy	demokrasi|n
+dengan	berkaitan dengan,berkenaan dengan
 dengue	denggi|n
-denote	barang|n
-denotes	yang|art
-dense	ibu kayu|n,lebat|adj,rapat|adj
+dense	lebat|adj,rapat|adj
+dense growing thickly and heavily	rimbun
 dentist	doktor gigi|n
 denture	gigi palsu|n
 deodorant	deodoran|n
-depan	dpn|conj
-depart	berangkat|v
-department	bomba|n
 departure	perlepasan|n
 dependable	andal|adj,handal|adj
-depending	relatif|adj
-depot	depoh|n
+depot storage facility	depoh|n
 deputy	naib|n
-derita	menderita|v
-derma	diderma|v,menderma|v
-dermakan	didermakan|v,mendermakan|v
-descend	turun|v
-descendant	keturunan|n,zuriat|n
-descent	darah|n,tionghoa|adj,zuriat|n
+derri re	buntut|n
+descendant	zuriat|n,keturunan|n
+descent	darah|n,zuriat|n
 describable	terkatakan|v
-described	terkatakan|v
 description	huraian|n
-desert	gurun|n,kucing liar afrika|n,kucing padang pasir|n,samun gurun|n
-deserted	lengang|adj,sunyi|adj
+desert	gurun|n
+desert cat	kucing liar afrika|n,kucing padang pasir|n
+desert scrubs or thicket	samun gurun|n
+deserted	sunyi|adj,lengang|adj
 deserving	layak|adj
 design	reka bentuk|n
-desirability	minarkisme|n
-desire	ayaw|n,dendam|n,ghairah|n,hajat|n,hasrat|n,mahu|v
+desire	niat|n,hajat|n,dendam|n,hasrat|n,kehendak
 desirous	ingin|adv
-desk	anak meja|n,laci|n,meja tulis|n
+desirous of food	lapar|adj
+desk	meja tulis|n
 desolate	lengang|adj
-dessert	pembasuh mulut|n,pencuci mulut|n
+dessert	pencuci mulut|n,pembasuh mulut|n
 destiny	nasib|n
-destroy	musnah|v
 destroyed	binasa|adj
 destroyer	perosak|n
-detach	pencil|v,tanggal|v
 detail	perincian|n
+detailed	teliti
 detainee	banduan|n
 detective	detektif|n
-deter	cegah|v
 determination	azam|n,tekad|n
-determine	hitamkan dan putihkan|v,tentukan|v
-determined	berazam|adj,payu|n
+determined	payu|n,berazam|adj,nekad
 detrimental	melarat|adj
 deuterium	deuterium|n
 devata	dewata|n
-develop	cuci|v
 developer	pemaju|n
-deviant	ajaran sesat|n
-deviating	abnormal|adj
-device	baterai|n,fius|n,mengecas|v,peranti|n,skru|n
-devil	pari paus|n,setan|n,syaitan|n
-devote	curah|v
+deviant teachings	ajaran sesat|n
+deviating from the usual or normal type	abnormal|adj
+device	peranti|n
+devil ray	pari paus|n
 devotion	bakti|n
 devout	abrar|adj
 dew	embun|n
-dewan	dbkl,dbp,dun|n
 dhole	anjing hutan|n,anjing serigala|n
-dhuhr	sembahyang zuhur|n,solat zuhur|n
-di	sebalik mata|adj
-di-pertuan	yang di-pertuan agong
-diabetes	kencing manis|n
+dhuhr	solat zuhur|n,sembahyang zuhur|n
+di or dari	mana|adv
+diabetes mellitus	kencing manis|n
 diagram	rajah|n
-dialect	dialek|n,korunk|pron,loghat|n
+dialect	loghat|n
 dialectic	dialektik|n
-diamond	berlian|n,intan|n
-diamonds	daiman|n,retin|n
+diamonds	retin|n,daiman|n
 diaper	lampin|n
 diarrhea	diarea|n
-diary	diari|n
-dibayar	dbyr
-dickson	port dickson
-dicrurus	cawi-cawi|n
-dictionary	bausastera|n,kamus|n,kamuskan|v,mengamuskan|v
-die	mampus|v,mangkat|v,meninggal|v,pulang ke rahmatullah|v
+diary a daily log of experiences	diari|n
+dicrurus spp	cawi-cawi|n
+dictionary	kamus|n,bausastera|n
 diet	pemakanan|n
-difference	berbeza|v,kelainan|n,perbezaan|n
-different	berbeza|v,sama|adj,serbaguna|adj,unik|adj
-difficult	licin seperti belut|adj,musykil|adj,payah|adj,sukar|adj,susah|adj
+difference	kelainan|n,perbezaan|n
+different from the others	unik|adj
+difficult	payah|adj,sukar|adj,susah|adj,musykil|adj
+difficult to catch	licin seperti belut|adj
 difficulty	kepayahan|n,kesusahan|n
-dig	gali|v,korek|v
 digested	cerna|adj
-digit	jari|n
+digit of a limb	jari|n
 dignity	martabat|n
-digraph	digraf|n
-dikatai	dikata-katai|v
 diligent	rajin|adj,ringan tulang|adj
+diluent	pencair|n
 dim	samar|adj
 dimension	matra|n
-dimness	rabun|adj
 din	bahana|n
 dingo	dingo|n
 dinosaur	denosor|n
 diocese	keuskupan|n
-dioscorea	gadung|n
-dip	celup|v
-dipantau	berpantau|v
+dioscorea hispida	gadung|n
 diplomatic	diplomatik|adj
 dipper	timba|n
-diraja	pdb,pdrm
-direct	hala|v,kelola|v,objek tepat|n,panas|adj,terus|adv
-direction	arah|n,di|prep,ke arah,mata angin|n,perintah|n,sebelah|n
-directly	bekemayau|v,langsung|adv
+direct	terus|adv
+direct object	objek tepat|n
+directed at	untuk|prep
+direction	arah|n,perintah|n
+direction a place	sebelah|n
+direction or time period	dari|prep
+directly	langsung|adv
+directly below the roof	loteng|n
 director	pengarah|n
 directory	panduan|n
-dirt	kotoran|n
-dirty	daki|n,kotor|adj,kumuh|adj,mala|adj
-disable	menyahaktifkan|v
-disappointed	kecewa|adj,koyak|adj
-disappointment	hampas,kekecewaan|n
-disaster	malapetaka|n
-disbelief	apakah
-disc	cakera|n,cakra|n
-discard	buang|v
-discarded	sampah|n
-discoloured	panau|n
+dirt	kotoran|n,saur
+dirty	mala|adj,kotor|adj,kumuh|adj
+dirty covered with dirt	lumus|adj
+dirty stuff that sticks to the body	daki|n
+dirty water	saur
+disagreement	ah|part
+disappear from surface or eye-sight	tenggelam|v
+disappointed	kecewa|adj
+disappointed or angry with oneself	koyak|adj
+disappointment	kekecewaan|n
+disapproval	ah|part
+disaster	geruh|n,bencana|n,malapetaka|n
+disc	cakra|n
+disc a thin	cakera|n
+discarded items that are of no use rubbish	sampah|n
+discipline	tegas|adj
+discoloured patches on the skin	panau|n
 discount	diskaun|n
-discover	menemui|v,mengetahui|v
-discriminate	berdiskriminasi|v,diskriminasikan|v,mendiskriminasikan|v
-discrimination	diskriminasi|n,diskriminasi kaum|n,diskriminasi ras|n,diskriminasi sosial|n
-discuss	membincangkan|v,ngomong|v
-discusser	pembincang|n
-discusses	pembincang|n
-discussion	perbincangan|n
-disease	guam|n,kanker|n,syifa|n
-disember	dis
-disentangle	huraikan|v
+discrimination	diskriminasi|n
 disgraced	hina|adj
-disgusting	jijik|adj
-dish	air tangan|n,beriani|n,lauk|n,piring|n,sajian|n,ulam|n
-dishcloth	petola|n
-disinfect	nyahjangkit|v,nyahkuman|v
+disgusting repulsive	jijik|adj
+dish	sajian|n
+dishcloth gourd	petola|n
 dismantled	rombak|v
-dismay	hampas
+dismay	ah|part
 dismiss	keluar baris
-disorderly	abrit-abritan|v
+disordered in a state of confu	kacau
+disorganized	selerak|adj
 displacement	sesaran|n
-display	mempertontonkan|v,pertontonkan|v,tayang|v,tunjuk|v
-displaying	galeri|n
 disposable	pakai buang|adj
-disposing	acaran|n
 disposition	perangai|n
-disruption	putus bekalan|n
 dissertation	tesis|n
 dissimilarity	beda|n,beza|n
-dissolve	hancur|v,larut|v
-dissolving	kelarutan|n
-distance	jarak|n,jauhkan|v,saujana|adj
+distance	jarak|n,sehingga|prep
+distasteful	jijik|adj
 distinction	izzat|n
-distinguished	kursi|n
-distort	menganwar-anwarkan|v
 distress	penderitaan|n
-distributed	dibahagi|v
-district	bachok,balik pulau,bentong,cyberjaya,jerantut,kemaman
-disturb	menakali|v,mengganggu|v,mengganggu keamanan|v,pengganggu|n
 disturbance	kerusuhan|n
 disturbed	terganggu|adj
-disturbing	gangguan|n,penggangguan|n
-dive	selam|v
+divers	beberapa|adj
 diverse	pelbagai|adj
 diversity	diversiti|n,kepelbagaian|n
-divide	bagi|v,bahagi|v
-divided	dibahagi|v
-divination	pustaka|n
-divine	kasyaf|n
-diving	itik gerigi|n,itik selam|n
 divinity	ketuhanan|n
-division	divisyen|n,juzuk|n
-divorce	cerai|v
-dizzy	ganar|adj,kepala pusing|adj,pening|adj,pening kepala|adj
-do	antarabangsa|adj,berbuat|v,cubaan|n,lakukan|v,malaysia boleh,melakukan|v
-doctor	doktor|n,tabib|n
+division	divisyen|n
+dizzy	ganar|adj,pening|adj,kepala pusing|adj
+doctor	tabib|n,doktor|n
 doctorate	kedoktoran|n
-document	borang|n,surat|n
-documentary	bon|n,dokumentari|n
-dodge	egos|v
-doesn	tidak apa
-dog	anjing|n,anjing ajak|n,anjing betina|n,anjing geladak|n,anjing jantan|n,anjing kumbang|n
-doghouse	rumah anjing|n,rumah asu|n
-doing	gaji buta|n
+document	surat|n
+documentary	dokumentari|n
+dog	asuk|n,kuyuk|n,anjing|n,asu jantan|n,anjing jantan|n
+dog meat	daging anjing|n
+doghouse	rumah asu|n,rumah anjing|n
 doll	orang-orang|n
-dollar	dolar|n,dolar brunei,dolar singapura,ringgit brunei,ringgit singapura,riyal|n
+dollar	dolar|n
 dolphin	lumba-lumba|n
 dolphinfish	belitung|n
 domestic	domestik|adj
-domesticated	ayam|n
-domini	tahun masihi|n
 dominica	dominika
-dominican	republik dominika
-don	jangan|adv
-donate	berderma|v,dermakan|v
-donating	pendermaan|n
-donation	sumbangan|n
-donax	bemban|n
-done	habis|v,selesai|v,sempol|adj,sepunya|adj,sudah|adv,syabas
+dominican republic	republik dominika
+don't	jangan|adv
+donation	sumbangan|n,pendermaan|n
+donax canniformis	bemban|n
+done	habis|v,sudah|adv
 donkey	himar|n,keldai|n
-donor	penderma|n
-door	lawang|n,pintu|n,pintu gelangsar|n
+door	pintu|n,tutup|v,lawang|n,bengang|adj
 doorbell	loceng pintu|n
 doorknob	combol|n
 dormitory	asrama|n
 dose	dos|n
 dot	noktah|n
-double-decker	bas dua tingkat|n
-doubt	keraguan munasabah|n,zan|n
-doubtful	syubhah|adj
+double-decker bus	bas dua tingkat|n
+doubt	zan|n
 doughnut	donat|n
-dove	balam|n
-down	baring|v,curi tulang|v,henyak|v,lungsur|v,membongkok|v,menurunkan|v
+down syndrome	sindrom down|n
 downfall	kejatuhan|n
-download	muat turun|v
 downpour	hujan lebat|n
-downstream	baruh|n,hilir|n,olak|n
+downstream	olak|n,baruh|n
+downstream area	hilir|n
 dowry	mahar|n
-dozen	setengah dozen|num
-dozens	berpuluh|num
-drag	hela|v,heret|v,larat|v,seret|v
+dozens of	berpuluh|num
 dragon	naga|n
 dragonfly	pepatung|n
 drain	longkang|n
 drama	sandiwara|n
-draw	hunus|v,menarik|v,sanggerah|v
-drawer	anak meja|n,berlaci|v,laci|n
 drawing	gambar|n
-dream	angan|n,bermimpi|v,impi|v,mimpi|n
-dreg	latak|n
-drench	simbah|v
-dress	busana|n,gaun|n
-dressing	bilik persalinan|n
-dried	ikan bilis|n,ikan kering|n
-drift	hanyut|v,larat|v
-drifted	bias|v
-drill	pelir itik|n,pelitik|n
-drink	bandung|n,beranggap|v,cham|n,mengopi|v,minum|v,minuman|n
-drinker	pemabuk|n
-drinking	air minum|n,penyedut|n,penyedut minuman|n
-drip	titik|v
+dread	seram|adj
+dream	angan|n,mimpi|n
+dreg of oil	latak|n
+dress	gaun|n,busana|n
+dresses	stail|n
+dressing room	bilik persalinan|n
+dried anchovies	ikan bilis|n
+dried fish	ikan kering|n
+drill	pelitik|n,pelir itik|n
+drink	minuman|n
+drinking straw	penyedut|n,penyedut minuman|n
+drinking water	air minum|n
 dripping	tiris|adj
-drips	titisan|n
-drive	halau|v,pacuan|n,pacuan empat roda|n,usir|v
-driver	drebar|n,lesen memandu|n,pemandu|n,rebewis|n,sais|n
-driving	lesen memandu|n,pelarian|n
+drive	pacuan|n
+driver	sais|n,supir|n,drebar|n,pemandu|n
+driver's license	rebewis|n,lesen memandu|n
+driving licence	lesen memandu|n
 drizzle	lalam|n
-drongo	cawi-cawi|n
 droopy	bawat|adj
-drop	entak|v,jatuh|v,titis|n,titisan|n
+drop	titis|n,titisan|n
 dropping	penanggalan|n
 droppings	tahi|n
-drops	titik peluh|n
+drops of sweat	titik peluh|n
 drought	kemarau|n
-drowsy	antuk|v
-drug	kaki dadah|n,mat dadah|n,mat gian|n,mat lalok|n
 druggy	mat gian|n
-drugs	dadah|n
-drum	tabuh|n
+drum a percussion instrument sounded by being struck wit	gendang
 drumstick	merunggai|n
-drunk	kemabukan|adj,khayal|adj,mabuk|adj,pemabuk|n
-drunkard	kaki botol|n,kaki minum|n,mat botol|n
-drunken	kemabukan|adj
-dry	berladang|v,huma|n,jemur|v,kemarau|n,kering|adj,ketuntasan|n
+drunk	mabuk|adj,khayal|adj,pemabuk|n,kemabukan|adj
+drunkard	mat botol|n,kaki botol|n,kaki minum|n
+dry	kering|adj,tuntas|adj
+dry air particles	debu|n
+dry or hill rice field	huma|n
+dry particles	habuk|n
+dry run	raptai|n
+dry season	kemarau|n,musim kemarau|n
+dry-currying	rendang|n
 dryness	ketuntasan|n
-dubbing	alih suara|n,dabing|n
+dubbing	dabing|n,alih suara|n
 dubnium	dubnium|n,hahnium|n
 ducat	bunduki|n
-duck	bebek|n,itik|n,itik badut|n,itik runcing|n
-dude	mamat|n,mat|n
-duduk	duk|v
-due	bengik|adj,lincir|adj,oleh sebab|prep,pancit|v,yuran|n
+duck	itik|n,bebek|n
+dude	mat|n
+due	yuran|n
+due to	oleh sebab|prep
 dues	bea|n
 dugong	duyung|n
-duk	dok|v
-dukung	didukung|v,mendukung|v
-dull	gersang|adj,lali|adj,pucat|adj,tumpul|adj
-dumb	babuk|adj,bisu|adj
+dull	lali|adj,pucat|adj,gersang|adj
+dull of a knife	tumpul|adj
+dumb	bisu|adj,babuk|adj
 dumbfounded	bungkam|adj
-dunia	loka|n
-dunk	celup|v
+dunno	entah
 duodecillion	duodesilion|num
 duovigintillion	duovigintilion|num
 durability	keabadian|n,ketahanan|n
+durable	awet|adj
 duration	durasi|n
 durian	durian|n
-during	duit raya|n
+during	sepanjang|prep
 dusk	senja|n
-dust	berdebu|adj,debu|n,habuk|n
-dustcart	lori sampah|n
+dust fine	debu|n,habuk|n
 dusty	berdebu|adj
 dutch	belanda|adj
-dutchman	kengwa|n
-duty	cukai|n,cukas|n,fardu|n,perkhidmatan|n,tugas|n
-duyung	babi duyung|n,dugong|n,ikan duyung|n
+dutchman's pipe	kengwa|n
+duty	cukai|n,cukas|n,tugas|n,perkhidmatan|n
 dwarf	katai|adj
-dwarfism	katai|adj
-dyke	bendung|n,tambak|n
+dyke	tambak|n,bendung|n
 dynamic	dinamik|adj
-dynasty	dinasti|n,wangsa|n
-dysfunction	mati pucuk|n
+dynasty	wangsa|n,dinasti|n
 dysprosium	disprosium|n

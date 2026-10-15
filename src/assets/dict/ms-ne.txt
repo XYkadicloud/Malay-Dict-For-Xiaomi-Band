@@ -2,7 +2,7 @@ negara	negara	n	国家	country; nation; sovereign state
 negarabruneidarussalam	negara brunei darussalam		内加拉	Negara Brunei Darussalam (the full name of the nation of Brunei)
 negaradolar	negara dolar	n	国家	A country that uses the US dollar.
 negaraibunda	negara ibunda	n	祖国	motherland
-negaraku	negaraku	n	异常的
+negaraku	negaraku	n	异常的	first-person singular possessive of negara
 negarawan	negarawan		政治家
 negatif	negatif		消极的，否定的
 negeri	negeri	n	州	state 			negara

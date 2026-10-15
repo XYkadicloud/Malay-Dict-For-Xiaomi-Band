@@ -69,5 +69,5 @@ toreh	toreh	v	刈切，割切，割胶	to incise
 torek	torek		耳朵流脓病，耳鸣
 torium	torium	n	钍  钍Th	thorium (chemical element)
 torpedo	torpedo		鱼雷	an explosive device that is set off in an oil well (or a…
-toye	toye	n	两者择一
+toye	toye	n	两者择一	alternative form of tomyam
 toyu	toyu	n	酱	soy sauce

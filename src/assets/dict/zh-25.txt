@@ -1,184 +1,128 @@
-伙	berkongsi,bersyarikat,orang lanat,pelabur|n,rawah
+伙	pelabur|n
 伙食	pelabur|n
-候	ada kala,aktu,bila|adv,bila-bila|adv,gubuk,halo,hawa|n,helo
-候变	perubahan iklim|n
-候变化	perubahan iklim|n
-候栅	gubuk
-写	menulis|v,tulis|v,ac,apr,apsl,aq,asl,bertarikh
+候补	rizab|n
+候选	calon|n
+候选人	calon|n
+写	tulis|v,menulis|v,mengarang|v,karang mengarang
 写下	catat
-写作	karang mengarang,mengarang|v,pengarang
+写作	mengarang|v,karang mengarang,pengarang
 写作者	pengarang
-写字	huruf besar,huruf kecil
-写字母	huruf besar,huruf kecil
-写法	ejaan|n,sastera|n
-写着	bertarikh
-写着日	bertarikh
 写着日期	bertarikh
 写着日期的	bertarikh
-写词	ac,apr,apsl,aq,asl,blkg,blm|adv,bln|conj
-则	aturan,dasar,hukum adat,kanun|n,kegramatisan|n,namus,pada asasnya,peraturan|n
-则上	pada asasnya
-匙	senduk|n,anak kunci|n,camca|n,kekunci|n,kunci|n,mencedok|v
-匙舀	mencedok|v
-匙舀取	mencedok|v
-咙	tenggorok,tenggorokan
-墙	abar|n,abar-abar|n,birai,bola baling|n,kisi-kisi,pagar|n,tembok|n,tembok api|n
+匙	senduk|n
+墙	abar|n,abar-abar|n,tembok|n,kisi-kisi
+墙垣	tembok|n
 墙壁	tembok|n
 墙手	bola baling|n
 墙手球	bola baling|n
 墙架	kisi-kisi
-妙	makar,pelik|adj,rancak
-妙的	makar,pelik|adj,rancak
-宙	jagat|n
-庙	kuil|n,tokong|n,at,candi,lebai|n,wilmana|n
+墙角	zawiat|n
+妙趣	pandai|adj
+庙	kuil|n,tokong|n,at
+庙堂	kuil|n
 庙宇	at
-庙祝	lebai|n
-料	bahan,anjing pandan|n,bahan api,bahan mentah,baja|n,baja air,baja serbuk,bau-bauan
-料用	sengkalan
-料用的	sengkalan
-料用的厚	sengkalan
-料用的厚板	sengkalan
-料的	malang tidak berbau|n
-料袋	supik|n
+料	bahan
+料定	pasti|adj
+料峭	dingin|adj
+料理店	restoran|n
 昙	kengwa|n
 昙花	kengwa|n
-標	slanga|n
-標準	slanga|n
-標準的	slanga|n
-標準的用	slanga|n
-標準的用詞	slanga|n
 氙	xenon|n
-沙	darul roundabout,pasir|n,shah alam,amben|n,arab saudi,beting,cauvinis|n,debus
-沙丁	sadin|v,sardin,tamban|n
-沙丁鱼	sadin|v,sardin,tamban|n
+沙	pasir|n,gurun|n,shah alam,darul roundabout,sagu|n,permatang|n,hempedal|n,samun gurun|n
+沙丁	sadin|v,tamban|n,sardin
+沙丁鱼	sadin|v,tamban|n,sardin
 沙丘	pematang
-沙之	kerapis
-沙之音	kerapis
 沙勒	salak|n
 沙勒果	salak|n
-沙发	sofa,amben|n
+沙发	sofa
+沙司	sos|n
 沙哑	garau|adj,parau|adj
 沙哑的	garau|adj,parau|adj
 沙囊	hempedal|n,pedal,tembolok
-沙地	genting gaza
-沙地带	genting gaza
-沙声	debus,desas,desir,gerit,lesak
+沙子	pasir|n
 沙岩	padas
 沙捞	sarawak
 沙捞越	sarawak
-沙文	cauvinis|n
-沙文主	cauvinis|n
-沙文主义	cauvinis|n
 沙文主义者	cauvinis|n
-沙沙	debus,desas,gerit,kerapis,lesak
+沙沙	kerapis,gerit,lesak,debus,desas
 沙沙之	kerapis
 沙沙之音	kerapis
-沙沙声	debus,desas,gerit,lesak
-沙滩	beting,permatang|n
-沙漠	gurun|n,kucing padang pasir|n,samun gurun|n,kafilah
+沙沙声	gerit,lesak,debus,desas
+沙滩	permatang|n,beting
+沙漠	gurun|n,samun gurun|n,kucing padang pasir|n,kafilah
 沙漠商	kafilah
 沙漠商队	kafilah
-沙特	arab saudi
-沙特阿	arab saudi
-沙特阿拉	arab saudi
 沙特阿拉伯	arab saudi
-沙盖	sakai|n
-沙盖族	sakai|n
 沙眼	kelilip
-沙笼	kain batik
-沙笼布	kain batik
+沙碛	gurun|n
 沙莪	sagu|n,rumbia|n
 沙莪树	rumbia|n
 沙谷	sagu|n
 沙谷米	sagu|n
-沙鸭	itik gerigi|n
-炙	udap-udapan
-焙	layur,panggang|v,bertih|n,ganggang|n,salai
+炙手可热	hangat|adj
+焙	panggang|v,layur,ganggang|n,bertih|n
 焙乾	ganggang|n
 焙米	bertih|n
-熙	lalulintas|n
-熙攘	lalulintas|n
-熙攘攘	lalulintas|n
 熙熙	lalulintas|n
 熙熙攘	lalulintas|n
 熙熙攘攘	lalulintas|n
+疙瘩	masalah|n
 瘙	kutu|n
-耙	sikik,sisir
+耙	sisir,sikik
 芙	fu yong,seremban,sungai ujong
 芙蓉	fu yong,seremban,sungai ujong
-蒙	berselubung,balam|n,berdebu|adj,mempan,pukau|n
-蒙上	berdebu|adj
-蒙上灰	berdebu|adj
+蒙	berselubung,pukau|n,balam|n,mempan
 蒙上灰尘	berdebu|adj
 蒙上灰尘的	berdebu|adj
 蒙受	mempan
+蒙皮	kulit|n
 蒙胧	balam|n
 蒙药	pukau|n
-鄙	hamba|n,hina|adj,lucah|adj
-鄙下	lucah|adj
-鄙下流	lucah|adj
+蒙蒙亮	fajar|n
+蒙蔽物	buta|adj
+鄙	hamba|n
 鄙人	hamba|n
-鄙的	hina|adj
-钙	kalsium|n,zat kapur|n
-错	bergalah,bersalah|v,bolak,dajal|n,galat,kacir,kekhilafan,kemaskini|n
+鄙劣	alas|n,min|n
+鄙吝	min|n
+鄙陋	cetek|adj
+钙	kalsium|n
+钙钙	zat kapur|n
+钙钙C	zat kapur|n
+钙钙Ca	zat kapur|n
+错	salah|adj,kesalahan|n,silap|adj,ralat|n,kesilapan|n,bolak,kacir,khilaf
 错乱	kacir,kucar-kacir,sengkarut
 错乱的	sengkarut
-错的	bolak,pelak
-错误	galat,kekhilafan,kesalahan|n,kesilapan|n,khilaf,ralat|n,salah|adj,silap|adj
-错误的	dajal|n,kesedaran palsu|n,paus hitam|n,pelak,serba salah|adj
-错路	tersesat
-隙	celah|n,ganggang|n,gela,lopak,lumpang,rongak,sela
-隙的	gela,rongak
-香	istanggi|n,raksi|n,ukupan,wangi|adj,adas,adas landi|n,air mawar|n,angi
+错失	salah|adj
+错的	bolak
+错综	rumit|adj
+错误	salah|adj,kesalahan|n,silap|adj,ralat|n,kesilapan|n,dajal|n,paus hitam|n,khilaf
+错误的	dajal|n,paus hitam|n,serba salah|adj,kesedaran palsu|n,pelak
+香	raksi|n,wangi|adj,istanggi|n,harum|adj,ukupan,dupa|n,rempah|n,punti|n
 香味	raksi|n,rempah-ratus|n
 香味料	rempah-ratus|n
-香料	bau-bauan,dupa|n,rempah|n,ukupan,pawah,piah,rempah-piah,sengkalan
-香料用	sengkalan
-香料用的	sengkalan
-香料用的厚	sengkalan
-香料用的厚板	sengkalan
-香木	cendana|n,gaharu
-香架	selaka|n
+香料	dupa|n,rempah|n,bau-bauan,ukupan
 香槟	champagne|n
 香槟酒	champagne|n
-香水	atar,bau-bauan,kelonyor|n,minyak wangi|n,urap-urap,air mawar|n
-香油	atar,balsam,serai|n
+香橙	jingga|adj
+香水	kelonyor|n,minyak wangi|n,atar,urap-urap,bau-bauan
+香油	balsam,atar,serai|n
 香油草	serai|n
-香烟	koktang|n,rokok|n,sigaret|n
-香焚	ukup
-香焚香	ukup
-香猫	kesturi,musang|n,zabad
-香甜	lunak|adj,nikmat|n
-香甜的	lunak|adj,nikmat|n
+香烟	rokok|n,koktang|n,sigaret|n
+香甜	nikmat|n,lunak|adj
+香甜的	nikmat|n,lunak|adj
 香皂	sabun wangi
-香的	angi,harum|adj
-香粉	kasai,pacai
+香的	harum|adj,angi
+香粉	kasai
 香肠	sosej|n
-香脑	capa|n
-香花	lawang|n
 香草	vanila|n
-香葱	kucai|n
-香蕉	mauz,pisang|n,punti|n,jawi-jawi|n,kelesek,serendah
+香蕉	punti|n,pisang|n,mauz,jawi-jawi|n,serendah
 香蕉叶	jawi-jawi|n
 香蕉名	serendah
-香蕉干	kelesek
-香蕉干的	kelesek
-香蕉干的外	kelesek
 香蕉干的外皮	kelesek
-香藤	kayu sugi|n
 香郁	semerdanta
 香郁的	semerdanta
-香鲸	paus sperma|n
-香鹿	napuh
-香鼠	cencorot
-龙	angsana|n,bingkarung,denosor|n,langsat|n,linggi,longan|n,lunas,mata kucing
-龙头	pili
-龙子	bingkarung
-龙木	angsana|n
+龙	langsat|n,longan|n,lunas,mata kucing
+龙头	tua-tua|n
 龙眼	longan|n,mata kucing
-龙虾	udang galah|n
 龙贡	langsat|n
-龙骨	lunas,linggi,serempu
-龙骨的	linggi
-龙骨的夹	linggi
-龙骨的夹板	linggi
+龙骨	lunas

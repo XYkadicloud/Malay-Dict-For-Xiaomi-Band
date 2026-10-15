@@ -1,4 +1,4 @@
-le	le	part	两者择一
+le	le	part	两者择一	alternative form of -lah
 lebah	lebah	n	蜜蜂	bee (insect)
 lebai	lebai	n	僧，回教堂庙祝	expert in Islam
 lebak	lebak	n	砰的一声	thud (the sound of a dull impact)
@@ -75,7 +75,7 @@ lekung	lekung		凹陷的，低陷的
 lela	lela		挥舞，舞剑
 lelaba	lelaba		蜘蛛
 lelabah	lelabah		蜘蛛
-lelabi	lelabi	n	两者择一
+lelabi	lelabi	n	两者择一	alternative form of labi-labi
 lelah	lelah	adj	疲倦，疲劳的	tired (in need of rest or sleep)
 lelai	lelai		下垂，悬垂的
 lelak	lelak		脱落，脱开
@@ -85,14 +85,14 @@ lelap	lelap	adj	甜睡的，熟睡的；消失	deep in asleep
 lelar	lelar		拖曳，催促，监督
 lelas	lelas		破皮，擦伤
 lelat	lelat		新郎送给新娘的栳叶
-lelayang	lelayang	n	风筝，燕子
+lelayang	lelayang	n	风筝，燕子	synonym of layang-layang (“kite”)
 leleh	leleh	v	滴下，流下	to trickle or flow gently (of liquids)
 leler	leler		粗糙的，疏忽的
 lelong	lelong	n	拍卖 拍卖	auction (public sales event)
 leluasa	leluasa		自由自在
 leluhur	leluhur	n	祖先	ancestor (one from whom a person is descended)
 lelung	lelung		颠踬
-lem	lem	adj	两者择一
+lem	lem	adj	两者择一	alternative form of lembap
 lema	lema		引理
 lemah	lemah	adj	弱	weak (lacking in force or ability)		kuat
 lemahlembut	lemah-lembut		温和的，温柔文雅
@@ -184,12 +184,12 @@ lentul	lentul		肚饿，空缺的
 lentum	lentum		炮轰声
 lentur	lentur	n	弄弯的，柔软的，低凹的	a curve or bend in something (especially something long or flexible)
 lenyak	lenyak		熟睡的，酐睡
-lenyap	lenyap	adj	消灭，消失，遗失
+lenyap	lenyap	adj	消灭，消失，遗失	synonym of lena (“dead asleep”); ephemeral
 lenyar	lenyar		不安的，痒的
 lenyeh	lenyeh		揉合，搓揉
 lenyek	lenyek		捣碎
 lenyet	lenyet		烂熟的，糜烂的
-lepa	lepa	adj	匐行，蔓延，放弃
+lepa	lepa	adj	匐行，蔓延，放弃	alternative form of alpa
 lepak	lepak	adj	摔下，四散	pale  snow-white  white as snow
 lepan	lepan		低泽，洼地
 lepang	lepang		胡瓜，黄瓜
@@ -234,7 +234,7 @@ lestari	lestari	adj	剩余的	Remaining the same; unchanging.
 lestarikan	lestarikan	v	保护	To preserve.
 lesu	lesu		疲倦的
 lesung	lesung	n	捣臼，酒涡	mortar (a hollow vessel used to pound ingredients)
-lesungpipit	lesung pipit	n	两者择一
+lesungpipit	lesung pipit	n	两者择一	alternative form of lesung pipi (“dimple”)
 lesut	lesut		萎缩的，凹陷的
 leta	leta		卑贱的，褴楼的，庸俗的
 letai	letai		困惫的，倦

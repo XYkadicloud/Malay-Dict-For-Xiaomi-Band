@@ -1,6 +1,6 @@
 lu	lu	pron	你	you
 luah	luah	v	唾吐，呕吐，讨厌	to eject food from the mouth
-luak	luak	v	作呕，贬值，减少
+luak	luak	v	作呕，贬值，减少	to be nauseous
 luang	luang	adj	减，缓，闲适的，空位的	vacant  empty: not occupied.
 luap	luap		沸腾，膨胀，澎湃
 luar	luar	prep	外面	out		dalam		dalam
@@ -49,7 +49,7 @@ lumrah	lumrah	adj	普通的，平常的	commonplace
 lumur	lumur		涂污，侮辱，奸污
 lumus	lumus	adj	涂污，弄糟	smeared; soiled; stained; dirty (covered with dirt  mud  soot  or sweat).
 lumut	lumut	n	苔癣，地衣	moss (plants of the division Bryophyta)
-lunak	lunak	adj	香甜的，多汁的，丰满的
+lunak	lunak	adj	香甜的，多汁的，丰满的	Synonym of lembut (“soft; tender”).; Soft and easily chewed.; Synonym of lembut (“soft; tender”).
 lunas	lunas		龙骨，地层，清讫，结束
 luncung	luncung		尖突的
 luncur	luncur	v	溜跌，过期，没收，滑下	to glide
@@ -79,7 +79,7 @@ lusuh	lusuh		软绉的，古旧的，褪色的
 lut	lut		侄子	A nephew of Abraham in the Bible and Quran; Lot.
 lutcahaya	lutcahaya		半透明的
 lutetium	lutetium	n	镥  镥Lu	lutetium
-luth	luth		两者择一
+luth	luth		两者择一	alternative form of Lut
 lutsinar	lutsinar		透明的
 lutu	lutu		袭击，猛击
 lutut	lutut	n	膝盖	knee (joint in the middle of the leg and area around it)
