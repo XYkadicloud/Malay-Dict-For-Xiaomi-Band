@@ -1,89 +1,57 @@
 /******************************************************************************
  * @file        search.js
- * @description 搜索：马来语精确/前缀/模糊 + 中文拼音反查
+ * @description 搜索 v0.14 —— 全部走 loader 的原生文本原语
+ *
+ * ── 设计原则（依据真机实测）──
+ *   · 原生字符串搜索 ≈ 0.1ms；JS 循环 8μs/步；对象属性查找 45.3μs
+ *   → 热路径只允许「原生调用」，禁止 JS 循环扫描 / JSON.parse / sort
+ *
+ * ── 与 v0.13 的差别 ──
+ *   v0.13：加载时 JSON.parse + flatKey 正则 + Array.sort（每个分片 3~6 万次比较）
+ *          → 加载一个分片要几百毫秒，查找再快也没用
+ *   v0.14：加载 = 1 次 readText（整块字符串）
+ *          查找 = 1 次 indexOf（原生）+ 少量 slice
+ *
+ * ── 各方向实现 ──
+ *   ms2zh / zh2ms / en2ms : 文本 indexOf + 行解析
+ *   zh2en / en2zh         : 文本 indexOf + 行解析
  ******************************************************************************/
 
 import * as loader from './loader.js'
 
-const MAX_RESULT = 10        // 单页结果数（列表只显示词+词性，10 条够用）
 const MAX_CANDIDATE = 12
-const MAX_UNION = 30       // 拆字并集最多收集多少个候选词（防分片爆炸）
-const MAX_COLLECT = 50     // 兜底上限（正常路径按 page×10 精确取，不会到 50）
-export const PAGE_SIZE = 10 // ★ 每页条数（真分页：一次只取本页所需，不再一次收 50）
+const MAX_UNION = 30       // 拆字并集上限
+const MAX_COLLECT = 50
+export const PAGE_SIZE = 10
 
 export const MODE_MS2ZH = 'ms2zh'
 export const MODE_ZH2MS = 'zh2ms'
-export const MODE_MS2EN = 'ms2en'
+export const MODE_EN2MS = 'en2ms'
+export const MODE_ZH2EN = 'zh2en'
+export const MODE_EN2ZH = 'en2zh'
+
+const ZH_MOD = 128
+
+/** 中文首字 → zh 桶号 */
+function zhBucketOf(ch) {
+  return String(ch.charCodeAt(0) % ZH_MOD)
+}
 
 /* --------------------------- 规范化 --------------------------- */
 
 export function normalize(text) {
   if (!text) return ''
-  let s = String(text).toLowerCase()
-  s = s.replace(/[^a-z0-9\u4e00-\u9fa5]/g, '')
-  return s
+  return String(text).toLowerCase().replace(/[^a-z0-9\u4e00-\u9fa5]/g, '')
 }
 
-/** 拼音专用：只保留 a-z（丢掉空格、声调符号、数字） */
+/** 拼音专用：只保留 a-z */
 export function normalizePy(text) {
   if (!text) return ''
   return String(text).toLowerCase().replace(/[^a-z]/g, '')
 }
 
-/** 仅保留 a-z0-9，用于匹配含空格/连字符的马来语词 */
-function flat(text) {
-  return String(text || '').toLowerCase().replace(/[^a-z0-9]/g, '')
-}
+/* --------------------------- 模糊匹配（仅兜底） --------------------------- */
 
-/* --------------------------- 马来语 → 中文 --------------------------- */
-/**
- * 从单个分片收集匹配词条。
- * ★ 累加式取法：limit = page×PAGE_SIZE+1，第 2 页会把第 1 页的结果一起再收一遍
- *   （分片已在内存，重复扫描是纯 JS 循环，代价极低；这样每页都是幂等的完整前缀）
- */
-function collectFromShard(shard, norm, limit, fuzzy) {
-  const out = []
-  if (!shard || !shard.entries) return out
-  const seen = {}
-  const cap = limit || MAX_COLLECT
-  const push = function (e) {
-    if (!e || !e.w || seen[e.w]) return
-    seen[e.w] = true
-    out.push(e)
-  }
-  const flatList = shard.flat || []
-  // 1) 精确命中（含空格/连字符的词按去分隔符形式比较）
-  push(shard.byWord[norm])
-  for (let i = 0; i < flatList.length; i++) {
-    if (flatList[i].f === norm) push(flatList[i].e)
-  }
-  // 2) 前缀命中
-  for (let i = 0; i < flatList.length; i++) {
-    const it = flatList[i]
-    if (it.f === norm) continue
-    if (it.f.indexOf(norm) === 0) {
-      push(it.e)
-      if (out.length >= cap) break
-    }
-  }
-  // 3) 模糊命中（仅前缀无结果时）
-  if (fuzzy && out.length === 0 && norm.length >= 3) {
-    for (let i = 0; i < flatList.length; i++) {
-      const it = flatList[i]
-      if (Math.abs(it.f.length - norm.length) > 1) continue
-      if (dameraLevenshtein(it.f, norm, 1) <= 1) {
-        push(it.e)
-        if (out.length >= cap) break
-      }
-    }
-  }
-
-  return out
-}
-
-/**
- * Damerau-Levenshtein 距离，带 early-exit 上限
- */
 export function dameraLevenshtein(a, b, max) {
   const la = a.length
   const lb = b.length
@@ -114,360 +82,414 @@ export function dameraLevenshtein(a, b, max) {
   return prev[lb]
 }
 
+/* --------------------------- 行解析助手 --------------------------- */
+
+/** 拆值列表 "a,b,c" → ['a','b','c'] */
+function splitList(v) {
+  if (!v) return []
+  return String(v).indexOf(',') < 0 ? [v] : v.split(',')
+}
+
+/**
+ * ★ 把 "makan|v" 形式的列表转成显示行
+ * 词性内嵌在桶里，所以列表查询**不需要再读 ms 分片**
+ * （这是 zh2ms / en2ms 从 200ms+ 降到 ~10ms 的关键）
+ */
+function toRows(list) {
+  const out = []
+  for (let i = 0; i < list.length; i++) {
+    const s = list[i]
+    if (!s) continue
+    const bar = s.indexOf('|')
+    if (bar < 0) out.push({ w: s, p: '' })
+    else out.push({ w: s.slice(0, bar), p: s.slice(bar + 1) })
+  }
+  return out
+}
+
+/**
+ * 把 ms 行转成「显示词条」
+ * 行格式：flatkey \t word \t pos \t zh \t en \t ms \t ex \t syn \t ant
+ */
+function msRow(line) {
+  const c = line.split('\t')
+  return { w: c[1] || c[0], p: c[2] || '' }
+}
+
+/* --------------------------- 马来语 → 中文 --------------------------- */
+
 /**
  * 搜索马来语词条
- * @param {string} query 原始输入
- * @returns {Promise<Array>} 词条数组
+ * 顺序：精确（原生 indexOf）→ 前缀（定位后顺行）→ 模糊（仅前两者皆空）
  */
 export function searchMalay(query, page, pageSize) {
   const norm = normalize(query)
   if (!norm) return Promise.resolve([])
   const ps = pageSize || PAGE_SIZE
   const p = page && page > 0 ? page : 1
-  // ★ 只取到「本页 + 1 条」为止：+1 用于判断是否还有下一页，绝不一次收 50
   const want = p * ps + 1
-  const first = norm.charAt(0)
-  return loader.loadShard(first).then(function (shard) {
-    let out = collectFromShard(shard, norm, want, false)
-    if (out.length > 0) return out
-    // 前缀无结果 → 尝试模糊
-    return collectFromShard(shard, norm, want, true)
+
+  return loader.loadShardByFlat(norm).then(function (shard) {
+    const out = []
+    const seen = {}
+    const push = function (e) {
+      if (!e || !e.w || seen[e.w]) return
+      seen[e.w] = 1
+      out.push(e)
+    }
+
+    // ① 精确命中（原生 indexOf，O(1) 级）
+    push(loader.lookupShard(shard, norm))
+
+    // ② 前缀命中（有序文件前缀连续，定位后顺行）
+    if (out.length < want) {
+      const more = loader.collectShardPrefix(shard, norm, want - out.length + 8)
+      for (let i = 0; i < more.length && out.length < want; i++) push(more[i])
+    }
+
+    // ③ 模糊命中（仅当前两者皆空；扫全片但只在无结果时发生）
+    if (out.length === 0 && norm.length >= 3 && shard && shard.text) {
+      const lines = shard.text.split('\n')
+      for (let i = 0; i < lines.length && out.length < want; i++) {
+        const line = lines[i]
+        if (!line) continue
+        const t = line.indexOf('\t')
+        const f = t < 0 ? line : line.slice(0, t)
+        if (Math.abs(f.length - norm.length) > 1) continue
+        if (dameraLevenshtein(f, norm, 1) <= 1) push(msRow(line))
+      }
+    }
+    return out
   })
 }
 
-/* --------------------------- 中文拼音反查 --------------------------- */
+/* --------------------------- 拼音反查 --------------------------- */
 
 /**
  * 拼音 → 汉字候选
- *   1) 精确命中
- *   2) 前缀命中（pingguo → pingguo…）
- *   3) 模糊命中（pingguo 与 ping guo 等价；容忍 1 处增删改）
- * 输入会先去掉空格/声调，所以「ping guo」「pīngguǒ」都能匹配。
+ * 行格式：pinyin \t 字1,字2,...
  */
 export function searchPinyin(pinyin) {
   const norm = normalizePy(pinyin)
   if (!norm) return Promise.resolve([])
 
-  // ★ 只加载该首字母的拼音小文件（约 20KB），不再解析整表
-  return loader.loadPinyin(norm).then(function (data) {
-    const py = (data && data.py) || {}
+  return loader.loadPinyin(norm).then(function (rec) {
     const out = []
     const seen = {}
-
-    const pushWord = function (w) {
+    const push = function (w) {
       if (!w || seen[w]) return
-      seen[w] = true
+      seen[w] = 1
       out.push(w)
     }
-
-    // 1) 精确
-    const exact = py[norm]
-    if (exact) {
-      for (let i = 0; i < exact.length; i++) pushWord(exact[i])
+    const pushList = function (v) {
+      const arr = splitList(v)
+      for (let i = 0; i < arr.length; i++) {
+        push(arr[i])
+        if (out.length >= MAX_CANDIDATE) return
+      }
     }
+
+    // ① 精确（原生 indexOf）
+    const ex = loader.lookupValue(rec, norm)
+    if (ex != null) pushList(ex)
     if (out.length >= MAX_CANDIDATE) return out.slice(0, MAX_CANDIDATE)
 
-    // 2) 前缀
-    for (const key in py) {
-      if (key === norm) continue
-      if (key.indexOf(norm) === 0) {
-        const arr = py[key] || []
-        for (let i = 0; i < arr.length; i++) {
-          pushWord(arr[i])
-          if (out.length >= MAX_CANDIDATE) return out.slice(0, MAX_CANDIDATE)
-        }
-      }
+    // ② 前缀（有序文件，定位后顺行）
+    const pairs = loader.prefixPairs(rec, norm, 24)
+    for (let i = 0; i < pairs.length; i++) {
+      if (pairs[i][0] === norm) continue
+      pushList(pairs[i][1])
+      if (out.length >= MAX_CANDIDATE) return out.slice(0, MAX_CANDIDATE)
     }
 
-    // 3) 模糊（长度差 ≤1，编辑距离 ≤1）
-    if (out.length === 0 && norm.length >= 3) {
-      for (const key in py) {
-        if (Math.abs(key.length - norm.length) > 1) continue
-        if (dameraLevenshtein(key, norm, 1) <= 1) {
-          const arr = py[key] || []
-          for (let i = 0; i < arr.length; i++) {
-            pushWord(arr[i])
-            if (out.length >= MAX_CANDIDATE) return out.slice(0, MAX_CANDIDATE)
-          }
-        }
+    // ③ 模糊（仅前两者皆空）
+    if (out.length === 0 && norm.length >= 3 && rec && rec.text) {
+      const lines = rec.text.split('\n')
+      for (let i = 0; i < lines.length && out.length < MAX_CANDIDATE; i++) {
+        const line = lines[i]
+        if (!line) continue
+        const t = line.indexOf('\t')
+        const k = t < 0 ? line : line.slice(0, t)
+        if (Math.abs(k.length - norm.length) > 1) continue
+        if (dameraLevenshtein(k, norm, 1) <= 1) pushList(t < 0 ? '' : line.slice(t + 1))
       }
     }
-
     return out.slice(0, MAX_CANDIDATE)
   })
 }
 
+/* --------------------------- 英文 → 马来语 --------------------------- */
+
 /**
- * 英文 → 马来语词条
- * ★ 只加载该首字母的英文小文件（约 12KB），不再解析 251KB 整表
+ * 英文 → 马来语（★ 词性内嵌，零额外分片读取）
+ * 行格式：english \t 马来语|词性,...
  */
 export function searchEnglish(word, onProgress, limit) {
   const w = normalize(word)
   if (!w) return Promise.resolve([])
   const cap = (limit && limit > 0) ? limit : MAX_COLLECT
-  return loader.loadEn(w).then(function (data) {
-    const map = (data && data.en2ms) || {}
-    let words = map[w] ? map[w].slice() : []
-    // 无精确命中 → 前缀（只收集到本页所需为止）
-    if (words.length === 0) {
-      for (const key in map) {
-        if (key.indexOf(w) === 0) {
-          const arr = map[key] || []
-          for (let i = 0; i < arr.length; i++) {
-            if (words.indexOf(arr[i]) === -1) words.push(arr[i])
-          }
-          if (words.length >= cap) break
-        }
-      }
+
+  return loader.loadEn(w).then(function (rec) {
+    const list = []
+    const seen = {}
+    const push = function (v) {
+      if (!v || seen[v]) return
+      seen[v] = 1
+      list.push(v)
     }
-    return fetchEntries(words.slice(0, cap), onProgress)
+    const pushList = function (v) {
+      const arr = splitList(v)
+      for (let i = 0; i < arr.length && list.length < cap; i++) push(arr[i])
+    }
+
+    // ① 精确
+    const ex = loader.lookupValue(rec, w)
+    if (ex != null) pushList(ex)
+
+    // ② 前缀（有序文件，定位后顺行）
+    if (list.length === 0) {
+      const pairs = loader.prefixPairs(rec, w, 16)
+      for (let i = 0; i < pairs.length && list.length < cap; i++) pushList(pairs[i][1])
+    }
+    // ★ 词性已内嵌 → 直接转行
+    return toRows(list)
   })
 }
 
-/**
- * 按词表批量取词条（跨分片）
- * ★ 用串行加载，避免一次解析多个分片导致内存爆掉（v0.7 真机闪退修复）
- * @param {Array<string>} words
- * @param {function} onProgress 可选，回调 (done, total) 用于「加载中…」提示
- */
-function fetchEntries(words, onProgress, limit) {
-  if (!words.length) return Promise.resolve([])
-  const cap = limit || MAX_COLLECT
+/* --------------------------- 中文 → 马来语 --------------------------- */
 
-  // 收集需要的分片，并限制数量上限（防极端情况）
-  const letters = []
-  for (let i = 0; i < words.length; i++) {
-    const l = String(words[i]).charAt(0).toLowerCase()
-    if (l && letters.indexOf(l) === -1) letters.push(l)
-    if (letters.length >= 12) break
+/**
+ * 汉字 → 马来语词条（★ 词性内嵌，零额外分片读取）
+ * 行格式：中文词 \t 马来语|词性,马来语|词性,...
+ *   1) 完整词命中（只查「首字所属桶」，1 次原生 indexOf）
+ *   2) 无完整命中 → 逐字取并集（每字查自己的桶）
+ */
+export function searchChinese(word, onProgress, limit) {
+  const w = String(word || '').trim()
+  if (!w) return Promise.resolve([])
+
+  // 人工修正表（带词性，避免再读分片）
+  const fixed = ZH_OVERRIDE[w]
+  if (fixed) {
+    const cap0 = (limit && limit > 0) ? limit : fixed.length
+    return Promise.resolve(fixed.slice(0, cap0).map(function (s) {
+      const bar = s.indexOf('|')
+      return bar < 0 ? { w: s, p: '' } : { w: s.slice(0, bar), p: s.slice(bar + 1) }
+    }))
   }
 
-  return loader.loadShardsSerial(letters, onProgress).then(function (shards) {
-    const out = []
+  const chars = w.match(/[\u4e00-\u9fa5]/g) || []
+  if (!chars.length) return Promise.resolve([])
+
+  const need = []
+  for (let i = 0; i < chars.length && need.length < 4; i++) {
+    const b = zhBucketOf(chars[i])
+    if (need.indexOf(b) === -1) need.push(b)
+  }
+
+  return loader.loadZhBuckets(need).then(function (recs) {
+    const bucketRec = function (b) {
+      const i = need.indexOf(b)
+      return i >= 0 ? recs[i] : null
+    }
+
+    // ① 完整匹配（只查整词首字所属桶，1 次原生 indexOf）
+    const firstRec = bucketRec(zhBucketOf(chars[0]))
+    const exactVal = loader.lookupValue(firstRec, w)
+    const exact = exactVal != null ? splitList(exactVal) : []
+
     const seen = {}
-    for (let i = 0; i < words.length; i++) {
-      const target = words[i]
-      const key = flat(target)
-      for (let s = 0; s < shards.length; s++) {
-        const shard = shards[s]
-        if (!shard) continue
-        let hit = shard.byWord ? shard.byWord[target] : null
-        if (!hit) {
-          const list = shard.flat || []
-          for (let k = 0; k < list.length; k++) {
-            if (list[k].f === key) { hit = list[k].e; break }
-          }
-        }
-        if (hit && !seen[hit.w]) {
-          seen[hit.w] = true
-          out.push(hit)
-          break
+    for (let i = 0; i < exact.length; i++) seen[exact[i]] = 1
+
+    // ② 无完整匹配 → 逐字并集（每字 1 次 indexOf）
+    const union = []
+    if (exact.length === 0) {
+      for (let ci = 0; ci < chars.length && union.length < MAX_UNION; ci++) {
+        const rec = bucketRec(zhBucketOf(chars[ci]))
+        const v = loader.lookupValue(rec, chars[ci])
+        if (v == null) continue
+        const list = splitList(v)
+        for (let j = 0; j < list.length && union.length < MAX_UNION; j++) {
+          const t = list[j]
+          if (seen[t]) continue
+          seen[t] = 1
+          union.push(t)
         }
       }
-      if (out.length >= cap) break
+    }
+
+    const all = exact.concat(union)
+    if (!all.length) return []
+    const cap = (limit && limit > 0) ? limit : all.length
+    // ★ 词性已内嵌 → 直接转行，不再读 ms 分片
+    return toRows(all.slice(0, cap))
+  })
+}
+
+/* --------------------------- 人工修正表 --------------------------- */
+
+const ZH_OVERRIDE = {
+  '书': ['buku|n', 'kitab|n'],
+  '书籍': ['buku|n', 'kitab|n'],
+  '书本': ['buku|n'],
+  '蓝色': ['biru|adj'],
+  '蓝': ['biru|adj'],
+  '红': ['merah|adj'],
+  '红色': ['merah|adj'],
+  '黄': ['kuning|adj'],
+  '黄色': ['kuning|adj'],
+  '绿': ['hijau|adj'],
+  '绿色': ['hijau|adj'],
+  '黑': ['hitam|adj'],
+  '黑色': ['hitam|adj'],
+  '白': ['putih|adj'],
+  '白色': ['putih|adj']
+}
+
+/* --------------------------- 中文 ⇄ 英文（CC-CEDICT） --------------------------- */
+
+/**
+ * 中文 → 英文（行格式：中文词 \t 英文1,英文2,...）
+ */
+export function searchZh2En(text) {
+  const q = String(text || '').trim()
+  if (!q) return Promise.resolve([])
+
+  return loader.loadZeZh(q).then(function (rec) {
+    const list = []
+    const seen = {}
+    const push = function (v) {
+      if (!v || seen[v]) return
+      seen[v] = 1
+      list.push(v)
+    }
+    const pushVal = function (v) {
+      const arr = splitList(v)
+      for (let i = 0; i < arr.length && list.length < 10; i++) push(arr[i])
+    }
+
+    // ① 整词精确
+    const ex = loader.lookupValue(rec, q)
+    if (ex != null) pushVal(ex)
+
+    // ② 前缀（有序文件，定位后顺行）
+    if (list.length === 0) {
+      const pairs = loader.prefixPairs(rec, q, 12)
+      for (let i = 0; i < pairs.length && list.length < 10; i++) {
+        if (pairs[i][0] === q) continue
+        pushVal(pairs[i][1])
+      }
+    }
+
+    const out = []
+    for (let i = 0; i < list.length && out.length < 10; i++) {
+      out.push({ w: list[i], zh: q, en: '', p: '' })
     }
     return out
   })
 }
 
 /**
- * 汉字 → 马来语词条
- * 支持三种输入：
- *   1) 完整词命中（如「学习」）—— ★ 结果强制置顶
- *   2) 多字无完整命中 → 逐字取并集（如「吃饭」→ 吃 ∪ 饭）
- *   3) 单字命中
- * ★ 走分桶加载：只读 1~N 个小桶（每桶约 18KB），不再解析 1MB 整表
- * ★ 并集数量封顶（MAX_UNION），防止触及过多分片
+ * 英文 → 中文（行格式：english \t 中文1,中文2,...）
  */
-export function searchChinese(word, onProgress, limit) {
-  const w = String(word || '').trim()
-  if (!w) return Promise.resolve([])
-  // 人工修正表优先（覆盖来源里的错误条目）
-  const fixed = getOverride(w)
-  if (fixed) return fetchEntries(fixed, onProgress, limit)
+export function searchEn2Zh(text) {
+  const q = normalize(text)
+  if (!q) return Promise.resolve([])
 
-  const chars = w.match(/[\u4e00-\u9fa5]/g) || []
-  if (!chars.length) return Promise.resolve([])
-
-  // 只加载涉及的桶（最多 4 个，避免拆长句时爆内存）
-  const need = []
-  for (let i = 0; i < chars.length && need.length < 4; i++) {
-    const b = String(chars[i].charCodeAt(0) % 26)
-    if (need.indexOf(b) === -1) need.push(b)
-  }
-
-  return loader.loadZhBuckets(need).then(function (buckets) {
-    // 合并成临时表（只在本次查询内存活，函数返回后即可被 GC）
-    const map = {}
-    for (let i = 0; i < buckets.length; i++) {
-      const m = (buckets[i] && buckets[i].zh2ms) || {}
-      for (const k in m) {
-        if (!map[k]) map[k] = m[k]
-      }
-    }
-
-    // 1) 完整匹配 —— ★ 优先级最高，结果置顶
-    const exact = map[w] ? map[w].slice() : []
+  return loader.loadZeEn(q).then(function (rec) {
+    const list = []
     const seen = {}
-    for (let i = 0; i < exact.length; i++) seen[exact[i]] = 1
+    const push = function (v) {
+      if (!v || seen[v]) return
+      seen[v] = 1
+      list.push(v)
+    }
+    const pushVal = function (v) {
+      const arr = splitList(v)
+      for (let i = 0; i < arr.length && list.length < 10; i++) push(arr[i])
+    }
 
-    // 2) 无完整匹配 → 拆字取并集（去重、封顶）
-    const union = []
-    if (exact.length === 0) {
-      for (let i = 0; i < chars.length; i++) {
-        if (union.length >= MAX_UNION) break
-        const list = map[chars[i]] || []
-        for (let j = 0; j < list.length; j++) {
-          const t = list[j]
-          if (seen[t]) continue
-          seen[t] = 1
-          union.push(t)
-          if (union.length >= MAX_UNION) break
-        }
+    const ex = loader.lookupValue(rec, q)
+    if (ex != null) pushVal(ex)
+
+    if (list.length === 0) {
+      const pairs = loader.prefixPairs(rec, q, 12)
+      for (let i = 0; i < pairs.length && list.length < 10; i++) {
+        if (pairs[i][0] === q) continue
+        pushVal(pairs[i][1])
       }
     }
 
-    // ★ 整词命中在前，拆字并集在后（避免「吃饭」的结果乱序）
-    const words = exact.concat(union)
-    if (!words.length) return []
-    // ★ 分页：只取本页所需（+1 用于判断下一页），避免一次解析 30~50 条词条
-    const cap = (limit && limit > 0) ? limit : words.length
-    return fetchEntries(words.slice(0, cap), onProgress)
+    const out = []
+    for (let i = 0; i < list.length && out.length < 10; i++) {
+      out.push({ w: list[i], zh: list[i], en: q, p: '' })
+    }
+    return out
   })
 }
 
-/* --------------------------- 人工修正表 --------------------------- */
-
-/**
- * 修正数据源里的错误/噪音条目。
- * 触发条件：用户查询的中文词命中此表，则直接用指定马来语词，
- * 不再走来源索引（用于覆盖维基词典的错条目）。
- */
-const ZH_OVERRIDE = {
-  '书': ['buku', 'kitab'],
-  '书籍': ['buku', 'kitab'],
-  '书本': ['buku'],
-  // ↓ 用户发现的错译/缺译，直接在这里覆盖（修数据最快的方式）
-  '蓝色': ['biru'],
-  '蓝': ['biru'],
-  '红': ['merah'],
-  '红色': ['merah'],
-  '黄': ['kuning'],
-  '黄色': ['kuning'],
-  '绿': ['hijau'],
-  '绿色': ['hijau'],
-  '黑': ['hitam'],
-  '黑色': ['hitam'],
-  '白': ['putih'],
-  '白色': ['putih']
-}
-
-function getOverride(w) {
-  const v = ZH_OVERRIDE[w]
-  return v && v.length ? v.slice() : null
-}
-
-/* --------------------------- 自动识别 --------------------------- */
+/* --------------------------- 统一入口 --------------------------- */
 
 const HANZI_RE = /[\u4e00-\u9fa5]/
 
-/** 是否包含汉字 */
 export function hasHanzi(text) {
   return HANZI_RE.test(String(text || ''))
 }
 
-/**
- * 自动识别检索方向：
- *   含汉字  → 中文 → 马来语（直接查，不用先出候选）
- *   纯字母  → 马来语 → 中文（同时给出拼音候选，便于反查）
- * @returns {Promise<{type: string, rows: Array, cands: Array}>}
- */
+/** 自动识别检索方向 */
 export function autoSearch(query) {
   const q = String(query || '').trim()
   if (!q) return Promise.resolve({ type: 'none', rows: [], cands: [] })
 
-  // 含汉字：直接中译马
   if (hasHanzi(q)) {
     return searchChinese(q).then(function (rows) {
-      return { type: 'zh', rows: rows ? rows : [], cands: [] }
+      return { type: 'zh', rows: rows || [], cands: [] }
     }).catch(function () {
       return { type: 'zh', rows: [], cands: [] }
     })
   }
 
-  // 纯字母：两边都试（马来语词条 + 拼音候选）
-  return Promise.all([
-    searchMalay(q).catch(function () { return [] }),
-    searchPinyin(q).catch(function () { return [] })
-  ]).then(function (res) {
-    return {
-      type: 'ms',
-      rows: res[0] ? res[0] : [],
-      cands: res[1] ? res[1] : []
-    }
+  // ★ 串行替代 Promise.all：避免两个分片同时驻留
+  return searchMalay(q).catch(function () { return [] }).then(function (rows) {
+    return searchPinyin(q).catch(function () { return [] }).then(function (cands) {
+      return { type: 'ms', rows: rows || [], cands: cands || [] }
+    })
   })
 }
 
-/**
- * 按模式查询（统一入口，供搜索页调用）
- *   ms2zh  马来语 → 中文：输马来语，出词条
- *   zh2ms  中文 → 马来语：输汉字/拼音，出词条
- *   en2ms  英语 → 马来语：输英文，出词条
- * @param {string} q
- * @param {string} mode
- * @param {function} onProgress 可选，(done, total) 用于「加载中…」提示
- * @param {number} page 可选，从 1 开始（分页：只取到本页所需为止）
- * @returns {Promise<{rows: Array, cands: Array}>}
- */
+/** 按模式查询（统一入口） */
 export function queryByMode(q, mode, onProgress, page, pageSize) {
   const s = String(q || '').trim()
   if (!s) return Promise.resolve({ rows: [], cands: [] })
   const p = page && page > 0 ? page : 1
   const ps = (pageSize && pageSize > 0) ? pageSize : PAGE_SIZE
-  const limit = p * ps + 1      // ★ 多取 1 条用于判断是否还有下一页
-  if (mode === 'zh2ms') {
-    // 纯字母视为拼音 → 出候选汉字（点候选再查马来语）
+  const limit = p * ps + 1
+
+  const wrapRows = function (pr) {
+    return pr.then(function (rows) {
+      return { rows: rows || [], cands: [] }
+    }).catch(function () {
+      return { rows: [], cands: [] }
+    })
+  }
+
+  if (mode === MODE_ZH2MS) {
     if (!hasHanzi(s)) {
       return searchPinyin(s).then(function (cands) {
-        return { rows: [], cands: cands ? cands : [] }
+        return { rows: [], cands: cands || [] }
       }).catch(function () {
         return { rows: [], cands: [] }
       })
     }
-    return searchChinese(s, onProgress, limit).then(function (rows) {
-      return { rows: rows ? rows : [], cands: [] }
-    }).catch(function () {
-      return { rows: [], cands: [] }
-    })
+    return wrapRows(searchChinese(s, onProgress, limit))
   }
-  if (mode === 'en2ms') {
-    return searchEnglish(s, onProgress, limit).then(function (rows) {
-      return { rows: rows ? rows : [], cands: [] }
-    }).catch(function () {
-      return { rows: [], cands: [] }
-    })
-  }
-  return searchMalay(s, p, ps).then(function (rows) {
-    return { rows: rows ? rows : [], cands: [] }
-  }).catch(function () {
-    return { rows: [], cands: [] }
-  })
+  if (mode === MODE_EN2MS) return wrapRows(searchEnglish(s, onProgress, limit))
+  if (mode === MODE_ZH2EN) return wrapRows(searchZh2En(s))
+  if (mode === MODE_EN2ZH) return wrapRows(searchEn2Zh(s))
+  return wrapRows(searchMalay(s, p, ps))
 }
-/**
- * ★ 分页查询（真正按需取，不一次收 50）
- *
- * 关键认知：分片已在内存里，但**一次解析 50 条候选 + 逐条 fetchEntries 会撑爆内存**。
- * 所以做法是「按页取」：
- *   1) 第 p 页只收集 p×PAGE_SIZE+1 条候选（+1 用于判断是否还有下一页）
- *   2) 页面只渲染 p×PAGE_SIZE 条
- *   3) 点「下一页」时 page+1，重新按 (page×10+1) 取——分片已在内存，不会重复读文件
- *
- * @param {string} q
- * @param {string} mode
- * @param {number} page 从 1 开始
- * @param {function} onProgress
- * @returns {Promise<{rows, cands, total, hasMore}>}
- */
+
+/** ★ 分页查询（真分页） */
 export function queryPaged(q, mode, page, onProgress, pageSize) {
   const p = page && page > 0 ? page : 1
   const ps = (pageSize && pageSize > 0) ? pageSize : PAGE_SIZE
@@ -476,7 +498,6 @@ export function queryPaged(q, mode, page, onProgress, pageSize) {
     const all = r.rows || []
     const from = (p - 1) * ps
     return {
-      // ★ 真分页：只返回「本页」的 ps 条（不累积），点下一页才是新的 10 条
       rows: all.slice(from, from + ps),
       cands: r.cands || [],
       total: all.length,
@@ -486,11 +507,203 @@ export function queryPaged(q, mode, page, onProgress, pageSize) {
   })
 }
 
+/* --------------------------- 多方向抽词（每日学习） --------------------------- */
+
+/**
+ * ★ 按方向随机抽词（每日学习用）
+ *   zh2ms : 从 zh 桶抽中文词，带马来语释义 + 词性
+ *   zh2en : 从 ze-zh 桶抽中文词，带英文释义
+ *   ms2zh : 从 ms 分片抽马来语词（旧行为，保留）
+ *
+ * 设计：候选桶只随机取 3~4 个，命中即停 —— 不做全表扫描（手环算力约束）。
+ * @returns {Promise<Array<{w, zh, en, p, mode}>>}
+ *   w = 题干（该方向要看的词）；ans = 答案（该方向要学的词）
+ */
+export function randomWordsByMode(mode, count, exclude) {
+  const n = (count && count > 0) ? count : 10
+  const skip = {}
+  if (exclude) {
+    for (let i = 0; i < exclude.length; i++) skip[String(exclude[i])] = 1
+  }
+
+  if (mode === MODE_ZH2MS) return randomZh(n, 'loadedMs', skip)
+  if (mode === MODE_ZH2EN) return randomZh(n, 'loadedEn', skip)
+  // 默认：旧行为（马→中）
+  return randomWords(n, exclude)
+}
+
+/**
+ * 抽中文词。
+ * @param {string} which 'loadedMs' → 答案取马来语；'loadedEn' → 答案取英文
+ */
+function randomZh(n, which, skip) {
+  return loader.loadIndex().then(function () {
+    const bucketCount = which === 'loadedEn' ? 128 : 128
+    // 随机取桶，最多试 6 个；命中够就停
+    const tried = {}
+    const out = []
+    const seen = {}
+    let attempts = 0
+    const MAX_TRIES = 6
+
+    function step() {
+      if (out.length >= n || attempts >= MAX_TRIES) {
+        return Promise.resolve(shuffle(out).slice(0, n))
+      }
+      attempts++
+      let b = -1
+      for (let i = 0; i < 8; i++) {
+        const c = Math.floor(Math.random() * bucketCount)
+        if (!tried[c]) { tried[c] = 1; b = c; break }
+      }
+      if (b < 0) return Promise.resolve(shuffle(out).slice(0, n))
+
+      const loaderFn = which === 'loadedEn' ? loader.loadZeZhByBucket : loader.loadZhBucketByBucket
+      return loaderFn(b).then(function (rec) {
+        if (rec && rec.text) {
+          collectZhFromText(rec.text, which, n, skip, seen, out)
+        }
+        return step()
+      }).catch(function () {
+        return step()
+      })
+    }
+    return step()
+  }).catch(function (e) {
+    console.log('[search] randomZh fail: ' + e)
+    return []
+  })
+}
+
+/** 从桶文本里随机起跳取样中文词 */
+function collectZhFromText(text, which, n, skip, seen, out) {
+  const lines = text.split('\n')
+  if (!lines.length) return
+  const start = Math.floor(Math.random() * lines.length)
+  for (let off = 0; off < lines.length && out.length < n; off++) {
+    const line = lines[(start + off) % lines.length]
+    if (!line) continue
+    const t = line.indexOf('\t')
+    if (t < 0) continue
+    const zh = line.slice(0, t)
+    const val = line.slice(t + 1)
+    if (!zh || !val) continue
+    if (skip[zh] || seen[zh]) continue
+    seen[zh] = 1
+
+    if (which === 'loadedEn') {
+      // ze-zh 桶：第二列是英文列表，取第一个
+      const first = val.split(',')[0]
+      if (!first) continue
+      out.push({ w: zh, zh: zh, en: first, p: '', mode: 'zh2en', ans: first })
+    } else {
+      // zh 桶：第二列是 "马来语|词性" 列表，取第一个
+      const first = val.split(',')[0]
+      const bar = first.indexOf('|')
+      const ms = bar < 0 ? first : first.slice(0, bar)
+      const p = bar < 0 ? '' : first.slice(bar + 1)
+      if (!ms) continue
+      out.push({ w: zh, zh: zh, en: '', p: p, mode: 'zh2ms', ans: ms })
+    }
+  }
+}
+
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    const t = arr[i]; arr[i] = arr[j]; arr[j] = t
+  }
+  return arr
+}
+
+/* --------------------------- 多方向出题（复习测验） --------------------------- */
+
+/**
+ * ★ 按方向出选择题
+ *   ms2zh : 题干马来语 → 选中文
+ *   zh2ms : 题干中文   → 选马来语
+ *   zh2en : 题干中文   → 选英文        ← 新增
+ *   en2ms : 题干英文   → 选马来语
+ *
+ * @returns {Promise<{stem, opts, answer, entry}|null>}
+ */
+export function makeQuestionByMode(word, mode) {
+  const w = String(word || '').trim()
+  if (!w) return Promise.resolve(null)
+
+  if (mode === MODE_ZH2EN) return makeZhQuestion(w, 'en')
+  if (mode === MODE_ZH2MS) return makeZhQuestion(w, 'ms')
+  return makeQuestion(w, mode)
+}
+
+/**
+ * 中文题干出题：干扰项从「同一个中文桶」取，零额外 IO。
+ * @param {string} which 'en' → 答案英文；'ms' → 答案马来语
+ */
+function makeZhQuestion(zh, which) {
+  const bucket = which === 'en'
+    ? loader.loadZeZhByBucket(zhBucketOf(zh.charAt(0)))
+    : loader.loadZhBucket(zh)
+
+  return bucket.then(function (rec) {
+    if (!rec || !rec.text) return null
+    const myVal = loader.lookupValue(rec, zh)
+    if (myVal == null) return null
+
+    // 自己的答案
+    let myAnswer = ''
+    if (which === 'en') {
+      myAnswer = myVal.split(',')[0] || ''
+    } else {
+      const first = myVal.split(',')[0]
+      const bar = first.indexOf('|')
+      myAnswer = bar < 0 ? first : first.slice(0, bar)
+    }
+    if (!myAnswer) return null
+
+    // 干扰项：同桶内其它中文词的答案
+    const lines = rec.text.split('\n')
+    const start = Math.floor(Math.random() * lines.length)
+    const pool = []
+    for (let off = 0; off < lines.length && pool.length < 40; off++) {
+      const line = lines[(start + off) % lines.length]
+      if (!line) continue
+      const t = line.indexOf('\t')
+      if (t < 0) continue
+      const k = line.slice(0, t)
+      const v = line.slice(t + 1)
+      if (!k || k === zh || !v) continue
+      let a = ''
+      if (which === 'en') {
+        a = v.split(',')[0] || ''
+      } else {
+        const f = v.split(',')[0]
+        const bar = f.indexOf('|')
+        a = bar < 0 ? f : f.slice(0, bar)
+      }
+      if (!a || a === myAnswer) continue
+      if (pool.indexOf(a) === -1) pool.push(a)
+    }
+    if (pool.length < 2) return null
+
+    shuffle(pool)
+    const opts = [myAnswer].concat(pool.slice(0, 2))
+    shuffle(opts)
+    return {
+      stem: zh,
+      opts: opts,
+      answer: myAnswer,
+      entry: { w: which === 'en' ? myAnswer : zh, zh: zh, en: which === 'en' ? myAnswer : '', p: '' }
+    }
+  }).catch(function (e) {
+    console.log('[quiz] makeZhQuestion fail: ' + e)
+    return null
+  })
+}
+
 /**
  * 随机取词（每日学习用）
- * 从已加载的分片里随机抽；优先抽「有中文释义」的词条。
- * @param {number} n 取几个
- * @param {Array<string>} exclude 需要排除的词（避免和上次重复）
+ * ★ 读分片文本后按行取样，只解析命中的行
  */
 export function randomWords(n, exclude) {
   const count = n || 5
@@ -501,15 +714,14 @@ export function randomWords(n, exclude) {
   return loader.loadIndex().then(function (idx) {
     const letters = (idx && idx.letters) ? idx.letters.slice() : []
     if (!letters.length) return []
-    // ★ 串行加载，逐个分片累计，凑够 count 就停（避免一次解析多个分片吃内存）
     const pool = letters.slice()
     const cand = []
     const seen = {}
     let tried = 0
     const MAX_TRY = 4
+
     function step() {
       if (cand.length >= count || tried >= MAX_TRY || pool.length === 0) {
-        // 洗牌后取前 n 个
         for (let i = cand.length - 1; i > 0; i--) {
           const j = Math.floor(Math.random() * (i + 1))
           const t = cand[i]; cand[i] = cand[j]; cand[j] = t
@@ -518,16 +730,25 @@ export function randomWords(n, exclude) {
       }
       tried++
       const k = Math.floor(Math.random() * pool.length)
-      const letter = pool[k]
+      const key = pool[k]
       pool.splice(k, 1)
-      return loader.loadShard(letter).then(function (shard) {
-        if (shard && shard.entries) {
-          const list = shard.entries
-          for (let i = 0; i < list.length; i++) {
-            const e = list[i]
-            if (!e.zh || !e.w || skip[e.w] || seen[e.w]) continue
-            seen[e.w] = 1
-            cand.push(e)
+      return loader.loadShardByKey(key).then(function (shard) {
+        if (shard && shard.text) {
+          // ★ 随机起跳取样，避免每次都从头解析（也更随机）
+          const lines = shard.text.split('\n')
+          const total = lines.length
+          if (total > 0) {
+            const start = Math.floor(Math.random() * total)
+            for (let off = 0; off < total && cand.length < count * 3; off++) {
+              const line = lines[(start + off) % total]
+              if (!line) continue
+              const c = line.split('\t')
+              const w = c[1] || c[0]
+              const zh = c[3]
+              if (!w || !zh || skip[w] || seen[w]) continue
+              seen[w] = 1
+              cand.push({ w: w, p: c[2] || '', zh: zh, en: c[4] || '', ms: c[5] || '' })
+            }
           }
         }
         return step()
@@ -540,109 +761,92 @@ export function randomWords(n, exclude) {
   })
 }
 
-/**
- * 按词取词条（详情页 / 收藏跳转用）
- */
+/** 按词取词条（详情页用） */
 export function getEntry(word) {
   const norm = normalize(word)
   if (!norm) return Promise.resolve(null)
-  return loader.loadShard(norm.charAt(0)).then(function (shard) {
-    if (!shard) return null
-    if (shard.byWord && shard.byWord[norm]) return shard.byWord[norm]
-    // 含空格/连字符的词：按去分隔符形式再查一次
-    const list = shard.flat || []
-    for (let i = 0; i < list.length; i++) {
-      if (list[i].f === norm) return list[i].e
-    }
-    return null
+  return loader.loadShardByFlat(norm).then(function (shard) {
+    return loader.lookupShard(shard, norm)
   })
 }
 
-/**
- * 统一入口
- */
+/** 统一入口（旧接口保留） */
 export function search(query, mode) {
   if (!query) return Promise.resolve([])
   if (mode === MODE_ZH2MS) return searchPinyin(query)
   return searchMalay(query)
 }
 
-/* --------------------------- 复习测验 --------------------------- */
-
 /**
- * ★ 生成一道选择题（供 quiz 页调用）
- *
- * 关键设计：**干扰项从"正确答案所在分片"里取** —— 该分片已经加载在内存里，
- * 所以零额外 IO、零额外内存。避免为了凑选项去加载别的分片。
- *
- * @param {string} word 题干词（马来语）
- * @param {string} mode 'ms2zh'（题干马来语，选中文）| 'zh2ms'（题干中文，选马来语）
- * @returns {Promise<{stem, opts, answer, entry}|null>}
+ * ★ 生成一道选择题（quiz 页用）
+ * 干扰项从「答案所在分片」取 —— 该分片已在内存，零额外 IO。
  */
 export function makeQuestion(word, mode) {
   const w = String(word || '').trim()
   if (!w) return Promise.resolve(null)
-  return loader.loadShard(w.charAt(0)).then(function (shard) {
-    if (!shard || !shard.byWord) return null
-    const correct = shard.byWord[w] || null
+  return loader.loadShardByFlat(loader.flatKey(w)).then(function (shard) {
+    if (!shard || !shard.text) return null
+    const correct = loader.lookupShard(shard, w)
     if (!correct) return null
-    // 题干/答案随模式变：ms2zh 看马来语选中文；zh2ms 看中文选马来语；en2ms 看英文选马来语
-    const askMalay = (mode !== 'ms2zh')     // 答案是不是马来语
+
+    const askMalay = (mode !== 'ms2zh')
     const stem = (mode === 'zh2ms') ? (correct.zh || '')
       : (mode === 'en2ms') ? (correct.en || '')
       : correct.w
     if (!stem) return null
-    // 干扰项：同分片 + 有释义 + 不是答案本身
+
+    // ★ 干扰项：随机起跳取样（避免每次都从片头扫）
+    const lines = shard.text.split('\n')
+    const total = lines.length
     const pool = []
-    const list = shard.entries || []
-    for (let i = 0; i < list.length; i++) {
-      const e = list[i]
-      if (!e || e.w === correct.w) continue
-      if (!e.zh) continue
-      // ★ en2ms 模式下干扰项必须也有英文释义，否则选项里会出现空字符串
-      if (mode === 'en2ms' && !e.en) continue
-      // 词长接近，避免一眼看出
-      if (Math.abs(e.w.length - correct.w.length) > 3) continue
-      pool.push(e)
+    const start = total > 0 ? Math.floor(Math.random() * total) : 0
+    for (let off = 0; off < total && pool.length < 40; off++) {
+      const line = lines[(start + off) % total]
+      if (!line) continue
+      const c = line.split('\t')
+      const ew = c[1] || c[0]
+      if (!ew || ew === correct.w) continue
+      if (!c[3]) continue
+      if (mode === 'en2ms' && !c[4]) continue
+      if (Math.abs(ew.length - correct.w.length) > 3) continue
+      pool.push({ w: ew, zh: c[3], en: c[4] || '', p: c[2] || '' })
     }
 
-    // 洗牌取 2 个干扰项
     for (let i = pool.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1))
       const t = pool[i]; pool[i] = pool[j]; pool[j] = t
     }
     const distract = pool.slice(0, 2)
-    if (distract.length < 2) return null   // 选项不足 → 换下一题
+    if (distract.length < 2) return null
 
-    // 选项文本
     const text = function (e) {
       return askMalay ? e.w : (e.zh || '')
     }
-
     const opts = [correct].concat(distract).map(text)
-    // 洗牌选项
     for (let i = opts.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1))
       const t = opts[i]; opts[i] = opts[j]; opts[j] = t
     }
-
-    return {
-      stem: stem,
-      opts: opts,
-      answer: text(correct),
-      entry: correct
-    }
+    return { stem: stem, opts: opts, answer: text(correct), entry: correct }
   }).catch(function (e) {
     console.log('[quiz] makeQuestion fail: ' + e)
     return null
   })
 }
 
-/**
- * 释放分片缓存（页面离开时调用，降低手环内存压力）
- * ★ v0.11：改为全量释放 —— 原来只清分片，中文桶/拼音/英文表会持续驻留，
- *   反复进出页面后常驻内存不断上涨，最终触发重启。
- */
+/* --------------------------- 内存释放 --------------------------- */
+
+/** ★ 轻度释放（onHide）：只丢大件，保留常用马来语分片 */
 export function releaseShards() {
+  loader.trim()
+}
+
+/** ★ 全量释放（onDestroy） */
+export function releaseAll() {
   loader.releaseAll()
+}
+
+/** 调试用：当前缓存占用 */
+export function cacheStats() {
+  return loader.cacheStats()
 }

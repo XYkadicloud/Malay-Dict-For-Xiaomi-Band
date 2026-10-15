@@ -45,26 +45,36 @@
       </div>
     </div>
 
-    <!-- ②b 语言选择面板（点「语言按钮」时弹出） -->
-    <list class="wb-list" if="{{showLang}}" style="top: 200px; height: 144px;">
-      <list-item type="lang-h" class="li" style="height: 30px;">
+    <!-- ②b 语言/方向选择面板（点「语言按钮」时弹出） -->
+    <list class="wb-list" if="{{showLang}}" style="top: 200px; height: 186px;">
+      <list-item type="lang-h" class="li" style="height: 26px;">
         <div class="langh">
-          <text class="langh-tx fs-s-m">原语言 → 目标语言</text>
+          <text class="langh-tx fs-s-m">选择翻译方向</text>
         </div>
       </list-item>
-      <list-item type="lang-o" class="li" style="height: 36px;" @click="pickLangO('ms')">
-        <div class="lango {{langFrom === 'ms' ? 'lango-on' : ''}}">
-          <text class="lango-tx fs-s-m">马来语</text>
+      <list-item type="lang-o" class="li" style="height: 32px;" @click="pickMode('ms2zh')">
+        <div class="lango {{mode === 'ms2zh' ? 'lango-on' : ''}}">
+          <text class="lango-tx fs-s-m">马来语 → 中文</text>
         </div>
       </list-item>
-      <list-item type="lang-o" class="li" style="height: 36px;" @click="pickLangO('zh')">
-        <div class="lango {{langFrom === 'zh' ? 'lango-on' : ''}}">
-          <text class="lango-tx fs-s-m">中文</text>
+      <list-item type="lang-o" class="li" style="height: 32px;" @click="pickMode('zh2ms')">
+        <div class="lango {{mode === 'zh2ms' ? 'lango-on' : ''}}">
+          <text class="lango-tx fs-s-m">中文 → 马来语</text>
         </div>
       </list-item>
-      <list-item type="lang-o" class="li" style="height: 36px;" @click="pickLangO('en')">
-        <div class="lango {{langFrom === 'en' ? 'lango-on' : ''}}">
-          <text class="lango-tx fs-s-m">英语</text>
+      <list-item type="lang-o" class="li" style="height: 32px;" @click="pickMode('en2ms')">
+        <div class="lango {{mode === 'en2ms' ? 'lango-on' : ''}}">
+          <text class="lango-tx fs-s-m">英语 → 马来语</text>
+        </div>
+      </list-item>
+      <list-item type="lang-o" class="li" style="height: 32px;" @click="pickMode('zh2en')">
+        <div class="lango {{mode === 'zh2en' ? 'lango-on' : ''}}">
+          <text class="lango-tx fs-s-m">中文 → 英语</text>
+        </div>
+      </list-item>
+      <list-item type="lang-o" class="li" style="height: 32px;" @click="pickMode('en2zh')">
+        <div class="lango {{mode === 'en2zh' ? 'lango-on' : ''}}">
+          <text class="lango-tx fs-s-m">英语 → 中文</text>
         </div>
       </list-item>
     </list>
@@ -331,14 +341,18 @@ import * as search from '../../common/js/dict/search.js'
 const LANG_LABEL = {
   ms2zh: '马来语 → 中文',
   zh2ms: '中文 → 马来语',
-  en2ms: '英语 → 马来语'
+  en2ms: '英语 → 马来语',
+  zh2en: '中文 → 英语',
+  en2zh: '英语 → 中文'
 }
 
-/* 三种方向的文案 */
+/* 各方向的输入提示与占位符 */
 const MODE_CONF = {
   ms2zh: { ph: '输入马来语…' },
   zh2ms: { ph: '输入拼音或汉字…' },
-  en2ms: { ph: '输入英文…' }
+  en2ms: { ph: '输入英文…' },
+  zh2en: { ph: '输入中文词…' },
+  en2zh: { ph: '输入英文词…' }
 }
 
 export default {
@@ -391,12 +405,16 @@ export default {
       if (!s) { that.applyMode(); return }
       that.pageSize = s.pageSize || 10
       that.showPos = (s.showPhonetic !== false)
-      const from = s.defLang || 'zh'
-      that.langFrom = from
-      // ★ 马来语是查中文（ms2zh），其余是 X→马来语
-      that.mode = (from === 'ms') ? 'ms2zh' : (from + '2ms')
-      that.langLabel = LANG_LABEL[that.mode] || ''
-      // ★ 无论方向是否变化都要 applyMode（否则首次进入提示文案会错位）
+      const d = s.defLang || 'zh'
+      // ★ defLang 可能是「原语言」旧值(zh/ms/en)或「方向」新值(zh2en/en2zh)
+      let m = 'zh2ms'
+      if (d === 'ms') m = 'ms2zh'
+      else if (d === 'zh') m = 'zh2ms'
+      else if (d === 'en') m = 'en2ms'
+      else if (d === 'zh2en' || d === 'en2zh' || d === 'ms2zh' || d === 'zh2ms' || d === 'en2ms') m = d
+      that.mode = m
+      that.langFrom = (m === 'ms2zh') ? 'ms' : (m === 'zh2ms' || m === 'zh2en') ? 'zh' : 'en'
+      that.langLabel = LANG_LABEL[m] || ''
       that.applyMode()
     }).catch(function () {
       that.applyMode()
@@ -404,11 +422,14 @@ export default {
   },
   onHide() {
     this.clearTimer()
+    // ★ 轻量释放：只丢大件（中英互译桶/中文桶），保留常用马来语分片
+    //   这样再次进入页面无需重新解析 → 打开更快
     try { search.releaseShards() } catch (e) {}
   },
   onDestroy() {
     this.clearTimer()
-    try { search.releaseShards() } catch (e) {}
+    // ★ 全量释放：页面真正销毁时清空所有缓存
+    try { search.releaseAll() } catch (e) {}
   },
 
   clearTimer() {
@@ -427,7 +448,7 @@ export default {
   /** 面板出现时结果区下移；否则占满 */
   layout() {
     let y = 200
-    if (this.showLang) y = 344
+    if (this.showLang) y = 396          // 面板 186px + 200 起点
     else if (this.cands.length > 0) y = 248
     this.resTop = y
     this.resH = this.H - this.resTop
@@ -448,11 +469,12 @@ export default {
     this.layout()
   },
 
-  pickLangO(from) {
-    this.langFrom = from
-    // ★ 原语言 → 模式映射（马来语是查中文，不是 ms2ms）
-    this.mode = (from === 'ms') ? 'ms2zh' : (from + '2ms')
-    this.langLabel = LANG_LABEL[this.mode] || ''
+  /** ★ 直接按方向选择（v0.12：从「原语言」改为「方向」） */
+  pickMode(m) {
+    this.mode = m
+    this.langLabel = LANG_LABEL[m] || ''
+    // 兼容旧设置字段
+    this.langFrom = (m === 'ms2zh') ? 'ms' : (m === 'zh2ms' || m === 'zh2en') ? 'zh' : 'en'
     this.showLang = false
     this.cands = []
     this.rows = []
@@ -461,6 +483,11 @@ export default {
     this.allCount = 0
     this.hasMore = false
     this.applyMode()
+  },
+
+  /* 旧接口保留（设置页可能调用） */
+  pickLangO(from) {
+    this.pickMode((from === 'ms') ? 'ms2zh' : (from + '2ms'))
   },
 
   /* 旧 setMode 已被 pickLangO 取代（保留为 noop 防止外部误调） */
@@ -578,6 +605,10 @@ export default {
           that.hint2 = '未找到「' + q + '」对应的马来语'
         } else if (mode === 'en2ms') {
           that.hint2 = '未找到英文「' + q + '」'
+        } else if (mode === 'zh2en') {
+          that.hint2 = '未找到「' + q + '」对应的英文'
+        } else if (mode === 'en2zh') {
+          that.hint2 = '未找到英文「' + q + '」对应的中文'
         } else {
           that.hint2 = '未找到「' + q + '」'
         }

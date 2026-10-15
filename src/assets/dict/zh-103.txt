@@ -1,0 +1,167 @@
+僧	lebai|n,biara|n,fakir,rahib|n,swami,ubur-ubur api|n,zahid
+僧侣	rahib|n,swami
+僧帽	ubur-ubur api|n
+僧帽水	ubur-ubur api|n
+僧帽水母	ubur-ubur api|n
+僧院	biara|n
+內	petrol|n
+內燃	petrol|n
+內燃機	petrol|n
+內燃機的	petrol|n
+內燃機的燃	petrol|n
+內燃機的燃料	petrol|n
+剧	ahana,bangsawan|n,berdebar,berdengap,debar,dengap,drama,kencang|adj
+剧团	mendora
+剧团的	mendora
+剧团的一	mendora
+剧团的一种	mendora
+剧本	drama
+剧烈	berdebar,berdengap,debar,dengap,kencang|adj
+剧烈的	kencang|adj
+剧烈跳	berdebar,berdengap,debar,dengap
+剧烈跳动	berdengap,dengap,berdebar,debar
+卧	baring|v,bergelempangan,bergelimpangan,bungkang,gelempang,gelimpang,jengkang,lantar
+卧倒	bungkang,sungkur
+卧台	pentas|n
+卧室	pangking
+卧的	tiarap
+巧	coklat|n,kebetulan|adv,milo|n,munggil,renik,secara kebetulan
+巧克	coklat|n,milo|n
+巧克力	coklat|n,milo|n
+巧克力制	coklat|n
+巧克力制的	coklat|n
+巧克力牛	milo|n
+巧克力牛奶	milo|n
+巧的	renik,secara kebetulan
+忧	cemas,gelabah,gelisah|adj,kebimbangan,keluh-kesah,khuatir|adj,lara,lorat|adj
+忧伤	murung
+忧伤的	murung
+忧悒	muram
+忧悒的	muram
+忧愁	sendu,masyghul
+忧愁的	masyghul
+忧无	santai|adj
+忧无虑	santai|adj
+忧无虑的	santai|adj
+忧虑	cemas,kebimbangan,keluh-kesah,lara,lorat|adj,selempang,suspens
+忧郁	gelabah,morong
+惧	cemas hati,cuak|adj,gamam,gerun,gidik,jera,jeri,lasi
+惧不	gamam
+惧不安	gamam
+惧和	xenofobia|n
+惧和憎	xenofobia|n
+惧和憎恨	xenofobia|n
+惧和憎恨外	xenofobia|n
+惧和憎恨外国	xenofobia|n
+惧和憎恨外国人	xenofobia|n
+惧怕	gidik
+惧怕的	gidik
+慧	akal|n,cerdas,hikmah|n,hikmat,intelek,kecerdasan
+慧的	cerdas
+执	amalkan,bengal,berdegil|v,bertelagah,besar kepala,degil|adj,guam|n,hati batu
+执拗	bengal
+执掌	memangku
+执照	lesen|n
+执的	besar kepala,degil|adj,ungkal
+执行	amalkan,laku|n,melakukan|v,mengamalkan,menjalankan,salang|v
+执行死	salang|v
+执行死刑	salang|v
+拧	cubit|v,cubitan,jentik|n,mencubit,menjentik,getil,getu,picit
+拧捏	picit
+捧	belantan,menanang,menatang,menating,besbol|n,menyajikan|v,merangkup,rangkum
+捧出	menyajikan|v
+捧握	rangkum
+捧球	besbol|n
+捧着	merangkup
+摧	dondang sayang,meruntuhkan,perkosa
+摧残	perkosa
+摧毁	meruntuhkan
+摧眠	dondang sayang
+摧眠曲	dondang sayang
+旧	lama|adj,abang long|n,alaupunbegitu,alaupundemikian,baheula,juga|adv,kumat,kuna
+旧病	kumat
+旧病复	kumat
+旧病复发	kumat
+旧的	tua|adj,abang long|n,baheula,kuna,lusuh
+旧的形	baheula
+旧的形成	baheula
+歧	berselisih,diskriminasi|n,diskriminasi kaum|n,diskriminasi ras|n,diskriminasikan|v,ikhtilaf,mendiskriminasikan|v,perbezaan|n
+歧见	ikhtilaf
+歧视	diskriminasi|n,diskriminasikan|v,mendiskriminasikan|v,diskriminasi kaum|n,diskriminasi ras|n
+烧	bakar|v,jerang|v,angus,basmi,bernyala,bertih|n,dedar,demam|n
+烧光	terbakar
+烧垃	rabun|adj
+烧垃圾	rabun|adj
+烧垃圾以	rabun|adj
+烧垃圾以熏	rabun|adj
+烧垃圾以熏蚊	rabun|adj
+烧成	penunuan|n
+烧成灰	penunuan|n
+烧毁	basmi,sadau,tunu|v
+烧烤	sembilan puluh sembilan|num
+烧烤部	sembilan puluh sembilan|num
+烧烤部厨	sembilan puluh sembilan|num
+烧烤部厨司	sembilan puluh sembilan|num
+烧烤部厨司长	sembilan puluh sembilan|num
+烧焦	angus,siut,hangit|adj
+烧焦的	hangit|adj
+烧的	hangat|adj
+烧米	bertih|n
+照	alah|adj,amende|pron,ape|pron,bela,bercermin,bergambar,camne|adv,cantek|adj
+照亮	dilah|n
+照射	menyinari
+照射在	menyinari
+照拼	amende|pron,ape|pron,camne|adv,cantek|adj,dok|v,kete|n,mende|adv,menderong|n
+照拼法	amende|pron,ape|pron,camne|adv,cantek|adj,dok|v,kete|n,mende|adv,menderong|n
+照拼法发	amende|pron,ape|pron,camne|adv,cantek|adj,dok|v,kete|n,mende|adv,menderong|n
+照拼法发音	amende|pron,ape|pron,camne|adv,cantek|adj,dok|v,kete|n,mende|adv,menderong|n
+照料	bela,layan|v,merawat
+照明	menerangkan|v,sigi
+照片	gambar|n
+照理	sepantasnya,sepatutnya,sewajibnya|adv
+照相	kamera|n,sinematografi|n,studio
+照相术	sinematografi|n
+照相机	kamera|n
+照相馆	studio
+照镜	bercermin
+照镜子	bercermin
+照顾	pelihara|v,telantar
+照顾的	telantar
+燧	kerikil
+燧石	kerikil
+牧	chalet|n,gembala kambing,nomad,paderi|n,runas,sapi|n
+牧人	chalet|n
+牧人小	chalet|n
+牧人小屋	chalet|n
+牧师	paderi|n
+牧民	nomad
+牧民族	nomad
+牧牛	sapi|n
+牧羊	gembala kambing
+牧羊人	gembala kambing
+秧	sintar
+秧鸡	sintar
+继	anak angkat,aris,bapa tiri,berikut-ikut,ibu kualun,ibu tiri,keselanjaran|n,lanjutkan|v
+继人	aris
+继子	anak angkat
+继承	pelapis|n,pewarisan|n,waris|n
+继承人	waris|n
+继承法	pewarisan|n
+继承者	pelapis|n
+继母	ibu kualun,ibu tiri
+继父	bapa tiri,mentua|n
+继父母	mentua|n
+继的	berikut-ikut
+继续	keselanjaran|n,lanjutkan|v,meneruskan|v,teruskan|v,terus menerus
+继续地	terus menerus
+胧	balam|n,benta,guram,ilam-ilam,kabur|adj,rabun|adj
+胧包	benta
+胧的	guram,ilam-ilam,kabur|adj
+轧	getu,keriut
+轧声	keriut
+轧轧	keriut
+轧轧声	keriut
+铧	lanjam|n
+镧	lantanum|n
+韧	kenjal,kenyal,liat|adj,liut,mangar
+韧的	kenjal,kenyal,liat|adj,liut,mangar

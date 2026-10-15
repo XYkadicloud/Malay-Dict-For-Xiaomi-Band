@@ -1,0 +1,522 @@
+之	agsa,ahera,anak haram|n,andalas,anggota|n,antara|prep,aragas,asingkan
+之一	aragas,belantai,bengkarung|n,bengku,bermi,bertam,biawan,cupak|n
+之一干	cupak|n
+之一干冬	cupak|n
+之一种	aragas,belantai,bengkarung|n,bengku,bermi,bertam,biawan,ibus|n
+之三	rebab
+之三弦	rebab
+之三弦乐	rebab
+之三弦乐器	rebab
+之下	dalam keadaan
+之两	gu
+之两牛	gu
+之中	seri taman
+之中央	seri taman
+之主	tuan rumah
+之事	mencampuri
+之人	huski|n
+之仪	wiladan
+之仪式	wiladan
+之伤	birat
+之伤痕	birat
+之光	ahera
+之光圈	ahera
+之出	nibung
+之出血	nibung
+之分	asingkan
+之分开	asingkan
+之别	jauh berbeza
+之前	mengawal,kelibat
+之前后	kelibat
+之前后桨	kelibat
+之古	andalas
+之古名	andalas
+之名	bika,mandali,pakma,pulai,said,sentul|n
+之呼	azan|n
+之呼声	azan|n
+之地	gondol,gurun tandus,ladang
+之处	bezanya,sesapan
+之外	kelongsong,selain daripada
+之外皮	kelongsong
+之大	uba,wazir|n
+之大桶	uba
+之大臣	wazir|n
+之夭	cabut lari
+之夭夭	cabut lari
+之头	sigar
+之头巾	sigar
+之子	zadah|n,anak haram|n,oneng
+之子孙	oneng
+之害	jenangan
+之害虫	jenangan
+之宽	setelempap
+之居	isi negeri,isi rumah
+之居民	isi negeri,isi rumah
+之屋	samir
+之屋顶	samir
+之帆	pabuan,padau
+之帆桁	pabuan
+之干	bongkot
+之开	awal musim hujan
+之开始	awal musim hujan
+之情	kesyukuran|n
+之意	selera|n
+之意义	selera|n
+之成	anggota|n,mengislamkan|v
+之成为	mengislamkan|v
+之成为回	mengislamkan|v
+之成为回教	mengislamkan|v
+之成为回教徒	mengislamkan|v
+之成员	anggota|n
+之所	reban|n
+之护	sampir
+之护手	sampir
+之接	belas|num,si|art
+之接头	si|art
+之接头词	si|art
+之接尾	belas|num
+之接尾语	belas|num
+之数	kuatordesilion|num
+之敲	keletuk
+之敲击	keletuk
+之敲击声	keletuk
+之有	belantik
+之有弹	belantik
+之有弹性	belantik
+之有弹性捕	belantik
+之有弹性捕器	belantik
+之果	tengkaluk
+之果实	tengkaluk
+之枝	ranggas
+之树	zakum
+之植	kecubung
+之植物	kecubung
+之横	pabuan
+之横木	pabuan
+之涎	barut gantung
+之涎布	barut gantung
+之溶	cairkan
+之溶解	cairkan
+之物	kerikil,nadirat
+之痴	pak kaduk
+之痴汉	pak kaduk
+之瘤	sunti
+之瘤状	sunti
+之瘤状突	sunti
+之瘤状突起	sunti
+之皮	kedal,nobat
+之皮肤	kedal
+之皮肤病	kedal
+之皮鼓	nobat
+之盛	bacuk
+之盛水	bacuk
+之盛水器	bacuk
+之矛	piarit
+之称	perkelang
+之称号	perkelang
+之空	kolong
+之空间	kolong
+之类	ikan pias,jitah,pias,sentada
+之粮	roji
+之细	temiang
+之细竹	temiang
+之绿	pianggang
+之绿色	pianggang
+之绿色昆	pianggang
+之绿色昆虫	pianggang
+之脓	bubul
+之脓疮	bubul
+之花	puspajuita
+之茎	bongkot
+之衣	pendaga
+之衣箱	pendaga
+之讲	mimber
+之讲经	mimber
+之讲经台	mimber
+之边	jidar|n
+之边缘	jidar|n
+之遭	mata jahat|n
+之遭殃	mata jahat|n
+之遭殃的	mata jahat|n
+之遭殃的能	mata jahat|n
+之遭殃的能力	mata jahat|n
+之铃	kelintung
+之锤	ladung
+之长	sepenggalah
+之间	antara|prep,patio|n
+之间的	patio|n
+之间的一	patio|n
+之间的一片	patio|n
+之间的一片供	patio|n
+之间的一片供晴	patio|n
+之间的一片供晴天	patio|n
+之间的一片供晴天休	patio|n
+之间的一片供晴天休息	patio|n
+之间的一片供晴天休息用	patio|n
+之间的一片供晴天休息用的	patio|n
+之间的一片供晴天休息用的石	patio|n
+之间的一片供晴天休息用的石砌	patio|n
+之间的一片供晴天休息用的石砌空	patio|n
+之阔	telempap
+之青	agsa
+之青年	agsa
+之面	telekung
+之面幕	telekung
+之音	kerapis
+之食	mayung
+之食用	mayung
+之食用鱼	mayung
+之马	pantun|n
+之马来	pantun|n
+之马来诗	pantun|n
+之马来诗文	pantun|n
+之高	temenggung
+之高级	temenggung
+之高级官	temenggung
+之高级官员	temenggung
+之髻	selampit
+之鱼	piarit
+之鱼叉	piarit
+之黑	porong
+之黑点	porong
+之黑点痣	porong
+介	antara|prep,keberatan,kerang|n,memperkenalkan,menceburkan,perangkan,semberono|adj,tesmak
+介于	antara|prep
+介于两	antara|prep
+介于两者	antara|prep
+介于两者之	antara|prep
+介于两者之间	antara|prep
+介入	menceburkan
+介壳	tesmak
+介意	semberono|adj
+介意的	semberono|adj
+介类	kerang|n
+介绍	memperkenalkan
+介议	keberatan
+介词	perangkan
+克	bank harimau,coklat|n,croatia,daun pakau,dekagram|n,ishak,koruna|n,kroasia
+克世	olimpiad|n
+克世界	olimpiad|n
+克世界运	olimpiad|n
+克世界运动	olimpiad|n
+克世界运动大	olimpiad|n
+克世界运动大会	olimpiad|n
+克兰	sindrom klinefelter|n
+克兰费	sindrom klinefelter|n
+克兰费尔	sindrom klinefelter|n
+克兰费尔特	sindrom klinefelter|n
+克兰费尔特综	sindrom klinefelter|n
+克兰费尔特综合	sindrom klinefelter|n
+克兰费尔特综合征	sindrom klinefelter|n
+克共	republik czech
+克共和	republik czech
+克共和国	republik czech
+克力	coklat|n,milo|n
+克力制	coklat|n
+克力制的	coklat|n
+克力牛	milo|n
+克力牛奶	milo|n
+克博	tanglung labu|n
+克博士	tanglung labu|n
+克唐	mekdi
+克唐纳	mekdi
+克思	marxisme|n
+克思主	marxisme|n
+克思主义	marxisme|n
+克思的	marxisme|n
+克服	mengatasi
+克朗	koruna|n
+克牌	daun pakau
+克罗	croatia,kroasia
+克罗地	croatia,kroasia
+克罗地亚	croatia,kroasia
+克里	ukulele|n
+克里里	ukulele|n
+克里里琴	ukulele|n
+凋	bayam|n,layu|adj,lisut,luruh|v
+凋花	bayam|n
+凋落	luruh|v
+凋谢	lisut,layu|adj
+凋谢的	layu|adj
+勋	lencana|n,pingat|n
+勋章	lencana|n,pingat|n
+友	bersahabat,berteman,boifren|n,campur gaul,gelfren|n,habib,handai taulan,kaum|n
+友人	rodong,saki
+友们	handai taulan
+友善	ramah
+友善的	ramah
+友态	meminta|v
+友态度	meminta|v
+友态度对	meminta|v
+友态度对待	meminta|v
+友态度对待请	meminta|v
+友态度对待请求	meminta|v
+友谊	persahabatan|n,silaturahim
+埋	benam,hendap,lepur,memendamkan,mengebumikan,menghendap,menguburkan,merajuk|v
+埋伏	hendap,menghendap,suruk,tiarap
+埋伏的	tiarap
+埋入	benam
+埋怨	merajuk|v
+埋葬	mengebumikan,menguburkan
+埋藏	memendamkan,pendam
+奋	berangsang,euforia|n,galakkan,gerang,perjuangan|n,rajin|adj,teruja|adj
+奋剂	galakkan
+奋斗	perjuangan|n
+奋的	gerang,teruja|adj
+始	asli|adj,awal musim hujan,azali,buka bicara,hutan belantara,kekal-abadi,konvokesyen|n,memulakan|v
+始无	kekal-abadi
+始无终	kekal-abadi
+始无终的	kekal-abadi
+始森	hutan belantara
+始森林	hutan belantara
+始民	sakai|n
+始民族	sakai|n
+始演	buka bicara
+始演说	buka bicara
+始的	asli|adj,primitif
+始的真	asli|adj
+始的真正	asli|adj
+始的真正的	asli|adj
+始种	semang
+始种族	semang
+始种族名	semang
+屋	alas rumah,atap|n,barung|n,bikin rumah,bumbung|n,chalet|n,cucuran,dangau
+屋之	isi rumah
+屋之居	isi rumah
+屋之居民	isi rumah
+屋子	bikin rumah,patio|n
+屋子与	patio|n
+屋子与花	patio|n
+屋子与花园	patio|n
+屋子与花园之	patio|n
+屋子与花园之间	patio|n
+屋子与花园之间的	patio|n
+屋子与花园之间的一	patio|n
+屋子与花园之间的一片	patio|n
+屋子与花园之间的一片供	patio|n
+屋子与花园之间的一片供晴	patio|n
+屋子与花园之间的一片供晴天	patio|n
+屋子与花园之间的一片供晴天休	patio|n
+屋子与花园之间的一片供晴天休息	patio|n
+屋子与花园之间的一片供晴天休息用	patio|n
+屋子与花园之间的一片供晴天休息用的	patio|n
+屋子与花园之间的一片供晴天休息用的石	patio|n
+屋子与花园之间的一片供晴天休息用的石砌	patio|n
+屋子与花园之间的一片供晴天休息用的石砌空	patio|n
+屋宇	setinggan
+屋檐	cucuran,rabung
+屋津	elaun rumah
+屋津贴	elaun rumah
+屋的	alas rumah
+屋的地	alas rumah
+屋的地基	alas rumah
+屋脊	bumbung|n,perabung
+屋里	tiang rumah
+屋里的	tiang rumah
+屋里的柱	tiang rumah
+屋顶	atap|n,bumbung|n,payun,rabung,wuwungan,kubah,pandan duri|n,pandan hutan|n
+屋顶的	pandan duri|n,pandan hutan|n
+屋顶的茅	pandan duri|n,pandan hutan|n
+屋顶的茅草	pandan duri|n,pandan hutan|n
+恋	asmara|n,berahi,cinta kasih,cinta monyet|n,cinta segi tiga|n,dendam berahi,gila|adj,gila berahi
+恋爱	asmara|n,berahi,kasih-sayang|n,kasmaran|v,cinta segi tiga|n,musahaqah|n
+恋爱的	musahaqah|n
+恋的	gila|adj
+態	petrol|n
+態烴	petrol|n
+態烴類	petrol|n
+態烴類組	petrol|n
+態烴類組成	petrol|n
+手	panca|num,tangan|n,adik beradik|n,akordion|n,algojo,anak kapal|n,andok|n,anduk|n
+手下	bawahan
+手下的	bawahan
+手击	sep|n
+手击掌	sep|n
+手刷	berus|n
+手势	gubit
+手叉	telekan
+手叉腰	telekan
+手呼	gubit
+手呼唤	gubit
+手器	brek
+手套	sarung tangan
+手工	kerajinan
+手巾	andok|n,anduk|n,kainsal|n,sapu tangan|n,tuala|n
+手帕	saputangan|n
+手座	senta
+手快	lincah,lipas kudung|n
+手快脚	lincah,lipas kudung|n
+手想	jengkau,jingkau
+手想拿	jengkau,jingkau
+手或	kelatu,pendongkok
+手或书	kelatu
+手或书本	kelatu
+手或书本打	kelatu
+手或书本打头	kelatu
+手或铁	pendongkok
+手或铁环	pendongkok
+手指	jari|n,bekas jari,buku jadi,cap jari|n,celah jari,membibir
+手指关	buku jadi
+手指关节	buku jadi
+手指印	bekas jari,cap jari|n
+手指携	membibir
+手指携带	membibir
+手指缝	celah jari
+手掂	menggamak,menimang-nimang
+手掂量	menggamak,menimang-nimang
+手掌	tapak|n,tapak tangan|n,telapak tangan|n
+手提	beg jinjing|n,beg tangan|n,gerudi tukul|n,menjinjing
+手提包	beg tangan|n
+手提袋	beg jinjing|n
+手提钻	gerudi tukul|n
+手支	bertelekan
+手支撑	bertelekan
+手术	operasi|n,bedah,membedah
+手杖	tongkat|n
+手枪	pistol|n,empat puluh lima|num
+手架	perancah|n
+手榴	bom tangan,granat
+手榴弹	bom tangan,granat
+手段	daya upaya,helah,helat daya,ikhtiar|n,muslihat|n,olahan,tindakan|n,upaya
+手法	daya upaya
+手淫	locok,main sabun|v,rancap
+手猿	tekah
+手环	rantai tangan
+手球	bola baling|n
+手瓜	labu siam|n
+手电	lampu picit,lampu suluh
+手电筒	lampu picit,lampu suluh
+手稿	manuskrip|n,naskhah|n
+手笨	berat tangan
+手笨脚	berat tangan
+手笨脚的	berat tangan
+手脚	bubul
+手脚上	bubul
+手脚上之	bubul
+手脚上之脓	bubul
+手脚上之脓疮	bubul
+手腕	pergelangan tangan|n,diplomasi
+手表	jam tangan|n,mempersaksikan
+手袋	saku
+手语	bahasa isyarat|n
+手足	adik beradik|n,kedal
+手足之	kedal
+手足之皮	kedal
+手足之皮肤	kedal
+手足之皮肤病	kedal
+手道	lambai
+手道别	lambai
+手钻	gerudi
+手铐	belenggu,gari|n,pasung,membelenggu
+手镯	gelang|n
+手长	serang|v
+手风	akordion|n,hubub|n
+手风琴	akordion|n
+手风箱	hubub|n
+旋	baling-baling|n,berkisar,berpual-pual,berpusar,berputar,bindu,bubut|n,gisar
+旋卷	olak|n
+旋律	irama,ritma|n,merdu
+旋律的	merdu
+旋的	wijaya
+旋盘	bindu
+旋转	berkisar,berpual-pual,berpusar,berputar,bubut|n,gisar,kidar,kintar
+旋转炮	rentaka
+旋钉	sekerup
+旋钻	pelir itik|n,pelitik|n,ulir
+旋风	pusaran angin,puting beliung|n,siklon
+晋	kuching
+棋	buah catur|n,dam|adj
+棋子	buah catur|n
+棋棋	buah catur|n
+棋棋子	buah catur|n
+测	agak-agak,aham,arkitek|n,batu duga,diamati|v,duga|v,dugaan,gamak
+测在	mendugakan
+测师	arkitek|n
+测度	ukur|v
+测深	perum
+测深锤	perum
+测的	diamati|v
+测视	jeling|v
+测量	mengukur,sipat,sukat|n,ukur|v,ukuran,batu duga,handasah,juruukur|n
+测量员	juruukur|n
+测量学	handasah
+测量铅	batu duga
+测验	menguji,periksa|v
+淋	menjirus,ais krim|n,aiskrim|n,basah kuyup,bintang kartika,bintang tujuh,gonorea|n,jirus
+淋巴	bintang kartika,bintang tujuh
+淋巴结	bintang kartika,bintang tujuh
+淋巴结肿	bintang kartika,bintang tujuh
+淋巴结肿块	bintang kartika,bintang tujuh
+淋水	jirus
+淋淋	basah kuyup
+淋淋的	basah kuyup
+淋病	gonorea|n
+淋的	basah kuyup
+滋	berkhasiat|adj,tonik
+滋养	berkhasiat|adj
+滋养的	berkhasiat|adj
+滋补	tonik
+滋补品	tonik
+磋	perunding|n
+磋商	perunding|n
+磋商者	perunding|n
+秋	ayunan,buaian|n,itik gerigi|n,musim gugur|n,musim luruh|n
+秋天	musim gugur|n,musim luruh|n
+秋沙	itik gerigi|n
+秋沙鸭	itik gerigi|n
+秋迁	ayunan,buaian|n
+立	adakan,bangun|v,berazam|adj,bercita-cita,berdasarkan|v,berjasa,berkecuali,berparti|adj
+立不	gelisah|adj,pegan,pegun,terpegun,uncang
+立不动	pegan,pegun,terpegun
+立不安	gelisah|adj,uncang
+立刻	dengan segera,lantas|adv,merta,serta-merta,sertamerta
+立功	berjasa
+立即	merta,mi segera|n,serta-merta,sertamerta
+立国	neutral
+立场	pendirian,luntur
+立场不	luntur
+立场不稳	luntur
+立基	berdasarkan|v,berparti|adj
+立基于	berdasarkan|v,berparti|adj
+立志	berazam|adj,bercita-cita
+立方	kubus|n
+立方体	kubus|n
+立正	turun senjata|n
+立正的	turun senjata|n
+立正的姿	turun senjata|n
+立正的姿势	turun senjata|n
+立的	cacak,melincirkan|v,neutral,swasta|adj,tegak|adj,terpencil|adj
+立足	tumpu|v
+立足地	tumpu|v
+筋	keting|n,geronyot,jungkir,lepuk,lidi,puris,sawan,sendi|n
+筋斗	jungkir,lepuk
+聋	tuli|adj,bisu tuli,labang,memekakkan|v,pekak|adj,pekakkan|v,terpekak|v,tilikan
+聋哑	bisu tuli
+聋的	pekak|adj,labang
+腋	kelek|n,ketiak|n
+腋窝	kelek|n,ketiak|n
+蛋	telur|n,albumen,ayam dara,bolu,bujur telur,bulat panjang,dadar,hemoglobin
+蛋卷	telur dadar|n
+蛋奶	kastard|n
+蛋奶糕	kastard|n
+蛋形	bujur telur,bulat panjang
+蛋形的	bulat panjang
+蛋白	albumen,zat telur,hemoglobin,protin
+蛋白质	protin,zat telur,hemoglobin
+蛋的	ayam dara
+蛋的雌	ayam dara
+蛋的雌鸡	ayam dara
+蛋糕	bolu,kek|n,kastard|n
+蛋肉	mertabak
+蛋黄	kuning telur|n,mayones|n
+蛋黄酱	mayones|n
+蟋	cengkerik|n,jengkerik,keridik
+蟋蟀	cengkerik|n,jengkerik,keridik
+诋	jujat,umpatan
+诋毁	jujat,umpatan
+跋	meranduk|v
+跋涉	meranduk|v
+酋	amir,batin,lahad datu,orang besar,penggawa|n,penghulu|n
+酋长	amir,batin,lahad datu,orang besar,penggawa|n,penghulu|n
+铋	bismut|n,timah wurung|n
+陋	jelik

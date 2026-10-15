@@ -49,6 +49,13 @@
         </div>
       </list-item>
       <list-item type="m" class="li" style="height: 62px;" if="{{stage === 'start'}}">
+        <div class="mcard {{pickMode === 'zh2en' ? 'mcard-on' : ''}}" style="height: 54px;"
+             @click="setPickMode('zh2en')">
+          <text class="mcard-t fs-t-m">中文 → 英语</text>
+          <text class="mcard-s fs-s-m">看中文选英文</text>
+        </div>
+      </list-item>
+      <list-item type="m" class="li" style="height: 62px;" if="{{stage === 'start'}}">
         <div class="mcard {{pickMode === 'wrong' ? 'mcard-on' : ''}}" style="height: 54px;"
              @click="setPickMode('wrong')">
           <text class="mcard-t fs-t-m">只练错题</text>
@@ -331,6 +338,7 @@ export default {
   setPickMode(m) {
     this.pickMode = m
     this.stemLabel = (m === 'zh2ms') ? '选出马来语'
+      : (m === 'zh2en') ? '看中文，选出英语'
       : (m === 'en2ms') ? '看英文，选出马来语'
       : '选出中文意思'
   },
@@ -392,8 +400,9 @@ export default {
         that.loadQuestion()
         return
       }
-      // ★ 收藏/错词本都空 → 从词库随机抽词（否则「开始练习」会一直空着）
-      return search.randomWords(BATCH).then(function (list) {
+      // ★ 收藏/错词本都空 → 从词库随机抽词（按当前方向抽，否则题库与题干语言不匹配）
+      const drawMode = (that.pickMode === 'wrong') ? 'ms2zh' : that.pickMode
+      return search.randomWordsByMode(drawMode, BATCH, []).then(function (list) {
         const arr = list || []
         that.queue = []
         for (let i = 0; i < arr.length; i++) that.queue.push(arr[i].w)
@@ -432,7 +441,7 @@ export default {
     this.token = this.token + 1
     const tk = this.token
 
-    search.makeQuestion(word, mode).then(function (q) {
+    search.makeQuestionByMode(word, mode).then(function (q) {
       if (tk !== that.token) return
       that.loading = false
       if (!q) {

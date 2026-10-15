@@ -1,1 +1,34 @@
-{"en2ms":{"quite":["agak","keabu-abuan","kemasam-masaman"],"quantity":["amaun","anu","dikit","kadar","kuantiti"],"quiet":["anteng","diam","diem","hana","pendiam","senyap"],"quota":["bahagian","kuota"],"quartz":["batu telerang","kuarza"],"quality":["berkualiti","keabnormalan","kebaharuan","kebutahurufan","kecendekiawanan","kecurigaan"],"queer":["budaya songsang"],"qipao":["ceongsam"],"quick":["cepat","cepat jalan","gentar","pantas","segera"],"quickly":["cepat-cepat","kong","lekas","secepat mungkin","selekas mungkin"],"quick-witted":["cerdik"],"quarrel":["gaduh"],"qanb":["gambus"],"quarterstaff":["gayung"],"quake":["gempa"],"qasidah":["kasidah"],"quickness":["keligatan"],"quietness":["kesunyian"],"quadrillion":["kuadrilion"],"quarry":["kuari","makdan"],"quattuordecillion":["kuatordesilion"],"quindecillion":["kuindesilion"],"quintillion":["kuintilion"],"quiz":["kuiz"],"question":["menjawab","pertanyaan","soal","soalan"],"queenstown":["pasir panjang"],"qur":["pengajian","quran"],"quarter":["perempat","suku"],"queen":["permaisuri","ratu","suri"],"quail":["puyuh"],"quince":["safarjal"],"quadrilateral":["segi empat"],"questions":["soalan lazim"],"quran":["tadarus"]}}
+qanb	gambus|n
+qasidah	kasidah
+qipao	ceongsam|n
+quadrilateral	segi empat|n
+quadrillion	kuadrilion|num
+quail	puyuh|n
+quake	gempa|n
+quality	berkualiti|adj,keabnormalan|n,kebaharuan|n,kebutahurufan|n,kecendekiawanan|n,kecurigaan|n
+quantity	amaun|n,anu|n,dikit|n,kadar|n,kuantiti|n
+quarrel	gaduh|v
+quarry	kuari|n,makdan|n
+quarter	perempat|n,suku|n
+quarterstaff	gayung|n
+quartz	batu telerang|n,kuarza|n
+quattuordecillion	kuatordesilion|num
+queen	permaisuri|n,ratu|n,suri|n
+queenstown	pasir panjang
+queer	budaya songsang|n
+question	menjawab|v,pertanyaan|n,soal|v,soalan|n
+questions	soalan lazim|n
+quick	cepat|adj,cepat jalan|n,gentar|n,pantas|adj,segera|adv
+quick-witted	cerdik|adj
+quickly	cepat-cepat|adv,kong|adj,lekas|adv,secepat mungkin|adv,selekas mungkin|adv
+quickness	keligatan|n
+quiet	anteng|n,diam|adj,diem|adj,hana|adj,pendiam|n,senyap|adj
+quietness	kesunyian|n
+quince	safarjal|n
+quindecillion	kuindesilion|num
+quintillion	kuintilion|num
+quite	agak|adv,keabu-abuan|adj,kemasam-masaman|adj
+quiz	kuiz|n
+quota	bahagian|n,kuota|n
+qur	pengajian|n,quran|n
+quran	tadarus|n

@@ -1,0 +1,225 @@
+严	agustus,amati,ambil berat,bengis|adj,bulan lapan|n,parah,serius|adj,tahana|n
+严厉	amati,bengis|adj
+严厉的	bengis|adj,amati
+严厉的检	amati
+严厉的检查	amati
+严格	vegan|n
+严格的	vegan|n
+严格的素	vegan|n
+严格的素食	vegan|n
+严格的素食主	vegan|n
+严格的素食主义	vegan|n
+严格的素食主义者	vegan|n
+严的	agustus,bulan lapan|n
+严肃	serius|adj
+严肃的	serius|adj
+严重	teruk,ambil berat,parah,serius|adj
+严重的	parah,serius|adj
+侥	punci,saruk
+侥幸	punci,saruk
+厥	keta|n,kuar|v,lali|adj,tau|v
+厥的	keta|n,kuar|v,lali|adj,tau|v
+夥	komrad|n
+夥伴	komrad|n
+妥	sindrom tourette|n,tolak ansur|n
+妥协	tolak ansur|n
+妥瑞	sindrom tourette|n
+妥瑞症	sindrom tourette|n
+娥	bulan perbani,cendera|n
+娥眉	bulan perbani
+娥眉月	bulan perbani
+急	bingas,cegar,darurat|n,deras|adj,derau|v,galgal,ganjur,gegas
+急促	laju|adj,gopoh
+急促的	gopoh
+急噪	memek
+急噪的	memek
+急尖	suda|n
+急尖的	suda|n
+急忙	gegas,tersera-sera,udap-udap
+急忙忙	tersera-sera
+急忙的	gegas,udap-udap
+急急	tersera-sera
+急急忙	tersera-sera
+急急忙忙	tersera-sera
+急性	bingas
+急性的	bingas
+急拉	ganjur,mengganjur
+急救	rawatan|n
+急旋	ligat|adj
+急流	cegar,jeram,riam|n,derau|v
+急流的	derau|v
+急状	darurat|n,kecemasan|n
+急状况	kecemasan|n
+急状态	darurat|n
+急的	galgal,tergempar
+急躁	bingas
+急躁的	bingas
+急进	radikal
+急进的	radikal
+急迫	pusa
+急速	deras|adj,keligatan|n,zum|n,zum dekat|n,zumkan|v
+急速上	zum|n,zum dekat|n,zumkan|v
+急速上升	zum|n,zum dekat|n,zumkan|v
+报	acang-acang|n,akhbar|n,arta,artaberita,artaharian,balas|v,balas budi,balas dendam|v
+报仇	balas dendam|v,tuntut bela,membela
+报信	acang-acang|n
+报信者	acang-acang|n
+报告	hayat umum,lamar|v,lapor|n,laporan|n,melaporkan,nyatakan,repot,unjuk
+报告书	penyata|n
+报告人	modin
+报告员	juruacara,juruhebah|n
+报员	peramal|n
+报复	marjik
+报导	arta
+报应	balasan|n,kisas
+报恩	balas budi,balas jasa
+报机	telegraf,teleprinter
+报生	surat lahir
+报生纸	surat lahir
+报章	makalah|n
+报章上	makalah|n
+报章上的	makalah|n
+报章上的文	makalah|n
+报章上的文章	makalah|n
+报答	balas|v,balas budi,balas jasa
+报答功	balas jasa
+报答功劳	balas jasa
+报纸	akhbar|n,kuran,surat khabar|n,suratkhabar|n
+报酬	pahala|n,upah|n
+挥	buang wang,gamit,komandan,kundang,lambai,lampu isyarat|n,lela,lisut
+挥动	melambai-lambaikan
+挥官	komandan,panglima|n
+挥手	gamit,lambai
+挥手道	lambai
+挥手道别	lambai
+挥灯	lampu isyarat|n
+挥舞	lela
+挥部	markas
+挥霍	buang wang
+挥霍无	buang wang
+挥霍无度	buang wang
+挥鞭	lisut
+挥鞭声	lisut
+接	arakian,awalan,bahawa|conj,belas|num,bercium,berdampingan,berikut-ikut,bersenyawa
+接受	lulus,terima|v,terkabul
+接口	sukan elektronik|n
+接合	bersenyawa,senyawa,temu|v
+接吻	bercium,kecup,kicupan
+接头	awalan,si|art
+接头词	si|art
+接头语	awalan
+接头语如	awalan
+接客	objek tepat|n
+接客体	objek tepat|n
+接宾	objek sipi|n
+接宾语	objek sipi|n
+接尾	belas|num,kah,kan|adv,lah|part
+接尾语	kan|adv,lah|part,belas|num,kah
+接式	labial|adj
+接式的	labial|adj
+接收	menampung
+接生	bidan|n
+接生妇	bidan|n
+接痕	lerang
+接痕的	lerang
+接的	relatif|adj
+接着	arakian,hatta,lanjar,selanjutnya
+接线	operetor
+接线生	operetor
+接词	bahawa|conj,kata hubung|n,kata penghubung|n,sendi kata
+接踵	datang bertapak
+接踵而	datang bertapak
+接踵而至	datang bertapak
+接近	berdampingan,ganding,mendampingkan,pendekatan|n,penganggaran|n,rapat|adj,tekis,damping
+接近的	damping
+接连	berturut-turut,jerembet,berikut-ikut
+接连的	berikut-ikut
+斥	locok,membanjiri,pulaukan,sergah,tengking
+斥骂	locok,sergah
+春	mada,mata air|n,menta,musim bunga|n,pemanis,popia|n,puspajuita
+春卷	popia|n
+春天	mata air|n,musim bunga|n
+春期	mada,menta
+春期中	mada
+春期中的	mada
+春期中的象	mada
+春期的	menta
+春期的鸣	menta
+春期的鸣叫	menta
+春药	pemanis
+沥	asflat,derai
+沥声	derai
+沥青	asflat
+津	elaun,elaun bersara,elaun hidup,elaun rumah,mesara,musara,sara
+津贴	elaun,musara,elaun bersara,elaun hidup,elaun rumah,mesara,sara
+津贴金	elaun,mesara,sara
+猥	carut
+猥亵	carut
+甥	anak penakan
+疥	kersang,nyiat-nyiat
+疥癣	nyiat-nyiat
+疥癣治	nyiat-nyiat
+疥癣治疗	nyiat-nyiat
+疥癣治疗剂	nyiat-nyiat
+疥癣治疗剂的	nyiat-nyiat
+疥癣治疗剂的药	nyiat-nyiat
+疥癣治疗剂的药草	nyiat-nyiat
+疥的	kersang
+瞥	memalis,palis,sekilas|adv,sepintas lalu
+瞥见	memalis,palis
+窥	inding,jelau,jengah|v,jenguk
+窥探	jenguk
+窥视	inding,jelau,jengah|v
+粥	bubur|n,kanji|n
+肥	ampul,bagur,baja|n,baja air,baja serbuk,bayak,boyak,gepuk
+肥大	ampul,bayak
+肥大而	bayak
+肥大而矮	bayak
+肥大而矮的	bayak
+肥料	baja|n,baja air,pupuk|n,rabuk|n,baja serbuk,guano
+肥沃	kemandulan|n,subur|adj
+肥沃的	subur|adj
+肥皂	sabun|n
+肥的	gepuk,sintal
+肥胖	bagur,kebayakan,mintal,boyak,montel|adj,sintal,tembam
+肥胖又	montel|adj
+肥胖又可	montel|adj
+肥胖又可爱	montel|adj
+肥胖又可爱的	montel|adj
+肥胖的	boyak,sintal,tembam
+芥	sawi,sesawi
+芥菜	sesawi
+营	batalion,berek|n,berkhemah,kem|n,khemah|n,mengelola,mengusahakan,menyelenggarakan
+营寨	khemah|n
+营成	sektor swasta|n
+营成分	sektor swasta|n
+蜥	bengkarung|n,biancak|n,biawak,cicak|n,kadal,kubin,semandar|n
+蜥蜴	cicak|n,kadal,bengkarung|n,biawak,kubin,semandar|n
+蜥蜴之	bengkarung|n
+蜥蜴之一	bengkarung|n
+蜥蜴之一种	bengkarung|n
+褥	selimut|n,tilam|n,bantal|n,kusyen|n,selimutkan
+讥	cemuh,ejek|v,giat,sindiran
+讥笑	cemuh,ejek|v,giat
+讥讽	sindiran
+败	alah|adj,bantut,gagal|v,gawak|v,kapiran,kegagalan|n,kekalahan,kolokan
+败北	lengit,tewas
+败坏	lebun,kolokan,lecuh,lohoh,selungkang
+败坏的	kolokan,lecuh,lohoh,selungkang
+败性	septik
+败性的	septik
+败的	korup|adj,pereh,seman,tembelang
+钥	kekunci|n,kunci|n
+钥匙	kekunci|n,kunci|n
+锥	gurdi,memusut,dabus,gerodi,jara,langsar,lapun,lengsar
+锥体	tirus
+锥子	gerodi,jara,pusut
+锥形	lapun,lengsar,limas|n,runjung
+锥形柄	limas|n
+锥形柄勺	limas|n
+锥形的	lengsar
+锥形鱼	lapun
+锥形鱼井	lapun
+锥行	langsar
+锥钻	lirik|n
+鸥	burung camar|n,simbang

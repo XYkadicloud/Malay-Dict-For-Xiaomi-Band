@@ -1,1 +1,795 @@
-{"en2ms":{"cappella":["a cappella","a kapela"],"century":["abad","kurun"],"cloud":["abal","awan","mendung"],"chrysemys":["abau"],"colourless":["abiad"],"chickenpox":["abilah"],"charcoal":["abnus","arang"],"chinese":["aboi","amoi","boi","cainis","chin","cina"],"cut":["abtar","kerat","membantai","potong","potongan","putus"],"custom":["adat","resam"],"compete":["adu"],"contest":["adu"],"charm":["afsun","pikat","pukau"],"cooking":["air tangan","belanga"],"cream":["aiskrim","krim"],"cabinet":["ajaibkhanah","kabinet","madani"],"curiosities":["ajaibkhanah"],"conclusion":["akhir","kesimpulan"],"character":["akhlak","aksara","perangai","teta","watak"],"consequence":["akibat"],"child":["alang","anak alang","anak angah","anak emas","anak haram","anak hitam"],"carries":["alas kubur","pendukung"],"christian":["alkitab"],"cupboard":["almari","gerobok","lemari","sarah"],"couch":["amben"],"coitus":["ampek"],"children":["anak-anak","kanak-kanak","masak-masak"],"chow":["anjing chow"],"corgi":["anjing corgi"],"case":["apa hal","fasal","kalau","kes","perkara","peti"],"come":["apa pasal","berasal","datang","jom","lungsur","mai"],"coal":["arang","bara"],"current":["arus","kini","terkini"],"clipping":["astaga","astakona","cyber","dah","insta","pat"],"castle":["astana","istana","puri","tir"],"care":["asuh","endah","kasih","kisah","mempedulikan","peduli"],"commencement":["awal","konvokesyen"],"careful":["awas","berhati-hati","cermat","curiga"],"chick":["awek"],"chicken":["ayam","ayam goreng","ayam katik"],"copulate":["ayut","kongkek"],"chapter":["bab","babak"],"chronicle":["babad"],"carpet":["babut","permaidani"],"clown":["badut","membadut","pelawak"],"close":["bagai aur dengan tebing","dekat","kejam","member","menutup","pejam"],"content":["bahagia","bahagiakan"],"conjunctive":["bahawa"],"country":["balad","desa","kerakyatan","negara","negara dolar"],"community":["balai raya","kaum","komuniti","umat islam","ummah"],"centre":["balai raya"],"capital":["balik pulau","hukuman mati","ibu kota","ibu negara","ibu negeri","laba modal"],"cockscomb":["balung"],"climber":["banar"],"cordial":["bancau","bandung"],"census":["banci"],"city":["bandar","bandar raya","bentong","budak bandar","cyberjaya","ibu negara"],"cities":["bandaran","perbandaran"],"comparison":["banding"],"cassava":["bandong","ubi kayu"],"call":["bang","hai","hoi","laung","menelefon","mengabsen"],"carcass":["bangkai"],"cimb":["bank sotong"],"cancer":["barah","kanser"],"coconut":["batok","kelambir","kelapa","nyiur","santan"],"coral":["batu karang","dedap","karang","terumbu karang"],"cough":["batuk"],"carry":["bawa","dukung","junjung","kendong","kepit","mengelek"],"curved":["bawar","beladau"],"cash":["bayar waktu terima","tunai"],"cod":["bayar waktu terima"],"cycle":["beca"],"cub":["becat"],"chat":["beka","berbual","berkata-kata","bual","obrol","perbualan"],"create":["bekaskan","bikin","buat","cipta","membuat","mencipta"],"condiment":["belacan","perencah"],"crack":["belah"],"cauldron":["belanga","kaldron","kancah","kawah","tahang"],"crab":["belangkas","kepiting","ketam angin","ketam bunga","ketam nipah","ketam rebab"],"carefully":["belek"],"coil":["belit","gegelung","gelung","lingkaran ubat nyamuk"],"caterpillar":["beluncas","ulat bulu"],"canniformis":["bemban"],"calamity":["bencana"],"cataclysm":["bencana"],"catastrophe":["bencana","malapetaka"],"constrained":["bengik"],"chest":["bengik","dada","peti"],"crooked":["bengkong","lok"],"continent":["benua","tanah raya"],"carabao":["benuang"],"centuries":["berabad-abad"],"cerai-berai":["berai"],"contain":["berbateri","berikan","beriklan","berisi","berlosen","beroksigen"],"converse":["berbual"],"coloured":["bercat"],"covered":["berdebu"],"carried":["berdukung","dukungan","pawai"],"cease":["berhenti"],"committee":["berjawatankuasa","jawatankuasa"],"clear":["berjelas-jelas","jelas","jernih","kejelasan","tajak"],"capable":["berkebolehan","berupaya","sanggup"],"creases":["berkedut"],"consent":["berkenan"],"chatter":["berkicau"],"cushion":["berkusyen","kusyen"],"change":["bersalin","berubah","perubahan iklim","salin","tukar","tukar langkah"],"company":["bersama-sama","kompeni","sendirian berhad","syarikat"],"clean":["bersih","mencuci","suci"],"cross-legged":["bersila panggung","duduk bersila","duduk bersilang kaki","duduk bertindih lutut"],"co-parent-in-law":["besan"],"co-parents-in-law":["besan"],"calf":["betis"],"correct":["betul","membetulkan"],"cost":["biaya","kos"],"charge":["biaya","bos","caj","cas","gratis","meluru"],"chess":["bidak","buah catur","piadah","pion"],"clever":["bijak","pandai","piawai","pintar"],"changing":["bilik acu"],"creature":["binatang","makhluk"],"comet":["bintang berekor","komet"],"carbuncle":["bisul"],"crazy":["biul","gila","masuk air"],"can":["boleh","dapat","kupi","malaysia boleh","tin","tong sampah"],"conversation":["bual","perbualan"],"crocodile":["buaya"],"congee":["bubur"],"coucal":["bubut"],"crow":["bubut","gagak"],"capacity":["budaya","kapasiti"],"culture":["budaya pop","budaya songsang"],"counterculture":["budaya tentangan"],"courtesy":["budi"],"catatan":["buku nota"],"crescent":["bulan sabit","bulan sabit merah"],"circular":["bulat","bundar","bundaran","membulat","membundar"],"clothes":["bundle","pakaian","perlak"],"coin":["bunduki","fulus"],"counter":["bungkus","kaunter","penghitung"],"concealment":["buni"],"commit":["bunuh diri","kaki ragut"],"consonant":["bunyi mati","huruf benar","huruf mati","konsonan"],"constellation":["buruj"],"color":["buta warna"],"cecair":["cairan"],"claw":["cakar","sepit"],"candidate":["calon"],"camna":["camne"],"chance":["can"],"clumsy":["canggung","ceroboh"],"cup":["cangkir","cawan","cekup"],"chancellor":["canselor"],"cantik":["cantek","chantek","secantik","tercantik"],"connect":["cantum","hubung","sambung"],"camphor":["capa","kamfor"],"capap":["capab","capub","mencapap"],"chart":["carta"],"chauvinist":["cauvinis"],"chauvinism":["cauvinisme"],"cafe":["cc"],"classifier":["cebis","keping","lingkar","penjodoh bilangan"],"cookie":["cecikut","kuki"],"cockroach":["cecunguk","kepuyuk","lipas"],"cook":["cef","goreng","ketua jurumasak","masak","tanak"],"clutch":["cekak","klac"],"crevice":["celah"],"casuarina":["cemara","eru"],"champac":["cempaka"],"chempedak":["cempedak"],"cricket":["cengkerik"],"cliff":["cenuram"],"cheongsam":["ceongsam"],"compartmented":["cerakin"],"cerita":["cereka","cerpen"],"cerutu":["cerut"],"cigar":["cerutu"],"chalet":["chalet"],"champagne":["champagne"],"changlun":["changlun"],"catur":["chator"],"china":["china","republik rakyat china"],"chukai":["chukai"],"cicit":["cicit-cicit"],"cik":["cik"],"chicory":["cikori"],"chile":["cili"],"chilli":["cili"],"chimpanzee":["cimpanzi"],"chop":["cincang","kerat","tetak"],"cheetah":["citah"],"cucuk":["cocok"],"coklat":["cokelat"],"chocolate":["coklat","milo"],"colombia":["colombia"],"cute":["comel"],"croatia":["croatia","kroasia"],"climate":["cuaca","iklim","perubahan iklim"],"cuba":["cuba"],"caribbean":["cuba"],"certain":["cubaan","mengabet","negeri antah-berantah","pasti","pawai","si fulan"],"cucu":["cucu laki-laki cucu"],"cubic":["cupak"],"caution":["curiga"],"cyberjaya":["cyber"],"czechia":["czechia"],"curd":["dadih"],"control":["daerah","kontrol","menguasai"],"chin":["dagu"],"complaint":["dakwa","rungutan"],"checkers":["dam"],"coast":["darat","pantai"],"cilantro":["daun ketumbar"],"cassia":["daun kupang","daun kurap","gelenggang"],"candle":["dian","lilin"],"capati":["dicapati","mencapati"],"cemeti":["dicemeti","mencemeti"],"cold":["dingin","sejuk","sejuk macam air batu"],"coffee":["duit kopi","kahwa","kedai kopi","kopi","kopi o","kopitiam"],"communism":["faham komunis","komunisme"],"celestial":["falak"],"conquest":["fatah"],"contemplate":["fikirkan"],"class":["fly","kelas","kesedaran kelas"],"copper":["fulus","kuprum","pahar","tembaga"],"confirmation":["fuyoh"],"cashew":["gajus","janggus"],"confused":["ganar","kekeliruan","keliru"],"cramp":["ganjat"],"crispy":["garing"],"crowded":["gegak","ramai"],"cajuput":["gelam"],"cultivate":["gembur"],"ceasefire":["gencatan senjata"],"criminals":["geng"],"commenters":["geng bawang"],"clock":["genta"],"car":["gerabak","mat kereta","parkir","parkiran"],"church":["gereja"],"cutting":["golok"],"confection":["gula-gula"],"candy":["gula-gula"],"containing":["gulai","kosong","tribahasa"],"curl":["gulung"],"clod":["gumpal"],"conduction":["haba","konduksi"],"completed":["habis","sudah","tamat"],"copyright":["hak cipta","pencabulan hak cipta"],"clouded":["harimau akar","harimau dahan"],"closure":["hartal"],"cubit":["hasta"],"carbonate":["hidrogen karbonat","karbonat","zink karbonat"],"chloride":["hidrogen klorida","zink klorida"],"clamour":["hingar"],"catch":["hinggap","licin seperti belut","menadah","nampak","tangkap"],"cocksucking":["hisap batang"],"count":["hitung","kira"],"calculate":["hitung-hitung","reken"],"calculation":["hitungan","penghitungkan","perhitungan"],"counting":["hitungan"],"connection":["hubungan","perhubungan"],"chief":["hulubalang","ketua","penghulu","tua-tua"],"crowd":["hurung"],"cat":["iau","kucing","kucing andes","kucing banjaran andes","kucing batu","kucing borneo"],"cabbage":["ibus","kubis"],"crave":["idam"],"christ":["iesu christi"],"clownfish":["ikan badut"],"commitment":["iktizam"],"counterbalance":["imbang balas"],"counterpoise":["imbang balas"],"consumer":["indeks harga pengguna","pengguna"],"condition":["insolvensi","ketakmampuan bayar","keterlarutan"],"convert":["islamkan","masuk islam"],"cultural":["istiadat"],"customs":["istiadat"],"corn":["jagung"],"colony":["jajahan"],"cast":["jala","lempar"],"curse":["jampi serapah","kutuk","laknat","sumpah seranah"],"compasses":["jangka lukis"],"core":["jantung hati","punat","teras"],"coat":["jata","labur","lamina","penyangkut baju"],"cow":["jawi","uak"],"coix":["jelai"],"commoner":["jelata","marhaen"],"congregation":["jemaah"],"crime":["jenayah"],"corpse":["jenazah","mayat"],"calamus":["jerangau"],"cumin":["jintan"],"champion":["juara","pemenang"],"crosseyed":["juling"],"corner":["juru","penjuru","sudut","zawiat"],"coach":["jurulatih","koc","pelatih"],"caterer":["jurusaji","katerer"],"cashier":["juruwang"],"cable":["kabel","talian","type c"],"cabin":["kabin"],"catechu":["kacu"],"card":["kad","kad debit","kad kredit","sat"],"credit":["kad kredit"],"cadmium":["kadmium"],"combatant":["kafir harbi"],"cairo":["kaherah"],"cloth":["kain","kemban"],"cockatoo":["kakaktua"],"clubber":["kaki disko"],"cactus":["kaktus"],"calamine":["kalamin"],"calendar":["kalendar","kalendar gregory","takwim gregory"],"californium":["kalifornium"],"calculator":["kalkulator","mesin kira"],"calcium":["kalsium","zat kapur"],"chamber":["kamar"],"camera":["kamera"],"campaign":["kampanye","kempen"],"camouflage":["kamuflag","penyamaran"],"canada":["kanada"],"chevrotain":["kancil","pelanduk"],"canine":["kanin"],"canker":["kanker"],"caught":["kantoi"],"cantonese":["kantonis"],"code":["kanun","kod hasad","poskod"],"canyon":["kanyon","ngarai"],"cotton":["kapas"],"capillary":["kapilari"],"capillarity":["kapilariti"],"capitalist":["kapitalis","pemodal"],"capitalism":["kapitalisme"],"captain":["kapitan","kapten","nakhoda"],"caption":["kapsyen"],"carapace":["karapas"],"carbon":["karbon"],"carburetor":["karburetor"],"cardiology":["kardiologi"],"curry":["kari","karipap"],"caricature":["karikatur"],"carnival":["karnival"],"carnivore":["karnivor"],"carcinogen":["karsinogen"],"carcinogenic":["karsinogenik"],"cartoon":["kartun"],"coarse":["kasar"],"casino":["kasino"],"caste":["kasta"],"custard":["kastard"],"cassowary":["kasuari"],"conjunction":["kata hubung","kata penghubung"],"common":["kata nama am","mengkuang","paus tombak"],"cataract":["katarak"],"category":["kategori"],"categorise":["kategorikan"],"catering":["katering"],"cathode":["katod"],"counseling":["kaunseling"],"counselor":["kaunselor"],"cavalry":["kavalri"],"cavity":["kaviti","kaviti abdomen","relung","rongga abdomen"],"cinnamon":["kayu manis","kulit kayu manis"],"chewstick":["kayu sugi"],"conflagration":["kebakaran"],"continents":["kebenuaan"],"continental":["kebenuaan"],"courage":["keberanian"],"coincidentally":["kebetulan"],"confusion":["kebingungan","kekeliruan"],"credibility":["kebolehpercayaan","kredibiliti"],"convenience":["kedai serbaneka","keselesaan"],"close-fisted":["kedekut"],"cheapskate":["kedekut"],"crease":["kedut"],"cause":["kedutkan","kelupaskan","memalukan","menggalirkan","menyusur galur","peningkan"],"chase":["kejar"],"clarity":["kejelasan","kenyaringan"],"championship":["kejohanan"],"cheese":["keju","panir"],"cake":["kek"],"cruelty":["kekejaman"],"conductivity":["kekonduksian"],"characteristic":["kekotaan","nasional"],"chrysanthemum":["kekwa"],"club":["kelab"],"colocasia":["keladi"],"clitoris":["kelentit"],"collection":["kelompok"],"cologne":["kelonyor"],"calumpang":["kelumpang"],"camp":["kem"],"cambodia":["kemboja"],"chaos":["kemelut"],"candlenut":["kemiri"],"craving":["kempunan"],"conclusiveness":["kemuktamadan"],"clam":["kepah","kima","lala","lokan","pegoh","remis"],"consumerism":["kepenggunaan"],"chrysalis":["kepompong"],"corvee":["kerah"],"crust":["kerak"],"citizens":["kerakyatan"],"coffin":["keranda","larung","long"],"cockle":["kerang"],"clerk":["kerani"],"colour":["kerbing","rona","warna"],"cool":["keren"],"crisps":["kerepek"],"chip":["kerepek kentang","serpih"],"crisp":["kerepek kentang"],"cart":["kereta","pedati"],"carriage":["kereta"],"cooperation":["kerjasama"],"career":["kerjaya"],"crackers":["keropok udang"],"chair":["kerusi","kerusi rehat","kursi","stul","tandu"],"consciousness":["kesedaran","kesedaran kelas","kesedaran palsu","pengsan"],"continuance":["keselanjaran"],"continuity":["keselanjaran"],"comfort":["keselesaan"],"cohesiveness":["keselesaan"],"congestion":["kesesakan"],"chuckle":["ketawa"],"coriander":["ketumbar"],"capability":["keupayaan"],"citizenship":["kewarganegaraan"],"conviction":["keyakinan","pegangan","sabitan"],"certainty":["keyakinan"],"caliph":["khalifah"],"chirp":["kicau"],"chemistry":["kimia"],"classic":["klasik"],"classical":["klasik"],"client":["klien"],"clinic":["klinik"],"clinical":["klinikal"],"clinician":["klinisian"],"chlorine":["klorin"],"cluster":["kluster"],"cobalt":["kobalt"],"cowboy":["koboi"],"coexistence":["koeksistensi"],"cigarette":["koktang","rokok","sigaret"],"cocurriculum":["koku"],"collar":["kolar"],"collective":["kolektif"],"collectivism":["kolektivisme"],"collectivity":["kolektiviti"],"colonialism":["kolonialisme"],"colonization":["kolonisasi","penjajahan"],"comedy":["komedi"],"comic":["komik"],"commission":["komisen","komisi","suruhanjaya"],"committed":["komited"],"commodity":["komoditi"],"compartment":["kompartmen"],"complex":["kompleks","rumit"],"complete":["komplit","lengkap","selesai","sempurna"],"composer":["komposer"],"composes":["komposer"],"comprehensive":["komprehensif"],"computer":["komputer","sains komputer"],"computerization":["komputerisasi"],"computerisation":["komputerisasi"],"comrade":["komrad","sobat"],"communication":["komunikasi"],"communist":["komunis"],"corned":["konbif"],"condom":["kondom"],"conductor":["konduktor"],"conflict":["konflik"],"conifer":["konifer"],"concrete":["konkrit","niskala"],"concentric":["konsentrik"],"concept":["konsep"],"conservative":["konservatif"],"conspiracy":["konspirasi"],"constable":["konstabel"],"context":["konteks"],"contemporary":["kontemporari"],"container":["kontena","limas"],"contingent":["kontinjen"],"controversy":["kontroversi","polemik"],"convent":["konven"],"convention":["konvensyen","tatasusila"],"ceremony":["konvokesyen","upacara"],"copenhagen":["kopenhagen"],"copernicium":["kopernisium"],"corps":["kor"],"corruption":["korapsyen","korupsi"],"cordite":["kordit"],"chordophone":["kordofon"],"cornea":["kornea"],"corona":["korona"],"coronavirus":["koronavirus"],"coroner":["koroner"],"corrupt":["korup","koruptor"],"corrupter":["koruptor"],"causeway":["koswe"],"coyote":["koyote"],"creativity":["kreativiti"],"criminality":["kriminaliti"],"crisis":["krisis"],"christianity":["kristian","masihi","nasrani","serani"],"critical":["kritikal"],"chromium":["kromium"],"chronic":["kronik"],"cronyism":["kronisme"],"chronology":["kronologi"],"confluence":["kuala"],"cauliflower":["kubis bunga"],"corral":["kubu"],"cube":["kubus"],"chive":["kucai"],"coup":["kudeta","rampasan kuasa"],"cougar":["kugar","puma"],"coo":["kukur"],"cooing":["kukur"],"culinary":["kulinari"],"cult":["kultus"],"cultivated":["kulur"],"chew":["kunyah","mamah"],"coupon":["kupon"],"curettage":["kuretaj"],"curium":["kurium"],"cage":["kurung"],"chasing":["kus"],"consonants":["labial"],"chayote":["labu siam"],"chocho":["labu siam"],"cursed":["laknatullah","malaun","sial","waknat"],"courtyard":["laman dalam"],"chopping":["landas cencang"],"collect":["langgam","pungut"],"customer":["langgan","pelanggan","pembeli"],"curtain":["langsir","tirai"],"continuous":["lanjut"],"continue":["lanjutkan","meneruskan","menyambung","teruskan"],"contrary":["lawan","sebaliknya"],"contusion":["lebam"],"comforted":["lega"],"chaste":["legundi"],"cling":["lekat"],"cattle":["lembu","sapi"],"curve":["lentur"],"canter":["ligas"],"coiled":["lingkar"],"crosswise":["lintang"],"centipede":["lipan"],"cover":["liput","sampul","sarap","selubung","ulas"],"comprise":["liput"],"carrot":["lobak merah"],"casket":["long"],"crush":["lumat","tindas"],"commonplace":["lumrah"],"cleavage":["lurah dada"],"costly":["mahal"],"court":["mahkamah","mahkamah tentera","medan selera"],"crown":["mahkota"],"council":["majlis"],"contempt":["mak kau hijau"],"college":["maktab"],"civilised":["masyarakat madani"],"clubbing":["mat disko"],"cardinal":["mata angin"],"compass":["mata angin","pedoman"],"contraction":["mau","nak","oleh itu"],"climbing":["memanjat","puyu"],"cleanse":["membersihkan"],"conduct":["memimpin"],"cry":["menangis","tangis"],"child-in-law":["menantu"],"contoh":["mencontoh"],"copy":["mencontohi"],"consider":["mencontohkan"],"curi":["mencuri"],"curi-curi":["mencuri-curi"],"causing":["mencurigakan"],"confront":["mendada"],"cyperus":["menderung"],"claim":["mengaku"],"confirm":["mengesahkan"],"causative":["menggerekkan"],"curb":["menguasai"],"clearer":["menyatakan"],"crawl":["merangkak"],"creep":["merangkak"],"completely":["mesra"],"causes":["meyakinkan"],"convinced":["meyakinkan"],"cucumber":["mintuna","teripang","timun","timun laut"],"chubby":["montel","montok"],"cheeky":["mua"],"consensus":["muafakat"],"converted":["mualaf"],"criticism":["muka papan"],"conclusive":["muktamad"],"cheap":["murah"],"civet":["musang"],"cooked":["nasi"],"counsel":["nasihat"],"colloquial":["ni"],"commersonia":["nilau"],"compact":["padat"],"chisel":["pahat"],"clothing":["pakaian"],"caulk":["pakal"],"compel":["paksa"],"crossbar":["palang","sengkar"],"crossbeam":["palang"],"crosspiece":["palang"],"coming":["pancuran"],"commander":["panglima"],"climb":["panjat"],"cownose":["pari bendera","pari susun"],"couple":["pasang"],"central":["pasir panjang","republik afrika tengah","seringat"],"cetacean":["paus paruh"],"cinema":["pawagam"],"concern":["peduli"],"colorful":["pelangi","warna-warni"],"correctly":["pelat"],"comedian":["pelawak"],"confounding":["pelik bin ajaib"],"constant":["pemalar"],"constructing":["pembelanjawanan"],"caring":["pemberi"],"contribution":["pemberian","sumbangan"],"condensation":["pemeluwapan"],"chooses":["pemilih"],"cutter":["pemotong"],"coward":["penakut","pengecut"],"contamination":["pencemaran"],"creator":["pencipta"],"conceal":["pendap"],"cooling":["pendingin"],"carrying":["pendukungan"],"ceremonies":["pengacara"],"classification":["pengelasan"],"chairperson":["pengerusi"],"counts":["penghitung"],"computation":["penghitungkan","perhitungan"],"counterbalancer":["pengimbang balas"],"counterbalances":["pengimbang balas"],"categorizing":["pengkategorian"],"colonizer":["penjajah"],"clarifies":["penjelas"],"clarification":["penjelasan"],"criminal":["penjenayah"],"crucifixion":["penyaliban"],"conditioner":["penyaman udara"],"chopstick":["penyepit"],"curly":["pepuah"],"civilization":["peradaban","tamadun"],"civil":["perang saudara","pertahanan awam"],"celebration":["perayaan"],"concerning":["peri","tentang","terhadap"],"command":["perintah"],"cooker":["periuk nasi"],"clarify":["perjelas"],"cemetery":["perkuburan"],"collision":["perlanggaran"],"constitution":["perlembagaan","piagam"],"cruise":["persiaran"],"crossing":["persilangan"],"crude":["pijar"],"captivate":["pikat","tawan"],"choose":["pilih"],"choice":["pilihan"],"cheek":["pipi"],"chestnut":["pipit rawa"],"cop":["polis"],"cheat":["ponteng"],"cutthroat":["potong leher"],"cockblock":["potong stim"],"conscientious":["prihatin"],"clan":["puak"],"crotch":["pukang"],"cash-back":["pulangan tunai"],"cunt":["pundek"],"cosmetic":["pupur"],"cannot":["puteri lilin","takleh"],"confidential":["rahsia"],"classmate":["rakan sekelas"],"citizen":["rakyat","warganegara"],"chain":["rangkaian bekalan","rantai"],"crawling":["rangkak"],"caltrop":["ranjau"],"constituting":["rasis"],"coop":["reban"],"cross":["regat","salib"],"connected":["relatif"],"contemplation":["renungan"],"congo":["republik congo"],"czech":["republik czech"],"cicada":["reriang","riang-riang"],"canopy":["rimbunan"],"collapse":["roboh","runtuh"],"canai":["rotcai","roti canai"],"complicated":["rumit"],"celery":["saderi","seladeri"],"ceylon":["sailan","selan"],"chauffeur":["sais"],"channel":["saluran"],"comes":["sambut","tarik"],"carefree":["santai"],"circus":["sarkas"],"covering":["sarung"],"chemical":["sebatian kimia"],"compound":["sebatian kimia"],"cangkir":["secangkir"],"conscious":["sedar","siuman"],"charity":["sedekah"],"clearly":["sejelas-jelasnya"],"consistent":["selaras"],"compatible":["selaras"],"celebrity":["selebriti"],"cramped":["sempit"],"cent":["sen"],"centillion":["sentilion"],"centralization":["sentralisasi"],"centralisation":["sentralisasi"],"commonly":["sepunya"],"cousin":["sepupu"],"cymbopogon":["serai"],"citratus":["serai"],"collected":["serak"],"creepy":["seram"],"ceramic":["seramik"],"crumb":["serdak"],"cerebellum":["serebelum"],"cerebrum":["serebrum"],"concurrent":["serentak"],"cerium":["serium"],"cervix":["serviks"],"caesium":["sesium"],"compulsorily":["sewajibnya"],"cyber":["siber"],"cybernetics":["sibernetik"],"comb":["sikat"],"cylinder":["silinder"],"ceiling":["siling","siling kaca"],"cement":["simen"],"cinematography":["sinematografi"],"cynical":["sinis"],"cynicism":["sinisisme"],"citrus":["sitrus"],"considered":["slanga"],"courteous":["sopan santun"],"cheer":["sorak"],"cuttlefish":["sotong katak"],"complying":["standardisasi"],"course":["sudah tentu"],"contribute":["sumbang"],"cork":["sumbat"],"chameleon":["sumpah-sumpah"],"circumcision":["sunat"],"checkmate":["syahmat"],"cures":["syifa"],"currency":["syiling"],"cinematographic":["syot"],"claiming":["tacod"],"congratulate":["tahniah"],"carelessness":["taksir"],"condolence":["takziah"],"cameron":["tanah tinggi cameron"],"crop":["tanaman","timbul"],"capture":["tangkap","tawan"],"cape":["tanjung","tanjung harapan","tanjung verde"],"chips":["tatal"],"conquer":["tawan"],"cane":["tebu","tongkat"],"cobra":["tedung"],"cell":["telefon bimbit"],"concave":["tempurung"],"calm":["tenang","tenteram"],"composed":["tenang"],"ceriops":["tengar"],"clap":["tepuk"],"catuk":["tercatuk"],"colonised":["terjajah"],"concentrated":["tertumpu"],"canal":["terusan"],"commandment":["titah"],"consisting":["tribahasa"],"craftsman":["tukang"],"concentrate":["tumpu"],"curled":["tunduk udang"],"chipmunk":["tupai belang","tupai kecil"],"check":["uji"],"croon":["ulit"],"campfire":["unggun api"],"camel":["unta"],"conception":["wawasan"],"confident":["yakin"],"cruel":["zalim"],"chromate":["zink kromat"]}}
+cabbage	ibus|n,kubis|n
+cabin	kabin|n
+cabinet	ajaibkhanah|n,kabinet|n,madani
+cable	kabel|n,talian|n,type c|n
+cactus	kaktus|n
+cadmium	kadmium|n
+caesium	sesium|n
+cafe	cc|n
+cage	kurung|n
+cairo	kaherah
+cajuput	gelam|n
+cake	kek|n
+calamine	kalamin|n
+calamity	bencana|n
+calamus	jerangau|n
+calcium	kalsium|n,zat kapur|n
+calculate	hitung-hitung|v,reken|v
+calculation	hitungan|n,penghitungkan|n,perhitungan|n
+calculator	kalkulator|n,mesin kira|n
+calendar	kalendar|n,kalendar gregory|n,takwim gregory|n
+calf	betis|n
+californium	kalifornium|n
+caliph	khalifah|n
+call	bang|n,hai,hoi,laung|v,menelefon|v,mengabsen|v
+calm	tenang|adj,tenteram|adj
+caltrop	ranjau|n
+calumpang	kelumpang|n
+cambodia	kemboja
+camel	unta|n
+camera	kamera|n
+cameron	tanah tinggi cameron
+camna	camne|adv
+camouflage	kamuflag|n,penyamaran|n
+camp	kem|n
+campaign	kampanye|n,kempen|n
+campfire	unggun api|n
+camphor	capa|n,kamfor|n
+can	boleh|v,dapat|v,kupi|n,malaysia boleh,tin|n,tong sampah|n
+canada	kanada
+canai	rotcai|n,roti canai|n
+canal	terusan|n
+cancer	barah|n,kanser|n
+candidate	calon|n
+candle	dian|n,lilin|n
+candlenut	kemiri|n
+candy	gula-gula|n
+cane	tebu|n,tongkat|n
+cangkir	secangkir|cls
+canine	kanin|adj
+canker	kanker|n
+canniformis	bemban|n
+cannot	puteri lilin|n,takleh|v
+canopy	rimbunan|n
+canter	ligas|n
+cantik	cantek|adj,chantek|adj,secantik|adj,tercantik
+cantonese	kantonis
+canyon	kanyon|n,ngarai|n
+capability	keupayaan|n
+capable	berkebolehan|adj,berupaya|v,sanggup|v
+capacity	budaya|n,kapasiti|n
+capap	capab|n,capub|n,mencapap|v
+capati	dicapati|v,mencapati|v
+cape	tanjung|n,tanjung harapan,tanjung verde
+capillarity	kapilariti|n
+capillary	kapilari|n
+capital	balik pulau,hukuman mati|n,ibu kota|n,ibu negara|n,ibu negeri|n,laba modal|n
+capitalism	kapitalisme|n
+capitalist	kapitalis|n,pemodal|n
+cappella	a cappella|n,a kapela|n
+captain	kapitan|n,kapten|n,nakhoda|n
+caption	kapsyen|n
+captivate	pikat|v,tawan|v
+capture	tangkap|v,tawan|v
+car	gerabak|n,mat kereta|n,parkir|n,parkiran|n
+carabao	benuang|n
+carapace	karapas|n
+carbon	karbon|n
+carbonate	hidrogen karbonat|n,karbonat|n,zink karbonat|n
+carbuncle	bisul|n
+carburetor	karburetor|n
+carcass	bangkai|n
+carcinogen	karsinogen|n
+carcinogenic	karsinogenik|adj
+card	kad|n,kad debit|n,kad kredit|n,sat|adj
+cardinal	mata angin|n
+cardiology	kardiologi|n
+care	asuh|v,endah|v,kasih|n,kisah|v,mempedulikan|v,peduli|v
+career	kerjaya|n
+carefree	santai|adj
+careful	awas|v,berhati-hati,cermat|adj,curiga|adj
+carefully	belek|v
+carelessness	taksir|n
+caribbean	cuba|v
+caricature	karikatur|n
+caring	pemberi|adj
+carnival	karnival|n
+carnivore	karnivor|n
+carpet	babut|n,permaidani|n
+carriage	kereta|n
+carried	berdukung|v,dukungan|n,pawai|n
+carries	alas kubur|n,pendukung|n
+carrot	lobak merah|n
+carry	bawa|v,dukung|v,junjung|v,kendong|v,kepit|v,mengelek|v
+carrying	pendukungan|n
+cart	kereta|n,pedati|n
+cartoon	kartun|n
+case	apa hal|adv,fasal|n,kalau|conj,kes|n,perkara|n,peti|n
+cash	bayar waktu terima|n,tunai|adj
+cash-back	pulangan tunai|n
+cashew	gajus|n,janggus|n
+cashier	juruwang|n
+casino	kasino|n
+casket	long|n
+cassava	bandong|n,ubi kayu|n
+cassia	daun kupang|n,daun kurap|n,gelenggang|n
+cassowary	kasuari|n
+cast	jala|n,lempar|v
+caste	kasta|n
+castle	astana|n,istana|n,puri|n,tir|n
+casuarina	cemara|n,eru|n
+cat	iau|n,kucing|n,kucing andes|n,kucing banjaran andes|n,kucing batu|n,kucing borneo|n
+cataclysm	bencana|n
+cataract	katarak|n
+catastrophe	bencana|n,malapetaka|n
+catatan	buku nota|n
+catch	hinggap|v,licin seperti belut|adj,menadah|v,nampak|v,tangkap|v
+catechu	kacu|n
+categorise	kategorikan|v
+categorizing	pengkategorian|n
+category	kategori|n
+caterer	jurusaji|n,katerer|n
+catering	katering|n
+caterpillar	beluncas|n,ulat bulu|n
+cathode	katod|n
+cattle	lembu|n,sapi|n
+catuk	tercatuk|v
+catur	chator|num
+caught	kantoi|adj
+cauldron	belanga|n,kaldron|n,kancah|n,kawah|n,tahang|n
+cauliflower	kubis bunga|n
+caulk	pakal|n
+causative	menggerekkan|v
+cause	kedutkan|v,kelupaskan|v,memalukan|v,menggalirkan|v,menyusur galur|v,peningkan|v
+causes	meyakinkan|adj
+causeway	koswe|n
+causing	mencurigakan|adj
+caution	curiga|adj
+cavalry	kavalri|n
+cavity	kaviti|n,kaviti abdomen|n,relung|n,rongga abdomen|n
+cease	berhenti|v
+ceasefire	gencatan senjata|n
+cecair	cairan|n
+ceiling	siling|n,siling kaca|n
+celebration	perayaan|n
+celebrity	selebriti|n
+celery	saderi|n,seladeri|n
+celestial	falak|n
+cell	telefon bimbit|n
+cement	simen|n
+cemetery	perkuburan|n
+cemeti	dicemeti|v,mencemeti|v
+census	banci|n
+cent	sen|n
+centillion	sentilion|num
+centipede	lipan|n
+central	pasir panjang,republik afrika tengah,seringat
+centralisation	sentralisasi|n
+centralization	sentralisasi|n
+centre	balai raya|n
+centuries	berabad-abad|n
+century	abad|n,kurun|n
+cerai-berai	berai|adj
+ceramic	seramik|n
+cerebellum	serebelum|n
+cerebrum	serebrum|n
+ceremonies	pengacara|n
+ceremony	konvokesyen|n,upacara|n
+ceriops	tengar|n
+cerita	cereka|n,cerpen|n
+cerium	serium|n
+certain	cubaan|n,mengabet|v,negeri antah-berantah|n,pasti|adj,pawai|n,si fulan
+certainty	keyakinan|n
+cerutu	cerut|n
+cervix	serviks|n
+cetacean	paus paruh|n
+ceylon	sailan,selan
+chain	rangkaian bekalan|n,rantai|n
+chair	kerusi|n,kerusi rehat|n,kursi|n,stul|n,tandu|n
+chairperson	pengerusi|n
+chalet	chalet|n
+chamber	kamar|n
+chameleon	sumpah-sumpah|n
+champac	cempaka|n
+champagne	champagne|n
+champion	juara|n,pemenang|n
+championship	kejohanan|n
+chance	can|n
+chancellor	canselor|n
+change	bersalin|v,berubah|v,perubahan iklim|n,salin|v,tukar|v,tukar langkah|n
+changing	bilik acu|n
+changlun	changlun
+channel	saluran|n
+chaos	kemelut|n
+chapter	bab|n,babak|n
+character	akhlak|n,aksara|n,perangai|n,teta|n,watak|n
+characteristic	kekotaan|adj,nasional|adj
+charcoal	abnus|n,arang|n
+charge	biaya|n,bos|n,caj|n,cas|n,gratis|adj,meluru|v
+charity	sedekah|n
+charm	afsun|n,pikat|v,pukau|n
+chart	carta|n
+chase	kejar|v
+chasing	kus
+chaste	legundi|n
+chat	beka|n,berbual|v,berkata-kata|v,bual|n,obrol|v,perbualan|n
+chatter	berkicau|v
+chauffeur	sais|n
+chauvinism	cauvinisme|n
+chauvinist	cauvinis|n
+chayote	labu siam|n
+cheap	murah|adj
+cheapskate	kedekut|adj
+cheat	ponteng|v
+check	uji|v
+checkers	dam|adj
+checkmate	syahmat
+cheek	pipi|n
+cheeky	mua|adj
+cheer	sorak|v
+cheese	keju|n,panir|n
+cheetah	citah|n
+chemical	sebatian kimia|n
+chemistry	kimia|n
+chempedak	cempedak|n
+cheongsam	ceongsam|n
+chess	bidak|n,buah catur|n,piadah|n,pion|n
+chest	bengik|adj,dada|n,peti|n
+chestnut	pipit rawa|n
+chevrotain	kancil|n,pelanduk|n
+chew	kunyah|v,mamah|v
+chewstick	kayu sugi|n
+chick	awek|n
+chicken	ayam|n,ayam goreng|n,ayam katik|n
+chickenpox	abilah|n
+chicory	cikori|n
+chief	hulubalang|n,ketua|n,penghulu|n,tua-tua|n
+child	alang|n,anak alang|n,anak angah|n,anak emas|n,anak haram|n,anak hitam|n
+child-in-law	menantu|n
+children	anak-anak|n,kanak-kanak|n,masak-masak|n
+chile	cili|n
+chilli	cili|n
+chimpanzee	cimpanzi|n
+chin	dagu|n
+china	china,republik rakyat china
+chinese	aboi|n,amoi|n,boi|n,cainis|n,chin,cina
+chip	kerepek kentang|n,serpih|n
+chipmunk	tupai belang|n,tupai kecil|n
+chips	tatal|n
+chirp	kicau|n
+chisel	pahat|n
+chive	kucai|n
+chloride	hidrogen klorida|n,zink klorida|n
+chlorine	klorin|n
+chocho	labu siam|n
+chocolate	coklat|n,milo|n
+choice	pilihan|n
+choose	pilih|v
+chooses	pemilih|n
+chop	cincang|v,kerat|v,tetak|v
+chopping	landas cencang|n
+chopstick	penyepit|n
+chordophone	kordofon|n
+chow	anjing chow|n
+christ	iesu christi
+christian	alkitab
+christianity	kristian,masihi|adj,nasrani,serani
+chromate	zink kromat|n
+chromium	kromium|n
+chronic	kronik|adj
+chronicle	babad|n
+chronology	kronologi|n
+chrysalis	kepompong|n
+chrysanthemum	kekwa|n
+chrysemys	abau|n
+chubby	montel|adj,montok|adj
+chuckle	ketawa|v
+chukai	chukai
+church	gereja|n
+cicada	reriang|n,riang-riang|n
+cicit	cicit-cicit
+cigar	cerutu|n
+cigarette	koktang|n,rokok|n,sigaret|n
+cik	cik|n
+cilantro	daun ketumbar|n
+cimb	bank sotong
+cinema	pawagam|n
+cinematographic	syot|n
+cinematography	sinematografi|n
+cinnamon	kayu manis|n,kulit kayu manis|n
+circular	bulat|adj,bundar|adj,bundaran|n,membulat|v,membundar|v
+circumcision	sunat|n
+circus	sarkas|n
+cities	bandaran|adj,perbandaran|adj
+citizen	rakyat|n,warganegara|n
+citizens	kerakyatan|adj
+citizenship	kewarganegaraan|n
+citratus	serai|n
+citrus	sitrus|n
+city	bandar|n,bandar raya|n,bentong,budak bandar|n,cyberjaya,ibu negara|n
+civet	musang|n
+civil	perang saudara|n,pertahanan awam|n
+civilised	masyarakat madani|n
+civilization	peradaban|n,tamadun|n
+claim	mengaku|v
+claiming	tacod
+clam	kepah|n,kima|n,lala|n,lokan|n,pegoh|n,remis|n
+clamour	hingar|n
+clan	puak|n
+clap	tepuk|v
+clarification	penjelasan|n
+clarifies	penjelas|n
+clarify	perjelas|v
+clarity	kejelasan|n,kenyaringan|n
+class	fly|v,kelas|n,kesedaran kelas|n
+classic	klasik|adj
+classical	klasik|adj
+classification	pengelasan|n
+classifier	cebis|cls,keping|cls,lingkar|cls,penjodoh bilangan|n
+classmate	rakan sekelas|n
+claw	cakar|n,sepit|n
+clean	bersih|adj,mencuci|v,suci|adj
+cleanse	membersihkan|v
+clear	berjelas-jelas|v,jelas|adj,jernih|adj,kejelasan|n,tajak|v
+clearer	menyatakan|v
+clearly	sejelas-jelasnya|adv
+cleavage	lurah dada|n
+clerk	kerani|n
+clever	bijak|adj,pandai|adj,piawai|adj,pintar|adj
+client	klien|n
+cliff	cenuram|n
+climate	cuaca|n,iklim|n,perubahan iklim|n
+climb	panjat|v
+climber	banar|n
+climbing	memanjat|n,puyu|n
+cling	lekat|v
+clinic	klinik|n
+clinical	klinikal|adj
+clinician	klinisian|n
+clipping	astaga,astakona|adj,cyber,dah|adv,insta,pat|num
+clitoris	kelentit|n
+clock	genta|n
+clod	gumpal|cls
+close	bagai aur dengan tebing,dekat|adj,kejam|v,member|n,menutup|v,pejam|v
+close-fisted	kedekut|adj
+closure	hartal|n
+cloth	kain|n,kemban|n
+clothes	bundle|n,pakaian|n,perlak|n
+clothing	pakaian|n
+cloud	abal|n,awan|n,mendung|n
+clouded	harimau akar|n,harimau dahan|n
+clown	badut|n,membadut|v,pelawak|n
+clownfish	ikan badut|n
+club	kelab|n
+clubber	kaki disko|n
+clubbing	mat disko|n
+clumsy	canggung|adj,ceroboh|adj
+cluster	kluster|n
+clutch	cekak|v,klac|n
+co-parent-in-law	besan|n
+co-parents-in-law	besan|n
+coach	jurulatih|n,koc|n,pelatih|n
+coal	arang|n,bara|n
+coarse	kasar|adj
+coast	darat|n,pantai|n
+coat	jata|n,labur|v,lamina|n,penyangkut baju|n
+cobalt	kobalt|n
+cobra	tedung|n
+cockatoo	kakaktua|n
+cockblock	potong stim|v
+cockle	kerang|n
+cockroach	cecunguk|n,kepuyuk|n,lipas|n
+cockscomb	balung|n
+cocksucking	hisap batang|n
+coconut	batok|n,kelambir|n,kelapa|n,nyiur|n,santan|n
+cocurriculum	koku|n
+cod	bayar waktu terima|n
+code	kanun|n,kod hasad|n,poskod|n
+coexistence	koeksistensi|n
+coffee	duit kopi|n,kahwa|n,kedai kopi|n,kopi|n,kopi o|n,kopitiam|n
+coffin	keranda|n,larung|n,long|n
+cohesiveness	keselesaan|n
+coil	belit|v,gegelung|n,gelung|n,lingkaran ubat nyamuk|n
+coiled	lingkar|cls
+coin	bunduki|n,fulus|n
+coincidentally	kebetulan|adv
+coitus	ampek|n
+coix	jelai|n
+coklat	cokelat|n
+cold	dingin|adj,sejuk|adj,sejuk macam air batu|adj
+collapse	roboh|v,runtuh|v
+collar	kolar|n
+collect	langgam|v,pungut|v
+collected	serak|n
+collection	kelompok|n
+collective	kolektif|adj
+collectivism	kolektivisme|n
+collectivity	kolektiviti|n
+college	maktab|n
+collision	perlanggaran|n
+colloquial	ni|det
+colocasia	keladi|n
+cologne	kelonyor|n
+colombia	colombia
+colonialism	kolonialisme|n
+colonised	terjajah|v
+colonization	kolonisasi|n,penjajahan|n
+colonizer	penjajah|n
+colony	jajahan|n
+color	buta warna|n
+colorful	pelangi|adj,warna-warni|adj
+colour	kerbing|adj,rona|n,warna|n
+coloured	bercat|adj
+colourless	abiad|adj
+comb	sikat|n
+combatant	kafir harbi|n
+come	apa pasal|adv,berasal|v,datang|v,jom,lungsur|v,mai|v
+comedian	pelawak|n
+comedy	komedi|n
+comes	sambut|v,tarik|v
+comet	bintang berekor|n,komet|n
+comfort	keselesaan|n
+comforted	lega|adj
+comic	komik|n
+coming	pancuran|n
+command	perintah|n
+commander	panglima|n
+commandment	titah|n
+commencement	awal|adj,konvokesyen|n
+commenters	geng bawang|n
+commersonia	nilau|n
+commission	komisen|n,komisi|n,suruhanjaya|n
+commit	bunuh diri|v,kaki ragut|n
+commitment	iktizam|n
+committed	komited|adj
+committee	berjawatankuasa|v,jawatankuasa|n
+commodity	komoditi|n
+common	kata nama am|n,mengkuang|n,paus tombak|n
+commoner	jelata|adj,marhaen|n
+commonly	sepunya|adj
+commonplace	lumrah|adj
+communication	komunikasi|n
+communism	faham komunis|n,komunisme|n
+communist	komunis|n
+community	balai raya|n,kaum|n,komuniti|n,umat islam|n,ummah|n
+compact	padat|adj
+company	bersama-sama|adv,kompeni|n,sendirian berhad|n,syarikat|n
+comparison	banding|n
+compartment	kompartmen|n
+compartmented	cerakin|n
+compass	mata angin|n,pedoman|n
+compasses	jangka lukis|n
+compatible	selaras|adj
+compel	paksa|v
+compete	adu|v
+complaint	dakwa|n,rungutan|n
+complete	komplit|adj,lengkap|adj,selesai|v,sempurna|adj
+completed	habis|v,sudah|adv,tamat|adj
+completely	mesra|adj
+complex	kompleks|n,rumit|adj
+complicated	rumit|adj
+complying	standardisasi|n
+composed	tenang|adj
+composer	komposer|n
+composes	komposer|n
+compound	sebatian kimia|n
+comprehensive	komprehensif|adj
+comprise	liput|v
+compulsorily	sewajibnya|adv
+computation	penghitungkan|n,perhitungan|n
+computer	komputer|n,sains komputer|n
+computerisation	komputerisasi|n
+computerization	komputerisasi|n
+comrade	komrad|n,sobat|n
+concave	tempurung|n
+conceal	pendap|v
+concealment	buni|n
+concentrate	tumpu|v
+concentrated	tertumpu|v
+concentric	konsentrik|adj
+concept	konsep|n
+conception	wawasan|n
+concern	peduli|v
+concerning	peri|n,tentang|prep,terhadap|prep
+conclusion	akhir|adj,kesimpulan|n
+conclusive	muktamad|adj
+conclusiveness	kemuktamadan|n
+concrete	konkrit|adj,niskala|adj
+concurrent	serentak|adj
+condensation	pemeluwapan|n
+condiment	belacan|n,perencah|n
+condition	insolvensi|n,ketakmampuan bayar|n,keterlarutan|n
+conditioner	penyaman udara|n
+condolence	takziah|n
+condom	kondom|n
+conduct	memimpin|v
+conduction	haba|n,konduksi|n
+conductivity	kekonduksian|n
+conductor	konduktor|n
+confection	gula-gula|n
+confident	yakin|adj
+confidential	rahsia|adj
+confirm	mengesahkan|v
+confirmation	fuyoh
+conflagration	kebakaran|n
+conflict	konflik|n
+confluence	kuala|n
+confounding	pelik bin ajaib|adj
+confront	mendada|v
+confused	ganar|adj,kekeliruan|n,keliru|adj
+confusion	kebingungan|n,kekeliruan|n
+congee	bubur|n
+congestion	kesesakan|n
+congo	republik congo
+congratulate	tahniah|v
+congregation	jemaah|n
+conifer	konifer|n
+conjunction	kata hubung|n,kata penghubung|n
+conjunctive	bahawa|conj
+connect	cantum|v,hubung|v,sambung|v
+connected	relatif|adj
+connection	hubungan|n,perhubungan|n
+conquer	tawan|v
+conquest	fatah|n
+conscientious	prihatin|adj
+conscious	sedar|adj,siuman|adj
+consciousness	kesedaran|n,kesedaran kelas|n,kesedaran palsu|n,pengsan|v
+consensus	muafakat|n
+consent	berkenan|v
+consequence	akibat|n
+conservative	konservatif|adj
+consider	mencontohkan|v
+considered	slanga|n
+consistent	selaras|adj
+consisting	tribahasa|adj
+consonant	bunyi mati|n,huruf benar|n,huruf mati|n,konsonan|n
+consonants	labial|adj
+conspiracy	konspirasi|n
+constable	konstabel|n
+constant	pemalar|n
+constellation	buruj|n
+constituting	rasis|adj
+constitution	perlembagaan|n,piagam|n
+constrained	bengik|adj
+constructing	pembelanjawanan|n
+consumer	indeks harga pengguna|n,pengguna|n
+consumerism	kepenggunaan|n
+contain	berbateri|adj,berikan|v,beriklan|v,berisi|v,berlosen|v,beroksigen|v
+container	kontena|n,limas|n
+containing	gulai|n,kosong|adj,tribahasa|adj
+contamination	pencemaran|n
+contemplate	fikirkan|v
+contemplation	renungan|n
+contemporary	kontemporari|adj
+contempt	mak kau hijau
+content	bahagia|adj,bahagiakan|v
+contest	adu|v
+context	konteks|n
+continent	benua|n,tanah raya|n
+continental	kebenuaan|adj
+continents	kebenuaan|adj
+contingent	kontinjen|n
+continuance	keselanjaran|n
+continue	lanjutkan|v,meneruskan|v,menyambung|v,teruskan|v
+continuity	keselanjaran|n
+continuous	lanjut|adj
+contoh	mencontoh|v
+contraction	mau|v,nak|prep,oleh itu|conj
+contrary	lawan|n,sebaliknya|adv
+contribute	sumbang|v
+contribution	pemberian|n,sumbangan|n
+control	daerah|n,kontrol|n,menguasai|v
+controversy	kontroversi|n,polemik|n
+contusion	lebam|n
+convenience	kedai serbaneka|n,keselesaan|n
+convent	konven|n
+convention	konvensyen|n,tatasusila|n
+conversation	bual|n,perbualan|n
+converse	berbual|v
+convert	islamkan|v,masuk islam|v
+converted	mualaf|n
+conviction	keyakinan|n,pegangan|n,sabitan|n
+convinced	meyakinkan|adj
+coo	kukur|n
+cooing	kukur|n
+cook	cef|n,goreng|v,ketua jurumasak|n,masak|v,tanak|v
+cooked	nasi|n
+cooker	periuk nasi|n
+cookie	cecikut|n,kuki|n
+cooking	air tangan|n,belanga|n
+cool	keren|adj
+cooling	pendingin|n
+coop	reban|n
+cooperation	kerjasama|n
+cop	polis|n
+copenhagen	kopenhagen
+copernicium	kopernisium|n
+copper	fulus|n,kuprum|n,pahar|n,tembaga|n
+copulate	ayut|v,kongkek|v
+copy	mencontohi|v
+copyright	hak cipta|n,pencabulan hak cipta|n
+coral	batu karang|n,dedap|n,karang|n,terumbu karang|n
+cordial	bancau|n,bandung|n
+cordite	kordit|n
+core	jantung hati|n,punat|n,teras|n
+corgi	anjing corgi|n
+coriander	ketumbar|n
+cork	sumbat|n
+corn	jagung|n
+cornea	kornea|n
+corned	konbif|n
+corner	juru|n,penjuru|n,sudut|n,zawiat|n
+corona	korona|n
+coronavirus	koronavirus|n
+coroner	koroner|n
+corps	kor|n
+corpse	jenazah|n,mayat|n
+corral	kubu|n
+correct	betul|adj,membetulkan|v
+correctly	pelat|n
+corrupt	korup|adj,koruptor|n
+corrupter	koruptor|n
+corruption	korapsyen|n,korupsi|n
+corvee	kerah|n
+cosmetic	pupur|n
+cost	biaya|n,kos|n
+costly	mahal|adj
+cotton	kapas|n
+coucal	bubut|n
+couch	amben|n
+cougar	kugar|n,puma|n
+cough	batuk|v
+council	majlis|n
+counsel	nasihat|v
+counseling	kaunseling|v
+counselor	kaunselor|n
+count	hitung|v,kira|v
+counter	bungkus|cls,kaunter|n,penghitung|n
+counterbalance	imbang balas|n
+counterbalancer	pengimbang balas|n
+counterbalances	pengimbang balas|n
+counterculture	budaya tentangan|n
+counterpoise	imbang balas|n
+counting	hitungan|n
+country	balad|n,desa|n,kerakyatan|adj,negara|n,negara dolar|n
+counts	penghitung|n
+coup	kudeta|n,rampasan kuasa|n
+couple	pasang|num
+coupon	kupon|n
+courage	keberanian|n
+course	sudah tentu|adv
+court	mahkamah|n,mahkamah tentera|n,medan selera|n
+courteous	sopan santun|adj
+courtesy	budi|n
+courtyard	laman dalam|n
+cousin	sepupu|n
+cover	liput|v,sampul|n,sarap|v,selubung|n,ulas|n
+covered	berdebu|adj
+covering	sarung|n
+cow	jawi|n,uak|n
+coward	penakut|n,pengecut|n
+cowboy	koboi|n
+cownose	pari bendera|n,pari susun|n
+coyote	koyote|n
+crab	belangkas|n,kepiting|n,ketam angin|n,ketam bunga|n,ketam nipah|n,ketam rebab|n
+crack	belah|n
+crackers	keropok udang|n
+craftsman	tukang|n
+cramp	ganjat|v
+cramped	sempit|adj
+crave	idam|v
+craving	kempunan|adj
+crawl	merangkak|v
+crawling	rangkak|n
+crazy	biul|adj,gila|adj,masuk air|adj
+cream	aiskrim|n,krim|n
+crease	kedut|n
+creases	berkedut|v
+create	bekaskan|v,bikin|v,buat|v,cipta|n,membuat|v,mencipta|v
+creativity	kreativiti|n
+creator	pencipta
+creature	binatang|n,makhluk|n
+credibility	kebolehpercayaan|n,kredibiliti|n
+credit	kad kredit|n
+creep	merangkak|v
+creepy	seram|adj
+crescent	bulan sabit|adj,bulan sabit merah
+crevice	celah|n
+cricket	cengkerik|n
+crime	jenayah|n
+criminal	penjenayah|n
+criminality	kriminaliti|n
+criminals	geng|n
+crisis	krisis|n
+crisp	kerepek kentang|n
+crisps	kerepek|n
+crispy	garing|adj
+critical	kritikal|adj
+criticism	muka papan|adj
+croatia	croatia,kroasia
+crocodile	buaya|n
+cronyism	kronisme|n
+crooked	bengkong|adj,lok|adj
+croon	ulit|v
+crop	tanaman|n,timbul|v
+cross	regat|v,salib|n
+cross-legged	bersila panggung|v,duduk bersila|v,duduk bersilang kaki|v,duduk bertindih lutut|v
+crossbar	palang|n,sengkar|n
+crossbeam	palang|n
+crosseyed	juling|adj
+crossing	persilangan|n
+crosspiece	palang|n
+crosswise	lintang|adj
+crotch	pukang|n
+crow	bubut|n,gagak|n
+crowd	hurung|v
+crowded	gegak|adj,ramai|adj
+crown	mahkota|n
+crucifixion	penyaliban|n
+crude	pijar|n
+cruel	zalim|adj
+cruelty	kekejaman|n
+cruise	persiaran|n
+crumb	serdak|n
+crush	lumat|adj,tindas|v
+crust	kerak|n
+cry	menangis|v,tangis|v
+cub	becat|n
+cuba	cuba|v
+cube	kubus|n
+cubic	cupak|n
+cubit	hasta|n
+cucu	cucu laki-laki cucu|n
+cucuk	cocok|v
+cucumber	mintuna|n,teripang|n,timun|n,timun laut|n
+culinary	kulinari|adj
+cult	kultus|n
+cultivate	gembur|v
+cultivated	kulur|n
+cultural	istiadat|n
+culture	budaya pop|n,budaya songsang|n
+cumin	jintan|n
+cunt	pundek|n
+cup	cangkir|n,cawan|n,cekup|v
+cupboard	almari|n,gerobok|n,lemari|n,sarah|n
+curb	menguasai|v
+curd	dadih|n
+cures	syifa|n
+curettage	kuretaj|n
+curi	mencuri|v
+curi-curi	mencuri-curi|adv
+curiosities	ajaibkhanah|n
+curium	kurium|n
+curl	gulung|v
+curled	tunduk udang|n
+curly	pepuah|adj
+currency	syiling|n
+current	arus|n,kini|adj,terkini|adj
+curry	kari|n,karipap|n
+curse	jampi serapah|n,kutuk|n,laknat|n,sumpah seranah|n
+cursed	laknatullah|n,malaun|n,sial|adj,waknat|adj
+curtain	langsir|n,tirai|n
+curve	lentur|n
+curved	bawar|n,beladau|n
+cushion	berkusyen|v,kusyen|n
+custard	kastard|n
+custom	adat|n,resam|n
+customer	langgan|v,pelanggan|n,pembeli|n
+customs	istiadat|n
+cut	abtar|adj,kerat|v,membantai|v,potong|v,potongan|n,putus|adj
+cute	comel|adj
+cutter	pemotong|n
+cutthroat	potong leher|adj
+cutting	golok|n
+cuttlefish	sotong katak|n
+cyber	siber|adj
+cyberjaya	cyber
+cybernetics	sibernetik|n
+cycle	beca|n
+cylinder	silinder|n
+cymbopogon	serai|n
+cynical	sinis|adj
+cynicism	sinisisme|n
+cyperus	menderung|n
+czech	republik czech
+czechia	czechia

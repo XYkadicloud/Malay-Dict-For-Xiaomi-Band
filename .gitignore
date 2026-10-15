@@ -7,6 +7,8 @@ dist/
 build/
 .temp_*/
 *.rpk
+# 例外：归档的发行版产物（releases/ 下的要入库，方便直接下载）
+!releases/**/*.rpk
 
 # 签名密钥（绝不能入库）
 *.pem

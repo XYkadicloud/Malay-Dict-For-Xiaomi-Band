@@ -1,0 +1,337 @@
+久	lama|adj,cukup lama,keabadian|n,ketahanan|n,lama-kelamaan,lama-lama|adv,lambat-laun,leka
+久之	lama-kelamaan,lama-lama|adv,lambat-laun
+久性	keabadian|n,ketahanan|n
+久病	merana
+久的	leka,malar
+久而	lama-kelamaan,lama-lama|adv,lambat-laun
+久而久	lama-kelamaan,lama-lama|adv,lambat-laun
+久而久之	lama-kelamaan,lama-lama|adv,lambat-laun
+仅	melulu,sahaja|adv,hanya|adv,sekadar|adv,temenggung
+仅仅	hanya|adv,sekadar|adv
+仅次	temenggung
+仅次于	temenggung
+仅次于宰	temenggung
+仅次于宰相	temenggung
+仅次于宰相之	temenggung
+仅次于宰相之高	temenggung
+仅次于宰相之高级	temenggung
+仅次于宰相之高级官	temenggung
+仅次于宰相之高级官员	temenggung
+充	alas perut,bernas,kerin,liput|v,membanjiri,menyita,ombar,padat|adj
+充公	menyita
+充实	bernas,padat|adj
+充实的	padat|adj
+充斥	membanjiri
+充沛	kerin
+充满	liput|v,sebu,penuh harapan,penuh sesak,tepas
+充满希	penuh harapan
+充满希望	penuh harapan
+充满的	penuh sesak,tepas
+充物	timbusan
+充的	ombar
+充血	rejeh
+充血的	rejeh
+充饥	alas perut
+充饥物	alas perut
+嗅	bau|n,cium|v,hidu|v,mencium,menghidu,anjing penghidu|n
+嗅探	anjing penghidu|n
+嗅探犬	anjing penghidu|n
+居	berhijrah,berhuni,bermastautin,berpenduduk|adj,bertapa,cuti inap|n,huni,imbit
+居住	bermastautin,menghuni,semayam,tinggal|v,berhuni,berpenduduk|adj,huni,inap desa|n
+居住于	mendiami
+居住所	tempat|n
+居住的	berhuni,berpenduduk|adj,huni,inap desa|n,rumah inap|n
+居住的时	inap desa|n,rumah inap|n
+居住的时期	inap desa|n,rumah inap|n
+居入	imigrasi
+居入境	imigrasi
+居动	inkuilin|n
+居动物	inkuilin|n
+居动物的	inkuilin|n
+居处	kediaman
+居家	cuti inap|n
+居家度	cuti inap|n
+居家度假	cuti inap|n
+居民	penduduk|n,penghuni,inap desa|n,isi negeri,isi rumah,rumah inap|n,urbanisme|n
+居民家	inap desa|n,rumah inap|n
+居民家居	inap desa|n,rumah inap|n
+居民家居住	inap desa|n,rumah inap|n
+居民家居住的	inap desa|n,rumah inap|n
+居民家居住的时	inap desa|n,rumah inap|n
+居民家居住的时期	inap desa|n,rumah inap|n
+居民的	urbanisme|n
+居民的生	urbanisme|n
+居民的生活	urbanisme|n
+居民的生活方	urbanisme|n
+居民的生活方式	urbanisme|n
+居留	bermastautin,mastautin,tinggal|v
+幅	lerang
+幅的	lerang
+必	ajib,harus|v,jangan-jangan,jangankan,kapitan|n,kena|v,labut,mesti|v
+必丹	kapitan|n
+必定	jangan-jangan,labut
+必定的	labut
+必死	mortaliti|n
+必死的	mortaliti|n
+必死的命	mortaliti|n
+必死的命运	mortaliti|n
+必然	sepatutnya,nescaya,pasti|adj,sewajarnya
+必然的	nescaya,pasti|adj,sewajarnya
+必说	jangankan
+必须	ajib,harus|v,kena|v,mesti|v,patut|adj
+情	apa hal|adv,atas hal itu,belas kasihan,berahi,buah hati,budiman|n,cabul,cengkerama|n
+情人	buah hati,jantung hati|n,kekasih|n,kendak,rangkai hati
+情况	hal|n,insolvensi|n,keadaan|n,ketakmampuan bayar|n,perihal|n,dalam keadaan
+情况之	dalam keadaan
+情况之下	dalam keadaan
+情古	sentakan|n
+情古怪	sentakan|n
+情古怪的	sentakan|n
+情古怪的人	sentakan|n
+情夫	kekasih|n
+情妇	kekasih|n,moler,nyal
+情小	roman|n
+情小说	roman|n
+情形	apa hal|adv,situasi|n,demikian halnya
+情形就	demikian halnya
+情形就是	demikian halnya
+情形就是这	demikian halnya
+情形就是这样	demikian halnya
+情感	sentimen
+情愿	lugu,ogah
+情愿的	ogah
+情报	informasi|n
+情欲	nafsu
+情的	genit,lengah|adj
+情绪	emosi|n,perasaan|n,emosional|adj
+情绪的	emosional|adj
+情说	cengkerama|n
+情说爰	cengkerama|n
+情达	budiman|n
+情达理	budiman|n
+情达理的	budiman|n
+担	koyan,memikul,mengusung,pikul,usung|v,andalan,beban|n,bimbang
+担保	andalan,cagaran,jamin|v
+担子	gandaran,pikul
+担心	cemas,khuatir|adj,mempedulikan|v,bimbang,jangan risau|int
+担心的	bimbang
+担忧	gelisah|adj,khuatir|adj
+担负	galas
+故	allahyarham,almarhum,almarhumah,arwah,atan,bercerita|v,cerita|n,cerita rakyat|n
+故乡	atan
+故事	cerita|n,ceritera|n,dongeng,kaba|n,kisah|v,nukil,riwayat,bercerita|v
+故事中	pak kaduk
+故事中之	pak kaduk
+故事中之痴	pak kaduk
+故事中之痴汉	pak kaduk
+故意	semaja,sengaja
+故意的	semaja,sengaja
+故的	gemulah|n
+旅	briged|n,bekal|n,lancong,losmen,musafir,pelancong|n,pelancongan|n,pelawat
+旅人	musafir,safir,sapir
+旅客	pelancong|n,pelawat,pesisir|n,safir
+旅游	lancong,pelancongan|n
+旅游业	pelancongan|n
+旅程	perjalanan|n
+旅行	pesiar,siarah,bekal|n,rambih,zawadah
+旅行的	bekal|n
+旅行的干	bekal|n
+旅行的干粮	bekal|n
+旅行的干粮或	bekal|n
+旅行的干粮或用	bekal|n
+旅行的干粮或用品	bekal|n
+旅行者	zawadah
+旅行者随	zawadah
+旅行者随身	zawadah
+旅行者随身食	zawadah
+旅行者随身食物	zawadah
+旅馆	losmen
+桅	layar pengapuh,pengapuh
+桅帆	layar pengapuh,pengapuh
+毅	ketekunan|n
+毅力	ketekunan|n
+浅	capah|n,ceper,cetek|adj,dampak|v,dampar|adj,dangkal,jangkat,kandas
+浅塘	londang
+浅处	jangkat
+浅流	tohor|adj
+浅淡	muda|adj
+浅淡的	muda|adj
+浅滩	jangkat
+浅的	ceper,dangkal,tohor|adj,cetek|adj,memperdangkal,mencetekkan|v
+浅的地	cetek|adj,memperdangkal,mencetekkan|v
+浅的地方	cetek|adj,memperdangkal,mencetekkan|v
+浅盘	ceper,capah|n
+浅薄	tohor|adj
+淅	derai
+淅沥	derai
+淅沥声	derai
+滅	pemadam api|n
+滅火	pemadam api|n
+滅火器	pemadam api|n
+畅	bercengkerama,kefasihan|n,lancar|adj,larap,laris,payu|n
+畅谈	bercengkerama
+畅销	larap,laris,payu|n
+畅销的	payu|n
+病	gering|adj,sakit|adj,uzur,abak,ad,asma,awar,baras
+病人	derana|adj,dihitung-hitung|v,penyabar|n,pesakit
+病原	patogen|n,virus|n
+病原体	patogen|n
+病原本	virus|n
+病发	serangan jantung|n
+病发作	serangan jantung|n
+病复	kumat
+病复发	kumat
+病学	kardiologi|n,psikiatri|n
+病室	ad
+病弱	megrek
+病弱的	megrek
+病态	morbiditi|n
+病毒	koronavirus|n
+病理	kaji penyakit|n
+病理学	kaji penyakit|n
+病瘟	abak
+病瘟疫	abak
+病的	mat cintan|n
+病菌	hama
+病重	rodan
+病重的	rodan
+病魔	tumbal
+病魔的	tumbal
+病魔的邪	tumbal
+病魔的邪术	tumbal
+硅	silikon|n,sima|n
+硅镁	sima|n
+硅镁层	sima|n
+磅	kati,paun|n
+罅	gela
+罅隙	gela
+罅隙的	gela
+翅	perap|n,sayap|n,berkepak,bersayap,daun kupang|n,daun kurap|n,gelenggang|n,gelepar
+翅决	daun kupang|n,daun kurap|n,gelenggang|n
+翅决明	daun kupang|n,daun kurap|n,gelenggang|n
+翅的	lepuk
+翅膀	kepak|n,berkepak,bersayap,gelepar,gelupur
+翅膀拍	gelepar
+翅膀拍击	gelepar
+衅	provokasi
+装	acah|v,acapi|v,air botol|n,ajuk,alat|n,berisi|v,bilik acu|n,buat-buat
+装启	implementasi|n
+装启用	implementasi|n
+装填	muat semula|v
+装填弹	muat semula|v
+装填弹药	muat semula|v
+装备	alat|n,memasang,perkakasan|n
+装有	berisi|v,tengar|n
+装有踢	tengar|n
+装有踢马	tengar|n
+装有踢马刺	tengar|n
+装有踢马刺的	tengar|n
+装模	ajuk,loklek,pragawati
+装模作	ajuk
+装模作样	ajuk
+装模做	loklek
+装模做样	loklek
+装模特	pragawati
+装模特儿	pragawati
+装游	temasya
+装游行	temasya
+装游行盛	temasya
+装游行盛会	temasya
+装满	acapi|v,mumbung,tepu|adj
+装满的	tepu|adj
+装的	katai|adj,libat|v
+装硕	uba
+装硕莪	uba
+装硕莪粉	uba
+装硕莪粉之	uba
+装硕莪粉之大	uba
+装硕莪粉之大桶	uba
+装篱	memagari|v
+装篱笆	memagari|v
+装置	memasang,kedongkok
+装背	weskot|n
+装背心	weskot|n
+装轮	tayar|n
+装轮胎	tayar|n
+装轮胎于	tayar|n
+装载	memuat,muat|adj,muatan
+装载物	muatan
+装运	kontena|n
+装配	bilik acu|n,galeri|n
+装配车	bilik acu|n
+装配车间	bilik acu|n
+装配间	galeri|n
+装钉	menjilid
+装钉成	menjilid
+装钉成册	menjilid
+装饭	rantang
+装饭菜	rantang
+装饭菜的	rantang
+装饭菜的食	rantang
+装饭菜的食格	rantang
+装饮	air botol|n
+装饮用	air botol|n
+装饮用水	air botol|n
+装饰	bungai,dekor|n,dekorasi|n,hias|v,hiasan|n,memperindahkan,menghiasi,perhiasan
+装饰品	perhiasan
+装饰性	dekoratif|adj
+装饰性的	dekoratif|adj
+装饰牌	gaba
+装饰牌楼	gaba
+装饰牌楼的	gaba
+装饰牌楼的椰	gaba
+装饰牌楼的椰叶	gaba
+装饰的	keletah,lorek
+装饰金	pending
+装饰金属	pending
+装饰金属的	pending
+装饰金属的腰	pending
+装饰金属的腰带	pending
+诅	kerama,kutuk|n,laknat|n,laknatullah|n,lanat,menyumpahi,seranah,serapah
+诅咒	laknat|n,menyumpahi,seranah,serapah,laknatullah|n,lanat,waknat|adj
+诅咒的	lanat,laknatullah|n,waknat|adj
+迅	bangat,deras|adj,laju|adj,lancar|adj,lekas|adv,lolor-lolor,pantas|adj,pesat
+迅速	bangat,deras|adj,laju|adj,lancar|adj,lekas|adv,lolor-lolor,pantas|adj,pesat
+迅速的	lancar|adj,lekas|adv,lolor-lolor,pantas|adj,pesat
+铅	memimpin|v,pelambam|n,plumbum|n,timah hitam|n,timbel|n,batu duga,kebam,ladung
+铅桶	timba|n
+铅版	stereotaip|n
+铅笔	pensel|n,potlot|n
+铅色	kebam,lebam|n
+铅色的	kebam,lebam|n
+铅锤	ladung
+铅锤的	ladung
+镅	amerisium|n
+际	buah catur|n,diplomasi,internasional,kera sumbang,pada hakikatnya,padahal,pasport internasional,praktik
+际上	pada hakikatnya,padahal
+际手	diplomasi
+际手腕	diplomasi
+际护	pasport internasional
+际护照	pasport internasional
+际的	internasional,kera sumbang,praktis|adj,realistik,sejagat
+际的人	kera sumbang
+际象	buah catur|n
+际象棋	buah catur|n
+际象棋棋	buah catur|n
+际象棋棋子	buah catur|n
+雅	apas,arwah,athens,halus|adj,jakarta,jakun|n,julai,kasar|adj
+雅典	athens
+雅加	jakarta
+雅加达	jakarta
+雅各	yaakub
+雅拉	malayalam|n
+雅拉姆	malayalam|n
+雅拉姆语	malayalam|n
+雅的	arwah,halus|adj,julai,kasar|adj,santun,sopan
+雅致	zain,apas
+雅致的	apas
+雅贡	jakun|n
+雅贡人	jakun|n
+髅	tengkolok|n
+魅	bahadi
+鳅	belitung|n
+鹅	angsa|n,baldu|n,beldu,guam|n,penguin|n,seriawan
+鹅口	guam|n,seriawan
+鹅口疮	guam|n,seriawan
+鹅绒	baldu|n,beldu
+鹅绒的	baldu|n

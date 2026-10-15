@@ -1,1 +1,290 @@
-{"en2ms":{"helpful":["abang polis"],"habis":["abis tu","bistu"],"hurriedly":["acak-acak"],"hard":["air liat","bahu jalan","hentam","kencang","keras","minuman keras"],"heresy":["ajaran sesat"],"how":["amacam","apa macam","apa pasal","bagaimana","berapa","bisa mengabet"],"housemaid":["amah"],"hold":["ampu","berisi","bermoreh","kendong","paut","pegang"],"hairdress":["andam","dandan"],"hearsay":["angin-angin","khabar angin"],"heave":["angkat"],"hound":["anjing pemburu"],"husk":["antah","sekam"],"having":["antarabangsa","berabang","bererti","berhadiah","berjawab","berkebolehan"],"hantu":["antu"],"heck":["apa benda"],"hal":["apahal","pahal","pehal"],"hindrance":["aral","halangan"],"hidden":["art berat"],"hope":["asa","berharap","doa","harap","mudah-mudahan","tanjung harapan"],"headscarf":["awning"],"history":["babad","sejarah"],"hippopotamus":["badak air"],"happy":["bahagia","bahagiakan","ria","riang","selamat hari jadi","selamat hari lahir"],"house":["bait","cecak","dinding","mencit","ruang","teratak"],"hyacinth":["bakong","lembayung"],"hall":["balai","dewan","pendapa","peseban"],"home":["balik kampung","selamat pulang"],"hopefully":["barangkali","moga","semoga"],"handbag":["beg tangan"],"holy":["begawan","kudus","pawitera"],"horseshoe":["belangkas","ladam"],"he":["beliau"],"hatred":["benci"],"heart-shaped":["bentuk jantung"],"honorific":["bera"],"have":["berabangkan","berabarkan","berbaloi","berbekas","berbeza","beremosi"],"hazardous":["berbahaya"],"hadiths":["berhadis"],"hallucinate":["berhalusinasi"],"halt":["berhenti"],"hibernate":["berhibernasi"],"horse":["berkuda","kuda","kuda laut","mencari jejak dalam air","ringkik"],"hung":["berlabuh","labuh","nekshar","parlimen tergantung"],"happen":["berlaku"],"held":["bertempat"],"huge":["besau"],"hindu":["betara","betari"],"hardwood":["bintangur","ibu kayu","merbau"],"handball":["bola baling"],"hydrogen":["bom hidrogen","elektrod hidrogen piawai","hidrogen","hidrogen karbonat","hidrogen klorida","hidrogen peroksida"],"hump":["bonggol"],"humpbacked":["bongkok"],"hunchbacked":["bongkok"],"hammock":["buaian rajut"],"hill":["bukit","huma","puntuk"],"hitam":["bukit kayu hitam","itam"],"honeymoon":["bulan madu"],"hijri":["bulan puasa"],"hair":["bulu","rambut","remang","sanggul","uban"],"historical":["bunduki","sejarawi"],"hibiscus":["bunga raya","worawari"],"hunt":["buru"],"habit":["canda"],"hilt":["candung"],"hook":["cangkuk","kait","mata kail","mengait","sangkut"],"hoe":["cangkul"],"hemidacytlus":["cecak"],"http":["cecikut","kuki"],"head":["cef","dongak","hulu","junjung","kalang ulu","kepala"],"hotel":["cef","hotel","ketua jurumasak"],"hinder":["cegah","halang"],"hand":["cekup","sambut","serah","tampar","tangan","timba"],"heimii":["cengal"],"hastily":["cepat-cepat"],"hurry":["cepat-cepat"],"headteacher":["cikgu besar","guru besar","pengetua"],"headmaster":["cikgu besar","pengetua"],"headmistress":["cikgu besar","pengetua"],"hack":["cincang","tetak"],"haid":["datang bulan"],"hear":["dengar"],"heavy":["deras","lebat","lori","parang"],"hardship":["derita","kesukaran","kesusahan"],"hissing":["desis"],"hadiahi":["dihadiahi","menghadiahi"],"hadiahkan":["dihadiahkan","menghadiahkan"],"hitung":["dihitung","menghitung"],"hitung-hitung":["dihitung-hitung"],"hundred":["dua ratus","empat ratus","enam ratus","keti","lapan ratus","lima ratus"],"hyena":["dubuk"],"has":["duda","haji","kata","komku","mualaf","oktagon"],"highness":["duli yang maha mulia"],"hempedal":["empedal","lempedal"],"heed":["endah","hirau"],"hinge":["engsel"],"hesitation":["er"],"highest":["firdaus","sat"],"heaven":["firdaus","jannah","kayangan","syurga"],"hispida":["gadung"],"hesitant":["gamer"],"harassment":["gangguan seksual"],"hang":["gantung","sangkut"],"handcuffs":["gari"],"hairstyle":["gaya rambut"],"homelessness":["gelandangan","tuna wisma"],"headshake":["geleng"],"herder":["gembala"],"hillock":["guar"],"heat":["haba","puteri lilin","terma"],"habuk":["habok"],"hadith":["hadis","rawi"],"hadis":["hadith"],"heart":["hafal","jantung","jantung hati","kalbu","lebar-lebu","serangan jantung"],"hafnium":["hafnium"],"hajji":["haji"],"human":["hak asasi manusia","insan","manusia","manusiawi","nara"],"hello":["halo","helo"],"hallucination":["halusinasi"],"hot":["hangat","panas","pedas","stim"],"haram":["haram"],"holiday":["hari raya"],"hari":["hari raya haji","hari raya korban","hari raya puasa","tengari"],"haris":["harith"],"harun":["haron"],"hassium":["hassium"],"haul":["hela","heret"],"helicopter":["helikopter"],"helium":["helium"],"handsome":["hensem","tampan"],"hit":["hentam","langgar lari","meletakkan kepala","mengorat","pangkong","parap"],"heavily":["henyak"],"herb":["herba"],"herbivore":["herbivor","maun"],"hiatus":["hiatus"],"hibernation":["hibernasi"],"hidung":["hidong","taik hidung"],"hydraulic":["hidraulik"],"hydroxide":["hidroksida","natrium hidroksida","zink hidroksida"],"hydrology":["hidrologi"],"hierarchy":["hierarki"],"hygrometer":["higrometer"],"hehe":["hihi"],"hypertension":["hipertegangan","hipertensi"],"hypochondria":["hipokondria"],"hypocrite":["hipokrit","munafik"],"hypothermia":["hipotermia"],"hey":["hoi","weh","wei","woi","ya"],"hockey":["hoki"],"holland":["holanda","wolanda"],"holmium":["holmium"],"horn":["hon","tanduk"],"horizon":["horizon","kaki langit","ufuk"],"horizontal":["horizontal","lintang","mengufuk","vertikal"],"hospital":["hospital","rumah sakit","sepital"],"hujung":["hujong","ujung"],"hulu":["hulu langat","ulu"],"headstream":["hulu sungai"],"hungary":["hungary"],"husky":["huski"],"heartwood":["ibu kayu","teras"],"headquarters":["ibu pejabat"],"homeland":["ibu pertiwi","tanah air"],"hijau":["ijo"],"henna":["inai","pacar"],"homestay":["inap desa","rumah inap"],"hindus":["indera"],"here":["ini","nah"],"harlequin":["itik badut"],"honor":["izzat"],"hellish":["jahanam"],"hour":["jam"],"hours":["jam kerja"],"hay":["jerami"],"haze":["jerebu"],"honest":["jujur","reda","tulus"],"high":["julang","julang senjata","khayal","menjulang","pijau","sekolah menengah"],"hazy":["kabur"],"hostile":["kafir harbi"],"habitually":["kaki dadah"],"honour":["kawalan kehormatan","martabat"],"headhunt":["kayau"],"hunched":["kebongkokkan"],"honorary":["kehormat"],"heavenly":["keinderaan"],"humor":["kejenakaan"],"humidity":["kelembapan"],"hare":["kelinci"],"humour":["kelucuan"],"helm":["kemudi"],"hypocritical":["kemunafikan"],"hypocrisy":["kemunafikan"],"half-hearted":["kepalang"],"half-baked":["kepalang"],"hardheaded":["keras kepala"],"health":["kesihatan"],"heroism":["kewiraan"],"harbour":["labuhan","pelabuhan"],"husband":["laki","mempersuamikan","suami"],"halaman":["laman"],"horsefly":["langau"],"higher":["lantik"],"hungry":["lapar"],"humorous":["lawak"],"hollow":["lekuk","lubang"],"humid":["lembap"],"hole":["liang","lubang"],"hide":["lindung","pendap","sembunyi","simpan"],"howl":["lolong"],"hurl":["lontar"],"hilarious":["lucu"],"honey":["madu","misan"],"half":["majoriti","separuh","setengah","setengah dozen"],"humans":["manusiawi"],"hammer":["martil","palu","tukul","tukul dan sabit"],"himself":["mat pen"],"harimau":["maung","rimau"],"harmful":["melarat","memudaratkan"],"help":["membantu","menolong","tolong"],"hargai":["menghargai"],"hela":["menghela"],"hate":["menyampah"],"horseradish":["merunggai"],"happens":["mogok kilat"],"hunger":["mogok lapar","mogok makan"],"hendak":["nak"],"however":["namun","walau bagaimanapun"],"hell":["neraka"],"healthy":["nyaman","segar","sihat","waras"],"heard":["nyata"],"hoi":["oi"],"hero":["pahlawan","wira"],"hoarse":["parau"],"humpback":["paus kelasa"],"holding":["pautan","tuntun"],"heartache":["pedih hati"],"holes":["pejal"],"hug":["peluk"],"habitual":["pemabuk"],"heater":["pemanas"],"hunter":["pemburu"],"hanging":["penggantungan"],"hurt":["pening kepala"],"hanger":["penyangkut baju"],"hajj":["pergi haji"],"harapan":["ph"],"hydrant":["pili bomba"],"hip":["pinggul"],"hybrid":["pisang raja","punti"],"heron":["pucung"],"hardworking":["rajin","ringan tulang"],"hairpiece":["rambut palsu"],"hairy":["randuk"],"howdah":["rengga"],"headache":["sakit kepala"],"handkerchief":["saputangan"],"helai":["sehelai"],"hull":["sekam"],"harmonious":["selaras"],"high-five":["sep"],"half-time":["separuh masa"],"hillbilly":["sepok"],"harpoon":["serampang","tempuling"],"horses":["surai"],"hilus":["tampuk"],"highlands":["tanah tinggi cameron"],"hashtag":["tanda pagar"],"headdress":["tanjak"],"hornet":["tebuan"],"hood":["tedung"],"hard-working":["tekun"],"hearing":["telinga"],"headgear":["tengkolok"],"hollowed":["teropong"],"hatch":["tetas"],"heels":["tinggung"],"hat":["topi"],"helmet":["topi keledar"],"harvest":["tuai","tuaian"],"hijab":["tudung"],"handyman":["tukang"],"heel":["tumit"],"hitch":["tumpang"],"hujan":["ujan"],"hermit":["umang-umang"],"hutan":["utan"],"heir":["waris"],"heritage":["warisan"],"hebrews":["yahudi"],"honourable":["yang berhormat"]}}
+habis	abis tu|adv,bistu|adv
+habit	canda|n
+habitual	pemabuk|n
+habitually	kaki dadah|n
+habuk	habok|n
+hack	cincang|v,tetak|v
+hadiahi	dihadiahi|v,menghadiahi|v
+hadiahkan	dihadiahkan|v,menghadiahkan|v
+hadis	hadith|n
+hadith	hadis|n,rawi|n
+hadiths	berhadis|v
+hafnium	hafnium|n
+haid	datang bulan|n
+hair	bulu|n,rambut|n,remang|n,sanggul|n,uban|n
+hairdress	andam|v,dandan|v
+hairpiece	rambut palsu|n
+hairstyle	gaya rambut|n
+hairy	randuk|adj
+hajj	pergi haji|v
+hajji	haji|n
+hal	apahal|adv,pahal|adv,pehal|adv
+halaman	laman|n
+half	majoriti|n,separuh|num,setengah|n,setengah dozen|num
+half-baked	kepalang|adj
+half-hearted	kepalang|adj
+half-time	separuh masa|n
+hall	balai|n,dewan|n,pendapa|n,peseban|n
+hallucinate	berhalusinasi|v
+hallucination	halusinasi|n
+halt	berhenti|v
+hammer	martil|n,palu|n,tukul|n,tukul dan sabit|n
+hammock	buaian rajut|n
+hand	cekup|v,sambut|v,serah|v,tampar|n,tangan|n,timba|n
+handbag	beg tangan|n
+handball	bola baling|n
+handcuffs	gari|n
+handkerchief	saputangan|n
+handsome	hensem|adj,tampan|adj
+handyman	tukang|n
+hang	gantung|v,sangkut|v
+hanger	penyangkut baju|n
+hanging	penggantungan|n
+hantu	antu|n
+happen	berlaku|v
+happens	mogok kilat|n
+happy	bahagia|adj,bahagiakan|v,ria|adj,riang|adj,selamat hari jadi|int,selamat hari lahir
+haram	haram|adj
+harapan	ph
+harassment	gangguan seksual|n
+harbour	labuhan|n,pelabuhan|n
+hard	air liat|n,bahu jalan|n,hentam|v,kencang|adj,keras|adj,minuman keras|n
+hard-working	tekun|adj
+hardheaded	keras kepala|adj
+hardship	derita|v,kesukaran|n,kesusahan|n
+hardwood	bintangur|n,ibu kayu|n,merbau|n
+hardworking	rajin|adj,ringan tulang|adj
+hare	kelinci|n
+hargai	menghargai|v
+hari	hari raya haji,hari raya korban,hari raya puasa,tengari|n
+harimau	maung|n,rimau|n
+haris	harith
+harlequin	itik badut|n
+harmful	melarat|adj,memudaratkan|adj
+harmonious	selaras|adj
+harpoon	serampang|n,tempuling|n
+harun	haron
+harvest	tuai|v,tuaian|n
+has	duda|n,haji|n,kata|n,komku|n,mualaf|n,oktagon|n
+hashtag	tanda pagar|n
+hassium	hassium|n
+hastily	cepat-cepat|adv
+hat	topi|n
+hatch	tetas|v
+hate	menyampah|v
+hatred	benci|v
+haul	hela|v,heret|v
+have	berabangkan|v,berabarkan|v,berbaloi|v,berbekas|v,berbeza|v,beremosi|v
+having	antarabangsa|adj,berabang|adj,bererti|adj,berhadiah|adj,berjawab|adj,berkebolehan|adj
+hay	jerami|n
+hazardous	berbahaya|adj
+haze	jerebu|n
+hazy	kabur|adj
+he	beliau|pron
+head	cef|n,dongak|v,hulu|n,junjung|v,kalang ulu|n,kepala|n
+headache	sakit kepala|n
+headdress	tanjak|n
+headgear	tengkolok|n
+headhunt	kayau|v
+headmaster	cikgu besar|n,pengetua|n
+headmistress	cikgu besar|n,pengetua|n
+headquarters	ibu pejabat|n
+headscarf	awning|n
+headshake	geleng|n
+headstream	hulu sungai|n
+headteacher	cikgu besar|n,guru besar|n,pengetua|n
+health	kesihatan|n
+healthy	nyaman|adj,segar|adj,sihat|adj,waras|adj
+hear	dengar|v
+heard	nyata|adj
+hearing	telinga|n
+hearsay	angin-angin|n,khabar angin|n
+heart	hafal|v,jantung|n,jantung hati|n,kalbu|n,lebar-lebu|n,serangan jantung|n
+heart-shaped	bentuk jantung|adj
+heartache	pedih hati|n
+heartwood	ibu kayu|n,teras|n
+heat	haba|n,puteri lilin|n,terma|n
+heater	pemanas|n
+heave	angkat|v
+heaven	firdaus|n,jannah|n,kayangan|n,syurga|n
+heavenly	keinderaan|n
+heavily	henyak|v
+heavy	deras|adj,lebat|adj,lori|n,parang|n
+hebrews	yahudi
+heck	apa benda|pron
+heed	endah|v,hirau|v
+heel	tumit|n
+heels	tinggung|v
+hehe	hihi
+heimii	cengal|n
+heir	waris|n
+hela	menghela|v
+helai	sehelai|cls
+held	bertempat|v
+helicopter	helikopter|n
+helium	helium|n
+hell	neraka|n
+hellish	jahanam|adj
+hello	halo,helo
+helm	kemudi|n
+helmet	topi keledar|n
+help	membantu|v,menolong|v,tolong|v
+helpful	abang polis|n
+hemidacytlus	cecak|n
+hempedal	empedal|n,lempedal
+hendak	nak|prep
+henna	inai|n,pacar|n
+herb	herba|n
+herbivore	herbivor|n,maun|n
+herder	gembala|n
+here	ini|pron,nah
+heresy	ajaran sesat|n
+heritage	warisan|n
+hermit	umang-umang|n
+hero	pahlawan|n,wira|n
+heroism	kewiraan|n
+heron	pucung|n
+hesitant	gamer|adj
+hesitation	er
+hey	hoi,weh,wei,woi,ya|int
+hiatus	hiatus|n
+hibernate	berhibernasi|v
+hibernation	hibernasi|n
+hibiscus	bunga raya|n,worawari|n
+hidden	art berat|n
+hide	lindung|v,pendap|v,sembunyi|v,simpan|v
+hidung	hidong|n,taik hidung|n
+hierarchy	hierarki|n
+high	julang|v,julang senjata|n,khayal|adj,menjulang|v,pijau|n,sekolah menengah|n
+high-five	sep|n
+higher	lantik|v
+highest	firdaus|n,sat|adj
+highlands	tanah tinggi cameron
+highness	duli yang maha mulia
+hijab	tudung|n
+hijau	ijo|adj
+hijri	bulan puasa|n
+hilarious	lucu|adj
+hill	bukit|n,huma|n,puntuk|n
+hillbilly	sepok|adj
+hillock	guar|n
+hilt	candung|n
+hilus	tampuk|n
+himself	mat pen|n
+hinder	cegah|v,halang|v
+hindrance	aral|n,halangan|n
+hindu	betara|n,betari|n
+hindus	indera|n
+hinge	engsel|n
+hip	pinggul|n
+hippopotamus	badak air|n
+hispida	gadung|n
+hissing	desis|n
+historical	bunduki|n,sejarawi|adj
+history	babad|n,sejarah|n
+hit	hentam|v,langgar lari|n,meletakkan kepala|v,mengorat|v,pangkong|v,parap|v
+hitam	bukit kayu hitam,itam|adj
+hitch	tumpang|v
+hitung	dihitung|v,menghitung|v
+hitung-hitung	dihitung-hitung|v
+hoarse	parau|adj
+hockey	hoki|n
+hoe	cangkul|n
+hoi	oi
+hold	ampu|v,berisi|v,bermoreh|v,kendong|v,paut|v,pegang|v
+holding	pautan|n,tuntun|v
+hole	liang|n,lubang|n
+holes	pejal|adj
+holiday	hari raya|n
+holland	holanda,wolanda
+hollow	lekuk|n,lubang|n
+hollowed	teropong|n
+holmium	holmium|n
+holy	begawan|adj,kudus|adj,pawitera|adj
+home	balik kampung|n,selamat pulang
+homeland	ibu pertiwi|n,tanah air|n
+homelessness	gelandangan|n,tuna wisma|n
+homestay	inap desa|n,rumah inap|n
+honest	jujur|adj,reda|adj,tulus|adj
+honey	madu|n,misan|n
+honeymoon	bulan madu|n
+honor	izzat|n
+honorary	kehormat|adj
+honorific	bera|n
+honour	kawalan kehormatan|n,martabat|n
+honourable	yang berhormat|pron
+hood	tedung|n
+hook	cangkuk|n,kait|n,mata kail|n,mengait|v,sangkut|v
+hope	asa|n,berharap|v,doa|n,harap|v,mudah-mudahan|adv,tanjung harapan
+hopefully	barangkali|adv,moga|adv,semoga|adv
+horizon	horizon|n,kaki langit|n,ufuk|n
+horizontal	horizontal|adj,lintang|adj,mengufuk|adj,vertikal|adj
+horn	hon|n,tanduk|n
+hornet	tebuan|n
+horse	berkuda|v,kuda|n,kuda laut|n,mencari jejak dalam air|v,ringkik|n
+horsefly	langau|n
+horseradish	merunggai|n
+horses	surai|n
+horseshoe	belangkas|n,ladam|n
+hospital	hospital|n,rumah sakit|n,sepital|n
+hostile	kafir harbi|n
+hot	hangat|adj,panas|adj,pedas|adj,stim|n
+hotel	cef|n,hotel|n,ketua jurumasak|n
+hound	anjing pemburu|n
+hour	jam|n
+hours	jam kerja|n
+house	bait|n,cecak|n,dinding|n,mencit|n,ruang|n,teratak|n
+housemaid	amah|n
+how	amacam|adv,apa macam|adv,apa pasal|adv,bagaimana|adv,berapa|adv,bisa mengabet|v
+howdah	rengga|n
+however	namun|adv,walau bagaimanapun|conj
+howl	lolong|n
+http	cecikut|n,kuki|n
+hug	peluk|v
+huge	besau|adj
+hujan	ujan|n
+hujung	hujong|adj,ujung|adj
+hull	sekam|n
+hulu	hulu langat,ulu|adj
+human	hak asasi manusia|n,insan|n,manusia|n,manusiawi|adj,nara|n
+humans	manusiawi|adj
+humid	lembap|adj
+humidity	kelembapan|n
+humor	kejenakaan|n
+humorous	lawak|adj
+humour	kelucuan|n
+hump	bonggol|n
+humpback	paus kelasa|n
+humpbacked	bongkok|adj
+hunchbacked	bongkok|adj
+hunched	kebongkokkan|n
+hundred	dua ratus|num,empat ratus|num,enam ratus|num,keti|num,lapan ratus|num,lima ratus|num
+hung	berlabuh|v,labuh|adj,nekshar|adj,parlimen tergantung|n
+hungary	hungary
+hunger	mogok lapar|n,mogok makan|n
+hungry	lapar|adj
+hunt	buru|v
+hunter	pemburu|n
+hurl	lontar|v
+hurriedly	acak-acak|adv
+hurry	cepat-cepat|adv
+hurt	pening kepala|adj
+husband	laki|n,mempersuamikan|v,suami|n
+husk	antah|n,sekam|n
+husky	huski|n
+hutan	utan|n
+hyacinth	bakong|n,lembayung|n
+hybrid	pisang raja|n,punti|n
+hydrant	pili bomba|n
+hydraulic	hidraulik|adj
+hydrogen	bom hidrogen|n,elektrod hidrogen piawai|n,hidrogen|n,hidrogen karbonat|n,hidrogen klorida|n,hidrogen peroksida|n
+hydrology	hidrologi|n
+hydroxide	hidroksida|n,natrium hidroksida|n,zink hidroksida|n
+hyena	dubuk|n
+hygrometer	higrometer|n
+hypertension	hipertegangan|n,hipertensi|n
+hypochondria	hipokondria|n
+hypocrisy	kemunafikan|n
+hypocrite	hipokrit|n,munafik|n
+hypocritical	kemunafikan|n
+hypothermia	hipotermia|n

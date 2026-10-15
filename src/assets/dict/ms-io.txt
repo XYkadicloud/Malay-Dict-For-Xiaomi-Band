@@ -1,0 +1,3 @@
+iodin	iodin	n	碘	iodine (element)
+iolls	iolls	pron	我	I  me  my
+ionhidrogen	ion hidrogen	n	氢离子	hydrogen ion

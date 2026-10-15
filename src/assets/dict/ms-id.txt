@@ -1,0 +1,10 @@
+id	id	n	节日	feast day
+idah	idah		爱的誓约，爱的赠品
+idam	idam	v	食欲，渴望，热望	to want to eat  to crave
+idas	idas		编绞，搓然
+idea	idea	n	主意	idea
+ideal	ideal		理想的	the idea of something that is perfect; something that one…
+idealisme	idealisme	n	唯心主义	idealism
+identiti	identiti	n	身份	identity
+ideologi	ideologi	n	意识形态	ideology
+idris	idris		预言者	A prophet in Islam.

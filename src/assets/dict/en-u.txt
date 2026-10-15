@@ -1,1 +1,119 @@
-{"en2ms":{"um":["aaa"],"usual":["abnormal","biasa","lazim"],"urine":["air kecil","air kemih","air kencing","air seni","najis kecil","urin"],"united":["amerika syarikat","emiriah arab bersatu","united kingdom"],"uvula":["anak lidah","anak tekak","uvula"],"useless":["andau","hampeh","tak guna"],"unknown":["anu","negeri antah-berantah"],"ustaz":["asatizah"],"ustazah":["asatizah"],"upon":["atas","kena","menyampah","timpa"],"until":["ayon","hingga","mengacau","sampai","sehingga","takat"],"up":["bangun","beratur","bertambun","buak","cekut","clash"],"uncle":["bapa cik","datuk saudara","mamak","pak cik","paman"],"under":["bawah","daerah","depan hidung","kebawah","kepit","mengelek"],"uncooked":["beras"],"unfortunate":["berau","malang tidak berbau","miskin"],"useful":["berfaedah","berguna","informatif"],"unmarried":["berkhalwat","bujang"],"unify":["bersatu"],"unite":["bersatu","bersekutu"],"unstitch":["bertas"],"uncivilised":["biadab"],"unable":["bular","buta huruf","mandul"],"ubiquitous":["cap ayam"],"unleavened":["capati"],"unlucky":["celaka","celaka tiga belas","sial"],"underhanded":["dedak"],"urge":["desak"],"upwards":["dongak","sulur"],"undangan":["dun"],"unwilling":["enggan","segan"],"understanding":["faham"],"understand":["fahami","reti"],"umno":["geng baju merah"],"unrounded":["hampar"],"unit":["hasta","hun","leng","liter","nalih","rian"],"ugly":["hodoh"],"upas":["ipuh","upas"],"ugh":["isy"],"utama":["jusa"],"unclear":["kabur","samar"],"utterance":["kalimah","suara","ucapan"],"uterus":["kandung","rahim","tian","uterus"],"unraveling":["kasyaf"],"unripe":["kebabal"],"urban":["kebandaran"],"unchanging":["kelestarian","lestari"],"update":["kemas kini"],"urination":["kemih"],"urinate":["kencing"],"unrest":["kerusuhan"],"underarm":["ketiak"],"unlikely":["ketot"],"unique":["keunikan","unik"],"uniqueness":["keunikan"],"us":["kita","kitorang","negara dolar"],"union":["kongsi","persekutuan","serikat"],"uses":["ktm","negara dolar"],"uncertainty":["kut"],"ulat":["kutu buku"],"urchin":["landak laut"],"unpleasant":["langu"],"untamed":["liar"],"university":["mahasiswa","universiti"],"unforeseen":["malang tidak berbau"],"unless":["melainkan"],"urbanize":["membandarkan"],"upgrade":["menaiktaraf","naik taraf"],"upgrading":["menaiktaraf"],"uncertain":["meraba-raba","syubhah"],"upload":["muat naik"],"up-to-date":["mutakhir"],"unconditional":["mutlak"],"unravel":["orak"],"uncoil":["orak"],"unwind":["orak"],"unguent":["palit"],"urbanizing":["pembandaran"],"uprising":["pemberontakan"],"usage":["penggunaan"],"utilisation":["penggunaan"],"unity":["perpaduan"],"undergraduate":["prasiswazah"],"urinary":["pundi kencing"],"udara":["putd","tudm"],"upper":["regan"],"unconfident":["rendah diri"],"undang-undang":["ruu"],"unhappy":["sedih"],"uncover":["selak"],"untidy":["selerak"],"underwear":["seluar dalam","sependa"],"underpants":["seluar dalam"],"ubi":["sengsengub"],"uniform":["seragam"],"unforgivable":["syirik"],"unlimited":["tanpa had"],"upright":["tegak"],"upward":["tengadah"],"undone":["terurai"],"upside":["tunggang"],"utter":["ujar"],"ujung":["ujong"],"ujrah":["ujrat"],"ukelele":["ukulele"],"unregistered":["ulat arkitek"],"ultrasound":["ultrabunyi"],"ultraconservative":["ultrakonservatif"],"ultraviolet":["ultraungu"],"ummah":["umat islam"],"universiti":["ums","universitas","utar","uum"],"undang":["undang-undang"],"undecillion":["undesilion"],"unvigintillion":["unvigintilion"],"uranium":["uranium"],"urbanism":["urbanisme"],"urdu":["urdu"],"uruguay":["uruguay"],"utara":["uum"]}}
+ubi	sengsengub|adj
+ubiquitous	cap ayam|adj
+udara	putd,tudm
+ugh	isy
+ugly	hodoh|adj
+ujrah	ujrat|n
+ujung	ujong|adj
+ukelele	ukulele|n
+ulat	kutu buku|n
+ultraconservative	ultrakonservatif|adj
+ultrasound	ultrabunyi|n
+ultraviolet	ultraungu|n
+um	aaa
+ummah	umat islam|n
+umno	geng baju merah|n
+unable	bular|adj,buta huruf|adj,mandul|adj
+uncertain	meraba-raba|v,syubhah|adj
+uncertainty	kut|part
+unchanging	kelestarian|n,lestari|adj
+uncivilised	biadab|adj
+uncle	bapa cik|n,datuk saudara|n,mamak|n,pak cik|n,paman|n
+unclear	kabur|adj,samar|adj
+uncoil	orak|v
+unconditional	mutlak|adj
+unconfident	rendah diri|adj
+uncooked	beras|n
+uncover	selak|v
+undang	undang-undang|n
+undang-undang	ruu|n
+undangan	dun|n
+undecillion	undesilion|num
+under	bawah|prep,daerah|n,depan hidung,kebawah|prep,kepit|v,mengelek|v
+underarm	ketiak|n
+undergraduate	prasiswazah|adj
+underhanded	dedak|n
+underpants	seluar dalam|n
+understand	fahami|v,reti|v
+understanding	faham|v
+underwear	seluar dalam|n,sependa|n
+undone	terurai|adj
+unforeseen	malang tidak berbau|n
+unforgivable	syirik|n
+unfortunate	berau|adj,malang tidak berbau|n,miskin|adj
+unguent	palit|n
+unhappy	sedih|adj
+uniform	seragam|adj
+unify	bersatu|v
+union	kongsi|n,persekutuan|n,serikat|n
+unique	keunikan|n,unik|adj
+uniqueness	keunikan|n
+unit	hasta|n,hun|n,leng|n,liter|n,nalih|n,rian|n
+unite	bersatu|v,bersekutu|v
+united	amerika syarikat,emiriah arab bersatu,united kingdom
+unity	perpaduan|n
+universiti	ums,universitas|n,utar,uum
+university	mahasiswa|n,universiti|n
+unknown	anu|n,negeri antah-berantah|n
+unleavened	capati|n
+unless	melainkan|conj
+unlikely	ketot|adj
+unlimited	tanpa had|adj
+unlucky	celaka|adj,celaka tiga belas|adj,sial|adj
+unmarried	berkhalwat|v,bujang|n
+unpleasant	langu|n
+unravel	orak|v
+unraveling	kasyaf|n
+unregistered	ulat arkitek|n
+unrest	kerusuhan|n
+unripe	kebabal|n
+unrounded	hampar|adj
+unstitch	bertas|v
+untamed	liar|adj
+untidy	selerak|adj
+until	ayon|adv,hingga|prep,mengacau|v,sampai|v,sehingga|prep,takat|prep
+unvigintillion	unvigintilion|num
+unwilling	enggan|adv,segan|adj
+unwind	orak|v
+up	bangun|v,beratur|v,bertambun|v,buak|v,cekut|v,clash|v
+up-to-date	mutakhir|adj
+upas	ipuh|n,upas|n
+update	kemas kini|n
+upgrade	menaiktaraf|n,naik taraf|n
+upgrading	menaiktaraf|n
+upload	muat naik|v
+upon	atas|prep,kena|v,menyampah|v,timpa|v
+upper	regan|n
+upright	tegak|adj
+uprising	pemberontakan|n
+upside	tunggang|adj
+upward	tengadah|v
+upwards	dongak|v,sulur|v
+uranium	uranium|n
+urban	kebandaran|adj
+urbanism	urbanisme|n
+urbanize	membandarkan|v
+urbanizing	pembandaran|n
+urchin	landak laut|n
+urdu	urdu
+urge	desak|v
+urinary	pundi kencing|n
+urinate	kencing|v
+urination	kemih|n
+urine	air kecil|n,air kemih|n,air kencing|n,air seni|n,najis kecil|n,urin|n
+uruguay	uruguay
+us	kita|pron,kitorang|pron,negara dolar|n
+usage	penggunaan|n
+useful	berfaedah|v,berguna|adj,informatif|adj
+useless	andau|adv,hampeh|adj,tak guna|adj
+uses	ktm,negara dolar|n
+ustaz	asatizah|n
+ustazah	asatizah|n
+usual	abnormal|adj,biasa|adj,lazim|adj
+utama	jusa|n
+utara	uum
+uterus	kandung|n,rahim|n,tian|n,uterus|n
+utilisation	penggunaan|n
+utter	ujar|v
+utterance	kalimah|n,suara|n,ucapan|n
+uvula	anak lidah|n,anak tekak|n,uvula|n

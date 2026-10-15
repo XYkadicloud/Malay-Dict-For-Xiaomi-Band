@@ -1,0 +1,364 @@
+仁	isirung,badam|n,budi|n,ciku|n,karim|adj,kurnia|n,manan,murah hati
+仁心	ciku|n
+仁心果	ciku|n
+仁慈	kurnia|n,rahmatullah|n,salla,budi|n,karim|adj,murah hati,rahim|n
+仁慈的	budi|n,karim|adj,murah hati,rahim|n
+仁爱	manan
+仁爱的	manan
+允	berjanji,insya allah,izin|n,janji|n,kabul,kerelaan,makbul,membenarkan
+允许	izin|n,kabul,kerelaan,makbul,membenarkan,membolehkan,memperbolehkan,insya allah
+允许的	insya allah
+允许的话	insya allah
+允诺	berjanji,janji|n
+剁	mencencang
+十	dasa|num,puluh|num,sepuluh|num,banji|n,beremban,berpuluh|num,berpuluh-puluh,bilion|num
+十一	kesebelasan|n,satu belas|num,satu puluh satu|num,sebelas|num,sebelas ribu|num,sepuluh satu|num,bulan sebelas|n,dua puluh satu|num
+十一月	bulan sebelas|n,zulhijah
+十七	pitu belas|num,satu puluh pitu|num,satu puluh tujuh|num,sepuluh pitu|num,sepuluh tujuh|num,tujuh belas|num,dua puluh pitu|num,dua puluh tujuh|num
+十万	keti|num,ratus ribu|num,satu ratus ribu|num,seratus ribu|num
+十三	satu puluh telu|num,satu puluh tiga|num,sepuluh telu|num,sepuluh tiga|num,telu belas|num,tiga belas|num,dua puluh telu|num,dua puluh tiga|num
+十个	berpuluh-puluh,kodi
+十九	satu puluh sembilan|num,sembilan belas|num,sepuluh sembilan|num,dua puluh sembilan|num,empat puluh sembilan|num,enam puluh sembilan|num,lapan puluh sembilan|num,lima puluh sembilan|num
+十二	dua belas|num,satu puluh dua|num,sepuluh dua|num,bulan dua belas|n,disember,dua likur|num,dua puluh dua|num,empat puluh dua|num
+十二打	gros
+十二月	bulan dua belas|n,disember
+十五	lima belas|num,satu puluh lima|num,sepuluh lima|num,empat puluh lima|num,enam puluh lima|num,kuatordesilion|num,kuindesilion|num,lapan puluh lima|num
+十五个	kuatordesilion|num
+十五个零	kuatordesilion|num
+十五个零之	kuatordesilion|num
+十五个零之数	kuatordesilion|num
+十五口	empat puluh lima|num
+十五口径	empat puluh lima|num
+十五口径的	empat puluh lima|num
+十五口径的手	empat puluh lima|num
+十五口径的手枪	empat puluh lima|num
+十五次	kuindesilion|num
+十五次幂	kuindesilion|num
+十亿	bilion|num,milyar|num,ribu juta|num,satu bilion|num,satu ribu juta|num,sebilion|num,seribu juta|num
+十位	berpuluh|num
+十克	dekagram|n
+十八	delapan belas|num,lapan belas|num,satu puluh delapan|num,satu puluh lapan|num,sepuluh delapan|num,sepuluh lapan|num,dua puluh lapan|num,enam puluh lapan|num
+十六	enam belas|num,satu puluh enam|num,sepuluh enam|num,dua puluh enam|num,empat puluh enam|num,enam likur|num,kati,kunut
+十六两	kati
+十六夜	kunut
+十六夜晚	kunut
+十六夜晚的	kunut
+十六夜晚的祈	kunut
+十六夜晚的祈祷	kunut
+十分	bukan main|adv,cukup besar,kupang|n,merakap
+十分大	cukup besar
+十分愚	merakap
+十分愚味	merakap
+十分愚味的	merakap
+十分锵	kupang|n
+十千	laksa|n
+十四	empat belas|num,satu puluh empat|num,sepuluh empat|num,dua puluh empat|num,empat likur|num,empat puluh empat|num,enam puluh empat|num,sembilan puluh empat|num
+十四行	sonet
+十四行诗	sonet
+十字	silang,banji|n,beremban,palang|n,palang merah,parapatan,penyaliban|n,perapatan
+十字会	palang merah
+十字形	sengkang|v
+十字形的	sengkang|v
+十字性	palang|n
+十字架	regat|v,salib|n,beremban,penyaliban|n
+十字架上	penyaliban|n
+十字架上钉	penyaliban|n
+十字架上钉死	penyaliban|n
+十字架上钉死的	penyaliban|n
+十字架上钉死的刑	penyaliban|n
+十字架上钉死的刑罚	penyaliban|n
+十字架光	beremban
+十字架光线	beremban
+十字记	banji|n
+十字记号	banji|n
+十字路	parapatan,perapatan
+十年	dekad|n,jubli
+十年纪	jubli
+十年纪念	jubli
+十月	bulan sepuluh|n,sawal,syawal
+十色	puspawarna
+十色的	puspawarna
+十足	melulu,senang linang
+十足的	melulu
+十足舒	senang linang
+十足舒服	senang linang
+十边	dekagon|n
+十边形	dekagon|n
+十进	perpuluhan|adj
+十进位	perpuluhan|adj
+十进位的	perpuluhan|adj
+品	akhlak|n,asam garam|n,bagur,bahan makanan,barang|n,barang dagangan,barang-barang,bekal|n
+品之	jidar|n
+品之边	jidar|n
+品之边缘	jidar|n
+品德	akhlak|n
+品格	budi|n,budi pekerti,tingkah
+品行	akhlak|n,kelakuan,laku|n,perangai|n,telingkah,tingkah laku,tokoh,telatah|n
+品质	berkualiti|adj,keabnormalan|n,kebaharuan|n,kebutahurufan|n,kecendekiawanan|n,keelokan|n,keformalan|n,kejelasan|n
+壁	cicak|n,fresko|n,serap|v,tembok|n,tokek|n,tubir|n
+壁画	fresko|n
+壁脚	serap|v
+壁脚板	serap|v
+壁虎	cicak|n,tokek|n
+嫁	mikahkan,bawaan,bersuami,janggus|n,mahar|n,mengahwinkan,santung
+嫁女	mikahkan,mengahwinkan
+嫁女儿	mengahwinkan
+嫁妆	bawaan,mahar|n
+嫁枣	janggus|n
+嫁物	mahar|n
+嫁给	santung
+嫁给别	santung
+嫁给别人	santung
+嫁给别人的	santung
+嫁给别人的头	santung
+嫁给别人的头邪	santung
+嫁给别人的头邪术	santung
+屁	berkentut,brekmok|n,kaki bodek|n,kentut|n,mat bodek|n,pantat|n,peleceh,pinggul|n
+屁的	peleceh
+屁的人	peleceh
+屁眼	brekmok|n
+屁眼儿	brekmok|n
+屁者	kaki bodek|n,mat bodek|n
+屁股	pantat|n,pinggul|n
+扁	bulat pipih,galas,gandar,gepeng,leper,pengandar,penyek,pipih
+扁伏	selimpat
+扁圆	bulat pipih
+扁圆形	bulat pipih
+扁平	gepeng,leper,penyek,pipih,selampit
+扁平之	selampit
+扁平之髻	selampit
+扁平的	gepeng,leper,penyek,pipih
+扁担	galas,gandar,pengandar,usungan
+扁桃	tonsil|n
+扁桃体	tonsil|n
+扁的	gepeng,pipih
+旁	sisi|n,ganding,kepil,kesamping,pinggir|n,tepi jalan
+桁	bendul,rasuk|v,gelegar,jeriau,kelandara,pabuan,peruan
+桁木	jeriau
+桁的	kelandara
+桁的圈	kelandara
+毁	basmi,binasa|adj,fana,gempur,hancur luluh,jahanamkan,jujat,kalas
+毁坏	jahanamkan,menumpurkan,rembas,tengkarap,tumpur,ranah,rosak|adj
+毁坏的	rosak|adj,ranah
+毁尽	kalas
+毁灭	binasa|adj,musnah|v,hancur luluh
+毁的	fana,ranah
+汁	kaldu|n,air koloh,calung,empedu,halwa|n,jus|n,koloh,kuah
+汁供	nira
+汁供制	nira
+汁供制糖	nira
+汁供制糖用	nira
+汁的	calung,halwa|n,lunak|adj
+汁的果	halwa|n
+汁的果子	halwa|n
+汁的锡	calung
+汁的锡杯	calung
+流	alir|v,aliran|n,ampung,apak,arus|n,atasan,awar,bangsat
+流下	leleh|v,lurut|v
+流亡	minggat
+流体	bendalir
+流冲	simbar
+流冲突	simbar
+流冲突而	simbar
+流冲突而成	simbar
+流冲突而成的	simbar
+流冲突而成的大	simbar
+流冲突而成的大浪	simbar
+流出	cucur,lampias,lancur,pancur,tumpahan,memancit,pancit|v
+流利	lancar|adj,fasihkan|v,lincir|adj,petah
+流利的	fasihkan|v,lincir|adj,petah
+流动	alir|v,mengalir
+流城	teluk rantau
+流域	legeh
+流声	lecus
+流弹	peluru sesat|n
+流放	terbuang
+流文	budaya tentangan|n
+流文化	budaya tentangan|n
+流星	tahi bintang|n
+流氓	bangsat,penjahat|n,perewa,samseng|n
+流汗	berkeringat|v,berpeluh|v,pecah|v,apak
+流汗的	apak
+流注	pancut,simbah|v,mencucuri
+流注于	mencucuri
+流泪	gerabak|n
+流浃	belengas
+流浃背	belengas
+流浪	berkelana,edar|v,embara,hanyut|v,kelana,merambu,merantau,merayau
+流浪者	petualang
+流溢	tumpah|v
+流滴	berlinang-linang,meleleh
+流畅	kefasihan|n,lancar|adj
+流的	derau|v,selang-seli
+流社	atasan
+流社会	atasan
+流社会的	atasan
+流程	salir|v
+流而	mudik
+流而上	mudik
+流脓	torek
+流脓病	torek
+流航	hilir|n
+流航行	hilir|n
+流苏	rumbai
+流苏的	rumbai
+流落	kembara,mengembara
+流血	berdarah|v
+流行	pop,awar,hawar,lagu pop,pandemik|n,popular
+流行歌	lagu pop
+流行歌曲	lagu pop
+流行病	awar,hawar
+流行的	popular,pandemik|n
+流质	cair|adj
+流质的	cair|adj
+流转	edar|v
+流选	johan pahlawan
+流选手	johan pahlawan
+流鼻	mimisan
+流鼻血	mimisan
+烁	bergemerlapan,berkerlip,gerlap,gerlip,kelip|n,kerakal,kerlap,kersik|n
+烁的	malap
+睁	mencelikkan,belalak,beliak,celik,membeliakkan,terbeliak
+睁大	membeliakkan,belalak,beliak
+睁大眼	belalak,beliak
+睁大眼睛	belalak,beliak
+睁开	celik
+睁得	terbeliak
+睁得大	terbeliak
+睁得大大	terbeliak
+睁得大大的	terbeliak
+磁	amang|n,batu berani|n,besi berani|n,magnet|n,tembikar
+磁体	magnet|n
+磁器	tembikar
+磁石	magnet|n,amang|n
+磁石的	amang|n
+磁铁	batu berani|n,besi berani|n,magnet|n
+私	anak gampang,anak haram|n,bisik|n,burung hantu|n,calon persendirian,gampang|n,haram jadah|n,kongsi|n
+私人	calon persendirian,peribadi|adj,pribadi,sendirian berhad|n
+私人的	peribadi|adj,pribadi,sendirian berhad|n
+私人考	calon persendirian
+私人考生	calon persendirian
+私会	kongsi|n
+私会党	kongsi|n
+私会党组	kongsi|n
+私会党组织	kongsi|n
+私有	menswastakan|v,penswastaan|n
+私有化	penswastaan|n,menswastakan|v
+私生	anak gampang,anak haram|n,gampang|n,haram jadah|n
+私生子	anak gampang,anak haram|n,gampang|n,haram jadah|n
+私立	swasta|adj
+私立的	swasta|adj
+私者	penyeludup
+私营	sektor swasta|n
+私营成	sektor swasta|n
+私营成分	sektor swasta|n
+私语	bisik|n
+私运	menyeludupkan,seludup
+私通	mogah,zina
+繁	acap|adv,acap kali|adv,aman dan makmur,berbiak,biak,kemakmuran,makmur|adj,membiak
+繁殖	berbiak,biak,membiak,pembiakan|n,membiakkan,peridi
+繁殖快	peridi
+繁殖快的	peridi
+繁茂	riap
+繁茂的	riap
+繁荣	kemakmuran,makmur|adj,aman dan makmur,mewah|adj
+繁荣的	mewah|adj
+繁重	payah|adj
+繁重的	payah|adj
+翁	hartawan,jutawan|n
+胁	acu,ancam,gamak
+裁	asit,autokrasi|n,autokrat|n,autokratik|adj,autoritarian|n,bermaharajalela,diktator,fatwa|n
+裁决	fatwa|n
+裁判	asit,kadi,pengadil
+裁判员	asit,pengadil
+裁判官	kadi
+裁剪	pemotong|n
+裁剪者	pemotong|n
+裁政	monokrasi|n
+裁政治	monokrasi|n
+裁的	autokratik|adj,autoritarian|n
+裁统	autokrasi|n
+裁统治	autokrasi|n
+裁缝	penjahit,tukang jahit
+裁缝师	penjahit,tukang jahit
+裁者	autokrat|n,diktator,hakam
+襁	lampin|n
+襁褓	lampin|n
+见	nampak|v,abrit|adj,abung|n,anggapan,berjumpa,buah fikiran,bunian|n,curah fikiran
+见一	sefaham,sefahaman
+见一致	sefaham,sefahaman
+见不	tikai
+见不合	tikai
+见不合口	tikai
+见不合口角	tikai
+见室	peseban|n
+见拜	menghadap|v
+见拜访	menghadap|v
+见的	bunian|n,ghaib,halimunan,kerata
+见相	kidal|adj
+见相左	kidal|adj
+见血	ipuh|n
+见血封	ipuh|n
+见血封喉	ipuh|n
+见解	fahaman
+见面	jumpa|v
+证	andalan,berdalil,beri izin,beti,bukti,buktikan,cagar,cagaran
+证书	carta|n,diploma,piagam|n,sijil
+证人	mempersaksikan,saksi|n,syahid|n,notari awam|n,zamin|n
+证件	dokumen
+证婚	kadi
+证婚人	kadi
+证实	mengiakan,sahih
+证实的	sahih
+证持	francaisi|n
+证持有	francaisi|n
+证持有人	francaisi|n
+证据	beti,bukti,hujah,saksi|n,syahadat,berdalil
+证据的	berdalil
+证明	buktikan,hujah,mempersaksikan,mengesahkan|v,pengakuan,saksi|n,ternyata|v
+证的	dialektik|n
+证金	cagaran,panjar
+迁	anjak,ayunan,berhijrah,buaian|n,imbit,memindahkan,menyingkirkan,pancaroba|n
+迁居	berhijrah,imbit
+迁徒	anjak
+迁的	pancaroba|n
+迁移	memindahkan,menyingkirkan,pindah
+遁	dalih|n,luput|adj
+遁辞	dalih|n
+郁	gelabah,gobar,kunyit|n,kuyu,memuramkan,morong,semerdanta
+郁的	gobar,semerdanta
+郁金	kunyit|n
+郁闷	kuyu,memuramkan
+郁闷的	memuramkan
+铁	besi|n,ferum|n,almari besi,andas,batu berani|n,benian,besi berani|n,cakera|n
+铁丝	kawat|n,pagar elektrik|n
+铁丝网	pagar elektrik|n
+铁力	nagasari
+铁力水	nagasari
+铁匠	tukang besi
+铁圈	temin
+铁屎	sanga
+铁床	ranjang|n
+铁撬	tebak
+铁杆	tebak
+铁柜	almari besi
+铁树	penaga,tempinis
+铁渣	sanga,terak
+铁环	pendongkok
+铁矿	pirit|n
+铁砧	andas
+铁箱	benian
+铁罐	kaling,kupi|n,tin|n
+铁罐头	kupi|n,tin|n
+铁舂	sula
+铁路	monorel|n
+铁身	pelias
+铁身术	pelias
+铁钩	pencangkuk
+铁锹	linggis
+铁饼	cakera|n,cakeram
+镁	magnesium|n,sima|n
+镁层	sima|n
+雁	teritip|n
+鳁	paus sei|n
+鳁鲸	paus sei|n

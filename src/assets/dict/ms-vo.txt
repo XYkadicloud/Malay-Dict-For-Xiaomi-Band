@@ -1,0 +1,6 @@
+vokabulari	vokabulari		词汇，字汇
+vokal	vokal	n	母音，元音	vowel
+vokasional	vokasional		工艺的
+volt	volt		电压，伏特	a unit of potential equal to the potential difference bet…
+voltameter	voltameter		电压表	An instrument for measuring the voltaic electricity\n   p…
+voltan	voltan	n	电压	voltage

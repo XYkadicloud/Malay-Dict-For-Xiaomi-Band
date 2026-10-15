@@ -1,0 +1,23 @@
+it	it	n	词首字母缩略词
+itali	itali		意大利	Italy (a country in Southern Europe)
+itam	itam	adj	两者择一
+itek	itek	n	两者择一
+iterbium	iterbium	n	镱  镱Yb	ytterbium (chemical element)
+itik	itik	n	鸭子	duck
+itikad	itikad		信心，决心
+itikagung	itik agung	n	雌麻鸭	shelduck  any waterfowl of the genus Tadorna
+itikbadut	itik badut	n	丑角  花斑眼镜蛇	harlequin duck  a North American wild duck  Histrionicus histrionicus
+itikbaldu	itik baldu	n	绒鸭	eider  any of the species of genus Somateria and Polysticta stelleri
+itikgerigi	itik gerigi	n	秋沙鸭	merganser  any diving ducks of the genus Mergus or Lophodytes
+itikkecil	itik kecil	n	短颈野鸭	teal  any small freshwater ducks of the genus Anas
+itikkeningputih	itik kening putih	n	巡凫	garganey  a small dabbling duck  Anas querquedula.
+itikkumbang	itik kumbang	n	黑海番鸭	scoter  any species of northern sea ducks of the genus Melanitta
+itikmelewar	itik melewar	n	绿头鸭	mallard  Anas platyrhynchos
+itikmurai	itik murai	n	鹊鸭	goldeneye  any seaducks of the genus Bucephala
+itikruncing	itik runcing	n	针尾鸭	pintail duck  any dabbling ducks in the genus of Anas
+itikselam	itik selam	n	潜鸭	pochard  any diving ducks of the subfamily Aythyinae (genera Aythya and Netta).
+itiksudu	itik sudu	n	用铲者	shoveler  any four species of duck in the genus of Anas.
+itrium	itrium	n	钇  钇Y	yttrium (chemical element)
+itu	itu	pron	那 那个	that (what is being indicated)		Itu rumah dia.	ini
+itulah	itulah	pron	那就是	that's
+itulahtu	itulah tu		表示…的意思	Signifies recognition. Exactly.

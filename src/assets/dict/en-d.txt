@@ -1,1 +1,433 @@
-{"en2ms":{"deviating":["abnormal"],"devout":["abrar"],"disorderly":["abrit-abritan"],"daydream":["abun-abun","angan-angan","lamun","lamunan","melamun"],"disposing":["acaran"],"drinking":["air minum","penyedut","penyedut minuman"],"dish":["air tangan","beriani","lauk","piring","sajian","ulam"],"death":["ajal","kematian","mati","maut","nazak"],"demise":["ajal","kematian"],"deviant":["ajaran sesat"],"dubbing":["alih suara","dabing"],"defiance":["amang"],"drawer":["anak meja","berlaci","laci"],"desk":["anak meja","laci","meja tulis"],"daughter":["anak perempuan","binti","fatimah"],"dated":["analisa","daeng","ekspot","impot","katerangan","puteh"],"dependable":["andal","handal"],"dream":["angan","bermimpi","impi","mimpi"],"degree":["angkatan","sarjana muda","sebaik","sebiru","secantik","selancar"],"dog":["anjing","anjing ajak","anjing betina","anjing geladak","anjing jantan","anjing kumbang"],"dalmatian":["anjing dalmatia"],"dhole":["anjing hutan","anjing serigala"],"dark":["anjing ladang","gelap","gelemat","ketitam"],"do":["antarabangsa","berbuat","cubaan","lakukan","malaysia boleh","melakukan"],"drowsy":["antuk"],"disbelief":["apakah"],"direction":["arah","di","ke arah","mata angin","perintah","sebelah"],"deep":["art berat","dalam","garau","lelap","redang"],"dormitory":["asrama"],"domesticated":["ayam"],"desire":["ayaw","dendam","ghairah","hajat","hasrat","mahu"],"dainty":["ayu"],"determination":["azam","tekad"],"duyung":["babi duyung","dugong","ikan duyung"],"dumb":["babuk","bisu"],"district":["bachok","balik pulau","bentong","cyberjaya","jerantut","kemaman"],"divide":["bagi","bahagi"],"decent":["bagus"],"din":["bahana"],"debate":["bahaskan","debat"],"danger":["bahaya"],"devotion":["bakti"],"dedication":["bakti"],"dove":["balam"],"detainee":["banduan"],"drink":["bandung","beranggap","cham","mengopi","minum","minuman"],"dead":["bangkai","batang","laut mati","mati","mencari jejak dalam air"],"denote":["barang"],"daya":["barat semata selatan","daya"],"down":["baring","curi tulang","henyak","lungsur","membongkok","menurunkan"],"downstream":["baruh","hilir","olak"],"double-decker":["bas dua tingkat"],"device":["baterai","fius","mengecas","peranti","skru"],"dictionary":["bausastera","kamus","kamuskan","mengamuskan"],"droopy":["bawat"],"delivery":["bayar waktu terima"],"dues":["bea"],"duck":["bebek","itik","itik badut","itik runcing"],"dissimilarity":["beda","beza"],"damned":["bedebah","malaun"],"directly":["bekemayau","langsung"],"dagger":["beladau","belati","rencong"],"dutch":["belanda"],"dolphinfish":["belitung"],"donax":["bemban"],"dyke":["bendung","tambak"],"deaf":["bengap","congek","pekak","tuli"],"due":["bengik","lincir","oleh sebab","pancit","yuran"],"depart":["berangkat"],"determined":["berazam","payu"],"dangerous":["berbahaya"],"difference":["berbeza","kelainan","perbezaan"],"different":["berbeza","sama","serbaguna","unik"],"dusty":["berdebu"],"dust":["berdebu","debu","habuk"],"donate":["berderma","dermakan"],"discriminate":["berdiskriminasi","diskriminasikan","mendiskriminasikan"],"dry":["berladang","huma","jemur","kemarau","kering","ketuntasan"],"diamond":["berlian","intan"],"dipantau":["berpantau"],"dozens":["berpuluh"],"drifted":["bias"],"dressing":["bilik persalinan"],"destroyed":["binasa"],"department":["bomba"],"documentary":["bon","dokumentari"],"document":["borang","surat"],"darussalam":["brunei darussalam","negara brunei darussalam"],"discard":["buang"],"december":["bulan dua belas","disember"],"ducat":["bunduki"],"dumbfounded":["bungkam"],"dress":["busana","gaun"],"dare":["cabar"],"disc":["cakera","cakra"],"drongo":["cawi-cawi"],"dicrurus":["cawi-cawi"],"deter":["cegah"],"dunk":["celup"],"dip":["celup"],"divorce":["cerai"],"digested":["cerna"],"doorknob":["combol"],"develop":["cuci"],"duty":["cukai","cukas","fardu","perkhidmatan","tugas"],"devote":["curah"],"drugs":["dadah"],"daing":["daeng"],"daging":["daging asu"],"dah":["dahtu"],"diamonds":["daiman","retin"],"dajjal":["dajal"],"dajal":["dajjal"],"dirty":["daki","kotor","kumuh","mala"],"deeply":["dalam-dalam"],"dalmatia":["dalmatia"],"daniel":["danial"],"dance":["dansa","joget","menari","rege","tarian"],"democratic":["dap"],"descent":["darah","tionghoa","zuriat"],"darmstadtium":["darmstadtium"],"david":["daud"],"daud":["daut","dawud"],"dewan":["dbkl","dbp","dun"],"dibayar":["dbyr"],"deficit":["defisit"],"deflation":["deflasi"],"dehydration":["dehidrasi"],"decade":["dekad"],"decagon":["dekagon"],"decagram":["dekagram"],"dean":["dekan"],"decolonization":["dekolonisasi","penyahjajahan"],"decor":["dekor"],"decoration":["dekorasi","hiasan"],"decorative":["dekoratif","menyulam"],"decorum":["dekorum"],"decree":["dekri","titah"],"democracy":["demokrasi","sosial demokrasi"],"dengue":["denggi"],"dinosaur":["denosor"],"deodorant":["deodoran"],"depot":["depoh"],"darjah":["derajat"],"decillion":["desilion"],"detective":["detektif"],"deuterium":["deuterium"],"devata":["dewata"],"dengan":["dgn","ngan"],"dialect":["dialek","korunk","loghat"],"dialectic":["dialektik"],"diarrhea":["diarea"],"diary":["diari"],"daily":["diari","harian","imsak"],"divided":["dibahagi"],"distributed":["dibahagi"],"dapat":["didapat","mendapat"],"degilkan":["didegilkan","mendegilkan"],"derma":["diderma","menderma"],"dermakan":["didermakan","mendermakan"],"dukung":["didukung","mendukung"],"digraph":["digraf"],"dikatai":["dikata-katai"],"dynamic":["dinamik"],"dynasty":["dinasti","wangsa"],"dingo":["dingo"],"diplomatic":["diplomatik"],"disember":["dis"],"discount":["diskaun"],"discrimination":["diskriminasi","diskriminasi kaum","diskriminasi ras","diskriminasi sosial"],"dysprosium":["disprosium"],"diversity":["diversiti","kepelbagaian"],"division":["divisyen","juzuk"],"dalam":["dlm"],"duk":["dok"],"doctor":["doktor","tabib"],"dentist":["doktor gigi"],"dollar":["dolar","dolar brunei","dolar singapura","ringgit brunei","ringgit singapura","riyal"],"domestic":["domestik"],"dominica":["dominika"],"doughnut":["donat"],"dose":["dos"],"depan":["dpn"],"driver":["drebar","lesen memandu","pemandu","rebewis","sais"],"datang":["dtg"],"dubnium":["dubnium","hahnium"],"during":["duit raya"],"duduk":["duk"],"duodecillion":["duodesilion"],"duovigintillion":["duovigintilion"],"duration":["durasi"],"durian":["durian"],"dugong":["duyung"],"dodge":["egos"],"darul":["ehsan","ridzuan"],"dew":["embun"],"dam":["empangan"],"delicious":["enak","lazat","sedap"],"drop":["entak","jatuh","titis","titisan"],"dawn":["fajar"],"dioscorea":["gadung"],"doing":["gaji buta"],"displaying":["galeri"],"dig":["gali","korek"],"drawing":["gambar"],"dizzy":["ganar","kepala pusing","pening","pening kepala"],"disturbing":["gangguan","penggangguan"],"dash":["garis","lintas","luru"],"deceased":["gemulah","mati"],"deed":["geran","laku","perbuatan"],"definitely":["gerenti"],"dull":["gersang","lali","pucat","tumpul"],"dais":["geta"],"denture":["gigi palsu"],"deep-fry":["goreng jeluk"],"disease":["guam","kanker","syifa"],"desert":["gurun","kucing liar afrika","kucing padang pasir","samun gurun"],"done":["habis","selesai","sempol","sepunya","sudah","syabas"],"direct":["hala","kelola","objek tepat","panas","terus"],"drive":["halau","pacuan","pacuan empat roda","usir"],"dismay":["hampas"],"disappointment":["hampas","kekecewaan"],"dissolve":["hancur","larut"],"deliver":["hantar"],"drift":["hanyut","larat"],"day":["hari jadi","hari kebangsaan","id","kelmarin","langkat","lusa"],"drag":["hela","heret","larat","seret"],"decorate":["hias"],"donkey":["himar","keldai"],"disgraced":["hina"],"determine":["hitamkan dan putihkan","tentukan"],"downpour":["hujan lebat"],"draw":["hunus","menarik","sanggerah"],"description":["huraian"],"disentangle":["huraikan"],"debt":["hutang"],"dense":["ibu kayu","lebat","rapat"],"dried":["ikan bilis","ikan kering"],"desirous":["ingin"],"declare":["isytihar"],"diving":["itik gerigi","itik selam"],"dabbling":["itik kening putih"],"distinction":["izzat"],"don":["jangan"],"distance":["jarak","jauhkan","saujana"],"digit":["jari"],"disgusting":["jijik"],"debit":["kad debit"],"drunkard":["kaki botol","kaki minum","mat botol"],"drug":["kaki dadah","mat dadah","mat gian","mat lalok"],"deceiver":["kaki kelentong","mat kelentong"],"defeated":["kalah"],"date":["kapel","tamar","tarikh"],"divine":["kasyaf"],"dwarfism":["katai"],"dwarf":["katai"],"durability":["keabadian","ketahanan"],"disappointed":["kecewa","koyak"],"doctorate":["kedoktoran"],"downfall":["kejatuhan"],"deficiency":["kekurangan"],"dissolving":["kelarutan"],"dandruff":["kelemumur"],"dismiss":["keluar baris"],"drunken":["kemabukan"],"drunk":["kemabukan","khayal","mabuk","pemabuk"],"drought":["kemarau"],"decisiveness":["kemuktamadan"],"diabetes":["kencing manis"],"dutchman":["kengwa"],"difficulty":["kepayahan","kesusahan"],"doubt":["keraguan munasabah","zan"],"damage":["kerosakan"],"disturbance":["kerusuhan"],"divinity":["ketuhanan"],"dryness":["ketuntasan"],"descendant":["keturunan","zuriat"],"diocese":["keuskupan"],"dirt":["kotoran"],"distinguished":["kursi"],"daub":["labur"],"datu":["lahad datu"],"damn":["lahanat"],"drizzle":["lalam"],"diaper":["lampin"],"dreg":["latak"],"door":["lawang","pintu","pintu gelangsar"],"deserving":["layak"],"desolate":["lengang"],"deserted":["lengang","sunyi"],"driving":["lesen memandu","pelarian"],"difficult":["licin seperti belut","musykil","payah","sukar","susah"],"doorbell":["loceng pintu"],"dunia":["loka"],"drain":["longkang"],"dustcart":["lori sampah"],"dolphin":["lumba-lumba"],"dowry":["mahar"],"disaster":["malapetaka"],"dude":["mamat","mat"],"die":["mampus","mangkat","meninggal","pulang ke rahmatullah"],"dignity":["martabat"],"druggy":["mat gian"],"dysfunction":["mati pucuk"],"dimension":["matra"],"decompose":["mekar"],"detrimental":["melarat"],"discuss":["membincangkan","ngomong"],"deafen":["memekakkan","pekakkan"],"display":["mempertontonkan","pertontonkan","tayang","tunjuk"],"disturb":["menakali","mengganggu","mengganggu keamanan","pengganggu"],"daughter-in-law":["menantu"],"derita":["menderita"],"discover":["menemui","mengetahui"],"deceive":["mengabui mata","menganwar-anwarkan","menipu"],"distort":["menganwar-anwarkan"],"deactivate":["menyahaktifkan"],"disable":["menyahaktifkan"],"defragment":["menyahserpih","nyahserpih"],"drumstick":["merunggai"],"deluxe":["mewah"],"desirability":["minarkisme"],"download":["muat turun"],"decisive":["muktamad"],"destroy":["musnah"],"dragon":["naga"],"deputy":["naib"],"destiny":["nasib"],"dot":["noktah"],"defrost":["nyahfros"],"decolonize":["nyahjajah"],"disinfect":["nyahjangkit","nyahkuman"],"debug":["nyahpepijat"],"doll":["orang-orang"],"disposable":["pakai buang"],"dandelion":["paliman"],"discoloured":["panau"],"deflate":["pancit"],"decapitate":["pancung"],"directory":["panduan"],"devil":["pari paus","setan","syaitan"],"decided":["payu"],"diraja":["pdb","pdrm"],"deer":["pelanduk","rusa"],"diverse":["pelbagai"],"damping":["pelembapan"],"drill":["pelir itik","pelitik"],"drinker":["pemabuk"],"developer":["pemaju"],"diet":["pemakanan"],"dessert":["pembasuh mulut","pencuci mulut"],"defender":["pembela"],"discusses":["pembincang"],"discusser":["pembincang"],"dropping":["penanggalan"],"dancer":["penari"],"detach":["pencil","tanggal"],"distress":["penderitaan"],"donor":["penderma"],"donating":["pendermaan"],"director":["pengarah"],"dating":["pentarikhan"],"debugger":["penyahpepijat"],"defragmentation":["penyahserpihan"],"dragonfly":["pepatung"],"disposition":["perangai"],"discussion":["perbincangan"],"detail":["perincian"],"departure":["perlepasan"],"declaration":["pernyataan"],"destroyer":["perosak"],"decimal":["perpuluhan"],"defence":["pertahanan","pertahanan awam"],"defense":["pertahanan awam"],"dishcloth":["petola"],"damaged":["pokah","rosak"],"dickson":["port dickson"],"dampen":["potong stim"],"divination":["pustaka"],"disruption":["putus bekalan"],"dimness":["rabun"],"diagram":["rajah"],"diligent":["rajin","ringan tulang"],"design":["reka bentuk"],"depending":["relatif"],"dominican":["republik dominika"],"demolished":["rombak"],"dismantled":["rombak"],"doghouse":["rumah anjing","rumah asu"],"dim":["samar"],"discarded":["sampah"],"drama":["sandiwara"],"deadly":["santau"],"di":["sebalik mata"],"dive":["selam"],"dhuhr":["sembahyang zuhur","solat zuhur"],"dusk":["senja"],"debris":["serpihan"],"displacement":["sesaran"],"dozen":["setengah dozen"],"daytime":["siang"],"drench":["simbah"],"democrat":["sosial demokrat"],"donation":["sumbangan"],"doubtful":["syubhah"],"drum":["tabuh"],"droppings":["tahi"],"domini":["tahun masihi"],"definition":["takrif"],"darat":["tddb"],"definite":["tentu"],"decide":["tentukan"],"disturbed":["terganggu"],"described":["terkatakan"],"describable":["terkatakan"],"deafened":["terpekak"],"deceived":["terperdaya"],"dissertation":["tesis"],"doesn":["tidak apa"],"dipper":["timba"],"deceit":["tipu"],"dripping":["tiris"],"drip":["titik"],"drops":["titik peluh"],"drips":["titisan"],"datuk":["tuk"],"delay":["tunda"],"demonstrate":["tunjuk"],"descend":["turun"],"delegate":["utus"],"dear":["walao"],"denotes":["yang"],"di-pertuan":["yang di-pertuan agong"]}}
+dabbling	itik kening putih|n
+dagger	beladau|n,belati|n,rencong|n
+daging	daging asu|n
+dah	dahtu|adv
+daily	diari|n,harian|adv,imsak|n
+daing	daeng|n
+dainty	ayu|adj
+dais	geta|n
+dajal	dajjal|n
+dajjal	dajal|n
+dalam	dlm|conj
+dalmatia	dalmatia
+dalmatian	anjing dalmatia|n
+dam	empangan|n
+damage	kerosakan|n
+damaged	pokah|adj,rosak|adj
+damn	lahanat|adj
+damned	bedebah|adj,malaun|n
+dampen	potong stim|v
+damping	pelembapan|n
+dance	dansa|n,joget|v,menari|v,rege|n,tarian|n
+dancer	penari|n
+dandelion	paliman|n
+dandruff	kelemumur|n
+danger	bahaya|n
+dangerous	berbahaya|adj
+daniel	danial
+dapat	didapat|v,mendapat|v
+darat	tddb
+dare	cabar|v
+darjah	derajat|n
+dark	anjing ladang|n,gelap|adj,gelemat|adj,ketitam|n
+darmstadtium	darmstadtium|n
+darul	ehsan,ridzuan
+darussalam	brunei darussalam,negara brunei darussalam
+dash	garis|n,lintas|v,luru|v
+datang	dtg|adv
+date	kapel|v,tamar|n,tarikh|n
+dated	analisa|n,daeng|n,ekspot|n,impot|adj,katerangan|n,puteh|adj
+dating	pentarikhan|n
+datu	lahad datu
+datuk	tuk|n
+daub	labur|v
+daud	daut,dawud
+daughter	anak perempuan|n,binti|n,fatimah
+daughter-in-law	menantu|n
+david	daud
+dawn	fajar|n
+day	hari jadi|n,hari kebangsaan,id|n,kelmarin|n,langkat|n,lusa|n
+daya	barat semata selatan|n,daya|adj
+daydream	abun-abun|n,angan-angan|n,lamun|v,lamunan|n,melamun|v
+daytime	siang|n
+deactivate	menyahaktifkan|v
+dead	bangkai|n,batang|cls,laut mati,mati|v,mencari jejak dalam air|v
+deadly	santau|n
+deaf	bengap|adj,congek|adj,pekak|adj,tuli|adj
+deafen	memekakkan|v,pekakkan|v
+deafened	terpekak|v
+dean	dekan|n
+dear	walao
+death	ajal|n,kematian|n,mati|v,maut|n,nazak|n
+debate	bahaskan|v,debat|n
+debit	kad debit|n
+debris	serpihan|n
+debt	hutang|n
+debug	nyahpepijat|v
+debugger	penyahpepijat|n
+decade	dekad|n
+decagon	dekagon|n
+decagram	dekagram|n
+decapitate	pancung|v
+deceased	gemulah|n,mati|v
+deceit	tipu|n
+deceive	mengabui mata|v,menganwar-anwarkan|v,menipu|v
+deceived	terperdaya|v
+deceiver	kaki kelentong|n,mat kelentong|n
+december	bulan dua belas|n,disember
+decent	bagus|adj
+decide	tentukan|v
+decided	payu|n
+decillion	desilion|num
+decimal	perpuluhan|adj
+decisive	muktamad|adj
+decisiveness	kemuktamadan|n
+declaration	pernyataan|n
+declare	isytihar|v
+decolonization	dekolonisasi|n,penyahjajahan|n
+decolonize	nyahjajah|v
+decompose	mekar|v
+decor	dekor|n
+decorate	hias|v
+decoration	dekorasi|n,hiasan|n
+decorative	dekoratif|adj,menyulam|v
+decorum	dekorum|n
+decree	dekri|n,titah|n
+dedication	bakti|n
+deed	geran|n,laku|n,perbuatan|n
+deep	art berat|n,dalam|prep,garau|adj,lelap|adj,redang|n
+deep-fry	goreng jeluk|v
+deeply	dalam-dalam|adv
+deer	pelanduk|n,rusa|n
+defeated	kalah|v
+defence	pertahanan|n,pertahanan awam|n
+defender	pembela|n
+defense	pertahanan awam|n
+defiance	amang|n
+deficiency	kekurangan|n
+deficit	defisit|n
+definite	tentu|adv
+definitely	gerenti|adv
+definition	takrif|n
+deflate	pancit|v
+deflation	deflasi|n
+defragment	menyahserpih|v,nyahserpih|v
+defragmentation	penyahserpihan|n
+defrost	nyahfros|v
+degilkan	didegilkan|v,mendegilkan|v
+degree	angkatan|n,sarjana muda|n,sebaik|adj,sebiru|adj,secantik|adj,selancar|adj
+dehydration	dehidrasi|n
+delay	tunda|v
+delegate	utus|v
+delicious	enak|adj,lazat|adj,sedap|adj
+deliver	hantar|v
+delivery	bayar waktu terima|n
+deluxe	mewah|adj
+demise	ajal|n,kematian|n
+democracy	demokrasi|n,sosial demokrasi|n
+democrat	sosial demokrat|n
+democratic	dap
+demolished	rombak|v
+demonstrate	tunjuk|v
+dengan	dgn,ngan|prep
+dengue	denggi|n
+denote	barang|n
+denotes	yang|art
+dense	ibu kayu|n,lebat|adj,rapat|adj
+dentist	doktor gigi|n
+denture	gigi palsu|n
+deodorant	deodoran|n
+depan	dpn|conj
+depart	berangkat|v
+department	bomba|n
+departure	perlepasan|n
+dependable	andal|adj,handal|adj
+depending	relatif|adj
+depot	depoh|n
+deputy	naib|n
+derita	menderita|v
+derma	diderma|v,menderma|v
+dermakan	didermakan|v,mendermakan|v
+descend	turun|v
+descendant	keturunan|n,zuriat|n
+descent	darah|n,tionghoa|adj,zuriat|n
+describable	terkatakan|v
+described	terkatakan|v
+description	huraian|n
+desert	gurun|n,kucing liar afrika|n,kucing padang pasir|n,samun gurun|n
+deserted	lengang|adj,sunyi|adj
+deserving	layak|adj
+design	reka bentuk|n
+desirability	minarkisme|n
+desire	ayaw|n,dendam|n,ghairah|n,hajat|n,hasrat|n,mahu|v
+desirous	ingin|adv
+desk	anak meja|n,laci|n,meja tulis|n
+desolate	lengang|adj
+dessert	pembasuh mulut|n,pencuci mulut|n
+destiny	nasib|n
+destroy	musnah|v
+destroyed	binasa|adj
+destroyer	perosak|n
+detach	pencil|v,tanggal|v
+detail	perincian|n
+detainee	banduan|n
+detective	detektif|n
+deter	cegah|v
+determination	azam|n,tekad|n
+determine	hitamkan dan putihkan|v,tentukan|v
+determined	berazam|adj,payu|n
+detrimental	melarat|adj
+deuterium	deuterium|n
+devata	dewata|n
+develop	cuci|v
+developer	pemaju|n
+deviant	ajaran sesat|n
+deviating	abnormal|adj
+device	baterai|n,fius|n,mengecas|v,peranti|n,skru|n
+devil	pari paus|n,setan|n,syaitan|n
+devote	curah|v
+devotion	bakti|n
+devout	abrar|adj
+dew	embun|n
+dewan	dbkl,dbp,dun|n
+dhole	anjing hutan|n,anjing serigala|n
+dhuhr	sembahyang zuhur|n,solat zuhur|n
+di	sebalik mata|adj
+di-pertuan	yang di-pertuan agong
+diabetes	kencing manis|n
+diagram	rajah|n
+dialect	dialek|n,korunk|pron,loghat|n
+dialectic	dialektik|n
+diamond	berlian|n,intan|n
+diamonds	daiman|n,retin|n
+diaper	lampin|n
+diarrhea	diarea|n
+diary	diari|n
+dibayar	dbyr
+dickson	port dickson
+dicrurus	cawi-cawi|n
+dictionary	bausastera|n,kamus|n,kamuskan|v,mengamuskan|v
+die	mampus|v,mangkat|v,meninggal|v,pulang ke rahmatullah|v
+diet	pemakanan|n
+difference	berbeza|v,kelainan|n,perbezaan|n
+different	berbeza|v,sama|adj,serbaguna|adj,unik|adj
+difficult	licin seperti belut|adj,musykil|adj,payah|adj,sukar|adj,susah|adj
+difficulty	kepayahan|n,kesusahan|n
+dig	gali|v,korek|v
+digested	cerna|adj
+digit	jari|n
+dignity	martabat|n
+digraph	digraf|n
+dikatai	dikata-katai|v
+diligent	rajin|adj,ringan tulang|adj
+dim	samar|adj
+dimension	matra|n
+dimness	rabun|adj
+din	bahana|n
+dingo	dingo|n
+dinosaur	denosor|n
+diocese	keuskupan|n
+dioscorea	gadung|n
+dip	celup|v
+dipantau	berpantau|v
+diplomatic	diplomatik|adj
+dipper	timba|n
+diraja	pdb,pdrm
+direct	hala|v,kelola|v,objek tepat|n,panas|adj,terus|adv
+direction	arah|n,di|prep,ke arah,mata angin|n,perintah|n,sebelah|n
+directly	bekemayau|v,langsung|adv
+director	pengarah|n
+directory	panduan|n
+dirt	kotoran|n
+dirty	daki|n,kotor|adj,kumuh|adj,mala|adj
+disable	menyahaktifkan|v
+disappointed	kecewa|adj,koyak|adj
+disappointment	hampas,kekecewaan|n
+disaster	malapetaka|n
+disbelief	apakah
+disc	cakera|n,cakra|n
+discard	buang|v
+discarded	sampah|n
+discoloured	panau|n
+discount	diskaun|n
+discover	menemui|v,mengetahui|v
+discriminate	berdiskriminasi|v,diskriminasikan|v,mendiskriminasikan|v
+discrimination	diskriminasi|n,diskriminasi kaum|n,diskriminasi ras|n,diskriminasi sosial|n
+discuss	membincangkan|v,ngomong|v
+discusser	pembincang|n
+discusses	pembincang|n
+discussion	perbincangan|n
+disease	guam|n,kanker|n,syifa|n
+disember	dis
+disentangle	huraikan|v
+disgraced	hina|adj
+disgusting	jijik|adj
+dish	air tangan|n,beriani|n,lauk|n,piring|n,sajian|n,ulam|n
+dishcloth	petola|n
+disinfect	nyahjangkit|v,nyahkuman|v
+dismantled	rombak|v
+dismay	hampas
+dismiss	keluar baris
+disorderly	abrit-abritan|v
+displacement	sesaran|n
+display	mempertontonkan|v,pertontonkan|v,tayang|v,tunjuk|v
+displaying	galeri|n
+disposable	pakai buang|adj
+disposing	acaran|n
+disposition	perangai|n
+disruption	putus bekalan|n
+dissertation	tesis|n
+dissimilarity	beda|n,beza|n
+dissolve	hancur|v,larut|v
+dissolving	kelarutan|n
+distance	jarak|n,jauhkan|v,saujana|adj
+distinction	izzat|n
+distinguished	kursi|n
+distort	menganwar-anwarkan|v
+distress	penderitaan|n
+distributed	dibahagi|v
+district	bachok,balik pulau,bentong,cyberjaya,jerantut,kemaman
+disturb	menakali|v,mengganggu|v,mengganggu keamanan|v,pengganggu|n
+disturbance	kerusuhan|n
+disturbed	terganggu|adj
+disturbing	gangguan|n,penggangguan|n
+dive	selam|v
+diverse	pelbagai|adj
+diversity	diversiti|n,kepelbagaian|n
+divide	bagi|v,bahagi|v
+divided	dibahagi|v
+divination	pustaka|n
+divine	kasyaf|n
+diving	itik gerigi|n,itik selam|n
+divinity	ketuhanan|n
+division	divisyen|n,juzuk|n
+divorce	cerai|v
+dizzy	ganar|adj,kepala pusing|adj,pening|adj,pening kepala|adj
+do	antarabangsa|adj,berbuat|v,cubaan|n,lakukan|v,malaysia boleh,melakukan|v
+doctor	doktor|n,tabib|n
+doctorate	kedoktoran|n
+document	borang|n,surat|n
+documentary	bon|n,dokumentari|n
+dodge	egos|v
+doesn	tidak apa
+dog	anjing|n,anjing ajak|n,anjing betina|n,anjing geladak|n,anjing jantan|n,anjing kumbang|n
+doghouse	rumah anjing|n,rumah asu|n
+doing	gaji buta|n
+doll	orang-orang|n
+dollar	dolar|n,dolar brunei,dolar singapura,ringgit brunei,ringgit singapura,riyal|n
+dolphin	lumba-lumba|n
+dolphinfish	belitung|n
+domestic	domestik|adj
+domesticated	ayam|n
+domini	tahun masihi|n
+dominica	dominika
+dominican	republik dominika
+don	jangan|adv
+donate	berderma|v,dermakan|v
+donating	pendermaan|n
+donation	sumbangan|n
+donax	bemban|n
+done	habis|v,selesai|v,sempol|adj,sepunya|adj,sudah|adv,syabas
+donkey	himar|n,keldai|n
+donor	penderma|n
+door	lawang|n,pintu|n,pintu gelangsar|n
+doorbell	loceng pintu|n
+doorknob	combol|n
+dormitory	asrama|n
+dose	dos|n
+dot	noktah|n
+double-decker	bas dua tingkat|n
+doubt	keraguan munasabah|n,zan|n
+doubtful	syubhah|adj
+doughnut	donat|n
+dove	balam|n
+down	baring|v,curi tulang|v,henyak|v,lungsur|v,membongkok|v,menurunkan|v
+downfall	kejatuhan|n
+download	muat turun|v
+downpour	hujan lebat|n
+downstream	baruh|n,hilir|n,olak|n
+dowry	mahar|n
+dozen	setengah dozen|num
+dozens	berpuluh|num
+drag	hela|v,heret|v,larat|v,seret|v
+dragon	naga|n
+dragonfly	pepatung|n
+drain	longkang|n
+drama	sandiwara|n
+draw	hunus|v,menarik|v,sanggerah|v
+drawer	anak meja|n,berlaci|v,laci|n
+drawing	gambar|n
+dream	angan|n,bermimpi|v,impi|v,mimpi|n
+dreg	latak|n
+drench	simbah|v
+dress	busana|n,gaun|n
+dressing	bilik persalinan|n
+dried	ikan bilis|n,ikan kering|n
+drift	hanyut|v,larat|v
+drifted	bias|v
+drill	pelir itik|n,pelitik|n
+drink	bandung|n,beranggap|v,cham|n,mengopi|v,minum|v,minuman|n
+drinker	pemabuk|n
+drinking	air minum|n,penyedut|n,penyedut minuman|n
+drip	titik|v
+dripping	tiris|adj
+drips	titisan|n
+drive	halau|v,pacuan|n,pacuan empat roda|n,usir|v
+driver	drebar|n,lesen memandu|n,pemandu|n,rebewis|n,sais|n
+driving	lesen memandu|n,pelarian|n
+drizzle	lalam|n
+drongo	cawi-cawi|n
+droopy	bawat|adj
+drop	entak|v,jatuh|v,titis|n,titisan|n
+dropping	penanggalan|n
+droppings	tahi|n
+drops	titik peluh|n
+drought	kemarau|n
+drowsy	antuk|v
+drug	kaki dadah|n,mat dadah|n,mat gian|n,mat lalok|n
+druggy	mat gian|n
+drugs	dadah|n
+drum	tabuh|n
+drumstick	merunggai|n
+drunk	kemabukan|adj,khayal|adj,mabuk|adj,pemabuk|n
+drunkard	kaki botol|n,kaki minum|n,mat botol|n
+drunken	kemabukan|adj
+dry	berladang|v,huma|n,jemur|v,kemarau|n,kering|adj,ketuntasan|n
+dryness	ketuntasan|n
+dubbing	alih suara|n,dabing|n
+dubnium	dubnium|n,hahnium|n
+ducat	bunduki|n
+duck	bebek|n,itik|n,itik badut|n,itik runcing|n
+dude	mamat|n,mat|n
+duduk	duk|v
+due	bengik|adj,lincir|adj,oleh sebab|prep,pancit|v,yuran|n
+dues	bea|n
+dugong	duyung|n
+duk	dok|v
+dukung	didukung|v,mendukung|v
+dull	gersang|adj,lali|adj,pucat|adj,tumpul|adj
+dumb	babuk|adj,bisu|adj
+dumbfounded	bungkam|adj
+dunia	loka|n
+dunk	celup|v
+duodecillion	duodesilion|num
+duovigintillion	duovigintilion|num
+durability	keabadian|n,ketahanan|n
+duration	durasi|n
+durian	durian|n
+during	duit raya|n
+dusk	senja|n
+dust	berdebu|adj,debu|n,habuk|n
+dustcart	lori sampah|n
+dusty	berdebu|adj
+dutch	belanda|adj
+dutchman	kengwa|n
+duty	cukai|n,cukas|n,fardu|n,perkhidmatan|n,tugas|n
+duyung	babi duyung|n,dugong|n,ikan duyung|n
+dwarf	katai|adj
+dwarfism	katai|adj
+dyke	bendung|n,tambak|n
+dynamic	dinamik|adj
+dynasty	dinasti|n,wangsa|n
+dysfunction	mati pucuk|n
+dysprosium	disprosium|n

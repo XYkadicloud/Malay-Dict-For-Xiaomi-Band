@@ -2,8 +2,8 @@
   "package": "com.operit.malaydict",
   "name": "马来词典",
   "icon": "/common/icon.png",
-  "versionName": "0.1.0",
-  "versionCode": 1,
+  "versionName": "0.15.0",
+  "versionCode": 15,
   "minPlatformVersion": 1100,
   "simulationVersion": "default",
   "deviceTypeList": [

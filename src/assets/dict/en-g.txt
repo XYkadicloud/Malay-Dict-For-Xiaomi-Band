@@ -1,1 +1,264 @@
-{"en2ms":{"given":["aaron","abdul","abdullah","agus","ahmad","anas"],"germ":["aba-daba","germa","kuman"],"golden":["abad emas","abad keemasan","anak emas","keemasan","kucing emas","kucing tulap"],"genitalia":["abaimana"],"government":["abdi negara","gomen","ketua kerajaan","pemerintah"],"grey":["abu-abu","belanak","kelabu","pirau","uban"],"good":["adab","bagus","baguskan","baik","elok","elok-elok"],"go-go":["agogo"],"grand":["agung"],"great":["agung","datuk saudara","hebat","lebar","mahaguru","nenek saudari"],"grass":["akar umbi","cincau","lalang","rumput"],"green":["akhdar","buncis","hijau","kacang hijau"],"grandfather":["aki","atuk"],"gather":["alap","gemal","himpun","hurung"],"god":["alhamdulillah","ateisme","ateistik","dewa","ilah","kurnia"],"get":["ambil","bangun","kahwin","makan angin","memperoleh","pergi mampus"],"girl":["amoi","awek","budak bandar","cikadung","gadis","minah"],"genital":["amput","icibos"],"great-great-grandson":["anak lelaki cicit","cucu lelaki cucu","piut laki-laki","piut lelaki"],"grape":["anggur"],"goose":["angsa"],"gentle":["anteng","landai","lembut","sepoi","sepui"],"guinea":["argus","guinea khatulistiwa","tikus belanda"],"genealogy":["asal usul","genealogi","kesalasilahan","perturunan","salasilah","susur galur"],"greet":["assalamualaikum","halo","helo"],"gold":["aurum","bogam","emas","kencana","kerajang","kerancang"],"guys":["awak semua","kamu semua"],"garment":["baju"],"genus":["bakawali","bintangur","limau","pandan","paus pandu","paus sikat"],"glass":["balang","gelas","kaca","siling kaca"],"great-grandfather":["bapa datuk nenek","moyang laki-laki","moyang lelaki"],"great-great-grandfather":["bapa moyang","buyut laki-laki","buyut lelaki","datuk datuk nenek"],"granite":["batu besi","ubin"],"gravel":["batu kerikil"],"generic":["bawang","putat"],"garlic":["bawang putih","dasun"],"grasshopper":["belalang"],"gaping":["bengang"],"give":["beranak","beri","jeling","kasi","lahir","lahirkan"],"gantung":["bergantung"],"gaseous":["bergas","stim"],"gassy":["bergas"],"graduate":["bergraduasi","siswazah"],"go":["berkuda","jom","keluar","kembali","lalu","lepaskan"],"gemstone":["berlian"],"generations":["berzaman-zaman"],"goddess":["bidadari","dewi"],"giant":["bota","gergasi","kima","toman","udang galah"],"gruel":["bubur"],"grace":["budi","darul ridzuan","rahmat"],"gull":["burung camar","camar"],"garden":["bustan","kebun","taman"],"grain":["butir","jelai","tenggek"],"great-great-grandparent":["buyut"],"great-great-grandmother":["buyut perempuan","ibu moyang","nenek datuk nenek"],"great-great-great-grandfather":["cakawari"],"grindstone":["canai"],"gong":["canang","gong","mong"],"good-looking":["cantik","hensem","tampan"],"grip":["cekak","genggam"],"gap":["celah","selang"],"gooseberry":["cermai"],"glasses":["cermin mata","kaca mata"],"great-grandchild":["cicit"],"great-grandson":["cicit laki-laki","cicit lelaki"],"great-granddaughter":["cicit perempuan"],"great-grandchildren":["cicit-cicit"],"great-great-great-grandmother":["cilawagi"],"grandchild":["cucu"],"grandson":["cucu laki-laki","cucu lelaki"],"granddaughter":["cucu perempuan"],"grandnephew":["cucu saudara"],"grandniece":["cucu saudari"],"grandparents":["datuk nenek"],"grunt":["dengkur","mendengus"],"genderless":["dia","ia"],"gedangkan":["digedangkan","menggedangkan"],"gifted":["dikurniakan"],"guess":["duga","meraba","raba","teka"],"goods":["eksport","samunan"],"going":["emban","pemogokan"],"groan":["erang"],"groaning":["erang"],"grade":["four flat","gred"],"grant":["francaiskan","mengurniakan"],"governor":["gabenor","gabenor jeneral"],"general":["gabenor jeneral","hantu","jeneral","peguam negara","pilihan raya umum","tanah"],"gadolinium":["gadolinium"],"gallant":["gagah"],"galaxy":["galaksi"],"gallium":["galium"],"gas":["galon","gas","stesen minyak"],"gambier":["gambir"],"gamelan":["gamelan"],"gamification":["gamifikasi"],"ganges":["gangga"],"gallon":["gantang"],"garage":["garaj","garasi"],"gatal":["gatai"],"gown":["gaun"],"gabungan":["gbs","gps","grs"],"geisha":["geisya"],"girlfriend":["gelfren","makwe","teman wanita"],"gelenggang":["gelinggang"],"game":["gem","hibira","mainan","masak-masak","permainan","permainan video"],"grasp":["gemal","pegang"],"glorious":["gemilang"],"gene":["gen"],"generation":["generasi"],"group":["geng","grup","kelompok","kumpulan","kumpulan darah","rampok"],"genocide":["genosid"],"gaza":["genting gaza"],"geography":["geografi","ilmu alam"],"george":["george town"],"guerrilla":["gerila"],"germanium":["germanium"],"garuda":["geroda"],"gum":["getah","gusi"],"gutta-percha":["getah perca","getah taban"],"ghee":["gi","minyak sapi"],"gymnasium":["gimnasium"],"gynecology":["ginekologi"],"gingham":["gingam"],"guitar":["gitar","gitar akustik","gitar bes","gitar elektrik","gitar tenor"],"globe":["glob"],"globalisation":["globalisasi"],"globalism":["globalisme"],"gonorrhea":["gonorea"],"graduand":["graduan"],"graduation":["graduasi","konvokesyen"],"graft":["graf kulit"],"grammatical":["gramatis"],"gravity":["graviti"],"gulai":["gulai"],"gift":["hadiah","hadiahi","hadiahkan","mengurniakan","pemberian","persembahan"],"ginger":["halia","jae","jahe","kantan"],"ghosts":["hantu"],"gizzard":["hempedal","kebasi"],"great-grandparent":["ibu bapa datuk nenek","moyang"],"great-grandmother":["ibu datuk nenek","moyang perempuan"],"gomuti":["ijuk"],"gills":["insang"],"guard":["intip","jaga","kawalan","kawalan kehormatan","pandu","pengawal"],"gesture":["isyarat","mengangkat sembah"],"garganey":["itik kening putih"],"goldeneye":["itik murai"],"guarantee":["jamin"],"gender":["jantina"],"granary":["jelapang"],"glutted":["jenuh"],"germany":["jerman"],"grave":["jirat","kubur","makam"],"gambling":["judi","kaki judi"],"goes":["kaki disko","kaki rambu"],"gambler":["kaki judi"],"gregorian":["kalendar gregory","takwim gregory"],"gali":["kali"],"goat":["kambing"],"generous":["karim"],"gelam":["kayu putih"],"gray":["keabu-abuan","paus kelabu"],"goodness":["kebagusan","kebaikan"],"grocery":["kedai runcit"],"glycine":["kedelai"],"grammaticalness":["kegramatisan"],"grammaticality":["kegramatisan"],"greenness":["kehijauan"],"galian":["kelian"],"grouping":["kelompok"],"glans":["kepala butuh"],"giddy":["kepala pusing"],"glory":["keramat"],"grouper":["kerapu"],"glance":["kerling","kilas","menjengah","sekilas"],"gullet":["kerongkong"],"grit":["kersik"],"gratitude":["kesyukuran","syukur"],"ghost":["ketam angin","mambang"],"gain":["keuntungan","laba modal","untung"],"ginseng":["kolesom"],"grown":["konjak"],"gargle":["kumur"],"guruh":["kuruh"],"goad":["kusa"],"gourd":["labu","peria","petola"],"gradual":["landai"],"gently":["leleh","perlahan-lahan"],"gracefully":["lenggok"],"galangal":["lengkuas"],"guan":["lge"],"garbage":["lori sampah","tong sampah"],"glide":["luncur"],"gerakan":["mageran"],"grandmaster":["mahaguru"],"garland":["malai"],"guy":["mamat","mat bunga","mat disko","mat jiwang","mat karok","mat kereta"],"gem":["manikam","permata"],"goofy":["masuk air"],"goal":["matlamat","tujuan","visi"],"grains":["melukut"],"genera":["menderung"],"gelar":["menggelar"],"grow":["menjadi-jadi","sulur","tumbuh"],"gaze":["merenung","pandang","renung","tenung"],"gun":["mesingan"],"grammar":["nahu","tatabahasa"],"grandmother":["nek","nenek","pan"],"grandparent":["nenda"],"gape":["nganga"],"gnawing":["ngilu"],"great-great-great-grandchild":["oneng-oneng"],"great-great-great-grandson":["oneng-oneng laki-laki","oneng-oneng lelaki"],"great-great-great-granddaughter":["oneng-oneng perempuan"],"gushing":["pancuran"],"guide":["panduan","tuntun"],"guideline":["panduan"],"grill":["panggang"],"grandstand":["panggung"],"governing":["parti kerajaan","parti pemerintah"],"granting":["pemfrancaisan"],"gleaming":["pendar"],"guru":["pengajar"],"guardian":["penjaga"],"gives":["perasuah"],"gush":["percit"],"gathering":["perjumpaan sosial","sidang kemuncak"],"gradually":["perlahan-lahan"],"gasoline":["petrol"],"goblet":["piala"],"great-great-grandchild":["piut"],"great-great-granddaughter":["piut perempuan"],"gaudy":["poyo"],"genius":["puaka"],"gall":["pundi hempedu"],"grime":["puyan"],"gourami":["puyu","sepat"],"godsend":["rahmat"],"groom":["raja sehari"],"gargantuan":["raksasa"],"gigantic":["raksasa"],"gluttonous":["rakus"],"gnat":["rengit"],"gadfly":["rengit"],"grumble":["rungut","rungutnya"],"greetings":["salam sejahtera","selamat sejahtera"],"gangster":["samseng"],"greeting":["sapa","tabik","tegur","ucapan","waalaikumussalam"],"gleam":["seri"],"generalissimo":["syogun"],"governance":["tadbir urus","tatakelola"],"grandeur":["tahana"],"greatness":["takbir"],"greedy":["tamak"],"guest":["tamu"],"gander":["tandang"],"gulf":["teluk"],"geng":["tentera bawang"],"gamble":["tikam"],"gecko":["tokek"],"ground":["tupai tanah","turun padang"],"gibbon":["ungka"],"greece":["yunani"],"gecarcinidae":["yuyu"],"giraffe":["zirafah"]}}
+gabungan	gbs,gps,grs
+gadfly	rengit|n
+gadolinium	gadolinium|n
+gain	keuntungan|n,laba modal|n,untung|n
+galangal	lengkuas|n
+galaxy	galaksi|n
+gali	kali|v
+galian	kelian|n
+gall	pundi hempedu|n
+gallant	gagah|adj
+gallium	galium|n
+gallon	gantang|n
+gambier	gambir|n
+gamble	tikam|v
+gambler	kaki judi|n
+gambling	judi|n,kaki judi|n
+game	gem|n,hibira|n,mainan|n,masak-masak|n,permainan|n,permainan video|n
+gamelan	gamelan|n
+gamification	gamifikasi|n
+gander	tandang|v
+ganges	gangga
+gangster	samseng|n
+gantung	bergantung|v
+gap	celah|n,selang|n
+gape	nganga|v
+gaping	bengang|adj
+garage	garaj|n,garasi|n
+garbage	lori sampah|n,tong sampah|n
+garden	bustan|n,kebun|n,taman|n
+garganey	itik kening putih|n
+gargantuan	raksasa|adj
+gargle	kumur|v
+garland	malai|n
+garlic	bawang putih|n,dasun|n
+garment	baju|n
+garuda	geroda|n
+gas	galon|n,gas|n,stesen minyak|n
+gaseous	bergas|adj,stim|n
+gasoline	petrol|n
+gassy	bergas|adj
+gatal	gatai|adj
+gather	alap|v,gemal|v,himpun|v,hurung|v
+gathering	perjumpaan sosial|n,sidang kemuncak|n
+gaudy	poyo|adj
+gaza	genting gaza
+gaze	merenung|v,pandang|v,renung|v,tenung|v
+gecarcinidae	yuyu|n
+gecko	tokek|n
+gedangkan	digedangkan|v,menggedangkan|v
+geisha	geisya|n
+gelam	kayu putih|n
+gelar	menggelar|v
+gelenggang	gelinggang|n
+gem	manikam|n,permata|n
+gemstone	berlian|n
+gender	jantina|n
+genderless	dia|pron,ia|pron
+gene	gen|n
+genealogy	asal usul|n,genealogi|n,kesalasilahan|adj,perturunan|n,salasilah|n,susur galur|n
+genera	menderung|n
+general	gabenor jeneral|n,hantu|n,jeneral|n,peguam negara|n,pilihan raya umum|n,tanah|n
+generalissimo	syogun|n
+generation	generasi|n
+generations	berzaman-zaman|v
+generic	bawang|n,putat|n
+generous	karim|adj
+geng	tentera bawang|n
+genital	amput|n,icibos|n
+genitalia	abaimana|n
+genius	puaka|n
+genocide	genosid|n
+gentle	anteng|n,landai|adj,lembut|adj,sepoi|adj,sepui|adj
+gently	leleh|v,perlahan-lahan|adv
+genus	bakawali|n,bintangur|n,limau|n,pandan|n,paus pandu|n,paus sikat|n
+geography	geografi|n,ilmu alam|n
+george	george town
+gerakan	mageran
+germ	aba-daba|n,germa|n,kuman|n
+germanium	germanium|n
+germany	jerman
+gesture	isyarat|n,mengangkat sembah|v
+get	ambil|v,bangun|v,kahwin|v,makan angin|v,memperoleh|v,pergi mampus|v
+ghee	gi|n,minyak sapi|n
+ghost	ketam angin|n,mambang|n
+ghosts	hantu|n
+giant	bota|n,gergasi|n,kima|n,toman|n,udang galah|n
+gibbon	ungka|n
+giddy	kepala pusing|adj
+gift	hadiah|n,hadiahi|v,hadiahkan|v,mengurniakan|v,pemberian|n,persembahan|n
+gifted	dikurniakan|v
+gigantic	raksasa|adj
+gills	insang|n
+ginger	halia|n,jae|n,jahe|n,kantan|n
+gingham	gingam|n
+ginseng	kolesom|n
+giraffe	zirafah|n
+girl	amoi|n,awek|n,budak bandar|n,cikadung|n,gadis|n,minah|n
+girlfriend	gelfren|n,makwe|n,teman wanita|n
+give	beranak|v,beri|v,jeling|v,kasi|v,lahir|v,lahirkan|v
+given	aaron,abdul,abdullah,agus,ahmad,anas
+gives	perasuah|n
+gizzard	hempedal|n,kebasi|n
+glance	kerling|n,kilas|n,menjengah|v,sekilas|adv
+glans	kepala butuh|n
+glass	balang|n,gelas|n,kaca|n,siling kaca|n
+glasses	cermin mata|n,kaca mata|n
+gleam	seri|n
+gleaming	pendar|n
+glide	luncur|v
+globalisation	globalisasi|n
+globalism	globalisme|n
+globe	glob|n
+glorious	gemilang|adj
+glory	keramat|n
+glutted	jenuh|adj
+gluttonous	rakus|adj
+glycine	kedelai|n
+gnat	rengit|n
+gnawing	ngilu|n
+go	berkuda|v,jom,keluar|v,kembali|v,lalu|v,lepaskan|v
+go-go	agogo|n
+goad	kusa|n
+goal	matlamat|n,tujuan|n,visi|n
+goat	kambing|n
+goblet	piala|n
+god	alhamdulillah,ateisme|n,ateistik|adj,dewa|n,ilah|n,kurnia|n
+goddess	bidadari|n,dewi|n
+godsend	rahmat|n
+goes	kaki disko|n,kaki rambu|n
+going	emban|n,pemogokan|n
+gold	aurum|n,bogam|n,emas|n,kencana|n,kerajang|n,kerancang|n
+golden	abad emas|n,abad keemasan|n,anak emas|n,keemasan|adj,kucing emas|n,kucing tulap|n
+goldeneye	itik murai|n
+gomuti	ijuk|n
+gong	canang|n,gong|n,mong|n
+gonorrhea	gonorea|n
+good	adab|n,bagus|adj,baguskan|v,baik|adj,elok|adj,elok-elok|adv
+good-looking	cantik|adj,hensem|adj,tampan|adj
+goodness	kebagusan|n,kebaikan|n
+goods	eksport|n,samunan|n
+goofy	masuk air|adj
+goose	angsa|n
+gooseberry	cermai|n
+gourami	puyu|n,sepat|n
+gourd	labu|n,peria|n,petola|n
+governance	tadbir urus|n,tatakelola|n
+governing	parti kerajaan|n,parti pemerintah|n
+government	abdi negara|n,gomen|n,ketua kerajaan|n,pemerintah|n
+governor	gabenor|n,gabenor jeneral|n
+gown	gaun|n
+grace	budi|n,darul ridzuan,rahmat|n
+gracefully	lenggok|v
+grade	four flat|n,gred|n
+gradual	landai|adj
+gradually	perlahan-lahan|adv
+graduand	graduan|n
+graduate	bergraduasi|v,siswazah|n
+graduation	graduasi|n,konvokesyen|n
+graft	graf kulit|n
+grain	butir|n,jelai|n,tenggek|v
+grains	melukut|n
+grammar	nahu|n,tatabahasa|n
+grammatical	gramatis|adj
+grammaticality	kegramatisan|n
+grammaticalness	kegramatisan|n
+granary	jelapang|n
+grand	agung|adj
+grandchild	cucu|n
+granddaughter	cucu perempuan|n
+grandeur	tahana|n
+grandfather	aki|n,atuk|n
+grandmaster	mahaguru|n
+grandmother	nek|n,nenek|n,pan|n
+grandnephew	cucu saudara|n
+grandniece	cucu saudari|n
+grandparent	nenda|n
+grandparents	datuk nenek|n
+grandson	cucu laki-laki|n,cucu lelaki|n
+grandstand	panggung|n
+granite	batu besi|n,ubin|n
+grant	francaiskan|v,mengurniakan|v
+granting	pemfrancaisan|n
+grape	anggur|n
+grasp	gemal|v,pegang|v
+grass	akar umbi|n,cincau|n,lalang|n,rumput|n
+grasshopper	belalang|n
+gratitude	kesyukuran|n,syukur|n
+grave	jirat|n,kubur|n,makam|n
+gravel	batu kerikil|n
+gravity	graviti|n
+gray	keabu-abuan|adj,paus kelabu|n
+great	agung|adj,datuk saudara|n,hebat|adj,lebar|adj,mahaguru|n,nenek saudari|n
+great-grandchild	cicit|n
+great-grandchildren	cicit-cicit
+great-granddaughter	cicit perempuan|n
+great-grandfather	bapa datuk nenek|n,moyang laki-laki|n,moyang lelaki|n
+great-grandmother	ibu datuk nenek|n,moyang perempuan|n
+great-grandparent	ibu bapa datuk nenek|n,moyang|n
+great-grandson	cicit laki-laki|n,cicit lelaki|n
+great-great-grandchild	piut|n
+great-great-granddaughter	piut perempuan|n
+great-great-grandfather	bapa moyang|n,buyut laki-laki|n,buyut lelaki|n,datuk datuk nenek|n
+great-great-grandmother	buyut perempuan|n,ibu moyang|n,nenek datuk nenek|n
+great-great-grandparent	buyut|n
+great-great-grandson	anak lelaki cicit|n,cucu lelaki cucu|n,piut laki-laki|n,piut lelaki|n
+great-great-great-grandchild	oneng-oneng|n
+great-great-great-granddaughter	oneng-oneng perempuan|n
+great-great-great-grandfather	cakawari|n
+great-great-great-grandmother	cilawagi|n
+great-great-great-grandson	oneng-oneng laki-laki|n,oneng-oneng lelaki|n
+greatness	takbir|n
+greece	yunani
+greedy	tamak|adj
+green	akhdar|adj,buncis|n,hijau|adj,kacang hijau|n
+greenness	kehijauan|n
+greet	assalamualaikum,halo,helo
+greeting	sapa|n,tabik|n,tegur|n,ucapan|n,waalaikumussalam
+greetings	salam sejahtera,selamat sejahtera
+gregorian	kalendar gregory|n,takwim gregory|n
+grey	abu-abu|adj,belanak|n,kelabu|adj,pirau|adj,uban|n
+grill	panggang|v
+grime	puyan|n
+grindstone	canai|n
+grip	cekak|v,genggam|n
+grit	kersik|n
+groan	erang|n
+groaning	erang|n
+grocery	kedai runcit|n
+groom	raja sehari|n
+ground	tupai tanah|n,turun padang|v
+group	geng|n,grup|n,kelompok|n,kumpulan|n,kumpulan darah|n,rampok|n
+grouper	kerapu|n
+grouping	kelompok|n
+grow	menjadi-jadi|v,sulur|v,tumbuh|v
+grown	konjak|n
+gruel	bubur|n
+grumble	rungut|v,rungutnya|v
+grunt	dengkur|n,mendengus|v
+guan	lge
+guarantee	jamin|v
+guard	intip|v,jaga|v,kawalan|n,kawalan kehormatan|n,pandu|n,pengawal|n
+guardian	penjaga|n
+guerrilla	gerila|n
+guess	duga|v,meraba|v,raba|v,teka|v
+guest	tamu|n
+guide	panduan|n,tuntun|v
+guideline	panduan|n
+guinea	argus|n,guinea khatulistiwa,tikus belanda|n
+guitar	gitar|n,gitar akustik|n,gitar bes|n,gitar elektrik|n,gitar tenor|n
+gulai	gulai|n
+gulf	teluk|n
+gull	burung camar|n,camar|n
+gullet	kerongkong|n
+gum	getah|n,gusi|n
+gun	mesingan|n
+guru	pengajar|n
+guruh	kuruh|n
+gush	percit|v
+gushing	pancuran|n
+gutta-percha	getah perca|n,getah taban|n
+guy	mamat|n,mat bunga|n,mat disko|n,mat jiwang|n,mat karok|n,mat kereta|n
+guys	awak semua|pron,kamu semua|pron
+gymnasium	gimnasium|n
+gynecology	ginekologi|n

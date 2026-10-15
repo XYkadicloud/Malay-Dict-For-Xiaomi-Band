@@ -1,0 +1,335 @@
+佛	ahera,at,candi,johor,johor bahru,kias,labu siam|n,sami|n
+佛头	ahera
+佛头顶	ahera
+佛头顶上	ahera
+佛头顶上之	ahera
+佛头顶上之光	ahera
+佛头顶上之光圈	ahera
+佛州	johor
+佛庙	candi
+佛得	tanjung verde
+佛得角	tanjung verde
+佛手	labu siam|n
+佛手瓜	labu siam|n
+佛教	at,sami|n
+佛教寺	at
+佛教寺院	at
+佛教徒	sami|n
+佛教的	sami|n
+叛	belot,berontak,dahagi,derhaka|n,khianat|n,murtad,pemberontakan|n,penderhaka
+叛乱	pemberontakan|n
+叛徒	penderhaka,pengkhianat
+叛的	murtad
+叛逆	derhaka|n
+四	ampat|num,catur|num,empat|num,empat ribu|num,anak pandak|n,anggota|n,april,asar rendah
+四个	berempat-empat,berempatan
+四个一	berempatan
+四个一齐	berempatan
+四个四	berempat-empat
+四个四个	berempat-empat
+四个四个地	berempat-empat
+四个地	berempat-empat
+四五	wiladan
+四五月	wiladan
+四五月后	wiladan
+四五月后清	wiladan
+四五月后清洗	wiladan
+四五月后清洗腹	wiladan
+四五月后清洗腹部	wiladan
+四五月后清洗腹部之	wiladan
+四五月后清洗腹部之仪	wiladan
+四五月后清洗腹部之仪式	wiladan
+四分	berpecah,cupak|n,perapat,perempat|n,suku|n
+四分之	cupak|n,perapat,perempat|n,suku|n
+四分之一	perapat,perempat|n,suku|n,cupak|n
+四分之一干	cupak|n
+四分之一干冬	cupak|n
+四分五	berpecah
+四分五裂	berpecah
+四十	empat puluh|num,empat puluh dua|num,empat puluh empat|num,empat puluh enam|num,empat puluh lima|num,empat puluh satu|num,empat puluh sembilan|num,empat puluh tiga|num
+四十一	empat puluh satu|num
+四十七	empat puluh tujuh|num
+四十三	empat puluh tiga|num
+四十九	empat puluh sembilan|num
+四十二	empat puluh dua|num
+四十五	empat puluh lima|num,kuatordesilion|num
+四十五个	kuatordesilion|num
+四十五个零	kuatordesilion|num
+四十五个零之	kuatordesilion|num
+四十五个零之数	kuatordesilion|num
+四十五口	empat puluh lima|num
+四十五口径	empat puluh lima|num
+四十五口径的	empat puluh lima|num
+四十五口径的手	empat puluh lima|num
+四十五口径的手枪	empat puluh lima|num
+四十六	empat puluh enam|num
+四十四	empat puluh empat|num
+四句	pantun|n
+四句体	pantun|n
+四句体之	pantun|n
+四句体之马	pantun|n
+四句体之马来	pantun|n
+四句体之马来诗	pantun|n
+四句体之马来诗文	pantun|n
+四周	kitar,litar,sekitar,sekeliling
+四周围	sekeliling
+四处	berkaparan,jelempah
+四处横	berkaparan,jelempah
+四处横置	jelempah
+四处横陈	berkaparan
+四弦	kecapi
+四弦琵	kecapi
+四弦琵琶	kecapi
+四散	bebar,berai|adj,bertebaran,bertempiaran,cerai-berai|adj,derai,kucar,lampar
+四散而	tempuras
+四散而逃	tempuras
+四方	empat segi
+四方形	empat segi
+四日	tungging
+四日后	tungging
+四时	asar rendah
+四时左	asar rendah
+四时左右	asar rendah
+四月	april,bulan empat|n
+四肢	anggota|n
+四脚	bingkarung,jerangkang,tunggang balik
+四脚朝	jerangkang,tunggang balik
+四脚朝天	tunggang balik,jerangkang
+四脚朝天躺	jerangkang
+四脚朝天躺着	jerangkang
+四脚蛇	bingkarung
+四行	pantun|n,rubai,sonet
+四行或	pantun|n
+四行或四	pantun|n
+四行或四句	pantun|n
+四行或四句体	pantun|n
+四行或四句体之	pantun|n
+四行或四句体之马	pantun|n
+四行或四句体之马来	pantun|n
+四行或四句体之马来诗	pantun|n
+四行或四句体之马来诗文	pantun|n
+四行诗	rubai,sonet
+四角	empat segi
+四角形	empat segi
+四轮	pacuan empat roda|n
+四轮驱	pacuan empat roda|n
+四轮驱动	pacuan empat roda|n
+四边	keban|n,segi empat|n
+四边形	keban|n,segi empat|n
+四边形的	keban|n,segi empat|n
+坛	mazbah|n
+扛	gotong
+招	bertegur,gamit,gubit,iktiraf,jamu,ketam rebab|n,kondangan,melayan
+招呼	menegur|v,bertegur,menyapa
+招婿	semenda
+招待	kondangan,melayan,meraikan,rai|n,silakan,suguh,tersaji|v,jamu
+招待人	jamu
+招待人客	jamu
+招待员	pelayan|n
+招手	gamit,ulap-ulap,gubit
+招手呼	gubit
+招手呼唤	gubit
+招来	mendatangkan
+招潮	ketam rebab|n
+招潮蟹	ketam rebab|n
+招认	iktiraf,mengakui
+招贴	pelekat,poster|n
+槛	ambang|n,bendul pintu
+毛	alis,beluncas|n,berbulu|adj,bulu|n,bulu mansu|n,bulu mata|n,bulu rama,bulu tangkis|n
+毛不	cekel
+毛不拔	cekel
+毛不拔的	cekel
+毛丹	rambutan|n
+毛之	gondol,gurun tandus
+毛之地	gondol,gurun tandus
+毛发	ramus,remang|n
+毛发竖	remang|n
+毛发竖立	remang|n
+毛孔	bulu rama,seram|adj
+毛孔悚	seram|adj
+毛孔悚然	seram|adj
+毛布	kambeli
+毛榴	nangka belanda
+毛榴莲	nangka belanda
+毛毛	gerimis,hujan renyai,lalam|n,renyai,rinai
+毛毛细	hujan renyai
+毛毛细雨	hujan renyai
+毛毛雨	gerimis,renyai,rinai,lalam|n
+毛毯	kamul|n
+毛泽	maoisme|n
+毛泽东	maoisme|n
+毛泽东主	maoisme|n
+毛泽东主义	maoisme|n
+毛状	kapilari|n
+毛状的	kapilari|n
+毛球	bulu tangkis|n
+毛的	mandul|adj,rambaian,ramus,serabut,serengam
+毛皮	berbulu|adj
+毛皮的	berbulu|adj
+毛细	hujan renyai,kapilari|n,kapilariti|n
+毛细作	kapilariti|n
+毛细作用	kapilariti|n
+毛细管	kapilari|n
+毛细雨	hujan renyai
+毛织	rambuti
+毛织物	rambuti
+毛色	kurik
+毛色斑	kurik
+毛色斑斑	kurik
+毛虫	beluncas|n,lencas,ulat bulu|n
+毛钱	kupang|n
+毛雨	gerimis,lalam|n,renyai,rinai
+泛	empoh,kojoh,komprehensif|adj,lampung,melimpah|v,panteisme|n,sebak|adj,senak
+泛滥	empoh,kojoh,melimpah|v,sebak|adj,senak
+泛的	komprehensif|adj
+泛神	panteisme|n
+泛神论	panteisme|n
+烛	dian|n,kandil,lilin|n
+烛用	lilin|n
+烛用蜡	lilin|n
+牛	lembu|n,sapi|n,anoa|n,babi duyung|n,badak|n,benuang|n,cakap besar,cemara|n
+牛仔	koboi|n
+牛奶	susu|n,milo|n
+牛或	cemara|n,gelabir,gelambir
+牛或老	gelabir,gelambir
+牛或老人	gelabir,gelambir
+牛或老人颈	gelabir,gelambir
+牛或老人颈部	gelabir,gelambir
+牛或老人颈部下	gelabir,gelambir
+牛或老人颈部下垂	gelabir,gelambir
+牛或老人颈部下垂的	gelabir,gelambir
+牛或老人颈部下垂的皮	gelabir,gelambir
+牛或老人颈部下垂的皮肉	gelabir,gelambir
+牛或马	cemara|n
+牛或马的	cemara|n
+牛或马的尾	cemara|n
+牛或马的尾毛	cemara|n
+牛打	kubang|n
+牛打滚	kubang|n
+牛打滚的	kubang|n
+牛打滚的地	kubang|n
+牛打滚的地方	kubang|n
+牛排	stik|n
+牛油	gi|n,mentega|n,marjerin
+牛痘	vaksin|n
+牛瘟	sampar
+牛皮	jebang
+牛皮盾	jebang
+牛皮盾牌	jebang
+牛肉	daging lembu|n,gulai daging,konbif|n
+牛腿	sampil
+牛角	cula
+牛车	kereta lembu
+牛颈	jumbil,kelintung
+牛颈下	jumbil
+牛颈下垂	jumbil
+牛颈下垂的	jumbil
+牛颈下垂的皮	jumbil
+牛颈之	kelintung
+牛颈之铃	kelintung
+牛鸣	kuak,uak|n
+牛黄	guliga
+牛鼻	kili-kili|n,pari bendera|n,pari susun|n
+牛鼻环	kili-kili|n
+牛鼻环圈	kili-kili|n
+牛鼻魟	pari bendera|n,pari susun|n
+痛	sakit|adj,azah,belek|v,bersedih,cacimaki,cika,gering hulu,gering tengah
+痛心	bersedih,kecil hati
+痛的	perih,mengkal,pedih|adj,perit,seksa|n,sengsara|n
+痛苦	musakat,mengkal,rodan,seksa|n
+痛苦的	mengkal,rodan,seksa|n
+痛风	pirai
+痛骂	cacimaki
+盛	bacuk,berkembang,bernyala-nyala,besar-besaran,cembul|n,larih,lebat|adj,makmur|adj
+盛人	larih
+盛会	temasya
+盛大	besar-besaran
+盛大的	besar-besaran
+盛开	berkembang,repuh,pengembangan|n
+盛开的	pengembangan|n
+盛栳	cembul|n
+盛栳叶	cembul|n
+盛栳叶等	cembul|n
+盛栳叶等的	cembul|n
+盛栳叶等的金	cembul|n
+盛栳叶等的金属	cembul|n
+盛栳叶等的金属盒	cembul|n
+盛水	bacuk
+盛水器	bacuk
+盛燃	bernyala-nyala
+盛燃的	bernyala-nyala
+盛的	lebat|adj,makmur|adj,mewah|adj,nahak,rendang|n,subur|adj
+盛装	menadah|v
+睛	ain|n,belalak,belek|v,beliak,kebil,kedip|v,mata|n,optik|adj
+睛的	optik|adj
+睛红	belek|v
+睛红肿	belek|v
+矛	lembing|n,tombak|n,konflik|n,pertentangan,piarit,rontek,sangkal,seruit
+矛枪	rontek
+矛盾	konflik|n,pertentangan,sangkal
+筛	ayakan,mengayak,serkai,ayak|n,badang,kirai|n,kisai,penyaringan|n
+筛摇	kirai|n
+筛选	penyaringan|n
+胛	belikat,tulang belikat
+胛骨	belikat,tulang belikat
+葛	boikot,jitah,lakum,pulaukan
+葛之	jitah
+葛之类	jitah
+蛛	araknid|n,bakung|n,kabang-kabang,labah|n,labah-labah|n,lelaba,lelabah,sepasan
+蛛形	araknid|n
+蛛形纲	araknid|n
+蛛形纲动	araknid|n
+蛛形纲动物	araknid|n
+蛛网	kabang-kabang,sesawang|n
+赛	adu|v,gem|n,lumba|n,lumba kuda,lumba lari|n,pelumba|n,pepek|n,peraduan
+赛者	pelumba|n,peserta
+赛舟	regata|n
+赛舟会	regata|n
+赛跑	lumba|n,lumba lari|n
+赛马	lumba kuda
+跛	capik,incut,jingkat,kipa,pincang,ruit,sengkul,terincut-incut
+跛的	capik,pincang,sengkul
+跛脚	kipa,ruit
+跛脚的	ruit
+跛行	incut,jingkat,terincut-incut
+进	masuk|v,batu loncatan,berabdas|v,berkemajuan,berlangsung,berpiket,cebelus,celum
+进位	dukung|v,mengelek|v,perpuluhan|adj
+进位的	perpuluhan|adj
+进修	majudiri
+进入	masuk|v,masuki|v,resi,kemasukan|n
+进出	lampias,celum
+进出出	celum
+进击	luru|v,meluru|v
+进化	evolusi|n,ubahansur
+进化论	evolusi|n
+进去	racunkan
+进口	import|adj,pengimportan|n
+进宴	santapan
+进展	kemajuan|n,maju|adj,membujur
+进攻	laberak,menempuh,serbu,serbuan,tempuh
+进步	berkemajuan,kemajuan|n,maju|adj,mara,progresif,selamat maju jaya|int
+进步的	progresif
+进的	radikal
+进程	gitar tenor|n
+进行	berabdas|v,berlangsung,melancarkan|v,melangsungkan,berpiket,piket
+进行纠	berpiket,piket
+进行纠察	berpiket,piket
+进身	batu loncatan
+进身阶	batu loncatan
+进进	celum
+进进出	celum
+进进出出	celum
+进食	sahur|n
+进餐	santap|v
+鉛	lontar peluru|n,pencil|v
+鉛球	lontar peluru|n
+鉛筆	pencil|v
+鉛筆寫	pencil|v
+铛	derang
+铛声	derang
+陛	baginda|pron,duli baginda,duli yang maha mulia,hadirat|n,paduka|n,seri paduka,tuanku|pron,yang maha mulia
+陛下	baginda|pron,duli baginda,duli yang maha mulia,hadirat|n,paduka|n,seri paduka,tuanku|pron,yang maha mulia
+靛	air koloh,biru nila|adj,koloh,nila|adj
+靛汁	air koloh,koloh
+靛青	biru nila|adj,nila|adj
+黛	bercelak,celak

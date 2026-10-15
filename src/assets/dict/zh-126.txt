@@ -1,0 +1,195 @@
+乾	ganggang|n,garing|adj
+乾脆	garing|adj
+乾脆的	garing|adj
+俾	supaya|conj
+俾使	supaya|conj
+勾	gobek
+勾引	gobek
+图	atlas,ayatollah|n,balai pustaka,bergambar,cap|n,cap mohor,carta|n,cerbergam
+图书	gambar|n,balai pustaka,kutubkhanah|n,perpustakaan|n,pustakawan|n
+图书馆	balai pustaka,kutubkhanah|n,perpustakaan|n,pustakawan|n
+图书馆员	pustakawan|n
+图册	atlas
+图形	rajah|n
+图拉	ayatollah|n
+图斯	tus
+图景	gambaran,panorama
+图样	corak,pola
+图案	kain batik
+图案沙	kain batik
+图案沙笼	kain batik
+图案沙笼布	kain batik
+图画	citra|n,lukisan,peta|n
+图章	cap|n,cap mohor
+图表	carta|n,rajah|n
+图解	diagram,gambarajah,ilustrasi
+巾	andok|n,anduk|n,cawat|n,cokin,kainsal|n,sal|adv,sapu tangan|n,selampai
+找	cari|v,cari helah,cari jalan,cari makan,cari rezeki,jumpa doktor,mencari|v
+找出	cari jalan
+找出路	cari jalan
+找医	jumpa doktor
+找医生	jumpa doktor
+找生	cari makan,cari rezeki
+找生计	cari makan,cari rezeki
+找藉	cari helah
+找藉口	cari helah
+拾	kapis|n,kemas|adj,membereskan,mengemaskan,pikap|n,ramu
+拾扇	kapis|n
+拾扇贝	kapis|n
+拾起	pikap|n
+拾集	ramu
+晾	jemuran
+晾物	jemuran
+曾	bapa datuk nenek|n,bapa moyang|n,belum pernah,buyut|n,buyut laki-laki|n,buyut lelaki|n,buyut perempuan|n,cicit|n
+曾孙	cicit|n,cicit laki-laki|n,cicit lelaki|n,cicit perempuan|n
+曾孙女	cicit perempuan|n
+曾祖	buyut|n,bapa datuk nenek|n,bapa moyang|n,buyut laki-laki|n,buyut lelaki|n,buyut perempuan|n,datuk datuk nenek|n,ibu bapa datuk nenek|n
+曾祖母	ibu datuk nenek|n,moyang perempuan|n,buyut perempuan|n,ibu bapa datuk nenek|n,ibu moyang|n,nenek datuk nenek|n
+曾祖父	bapa datuk nenek|n,moyang laki-laki|n,moyang lelaki|n,bapa moyang|n,buyut laki-laki|n,buyut lelaki|n,datuk datuk nenek|n,ibu bapa datuk nenek|n
+曾祖父或	ibu bapa datuk nenek|n
+曾祖父或曾	ibu bapa datuk nenek|n
+曾祖父或曾祖	ibu bapa datuk nenek|n
+曾祖父或曾祖母	ibu bapa datuk nenek|n
+曾经	pernah|adv
+松	arar|n,bajing|n,belus,curai,damar|n,empuk,enteng,erak
+松之	sentada
+松之类	sentada
+松宽	lambuk
+松宽的	lambuk
+松属	arar|n
+松开	orak|v,terurai|adj,urai,curai
+松开的	curai
+松弛	kendur,lombar,gembur|v
+松弛的	gembur|v
+松懈	mengular|v
+松摇	gual-gail
+松散	ungkaian
+松柏	konifer|n
+松柏目	konifer|n
+松柏目植	konifer|n
+松柏目植物	konifer|n
+松的	gembur|v,enteng,gegai,kendur,landuh,landung,londeh,mampung
+松石	firus|n
+松科	ru|n
+松科植	ru|n
+松科植物	ru|n
+松绳	lombar
+松绳子	lombar
+松而	belus
+松而易	belus
+松而易脱	belus
+松脂	damar|n
+松脆	empuk
+松脆的	empuk
+松脱	jelungkap,goyah,lebuk,loncer,ruai|n
+松脱的	goyah,lebuk,loncer,ruai|n
+松解	erak
+松软	gebu
+松软的	gebu
+松鼠	bajing|n,kerawak,tupai|n,tupai tanah|n
+湾	teluk|n
+灾	bala|n,bencana|n,geruh|n,geruh-gerah,kebakaran|n,kecelakaan|n,kemalangan|n,mala|adj
+灾厄	bala|n
+灾害	mala|adj,mala petaka|n
+灾殃	kemalangan|n
+灾祸	bencana|n,kecelakaan|n,mala petaka|n,petaka,tulah
+灾难	bala|n,bencana|n,geruh|n,masyakat,musakat,petaka,tulah,geruh-gerah
+灾难的	musibat
+灾难重	mala-petaka|n
+灾难重重	mala-petaka|n
+獾	teledu|n
+百	ratus|num,satu ratus|num,batuk jerih,batuk rejan,beratus-ratus,berjuta-juta,berkurun-kurun,dua ratus|num
+百万	juta|num,satu juta|num,sejuta|num,berjuta-juta,jutawan|n,kuindesilion|num,kuintilion|num,nonilion|num
+百万富	jutawan|n
+百万富翁	jutawan|n
+百万的	berjuta-juta,kuindesilion|num,kuintilion|num,nonilion|num,sentilion|num
+百万的一	sentilion|num
+百万的一百	sentilion|num
+百万的一百次	sentilion|num
+百万的一百次幂	sentilion|num
+百万的三	kuintilion|num
+百万的三次	kuintilion|num
+百万的三次方	kuintilion|num
+百万的九	nonilion|num
+百万的九次	nonilion|num
+百万的九次方	nonilion|num
+百万的十	kuindesilion|num
+百万的十五	kuindesilion|num
+百万的十五次	kuindesilion|num
+百万的十五次幂	kuindesilion|num
+百分	peratus|cls,peratusan|n,persen
+百分比	peratus|cls,peratusan|n
+百分率	persen
+百姓	jalata,rakyat jelata
+百年	berkurun-kurun
+百日	batuk jerih,batuk rejan
+百日咳	batuk jerih,batuk rejan
+百次	sentilion|num
+百次幂	sentilion|num
+百灵	sang kancil
+百灵鹿	sang kancil
+百的	beratus-ratus
+百科	ensiklopedia|n,wiki|n,wikipedia
+百科全	ensiklopedia|n
+百科全書	ensiklopedia|n
+百舌	merbah
+百舌鸟	merbah
+百货	emporium
+百货公	emporium
+百货公司	emporium
+盾	jebang,kelung,konflik|n,perisai|n,pertentangan,sangkal,utar-utar
+盾牌	jebang
+睾	buah pelir
+睾丸	buah pelir
+矾	tawas|n
+签	undi|v,bertandatangan,bubuh tandatangan,label|n,menandatangani,tanda nama|n,tanda pagar|n,tandatangan|n
+签名	bubuh tandatangan,teken
+签字	tandatangan|n
+签署	menandatangani
+签证	visa
+篾	mengabaikan|v
+聾	congek|adj
+聾的	congek|adj
+腾	didih|v,gelegak,gelogok,golak,luap,meluap,mendidih|v,menggelegak
+艾	capa|n,ishak
+艾纳	capa|n
+艾纳香	capa|n
+艾纳香脑	capa|n
+艾萨	ishak
+艾萨克	ishak
+蕾	kincup,kudup,kuntum
+蕾状	kincup
+蕾状物	kincup
+虾	udang|n,belacan|n,cencaluk,hebi,keropok,keropok udang|n,menyondong,penaram
+虾了	terkejut|adj
+虾了一	terkejut|adj
+虾了一跳	terkejut|adj
+虾米	hebi,udang kering
+虾网	sondong
+虾膏	terasi,belacan|n
+虾酱	cencaluk,penaram,petis|n,terasi
+虾饼	keropok
+蛾	limpapas
+蟾	kangkung|n,katak puru|n
+蟾蜍	kangkung|n,katak puru|n
+课	kelas|n,aktubelajar,bilik darjah,jadual waktu,koku|n,kuliah|n,kursus,pelajaran|n
+课室	bilik darjah
+课时	aktubelajar
+课时间	aktubelajar
+课程	kuliah|n,kursus,pelajaran|n,sudah tentu|adv,jadual waktu,koku|n,sukatan
+课程纲	sukatan
+课程纲要	sukatan
+课程表	jadual waktu
+课题	tema
+链	saring,engsel|n,jaga|v,pedaka,rangkaian bekalan|n,rantai|n,zip
+链子	rantai|n
+雾	embun asap,kabus|n,kabut|n,jerebu|n,uap|v
+顾	bela,kaunselor|n,lengung,pelanggan|n,pelihara|v,pembeli|n,penasihat,penjagaan diri|n
+顾客	pelanggan|n,pembeli|n
+顾的	telantar
+顾问	kaunselor|n,penasihat
+飾	penyamaran|n
+驾	kendera,bawa kereta,lesen memandu|n,memandu|v,menjalankan,pacuan|n,rebewis|n
+驾车	bawa kereta,pacuan|n
+驾驶	memandu|v,menjalankan,lesen memandu|n,rebewis|n
+驾驶员	lesen memandu|n,rebewis|n

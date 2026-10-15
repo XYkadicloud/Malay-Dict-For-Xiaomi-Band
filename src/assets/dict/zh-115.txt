@@ -1,0 +1,474 @@
+乳	dadih|n,getah perca|n,getah taban|n,gigi susu|n,kastard|n,keju|n,kemban|n,krim|n
+乳动	mamalia|n
+乳动物	mamalia|n
+乳头	puting susu
+乳妈	pengasuh
+乳房	tetek
+乳罩	kemban|n
+乳胶	getah perca|n,getah taban|n
+乳蛋	kastard|n
+乳蛋糕	kastard|n
+乳酪	dadih|n,keju|n,krim|n,panir|n,yogurt|n
+乳酶	renet|n
+乳齿	gigi susu|n
+佳	bagus|adj,labang,periang
+佳的	labang
+佳运	periang
+关	acuh,atas hal itu,bagi|v,bagi perkara itu,bandaran|adj,bena tak,beradik|adj,berhubung
+关上	tertutup
+关于	bagi|v,berkenaan,darihal|prep,perihal|n,tentang|prep,tentang hal itu,atas hal itu,bagi perkara itu
+关于死	obituari|n
+关于死亡	obituari|n
+关于死亡的	obituari|n
+关于该	atas hal itu,bagi perkara itu
+关于该项	atas hal itu,bagi perkara itu
+关于该项事	atas hal itu,bagi perkara itu
+关于该项事件	bagi perkara itu
+关于该项事情	atas hal itu
+关切	minat|n
+关心	acuh,mengindahkan,peduli|v,bena tak,lengsan,perminat,tega
+关心与	bena tak
+关心与否	bena tak
+关心的	lengsan,tega
+关心者	perminat
+关枪	mesingan|n
+关爱	kasih sayang|n
+关的	hidraulik|adj
+关税	cukai|n,kastam,tarif|n
+关税局	kastam
+关系	galur,hubungan|n,perhubungan|n,perikatan|n,perkaitan|n,susur galur|n,wuwungan,beradik|adj
+关系到	bersangkut paut dengan
+关系的	beradik|adj,berhubung,emak angkat|n,ibu angkat|n,mak angkat|n
+关联	bandaran|adj,jelata|adj,kebenuaan|adj,kehutanan|n,keislaman|adj,kekitaan|adj,kenusantaraan|adj,kepartian|adj
+关联的	terma|n,relevan|adj
+关节	sendi|n,buku jadi,buku lali|n,lopak
+关节间	lopak
+关节间的	lopak
+关节间的间	lopak
+关节间的间隙	lopak
+关闭	berkatup,hartal|n,katup,kuncup,menutup|v,menutupkan,tutup|v,tutup mulut|v
+凳	lenggak
+即	yaitu,yakni,akhirulkalam,alhalitu,awangan,biarpun,graduan|n,ialah|part
+即从	singkek|n
+即从中	singkek|n
+即从中国	singkek|n
+即从中国新	singkek|n
+即从中国新来	singkek|n
+即从中国新来的	singkek|n
+即从中国新来的华	singkek|n
+即从中国新来的华侨	singkek|n
+即使	alhalitu,biarpun,mahupun|conj,meskipun|conj,sedangkan
+即将	graduan|n
+即将毕	graduan|n
+即将毕业	graduan|n
+即将毕业的	graduan|n
+即将毕业的学	graduan|n
+即将毕业的学生	graduan|n
+即席	awangan
+即席演	awangan
+即席演出	awangan
+即是	ialah|part
+即此	akhirulkalam
+即此搁	akhirulkalam
+即此搁笔	akhirulkalam
+右	asar rendah,asar tinggi,bersibak,kanan|n,sebelah kanan,sibak
+右分	bersibak,sibak
+右分开	bersibak,sibak
+右边	kanan|n,sebelah kanan
+味	perisa|n,ambar,apak,aring,asam garam|n,bau|n,baui|v,bumbu
+味品	asam garam|n,bumbu,perencah|n
+味强	pering
+味强烈	pering
+味强烈的	pering
+味料	rempah-ratus|n
+味的	apak,lesir,mamik,manus,merakap,nikmat|n,nyaman|adj,payau
+味道	baui|v,cicip|v,citarasa,rasa|n,cecap|v
+壳	cangkerang,sisik|n,antah|n,bacuk,batok|n,biji-bijian,bijirin,cebok
+壳动	krustasia
+壳动物	krustasia
+壳勺	bacuk,cebok
+壳层	petala elektron|n
+壳杓	gayung|n,geluk
+壳果	kemiri|n
+壳果树	kemiri|n
+壳物	bijirin
+壳的	lekang
+壳类	bijirin,biji-bijian,mising
+壳类毒	mising
+壳类毒斗	mising
+壳鱼	terubuk
+女	aktres|n,amah|n,amput|n,anak dara,anak halal,anak perempuan|n,anak saudari|n,anak-beranak
+女人	anita,bibi|n,perempuan|n,wanita|n,andartu|n,misoginis|n,sundari
+女人名	sundari
+女人的	misoginis|n
+女人的人	misoginis|n
+女仆	amah|n
+女传	rubiah
+女传教	rubiah
+女传教师	rubiah
+女修	konven|n
+女修道	konven|n
+女修道会	konven|n
+女儿	anak perempuan|n,fatimah,putri|n,upik,binti|n,mengahwinkan
+女儿的	anak perempuan|n,fatimah
+女可	qariah
+女可兰	qariah
+女可兰经	qariah
+女可兰经诵	qariah
+女可兰经诵读	qariah
+女可兰经诵读者	qariah
+女回	telekung
+女回教	telekung
+女回教徒	telekung
+女回教徒祈	telekung
+女回教徒祈祷	telekung
+女回教徒祈祷用	telekung
+女回教徒祈祷用之	telekung
+女回教徒祈祷用之面	telekung
+女回教徒祈祷用之面幕	telekung
+女士	puan|n
+女妖	kelembai
+女妖精	kelembai
+女婿	menantu|n
+女嫁	santung
+女嫁给	santung
+女嫁给别	santung
+女嫁给别人	santung
+女嫁给别人的	santung
+女嫁给别人的头	santung
+女嫁给别人的头邪	santung
+女嫁给别人的头邪术	santung
+女子	musahaqah|n
+女子同	musahaqah|n
+女子同性	musahaqah|n
+女子同性恋	musahaqah|n
+女子同性恋爱	musahaqah|n
+女子同性恋爱的	musahaqah|n
+女孩	awek|n,cikadung|n,gadis|n,noni,bapuk|n,gadis dara
+女孩子	bapuk|n,gadis dara
+女宗	ustazah|n
+女宗教	ustazah|n
+女宗教教	ustazah|n
+女宗教教师	ustazah|n
+女平	feminis|n
+女平等	feminis|n
+女平等主	feminis|n
+女平等主义	feminis|n
+女平等主义者	feminis|n
+女待	perwara
+女待从	perwara
+女待从官	perwara
+女性	amput|n,biarawati|n,farhana,farhanah,jihan,khadijah,maryam,minah|n
+女性生	faraj|n,pukas,puki|n
+女性生殖	faraj|n,pukas,puki|n
+女性生殖器	faraj|n,pukas,puki|n
+女方	saka
+女方家	saka
+女方家系	saka
+女朋	gelfren|n,makwe|n,teman wanita|n
+女朋友	gelfren|n,makwe|n,teman wanita|n
+女权	feminisme|n
+女权主	feminisme|n
+女权主义	feminisme|n
+女歌	biduanita|n
+女歌唱	biduanita|n
+女歌唱家	biduanita|n
+女演	aktres|n
+女演员	aktres|n
+女的	bujang talan,sari
+女的寡	bujang talan
+女的寡妇	bujang talan
+女的寡妇或	bujang talan
+女的寡妇或鳏	bujang talan
+女的寡妇或鳏夫	bujang talan
+女的服	sari
+女的服装	sari
+女皇	maharani|n,permaisuri|n,raja permaisuri,rani,ratu|n
+女神	dewi|n
+女艺	seniwati|n
+女艺术	seniwati|n
+女艺术家	seniwati|n
+女苦	rubiah
+女苦行	rubiah
+女苦行者	rubiah
+女英	heroin
+女英雄	heroin
+女衣	gaun|n
+女豪	heroin
+女豪杰	heroin
+女青	pemudi
+女青年	pemudi
+女鬼	penanggalan|n
+平	adil|adj,aman|adj,aman dan damai,aman dan makmur,aman sentosa,apan|n,aras air,awam|adj
+平与	aman sentosa
+平与安	aman sentosa
+平与安全	aman sentosa
+平之	selampit
+平之髻	selampit
+平凡	awam|adj,kepalang|adj,banal|adj,rucah,ternah
+平凡的	banal|adj,rucah,ternah
+平卖	obral,jualan murah
+平原	dataran|n,medan,saujana|adj
+平地	dataran|n,pamah|n
+平均	hitung panjang,menjana,purata|n,rata-rata,timbalan,imbang balas|n,sederhana|adj
+平均数	hitung panjang,purata|n
+平均的	sederhana|adj
+平坦	sanggan,capati|n,datar|adj,kuetiau|n,latar,lira,papar|adj,rata|adj
+平坦的	capati|n,datar|adj,kuetiau|n,latar,lira,papar|adj,rata|adj,repang
+平安	sejahtera|n,aman dan damai,dengan selamatnya
+平安地	dengan selamatnya
+平安宁	aman dan damai
+平屋	sotoh
+平屋顶	sotoh
+平常	biasa|adj,sediakala,ghalib,lumrah|adj,murba
+平常的	ghalib,lumrah|adj,murba
+平底	ketiap,lepap
+平底河	ketiap
+平底河盘	ketiap
+平底船	lepap
+平息	padam|adj
+平整	paras|n
+平整的	paras|n
+平民	jalata,marhaen|n,periman,preman,rakyat jelata
+平洋	lautan pasifik,lautan teduh
+平淡	mamik
+平淡的	mamik
+平滑	lancap|v,lancarkan|v,lira,menggalirkan|v,polos,sega,tarah|v
+平滑的	lancap|v,lancarkan|v,lira,menggalirkan|v,polos,sega,tarah|v
+平滩	kukup
+平的	datar|adj,leper,natar,paras|n,penyek,repang,damai,gepeng
+平的屋	sutuh
+平的屋顶	sutuh
+平直	lempang
+平直的	lempang
+平砰	keletang
+平砰然	keletang
+平砰然作	keletang
+平砰然作响	keletang
+平等	feminis|n,pincang,samarata
+平等主	feminis|n
+平等主义	feminis|n
+平等主义者	feminis|n
+平等的	samarata,pincang
+平繁	aman dan makmur
+平繁荣	aman dan makmur
+平线	gigi air,horizon|n,kaki langit|n,ufuk|n,ufuk langit
+平薄	pipih
+平薄的	pipih
+平行	sejajar,selari|adj,garis sejajar,sepanjang|prep
+平行地	sepanjang|prep
+平行线	garis sejajar
+平衡	imbang,keseimbangan|n,tim|n,timbal,timbalan,imbal
+平锅	apan|n,rawah
+平静	ketenangan|n,mantap,tenang|adj,aman|adj,teduh
+平静的	aman|adj,teduh
+平面	satah|n,aras air,pelan|n,rata|adj
+平面图	pelan|n
+平面的	rata|adj
+平齐	memepat,pepat
+恳	ikhlas|adj,tulus|adj
+恳的	ikhlas|adj
+想	fikir|v,menyangka,nak|prep,sualak,abun,agak|adv,angan|n,bayangkan|v
+想像	bayangkan|v,imaginasikan|v,imaginatif|adj
+想像的	imaginatif|adj
+想办	cari akal
+想办法	cari akal
+想吃	mengidamkan
+想吐	loya,meluah
+想得	jengkau
+想得到	jengkau
+想念	mengenangkan,merindui|v,rindu|v
+想拿	jengkau,jingkau
+想的	ideal,sahi
+想要	berniat|v,hajat|n,hendak|prep,ingin|adv,mahu|v
+想象	imaginasi|n
+想起	mengingatkan,teringat|v
+扳	sepana|n
+扳手	sepana|n
+拳	bertinju,buku lima|n,hantam,hentam|v,kuntau,memarap,meninju,parap|v
+拳击	hantam,hentam|v,memarap,parap|v,tinju|n,tumbuk|v
+拳头	buku lima|n,kuntau,meninju
+拳头打	meninju
+拳师	peninju
+拳打	tumbukan
+拳曲	pepuah|adj
+拳曲的	pepuah|adj
+拳术	kuntau
+曳	menyentap,sentap,tunda|v,cemat,enjut,jela,kanjar,labuh|adj
+曳引	renggutan
+曳舟	ranggak
+曳舟上	ranggak
+曳舟上陆	ranggak
+曳船	cemat
+柳	ramping|adj,sasah
+柳枝	sasah
+柳腰	ramping|adj
+泳	berenang|v,kolam mandi,lala|n,renang|v
+泳池	kolam mandi
+狳	armadillo|n
+石	alamas,amang|n,arangan,baiduri|n,barang kemas|n,batu|n,batu asah,batu bersurat|n
+石丸	guli|n
+石凳	lenggak
+石击	rajam
+石击毙	rajam
+石器	zaman batu
+石器时	zaman batu
+石器时代	zaman batu
+石场	kuari|n
+石头	batu|n,batu-batan,penyerpihan|n
+石头等	penyerpihan|n
+石头等裂	penyerpihan|n
+石头等裂成	penyerpihan|n
+石头等裂成碎	penyerpihan|n
+石头等裂成碎片	penyerpihan|n
+石弹	guli|n,gundu
+石机	manjanik|n
+石榴	delima|n,biawas,jambu batu
+石油	petroliam|n
+石灰	cunam,kapur|n,limau nipis|n,kapur tonor,padas
+石灰岩	padas
+石界	batu sempadan
+石的	amang|n,batu-batan,belut tuna|n,kucing dahan|n,pudi
+石的粉	pudi
+石的粉末	pudi
+石砌	patio|n
+石砌空	patio|n
+石碑	batu bersurat|n
+石膏	kapur masak,plaster
+石膏粉	kapur masak
+石英	batu telerang|n,kuarza|n,baiduri|n
+石英石	baiduri|n
+石龙	bingkarung
+石龙子	bingkarung
+米	beras|n,bihun|n,meter|n,periuk nasi|n,sekabung,abuk-abuk|n,adat perpatih,barli
+米仓	belubur,jelapang|n,lumbung,mandah,tengkalang,terubung
+米制	tepung beras
+米制成	tepung beras
+米制成的	tepung beras
+米制成的粉	tepung beras
+米南	adat perpatih
+米南加	adat perpatih
+米南加坡	adat perpatih
+米南加坡族	adat perpatih
+米南加坡族母	adat perpatih
+米南加坡族母系	adat perpatih
+米南加坡族母系社	adat perpatih
+米南加坡族母系社会	adat perpatih
+米南加坡族母系社会风	adat perpatih
+米南加坡族母系社会风俗	adat perpatih
+米尼	dominika,republik dominika
+米尼加	dominika,republik dominika
+米尼加共	republik dominika
+米尼加共和	republik dominika
+米尼加共和国	republik dominika
+米屑	lemukut,temukut
+米柜	beremban
+米树	rumbia|n
+米桶	kepuk
+米碎	melukut|n,menir,temukut
+米粉	melukut|n,bugis,emping
+米粉粽	bugis
+米粉饼	emping
+米粽	ketupat|n
+米糠	dedak|n,lemukut
+米花	bepang|n
+米象	kutu beras|n
+米酒	beram,samsu
+米里	peram
+米饭	nasi|n
+绳	perimppin,abah-abah|n,anduhan,jegung,kelikir,lombar,pedoman|n,sumbu|n
+绳子	tali|n,lombar
+绳环	kelikir
+绳索	temali,jegung
+绳索等	jegung
+绳索等的	jegung
+绳索等的储	jegung
+绳索等的储藏	jegung
+绳索等的储藏处	jegung
+绳络	anduhan
+胳	ketiak|n
+胳肢	ketiak|n
+胳肢窝	ketiak|n
+至	hingga|prep,ke|conj,santak,adapun,alkisah,darihal|prep,datang bertapak,kabir
+至上	rabbani
+至上的	rabbani
+至于	adapun,alkisah,darihal|prep
+至尊	kabir
+至尊的	kabir
+至少	sekurang-kurangnya
+至尚	mahadewa
+至尚的	mahadewa
+至尚的神	mahadewa
+至爱	maharupa
+至爱的	maharupa
+至高	syogun|n
+艳	licau,merah-merang,merang,poyo|adj
+艳丽	poyo|adj
+艳丽的	poyo|adj
+艳的	licau
+艳红	merah-merang,merang
+艳红色	merah-merang,merang
+跳	loncat,melompat|v,meloncat,mengambul,rejuk,ambul,anjal menganjal,antul
+跳下	terjun|v
+跳伞	payung terjun|n
+跳入	gelabur
+跳入水	gelabur
+跳入水中	gelabur
+跳动	berdenyut,debaran,denyut,geronyot,gorek,lompat|n,menunjal,mumut
+跳回	anjal menganjal,melambung,membingkas
+跳家	penari|n
+跳棋	dam|adj
+跳楼	berjoget
+跳舞	bertandak,menari|v,tarian|n
+跳跃	antul,fly|v,jingkerak,kudidi,lambung,lompat|n,lompatan,loncat
+跳跳	melonjak-lonjak
+跳过	jangkah,melompati,menjangkah
+跳进	mencebur
+跳远	celat
+跳高	celat
+跳高或	celat
+跳高或跳	celat
+跳高或跳远	celat
+轳	kerek
+迳	langsung|adv,lantas|adv,mentung,terus|adv
+迳直	langsung|adv,lantas|adv,mentung,terus|adv
+迳直的	lantas|adv,mentung,terus|adv
+音	abjad|n,aksen|n,akustik|n,alih suara|n,amende|pron,ape|pron,bangbung|n,bergeming|v
+音乐	musik|n,muzik|n
+音位	metatesis|n
+音位转	metatesis|n
+音位转换	metatesis|n
+音响	akustik|n
+音响效	akustik|n
+音响效果	akustik|n
+音复	alih suara|n,dabing|n
+音复制	alih suara|n,dabing|n
+音室	studio
+音念	menekankan
+音效	bangbung|n
+音机	corong radio,mikrofon|n
+音电	gitar bes|n
+音电吉	gitar bes|n
+音电吉他	gitar bes|n
+音的	bunyi hidup|n,huruf hidup|n,huruf saksi|n,terimbuh|n
+音符	bref|n,tanda singkat|n
+音節	suku kata|n
+音系	fonologi|n
+音系学	fonologi|n
+音素	abjad|n
+音素文	abjad|n
+音素文字	abjad|n
+音色	nada
+音节	sukukata|n,camna|adv,camni|adv,camtu|adv,cereka|n,filpen|n,gimam|v,medsos|n
+音节主	camna|adv,camni|adv,camtu|adv,cereka|n,filpen|n,gimam|v,medsos|n,takyah|adv
+音节主音	camna|adv,camni|adv,camtu|adv,cereka|n,filpen|n,gimam|v,medsos|n,takyah|adv
+音节的	camna|adv,camni|adv,camtu|adv,cereka|n,filpen|n,gimam|v,medsos|n,takyah|adv
+音说	sengau
+音说话	sengau
+音调	lagu|n,nada
+音辞	kalimah|n
+音音	abjad|n
+音音素	abjad|n
+音音素文	abjad|n
+音音素文字	abjad|n
+驳	bangkang

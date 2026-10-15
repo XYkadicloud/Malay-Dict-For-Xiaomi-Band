@@ -1,0 +1,3 @@
+pbb	pbb		词首字母缩略词
+pbrs	pbrs		词首字母缩略词
+pbs	pbs		词首字母缩略词

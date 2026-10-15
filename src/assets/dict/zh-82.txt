@@ -1,0 +1,217 @@
+乒	pingpong
+乒乓	pingpong
+乒乓球	pingpong
+勒	cekik|v,farsakh|n,kendali,kujut,lampes|n,palestin,ruku-ruku,sabda|n
+勒令	sabda|n
+勒属	lampes|n,selasih|n
+勒属植	lampes|n,selasih|n
+勒属植物	lampes|n,selasih|n
+勒属植物名	selasih|n
+勒斯	palestin
+勒斯坦	palestin
+勒果	salak|n
+勒桑	farsakh|n
+勒死	cekik|v,kujut
+卒	bidak|n,gesa,gopoh
+卒的	gopoh
+哒	detak
+哒哒	detak
+哒哒声	detak
+哒声	detak
+嗒	ketik
+嗒响	ketik
+嗒嗒	ketik
+嗒嗒响	ketik
+寒	demam gigil,iklim dingin,kesejukan
+寒冷	kesejukan
+寒带	iklim dingin
+寒热	demam gigil
+寒热病	demam gigil
+归	balik kampung|n,gelandangan|n,maab,marjik,nasionalisasikan|v,pengarkiban|n,rujuk|v,tuna wisma|n
+归化	nasionalisasikan|v
+归宿	maab
+归档	pengarkiban|n
+归赵	rujuk|v
+归还	balik kampung|n,marjik
+恒	abadi|adj,abadiah|adj,betlehem,gangga,kekal-abadi,malar,syaaban
+恒不	kekal-abadi
+恒不变	kekal-abadi
+恒久	malar
+恒久的	malar
+恒星	syaaban
+恒星时	syaaban
+恒星时角	syaaban
+恒河	gangga
+恒的	abadi|adj,abadiah|adj
+懒	malas|adj,berat tangan,berat tulang|adj,berlengah-lengah,culas,curi tulang|v,geliat,kemalasan|n
+懒人	pelasuh
+懒妇	lonte
+懒怠	teledor
+懒怠的	teledor
+懒惰	culas,kemalasan|n,berat tangan,berat tulang|adj,kerusi rehat|n,pemalas|n
+懒惰的	berat tangan,berat tulang|adj,kerusi rehat|n
+懒惰虫	pemalas|n
+懒洋	berlengah-lengah
+懒洋洋	berlengah-lengah
+懒洋洋的	berlengah-lengah
+懒腰	geliat,menggeliat
+扒	bifstik,copet,mencopet,mengais
+扒地	mengais
+扒窃	copet,mencopet
+拒	enggan|adv,geleng|n,menumangkan,nafi,sangkak,sangkal,tolak|v,tumang
+拒绝	enggan|adv,menumangkan,nafi,sangkal,tolak|v,tumang,geleng|n
+插	merunjung,tujah|v,bergambar,cerat|n,cucuk|v,gambar|n,hunjam,ilustrasi
+插入	cucuk|v,lantak,memacak,membaji,menancap,mengunjamkan,menyisip,pantak
+插嘴	ngeletuk
+插图	gambar|n,ilustrasi,bergambar
+插孔	cerat|n
+插翅	memegas
+晒	jemur|v,berjemur,daing|n,jemuran,mengeringkan,menjemur
+晒太	berjemur
+晒太阳	berjemur
+晒干	jemur|v,mengeringkan,menjemur,daing|n
+晒干的	daing|n
+晒晾	jemuran
+晒晾物	jemuran
+棒	alu|n,antan|n,gada,tongkat|n,cokmar|n,memangkung,pacak,pangkung
+棒击	memangkung,pangkung
+毒	racun|n,adenium|n,angkut-angkut,apitoksin|n,beracun,bisa|adj,dadah|n,daiman|n
+毒剂	penawar
+毒品	dadah|n,narkotik
+毒害	racunkan
+毒斗	mising
+毒杀	meracun
+毒液	bisa|adj
+毒疮	koreng
+毒的	beracun
+毒素	apitoksin|n
+毒者	kaki dadah|n,mat dadah|n
+毒而	restung
+毒而烂	restung
+毒而烂鼻	restung
+毒胶	adenium|n
+毒胶属	adenium|n
+毒药	bisa|adj,racun|n
+毒蜂	angkut-angkut
+毒蜘	sepasan
+毒蜘蛛	sepasan
+毒进	racunkan
+毒进去	racunkan
+狒	babun|n
+狒狒	babun|n
+痒	giang|n,kegatalan,merenyam,renyam,gatal|adj,gelenyar,geli,gelitik
+痒的	gatal|adj,gidik,lenyar,geli,lidas,merenyam,renyam
+盒	peti|n,bekas sirih,cembul|n,dulang|n,gedebung,jorong,kalamdan,kelamdan
+盒子	kotak|n,gedebung,selepi
+硒	selenium|n
+秒	acik|n,anak angah|n,awda|pron,detik|n,kalian|pron,kau orang|pron,saat|n
+筒	pipa,tiub,bacuk,berumbung,buluh meriam,corong telefon,kaleidoskop,kelongsong
+筒制	bacuk
+筒制成	bacuk
+筒制成之	bacuk
+筒制成之盛	bacuk
+筒制成之盛水	bacuk
+筒制成之盛水器	bacuk
+筒处	kelongsong
+筒处之	kelongsong
+筒处之外	kelongsong
+筒处之外皮	kelongsong
+筒枪	senapang dua laras
+筒炮	buluh meriam
+筒粢	lemang|n
+筒粢饭	lemang|n
+绒	baldu|n,beldu,itik baldu|n,pacal|pron,rabuk|n,rambuti
+绒垫	pacal|pron
+绒布	rambuti
+绒的	baldu|n
+绒鸭	itik baldu|n
+荒	a kapela|n,abdoman|n,absurd|adj,absurdisme|n,achara|n,alor star,anam|num,ayer|n
+荒凉	senyap|adj,sepi|adj
+荒凉的	sepi|adj
+荒废	a kapela|n,abdoman|n,achara|n,alor star,anam|num,ayer|n,barat semata selatan|n,biling|v
+荒废的	a kapela|n,abdoman|n,achara|n,alor star,anam|num,ayer|n,barat semata selatan|n,biling|v
+荒芜	bangai,senyap|adj
+荒芜静	senyap|adj
+荒芜静寂	senyap|adj
+荒诞	absurdisme|n
+荒诞主	absurdisme|n
+荒诞主义	absurdisme|n
+荒谬	karut,khilaf,absurd|adj
+荒谬的	absurd|adj
+荒野	kelumpang|n,liar|adj,bukit-bukau
+蟒	sanca|n,sawa,ular sawa|n
+蟒蛇	sawa,ular sawa|n
+角	bucu,penjuru|n,pukang|n,segi,siku|n,sudut|n,tanduk|n,tanjong malim
+角力	bergelut,gelut|v,gomol,gusti|n
+角处	ceruk
+角学	trigonometri|n
+角小	panji-panji|n
+角小旗	panji-panji|n
+角形	astagona,empat segi,oktagon|n,segi telu|n,segi tiga|n
+角恋	cinta segi tiga|n
+角恋爱	cinta segi tiga|n
+角抵	tebuk|v
+角抵之	tebuk|v
+角斜	menjeling
+角斜视	menjeling
+角架	kuda-kuda
+角的	bersegi,dogol|adj
+角笛	mandali
+角笛的	mandali
+角笛的一	mandali
+角笛的一种	mandali
+角膜	kornea|n,saput
+角色	bahagian|n,karakter,lakon|v,peranan
+角落	ceruk,padun,pelosok,penjuru|n,sudut|n,tepas
+角豆	bendi,kacang bendi
+角酰	dua puluh lima|num,lima likur|num
+角酰二	dua puluh lima|num,lima likur|num
+角酰二乙	dua puluh lima|num,lima likur|num
+角酰二乙胺	dua puluh lima|num,lima likur|num
+角隅	pelosok
+角顶	menanduk
+角顶撞	menanduk
+蹒	gayang,huyung,kedek-kedek,lilau,royong,terhuyung-huyung|adj
+蹒跚	gayang,royong,huyung,kedek-kedek,lilau,terhuyung-huyung|adj
+蹒跚的	huyung,terhuyung-huyung|adj
+蹒跚而	kedek-kedek,lilau
+蹒跚而行	kedek-kedek
+蹒跚而走	lilau
+酒	syarab,alkohol|n,beram,bir|n,champagne|n,hotel|n,irung,kabaret
+酒吧	kabaret
+酒店	hotel|n
+酒杯	irung
+酒杵	sadap
+酒杵的	sadap
+酒杵的汁	sadap
+酒涡	lesung|n
+酒精	alkohol|n,lima puluh lima|num
+酒精啤	lima puluh lima|num
+酒精啤酒	lima puluh lima|num
+酒醉	kemabukan|adj
+酒醉的	kemabukan|adj
+酒釀	tapai|n
+酒鬼	kaki botol|n,kaki minum|n,mat botol|n
+铒	erbium|n
+青	agsa,anak muda|n,angsana|n,asflat,belia,biru lebam,biru nila|adj,burung pialing
+青人	belia
+青尾	burung pialing,pialing
+青尾鹦	burung pialing,pialing
+青尾鹦鹉	burung pialing,pialing
+青年	anak muda|n,jejaka,orang muda,pemuda,agsa,pemuda-pemudi,pemudi
+青年男	pemuda-pemudi
+青年男女	pemuda-pemudi
+青春	puspajuita
+青白	pucat|adj
+青白的	pucat|adj
+青的	belia
+青石	lazuardi|n
+青葱	daun bawang|n
+青蛙	katak|n
+青铜	perunggu|n,tembaga gansa
+青鱼	memparang
+青鸟	tengkek
+青黑	lebam|n
+青黑色	lebam|n
+青龙	angsana|n
+青龙木	angsana|n

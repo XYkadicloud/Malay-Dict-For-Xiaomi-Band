@@ -1,1 +1,870 @@
-{"zh2ms":{"人名":["a cappella","mahafiraun","daftar alamat","si","sundari"],"围绳":["abah-abah"],"最旧的":["abang long"],"丞官":["abintara","bentara"],"外科的":["ablasi"],"形成脓肿":["abses"],"做白日梦":["abun-abun","angan-angan"],"建立":["adakan","membangunkan","membina","mendirikan","menegakkan","mengotai","normatif"],"兄弟":["adik beradik","adik lelaki","adik-beradik","bung","engko","ikhwan","nana","saudara"],"形容词":["adjektif","kata sifat"],"形容词的":["adjektif","kata sifat"],"外科医生":["ahli bedah"],"咸水":["air masin","garamabu"],"最低潮":["air perbani","perbani"],"气根":["akar udara","tunjang"],"帐目":["akaun"],"最后":["akhir","akibatnya","kemuktamadan","muntaha","mutamad","berzaman","buncir","corot"],"最近":["akhir-akhir","baru-baru","belakangan","baharu-baharu","damping"],"人民代表":["akilrakyat"],"祈祷的时间":["aktusembahyang"],"自首":["akuan"],"自然":["alam","semula jadi","ilmu alam","makhluk halus","memang","namus","natural","sewajarnya"],"转业":["alih pekerjaan"],"潮流":["aliran","simbar"],"几乎":["ampir","cemas-cemas","hampir","nyaris","tekis","hampir-hampir","imbas-imbas"],"最幼的孩子":["anak bongsu"],"储备金":["angcadangan"],"建议":["anjuran","cadandan","cadangkan","mencadangkan","penganjuran","rundingan","saran","saranan"],"在心肝其间":["antara hati dengan jantung"],"人类学":["antropologi","kajimanusia"],"某某":["anu","sianu","bin","binti","calonkan","polan","si polan","zadah"],"專有":["anwar"],"了解":["apal","insaf","memahami","mengerti","menginsafi","reti"],"蜘蛛":["araknid","bakung","labah","labah-labah","lelaba","lelabah","kabang-kabang","sepasan"],"舞台":["arena","pentas","wayang","wayangbangsawan"],"建筑师":["arkitek"],"形形色色的":["arna-warni"],"外国的":["asing"],"气喘病":["asma"],"外观":["aspek","rupa"],"祈祷":["astaghfirullah","baca doa","berdoa","bersembahyang","doa","kaul","khutbah","mendoa"],"自传":["autobiografi","kidar"],"自动化":["automasi"],"自动的":["automatik"],"自动机":["automaton"],"冒险":["avontuur","risiko"],"祈祷之呼声":["azan"],"盲撞":["babi"],"盲目行动":["babi"],"幸福的":["bagawan","berbahagia","mubarak","sempana"],"幸福":["bagia","bahagia","berkat","kebahagiaan","tuah","bagawan","berbahagia","mubarak"],"幸运":["bahagia","tuah","untung baik","bakhtiar","bawa untung","maimun","mubarak","mujur"],"狼吞虎咽":["baham","gelogok","kerkak","kerkan","kerkap","lalah","sengam"],"最近的":["baharu-baharu","damping"],"背心":["baju dalam","kutang","singlet","weskot"],"形迹":["bakat"],"幸运的":["bakhtiar","maimun","mubarak","mujur","nasib baik","sempana"],"返回":["balik"],"人口调查":["banci penduduk"],"人口统计":["banci penduduk"],"祈祷的召唤":["bang"],"自负":["bangga","bengah","bongkak","congkak","keangkuhan","ranggi"],"出现":["bangkit","berbayang","jelma","membulat","membundar","menjelma","muncul","recup"],"建筑物":["bangunan","binaan","pembinaan"],"援助":["bantu","bantuan","menyumbangkan","pertolongan"],"果蝇":["bari-bari"],"气压性创伤":["barotrauma"],"某事":["basahan","berian","dukungan","fardukan","jepunkan","kegunaan","lebarkan","memperelok"],"脚气病":["basal"],"自行车":["basikal","kereta angin","sepeda","mat motor"],"纪念碑":["batu piagam","tugu"],"气味":["bau","daba","pering"],"做人":["bawa diri"],"驾车":["bawa kereta","pacuan"],"出外谋生":["bawa untung"],"痔":["bawasir","sembilik"],"痔疮":["bawasir","sembilik"],"痔核":["bawasir"],"自由":["bebas","kebebasan","membebaskan","merdeka","gaya bebas","gratis","ikhtiar","leluasa"],"人力车":["beca","lancia"],"准备":["bekal","berkemas","cadang","menyiapkan","mustaid","sedia","sudi","awangan"],"牺牲":["bela","gugur","korban","pengorbanan","putih tulang","terkorban","mangsa"],"自卫":["bela diri"],"在后":["belakang","sehabis","mengakhirkan","udi"],"森林":["belantara","hutan","rimba hutan","cerang","hutan belantara","hutan rimba","pangan"],"外来的":["belati"],"外国制的":["belati"],"转弯":["beleng","belok","berbelok","berpaling","menolehkan","palingkan","mentung"],"杨桃":["belimbing"],"转方向":["belok"],"气球":["belon"],"准许":["benarkan","ijazah","keizinan","kenan","membenarkan","mengizinkan","kemasukan"],"惨事":["bencana"],"形式":["bentuk","corak","macam","rupa","tokoh","akhdar","aneka ragam","anwar"],"形态":["bentuk","corak","embih","ideologi"],"洲":["benua","aligator","amerika utara","asia","belati","borneo","daratan","dingo"],"在":["berada","ada","allahi","antara hati dengan jantung","apung-apung","bakau","batin","belakang"],"自大":["berakah","bongkak","rencik","hidung tinggi","jemawa","ngada","petentangan","pongah"],"飞马":["beraksa"],"出发":["berangkat","melangkah","paduk"],"冒火的":["berapi"],"挤来挤去":["berasak-asakan","berhimpit-himpit"],"出生于":["berasal","said"],"冒烟的":["berasap"],"懒惰的":["berat tangan","berat tulang","kerusi rehat"],"组织":["berbadan","membentuk","menubuhkan","organisasi","perhimpunan","pertubuhan","susunan","syarikat"],"盘绕":["berbelit","berbelit-belit","bergelung","lingkar","melingkar"],"转向":["berbelok","hala","memalingkan","memesong","paling","pesong"],"自己的":["berbiola","mengga"],"做":["berbuat","buat","membikin","mengangkat sembah","pulun","watpa","abun-abun","angan-angan"],"出声":["berbunyi","bersuara"],"聊天":["berceloteh","bergebang","borak","cakap-cakap","gebang","obrol"],"自力更生":["berdikari"],"出尔反尔的":["berdolok-dalik","dolak-dalik"],"抢先":["berebut-rebut"],"做完":["beres"],"冒着雨":["berhujan-hujan"],"围绕":["berkepung","galu","likung","lingkung","melingkungi"],"拖着臀部移动":["berkesot","kesot","mengesot"],"转":["berkisar","memilin","pilin","alih pekerjaan","baling-baling","beleng","belok","berbelok"],"懒洋洋的":["berlengah-lengah"],"唠唠叨叨":["berleter","meleter"],"形形色色":["bermacam-macam","arna-warni"],"猖獗":["bermaharajalela"],"做梦":["bermimpi","impi","mengimpi"],"做生意":["berniaga","buka kedai","meniaga","niaga"],"着火":["bernyala","menyala","nyalakan"],"围有篱笆的":["berpagar"],"出汗":["berpeluh","kebah","pecah","rimas","ketibas"],"绞缠":["berpintal-pintal","pintal"],"赤裸":["berpukas","bogel","bundarkan","contohi","contohkan","jerkah","kamuskan","mujarad"],"几十个":["berpuluh-puluh"],"刮":["berpuput","gerit","gesek","berhembus","desing","kaup","kerik","kerosok"],"自转":["berpusar","pusar","pusingan"],"转动":["berpusar","gulat","memusingkan","memutar","pelesat","pusar","pusing","putar"],"做巢":["bersarang"],"外套":["berselimut","jata","lamina","tungkus"],"盘膝而坐":["bersila","timpuh"],"舞剑":["bersilat","lela","lesir"],"出嫁":["bersuami"],"转变":["bertukar","mengalih","haba","polang-paling"],"蝌蚪":["berudu","gerundang"],"人猿":["berukera","gorila"],"最后的":["berzaman","buncir","corot","muktamad","penghabisan","terakhir"],"帐单":["bil","rang undang-undang"],"几时":["bilamana"],"某某的儿子":["bin"],"建筑":["bina","arkitek","bangunan","binaan","pembinaan","ramuan","seni bina"],"建设":["bina","membangunkan","membina","mendirikan","pembangunan","pembina"],"架":["bingkai","panggar","para-para","pemidang","sangga","bengkarak","bercedak","beremban"],"某某的女儿":["binti"],"赤裸的":["bogel","bundarkan","contohi","contohkan","jerkah","kamuskan","percontohkan","persembahkan"],"顶得住":["boleh tahan"],"最幼小的":["bongsu"],"最年轻的":["bongsu"],"最终可能":["brunei"],"自杀":["buang diri","bunuh diri","membela"],"做什么":["buat apa"],"外地产品":["buatan luar negeri"],"人格":["budi pekerti","pekerti","personaliti"],"自助餐":["bufet"],"出成书":["bukukan"],"人身体上的毛":["bulu rama"],"做粗活的人":["buruh kasar"],"盲":["buta","cemer","babi","buta ayam","buta huruf","buta kayu","buta warna","cauvinisme"],"瞎":["buta","nyinyir","obrol","omong","repek"],"盲目的":["buta","cauvinisme"],"储备":["cadandan","cadang","angcadangan","cadangan emas"],"典当":["cagar","memajak","menggadaikan","piadah","pion","gadaian"],"扔":["campak","haban","lontar"],"鸦片":["candu","madat","kisut","pemadat"],"掌握":["capai","genggam","genggaman","jabat"],"拖鞋":["capal","selipar","terompah"],"漆":["cat","batu lak","gelap-gulita","hitam-hitam","jepang","jepun","lak","legam"],"盲目的爱国主义":["cauvinisme"],"围市":["cawat"],"绞死":["cekik","penggantungan"],"最多":["celaka tiga belas","seelok-eloknya","terbanyak"],"拖拉":["cemat","ganjur","irit","menunda","menyintak","meragas","ragas","renggut"],"盲目":["cemer","kebutaan","babi","buta","cauvinisme"],"纪念品":["cenderamata","kenang-kenangan"],"森林里的空地":["cerang"],"果树名":["cermai"],"冒失的":["ceroboh"],"转角处":["ceruk"],"出版物":["cetakan"],"核对":["cocokkan"],"出口税":["cukai eksport"],"人口税":["cukai import"],"懒惰":["culas","kemalasan","berat tangan","berat tulang","kerusi rehat","pemalas"],"气喘":["cungap","mengah","mengih","ngungap","senak nafas","sesak nafas","ungap","asma"],"气氛":["daba"],"秤":["dacing","neraca","teraju"],"人名簿":["daftar alamat"],"在这种情况之下":["dalam keadaan"],"诸如此类":["dan sebagainya"],"在哪里":["dari mana","di mana","ke mana"],"自":["daripada","akuan","alam","autobiografi","automasi","automatik","automaton","bangga"],"赤字":["defisit"],"脚步声":["derap"],"玲玲声":["dering"],"刮风声":["desing"],"哒哒声":["detak"],"在那里":["di sana"],"在这里":["di sini"],"外交官":["diplomat"],"外交的":["diplomatik"],"自己":["diri","diri sendiri","sendiri","berbiola","mengga"],"自身":["diri sendiri","sendiri"],"纪律":["disiplin"],"人造的":["dot"],"果园":["dusun"],"自我中心的":["egosentrik"],"自我中心癖":["egotisme"],"出口":["eksport","jalan keluar","mengeksport","mengeksportkan","cukai eksport","pengeksport","sasul","tersasul"],"潮湿的":["embal","lengas","rambah"],"形状":["embih","rupa","sosok"],"最大的":["embung","terbesar"],"豆粉饼":["emping"],"糖棕榈":["enau","ijuk","nira"],"气喘吁吁":["engah","terengah-engah","terunkap"],"唠叨":["epeh","lebir","merepek","berleter","meleter"],"盲信的":["fanatik"],"菲律宾":["filipina"],"最高":["firdaus","sat","junjung tinggi","maksimum","terburuk","tercantik","tertampan","tertinggi"],"组屋":["flat","rumah pangsa"],"典":["gadai","athens","bausastera","cagar","farmakopeia","gadaian","kamus","klasik"],"押":["gadai","cagar","cagaran","gadai janji","kiwi","menggadaikan"],"典当物":["gadaian"],"果实":["gado-gado","berbuah","geruk","kebabal","peram","tengkaluk","tongkol"],"在旁":["ganding","kepil"],"爬":["garuk","gores","mendaki","jalar","jelar","lata","loso","melata"],"气":["gas","aerodinamik","aerologi","akar udara","animasikan","ap","asma","atmosfera"],"气体":["gas"],"自由作风":["gaya bebas"],"脚环":["gelang kaki"],"漆黑一片":["gelap-gulita"],"气泡":["gelembung"],"似卧":["gelempang"],"丸":["gelintir","kelapir","buah pelir","gentel","guli","gulikan","menguntal","mimis"],"羔羊皮":["geming"],"果实的包裹":["geruk"],"人造胶":["getah tiruan"],"勾引":["gobek"],"唆使":["goda","hasut"],"自由的":["gratis","selesa"],"赤道几内亚":["guinea khatulistiwa"],"糖":["gula","sagar","enau","gado-gado","glukos","gula batu","gula-gula","halwa"],"糖果":["gula-gula"],"人力的使用":["gunatenaga"],"出席的":["hadir","menghadiri"],"在场的":["hadir"],"出席":["hadirat","kehadiran","hadir","hadirin","hadrat","jadual kedatangan","menghadiri"],"出席者":["hadirin"],"出席在王或神前":["hadrat"],"背诵":["hafaz","hapal","mahfuz","menghafazkan"],"人权":["hak asasi manusia"],"几乎要":["hampir-hampir"],"飞机厍":["hangar"],"人变的老虎":["harimau jadi-jadian"],"气候":["hawa","iklim","suasana","perubahan iklim"],"拖":["hela","heret","jinjit","meleser","membabaskan","mencemat","menghela","mengheret"],"自大的":["hidung tinggi","jemawa","petentangan","pongah"],"最下贱的":["hina-hina"],"漆黑的":["hitam-hitam","legam"],"某人的儿子":["ibni"],"咸鱼":["ikan asin"],"自由选择":["ikhtiar"],"兄弟的":["ikhwan","kakanda"],"做广告":["iklankan","pengiklan"],"自认":["iktikad"],"自然科学":["ilmu alam"],"气流":["imbas"],"几乎一样":["imbas-imbas"],"外来移民":["imigrasi","imigresen"],"辆入":["import"],"在当地居民家居住的时期":["inap desa","rumah inap"],"脚踏臼":["indik"],"人":["insan","nara","orang","wong","a cappella","aaron","abdi","abdul"],"人类":["insan","makhluk","manusia","nasut","antropologi","insani","kajimanusia","rigal"],"人道":["insani","perikemanusiaan"],"人的":["insani","ateistik","cina","dahsyat","dewasa","gergasi","hamun","ibni"],"人类的":["insani","rigal"],"人寿保险":["insurans nyawa"],"核心":["inti"],"核":["isirung","bawasir","biji-bijian","cocokkan","gundu","inti","kelentit","kuliji"],"掌握一份工作":["jabat"],"出席簿":["jadual kedatangan"],"豺":["jakal"],"出路":["jalan keluar","cari jalan"],"爬行":["jalar","jelar","lata","loso","melata","menyeluduk","merangkak","merayap"],"人民":["jalata","rakyat jelata","umat","zimmah","akilrakyat","nasional","popular"],"建于河边的冲凉房":["jamban"],"外皮":["jangat","pelupuk","selupat","ulas","kelesek","kelongsong","menguliti","ruyung"],"气压器":["jangka tekanan"],"外面覆盖":["jata","lamina"],"最初的":["jati","julung","julung-julung","ori"],"跌倒":["jatuh","menumpaskan","tumbas","tumpas","menjatuhkan"],"狼籍":["jelempah","keji"],"形成":["jelma","menjelma","abses","baheula"],"果酱":["jem"],"飞散":["jembak","semerbak","terjembak-jembak"],"豆荚树":["jering"],"绞紧":["jerut","menjerut"],"脚印":["jijak"],"掌掴":["jitak","lampang"],"准确的":["jitu","labut","tepat"],"顶在头上服从":["junjung"],"最高敬意":["junjung tinggi"],"糖浆":["juruh"],"飞行员":["juruterbang","paus pendek sirip"],"出纳员":["juruwang"],"果汁":["jus"],"蜘蛛网":["kabang-kabang","sesawang"],"糖液棕榈树":["kabung"],"豆子":["kacang panjang","remis"],"评估":["kadaran"],"气象学":["kajiangkasa","aerologi","kaji angkasa"],"兄弟的尊敬":["kakanda"],"脚":["kaki","ayam katik","bangku kaki","basal","batu loncatan","berat tangan","bergoyang kaki","berjengket"],"赤足":["kaki ayam"],"转移":["kalih","memesong","pertukaran","pesong"],"绞钉":["kancing"],"拖曳":["kanjar","lelar"],"飞机":["kapal terbang","pesawat","hangar","jet","kelupas","padang terbang","pilot"],"外来语":["kata pinjaman"],"自傲":["kebanggaan"],"在下面":["kebawah"],"评论":["kecam","komen","komentar","kritik","sebutan","ulasan"],"人工智能":["kecerdasan buatan"],"舞弊":["kecurangan"],"李树":["kedondong"],"形势":["kedudukan"],"诞生":["kejadian","kelahiran","zahir","lahirkan"],"转眼":["kejap"],"跌落":["kejatuhan","merosot"],"转环":["kekili"],"盘球":["kelecek","mengelecek"],"飞蚁":["kelekatu","larun"],"尼古丁":["kelekit","nikotin"],"出去":["keluar"],"自舐口唇":["kelum"],"萦绕":["kelun"],"飞机离队俯冲目标":["kelupas"],"准许进入":["kemasukan"],"掌舵":["kemudi","pengemudi"],"顶峰":["kemuncak","mercu"],"糖尿病":["kencing manis","salasal"],"驾":["kendera","bawa kereta","lesen memandu","memandu","menjalankan","pacuan","rebewis"],"背":["kendong","menyandang","baju dalam","belengas","bonggol","bongkok","bongkok sabut","bongkok udang"],"翼":["kepak","sayap","berkepak-kepak","gelepar","gelupur","menggelupur","perap","sayap kiri"],"最上的":["kepalingan","mughayat","superlatif"],"人口":["kependudukan","banci penduduk","cukai import"],"围攻":["kepung","keroyok","mengeroyok"],"出生":["keputeraan","lahir","zahir","berasal","said"],"诞辰":["keputeraan","maulud"],"勤勉":["kerajinan","tubi","tungkus lumus","tekun"],"赤蚁":["kerangga"],"刮掉":["kerik","mengerik"],"飞扑":["kerlip"],"刮剥鳞声":["kerosok"],"抢夺":["kesamunan","mencabuli","rampas","sakar","sakau","samun","samunan"],"赤色":["kesumba"],"厚度":["ketebalan"],"出汗的":["ketibas"],"赤道":["khatulistiwa","guinea khatulistiwa"],"帐幕":["khemah"],"背叛":["khianat","murtad"],"祈文":["khutbah"],"刮去":["kikis","mengikis"],"鸦片馆":["kisut"],"押货人":["kiwi"],"钴":["kobalt"],"人参":["kolesom"],"咸牛肉":["konbif"],"飞蜥蜴":["kubin"],"脚或指":["kudung"],"核壳":["kuliji"],"刮剥鱼鳞":["kulipas"],"膜拜":["kultus"],"冬瓜":["kundur"],"刮术":["kuretaj"],"着手":["lagang"],"似":["laksana","penaka","ala","amacam","analogi","gelempang","iras","keemasan"],"做就对了":["lakukan"],"背泳":["lala"],"祈望":["langut"],"拖延":["lanjar","lanjir","larat","larut","tertagak-tagak"],"背景":["latar belakang","natar","latar pentas"],"背景幕":["latar pentas"],"飞翔":["layang","melayang","berterbangan"],"飞掠":["layap"],"挤出":["lecit","memijat","pijat"],"气管":["lekum","merih"],"自由自在":["leluasa"],"潮湿":["lembap","embal","lengas","rambah","unai"],"出轨":["lencong","melencong"],"外翻":["lengset"],"冒昧":["lenja"],"转折":["lentok"],"驾驶员":["lesen memandu","rebewis"],"倦":["letai","jerih","kemalai","lelah","lesu","luyu","penat","rimpuh"],"自由主义的":["liberal"],"准假":["libur"],"蛾":["limpapas"],"围绕著":["lingkung"],"锂":["litium"],"懒妇":["lonte"],"外面":["luar","jata","lamina"],"苔癣":["lumut"],"人孔":["lurang"],"绞榨":["lurut"],"飞":["mabur","terbang","beraksa","berterbangan","bubus","hangar","jembak","jet"],"飞扬":["mabur"],"果然":["mah"],"猖狂":["maharajalela"],"宠爱的":["maharupa","mua"],"出产":["mahsul","mengeluarkan","menghasilkan"],"出产品":["mahsul"],"自我改进":["majudiri"],"雖然短語中的":["mak kau hijau"],"外国人":["makhluk asing","mendonan","musafir","orang asing","xenofobia"],"最高额":["maksimum"],"顶点":["maksimum","puncak","sidang kemuncak"],"人祸":["mala-petaka"],"懒":["malas","berat tangan","berat tulang","berlengah-lengah","culas","curi tulang","geliat","kemalasan"],"诸住":["mampat"],"厚道的":["manan"],"果實":["manggis"],"牺牲品":["mangsa"],"宠爱":["manja","memanjakan","maharupa","mua"],"人造牛油":["marjerin"],"咸":["masin","air masin","garamabu","ikan asin","konbif","payau"],"自我主义者":["mat pen"],"出名的":["megah","sohor"],"赤痢":["mejan","ceret darah"],"扮演":["melakonkan","membadut"],"返跃":["melambung"],"围绕着":["melingkungi"],"转过头":["memaling","paling"],"驾驶":["memandu","menjalankan","lesen memandu","rebewis"],"自然的":["memang","natural","sewajarnya","makhluk halus","namus"],"爬树":["memanjat","panjat"],"跌烂的":["memar"],"跌伤的":["memar"],"做饭":["memasak"],"拖累":["membabitkan"],"扮演小丑":["membadut"],"建造":["membangun","membikin"],"挤":["memecit","mendesak","bebang","bekat","berasak-asakan","berdesak","berhimpit-himpit","desak"],"飞溅":["memercik","simbahan"],"形容":["memerikan","mensifatkan","adjektif","kata sifat"],"绞":["memilin","memiuh","pilin","piuh","berpintal-pintal","cekik","idas","jerut"],"纪念":["memperingati","batu piagam","cenderamata","jubli","kenang-kenangan","tugu","ulang tahun"],"仔细看":["menatapi"],"俘获":["menawan"],"逼近":["mendekati"],"出卖":["menderhaka"],"外人":["mendonan"],"背负":["mendukung","mengambung"],"出版者":["menerbitkan","penerbit"],"评判":["mengadili"],"刮起":["mengaup"],"谒见拜访":["menghadap"],"评价":["menghargai","nilaian","penaksiran"],"囚禁":["mengongkong","mengurung","pasung"],"爬上":["meningkat"],"着重":["menitikberatkan","titikberat","tekanan"],"自从":["menjak","sejak","semenjak"],"在前":["menjelang","sebelum"],"拖久":["menunggak","tunggak"],"转交":["menyampaikan"],"抢劫":["menyamun","merampas","merompak","rampok","rompak","samun"],"出租":["menyewakan","sewakan","taksi","teksi","ulat sapu","ulat teksi"],"刮鱼鳞":["menyiang","menyisiki"],"顶":["menyondol","ahera","atap","boleh tahan","bumbung","gondol","junjung","kelandara"],"爬越":["meragang","ragang"],"抢":["merebut","berebut-rebut","camar","kesamunan","mencabuli","menyamun","merampas","merampok"],"自动出纳机":["mesin juruwang automatik"],"自动贩卖机":["mesin layan diri"],"最少":["minimum","sekurang-kurangnya"],"最少量":["minimum"],"赤裸裸的":["mujarad"],"厚皮的":["muka papan"],"最先":["mula-mula"],"最初":["mula-mula","jati","julung","julung-julung","ori"],"背约":["mungkir"],"背叛的":["murtad"],"冬季":["musim sejuk"],"爬山":["naik bukit"],"盘":["nali","abakus","berbelit","berbelit-belit","bergelung","bersila","bindu","cakra"],"似乎":["nampaknya"],"自然的法则":["namus"],"人民的":["nasional","popular"],"人间":["nasut"],"外国":["negeri asing","rantau","asing","belati","makhluk asing","mendonan","musafir","orang asing"],"森美兰州":["negeri sembilan","nismilan"],"自高自大":["ngada"],"自言自语":["ngangut"],"尼日利亚":["nigeria"],"尼罗河":["nil","sungai nil"],"尼龙":["nilon"],"人造丝":["nilon","rayon"],"糖棕榈树汁供制糖用":["nira"],"氮气":["nitrogen"],"核子的":["nuklear"],"瞎谈":["nyinyir","obrol","omong"],"着迷的":["obsesif"],"扮小丑":["ogak-ogak"],"紊乱":["orak-arik"],"囚徒":["orang salah"],"人体器官":["organ"],"掌帆之横木":["pabuan"],"飞机场":["padang terbang"],"出发点":["paduk"],"围墙":["pagar","tembok"],"豆蔻":["pala","buah pala"],"自以为博学的人":["palatau"],"自称无所不知的":["palatau"],"背过脸去":["paling"],"最":["paling","abang long","air perbani","akhir","akhir-akhir","akibatnya","anak bongsu","baharu-baharu"],"森林地带":["pangan"],"果瓣":["pangsa"],"刮擦":["pantik"],"诸位":["para"],"似非而是的论点":["paradoks"],"自动辞职":["pecat diri"],"挤满的":["pedat","penuh sesak"],"准绳":["pedoman"],"蛤":["pegoh"],"懒人":["pelasuh"],"转开":["pelesat"],"绞出":["pelintir"],"鸦片烟鬼":["pemadat"],"懒惰虫":["pemalas"],"外科":["pembedahan","ablasi","ahli bedah"],"建设者":["pembina"],"舞女":["penari","joget"],"舞蹈者":["penari"],"舞跳家":["penari"],"出口商":["pengeksport"],"组织人":["pengelola"],"做广告者":["pengiklan"],"盘尼西林":["penisilin"],"自顾":["penjagaan diri"],"拖车":["penundaan"],"在十字架上钉死的刑罚":["penyaliban"],"脚手架":["perancah"],"气味强烈的":["pering"],"漆布":["perlak"],"漆皮":["perlak"],"准证":["permit","beri izin"],"气候变化":["perubahan iklim"],"谒见室":["peseban"],"飞机师":["pilot"],"盘子":["pinggan","sajian"],"乒乓球":["pingpong"],"钚":["plutonium"],"某某人":["polan","si polan"],"狼狈":["pontang-panting","sasap"],"育幼院":["prasekolah"],"顶端":["pucuk","puncak"],"拖网":["pukat"],"赤":["pula","berpukas","bogel","bundarkan","ceret darah","contohi","contohkan","defisit"],"幸亏":["punci"],"外阴":["pundek"],"背后":["pungkur","sut","gendong","menggendong"],"背面":["pungkur"],"冒烟":["rabun","berasap"],"筐":["raga","bujam"],"勤奋":["rajin"],"架子":["rak","berlagak-lagak","ledang","ngada","rencik"],"建筑材料":["ramuan"],"绸缎":["randi"],"自负的":["ranggi"],"赤蚂蚁":["rangrang"],"组合":["rantam"],"刮削":["raut"],"围栏":["reban"],"舞曲":["rege"],"自愿的":["rela hati","sukarela"],"自卑":["rendahkan diri"],"瞎说":["repek"],"爬行动物":["reptilia"],"出诊":["retih"],"出土根":["rimpang"],"勤力的":["ringan tulang"],"组":["rombongan","seksyen","setel","berbadan","flat","kongsi","membentuk","menubuhkan"],"抢掠":["rompakan","samun sakal"],"舞蹈的一种":["ronggeng"],"外侧板":["rubing","timbau"],"建国原则":["rukunegara"],"自家":["rumah-tangga"],"外貌":["rupa"],"糖块":["sagar"],"出生于星期五的男孩之名":["said"],"围巾":["sal"],"彼方":["sana"],"彼处":["sana"],"人质":["sandera"],"膜":["saput","selaput","selupat","diafragma","gegendang","kornea","kultus","tembuni"],"狼狈周章":["sasap"],"自觉":["sedar diri"],"转瞬间":["sekejap"],"脚迹":["selarung"],"外洋":["selebu"],"最迟":["selewat-lewatnya"],"最慢":["selewat-lewatnya"],"刮皮":["seliat"],"某人":["seman","seseorang","sianu","ibni","mengembani","polan","si polan"],"自此":["semenjak"],"外表":["semu"],"气逆":["senak nafas"],"建筑学":["seni bina"],"果树之名":["sentul"],"狼":["serigala","zib","anjing serigala rusia","baham","borzoi","dubuk","gelogok","jelempah"],"糖鹦":["serindit"],"呐喊":["seruan","tempik"],"某一":["sesuatu","suatu"],"果树":["setambun","beruas","cermai","gajus","gelugur","kandis","kelompang","kemiri"],"糖水":["seterup"],"人名及拟人化动物名前之接头词":["si"],"自作自受":["siapa makan lada dia rasa peda"],"肘":["siku","menyenggol","senggol","sigung","telekan","teleku"],"潮流冲突而成的大浪":["simbar"],"锶":["strontium"],"自愿":["sukarelawan","rela hati","sukarela"],"最长的":["sulung"],"绸":["sutera","randi"],"自拍照":["swafoto"],"自我服务":["swalayan"],"做得不错":["syabas"],"组员":["syarik"],"出租车":["taksi","teksi","ulat sapu","ulat teksi"],"脚掌":["tapak kaki"],"豆腐":["tauhu","taukua"],"厚":["tebal","kental","ketebalan","manan","muka papan","sengkalan"],"逼债":["tegih"],"着重点":["tekanan"],"勤勉的":["tekun"],"脚底":["telapak"],"脚板":["telapak","serap"],"懒怠的":["teledor"],"掌尺":["telempap","tempap"],"琴之一种":["telimpung"],"外沿":["tembereng"],"掌击":["tempeleng"],"赤铁树":["tempinis"],"气力":["tenaga","cangkul angin","jaring angin"],"准时的":["tepat masa"],"最好的":["terbaik"],"顶好的":["terbaik"],"最多的":["terbanyak"],"出版":["terbit","cetakan","menerbitkan","penerbit","terbitan"],"出版刊物":["terbitan"],"最高级":["terburuk","tercantik","tertampan"],"跌坐下来":["terduduk"],"外旋":["ternyata"],"飞一般地":["terpacu-pacu"],"着迷":["terpukau","obsesif"],"最高的":["tertinggi"],"气喘吁吁的":["terunkap"],"最重要的":["terutama"],"玲钉":["ting"],"帐":["tirai","akaun","angsirih","audit","bil","juruaudit","kelambu","khemah"],"人物":["tokoh"],"似男孩的顽皮姑娘":["tomboi"],"拖拉车":["traktor"],"背骨":["tulang belakang"],"脚跟":["tumit"],"做媒":["tunangkan"],"苔原":["tundra"],"援金":["tunjangan"],"几个的":["tupai terbang"],"在后的":["udi"],"果皮":["ulas"],"最年长的":["ulung"],"潮湿而发臭的":["unai"],"典礼":["upacara"],"舞台戏":["wayang","wayangbangsawan"],"形体":["wujud","berbadan"],"外形":["wujud"],"杨":["yang di-pertuan agong","belimbing"],"某某之子":["zadah"],"外在的":["zahir"],"纪":["abad","abad pertengahan","abad tengah","adik perempuan","bapa cik","batu piagam","bawat","berabad-abad"],"围":["abah-abah","berkepung","berpagar","bidang","cawat","galu","golongan","kebat"],"尼":["abaka","albania","beriani","danial","dominika","indogsial","indon","indonesia"],"尼拉":["abaka"],"尼拉麻":["abaka"],"最旧":["abang long"],"人穿":["abdi"],"人穿的":["abdi"],"唆":["abet","goda","hasut","muring","ocok","rengut","rotok"],"丞":["abintara","bentara"],"外":["ablasi","ahli bedah","arakian","asing","aspek","babas","bawa untung","belati"],"形":["abses","adjektif","akhdar","aneka ragam","aneliada","anwar","apa hal","araknid"],"形成脓":["abses"],"谬":["absurd","karut","khilaf"],"谬的":["absurd"],"诞":["absurdisme","kejadian","kelahiran","keputeraan","krismas","lahirkan","maulud","natal"],"诞主":["absurdisme"],"诞主义":["absurdisme"],"做白":["abun-abun","angan-angan"],"做白日":["abun-abun","angan-angan"],"建":["adakan","anjuran","arkitek","bangunan","bina","binaan","cadandan","cadangkan"],"着":["adhesi","arakian","bara","berandang","berasak-asakan","berbungkus","bercawat ekor","berdagu"],"兄":["adik beradik","adik lelaki","adik-beradik","biras","bung","duai","engko","ikhwan"],"纪较":["adik perempuan","yayi"],"纪较小":["adik perempuan","yayi"],"纪较小者":["adik perempuan","yayi"],"气动":["aerodinamik"],"气动力":["aerodinamik"],"气动力学":["aerodinamik"],"气动力学的":["aerodinamik"],"气象":["aerologi","kaji angkasa","kajiangkasa"],"气学":["aerologi","kaji angkasa"],"舞":["agogo","arena","aruk","bedaya","berangsang","bersilat","bertandak","canggung"],"舞的":["agogo"],"顶上":["ahera"],"顶上之":["ahera"],"顶上之光":["ahera"],"顶上之光圈":["ahera"],"外科医":["ahli bedah"],"潮":["air pasang","air perbani","air surut","aliran","datang haid","embal","ketam rebab","lembap"],"最低":["air perbani","perbani"],"育":["ajaran","asuh","asuhan","bangkut","bela","berpendidikan","bulus","buta huruf"],"出":["aju","anak haram","awangan","babas","bagus","bancut","bangkit","bantun"],"人员":["akademikus","juruteknik","kakitangan","staf"],"果":["akhirnya","akibat","akibatnya","akustik","alhasil","apakala","ara","asalkan"],"了":["akhirulkalam","apal","betah","boleh tahan","buruk siku","demi","hebat","ikan kering"],"人民代":["akilrakyat"],"琴":["akordion","banjo","biola","gambang","gamit","genggong","gesek biola","gitar"],"祈":["aktusembahyang","astaghfirullah","azan","baca doa","bang","berdoa","bersembahyang","bilal"],"祈祷的":["aktusembahyang","bang"],"祈祷的时":["aktusembahyang"],"似的":["ala","amacam","keemasan","kembar","macam itu","semisal","semuka"],"尼亚":["albania","slovenia"],"果是":["alhasil"],"洲鳄":["aligator"],"在上":["allahi"],"几":["ampir","beberapa tahun","berganda","berminggu-minggu","berpuluh-puluh","bertahun-tahun","bilamana","cemas-cemas"],"最幼":["anak bongsu","bongsu"],"最幼的":["anak bongsu"],"最幼的孩":["anak bongsu"],"出之":["anak haram"],"出之子":["anak haram"],"形动":["aneliada"],"形动物":["aneliada"],"储":["angcadangan","cadandan","cadang","cadangan emas","jegung"],"狼狗":["anjing serigala rusia","borzoi"],"在心":["antara hati dengan jantung"],"在心肝":["antara hati dengan jantung"],"在心肝其":["antara hati dengan jantung"],"某":["anu","basahan","berian","bin","binti","calonkan","dukungan","fardukan"],"專":["anwar"],"在水":["apung-apung","rendam","selam"],"在水面":["apung-apung"],"在水面上":["apung-apung"],"形纲":["araknid"],"形纲动":["araknid"],"形纲动物":["araknid"],"蜘":["araknid","bakung","kabang-kabang","labah","labah-labah","lelaba","lelabah","sepasan"],"准":["arkaif","awangan","bahasa baku","bahru","baku","banteng","batu uji","begedil"],"准的":["arkaif","bahru","banteng","begedil","bharu","biadap","hingget","kasidah"],"形形":["arna-warni","bermacam-macam","poligon"],"形形色":["arna-warni","bermacam-macam"],"形色":["arna-warni","bermacam-macam"],"形色色":["arna-warni","bermacam-macam"],"形色色的":["arna-warni"],"癖":["autisme","cepat tangan","egotisme","gila bahasa","sasar"],"自动":["automasi","automatik","automaton","mesin juruwang automatik","mesin layan diri","pecat diri"],"冒":["avontuur","berapi","berasap","berhujan-hujan","buat-buat","ceroboh","demam selesema","lenja"],"准备的":["awangan"],"脚鸡":["ayam katik"],"祈祷之":["azan"],"祈祷之呼":["azan"],"疆":["azerbaijan"],"出航":["babas"],"出航路":["babas"],"出航路外":["babas"],"盲目行":["babi"],"李":["bagasi","barang-barang","begej","kedondong"],"幸":["bagawan","bagia","bahagia","bakhtiar","bawa untung","bedebah","berau","berbahagia"],"出的":["bagus","bancut","belodok","gahara","jendol","jerangkang","monggok","pancuran"],"狼吞":["baham","gelogok","kerkak","kerkan","kerkap","lalah","sengam"],"狼吞虎":["baham","gelogok","kerkak","kerkan","kerkap","lalah","sengam"],"在海":["bakau"],"在海边":["bakau"],"在海边的":["bakau"],"在海边的红":["bakau"],"在海边的红木":["bakau"],"返":["balik","kelik","kembali","lalu-lalang","melambung","pulangan tunai","ulang","ulang-alik"],"人口调":["banci penduduk"],"人口统":["banci penduduk"],"祈祷的召":["bang"],"脚物":["bangku kaki"],"育不":["bangkut"],"育不健":["bangkut"],"育不健全":["bangkut"],"人宿":["bangsal"],"人宿舍":["bangsal"],"援":["bantu","bantuan","menyumbangkan","pertolongan","tunjangan"],"纪最":["bapa cik"],"纪最小":["bapa cik"],"纪最小的":["bapa cik"],"纪最小的人":["bapa cik"],"最小":["bapa cik"],"最小的":["bapa cik"],"最小的人":["bapa cik"],"着的":["bara","berbungkus","berpalut","kebilangan","tenang hati"],"着的火":["bara"],"着的火头":["bara"],"气压":["barotrauma","jangka tekanan"],"气压性":["barotrauma"],"气压性创":["barotrauma"],"脚气":["basal"],"气病":["basal"],"自行":["basikal","kereta angin","mat motor","sepeda"],"在的":["batin","cap ayam","mutakhir","sungguh","zahir"],"脚石":["batu loncatan"],"聊":["baus","berceloteh","bergebang","borak","bosan","cakap-cakap","gebang","obrol"],"聊的":["baus"],"出外":["bawa untung"],"出外谋":["bawa untung"],"外谋":["bawa untung"],"外谋生":["bawa untung"],"几年":["beberapa tahun","bertahun-tahun"],"人力":["beca","gunatenaga","lancia"],"舞娘":["bedaya"],"幸的":["bedebah","berau","geruh","kempunan","musibat","naas","sial"],"牺":["bela","gugur","korban","mangsa","pengorbanan","putih tulang","terkorban"],"森":["belantara","cerang","hutan","hutan belantara","hutan rimba","negeri sembilan","nismilan","pangan"],"洲的":["belati","eropah","kerbau afrika","kucing borneo","kucing emas","kucing liar afrika","kucing merah","kucing merah borneo"],"外来":["belati","imigrasi","imigresen","kata pinjaman"],"外国制":["belati"],"磺":["belerang"],"转方":["belok"],"惨":["bencana","paus omura","tragik"],"豆":["bendi","buah pala","buncis","emping","jering","kacang bendi","kacang bulu","kacang buncis"],"气暴":["bengkeng","merunsing"],"气暴躁":["bengkeng","merunsing"],"澈":["bening","hening","jelah","jernih","serbak","teruskan"],"形的":["bentuk jantung","bujur","bulat bujur","bulat panjang","buntar","cembung","gerigi","ikal"],"冒火":["berapi"],"挤来":["berasak-asakan","berhimpit-himpit"],"挤来挤":["berasak-asakan","berhimpit-himpit"],"挤去":["berasak-asakan","berhimpit-himpit"],"挤着":["berasak-asakan"],"脚的":["berat tangan","berkaki","ruit","semberip","suli"],"着尾":["bercawat ekor"],"着尾巴":["bercawat ekor"],"着下":["berdagu"],"着下巴":["berdagu"],"着下巴坐":["berdagu"],"着下巴坐着":["berdagu"],"出嗡":["berdengung"],"出嗡嗡":["berdengung"],"出嗡嗡声":["berdengung"],"出隆":["berderam","menderam"],"出隆隆":["berderam","menderam"],"出隆隆声":["berderam","menderam"],"出叮":["berdering"],"出叮当":["berdering"],"出叮当响":["berdering"],"出呼":["berdesing"],"出呼呼":["berdesing"],"出呼呼声":["berdesing"],"自力":["berdikari"],"自力更":["berdikari"],"出尔":["berdolok-dalik","dolak-dalik"],"出尔反":["berdolok-dalik","dolak-dalik"],"出尔反尔":["berdolok-dalik","dolak-dalik"],"架光":["beremban"],"架光线":["beremban"],"几倍":["berganda","lipat ganda"],"几倍的":["berganda"],"扮":["berhias","bersolek","dandan","hias","melakonkan","membadut","mendandankan","ogak-ogak"],"冬":["berhibernasi","cupak","gantang","hibernasi","kundur","musim sejuk"],"冒着":["berhujan-hujan"],"着雨":["berhujan-hujan"],"人居":["berhuni","berpenduduk","huni"],"人居住":["berhuni","berpenduduk","huni"],"人居住的":["berhuni","berpenduduk","huni"],"出警":["beri amaran"],"出警告":["beri amaran"],"出准":["beri izin"],"出准证":["beri izin"],"尼菜":["beriani"],"脚尖":["berjengket","jengket","menanjak","menjengket"],"脚尖走":["berjengket","jengket","menanjak","menjengket"],"逢":["berjerempak","jerempak"],"拖着":["berkesot","kesot","mengesot"],"拖着臀":["berkesot","kesot","mengesot"],"拖着臀部":["berkesot","kesot","mengesot"],"拖着臀部移":["berkesot","kesot","mengesot"],"着臀":["berkesot","kesot","mengesot"],"着臀部":["berkesot","kesot","mengesot"],"着臀部移":["berkesot","kesot","mengesot"],"着臀部移动":["berkesot","kesot","mengesot"],"泊":["berlabuh","bertambat","embara","hanyut","kembara","labuh","melabuh","mengembara"],"懒洋":["berlengah-lengah"],"懒洋洋":["berlengah-lengah"],"唠":["berleter","epeh","lebir","meleter","merepek"],"唠唠":["berleter","meleter"],"唠唠叨":["berleter","meleter"],"唠叨叨":["berleter","meleter"],"叨":["berleter","epeh","lebir","meleter","merepek"],"叨叨":["berleter","meleter"],"猖":["bermaharajalela","maharajalela"],"几个":["berminggu-minggu","tupai terbang"],"几个星":["berminggu-minggu"],"几个星期":["berminggu-minggu"],"做生":["berniaga","buka kedai","meniaga","niaga"],"围有":["berpagar"],"围有篱":["berpagar"],"围有篱笆":["berpagar"],"育的":["berpendidikan","bulus","mandul","safan-safa","tandus","terdidik","terpelajar"],"几十":["berpuluh-puluh"],"盘膝":["bersila","timpuh"],"盘膝而":["bersila","timpuh"],"气浴":["bertangas"],"着日":["bertarikh"],"着日期":["bertarikh"],"着日期的":["bertarikh"],"转换":["bertransformasi","metatesis","transformasikan"],"蝌":["berudu","gerundang"],"评":["bidas","gugat","kadaran","kecam","komen","komentar","kritik","kritikal"],"形花":["biku"],"形花边":["biku"],"祈祷召":["bilal"],"祈祷召唤":["bilal"],"祈祷召唤人":["bilal"],"仔":["bilis","ikan bilis","koboi","menatapi"],"某某的":["bin","binti"],"某某的儿":["bin"],"某的":["bin","binti"],"某的儿":["bin"],"某的儿子":["bin"],"脚蛇":["bingkarung"],"某某的女":["binti"],"某的女":["binti"],"某的女儿":["binti"],"顶得":["boleh tahan"],"背峰":["bonggol"],"最幼小":["bongsu"],"最年":["bongsu","ulung"],"最年轻":["bongsu"],"准将":["brigedier"],"最终":["brunei"],"最终可":["brunei"],"果子":["buah-buahan","halwa","menjolok"],"做什":["buat apa"],"外地":["buatan luar negeri"],"外地产":["buatan luar negeri"],"脚上":["bubul"],"脚上之":["bubul"],"脚上之脓":["bubul"],"脚上之脓疮":["bubul"],"飞出":["bubus"],"自助":["bufet"],"出成":["bukukan"],"人身":["bulu rama"],"人身体":["bulu rama"],"人身体上":["bulu rama"],"人身体上的":["bulu rama"],"做粗":["buruh kasar"],"做粗活":["buruh kasar"],"做粗活的":["buruh kasar"],"了人":["buruk siku"],"了人家":["buruk siku"],"了人家东":["buruk siku"],"了人家东西":["buruk siku"],"了人家东西再":["buruk siku"],"了人家东西再向":["buruk siku"],"了人家东西再向人":["buruk siku"],"了人家东西再向人要":["buruk siku"],"了人家东西再向人要回":["buruk siku"],"人家":["buruk siku"],"人家东":["buruk siku"],"人家东西":["buruk siku"],"人家东西再":["buruk siku"],"人家东西再向":["buruk siku"],"人家东西再向人":["buruk siku"],"人家东西再向人要":["buruk siku"],"人家东西再向人要回":["buruk siku"],"人要":["buruk siku"],"人要回":["buruk siku"],"鸦":["burung gagak","candu","gagak","kisut","madat","pemadat"],"出来":["cabut"],"储备量":["cadangan emas"],"押品":["cagaran"],"人考":["calon persendirian"],"人考生":["calon persendirian"],"某某为":["calonkan"],"某某为侯":["calonkan"],"某某为侯选":["calonkan"],"某某为侯选人":["calonkan"],"某为":["calonkan"],"某为侯":["calonkan"],"某为侯选":["calonkan"],"某为侯选人":["calonkan"],"在一":["campur aduk","mengapit","mengetepikan"],"在一起":["campur aduk"],"舞蹈":["canggung","dansa-dansi","joget","penari","ronggeng","wiring"],"掌":["capai","genggam","genggaman","jabat","jitak","kaktus","kektas","kemudi"],"盲目的爱":["cauvinisme"],"盲目的爱国":["cauvinisme"],"盲目的爱国主":["cauvinisme"],"气蓬":["cegak","dinamik"],"气蓬勃":["cegak","dinamik"],"气蓬勃的":["cegak","dinamik"],"出出":["celum"],"森林里":["cerang"],"森林里的":["cerang"],"森林里的空":["cerang"],"冒失":["ceroboh"],"转角":["ceruk"],"人小":["chalet"],"人小屋":["chalet"],"人开":["colek hati"],"人开心":["colek hati"],"形门":["combol"],"形门拉":["combol"],"形门拉手":["combol"],"聾":["congek"],"聾的":["congek"],"在这":["dalam keadaan","di sini"],"在这种":["dalam keadaan"],"在这种情":["dalam keadaan"],"在这种情况":["dalam keadaan"],"在这种情况之":["dalam keadaan"],"诸":["dan sebagainya","mampat","para"],"诸如":["dan sebagainya"],"诸如此":["dan sebagainya"],"尼尔":["danial"],"在哪":["dari mana","di mana","ke mana"],"形就":["demikian halnya"],"形就是":["demikian halnya"],"形就是这":["demikian halnya"],"形就是这样":["demikian halnya"],"脚步":["derap"],"玲":["dering","ting"],"玲玲":["dering"],"玲声":["dering"],"刮风":["desing"],"哒":["detak"],"哒哒":["detak"],"哒声":["detak"],"在那":["di sana"],"气的":["dinamik","embal","gusar","hangus","kebudak-budakan","lempam","maimun","membawang"],"洲野":["dingo"],"洲野犬":["dingo"],"外交":["diplomat","diplomatik"],"尼加":["dominika","republik dominika"],"人造":["dot","getah tiruan","marjerin","nilon","rayon"],"兄弟姐":["duai","ipar","pupu","sekadim","sepupu"],"兄弟姐妹":["duai","ipar","pupu","sekadim","sepupu"],"着不":["duduk-duduk"],"着不干":["duduk-duduk"],"果番":["durian belanda"],"果番荔":["durian belanda"],"果番荔枝":["durian belanda"],"自我":["egosentrik","egotisme","majudiri","mat pen","swalayan"],"自我中":["egosentrik","egotisme"],"自我中心":["egosentrik","egotisme"],"彈":["elastik"],"彈性":["elastik"],"彈性的":["elastik"],"最大":["embung","terbesar"],"豆粉":["emping"],"糖棕":["enau","ijuk","nira"],"气喘吁":["engah","terengah-engah","terunkap"],"盲信":["fanatik"],"建的":["feudal"],"菲":["filipina","limau purut"],"菲律":["filipina"],"自由作":["gaya bebas"],"出重":["gedegang"],"出重击":["gedegang"],"出重击声":["gedegang"],"出重击声的":["gedegang"],"人颈":["gelabir","gelambir"],"人颈部":["gelabir","gelambir"],"人颈部下":["gelabir","gelambir"],"人颈部下垂":["gelabir","gelambir"],"人颈部下垂的":["gelabir","gelambir"],"人颈部下垂的皮":["gelabir","gelambir"],"人颈部下垂的皮肉":["gelabir","gelambir"],"跌":["gelangsar","jatuh","jengkang","kejatuhan","luncur","lungsur","memar","menjatuhkan"],"漆黑":["gelap-gulita","hitam-hitam","legam"],"漆黑一":["gelap-gulita"],"懒腰":["geliat","menggeliat"],"羔":["geming","kambing hitam"],"羔羊":["geming","kambing hitam"],"在背":["gendong","menggendong"],"在背后":["gendong","menggendong"],"人的魔":["gergasi"],"人的魔王":["gergasi"],"果实的":["geruk"],"果实的包":["geruk"],"癖的":["gila bahasa","sasar"],"勾":["gobek"],"顶的":["gondol","lonjong","pandan duri","pandan hutan","tukun"],"赤道几":["guinea khatulistiwa"],"赤道几内":["guinea khatulistiwa"],"几内":["guinea khatulistiwa"],"几内亚":["guinea khatulistiwa"],"在口":["gumam"],"在口中":["gumam"],"人力的":["gunatenaga"],"人力的使":["gunatenaga"],"果核":["gundu"],"漠":["gurun","kafilah","kelalaian","kucing padang pasir","lengsan","samun gurun"],"转变热":["haba"],"在场":["hadir"],"出席在":["hadrat"],"出席在王":["hadrat"],"出席在王或":["hadrat"],"出席在王或神":["hadrat"],"在王":["hadrat"],"在王或":["hadrat"],"在王或神":["hadrat"],"在王或神前":["hadrat"],"糖汁":["halwa"],"糖汁的":["halwa"],"糖汁的果":["halwa"],"糖汁的果子":["halwa"],"人的话":["hamun"],"人变":["harimau jadi-jadian"],"人变的":["harimau jadi-jadian"],"人变的老":["harimau jadi-jadian"],"挤的":["hempit","himpit","impit","ketial","padat"],"澈的":["hening","jelah","jernih","serbak"],"出食":["hidang"],"出食物":["hidang"],"最下":["hina-hina"],"最下贱":["hina-hina"],"某人的":["ibni"],"某人的儿":["ibni"],"人的儿":["ibni"],"人的儿子":["ibni"],"糖棕榈的":["ijuk"],"糖棕榈的黑":["ijuk"],"糖棕榈的黑色":["ijuk"],"糖棕榈的黑色纤":["ijuk"],"糖棕榈的黑色纤维":["ijuk"],"人鱼":["ikan duyung"],"了的":["ikan kering","kantoi","mabuk","pemabuk","perat","renyuk"],"自由选":["ikhtiar"],"做广":["iklankan","pengiklan"],"自然科":["ilmu alam"],"几乎一":["imbas-imbas"],"外物":["imbuh"],"形象":["imej"],"外来移":["imigrasi","imigresen"],"辆":["import"],"在当":["inap desa","rumah inap"],"在当地":["inap desa","rumah inap"],"在当地居":["inap desa","rumah inap"],"在当地居民":["inap desa","rumah inap"],"在当地居民家":["inap desa","rumah inap"],"在当地居民家居":["inap desa","rumah inap"],"在当地居民家居住":["inap desa","rumah inap"],"在当地居民家居住的":["inap desa","rumah inap"],"在当地居民家居住的时":["inap desa","rumah inap"],"脚踏":["indik"],"人主":["individualis","individualisme","tinggi diri"],"人主义":["individualis","individualisme","tinggi diri"],"人主义者":["individualis"],"尼的":["indogsial"],"尼人":["indogsial"],"尼西":["indonesia","penisilin"],"尼西亚":["indonesia"],"外线":["inframerah","ultraungu"],"外线的":["inframerah","ultraungu"],"人寿":["insurans nyawa"],"人寿保":["insurans nyawa"],"掌握一":["jabat"],"掌握一份":["jabat"],"掌握一份工":["jabat"],"洲虎":["jaguar"],"建于":["jamban"],"建于河":["jamban"],"建于河边":["jamban"],"建于河边的":["jamban"],"建于河边的冲":["jamban"],"建于河边的冲凉":["jamban"],"人客":["jamu"],"脚规":["jangka"],"外面覆":["jata","lamina"],"储藏":["jegung"],"储藏处":["jegung"],"晾":["jemuran"],"晾物":["jemuran"],"脚尖走路":["jengket"],"在炉":["jerang"],"在炉上":["jerang"],"脚朝":["jerangkang","tunggang balik"],"脚朝天":["jerangkang","tunggang balik"],"脚朝天躺":["jerangkang"],"脚朝天躺着":["jerangkang"],"豆荚":["jering"],"出哀":["jerit"],"出哀叫":["jerit"],"出哀叫声":["jerit"],"气机":["jet"],"准确":["jitu","labut","tepat"],"形的佬":["jorong"],"形的佬叶":["jorong"],"形的佬叶盒":["jorong"],"气坏":["judas"],"气坏的":["judas"],"在头":["junjung"],"在头顶":["junjung"],"顶在":["junjung"],"顶在头":["junjung"],"顶在头上":["junjung"],"顶在头上服":["junjung"],"在头上":["junjung"],"在头上服":["junjung"],"在头上服从":["junjung"],"最高敬":["junjung tinggi"],"帐员":["juruaudit"],"飞行":["juruterbang","paus pendek sirip"],"出纳":["juruwang","mesin juruwang automatik"],"糖液":["kabung"],"糖液棕":["kabung"],"糖液棕榈":["kabung"],"漠商":["kafilah"],"漠商队":["kafilah"],"兄弟的尊":["kakanda"],"人者":["kaki kelentong","mat kelentong","pembunuh"],"脚基":["kaki lima"],"人掌":["kaktus","kektas"],"人掌属":["kaktus"],"掌属":["kaktus"],"外支":["katir"],"外支架":["katir"],"人头":["kayau","mengayau"],"在下":["kebawah"],"人工":["kecerdasan buatan"],"人工智":["kecerdasan buatan"],"悴":["kedengkik","kuyu","pucat"],"悴的":["kedengkik","kuyu","pucat"],"着眼":["kejam"],"了一":["kejut","kerling","peranjat","terkejut","terperanjat"],"了一跳":["kejut","peranjat","terkejut","terperanjat"],"人震":["kejutan"],"人震惊":["kejutan"],"人震惊的":["kejutan"],"人震惊的东":["kejutan"],"人震惊的东西":["kejutan"],"顶扣":["kelandara"],"顶扣结":["kelandara"],"顶扣结帆":["kelandara"],"顶扣结帆桁":["kelandara"],"顶扣结帆桁的":["kelandara"],"顶扣结帆桁的圈":["kelandara"],"尼古":["kelekit","nikotin"],"飞舞":["kelibang"],"果之":["kelubi"],"果之一":["kelubi"],"果之一种":["kelubi"],"自舐":["kelum"],"自舐口":["kelum"],"转的":["kelumat","liut","piak","piat"],"萦":["kelun"],"飞机离":["kelupas"],"飞机离队":["kelupas"],"飞机离队俯":["kelupas"],"飞机离队俯冲":["kelupas"],"飞机离队俯冲目":["kelupas"],"转反":["kelusuh-kelasah"],"转反侧":["kelusuh-kelasah"],"倦的":["kemalai","lesu","rimpuh"],"果的":["kemang"],"果的一":["kemang"],"果的一种":["kemang"],"准许进":["kemasukan"],"糖尿":["kencing manis","salasal"],"形箱":["kendaga"],"最上":["kepalingan","mughayat","superlatif"],"自赏":["kera sumbang"],"自赏者":["kera sumbang"],"勤":["kerajinan","rajin","ringan tulang","tekun","tubi","tungkus lumus"],"洲人":["kerbau afrika","kucing borneo","kucing emas","kucing liar afrika","kucing liar asia","kucing merah","kucing merah borneo","kucing tulap"],"豆片":["kerepek kentang"],"了一眼":["kerling"],"刮剥":["kerosok","kulipas"],"刮剥鳞":["kerosok"],"啮":["kerumit","kumat-kumit","mengunggis","unggis"],"出话":["kesima"],"出话来":["kesima"],"潮蟹":["ketam rebab"],"形皮":["ketipung"],"形皮鼓":["ketipung"],"形糯":["ketupat"],"形糯米":["ketupat"],"形糯米粽":["ketupat"],"在灰":["keunggulan"],"在灰里":["keunggulan"],"人专":["khoja"],"人专称":["khoja"],"外的":["khusus","kita orang","sekular","terkecuali"],"押货":["kiwi"],"典的":["klasik"],"豆糕":["koleh"],"某种":["komited"],"某种事":["komited"],"某种事业":["komited"],"某种事业的":["komited"],"咸牛":["konbif"],"讪":["kongkalikung"],"形病":["koronavirus"],"形病毒":["koronavirus"],"诞节":["krismas","natal"],"评的":["kritikal"],"人唯":["kronisme"],"人唯亲":["kronisme"],"飞蜥":["kubin"],"脚或":["kudung"],"洲狮":["kugar","puma"],"掌示":["kuit"],"掌示意":["kuit"],"刮剥鱼":["kulipas"],"自语":["kulum","ngangut"],"背座":["kup"],"背座桥":["kup"],"做就":["lakukan"],"做就对":["lakukan"],"人不":["langu"],"人不愉":["langu"],"人不愉快":["langu"],"人不愉快的":["langu"],"形鱼":["lapun"],"形鱼井":["lapun"],"核的":["lekang","longkah"],"典编":["leksikografi","pekamus","penyusun kamus","perkamusan"],"典编纂":["leksikografi","pekamus","penyusun kamus","perkamusan"],"自由自":["leluasa"],"自在":["leluasa"],"粢":["lemang"],"粢饭":["lemang"],"漠的":["lengsan"],"梆":["letung"],"梆声":["letung"],"自由主":["liberal"],"自由主义":["liberal"],"形柄":["limas"],"形柄勺":["limas"],"菲尔":["limau purut"],"菲尔酸":["limau purut"],"菲尔酸橙":["limau purut"],"做样":["loklek"],"苔":["lumut","tundra"],"颐":["lungguh","teleku"],"颐而":["lungguh"],"颐而坐":["lungguh"],"倦而":["luyu"],"倦而眼":["luyu"],"倦而眼帘":["luyu"],"倦而眼帘垂":["luyu"],"倦而眼帘垂下":["luyu"],"果类":["macang"],"宠":["maharupa","manja","memanjakan","mua"],"自我改":["majudiri"],"架互":["mak kau hijau"],"架互罵":["mak kau hijau"],"架互罵的":["mak kau hijau"],"架互罵的視":["mak kau hijau"],"架互罵的視頻":["mak kau hijau"],"雖":["mak kau hijau"],"雖然":["mak kau hijau"],"雖然短":["mak kau hijau"],"雖然短語":["mak kau hijau"],"雖然短語中":["mak kau hijau"],"纪人":["makelar","peraih","tengkulak"],"幸地":["malangnya"],"厚道":["manan"],"人造牛":["marjerin"],"自我主":["mat pen"],"自我主义":["mat pen"],"人具":["mata jahat"],"人具有":["mata jahat"],"人具有目":["mata jahat"],"人具有目视":["mata jahat"],"人具有目视他":["mata jahat"],"人具有目视他人":["mata jahat"],"人具有目视他人而":["mata jahat"],"人具有目视他人而使":["mata jahat"],"人具有目视他人而使之":["mata jahat"],"人具有目视他人而使之遭":["mata jahat"],"人具有目视他人而使之遭殃":["mata jahat"],"人具有目视他人而使之遭殃的":["mata jahat"],"人具有目视他人而使之遭殃的能":["mata jahat"],"人具有目视他人而使之遭殃的能力":["mata jahat"],"人而":["mata jahat"],"人而使":["mata jahat"],"人而使之":["mata jahat"],"人而使之遭":["mata jahat"],"人而使之遭殃":["mata jahat"],"人而使之遭殃的":["mata jahat"],"人而使之遭殃的能":["mata jahat"],"人而使之遭殃的能力":["mata jahat"],"诞辰日":["maulud"],"出名":["megah","sohor"],"育过":["melung"],"育过早":["melung"],"育过早的":["melung"],"转过":["memaling","paling"],"在膝":["memangku","meriba","riba"],"在膝上":["memangku","meriba","riba"],"跌烂":["memar"],"跌伤":["memar"],"扮演小":["membadut"],"出现在":["membayang"],"出现在脑":["membayang"],"出现在脑海":["membayang"],"出现在脑海里":["membayang"],"在脑":["membayang"],"在脑海":["membayang"],"在脑海里":["membayang"],"人报":["membela"],"人报仇":["membela"],"人讨":["membosankan","menggerek","menjemukan","orang lanat"],"人讨厌":["membosankan","menggerek","menjemukan","orang lanat"],"了航":["memeper","peper"],"了航线":["memeper","peper"],"人听":["memperdengarkan"],"顶撞":["menanduk"],"仔细":["menatapi"],"俘":["menawan"],"人之":["mencampuri"],"人之事":["mencampuri"],"人注":["mencolok mata"],"人注目":["mencolok mata"],"人注目的":["mencolok mata"],"人去":["mendatangkan"],"人去请":["mendatangkan"],"逼":["mendekati","tegih"],"着气":["mendengus"],"着气弄":["mendengus"],"着气弄响":["mendengus"],"着气弄响鼻":["mendengus"],"着气弄响鼻子":["mendengus"],"气弄":["mendengus"],"气弄响":["mendengus"],"气弄响鼻":["mendengus"],"气弄响鼻子":["mendengus"],"霾":["mendung","morong"],"霾的":["mendung","morong"],"在后头":["mengakhirkan"],"在一块":["mengapit"],"人失":["mengecewakan"],"人失望":["mengecewakan"],"人误":["mengelirukan"],"人误解":["mengelirukan"],"某任":["mengembani"],"某任务":["mengembani"],"某任务给":["mengembani"],"某任务给某":["mengembani"],"某任务给某人":["mengembani"],"在一边":["mengetepikan"],"自的":["mengga"],"人讨厌的":["menggerek","menjemukan","orang lanat"],"人讨厌的人":["menggerek"],"谒":["menghadap","peseban"],"谒见":["menghadap","peseban"],"谒见拜":["menghadap"],"人惊":["menghairankan"],"人惊奇":["menghairankan"],"人惊奇的":["menghairankan"],"人激":["menghibakan"],"人激动":["menghibakan"],"人激动的":["menghibakan"],"囚":["mengongkong","mengurung","orang salah","pasung"],"在嘴":["mengulum"],"在嘴里":["mengulum"],"顶着":["menjunjung"],"转弯的":["mentung"],"肘轻":["menyenggol","senggol"],"肘轻触":["menyenggol","senggol"],"人感":["menyeramkan"],"人感到":["menyeramkan"],"人感到恐":["menyeramkan"],"人感到恐怖":["menyeramkan"],"刮鱼":["menyiang","menyisiki"],"人眼":["menyilaukan"],"人眼花":["menyilaukan"],"掌心":["merangkap"],"掌心捕":["merangkap"],"掌心捕捉":["merangkap"],"自动出":["mesin juruwang automatik"],"自动出纳":["mesin juruwang automatik"],"出纳机":["mesin juruwang automatik"],"自动贩":["mesin layan diri"],"自动贩卖":["mesin layan diri"],"人的人":["misoginis"],"典学":["mufti"],"典学者":["mufti"],"赤裸裸":["mujarad"],"厚皮":["muka papan"],"唆的":["muring"],"自然的法":["namus"],"糖树":["nau"],"森美":["negeri sembilan","nismilan"],"森美兰":["negeri sembilan","nismilan"],"自高":["ngada"],"自高自":["ngada"],"自言":["ngangut"],"自言自":["ngangut"],"出血":["nibung"],"尼日":["nigeria"],"尼日利":["nigeria"],"尼罗":["nil","sungai nil"],"糖棕榈树":["nira"],"糖棕榈树汁":["nira"],"糖棕榈树汁供":["nira"],"糖棕榈树汁供制":["nira"],"糖棕榈树汁供制糖":["nira"],"糖用":["nira"],"氮":["nitrogen"],"卦":["nujum"],"核子":["nuklear"],"尼群":["nusantara"],"尼群岛":["nusantara"],"扮小":["ogak-ogak"],"做成":["onde-onde"],"糖作":["onde-onde"],"糖作馅":["onde-onde"],"糖作馅的":["onde-onde"],"糖作馅的团":["onde-onde"],"糖作馅的团子":["onde-onde"],"紊":["orak-arik"],"人讨厌的家":["orang lanat"],"人讨厌的家伙":["orang lanat"],"人体":["organ"],"人体器":["organ"],"掌帆":["pabuan"],"掌帆之":["pabuan"],"掌帆之横":["pabuan"],"围住":["pagari"],"脚盆":["pahar"],"人才":["pakar"],"自以":["palatau"],"自以为":["palatau"],"自以为博":["palatau"],"自以为博学":["palatau"],"自以为博学的":["palatau"],"自称":["palatau"],"自称无":["palatau"],"自称无所":["palatau"],"自称无所不":["palatau"],"自称无所不知":["palatau"],"背过":["paling"],"背过脸":["paling"],"形物":["panah"],"顶的茅":["pandan duri","pandan hutan"],"顶的茅草":["pandan duri","pandan hutan"],"森林地":["pangan"],"似非":["paradoks"],"似非而":["paradoks"],"似非而是":["paradoks"],"似非而是的":["paradoks"],"似非而是的论":["paradoks"],"酚":["parasetamol"],"了罪":["pasik"],"了罪的":["pasik"],"背鲸":["paus kelasa"],"惨败":["paus omura"],"咸的":["payau"],"自动辞":["pecat diri"],"挤满":["pedat","penuh sesak"],"准器":["pejera"],"典编纂者":["pekamus","penyusun kamus"],"背的":["pelekuh"],"飞弹":["peluru berpandu"],"鸦片烟":["pemadat"],"出合":["pembukuan"],"出合同":["pembukuan"],"准程":["penanda aras"],"准程序":["penanda aras"],"舞跳":["penari"],"形之":["pendaga"],"形之衣":["pendaga"],"形之衣箱":["pendaga"],"出磷":["pendarfosfor"],"出磷光":["pendarfosfor"],"出磷光的":["pendarfosfor"],"做奴":["pengabdian"],"做奴隶":["pengabdian"],"气处":["pengoksigenan"],"气处理":["pengoksigenan"],"盘尼":["penisilin"],"盘尼西":["penisilin"],"尼西林":["penisilin"],"在十":["penyaliban"],"在十字":["penyaliban"],"在十字架":["penyaliban"],"在十字架上":["penyaliban"],"在十字架上钉":["penyaliban"],"在十字架上钉死":["penyaliban"],"在十字架上钉死的":["penyaliban"],"在十字架上钉死的刑":["penyaliban"],"架上":["penyaliban"],"架上钉":["penyaliban"],"架上钉死":["penyaliban"],"架上钉死的":["penyaliban"],"架上钉死的刑":["penyaliban"],"架上钉死的刑罚":["penyaliban"],"气清":["penyegar udara"],"气清新":["penyegar udara"],"气清新剂":["penyegar udara"],"果实放":["peram"],"果实放在":["peram"],"果实放在米":["peram"],"果实放在米里":["peram"],"在米":["peram"],"在米里":["peram"],"脚手":["perancah"],"气味强":["pering"],"气味强烈":["pering"],"围的":["persekitaran"],"气候变":["perubahan iklim"],"气大":["perus"],"气大的":["perus"],"形的短":["petaram"],"形的短剑":["petaram"],"自尊":["petentangan"],"自尊大":["petentangan"],"自尊大的":["petentangan"],"琴弦":["petik"],"烴":["petrol"],"烴類":["petrol"],"烴類組":["petrol"],"烴類組成":["petrol"],"脚杯":["piala"],"琴家":["pianis"],"乒":["pingpong"],"乒乓":["pingpong"],"狈":["pontang-panting","sasap"],"育幼":["prasekolah"],"返还":["pulangan tunai"],"盲症":["rabun senja"],"出游":["radai"],"建筑材":["ramuan"],"赤蚂":["rangrang"],"纪之":["rebab"],"纪之三":["rebab"],"纪之三弦":["rebab"],"纪之三弦乐":["rebab"],"纪之三弦乐器":["rebab"],"挤进":["rejah"],"釜":["rencak"],"在水中":["rendam","selam"],"转炮":["rentaka"],"爬行动":["reptilia"],"尼加共":["republik dominika"],"尼加共和":["republik dominika"],"尼加共和国":["republik dominika"],"在坐":["riba"],"在坐上":["riba"],"人类的圣":["rigal"],"人类的圣灵":["rigal"],"出土":["rimpang"],"勤力":["ringan tulang"],"舞蹈的":["ronggeng"],"舞蹈的一":["ronggeng"],"外侧":["rubing","timbau"],"建国":["rukunegara"],"建国原":["rukunegara"],"尼货":["rupiah"],"尼货币":["rupiah"],"出生于星":["said"],"出生于星期":["said"],"出生于星期五":["said"],"出生于星期五的":["said"],"出生于星期五的男":["said"],"出生于星期五的男孩":["said"],"出生于星期五的男孩之":["said"],"彼":["sana"],"人的头":["santung"],"人的头邪":["santung"],"人的头邪术":["santung"],"形变":["saraf"],"形变化":["saraf"],"在袋":["sarungkan"],"在袋中":["sarungkan"],"狼狈周":["sasap"],"狈周":["sasap"],"狈周章":["sasap"],"准写":["sastera"],"准写法":["sastera"],"转瞬":["sekejap"],"外的教":["sekular"],"外的教士":["sekular"],"人事":["selap"],"脚的铜":["semberip"],"脚的铜盘":["semberip"],"气随":["sempoi"],"气随和":["sempoi"],"气随和的":["sempoi"],"果了":["sengget"],"脚虫":["senggulung"],"脚虫类":["senggulung"],"厚板":["sengkalan"],"果树之":["sentul"],"核树":["sentul"],"悚":["seram"],"悚然":["seram"],"出击":["serangan udara"],"呐":["seruan","tempik"],"掌之":["setelempap","telempap"],"掌之宽":["setelempap"],"人名及":["si"],"人名及拟":["si"],"人名及拟人":["si"],"人名及拟人化":["si"],"人名及拟人化动":["si"],"人名及拟人化动物":["si"],"人名及拟人化动物名":["si"],"人名及拟人化动物名前":["si"],"人名及拟人化动物名前之":["si"],"人名及拟人化动物名前之接":["si"],"人名及拟人化动物名前之接头":["si"],"人化":["si"],"人化动":["si"],"人化动物":["si"],"人化动物名":["si"],"人化动物名前":["si"],"人化动物名前之":["si"],"人化动物名前之接":["si"],"人化动物名前之接头":["si"],"人化动物名前之接头词":["si"],"自作":["siapa makan lada dia rasa peda"],"自作自":["siapa makan lada dia rasa peda"],"自受":["siapa makan lada dia rasa peda"],"肘推":["sigung"],"肘推开":["sigung"],"潮流冲":["simbar"],"潮流冲突":["simbar"],"潮流冲突而":["simbar"],"潮流冲突而成":["simbar"],"潮流冲突而成的":["simbar"],"潮流冲突而成的大":["simbar"],"形蚊":["singkil"],"形蚊帐":["singkil"],"形蚊帐顶":["singkil"],"帐顶":["singkil"],"出嘘":["siuh"],"出嘘声":["siuh"],"出嘘声赶":["siuh"],"顶球":["sondol"],"育馆":["stadium"],"准化":["standardisasi"],"准以":["substandard"],"准以下":["substandard"],"准以下的":["substandard"],"了吗":["sudah makan"],"了吧":["sudahlah"],"最长":["sulung"],"自拍":["swafoto"],"自我服":["swalayan"],"做得":["syabas"],"做得不":["syabas"],"纪元":["tahun masihi"],"出租车送":["taksi","ulat sapu","ulat teksi"],"挤凹":["tekan tubi"],"组成":["teknokratik"],"组成的":["teknokratik"],"人照":["telantar"],"人照顾":["telantar"],"人照顾的":["telantar"],"懒怠":["teledor"],"獾":["teledu"],"肘支":["telekan","teleku"],"肘支撑":["telekan","teleku"],"祈祷用":["telekung"],"祈祷用之":["telekung"],"祈祷用之面":["telekung"],"祈祷用之面幕":["telekung"],"掌之阔":["telempap"],"琴之":["telimpung"],"琴之一":["telimpung"],"尼豆":["tempe"],"尼豆豉":["tempe"],"豆豉":["tempe"],"赤铁":["tempinis"],"人肩":["tepam"],"人肩头":["tepam"],"准时":["tepat masa"],"最好":["terbaik"],"顶好":["terbaik"],"出版刊":["terbitan"],"跌坐":["terduduk"],"跌坐下":["terduduk"],"飞一":["terpacu-pacu"],"飞一般":["terpacu-pacu"],"最重":["terutama"],"最重要":["terutama"],"人主义的":["tinggi diri"],"似男":["tomboi"],"似男孩":["tomboi"],"似男孩的":["tomboi"],"似男孩的顽":["tomboi"],"似男孩的顽皮":["tomboi"],"似男孩的顽皮姑":["tomboi"],"形摆":["tombol"],"形摆手":["tombol"],"出浮":["tonjol"],"出浮肿":["tonjol"],"出浮肿的":["tonjol"],"惨的":["tragik"],"人一":["triniti"],"人一组":["triniti"],"外膜":["tuban-tuban"],"气层":["udarakasa"],"最年长":["ulung"],"潮湿而":["unai"],"潮湿而发":["unai"],"潮湿而发臭":["unai"],"尼斯":["venis"],"舞蹈名":["wiring"],"泊的":["yuyu"],"某某之":["zadah"],"某之":["zadah"],"某之子":["zadah"],"外在":["zahir"]}}
+侄	anak penakan,anak saudari|n,cucu saudara|n,cucu saudari|n,lut
+侄女	anak saudari|n
+侄子	lut
+侄孙	cucu saudara|n,cucu saudari|n
+侄孙女	cucu saudari|n
+厄	bala|n
+各	saban,tiap|det,aneka,aneka ragam,arna-warni,arnasari,batu-batan,beraneka
+各不	berlainan
+各不相	berlainan
+各不相同	berlainan
+各不相同的	berlainan
+各人	tiap-tiap orang
+各地	serata
+各族	serba bangsa
+各样	aneka,arna-warni,batu-batan,beraneka,beras petas,beras-petas,berjenis-jenis,bermacam-macam
+各样的	arna-warni,batu-batan,beraneka,beras petas,beras-petas,bunga-bungaan,kayu-kayan,kayu-kayuan
+各样的木	kayu-kayan,kayu-kayuan
+各样的木材	kayu-kayan,kayu-kayuan
+各样的石	batu-batan
+各样的石头	batu-batan
+各样的米	beras petas,beras-petas,petas
+各样的花	bunga-bungaan
+各样菜	lauk-pauk
+各样菜色	lauk-pauk
+各种	aneka,aneka ragam,arna-warni,arnasari,batu-batan,beraneka,beras petas,beras-petas
+各种书	kitab-kemitab
+各种书籍	kitab-kemitab
+各种各	arna-warni,batu-batan,beraneka,beras petas,beras-petas,berjenis-jenis,bermacam-macam,bunga-bungaan
+各种各样	berjenis-jenis,bermacam-macam,pancaragam,pelbagai|adj,serba-serbi,serbaneka,arna-warni,batu-batan
+各种各样的	arna-warni,beraneka,manca,rupa-rupa,batu-batan,beras petas,beras-petas,bunga-bungaan
+各种各样的木	kayu-kayan,kayu-kayuan
+各种各样的木材	kayu-kayan,kayu-kayuan
+各种各样的石	batu-batan
+各种各样的石头	batu-batan
+各种各样的米	beras petas,beras-petas,petas
+各种各样的花	bunga-bungaan
+各种各样菜	lauk-pauk
+各种各样菜色	lauk-pauk
+各种壳	biji-bijian
+各种壳类	biji-bijian
+各种子	biji-bijian
+各种子核	biji-bijian
+各种形	aneka ragam
+各种形式	aneka ragam
+各种果	buah-buahan
+各种果子	buah-buahan
+各种灾	mala petaka|n
+各种灾害	mala petaka|n
+各种甘	umbuk-umbai
+各种甘言	umbuk-umbai
+各种类	berjenis-jenis
+各种类型	berjenis-jenis
+各种舞	dansa-dansi
+各种舞蹈	dansa-dansi
+各种艰	pahit getir
+各种艰苦	pahit getir
+各种花	arnasari
+各种菜	pauk lauk
+各种菜肴	pauk lauk
+各种蔬	mayur
+各种蔬菜	mayur
+各种颜	pancalogam
+各种颜色	pancalogam
+各种颜色的	pancalogam
+各种颜色的岩	pancalogam
+各种颜色的岩石	pancalogam
+各种香	pawah,piah,rempah-piah
+各种香料	pawah,piah,rempah-piah
+各自	masing|det,mengga
+各自的	mengga
+善	amal,amalan,baguskan|v,bajik,betulkan,busuk hati,dermawan|n,elok-elok|adv
+善事	amalan,pahala|n
+善于	muntil,sengelat
+善于奉	muntil
+善于奉承	muntil
+善于奉承的	muntil
+善于闪	sengelat
+善于闪避	sengelat
+善于闪避的	sengelat
+善于闪避的人	sengelat
+善交	kera sumbang
+善交际	kera sumbang
+善交际的	kera sumbang
+善交际的人	kera sumbang
+善家	dermawan|n
+善的	mubah,ramah,selengkapnya
+善良	zakiah
+善良的	zakiah
+善行	amal,baguskan|v,elok-elok|adv,ihsan|n,membaguskan|v,seelok|prep
+处	barek|v,bawa diri,berkaparan,bezanya,bikir,ceruk,dahulukan,dara|n
+处之	kelongsong
+处之外	kelongsong
+处之外皮	kelongsong
+处乱	menyepahkan
+处乱撒	menyepahkan
+处停	menyinggah
+处停泊	menyinggah
+处刑	menghukum
+处女	bikir,dara|n,gadis dara,keperawanan,perawan
+处搜	barek|v
+处搜索	barek|v
+处方	preskripsi|n,surat ubat|n
+处横	berkaparan,jelempah
+处横置	jelempah
+处横陈	berkaparan
+处理	kelola|v,memangku,mengatur,mentadbirkan,selenggara,urus|v,dahulukan,manipulatif|adj
+处理器	mikropemproses|n,pemproses mikro|n
+处理或	pakai buang|adj
+处理或处	pakai buang|adj
+处理或处置	pakai buang|adj
+处理或处置的	pakai buang|adj
+处理的	manipulatif|adj,pakai buang|adj
+处罚	mendera,menghukum
+处置	hak kuasa,pakai buang|adj
+处置权	hak kuasa
+处置的	pakai buang|adj
+处走	jangla
+处身	bawa diri
+妄	petentangan
+妄自	petentangan
+妄自尊	petentangan
+妄自尊大	petentangan
+妄自尊大的	petentangan
+射	biasan,corongkan,cucuk|v,galir|n,injeksi,jet,lancit,lancut
+射作	biasan
+射作用	biasan
+射免	pasir ris
+射免疫	pasir ris
+射免疫吸	pasir ris
+射免疫吸附	pasir ris
+射免疫吸附剂	pasir ris
+射出	lancut,pancar,pancut
+射击	membedil,menembak,taruk|n,tembak|v,sipi
+射击不	sipi
+射击不中	sipi
+射击不中的	sipi
+射器	pecagari
+射在	menyinari
+射式	jet
+射式飞	jet
+射式飞机	jet
+射杀	memanah
+射计	radiometer|n
+庄	agung|adj,kampung|n,tahana|n
+庄严	tahana|n
+庄重	agung|adj
+庄重的	agung|adj
+弄	ajuk,berpintal-pintal,conteng|n,ejek|v,erut,genit,gobek,gonbeng
+弄乱	berpintal-pintal,pintal
+弄乱的	berpintal-pintal,pintal
+弄卷	ikal
+弄响	mendengus|v
+弄响鼻	mendengus|v
+弄响鼻子	mendengus|v
+弄坏	memburukkan,merosakkan
+弄大	gonbeng
+弄宽	perlebar|v
+弄干	sejat,ikan kering|n
+弄干了	ikan kering|n
+弄干了的	ikan kering|n
+弄平	memaparkan,papat
+弄弯	membengkokkan,lentur|n
+弄弯的	lentur|n
+弄成	memirik,pirik
+弄成粉	memirik,pirik
+弄成粉末	memirik,pirik
+弄歪	erut,pelikuk
+弄歪的	erut,pelikuk
+弄污	memalit,palit|n
+弄湿	membasahi,membasahkan,potong stim|v
+弄烧	memanaskan
+弄的	tacod
+弄碎	memecahkan
+弄糟	lumus|adj
+弄绉	peronyok
+弄翻	menggulingkan
+弄者	pemain|n
+弄脏	conteng|n,mencemarkan,mengotorkan
+弄钝	tumpulkan
+弄长	tongkah
+弄阔	renggangkan
+弄风	genit
+弄风情	genit
+弄风情的	genit
+弄高	juak,juak-juak,tinggikan
+径	empat puluh lima|num,ikhtiar|n,jejari,laluan|n,legat,melintas,pemuras
+径的	empat puluh lima|num
+径的手	empat puluh lima|num
+径的手枪	empat puluh lima|num
+径直	legat
+径直的	legat
+径短	pemuras
+径短枪	pemuras
+抄	geledah,melintas,salinan,transkrip|n
+抄捷	melintas
+抄捷径	melintas
+抄本	salinan,transkrip|n
+抄查	geledah
+构	agensi|n,badan berkanun,badan kebajikan,binaan,infrastruktur|n,khayal|adj,organisasi,perbadanan
+构成	tiri|adj
+构成的	tiri|adj
+构成的亲	tiri|adj
+构成的亲缘	tiri|adj
+构成的亲缘关	tiri|adj
+构成的亲缘关系	tiri|adj
+构造	binaan
+榄	ragbi|n,zabarjad,zaitun|n
+榄球	ragbi|n
+榄石	zabarjad
+澄	jernih|adj,penjelasan|n,perjelas|v
+澄清	penjelasan|n,perjelas|v,jernih|adj
+澄清的	jernih|adj
+熄	padam|adj,memadamkan
+熄灭	memadamkan
+玄	anak lelaki cicit|n,cucu lelaki cucu|n,piut laki-laki|n,piut lelaki|n
+玄孙	anak lelaki cicit|n,cucu lelaki cucu|n,piut laki-laki|n,piut lelaki|n
+的	baka|adj,fasih|adj,ganjil|adj,kualun,pada|prep,a kapela|n,abadi|adj,abadiah|adj
+的一	debak|n,dingkis,gubang,kemang,kermak,kuau|n,kudeta|n,lebak|n
+的一击	kudeta|n,rampasan kuasa|n
+的一口	sepah
+的一声	debak|n,lebak|n
+的一头	popor|n
+的一片	patio|n
+的一片供	patio|n
+的一片供晴	patio|n
+的一片供晴天	patio|n
+的一片供晴天休	patio|n
+的一片供晴天休息	patio|n
+的一片供晴天休息用	patio|n
+的一片供晴天休息用的	patio|n
+的一片供晴天休息用的石	patio|n
+的一片供晴天休息用的石砌	patio|n
+的一片供晴天休息用的石砌空	patio|n
+的一百	sentilion|num
+的一百次	sentilion|num
+的一百次幂	sentilion|num
+的一种	dingkis,gubang,kemang,kermak,kuau|n,mandali,mendora,ronggeng
+的七	sekstilion|num
+的七乘	sekstilion|num
+的七乘方	sekstilion|num
+的三	kuintilion|num
+的三次	kuintilion|num
+的三次方	kuintilion|num
+的东	cencangan,kejutan|n,kiriman,penangkis,taknak|v
+的东西	cencangan,kejutan|n,kiriman,penangkis,taknak|v
+的丝	perambut
+的丝线	perambut
+的义	fardu|n
+的义务	fardu|n
+的九	nonilion|num,oktilion|num
+的九次	nonilion|num,oktilion|num
+的九次方	nonilion|num,oktilion|num
+的事	berbual|v,pemboleh ubah|n
+的事物	berbual|v,pemboleh ubah|n
+的二	bandung|n
+的二物	bandung|n
+的五	kuadrilion|num
+的五次	kuadrilion|num
+的五次方	kuadrilion|num
+的产	akaf
+的产业	akaf
+的亲	tiri|adj
+的亲缘	tiri|adj
+的亲缘关	tiri|adj
+的亲缘关系	tiri|adj
+的人	ajaran sesat|n,bapa cik|n,buruh kasar,fakir,fasih lidah|adj,francaisi|n,golok kayu,hadirin
+的估	nilaian
+的估定	nilaian
+的低	baruh|n
+的低地	baruh|n
+的佬	jorong
+的佬叶	jorong
+的佬叶盒	jorong
+的使	gunatenaga
+的使用	gunatenaga
+的倒	seruit
+的倒钩	seruit
+的储	jegung
+的储藏	jegung
+的储藏处	jegung
+的儿	bin|n,ibni
+的儿子	bin|n,ibni
+的兄	duai,ipar|n
+的兄弟	duai,ipar|n
+的兄弟姐	duai,ipar|n
+的兄弟姐妹	duai,ipar|n
+的八	septilion|num
+的八次	septilion|num
+的八次方	septilion|num
+的内	beranta,bunyi surat
+的内容	bunyi surat
+的内河	beranta
+的内河船	beranta
+的冲	jamban|n
+的冲凉	jamban|n
+的冲凉房	jamban|n
+的切	gubang
+的切口	gubang
+的刑	penyaliban|n
+的刑罚	penyaliban|n
+的剪	kelati
+的力	daya ghaib
+的力量	daya ghaib
+的动	binatang jinak,binatang maging
+的动物	binatang jinak,binatang maging
+的包	geruk
+的包裹	geruk
+的十	banji|n,kuindesilion|num
+的十五	kuindesilion|num
+的十五次	kuindesilion|num
+的十五次幂	kuindesilion|num
+的十字	banji|n
+的十字记	banji|n
+的十字记号	banji|n
+的华	singkek|n
+的华侨	singkek|n
+的单	patah|v,pucuk|n
+的单位	patah|v,pucuk|n
+的厚	sengkalan
+的厚板	sengkalan
+的原	undang-undang rimba|n
+的原则	undang-undang rimba|n
+的发	lagih
+的发问	lagih
+的召	bang|n
+的召唤	bang|n
+的叶	pelepah|n
+的叶梗	pelepah|n
+的名	bismillah,petaling
+的名称	petaling
+的命	bohrium|n,mortaliti|n
+的命名	bohrium|n
+的命运	mortaliti|n
+的回	kelenung,keletung
+的回声	kelenung
+的回音	keletung
+的团	onde-onde
+的团子	onde-onde
+的圈	kelandara
+的土	ronggeng
+的土风	ronggeng
+的土风舞	ronggeng
+的圣	rigal
+的圣灵	rigal
+的地	alas rumah,cetek|adj,kubang|n,memperdangkal,mencetekkan|v,rubu
+的地基	alas rumah
+的地方	cetek|adj,kubang|n,memperdangkal,mencetekkan|v
+的地步	rubu
+的地步行	rubu
+的坑	seronggong
+的坑架	seronggong
+的坚	padau
+的坚固	padau
+的坚固之	padau
+的坚固之帆	padau
+的声	gelogok,uik
+的声音	gelogok,uik
+的外	kelesek,ruyung|n,siring|n
+的外皮	kelesek,ruyung|n,siring|n
+的夜	zabaniah
+的夜叉	zabaniah
+的大	simbar
+的大浪	simbar
+的天	mambang|n
+的天色	mambang|n
+的头	santung
+的头邪	santung
+的头邪术	santung
+的夹	linggi
+的夹板	linggi
+的女	binti|n,penanggalan|n
+的女儿	binti|n
+的女鬼	penanggalan|n
+的姿	turun senjata|n
+的姿势	turun senjata|n
+的子	anak halal
+的子女	anak halal
+的学	graduan|n
+的学生	graduan|n
+的孩	anak bongsu
+的孩子	anak bongsu
+的宝	berlian|n
+的宝石	berlian|n
+的家	orang lanat,saka-baka
+的家伙	orang lanat
+的家系	saka-baka
+的寡	bujang talan
+的寡妇	bujang talan
+的寡妇或	bujang talan
+的寡妇或鳏	bujang talan
+的寡妇或鳏夫	bujang talan
+的實	mak kau hijau
+的實際	mak kau hijau
+的實際含	mak kau hijau
+的實際含義	mak kau hijau
+的寺	candi
+的寺庙	candi
+的寿	ajal|n
+的寿命	ajal|n
+的尊	engku,kakanda|n,raden
+的尊敬	kakanda|n
+的尊称	engku,raden
+的小	benta,bintil,denak
+的小动	denak
+的小动物	denak
+的小红	bintil
+的小红点	bintil
+的小胧	benta
+的小胧包	benta
+的尾	cemara|n
+的尾毛	cemara|n
+的屋	sutuh
+的屋顶	sutuh
+的屏	sadang,sading
+的屏幕	sadang,sading
+的岩	pancalogam
+的岩石	pancalogam
+的巨	rahu
+的巨龙	rahu
+的布	genggang|adj
+的希	tinggi harapan
+的希望	tinggi harapan
+的帘	bidai
+的带	serangkak
+的带绑	serangkak
+的带绑住	serangkak
+的带绑住树	serangkak
+的带绑住树身	serangkak
+的席	serampin
+的帽	songkok|n
+的干	bekal|n
+的干粮	bekal|n
+的干粮或	bekal|n
+的干粮或用	bekal|n
+的干粮或用品	bekal|n
+的床	lamin|n
+的座	peterana
+的座位	peterana
+的形	baheula
+的形成	baheula
+的态	lagak
+的态度	lagak
+的怒	puputan
+的怒号	puputan
+的怪	cepat tangan
+的怪癖	cepat tangan
+的意	pada hemat saya
+的意见	pada hemat saya
+的成	perghhh,walao
+的成功	perghhh,walao
+的手	empat puluh lima|num
+的手枪	empat puluh lima|num
+的政	dasar kerajaan
+的政策	dasar kerajaan
+的教	sekular|adj
+的教士	sekular|adj
+的文	makalah|n
+的文章	makalah|n
+的方	cara mengaji,jelimput,kiblat
+的方向	jelimput,kiblat
+的方法	cara mengaji
+的时	aktusembahyang,inap desa|n,rumah inap|n
+的时期	inap desa|n,rumah inap|n
+的时间	aktusembahyang
+的晕	gelanggang bulan
+的晕轮	gelanggang bulan
+的暴	garang|adj
+的暴躁	garang|adj
+的暴躁的	garang|adj
+的月	ramadan
+的月份	ramadan
+的服	sari
+的服装	sari
+的木	kayu-kayan,kayu-kayuan,terubung
+的木材	kayu-kayan,kayu-kayuan
+的木桶	terubung
+的果	halwa|n
+的果子	halwa|n
+的柱	tiang rumah
+的树	togok
+的树干	togok
+的校	cikgu besar|n,pengetua|n
+的校长	cikgu besar|n,pengetua|n
+的栳	lelat,sirih|n
+的栳叶	lelat,sirih|n
+的梗	puris,tongkol
+的梗心	tongkol
+的梗心果	tongkol
+的梗心果实	tongkol
+的梗或	puris
+的梗或筋	puris
+的梳	serit
+的梳栉	serit
+的检	amati
+的检查	amati
+的棉	telepuk
+的棉布	telepuk
+的棍	pacak
+的棍棒	pacak
+的棒	tembung|v
+的森	hutan rimba|n
+的森林	hutan rimba|n
+的椰	gaba
+的椰叶	gaba
+的槟	jerkat
+的槟榔	jerkat
+的歌	dendang
+的歌唱	dendang
+的死	mati katak,rejam|v
+的死刑	rejam|v
+的死去	mati katak
+的段	ruas
+的毛	bulu rama
+的水	zamzam
+的汁	sadap
+的沙	sakai|n
+的沙盖	sakai|n
+的沙盖族	sakai|n
+的河	alahan
+的河床	alahan
+的法	namus
+的法则	namus
+的洗	mendamparkan
+的液	petrol|n
+的液態	petrol|n
+的液態烴	petrol|n
+的液態烴類	petrol|n
+的液態烴類組	petrol|n
+的液態烴類組成	petrol|n
+的混	anjing pandan|n,pancalogam,samsam
+的混合	anjing pandan|n,pancalogam
+的混合废	anjing pandan|n
+的混合废料	anjing pandan|n
+的混合金	pancalogam
+的混种	samsam
+的混种人	samsam
+的火	bara|n,orong
+的火头	bara|n
+的火门	orong
+的灵	mani
+的灵魂	mani
+的热	samum
+的热风	samum
+的燃	petrol|n
+的燃料	petrol|n
+的爱	cauvinisme|n
+的爱国	cauvinisme|n
+的爱国主	cauvinisme|n
+的爱国主义	cauvinisme|n
+的牧	chalet|n
+的牧人	chalet|n
+的牧人小	chalet|n
+的牧人小屋	chalet|n
+的物	objek
+的狗	anjing ajak|n,anjing geladak|n
+的环	sigi
+的班	dalang|n
+的班主	dalang|n
+的班主或	dalang|n
+的班主或导	dalang|n
+的班主或导演	dalang|n
+的生	urbanisme|n
+的生活	urbanisme|n
+的生活方	urbanisme|n
+的生活方式	urbanisme|n
+的用	slanga|n
+的用詞	slanga|n
+的甲	geladak
+的甲板	geladak
+的男	said
+的男孩	said
+的男孩之	said
+的男孩之名	said
+的白	pacai
+的白檀	pacai
+的白檀香	pacai
+的白檀香粉	pacai
+的皮	gelabir,gelambir,jumbil
+的皮肉	gelabir,gelambir
+的目	haluan
+的目的	haluan
+的真	asli|adj
+的真正	asli|adj
+的真正的	asli|adj
+的短	petaram
+的短剑	petaram
+的石	batu-batan,patio|n
+的石头	batu-batan
+的石砌	patio|n
+的石砌空	patio|n
+的硬	watas
+的确	benar-benar,nah
+的祈	kunut
+的祈祷	kunut
+的祝	assalam
+的祝语	assalam
+的神	mahadewa
+的禁	nahi
+的禁令	nahi
+的称	hang|pron,nyal,rangga,uak|n
+的称号	hang|pron,nyal,rangga
+的称呼	uak|n
+的空	cerang
+的空地	cerang
+的章	surah|n
+的竹	betung|n
+的笔	cakar ayam|n
+的笔迹	cakar ayam|n
+的符	pepet
+的符号	pepet
+的第	alias,slomang|n,teta|n
+的第一	alias
+的第一个	alias
+的第一个字	alias
+的第二	slomang|n
+的第二个	slomang|n
+的第二个字	slomang|n
+的第二个字母	slomang|n
+的第八	teta|n
+的第八字	teta|n
+的笼	jebak
+的筛	ayak|n
+的米	beras petas,beras-petas,petas
+的粉	pudi,tepung beras
+的粉末	pudi
+的素	vegan|n
+的素食	vegan|n
+的素食主	vegan|n
+的素食主义	vegan|n
+的素食主义者	vegan|n
+的红	bakau|n
+的红木	bakau|n
+的线	bertas|v
+的细	uring
+的细槽	uring
+的织	tisu|n
+的织物	tisu|n
+的绝	mogok lapar|n,mogok makan|n
+的绝食	mogok lapar|n,mogok makan|n
+的罪	fasik
+的罪人	fasik
+的老	harimau jadi-jadian
+的老虎	harimau jadi-jadian
+的职	prefektur|n
+的职位	prefektur|n
+的肚	tian|n
+的肚子	tian|n
+的胃	geliga
+的胃石	geliga
+的背	bonggol|n
+的背峰	bonggol|n
+的胶	pulut|n
+的胶汁	pulut|n
+的能	mata jahat|n
+的能力	mata jahat|n
+的脓	ruam|n
+的脓头	ruam|n
+的腌	ulam|n
+的腌菜	ulam|n
+的腰	pending
+的腰带	pending
+的花	bunga-bungaan,cepudebunga,gaba-gaba
+的花彩	gaba-gaba
+的花粉	cepudebunga
+的花粉囊	cepudebunga
+的茅	pandan duri|n,pandan hutan|n
+的茅草	pandan duri|n,pandan hutan|n
+的药	nyiat-nyiat,tela
+的药池	tela
+的药草	nyiat-nyiat
+的菜	sagun
+的蚁	busut betina,busut jantan
+的蚁冢	busut betina,busut jantan
+的蛀	kelarah
+的蛀虫	kelarah
+的蜂	sambang
+的蜂巢	sambang
+的褴	cobak-cabik
+的褴褛	cobak-cabik
+的褴褛的	cobak-cabik
+的視	mak kau hijau
+的視頻	mak kau hijau
+的规	hukum adat
+的规则	hukum adat
+的誓	idah
+的誓约	idah
+的计	pengaturcaraan|n
+的计划	pengaturcaraan|n
+的记	prasasti|n
+的记载	prasasti|n
+的论	paradoks|n
+的论点	paradoks|n
+的话	hamun,insya allah,lidah pengarang
+的诞	maulud
+的诞辰	maulud
+的诞辰日	maulud
+的谚	gurindam
+的谚语	gurindam
+的象	mada
+的贝	sarak
+的财	harta benda
+的财产	harta benda
+的货	belian|n,gerobak kuda
+的货物	belian|n
+的货车	gerobak kuda
+的赐	anugerah|n
+的赐与	anugerah|n
+的赐与下	anugerah|n
+的赐与下贱	anugerah|n
+的赐与下贱的	anugerah|n
+的赠	idah
+的赠品	idah
+的进	gitar tenor|n,santapan
+的进宴	santapan
+的进程	gitar tenor|n
+的连	bahawa|conj
+的连接	bahawa|conj
+的连接词	bahawa|conj
+的道	jalan tol|n
+的道路	jalan tol|n
+的邪	tumbal
+的邪术	tumbal
+的金	cembul|n,palung
+的金属	cembul|n
+的金属盒	cembul|n
+的金山	palung
+的金山沟	palung
+的錯	ensiklopedia|n
+的錯誤	ensiklopedia|n
+的錯誤合	ensiklopedia|n
+的錯誤合寫	ensiklopedia|n
+的钱	bayaran
+的铁	temin
+的铁圈	temin
+的铜	semberip
+的铜盘	semberip
+的锡	calung
+的锡杯	calung
+的长	gading|n,umbul
+的长大	umbul
+的长牙	gading|n
+的间	lopak
+的间隙	lopak
+的阿	sayid
+的阿拉	sayid
+的阿拉伯	sayid
+的阿拉伯人	sayid
+的附	susulan
+的附录	susulan
+的陶	cobek
+的陶盘	cobek
+的雌	ayam dara
+的雌鸡	ayam dara
+的露	berguk,merguk
+的露眼	berguk,merguk
+的露眼面	berguk,merguk
+的露眼面幂	merguk
+的露眼面罩	berguk
+的非	sastera|n
+的非标	sastera|n
+的非标准	sastera|n
+的非标准写	sastera|n
+的非标准写法	sastera|n
+的顽	tomboi|n
+的顽皮	tomboi|n
+的顽皮姑	tomboi|n
+的顽皮姑娘	tomboi|n
+的颈	serviks|n
+的颈部	serviks|n
+的额	gumba
+的额瘤	gumba
+的风	tugas|n
+的食	ayapan,gado-gado,rantang
+的食品	gado-gado
+的食格	rantang
+的食物	ayapan
+的饭	nasi bungkus,nasi lemak|n
+的饭菜	nasi bungkus
+的魔	gergasi|n
+的魔王	gergasi|n
+的鱼	gegat|n
+的鸣	menta
+的鸣叫	menta
+的鹦	teraling
+的鹦鹉	teraling
+的黑	ijuk|n
+的黑色	ijuk|n
+的黑色纤	ijuk|n
+的黑色纤维	ijuk|n
+的鼓	gendang raya
+的鼻	jungur,tahi hidung|n
+的鼻子	jungur
+的鼻粘	tahi hidung|n
+的鼻粘液	tahi hidung|n
+瞄	bidik|v,memidi,pejera,pidi,rambang,tuju|v
+瞄准	bidik|v,memidi,pidi,tuju|v,pejera,rambang
+瞄准器	pejera
+窄	sempit|adj,bebang,picik,terik
+窄的	picik,terik
+缄	berat mulut
+缄默	berat mulut
+缄默的	berat mulut
+茄	terung,cerutu|n,rangam|n,terung ungu|n
+茄子	terung ungu|n
+萄	anggur|n,glukos,kismis|n,peringgi|adj,portugal,portugis,sape|pron,zabib|n
+萄干	kismis|n,zabib|n
+萄浓	sape|pron
+萄浓汁	sape|pron
+萄牙	peringgi|adj,portugal,portugis
+萄牙人	peringgi|adj,portugis
+萄糖	glukos
+薄	nipis|adj,tipis|adj,apam|n,didis,iris,jerebu|n,lawar,lembek
+薄层	selaput
+薄席	lembek
+薄烤	pankek|n,serabai
+薄烤饼	pankek|n,serabai
+薄片	iris,didis,lawar,mendidis,mengiris
+薄的	apam|n,nipis macam kertas|adj,pipih,tisu|n
+薄的织	tisu|n
+薄的织物	tisu|n
+薄皮	saput,selaput
+薄荷	poho|n,pudina|n
+薄雾	jerebu|n
+薄饼	lempeng
+谄	mengumbuk,peleceh,pujuk,umbuk
+谄媚	pujuk,mengumbuk,peleceh,umbuk
+谄媚奉	mengumbuk,umbuk
+谄媚奉承	mengumbuk,umbuk
+谄媚的	peleceh
+谄媚的人	peleceh
+锄	cangkul|n,mencangkul,pacul,penggali,pangkur,tembilang
+锄头	cangkul|n,pacul,pangkur
+预	anggaran,bajet|n,belanjawan|n,daud,faal,gelagat,gerak hati,hirau|v
+预他	mencampuri
+预他人	mencampuri
+预他人之	mencampuri
+预他人之事	mencampuri
+预付	prapembayaran|n,tempah|v
+预付款	tempah|v
+预付款项	tempah|v
+预兆	gelagat,padah,pedah
+预备	menyediakan,persiapan|n,sedia|adv
+预定	memialang,menempah,pembelanjawanan|n,pialang,losi
+预定席	losi
+预定席位	losi
+预感	gerak hati
+预报	peramal|n
+预报员	peramal|n
+预料	sangka|v,malang tidak berbau|n
+预料的	malang tidak berbau|n
+预测	menelah,ramal|v,ramalan|n
+预演	raptai|n
+预算	anggaran,bajet|n,belanjawan|n,menganggarkan
+预约	pembukuan|n
+预约演	pembukuan|n
+预约演出	pembukuan|n
+预约演出合	pembukuan|n
+预约演出合同	pembukuan|n
+预言	faal,menelah,menenung,meramalkan,tenung|v,daud,hud,ibrahim
+预言家	nabi|n
+预言者	daud,hud,ibrahim,idris
+预防	ikhtiyat|n,pencegah
+骄	angkuh,bangga,berbangga,bongkak,bulan jatidiri,congkak,kebanggaan,lagak
+骄傲	angkuh,bangga,bongkak,bulan jatidiri,congkak,kebanggaan,sombong,tinggi hati
+骄傲的	pongah,rangah,ranggi,lagak
+骄傲的态	lagak
+骄傲的态度	lagak
+骄奢	lanja
+龄	bawah umur,bawat|adj,cukup umur,mamai|adj,sebaya,seumur,umur|n,usia|n
+龄的	mamai|adj

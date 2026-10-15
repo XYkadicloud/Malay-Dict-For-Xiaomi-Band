@@ -1,1 +1,316 @@
-{"en2ms":{"eternal":["abadi","abadiah","kekal"],"everlasting":["abadi","kekal"],"enslave":["abdikan"],"ebony":["abnus"],"enmity":["adawat"],"expression":["aduh","alamak","cis","hampas","kus","mak kau hijau"],"express":["ah","apakah","au","ekspres","er","ewah"],"eid":["aidilfitri","hari raya aidilfitri","malam raya"],"eye":["ain","bidik","korunk","mata","mata jahat"],"excrement":["air besar","tahi"],"end":["akhir","buntut","hapus"],"ethics":["akhlak","etika"],"environment":["alam sekitar"],"exclamation":["alamak","amboi","fuh","fuyoh","jeritan","weh"],"edge":["ambang","ngilu","paksi","pinggir","tebing","tepi"],"expressing":["amboi"],"empat":["ampat","pat"],"ellipsis":["anak saudara","angkasa","berbuka","telerang","telunjuk","tepung penaik"],"enam":["anam","nam"],"earring":["anting-anting","subang"],"earth":["apa benda","ardi","bentala","buana","bumi"],"essential":["asasi"],"eight":["asta","delapan","lapan","lapan ratus","lapan ribu","oktagon"],"existence":["ateistik","keadaan"],"explosive":["bahan letupan","letupan"],"english":["bahasa orang putih","inggeris"],"epiphyllum":["bakawali","kengwa"],"embers":["bara"],"encumbrance":["beban"],"estimation":["bebanjau"],"eyeball":["bebola mata"],"employed":["bekerja"],"expense":["belanja","biaya"],"expenditure":["belanja"],"esp":["belek","sotong","tirai"],"eel":["belut","belut tuna"],"expanse":["bentangan"],"ethical":["berakhlak"],"engage":["berekreasi","obrol"],"emotions":["beremosi"],"esok":["beresok","besok","sok"],"effective":["berkuatkuasa"],"excess":["berlebih","selebih"],"enough":["berlebih","cukup","kurang","sudahlah"],"eloquent":["berlidah fasih","fasih lidah"],"easy":["bermudah-mudah","kemudahan","kerusi rehat","memudahkan","palingan","plastis"],"evil-minded":["berniat jahat"],"each":["bersesalan","curiga-mencurigai","masing","roti paun","saling","setiap"],"earnest":["bersungguh"],"earnestly":["bersungguh-sungguh"],"eggs":["bertelur"],"equivalent":["biarawati","mahasiswi","seniwati","siswi","wartawati"],"electricity":["bil api","elektrik","elektrik statik"],"extremely":["bisa","bulur","gelemat"],"eastern":["blok komunis"],"early":["bodok","embun belum kering lagi"],"elliptic":["bujur"],"enthusiastically":["bukan main"],"eyebrow":["bulu mansu","kening"],"eyelash":["bulu mata"],"elves":["bunian"],"eject":["bura","luah"],"earthworm":["cacing tanah"],"erection":["canggar"],"excellent":["cemerlang","elok"],"ensign":["cogan"],"example":["contoh","contohnya","mempercontohkan","mencontohkan","misal","misalnya"],"exemplary":["contohan","teladan"],"equal":["cupak","hun","sekedudukan"],"earlier":["dahulu","dulu","tadi"],"emergency":["darurat","kecemasan"],"expose":["dedah"],"eighteen":["delapan belas","lapan belas","satu puluh delapan","satu puluh lapan","sepuluh delapan","sepuluh lapan"],"envious":["dengki"],"endure":["derita","tahan"],"educate":["didik"],"edit":["diedit","edit","mengedit","suntingan"],"eksport":["dieksport","ekspot","mengeksport"],"ertikan":["diertikan","mengertikan"],"endowed":["dikurniakan"],"enrich":["diperkaya"],"embroidered":["disulam"],"evildoer":["durjana"],"email":["e-mel"],"e-sports":["e-sukan"],"edition":["edisi"],"evade":["egos"],"egocentric":["egosentrik","tinggi diri"],"egocentrism":["egosentrisme"],"egotism":["egotisme"],"ehsan":["ehsan"],"einsteinium":["einsteinium"],"ecology":["ekologi","kaji alam hayat"],"econometrics":["ekonometrik"],"economy":["ekonomi","nasi campur"],"expressway":["ekspreswe","jalan ekspres","lebuh raya","lebuh raya ekspres"],"extrapolation":["ekstrapolasi"],"extremist":["ekstremis","pelampau","penunggang agama"],"exhaust":["ekzos"],"eagle":["elang","helang","lang","pari burung","pari lang"],"elastic":["elastik"],"electrode":["elektrod hidrogen piawai"],"electrolysis":["elektrolisis"],"electron":["elektron","petala elektron"],"electronic":["elektronik","mengecas","sukan elektronik"],"elite":["elit"],"e-mel":["emel"],"emirates":["emiriah arab bersatu"],"emotion":["emosi"],"emotional":["emosional"],"empire":["empayar"],"england":["england"],"encyclopedia":["ensiklopedia"],"entity":["entiti","rejim zionis"],"enzyme":["enzim"],"er":["er"],"erbium":["erbium"],"europe":["eropah"],"explanation":["ertian","keterangan","pengertian","penjelasan"],"euphoria":["euforia"],"excited":["euforia","teruja"],"europium":["europium"],"evolution":["evolusi"],"extracts":["fitoterapi"],"epic":["gaban"],"elephant":["gajah","kusa","leman","liman"],"echo":["gaung","gema","guk","kumandang"],"exactly":["gelen","itulah tu","persis"],"excessive":["gelojoh"],"eating":["gelojoh","masak","tanak"],"excitement":["gembira"],"earthquake":["gempa bumi"],"even":["genap","mahupun","meskipun","rata","sekalipun","walau"],"eclipse":["gerhana"],"empty":["gersang","hampa","hana","kosong","lengang","luang"],"electric":["gitar elektrik","pagar elektrik","pari karan"],"equatorial":["guinea khatulistiwa"],"educator":["guru"],"ethiopia":["habsyah"],"erode":["hakis"],"extinguish":["hapus"],"estate":["hartanah","kawasan perindustrian"],"entertain":["hibur"],"entertainment":["hiburan"],"estimate":["hitung-hitung"],"endmost":["hujung"],"extend":["hulur"],"elaboration":["huraian"],"eat":["idam","makan","santap"],"effort":["ikhtiar","usaha"],"endeavour":["ikhtiar"],"extra":["imbuh"],"eager":["ingin"],"eider":["itik baldu"],"evil":["jahat","kejahatan","mata jahat"],"explore":["jajah","jelajah","terokai"],"emblem":["jata","lambang"],"explain":["jelaskan","menyatakan"],"earth-bound":["jembalang"],"economical":["jimat"],"encounter":["jumpa","tembung","temu"],"emperor":["kaisar","maharaja","maharani","raja besar"],"enthusiast":["kaki karok","mat kereta","mat motor","penggemar"],"era":["kala","semasa"],"exclusive":["kami","kita orang"],"enclosure":["kandang"],"except":["kecuali"],"eatery":["kedai makan","medan selera"],"enjoyment":["kegemaran"],"engineering":["kejuruteraan"],"eighth":["kelapan"],"eligibility":["kelayakan"],"ereyesterday":["kelmarin"],"exit":["keluar"],"easiness":["kemudahan"],"earthenware":["kendi","takar","tempayan"],"easily":["kenyaringan","mudah","sempol"],"else":["kerelatifan","pendukung"],"error":["kesalahan","kesilapan","ralat"],"effect":["kesan fotoelektrik"],"eleven":["kesebelasan","satu belas","satu puluh satu","sebelas","sebelas ribu","sepuluh satu"],"equilibrium":["keseimbangan"],"every":["kesemua","semua","serba salah","setiap","tiap"],"ease":["kesenangan","mudah","sejahtera","senang diri"],"equanimity":["ketenangan"],"equator":["khatulistiwa"],"exilis":["kijing"],"extracurriculum":["koku"],"egg":["kuning telur","telur"],"ear":["kuping","radang telinga","telinga"],"edible":["lala","latuh","lokan","sayur","umbut"],"eventually":["lama-lama"],"eighty":["lapan puluh"],"eighty-two":["lapan puluh dua"],"eighty-four":["lapan puluh empat"],"eighty-six":["lapan puluh enam"],"eighty-eight":["lapan puluh lapan"],"eighty-five":["lapan puluh lima"],"eighty-one":["lapan puluh satu"],"eighty-nine":["lapan puluh sembilan"],"eighty-three":["lapan puluh tiga"],"eighty-seven":["lapan puluh tujuh"],"expert":["lebai","pakar","teknokrat"],"elevator":["lif"],"extraordinary":["luar biasa","mantul"],"expired":["luput"],"expensive":["mahal","mubazir"],"executioner":["maharajalela","pertanda"],"empress":["maharani"],"emak":["mak","umak"],"elaborate":["malai"],"elder":["mamak","taci"],"ex-":["mantan"],"emas":["mas"],"enter":["masuk","masuki","memasuki"],"egoist":["mat pen"],"erectile":["mati pucuk"],"enclose":["memagari"],"embarrass":["memalukan","putihkan mata"],"embarrassment":["memalukan"],"enlarge":["membesarkan"],"equate":["memisalkan","misalkan"],"extract":["menarik","peras"],"eye-catching":["mencolok mata"],"enable":["mengaktifkan"],"erti":["mengerti"],"escalate":["menjadi-jadi"],"embroider":["menyulam","sulam"],"egypt":["mesir","mesir purba"],"extravagant":["mewah"],"eaten":["moreh"],"engaging":["mujahid"],"enemy":["musuh"],"either":["nasi"],"establishing":["normatif"],"extinguished":["padam"],"eschrichtius":["paus kelabu"],"equipment":["pawai","perkakasan"],"entering":["pecah masuk"],"employee":["pekerja"],"employment":["pekerjaan"],"embrace":["peluk"],"eraser":["pemadam"],"extinguisher":["pemadam api"],"establishment":["pemfrancaisan"],"exhausted":["penat"],"education":["pendidikan","pendidikan fizikal","pendidikan jasmani","reformasi pendidikan","studen"],"emphasis":["penekanan"],"enslavement":["pengabdian"],"experience":["pengalaman"],"exception":["pengecualian"],"editor":["pengedit"],"editing":["pengeditan"],"exporter":["pengeksport"],"exportation":["pengeksportan"],"export":["pengeksportan"],"excavation":["penggalian"],"eyesight":["penglihatan"],"elucidation":["penjelasan"],"european":["peranggi"],"examine":["periksa"],"event":["peristiwa"],"equivalence":["persamaan"],"engagement":["pertunangan"],"election":["pilihan raya","pilihan raya umum","pungutan suara"],"effeminate":["pondan"],"enormous":["raksasa"],"exhibiting":["rasis"],"editorial":["redaksi"],"electoral":["reformasi pengundian"],"electrical":["ribut petir"],"eru":["ru"],"execute":["salang"],"envelope":["sampul"],"easygoing":["santai","sempoi"],"entire":["seantero","sekeluarga","seluruh"],"equative":["sebaik","sebiru","secantik","selancar"],"ekor":["seekor"],"everything":["segala","semuanya"],"esok-esok":["seksok"],"evermore":["selalu"],"eternally":["selama-lamanya"],"endlessly":["selama-lamanya"],"enjoy":["selamat menjamu selera"],"exaggerate":["sembang konek","sembang kote"],"exercise":["senam"],"ethnic":["sengkek"],"enjoyable":["seronok","syok"],"exclaim":["seru"],"elbow":["siku"],"expressions":["slanga"],"embezzle":["songlap"],"embroidery":["suji"],"earliest":["sulung"],"eldest":["sulung"],"ebb":["susut"],"entah":["tah"],"ended":["tamat"],"embankment":["tambak"],"ears":["taruk angsoka"],"epidemic":["taun","wabak"],"erect":["tegak"],"evaporated":["teh c"],"energy":["tenaga keupayaan","tenaga kinetik"],"eternalised":["terabadi"],"emerge":["terbit","timbul"],"enthusiastic":["teruja"],"eggplant":["terung ungu"],"east":["timur"],"electronics":["type c"],"excite":["uja"],"examination":["ujian"],"element":["unsur"],"endo":["wikang"],"excellency":["yang berhormat"],"emerald":["zamrud"]}}
+e-mel	emel|n
+e-sports	e-sukan|n
+each	bersesalan|v,curiga-mencurigai|v,masing|det,roti paun|n,saling|adv,setiap|adj
+eager	ingin|adv
+eagle	elang|n,helang|n,lang|n,pari burung|n,pari lang|n
+ear	kuping|n,radang telinga|n,telinga|n
+earlier	dahulu|adv,dulu|adv,tadi|adv
+earliest	sulung|adj
+early	bodok|n,embun belum kering lagi|adv
+earnest	bersungguh|adj
+earnestly	bersungguh-sungguh|adv
+earring	anting-anting|n,subang|n
+ears	taruk angsoka|n
+earth	apa benda|pron,ardi|n,bentala|n,buana|n,bumi|n
+earth-bound	jembalang|n
+earthenware	kendi|n,takar|n,tempayan|n
+earthquake	gempa bumi|n
+earthworm	cacing tanah|n
+ease	kesenangan|n,mudah|adj,sejahtera|n,senang diri|n
+easily	kenyaringan|n,mudah|adj,sempol|adj
+easiness	kemudahan|n
+east	timur|n
+eastern	blok komunis|n
+easy	bermudah-mudah|v,kemudahan|n,kerusi rehat|n,memudahkan|v,palingan|n,plastis|adj
+easygoing	santai|adj,sempoi|adj
+eat	idam|v,makan|v,santap|v
+eaten	moreh|n
+eatery	kedai makan|n,medan selera|n
+eating	gelojoh|adj,masak|v,tanak|v
+ebb	susut|v
+ebony	abnus|n
+echo	gaung|n,gema|n,guk|n,kumandang|n
+eclipse	gerhana|n
+ecology	ekologi|n,kaji alam hayat|n
+econometrics	ekonometrik|n
+economical	jimat|adj
+economy	ekonomi|n,nasi campur|n
+edge	ambang|n,ngilu|n,paksi|n,pinggir|n,tebing|n,tepi|n
+edible	lala|n,latuh|n,lokan|n,sayur|n,umbut|n
+edit	diedit|v,edit|v,mengedit|v,suntingan|n
+editing	pengeditan|n
+edition	edisi|n
+editor	pengedit|n
+editorial	redaksi|n
+educate	didik|v
+education	pendidikan|n,pendidikan fizikal|n,pendidikan jasmani|n,reformasi pendidikan|n,studen|n
+educator	guru|n
+eel	belut|n,belut tuna|n
+effect	kesan fotoelektrik|n
+effective	berkuatkuasa|v
+effeminate	pondan|n
+effort	ikhtiar|n,usaha|n
+egg	kuning telur|n,telur|n
+eggplant	terung ungu|n
+eggs	bertelur|v
+egocentric	egosentrik|adj,tinggi diri|adj
+egocentrism	egosentrisme|n
+egoist	mat pen|n
+egotism	egotisme|n
+egypt	mesir,mesir purba
+ehsan	ehsan
+eid	aidilfitri,hari raya aidilfitri,malam raya|n
+eider	itik baldu|n
+eight	asta|num,delapan|num,lapan|num,lapan ratus|num,lapan ribu|num,oktagon|n
+eighteen	delapan belas|num,lapan belas|num,satu puluh delapan|num,satu puluh lapan|num,sepuluh delapan|num,sepuluh lapan|num
+eighth	kelapan|num
+eighty	lapan puluh|num
+eighty-eight	lapan puluh lapan|num
+eighty-five	lapan puluh lima|num
+eighty-four	lapan puluh empat|num
+eighty-nine	lapan puluh sembilan|num
+eighty-one	lapan puluh satu|num
+eighty-seven	lapan puluh tujuh|num
+eighty-six	lapan puluh enam|num
+eighty-three	lapan puluh tiga|num
+eighty-two	lapan puluh dua|num
+einsteinium	einsteinium|n
+either	nasi|n
+eject	bura|v,luah|v
+ekor	seekor|cls
+eksport	dieksport|v,ekspot|n,mengeksport|v
+elaborate	malai|n
+elaboration	huraian|n
+elastic	elastik|adj
+elbow	siku|n
+elder	mamak|n,taci|n
+eldest	sulung|adj
+election	pilihan raya|n,pilihan raya umum|n,pungutan suara|n
+electoral	reformasi pengundian|n
+electric	gitar elektrik|n,pagar elektrik|n,pari karan|n
+electrical	ribut petir|n
+electricity	bil api|n,elektrik|n,elektrik statik|n
+electrode	elektrod hidrogen piawai|n
+electrolysis	elektrolisis|n
+electron	elektron|n,petala elektron|n
+electronic	elektronik|adj,mengecas|v,sukan elektronik|n
+electronics	type c|n
+element	unsur|n
+elephant	gajah|n,kusa|n,leman|n,liman|n
+elevator	lif|n
+eleven	kesebelasan|n,satu belas|num,satu puluh satu|num,sebelas|num,sebelas ribu|num,sepuluh satu|num
+eligibility	kelayakan|n
+elite	elit|n
+ellipsis	anak saudara|n,angkasa,berbuka|v,telerang|n,telunjuk|n,tepung penaik|n
+elliptic	bujur|adj
+eloquent	berlidah fasih|adj,fasih lidah|adj
+else	kerelatifan|n,pendukung|n
+elucidation	penjelasan|n
+elves	bunian|n
+email	e-mel|n
+emak	mak|n,umak|n
+emas	mas|n
+embankment	tambak|n
+embarrass	memalukan|v,putihkan mata|v
+embarrassment	memalukan|v
+embers	bara|n
+embezzle	songlap|v
+emblem	jata|n,lambang|n
+embrace	peluk|v
+embroider	menyulam|v,sulam|v
+embroidered	disulam|v
+embroidery	suji|n
+emerald	zamrud|n
+emerge	terbit|v,timbul|v
+emergency	darurat|n,kecemasan|n
+emirates	emiriah arab bersatu
+emotion	emosi|n
+emotional	emosional|adj
+emotions	beremosi|v
+empat	ampat|num,pat|num
+emperor	kaisar|n,maharaja|n,maharani|n,raja besar|n
+emphasis	penekanan|n
+empire	empayar|n
+employed	bekerja|v
+employee	pekerja|n
+employment	pekerjaan|n
+empress	maharani|n
+empty	gersang|adj,hampa|adj,hana|adj,kosong|adj,lengang|adj,luang|adj
+enable	mengaktifkan|v
+enam	anam|num,nam|num
+enclose	memagari|v
+enclosure	kandang|n
+encounter	jumpa|v,tembung|v,temu|v
+encumbrance	beban|n
+encyclopedia	ensiklopedia|n
+end	akhir|adj,buntut|n,hapus|v
+endeavour	ikhtiar|n
+ended	tamat|adj
+endlessly	selama-lamanya|adv
+endmost	hujung|adj
+endo	wikang|n
+endowed	dikurniakan|v
+endure	derita|v,tahan|v
+enemy	musuh|n
+energy	tenaga keupayaan|n,tenaga kinetik|n
+engage	berekreasi|v,obrol|v
+engagement	pertunangan|n
+engaging	mujahid|n
+engineering	kejuruteraan|n
+england	england
+english	bahasa orang putih,inggeris
+enjoy	selamat menjamu selera
+enjoyable	seronok|adj,syok|adj
+enjoyment	kegemaran|n
+enlarge	membesarkan|v
+enmity	adawat|n
+enormous	raksasa|adj
+enough	berlebih|v,cukup|adj,kurang|adj,sudahlah
+enrich	diperkaya|v
+ensign	cogan|n
+enslave	abdikan|v
+enslavement	pengabdian|n
+entah	tah
+enter	masuk|v,masuki|v,memasuki|v
+entering	pecah masuk|n
+entertain	hibur|v
+entertainment	hiburan|n
+enthusiast	kaki karok|n,mat kereta|n,mat motor|n,penggemar|n
+enthusiastic	teruja|adj
+enthusiastically	bukan main|adv
+entire	seantero|det,sekeluarga|n,seluruh|det
+entity	entiti|n,rejim zionis
+envelope	sampul|n
+envious	dengki|adj
+environment	alam sekitar|n
+enzyme	enzim|n
+epic	gaban|adj
+epidemic	taun|n,wabak|n
+epiphyllum	bakawali|n,kengwa|n
+equal	cupak|n,hun|n,sekedudukan|adj
+equanimity	ketenangan|n
+equate	memisalkan|v,misalkan|v
+equative	sebaik|adj,sebiru|adj,secantik|adj,selancar|adj
+equator	khatulistiwa|n
+equatorial	guinea khatulistiwa
+equilibrium	keseimbangan|n
+equipment	pawai|n,perkakasan|n
+equivalence	persamaan|n
+equivalent	biarawati|n,mahasiswi|n,seniwati|n,siswi|n,wartawati|n
+er	er
+era	kala|n,semasa|adj
+eraser	pemadam|n
+erbium	erbium|n
+erect	tegak|adj
+erectile	mati pucuk|n
+erection	canggar|n
+ereyesterday	kelmarin|n
+erode	hakis|v
+error	kesalahan|n,kesilapan|n,ralat|n
+erti	mengerti|v
+ertikan	diertikan|v,mengertikan|v
+eru	ru|n
+escalate	menjadi-jadi|v
+eschrichtius	paus kelabu|n
+esok	beresok|n,besok|n,sok|n
+esok-esok	seksok|adv
+esp	belek|v,sotong|n,tirai|n
+essential	asasi|adj
+establishing	normatif|adj
+establishment	pemfrancaisan|n
+estate	hartanah|n,kawasan perindustrian|n
+estimate	hitung-hitung|v
+estimation	bebanjau|n
+eternal	abadi|adj,abadiah|adj,kekal|adj
+eternalised	terabadi|adj
+eternally	selama-lamanya|adv
+ethical	berakhlak|adj
+ethics	akhlak|n,etika|n
+ethiopia	habsyah
+ethnic	sengkek|n
+euphoria	euforia|n
+europe	eropah
+european	peranggi|n
+europium	europium|n
+evade	egos|v
+evaporated	teh c|n
+even	genap|adj,mahupun|conj,meskipun|conj,rata|adj,sekalipun|conj,walau|conj
+event	peristiwa|n
+eventually	lama-lama|adv
+everlasting	abadi|adj,kekal|adj
+evermore	selalu|adv
+every	kesemua|det,semua|pron,serba salah|adj,setiap|adj,tiap|det
+everything	segala|pron,semuanya|n
+evil	jahat|adj,kejahatan|n,mata jahat|n
+evil-minded	berniat jahat|adj
+evildoer	durjana|n
+evolution	evolusi|n
+ex-	mantan|adj
+exactly	gelen|n,itulah tu,persis|adv
+exaggerate	sembang konek|v,sembang kote|v
+examination	ujian|n
+examine	periksa|v
+example	contoh|n,contohnya|prep,mempercontohkan|v,mencontohkan|v,misal|n,misalnya|prep
+excavation	penggalian|n
+excellency	yang berhormat|pron
+excellent	cemerlang|adj,elok|adj
+except	kecuali|prep
+exception	pengecualian|n
+excess	berlebih|v,selebih|n
+excessive	gelojoh|adj
+excite	uja|v
+excited	euforia|n,teruja|adj
+excitement	gembira|adj
+exclaim	seru|v
+exclamation	alamak,amboi,fuh,fuyoh,jeritan|n,weh
+exclusive	kami|pron,kita orang|pron
+excrement	air besar|n,tahi|n
+execute	salang|v
+executioner	maharajalela|n,pertanda|v
+exemplary	contohan|adj,teladan|n
+exercise	senam|v
+exhaust	ekzos|n
+exhausted	penat|adj
+exhibiting	rasis|adj
+exilis	kijing|n
+existence	ateistik|adj,keadaan|n
+exit	keluar|v
+expanse	bentangan|n
+expenditure	belanja|n
+expense	belanja|n,biaya|n
+expensive	mahal|adj,mubazir|adj
+experience	pengalaman|n
+expert	lebai|n,pakar|n,teknokrat|n
+expired	luput|adj
+explain	jelaskan|v,menyatakan|v
+explanation	ertian|n,keterangan|n,pengertian|n,penjelasan|n
+explore	jajah|v,jelajah|v,terokai|v
+explosive	bahan letupan|n,letupan|adj
+export	pengeksportan|n
+exportation	pengeksportan|n
+exporter	pengeksport|n
+expose	dedah|v
+express	ah|part,apakah,au,ekspres|adj,er,ewah
+expressing	amboi
+expression	aduh,alamak,cis,hampas,kus,mak kau hijau
+expressions	slanga|n
+expressway	ekspreswe|n,jalan ekspres|n,lebuh raya|n,lebuh raya ekspres|n
+extend	hulur|v
+extinguish	hapus|v
+extinguished	padam|adj
+extinguisher	pemadam api|n
+extra	imbuh|n
+extract	menarik|v,peras|v
+extracts	fitoterapi|n
+extracurriculum	koku|n
+extraordinary	luar biasa|adj,mantul|adj
+extrapolation	ekstrapolasi|n
+extravagant	mewah|adj
+extremely	bisa|adj,bulur|adj,gelemat|adj
+extremist	ekstremis|n,pelampau|n,penunggang agama|n
+eye	ain|n,bidik|v,korunk|pron,mata|n,mata jahat|n
+eye-catching	mencolok mata|adj
+eyeball	bebola mata|n
+eyebrow	bulu mansu|n,kening|n
+eyelash	bulu mata|n
+eyesight	penglihatan|n

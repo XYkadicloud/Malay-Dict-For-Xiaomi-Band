@@ -1,1 +1,101 @@
-{"en2ms":{"just":["adil","baru","mualaf","persis","sekadar","tadi"],"juniper":["arar"],"javanese":["ari","tepus"],"jebung":["ayam-ayam"],"job":["ayub","curi tulang","gawai","jawatan","pekerjaan"],"jewellery":["barang kemas"],"joke":["beracah-acah","gurau","jenaka"],"jointly":["bersama-sama"],"joint":["buku","kongsi","sendi"],"june":["bulan enam","jun"],"january":["bulan satu","januari"],"july":["bulan tujuh","julai"],"join":["cantum","sambung","turut"],"jealous":["cemburu"],"jempana":["cempana"],"journey":["cengkerama","perjalanan"],"jijik":["cicik"],"jelly":["cincau"],"joss":["colok"],"jittery":["cuak"],"jajah":["dijajah","menjajah"],"jelaskan":["dijelaskan","menjelaskan"],"jemur":["dijemur"],"jepunkan":["dijepunkan","menjepunkan"],"jinggakan":["dijinggakan","menjinggakan"],"justifikasikan":["dijustifikasikan","menjustifikasikan"],"joy":["euforia","nikmat"],"juga":["gak","jugak"],"jackhammer":["gerudi tukul"],"judge":["hakim"],"jungle":["hutan rimba","rimba","rintis","undang-undang rimba"],"jesus":["iesu christi","isa","maria","yesus"],"jug":["jag"],"jaguar":["jaguar"],"jahe":["jahi"],"jackal":["jakal"],"jakarta":["jakarta"],"jabatan":["jakoa","jpm","jpn"],"jalan":["jalan-jalan"],"jamaica":["jamaica"],"januari":["jan"],"japen":["japen"],"jargon":["jargon"],"java":["jawa"],"jawapan":["jawaban","jwpn"],"johor":["jb","johor","johor bahru","ulu tiram"],"jawi-jawi":["jejawi"],"jelutong":["jelutong"],"jam":["jem","kesesakan","waktu kerja"],"japan":["jepang","jepun"],"japanese":["jepunkan","ramen","syinto"],"jetty":["jeti"],"jangan":["jgn"],"joget":["joget"],"jong":["jong"],"julai":["jul"],"jurong":["jurong"],"jurubahasa":["juru bahasa"],"juice":["jus"],"jawatan":["jusa"],"justification":["justifikasi"],"justify":["justifikasikan"],"juvenile":["juvenil"],"justice":["keadilan"],"jackfruit":["kebabal","nangka"],"jessamine":["kemuning"],"jar":["kendi"],"journalism":["kewartawanan"],"jamaluddin":["kj"],"jewelfish":["lahu"],"javelin":["lembing"],"jail":["lokap","penjara"],"jumping":["lompat"],"jump":["lompat","terjun"],"jasmine":["melati","melur"],"jerk":["menyentak","sentakan"],"jihad":["mujahid"],"jupiter":["musytari"],"jokester":["pelawak"],"jester":["peran"],"judiciary":["perdata"],"jewel":["permata"],"junction":["persimpangan","simpang"],"jaya":["petaling jaya"],"jasmani":["pj"],"jaw":["rahang"],"jovial":["riang"],"john":["roti john"],"jequirity":["saga"],"jadi":["semulajadi"],"jicama":["sengkuang"],"jack-o":["tanglung labu"],"jari":["telunjuk"],"javanica":["tepus"],"jab":["tujah"],"jellyfish":["ubur-ubur"],"junk":["wangkang"],"journalist":["wartawan"],"jacob":["yaakub"],"jerusalem":["yerusalem"],"joseph":["yusuf"]}}
+jab	tujah|v
+jabatan	jakoa,jpm,jpn
+jack-o	tanglung labu|n
+jackal	jakal|n
+jackfruit	kebabal|n,nangka|n
+jackhammer	gerudi tukul|n
+jacob	yaakub
+jadi	semulajadi|n
+jaguar	jaguar|n
+jahe	jahi|n
+jail	lokap|n,penjara|n
+jajah	dijajah|v,menjajah|v
+jakarta	jakarta
+jalan	jalan-jalan
+jam	jem|n,kesesakan|n,waktu kerja|n
+jamaica	jamaica
+jamaluddin	kj
+jangan	jgn
+januari	jan
+january	bulan satu|n,januari
+japan	jepang,jepun
+japanese	jepunkan|v,ramen|n,syinto
+japen	japen
+jar	kendi|n
+jargon	jargon|n
+jari	telunjuk|n
+jasmani	pj|n
+jasmine	melati|n,melur|n
+java	jawa
+javanese	ari|n,tepus|n
+javanica	tepus|n
+javelin	lembing|n
+jaw	rahang|n
+jawapan	jawaban|n,jwpn
+jawatan	jusa|n
+jawi-jawi	jejawi|n
+jaya	petaling jaya
+jealous	cemburu|adj
+jebung	ayam-ayam|n
+jelaskan	dijelaskan|v,menjelaskan|v
+jelly	cincau|n
+jellyfish	ubur-ubur|n
+jelutong	jelutong
+jempana	cempana|n
+jemur	dijemur|v
+jepunkan	dijepunkan|v,menjepunkan|v
+jequirity	saga|n
+jerk	menyentak|v,sentakan|n
+jerusalem	yerusalem
+jessamine	kemuning|n
+jester	peran|n
+jesus	iesu christi,isa,maria,yesus
+jetty	jeti|n
+jewel	permata|n
+jewelfish	lahu|n
+jewellery	barang kemas|n
+jicama	sengkuang|n
+jihad	mujahid|n
+jijik	cicik|adj
+jinggakan	dijinggakan|v,menjinggakan|v
+jittery	cuak|adj
+job	ayub,curi tulang|v,gawai|n,jawatan|n,pekerjaan|n
+joget	joget|v
+john	roti john|n
+johor	jb,johor,johor bahru,ulu tiram
+join	cantum|v,sambung|v,turut|v
+joint	buku|n,kongsi|n,sendi|n
+jointly	bersama-sama|adv
+joke	beracah-acah|v,gurau|n,jenaka|n
+jokester	pelawak|n
+jong	jong|n
+joseph	yusuf
+joss	colok|n
+journalism	kewartawanan|n
+journalist	wartawan|n
+journey	cengkerama|n,perjalanan|n
+jovial	riang|adj
+joy	euforia|n,nikmat|n
+judge	hakim|n
+judiciary	perdata|n
+jug	jag|n
+juga	gak|adv,jugak|adv
+juice	jus|n
+julai	jul
+july	bulan tujuh|n,julai
+jump	lompat|n,terjun|v
+jumping	lompat|n
+junction	persimpangan|n,simpang|n
+june	bulan enam|n,jun
+jungle	hutan rimba|n,rimba|n,rintis|n,undang-undang rimba|n
+juniper	arar|n
+junk	wangkang|n
+jupiter	musytari
+jurong	jurong
+jurubahasa	juru bahasa|n
+just	adil|adj,baru|adj,mualaf|n,persis|adv,sekadar|adv,tadi|adv
+justice	keadilan|n
+justification	justifikasi|n
+justifikasikan	dijustifikasikan|v,menjustifikasikan|v
+justify	justifikasikan|v
+juvenile	juvenil|n

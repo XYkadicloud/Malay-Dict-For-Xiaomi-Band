@@ -1,1 +1,372 @@
-{"en2ms":{"forever":["abad al-abad","selalu","selama-lamanya"],"father":["abah","abuya","aya","ayah","ayah angkat","ayah kandung"],"firefighter":["abang bomba","ahli bomba"],"floss":["abon"],"first-person":["abui","abuk","bandarkan","kotai","kotakan","negaraku"],"feign":["acah","mengacah","mengacah-acah"],"feigning":["acahan"],"frequently":["acap","acap kali","kaki disko","sering","soalan lazim"],"fill":["acapi","mengisi"],"first":["adam","aku","anak sulung","awal","kami","kaola"],"fennel":["adas landi"],"fair":["adil"],"floodwater":["air bah"],"faeces":["air besar"],"fountain":["air pancut"],"fruit":["alap","belimbing","berbuah","buah","ciku","halwa"],"framework":["alas"],"faults":["alas kubur"],"flow":["aliran","arus","leleh","salir"],"fetch":["ambil"],"freedom":["ampun","kebebasan"],"female":["amput","anjing betina","asu betina","biarawati","bibi","farhana"],"fishling":["anak ikan"],"fry":["anak ikan","goreng"],"fourth":["anak pandak","keempat","suku"],"fifth":["anak panjang","kelima"],"fantasy":["angan","fantasi","lamunan"],"fox":["anjing fox terrier","keluang","luncur keluang","rubah","rubah artik"],"fire":["api","balai bomba","bomba","cerawat","mencurah minyak ke api","nyala"],"float":["apung","luntang"],"fig":["ara","jawi-jawi"],"fleet":["armada"],"foundation":["asas","yayasan"],"fundamental":["asasi"],"foreign":["asing","wisma putra"],"forgiveness":["astaghfirullah","maaf"],"fried":["ayam goreng","nasi goreng"],"firm":["azam","padat","tegas"],"foolish":["babuk","jahil","sementung","tolol"],"foetida":["bacang","embacang","kembacang","macang","mancang","membacang"],"flood":["bah","banjir"],"fertilizer":["baja","pupuk"],"force":["bala","paksa"],"footrest":["bangku kaki"],"front":["barisan","depan"],"few":["baru","sedikit","sikit"],"fish":["baung","baung akar","baung pisang","berikan","bubu","budu"],"free":["bebas","gratis","masa lapang","masa lega","membebaskan","merdeka"],"fishball":["bebola ikan"],"frozen":["beku"],"fermented":["belacan"],"fissure":["belah"],"fidgety":["belisah","resah"],"field":["bendang","bidang","lapangan","otai","padang"],"flag":["bendera","bendera merah","jalur gemilang","panji","panji-panji"],"furious":["bengis"],"fort":["benteng","kota","mengotai"],"fortress":["benteng"],"feces":["berak","najis","tahi"],"furry":["berbulu"],"founded":["berdasar","berdasarkan"],"fun":["bergarah","ejek","kelucuan","menganjing","seronok","usik"],"follow":["berikut","ikut"],"following":["berikutnya","ikutan"],"filled":["berisi"],"figuratively":["berkaitan dengan","berkenaan dengan","curi ayam","oleh sebab itu","tanam anggur","tidak akan"],"folds":["berkedut"],"face":["berseba","hadap","mendada","menghadap","muka","peseban"],"full":["bersungguh-sungguh","jenuh","kenyang","khusyuk","nama penuh","penuh"],"fertilized":["biji"],"fitting":["bilik acu","padan","patut"],"fold":["biru-biru","kedut","kedutan","keledut","kerdut","lipat"],"favourite":["boga"],"false":["bohong","dajal","gigi palsu","kesedaran palsu","palsu","paus hitam"],"football":["bola sepak"],"fist":["buku lima","tinju"],"february":["bulan dua","februari"],"famished":["bulur"],"flower":["bunga","kembang","kesuma","ketam bunga"],"figure":["bunga bahasa","rajah","reca","susuk"],"forest":["bunian","hutan","pangan","rimba"],"foam":["busa"],"flee":["cabut"],"flaw":["cacat"],"fingerprint":["cap jari"],"flat":["capati","datar","dataran","keping","kuetiau","pamah"],"four":["catur","empat","empat ratus","empat ribu","itik sudu","pepejal"],"fluid":["cecair badan","ketuban","liter","tuban"],"fingers":["cekak"],"fast":["cepat","ekspres","imsak","kencang","laju","lancar"],"fragmented":["cerai-berai"],"folktale":["cerita rakyat"],"folk":["cerita rakyat"],"feeling":["cinta","mat pen","pening kepala","perasaan"],"fearful":["cuak"],"forehead":["dahi"],"fund":["dana"],"faith":["darul iman","iman","soleh"],"fat":["debab","gemuk","lemak","lemak trans","tambun"],"fever":["demam","pijau"],"fine":["denda","elok","halus"],"fahami":["difahami","memahami"],"fardukan":["difardukan","memfardukan"],"fasihkan":["difasihkan","memfasihkan"],"fikir":["difikir","fikiri","memikir","pikir"],"fikiri":["difikiri","memikiri"],"fikirkan":["difikirkan"],"formalkan":["diformalkan","memformalkan"],"francaiskan":["difrancaiskan","memfrancaiskan"],"followed":["diikuti"],"folded":["duduk bersimpuh"],"far":["dura","jauh","setakat","takat"],"fourteen":["empat belas","satu puluh empat","sepuluh empat"],"forty":["empat puluh"],"forty-two":["empat puluh dua"],"forty-four":["empat puluh empat"],"forty-six":["empat puluh enam"],"forty-eight":["empat puluh lapan"],"forty-five":["empat puluh lima"],"forty-one":["empat puluh satu"],"forty-nine":["empat puluh sembilan"],"forty-three":["empat puluh tiga"],"forty-seven":["empat puluh tujuh"],"finch":["emperit"],"firmly":["erat"],"fabric":["fabrik","langit-langit"],"fibers":["fabrik"],"file":["fail","kawad"],"fact":["fakta","memang","sebenarnya"],"factor":["faktor lorentz"],"faculty":["fakulti"],"family":["famili","insanak","keluarga","keluarga diraja","mawas","pohon keluarga"],"fanatic":["fanatik","taasub"],"fardu":["fardhu"],"farsang":["farsakh"],"fasilitator":["fasi"],"fluent":["fasih","fasihkan"],"facilitator":["fasilitator"],"facility":["fasiliti"],"fascist":["fasis"],"fascism":["fasisme"],"fatha":["fathah"],"fatwa":["fatwa"],"februari":["feb"],"federation":["federasi","federesyen"],"federacy":["federasi"],"federesyen":["federesen"],"feminist":["feminis"],"feminism":["feminisme"],"ferry":["feri"],"fermium":["fermium"],"fashion":["fesyen","gaya"],"fee":["fi"],"fidah":["fidzah"],"fiction":["fiksyen"],"filem":["filam","filpen"],"film":["filem"],"fuse":["fius","sumbu"],"flamingo":["flamingo"],"fluorine":["fluorin"],"formal":["formal","formalkan","informal","keformalan","melarang","melarangkan"],"forceps":["forsep"],"fossil":["fosil"],"franchise":["francais","francaiskan","pemfrancaisan"],"franchisee":["francaisi"],"franchisor":["francaisor"],"francium":["fransium"],"frequency":["frekuensi","kekerapan"],"fresco":["fresko"],"frost":["fros","ibun","nyahfros"],"function":["fungsi"],"futanari":["futanari"],"fight":["gaduh","juang","perjuangan"],"fail":["gagal","gawak","jual janji"],"fierce":["galak","ganas","garang"],"ferocious":["ganas","garang"],"fork":["garpu"],"fat-bellied":["gendut"],"fibre":["gentian","guni"],"fall":["gugur","jatuh","kejatuhan","musim gugur","musim luruh","penurunan"],"food":["gulai","luah","makanan","medan selera"],"finished":["habis","sudah","tamat"],"foul":["hangit"],"fetid":["hanyir"],"forbidden":["haram","terlarang"],"festival":["hari raya","perayaan","pesta kaul"],"fragrant":["harum","wangi"],"foot":["hentak","kaki","terajang"],"feast":["id","kenduri","makan-makan","santap"],"flashback":["imbas kembali"],"flesh":["isi"],"feral":["jalang","liar"],"flowerpot":["jambangan"],"finger":["jari hantu","jari kelengkeng","jari manis","jari telunjuk","jari tengah","kelengkeng"],"forefinger":["jari telunjuk"],"foxtail":["jawawut"],"ficus":["jawi-jawi"],"friday":["jumaat"],"fog":["kabut"],"foothill":["kaki bukit"],"fan":["kaki jiwang","kipas","mat rok","nyiru","peminat","penyokong"],"fastener":["kancing"],"frog":["katak","kodok"],"finish":["kautim","selesai"],"friend":["kawan","konco","member","rakan","sahabat","sobat"],"firewood":["kayu api"],"flooded":["keairan","sebak"],"flooding":["keairan"],"four-cornered":["keban"],"fluency":["kefasihan"],"failure":["kegagalan"],"forestry":["kehutanan","perhutanan"],"funny":["kekek","lawak","lucu","membadut-badutkan"],"flask":["kelalang"],"flowerpecker":["kelicap"],"firefly":["kelip-kelip"],"flying":["keluang","luncur keluang"],"firework":["kembang api"],"fortune":["kemujuran","suasti","tuah"],"fortunate":["kemujuran","mujur","nasib baik"],"french":["kentang goreng"],"fries":["kentang goreng"],"fart":["kentut"],"flatus":["kentut"],"foil":["kerajang","kerancang"],"frequent":["kerap"],"forbearance":["kesabaran"],"frightened":["ketakutan"],"fiddler":["ketam rebab"],"finance":["kewangan"],"factory":["kilang","pabrik"],"flash":["kilas"],"fiddle":["kodek"],"foul-smelling":["konjak"],"filth":["kotoran"],"forceful":["kuat"],"flat-headed":["kucing hutan"],"fishing":["kucing ikan","pancing","payang","pukat"],"fungus":["kulat"],"foreskin":["kulup"],"fewer":["kurang"],"falling":["labuh"],"final":["lah","muktamad"],"fly":["lalat","layang","terbang"],"floor":["lantai","tingkat"],"flay":["lapah"],"forbid":["larang","menegah","tegah"],"freeway":["lebuh raya"],"friable":["lempung","rapuh"],"five":["lima","lima ratus","lima ribu","panca","pancaindera","rukun"],"fifteen":["lima belas","satu puluh lima","sepuluh lima"],"fifty":["lima puluh"],"fifty-two":["lima puluh dua"],"fifty-four":["lima puluh empat"],"fifty-six":["lima puluh enam"],"fifty-eight":["lima puluh lapan"],"fifty-five":["lima puluh lima"],"fifty-one":["lima puluh satu"],"fifty-nine":["lima puluh sembilan"],"fifty-three":["lima puluh tiga"],"fifty-seven":["lima puluh tujuh"],"fatigued":["lorat"],"forget":["lupa"],"forward":["luru"],"former":["mahafiraun","mantan","purba"],"fresh":["makan angin"],"feedback":["maklum balas","suap balik"],"fruitful":["makmur"],"friendly":["manja"],"flare":["marak"],"future":["masa depan","nanti"],"famous":["masyhur","sohor","terkenal"],"familiar":["mat"],"free-running":["melincirkan"],"fence":["memagari","pagar","pagar elektrik"],"fix":["membaiki","tentukan"],"fulfil":["memperkotakan"],"flog":["mencari jejak dalam air"],"fuel":["mencurah minyak ke api"],"focus":["meneroka","mengelupas","menular","tumpu"],"flicker":["mengelip"],"find":["mengetahui"],"formerly":["merambong"],"forge":["meranduk"],"firecracker":["mercun"],"frivolously":["merepet","repet"],"federal":["mosko"],"fit":["muat","nyaman","segar"],"fancy":["mubazir","suji"],"finalize":["muktamadkan"],"foe":["musuh"],"fate":["nasib"],"fisherman":["nelayan"],"flawless":["nirmala"],"faultless":["nirmala"],"flame":["nyala"],"fake":["original"],"four-wheel":["pacuan empat roda"],"faham":["paham"],"fasal":["pasal"],"fin":["paus sirip","sirip"],"fen":["paya","rawa"],"fraction":["pecahan"],"fighter":["pejuang","pesawat pejuang","pesawat tempur"],"farmer":["peladang"],"frond":["pelepah"],"folder":["pelipat"],"fluids":["peluh"],"financing":["pembiayaan"],"finalization":["pemuktamadan"],"fermentation":["penapaian"],"flickering":["pendar"],"footer":["pengaki"],"flowering":["pengembangan"],"forestation":["penghutanan"],"faint":["pengsan","samar"],"feel":["penyaman","terasa"],"fresher":["penyaman"],"freshener":["penyegar udara"],"furniture":["perabot"],"forecaster":["peramal"],"france":["perancis"],"feud":["perang mulut"],"fairy":["peri-peri"],"fishery":["perikanan"],"flavour":["perisa","rasa"],"federated":["persekutuan mikronesia"],"fertilisation":["persenyawaan"],"farming":["pertanian","tani"],"fridge":["peti air batu","peti ais"],"freezer":["peti sejuk beku"],"foreword":["prakata"],"flight":["pramugari"],"fasting":["puasa"],"faded":["pucat"],"fascination":["pukau"],"fragrance":["raksi","wangian"],"fragile":["rapuh"],"frying":["rendang"],"foliage":["rimbunan"],"financial":["rugi"],"flank":["rusuk","samping"],"fasten":["semat"],"firearm":["senapang","senjata api"],"full-time":["sepenuh masa"],"functions":["serbaguna"],"flute":["seruling"],"futile":["sia-sia","tak guna"],"flipper":["sirip"],"fajr":["subuh"],"fertile":["subur"],"feudal":["syogun"],"frighten":["takutkan"],"fishes":["tamban"],"fare":["tambang"],"freight":["tambang"],"fatherland":["tanah air"],"fend":["tangkis"],"fez":["tarbus"],"fell":["tebang"],"flat-chested":["tekcik"],"firewall":["tembok api"],"fixedly":["tenung"],"flour":["tepung","tepung berserbuk penaik"],"fooled":["terperdaya"],"focused":["tertumpu"],"fixed":["tetap"],"fianc":["tunang"],"fiance":["tunang"],"fundamentalist":["walaun"],"fume":["wasap"],"freshwater":["yuyu"]}}
+fabric	fabrik|n,langit-langit|n
+face	berseba|v,hadap|v,mendada|v,menghadap|v,muka|n,peseban|n
+facilitator	fasilitator|n
+facility	fasiliti|n
+fact	fakta|n,memang|adv,sebenarnya|adv
+factor	faktor lorentz|n
+factory	kilang|n,pabrik|n
+faculty	fakulti|n
+faded	pucat|adj
+faeces	air besar|n
+faham	paham|n
+fahami	difahami|v,memahami|v
+fail	gagal|v,gawak|v,jual janji|v
+failure	kegagalan|n
+faint	pengsan|v,samar|adj
+fair	adil|adj
+fairy	peri-peri|n
+faith	darul iman,iman|n,soleh|adj
+fajr	subuh|n
+fake	original|adj
+fall	gugur|v,jatuh|v,kejatuhan|n,musim gugur|n,musim luruh|n,penurunan|n
+falling	labuh|adj
+false	bohong|adj,dajal|n,gigi palsu|n,kesedaran palsu|n,palsu|adj,paus hitam|n
+familiar	mat|n
+family	famili|n,insanak|n,keluarga|n,keluarga diraja|n,mawas|n,pohon keluarga|n
+famished	bulur|adj
+famous	masyhur|adj,sohor|adj,terkenal|adj
+fan	kaki jiwang|n,kipas|n,mat rok|n,nyiru|n,peminat|n,penyokong|n
+fanatic	fanatik|adj,taasub|adj
+fancy	mubazir|adj,suji|n
+fantasy	angan|n,fantasi|n,lamunan|n
+far	dura|adj,jauh|adj,setakat|prep,takat|prep
+fardu	fardhu|n
+fardukan	difardukan|v,memfardukan|v
+fare	tambang|n
+farmer	peladang|n
+farming	pertanian|n,tani|n
+farsang	farsakh|n
+fart	kentut|n
+fasal	pasal|n
+fascination	pukau|n
+fascism	fasisme|n
+fascist	fasis|n
+fashion	fesyen|n,gaya|n
+fasihkan	difasihkan|v,memfasihkan|v
+fasilitator	fasi|n
+fast	cepat|adj,ekspres|adj,imsak|n,kencang|adj,laju|adj,lancar|adj
+fasten	semat|v
+fastener	kancing|n
+fasting	puasa|n
+fat	debab|adj,gemuk|adj,lemak|n,lemak trans|n,tambun|adj
+fat-bellied	gendut|adj
+fate	nasib|n
+fatha	fathah|n
+father	abah|n,abuya|n,aya|n,ayah|n,ayah angkat|n,ayah kandung|n
+fatherland	tanah air|n
+fatigued	lorat|adj
+fatwa	fatwa|n
+faultless	nirmala|adj
+faults	alas kubur|n
+favourite	boga|n
+fearful	cuak|adj
+feast	id|n,kenduri|n,makan-makan|n,santap|v
+februari	feb
+february	bulan dua|n,februari
+feces	berak|n,najis|n,tahi|n
+federacy	federasi|n
+federal	mosko
+federated	persekutuan mikronesia
+federation	federasi|n,federesyen|n
+federesyen	federesen|n
+fee	fi|n
+feedback	maklum balas|n,suap balik|n
+feel	penyaman|n,terasa|v
+feeling	cinta|n,mat pen|n,pening kepala|adj,perasaan|n
+feign	acah|v,mengacah|v,mengacah-acah|v
+feigning	acahan|n
+fell	tebang|v
+female	amput|n,anjing betina|n,asu betina|n,biarawati|n,bibi|n,farhana
+feminism	feminisme|n
+feminist	feminis|n
+fen	paya|n,rawa|n
+fence	memagari|v,pagar|n,pagar elektrik|n
+fend	tangkis|v
+fennel	adas landi|n
+feral	jalang|adj,liar|adj
+fermentation	penapaian|v
+fermented	belacan|n
+fermium	fermium|n
+ferocious	ganas|adj,garang|adj
+ferry	feri|n
+fertile	subur|adj
+fertilisation	persenyawaan|n
+fertilized	biji|n
+fertilizer	baja|n,pupuk|n
+festival	hari raya|n,perayaan|n,pesta kaul
+fetch	ambil|v
+fetid	hanyir|adj
+feud	perang mulut|n
+feudal	syogun|n
+fever	demam|n,pijau|n
+few	baru|adj,sedikit|adj,sikit|adj
+fewer	kurang|adj
+fez	tarbus|n
+fianc	tunang|n
+fiance	tunang|n
+fibers	fabrik|n
+fibre	gentian|n,guni|n
+fiction	fiksyen|n
+ficus	jawi-jawi|n
+fidah	fidzah|n
+fiddle	kodek|v
+fiddler	ketam rebab|n
+fidgety	belisah|adj,resah|adj
+field	bendang|n,bidang|n,lapangan|n,otai|n,padang|n
+fierce	galak|adj,ganas|adj,garang|adj
+fifteen	lima belas|num,satu puluh lima|num,sepuluh lima|num
+fifth	anak panjang|n,kelima|adj
+fifty	lima puluh|num
+fifty-eight	lima puluh lapan|num
+fifty-five	lima puluh lima|num
+fifty-four	lima puluh empat|num
+fifty-nine	lima puluh sembilan|num
+fifty-one	lima puluh satu|num
+fifty-seven	lima puluh tujuh|num
+fifty-six	lima puluh enam|num
+fifty-three	lima puluh tiga|num
+fifty-two	lima puluh dua|num
+fig	ara|n,jawi-jawi|n
+fight	gaduh|v,juang|v,perjuangan|n
+fighter	pejuang|n,pesawat pejuang|n,pesawat tempur|n
+figuratively	berkaitan dengan,berkenaan dengan,curi ayam|v,oleh sebab itu|adv,tanam anggur|v,tidak akan|adv
+figure	bunga bahasa|n,rajah|n,reca|n,susuk|n
+fikir	difikir|v,fikiri|v,memikir|v,pikir|n
+fikiri	difikiri|v,memikiri|v
+fikirkan	difikirkan|v
+file	fail|n,kawad|n
+filem	filam|n,filpen|n
+fill	acapi|v,mengisi|v
+filled	berisi|v
+film	filem|n
+filth	kotoran|n
+fin	paus sirip|n,sirip|n
+final	lah|part,muktamad|adj
+finalization	pemuktamadan|n
+finalize	muktamadkan|v
+finance	kewangan|n
+financial	rugi|n
+financing	pembiayaan|n
+finch	emperit|n
+find	mengetahui|v
+fine	denda|n,elok|adj,halus|adj
+finger	jari hantu|n,jari kelengkeng|n,jari manis|n,jari telunjuk|n,jari tengah|n,kelengkeng|n
+fingerprint	cap jari|n
+fingers	cekak|v
+finish	kautim|v,selesai|v
+finished	habis|v,sudah|adv,tamat|adj
+fire	api|n,balai bomba|n,bomba|n,cerawat|n,mencurah minyak ke api|v,nyala|n
+firearm	senapang|n,senjata api|n
+firecracker	mercun|n
+firefighter	abang bomba,ahli bomba|n
+firefly	kelip-kelip|n
+firewall	tembok api|n
+firewood	kayu api|n
+firework	kembang api|n
+firm	azam|n,padat|adj,tegas|adj
+firmly	erat|adv
+first	adam,aku|pron,anak sulung|n,awal|adj,kami|pron,kaola|pron
+first-person	abui|v,abuk|v,bandarkan|v,kotai|v,kotakan|v,negaraku|n
+fish	baung|n,baung akar|n,baung pisang|n,berikan|v,bubu|n,budu|n
+fishball	bebola ikan|n
+fisherman	nelayan|n
+fishery	perikanan|n
+fishes	tamban|n
+fishing	kucing ikan|n,pancing|n,payang|n,pukat|n
+fishling	anak ikan|n
+fissure	belah|n
+fist	buku lima|n,tinju|n
+fit	muat|adj,nyaman|adj,segar|adj
+fitting	bilik acu|n,padan|adj,patut|adj
+five	lima|num,lima ratus|num,lima ribu|num,panca|num,pancaindera|n,rukun|n
+fix	membaiki|v,tentukan|v
+fixed	tetap|adj
+fixedly	tenung|v
+flag	bendera|n,bendera merah|n,jalur gemilang,panji|n,panji-panji|n
+flame	nyala|n
+flamingo	flamingo|n
+flank	rusuk|n,samping|n
+flare	marak|v
+flash	kilas|n
+flashback	imbas kembali|n
+flask	kelalang|n
+flat	capati|n,datar|adj,dataran|n,keping|cls,kuetiau|n,pamah|n
+flat-chested	tekcik|adj
+flat-headed	kucing hutan|n
+flatus	kentut|n
+flavour	perisa|n,rasa|n
+flaw	cacat|n
+flawless	nirmala|adj
+flay	lapah|v
+flee	cabut|v
+fleet	armada|n
+flesh	isi|n
+flicker	mengelip|v
+flickering	pendar|n
+flight	pramugari|n
+flipper	sirip|n
+float	apung|v,luntang|n
+flog	mencari jejak dalam air|v
+flood	bah|n,banjir|n
+flooded	keairan|adj,sebak|adj
+flooding	keairan|adj
+floodwater	air bah|n
+floor	lantai|n,tingkat|n
+floss	abon|n
+flour	tepung|n,tepung berserbuk penaik|n
+flow	aliran|n,arus|n,leleh|v,salir|v
+flower	bunga|n,kembang|n,kesuma|n,ketam bunga|n
+flowering	pengembangan|n
+flowerpecker	kelicap|n
+flowerpot	jambangan|n
+fluency	kefasihan|n
+fluent	fasih|adj,fasihkan|v
+fluid	cecair badan|n,ketuban|n,liter|n,tuban|n
+fluids	peluh|n
+fluorine	fluorin|n
+flute	seruling|n
+fly	lalat|n,layang|v,terbang|v
+flying	keluang|n,luncur keluang|n
+foam	busa|n
+focus	meneroka|v,mengelupas|v,menular|v,tumpu|v
+focused	tertumpu|v
+foe	musuh|n
+foetida	bacang|n,embacang|n,kembacang|n,macang|n,mancang|n,membacang|n
+fog	kabut|n
+foil	kerajang|n,kerancang|n
+fold	biru-biru|n,kedut|n,kedutan|n,keledut|n,kerdut|n,lipat|v
+folded	duduk bersimpuh|v
+folder	pelipat|n
+folds	berkedut|v
+foliage	rimbunan|n
+folk	cerita rakyat|n
+folktale	cerita rakyat|n
+follow	berikut|v,ikut|v
+followed	diikuti|v
+following	berikutnya|adj,ikutan|n
+food	gulai|n,luah|v,makanan|n,medan selera|n
+fooled	terperdaya|v
+foolish	babuk|adj,jahil|adj,sementung|adj,tolol|adj
+foot	hentak|v,kaki|n,terajang|v
+football	bola sepak|n
+footer	pengaki|n
+foothill	kaki bukit|n
+footrest	bangku kaki|n
+forbearance	kesabaran|n
+forbid	larang|v,menegah|v,tegah|v
+forbidden	haram|adj,terlarang|adj
+force	bala|n,paksa|v
+forceful	kuat|adj
+forceps	forsep|n
+forecaster	peramal|n
+forefinger	jari telunjuk|n
+forehead	dahi|n
+foreign	asing|adj,wisma putra
+foreskin	kulup|n
+forest	bunian|n,hutan|n,pangan|n,rimba|n
+forestation	penghutanan|n
+forestry	kehutanan|n,perhutanan|n
+forever	abad al-abad|n,selalu|adv,selama-lamanya|adv
+foreword	prakata|n
+forge	meranduk|v
+forget	lupa|v
+forgiveness	astaghfirullah,maaf|int
+fork	garpu|n
+formal	formal|adj,formalkan|v,informal|adj,keformalan|n,melarang|v,melarangkan|v
+formalkan	diformalkan|v,memformalkan|v
+former	mahafiraun,mantan|adj,purba|adj
+formerly	merambong
+fort	benteng|n,kota|n,mengotai|v
+fortress	benteng|n
+fortunate	kemujuran|n,mujur|adj,nasib baik|adj
+fortune	kemujuran|n,suasti|n,tuah|n
+forty	empat puluh|num
+forty-eight	empat puluh lapan|num
+forty-five	empat puluh lima|num
+forty-four	empat puluh empat|num
+forty-nine	empat puluh sembilan|num
+forty-one	empat puluh satu|num
+forty-seven	empat puluh tujuh|num
+forty-six	empat puluh enam|num
+forty-three	empat puluh tiga|num
+forty-two	empat puluh dua|num
+forward	luru|v
+fossil	fosil|n
+foul	hangit|adj
+foul-smelling	konjak|n
+foundation	asas|n,yayasan|n
+founded	berdasar|v,berdasarkan|v
+fountain	air pancut|n
+four	catur|num,empat|num,empat ratus|num,empat ribu|num,itik sudu|n,pepejal|n
+four-cornered	keban|n
+four-wheel	pacuan empat roda|n
+fourteen	empat belas|num,satu puluh empat|num,sepuluh empat|num
+fourth	anak pandak|n,keempat|adj,suku|n
+fox	anjing fox terrier|n,keluang|n,luncur keluang|n,rubah|n,rubah artik|n
+foxtail	jawawut|n
+fraction	pecahan|n
+fragile	rapuh|adj
+fragmented	cerai-berai|adj
+fragrance	raksi|n,wangian|n
+fragrant	harum|adj,wangi|adj
+framework	alas|n
+francaiskan	difrancaiskan|v,memfrancaiskan|v
+france	perancis
+franchise	francais|n,francaiskan|v,pemfrancaisan|n
+franchisee	francaisi|n
+franchisor	francaisor|n
+francium	fransium|n
+free	bebas|adj,gratis|adj,masa lapang|n,masa lega|n,membebaskan|v,merdeka|adj
+free-running	melincirkan|v
+freedom	ampun|n,kebebasan|n
+freeway	lebuh raya|n
+freezer	peti sejuk beku|n
+freight	tambang|n
+french	kentang goreng|n
+frequency	frekuensi|n,kekerapan|n
+frequent	kerap|adj
+frequently	acap|adv,acap kali|adv,kaki disko|n,sering|adv,soalan lazim|n
+fresco	fresko|n
+fresh	makan angin|v
+freshener	penyegar udara|n
+fresher	penyaman|n
+freshwater	yuyu|n
+friable	lempung|adj,rapuh|adj
+friday	jumaat
+fridge	peti air batu|n,peti ais|n
+fried	ayam goreng|n,nasi goreng|n
+friend	kawan|n,konco|n,member|n,rakan|n,sahabat|n,sobat|n
+friendly	manja|adj
+fries	kentang goreng|n
+frighten	takutkan|v
+frightened	ketakutan|adj
+frivolously	merepet|v,repet|v
+frog	katak|n,kodok|n
+frond	pelepah|n
+front	barisan|n,depan|prep
+frost	fros|n,ibun|n,nyahfros|v
+frozen	beku|adj
+fruit	alap|v,belimbing|n,berbuah|v,buah|n,ciku|n,halwa|n
+fruitful	makmur|adj
+fry	anak ikan|n,goreng|v
+frying	rendang|n
+fuel	mencurah minyak ke api|v
+fulfil	memperkotakan|v
+full	bersungguh-sungguh|adv,jenuh|adj,kenyang|adj,khusyuk|adj,nama penuh|n,penuh|adj
+full-time	sepenuh masa|adj
+fume	wasap|n
+fun	bergarah|v,ejek|v,kelucuan|n,menganjing|v,seronok|adj,usik|v
+function	fungsi|n
+functions	serbaguna|adj
+fund	dana|n
+fundamental	asasi|adj
+fundamentalist	walaun|n
+fungus	kulat|n
+funny	kekek|adj,lawak|adj,lucu|adj,membadut-badutkan|v
+furious	bengis|adj
+furniture	perabot|n
+furry	berbulu|adj
+fuse	fius|n,sumbu|n
+futanari	futanari|n
+futile	sia-sia|adj,tak guna|adj
+future	masa depan|n,nanti|adv

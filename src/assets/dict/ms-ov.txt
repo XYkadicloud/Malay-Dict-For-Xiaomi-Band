@@ -1,0 +1,3 @@
+ovari	ovari	n	胎；子房	ovary
+overtur	overtur	n	表示	overture
+ovum	ovum	n	卵	ovum (gamete)

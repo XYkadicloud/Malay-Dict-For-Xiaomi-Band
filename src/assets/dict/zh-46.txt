@@ -1,0 +1,218 @@
+亮	abiad|adj,benderang,bulan|n,calak,cantik|adj,cantik molek,cemerlang|adj,cerah
+亮发	telau
+亮发光	telau
+亮灿	cemerlang|adj
+亮灿烂	cemerlang|adj
+亮男	mat jambu|n
+亮男孩	mat jambu|n
+亮的	abiad|adj,calak,cerah,cerlang|adj,elok|adj,gelanggang bulan,gelis|adj,gilap
+亮的晕	gelanggang bulan
+亮的晕轮	gelanggang bulan
+侮	jujat,lumur,menempelak,menganjing|v,nista,noda|n,tempelak,umpat
+侮辱	jujat,lumur,menempelak,menganjing|v,nista,noda|n,tempelak,umpat
+刮	berpuput,gerit,gesek|v,berhembus,desing,kaup,kerik,kerosok
+刮削	raut|v
+刮剥	kerosok,kulipas
+刮剥鱼	kulipas
+刮剥鱼鳞	kulipas
+刮剥鳞	kerosok
+刮剥鳞声	kerosok
+刮去	kikis|v,mengikis
+刮掉	kerik,mengerik
+刮擦	pantik
+刮术	kuretaj|n
+刮皮	seliat
+刮起	mengaup
+刮风	desing
+刮风声	desing
+刮鱼	menyiang,menyisiki
+刮鱼鳞	menyiang,menyisiki
+吮	kesip,menghisap,letis,lulur,mengecap,menyesap
+吮吸	lulur,menyesap
+吮啜	mengecap
+吮嘴	letis
+吮嘴声	letis
+吮舌	letis
+吮舌声	letis
+售	kedai runcit|n,kiting
+售商	kedai runcit|n
+售商店	kedai runcit|n
+央	sentral,seri taman,tempat jin buang anak|n
+央的	sentral
+宮	abdi|n
+宮僕	abdi|n
+宮僕人	abdi|n
+宮僕人穿	abdi|n
+宮僕人穿的	abdi|n
+帮	bahu membahu,bertolong-tolongan,boleh tolong|int,membantu|v,menolong|v,pembantuan,regu,tolong|v
+帮助	membantu|v,pembantuan,tolong|v,bahu membahu,bertolong-tolongan
+帮忙	menolong|v,boleh tolong|int
+帮忙吗	boleh tolong|int
+帮派	regu
+微	alus,angin sepoi bahasa,berganjak,ganjak|v,gelak senyum,gelombang mikro|n,geming|v,lapat-lapat
+微处	mikropemproses|n,pemproses mikro|n
+微处理	mikropemproses|n,pemproses mikro|n
+微处理器	mikropemproses|n,pemproses mikro|n
+微差	nuansa|n
+微差别	nuansa|n
+微弱	lapat-lapat,pentar|adj,sayup
+微弱的	lapat-lapat,pentar|adj,sayup
+微微	geming|v
+微微移	geming|v
+微微移动	geming|v
+微斜	menguk
+微斜的	menguk
+微波	gelombang mikro|n
+微温	suam-suam
+微温的	suam-suam
+微生	mikrobiologi|n
+微生物	mikrobiologi|n
+微生物学	mikrobiologi|n
+微的	alus
+微移	berganjak,ganjak|v,geming|v
+微移动	berganjak,ganjak|v,geming|v
+微笑	gelak senyum,mesem,tersenyum
+微粒	zarah
+微镜	mikroskop|n,teropong halus|n
+微风	angin sepoi bahasa
+撮	cecah,cekut|v,getil,jeput,secekak,segelintir,sejemput
+撮取	cekut|v
+暮	maghrib
+氮	nitrogen|n
+氮气	nitrogen|n
+沮	anjing kumbang|n,morong,muram
+沮丧	anjing kumbang|n,morong,muram
+沮丧的	muram
+炮	bedil,buluh meriam,cucuh meriam,das,hormat diraja|n,lentum,letup,lumpang
+炮仗	mercun|n
+炮声	das
+炮火	meriam
+炮的	orong
+炮的火	orong
+炮的火门	orong
+炮臼	lumpang
+炮轰	lentum
+炮轰声	lentum
+献	abonemen|n,berbakti,carum,hidang,komited|adj,menceburkan,perutusan,pustaka|n
+献词	perutusan
+献身	serah diri,berbakti,komited|adj,menceburkan
+献身于	berbakti,menceburkan,komited|adj
+献身于某	komited|adj
+献身于某种	komited|adj
+献身于某种事	komited|adj
+献身于某种事业	komited|adj
+献身于某种事业的	komited|adj
+献金	carum
+疮	bisul|n,borok,keropeng|n,pekung,tokak,bawasir,bisul lada,bubul
+疮口	ruam|n
+疮口的	ruam|n
+疮口的脓	ruam|n
+疮口的脓头	ruam|n
+疮心	punat|n
+疮爆	melir
+疮爆破	melir
+皮	kulit|n,kupas|v,anjing langsat|n,benian,berbulu|adj,bingal,cambuk,dalang|n
+皮制	terubung
+皮制成	terubung
+皮制成的	terubung
+皮制成的木	terubung
+皮制成的木桶	terubung
+皮包	kantung,pelupuk,umpau|n
+皮垢	gurak
+皮夹	umpau|n
+皮姑	tomboi|n
+皮姑娘	tomboi|n
+皮带	koloran,sawat|n
+皮影	dalang|n,wayangkulit
+皮影戏	wayangkulit,dalang|n
+皮影戏的	dalang|n
+皮影戏的班	dalang|n
+皮影戏的班主	dalang|n
+皮影戏的班主或	dalang|n
+皮影戏的班主或导	dalang|n
+皮影戏的班主或导演	dalang|n
+皮树	kulim
+皮洗	menyintuk,sintuk
+皮洗发	menyintuk,sintuk
+皮病	untut
+皮的	berbulu|adj,bingal,menakal|v,muka papan|adj
+皮皮	udang lipan|n
+皮皮虾	udang lipan|n
+皮盾	jebang
+皮盾牌	jebang
+皮移	graf kulit|n
+皮移植	graf kulit|n
+皮移植片	graf kulit|n
+皮箱	benian
+皮肉	gelabir,gelambir
+皮肤	anjing langsat|n,kulit|n,kedal,kudis,porong
+皮肤上	porong
+皮肤上之	porong
+皮肤上之黑	porong
+皮肤上之黑点	porong
+皮肤上之黑点痣	porong
+皮肤病	kudis,kedal
+皮虾	udang lipan|n
+皮鞭	cambuk
+皮鼓	kobah,ketipung,ketung,kompang,nobat
+皮鼓声	ketung
+粮	bahan makanan,bekal|n,berbekal,mesara,pelabur|n,rangsum,rezeki,roji
+粮或	bekal|n
+粮或用	bekal|n
+粮或用品	bekal|n
+粮旅	zawadah
+粮旅行	zawadah
+粮旅行者	zawadah
+粮旅行者随	zawadah
+粮旅行者随身	zawadah
+粮旅行者随身食	zawadah
+粮旅行者随身食物	zawadah
+粮食	bahan makanan,mesara,ruji
+粮饷	pelabur|n
+肮	bairup,cemar,comot,comot-momot,daki|n,lumar,medok,momot
+肮脏	cemar,comot,medok,comot-momot,daki|n,lumar,momot,rujah
+肮脏的	comot-momot,daki|n,lumar,momot,rujah,seleweng
+肮船	bairup
+肮船标	bairup
+肮船标志	bairup
+议	acara|n,agenda|n,anggota dewan,anjuran,bangkangan,bantahan|n,cadandan,cadangan|n
+议会	majlis tempatan
+议决	resolusi|n
+议员	anggota dewan,senator
+议的	keramat|n,mogok lapar|n,mogok makan|n,sebulat
+议的绝	mogok lapar|n,mogok makan|n
+议的绝食	mogok lapar|n,mogok makan|n
+议程	acara|n,agenda|n
+议议	agenda|n
+议议程	agenda|n
+议院	hadat,parlimen|n,senator
+议院议	senator
+议院议员	senator
+贮	akar kepuk,calung,tumpukan
+贮根	akar kepuk
+贮胶	calung
+贮胶汁	calung
+贮胶汁的	calung
+贮胶汁的锡	calung
+贮胶汁的锡杯	calung
+贮藏	tumpukan
+逮	membekuk
+逮捕	membekuk
+邮	album,mel|n,pascabayar|adj,pejabat pos|n,pos|n,poskod|n,posmen,setem
+邮局	pejabat pos|n,pos|n
+邮差	posmen
+邮政	mel|n
+邮票	setem,setem pos|n
+邮簿	album
+邮船	mel|n
+邮资	pascabayar|adj
+邮资已	pascabayar|adj
+邮资已付	pascabayar|adj
+邮资已付的	pascabayar|adj
+邮递	poskod|n
+邮递区	poskod|n
+邮递区号	poskod|n
+钮	buah baju,butang|n,engsel|n,knob,suis
+钮扣	buah baju,butang|n
+键	ikatan hidrogen|n,ikatan tunggal|n,papan kekunci|n,papan nada|n
+键盘	papan kekunci|n,papan nada|n

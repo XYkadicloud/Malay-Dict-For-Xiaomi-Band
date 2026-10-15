@@ -1,1 +1,528 @@
-{"en2ms":{"male":["aaron","abang","abdul","abdullah","adik lelaki","agus"],"middle":["abad pertengahan","abad tengah","jari hantu","jari tengah","tempat jin buang anak"],"meat":["abon","bantai","daging","daging anjing","daing"],"mica":["abrak"],"mislead":["acan"],"macam":["acane","acanoi","camna","camni","camtu","cane"],"mana":["acane","acanoi","cane","manoi"],"messenger":["acang-acang","rasul"],"mold":["acuan","kulapuk"],"manner":["adab","cara","elok-elok","olah","secara","tiba-tiba"],"man":["adam","anak muda","duda","manusia","mat","nara"],"masterpiece":["adikarya","mahakarya"],"maybe":["agaknya","barangkali","kalu","mungkin"],"maingayi":["agas-agas"],"member":["ahli","betung","katung","kesatria","limau","mmber"],"mineral":["air mineral","galian"],"milk":["air tauhu","bancau","bandung","gigi susu","milo","santan"],"magical":["ajaib","magis"],"mind":["akal","fikiran","kisah","menghiraukan","minda"],"morals":["akhlak"],"move":["alih","ganjak","geming","jauhkan","layang","singkir"],"maidservant":["amah"],"maid":["andartu"],"mo":["ang mo kio"],"mengangkat":["angkat sembah"],"maltreatment":["aniaya"],"more":["antarabangsa","berlebih","dekah","inggeris","lebih kurang","majoriti"],"mats":["anyam"],"myrtle":["as","murad"],"muslims":["assalamualaikum","fardukan"],"motor":["automotif"],"mango":["bacang","embacang","kembacang","macang","mancang","mangga"],"mangifera":["bacang","embacang","kembacang","macang","mancang","membacang"],"malaysia":["bachok","bukit aman","bumiputera","damansara","jalur gemilang","jitra"],"membadut-badutkan":["badut-badutkan","dibadut-badutkan"],"mule":["baghal"],"malay":["bahasa baku","belacan","kemelayuan","leng","masuk melayu","melayu"],"malaysian":["bahasa baku","keropok lekor","pmx","ringgit","ringgit malaysia"],"mother":["bahasa ibunda","biang","bonda","bu","emak","emak angkat"],"manure":["baja"],"men":["baka"],"material":["bakal","batu","fabrik","polistirena"],"mangrove":["bakau","tengar"],"meet":["balik kampung","jumpa","tembung","temu"],"mix":["bancuh","campur"],"maybank":["bank harimau"],"many":["banyak","berapa","sebanyak"],"much":["banyak","berapa","sebanyak","sedapat mungkin"],"marker":["barang","sedang","tak payah","tengah"],"magnet":["batu berani","besi berani","magnet"],"manganese":["batu kawi","mangan"],"mystus":["baung akar","baung pisang"],"mudskipper":["becat","belacak"],"mark":["bekas","bekaskan","berbekas","kesan","membekas","tanda"],"mullet":["belanak"],"mahi-mahi":["belitung"],"marbled":["belut tuna","kucing dahan"],"mengkuang":["bengkuang"],"moral":["berakhlak"],"metal":["beraso","kupi","logam"],"meaning":["bererti","erti","makna","seerti"],"meaningful":["bererti"],"manifesto":["bermanifesto"],"mentality":["bermentaliti","mentaliti"],"mohon":["bermohon"],"malevolent":["berniat jahat"],"monitored":["berpantau"],"mistake":["bersalah"],"mempersembahkan":["bersembahkan","menyembahkan","persembahkan"],"menyesal":["bersesal","nyesal"],"macaque":["beruk","kera"],"massive":["besau","turus"],"me":["beta","den","deyen","gua","ingsun","iolls"],"monitor":["biancak","monitor","pantau","pemantau","terpantau"],"monastery":["biara"],"monk":["biarawan","biku","rahib","sami"],"madurese":["bibi"],"midwife":["bidan","dukun beranak","pengulin"],"mac":["big mac"],"muezzin":["bilal","muazin"],"milky":["bima sakti","getah"],"membincangkan":["bincangkan","dibincangkan"],"movie":["bintang filem","pawagam"],"macrorrhizos":["birah"],"mute":["bisu"],"melayu":["bm","ketuanan melayu","mib"],"merah":["bukit merah","mirah"],"moon":["bulan","cendera","pernama","purnama","rembulan","satelit"],"month":["bulan jatidiri","bulan puasa"],"may":["bulan lima","mei","nauzubillah","semoga"],"march":["bulan tiga","cepat jalan","mac","maret","perlahan jalan"],"membundarkan":["bundarkan","dibundarkan"],"monkey":["buset","kera","monyet","wanara"],"monkeypox":["cacar monyet"],"measles":["campak"],"millstone":["canai"],"means":["cara"],"method":["cara","kaedah","kaedah saintifik"],"most":["celaka tiga belas","paling","seelok-eloknya"],"mencelakakan":["celakakan","dicelakakan"],"mushroom":["cendawan"],"mirror":["cermin"],"mencetekkan":["cetekkan","dicetekkan"],"mixture":["cham","mengacau","rojak","santau"],"mince":["cincang"],"mace":["cokmar"],"mencontohi":["contohi"],"mencontohkan":["contohkan","dicontohkan"],"merely":["cuma","semata"],"measure":["cupak","jangka","matra","penjodoh bilangan","ukur"],"mencurigai":["curigai","dicurigai"],"maternity":["cuti bersalin"],"moreover":["dah tu"],"messiah":["dajal"],"mukim":["damansara","mukim"],"maiden":["dara","gadis"],"mayor":["datuk bandar"],"mengabsahkan":["diabsahkan"],"mengabstrakkan":["diabstrakkan"],"mengabui":["diabui"],"mengabuk":["diabuk"],"mengacak":["diacak"],"membandarkan":["dibandarkan"],"membaui":["dibaui"],"mencipta":["dicipta"],"mencontoh":["dicontoh"],"menduduki":["diduduki","mengeduduki"],"mendudukkan":["didudukkan"],"mengelokkan":["dielokkan","elokkan"],"mengganggu":["diganggu"],"menggosok":["digosok"],"menginsafi":["diinsafi"],"menginsafkan":["diinsafkan"],"menginspirasi":["diinspirasi"],"mengistirahatkan":["diistirahatkan","istirahatkan"],"menjawab":["dijawab"],"menjengah":["dijengah","jengah"],"menjerkah":["dijerkah","jerkah"],"mengait":["dikait"],"mengamuskan":["dikamuskan","kamuskan"],"mengata":["dikata"],"mengatai":["dikatai","mengata-ngatai"],"mengatakan":["dikatakan","katakan"],"mengotai":["dikotai"],"mengotakan":["dikotakan"],"melabuhkan":["dilabuhkan"],"melosen":["dilosen"],"makan":["dimakan","maging","memakan"],"mampankan":["dimampankan","memampankan"],"masak":["dimasak","memasak"],"masamkan":["dimasamkan","memasamkan"],"memasuki":["dimasuki"],"memasukkan":["dimasukkan"],"melayukan":["dimelayukan","memelayukan"],"mengerti":["dimengerti","reti"],"memeterai":["dimeterai"],"memisalkan":["dimisalkan"],"muat":["dimuat turun","memuat turun"],"memudahkan":["dimudahkan","mudahkan"],"muktamadkan":["dimuktamadkan","memuktamadkan"],"memungkinkan":["dimungkinkan","mungkinkan"],"menakali":["dinakali","nakali"],"mengoder":["dioder"],"mengoksidakan":["dioksidakan"],"memalingkan":["dipalingkan"],"memasarkan":["dipasarkan","pasarkan"],"memekakkan":["dipekakkan"],"mempercontohkan":["dipercontohkan","percontohkan"],"memperelok":["diperelok","perelok"],"memperkatakan":["diperkatakan","perkatakan"],"memperkotakan":["diperkotakan"],"mempermudah":["dipermudah","permudah"],"mempertontonkan":["dipertontonkan"],"mempreviu":["dipreviu"],"merehatkan":["direhatkan","rehatkan"],"merumikan":["dirumikan","rumikan"],"menyabarkan":["disabarkan","sabarkan"],"menyajikan":["disajikan","penyaji","sajikan"],"menyembah":["disembah"],"menyesali":["disesali","menyesalkan"],"menyesalkan":["disesalkan"],"menyeterika":["diseterika"],"menyurat":["disurat","tersurat"],"menyurati":["disurati","surati"],"menswastakan":["diswastakan","swastakan"],"menangkap":["ditangkap"],"menelefon":["ditelefon"],"menengok":["ditengok"],"menerima":["diterima"],"menipu":["ditipu","nipu"],"menolehkan":["ditolehkan","tolehkan"],"menonton":["ditonton"],"memvideokan":["divideokan","videokan"],"money":["duit","duit kopi","duit raya","langgam","pokai","wang"],"majesty":["duli yang maha mulia","paduka","tahana"],"mock":["ejek","maki","menganjing","mengatai"],"monolingual":["ekabahasa"],"moisture":["embun"],"morning":["embun belum kering lagi","pagi","pertolehan","selamat pagi"],"master":["empu","empunya","pamegat","pengacara","sarjana sains","tesis sarjana"],"matter":["fasal","hal","jirim","pepejal","tidak apa"],"muhammad":["fatimah","mohamad","mohamed","muhamad","muhd"],"mortgage":["gadai janji"],"marijuana":["ganja"],"manacles":["gari"],"melaleuca":["gelam"],"microwave":["gelombang mikro"],"magnificent":["gemilang"],"members":["geng baju merah"],"movement":["gerak","gerakan","ligas","pergerakan"],"motion":["gerak","gerakan"],"mount":["geroda"],"misfortune":["geruh","malang","mencelakakan"],"mother-of-pearl":["gewang"],"mad":["gila","marah","sasar","sasau"],"mound":["guar","pongsu"],"marble":["guli","marmar"],"mountain":["gunung","kucing andes","kucing banjaran andes","kugar"],"memorise":["hafal"],"muslim":["haji","islam baka","kafir zimmi","mujahid","muslim","muslimah"],"minute":["halus","minit"],"melt":["hancur"],"monday":["hari satu","isnin"],"mudfish":["haruan","toman"],"must":["harus","mesti"],"measurement":["hasta","rian"],"mucus":["hingus","lendir"],"meowing":["iau"],"main":["ibu pejabat"],"motherland":["ibu pertiwi","negara ibunda","tanah air"],"mat-making":["ibus"],"memory":["ingatan","kenangan"],"mankind":["insan"],"maklumat":["it"],"merganser":["itik gerigi"],"mallard":["itik melewar"],"maize":["jagung"],"marks":["jangan"],"mesh":["jaring"],"millet":["jawawut"],"manifest":["jelma"],"monster":["jembalang"],"mosquitoes":["jentik"],"margin":["jidar","tepi"],"majority":["jumhur","majoriti"],"million":["juta","satu juta","sejuta"],"millionaire":["jutawan"],"mist":["kabus"],"mung":["kacang hijau","putu"],"mixed-race":["kacukan"],"marry":["kahwin","memperisteri","mempersuami","nikah"],"married":["kahwin","orang rumah"],"music":["kaki jiwang","mat jiwang","musik","rege"],"megabat":["kalong","keluang"],"mousedeer":["kancil"],"merciful":["karim"],"madly":["kasmaran"],"musk":["kasturi"],"melting":["kawah peleburan"],"miswak":["kayu sugi"],"matwork":["keban"],"meaningfulness":["keberertian"],"max":["kedelai"],"mask":["kedok","topeng"],"mutual":["kefahaman menyaling"],"mystical":["keinderaan"],"moment":["kejap","ketika","la ni","momen","sebentar","seketika"],"mosquito":["kelambu","lingkaran ubat nyamuk"],"manage":["kelola","urus"],"moan":["keluh"],"misspelling":["kemaskini","mee","merdaka","pelanggam","prang","utan"],"malayness":["kemelayuan"],"mellitus":["kencing manis"],"mussel":["kepah","kupang"],"moving":["kepecutan"],"mob":["kerumun"],"mutualism":["kesalingan"],"mud":["ketam nipah","kubang","lumpur"],"mitragyna":["ketum"],"maundy":["khamis suci"],"muntjac":["kijang"],"mill":["kilang"],"malicious":["kod hasad"],"medicated":["koyok"],"mudhole":["kubang"],"mooncake":["kuih bulan"],"mould":["kulapuk"],"moustache":["kumis","misai","sungut"],"melon":["kundur"],"munch":["kunyah","mamah"],"macaroni":["laksa geronggang","makaroni"],"mail":["lamina","mel","pos"],"mat":["lampit","mat terap"],"masturbate":["lancap","main sabun"],"mouldy":["lapuk"],"mediterranean":["laut rum"],"motorway":["lebuh raya"],"mortar":["lesung"],"meletakkan":["letakkan"],"metric":["liter"],"mirage":["logamaya"],"mine":["lombong","makdan","periuk api"],"mouth":["luah","muara","mulut"],"moss":["lumut"],"manhole":["lurang"],"macedonia":["macedonia utara","makadunia"],"madagascar":["madagaskar"],"majlis":["mageran","mara","mbs","mbsa","mbsj","mbsp"],"maghreb":["maghrib"],"morocco":["maghribi"],"magis":["magik"],"mindanao":["magindanau"],"magnesium":["magnesium"],"mahathir":["mahafiraun"],"mohamad":["mahafiraun"],"maha":["mahakaya"],"marriage":["mahar","mas kahwin","perkahwinan"],"minister":["maharajalela","mangkubumi","menteri","perdana menteri"],"mahasiswa":["mahasiswi"],"martial":["mahkamah tentera"],"mahogany":["mahogani"],"magazine":["majalah"],"magistrate":["majistret"],"meeting":["majlis","mesyuarat","sidang"],"meal":["makanan","selamat menjamu selera"],"mak":["makcik","peran"],"mischance":["malang"],"malayalam":["malayalam"],"mampus":["mam"],"masticate":["mamah"],"maternal":["mamak"],"mammal":["mamalia","tupai tanah"],"match":["mancis","perlawanan"],"mandate":["mandat"],"manga":["manga"],"manggis":["manggista","manggistan"],"mangosteen":["manggista","manggistan","manggustan"],"maniac":["maniak"],"manipulative":["manipulatif"],"mantra":["mantera"],"manuscript":["manuskrip","naskhah"],"maoism":["maoisme"],"mao":["maoisme"],"mary":["maria"],"mars":["marikh"],"marmot":["marmut"],"marshall":["marsyal"],"murtabak":["martabak"],"marxism":["marxisme"],"mahr":["mas kahwin"],"mosque":["masjid","misigit","tabuh"],"masuk":["masok"],"masochism":["masokisme"],"mass":["massa","misa"],"motorcycle":["mat motor","motosikal"],"mata":["mata-mata","memutihkan mata"],"mathematics":["matematik"],"matrilineal":["matrilineal"],"mahu":["mau"],"mortality":["maut","mortaliti"],"mayonnaise":["mayones"],"mayones":["mayonis"],"media":["media sosial","medsos"],"mi":["mee","mee goreng"],"meitnerium":["meitnerium"],"mecca":["mekah"],"memekak":["mekak"],"mechanic":["mekanik"],"mechanical":["mekanik"],"mcdonald":["mekdi"],"malacca":["melaka"],"mellotron":["mellotron"],"miss":["meluputkan","nona"],"market":["memasarkan","menjual","pasar","pasar malam","pasaran"],"mouse":["mencit","pelanduk","tetikus","tikus"],"menda":["mende"],"mendelevium":["mendelevium"],"menderung":["menderong"],"menerung":["menerong"],"menganwar-anwarkan":["menganwarkan"],"manufacture":["mengeluarkan"],"meow":["mengeong","ngeong"],"menggerek":["menggerekkan"],"makassar":["mengkasar"],"mantis":["mentadak","udang lipan"],"mental":["mental","usia mental"],"matahari":["mentari"],"meninggalkan":["menurunkan zuriat"],"menurut":["menurut urutan abjad"],"merambong":["merambong"],"meranti":["meranti"],"merdeka":["merdaka","merdeheka"],"meritocracy":["meritokrasi"],"meritocratic":["meritokratik"],"mercury":["merkuri","perak cergas","raksa","utarid"],"moringa":["merunggai"],"message":["mesej","pesanan","utusan"],"machine":["mesin","mesin basuh","mesin juruwang automatik","mesin layan diri","mesingan","terjemahan mesin"],"mesosphere":["mesosfera"],"mixed":["mesra"],"metathesis":["metatesis"],"meter":["meter"],"methodology":["metodologi"],"micro":["mikro"],"microbiology":["mikrobiologi"],"microphone":["mikrofon"],"microprocessor":["mikropemproses","pemproses mikro"],"microscope":["mikroskop","teropong halus"],"militant":["militan"],"mean":["min"],"minarchism":["minarkisme"],"miniskirt":["miniskirt"],"minority":["minoriti"],"minta":["mintak"],"misal":["misalan"],"mission":["misi"],"misua":["misoa"],"misogynist":["misoginis"],"misi":["misyen"],"myth":["mitos"],"memang":["mmg"],"mobilisation":["mobilisasi"],"model":["model","suri teladan","umpama"],"modem":["modem"],"modern":["moden","mutakhir"],"membohong":["mohong"],"molybdenum":["molibdenum"],"mollusc":["moluska","siput"],"monogamy":["monogami"],"monocracy":["monokrasi"],"monorail":["monorel"],"monsoon":["monsun"],"morbidity":["morbiditi"],"morpheme":["morfem"],"moscow":["mosko"],"motto":["moto"],"mobile":["mudah alih","mudalih","telefon bimbit"],"mufti":["mufti"],"muharram":["muharam"],"muka":["muke"],"murah":["mur"],"murabaha":["murabahah"],"moses":["musa"],"muslimah":["muslimat"],"menangis":["nangis"],"muslim-style":["nasi kandar"],"mengantuk":["ngantuk"],"muscle":["otot"],"matching":["padan"],"maze":["pagar sesat"],"monitoring":["pantauan","pemantauan"],"motherboard":["papan induk"],"manta":["pari kaluk"],"megaptera":["paus kelasa"],"minke":["paus tombak"],"marsh":["paya","rawa","redang"],"missile":["peluru berpandu"],"manipulator":["pemanipulasi"],"monitorer":["pemantau"],"marketer":["pemasar"],"marketing":["pemasaran"],"murderer":["pembunuh"],"mistreatment":["penderaan"],"manis":["pengguling"],"manager":["pengurus"],"management":["pengurusan","pengurusan strategik"],"moderation":["penyederhanaan"],"marinade":["perap"],"military":["perarakan tentera"],"malware":["perisian jahat"],"mighty":["perkasa"],"micronesia":["persekutuan mikronesia"],"medicine":["perubatan","ubat"],"merciless":["perut hijau"],"monstrous":["perut hijau"],"map":["peta"],"medal":["pingat"],"munia":["pipit rawa"],"menteri":["pm"],"mrs":["puan"],"mint":["pudina"],"motherfucker":["pukimak"],"mercy":["rahmatullah"],"mishmash":["rojak"],"mansion":["rumah agam"],"merungut":["rungutnya"],"mutter":["rungutnya"],"muscular":["sado"],"mentally":["sasar","sasau","waras"],"manilkara":["sawo"],"medium":["sebiji","sederhana"],"mention":["sebut"],"moderate":["sederhana"],"messy":["selerak"],"menyembahkan":["sembahkan"],"major":["sembahyang","solat"],"multipurpose":["serbaguna"],"marfan":["sindrom marfan"],"masihi":["sm"],"menengah":["smk"],"mane":["surai"],"menyuratkan":["suratkan"],"metallic":["syiling"],"mocking":["tacod"],"madrasa":["tahfiz"],"meteor":["tahi bintang"],"multiple":["taksa"],"malim":["tanjong malim","tanjung rambutan"],"menebuk":["tebuk"],"manners":["telatah"],"manpower":["tenaga"],"mackerel":["tenggiri"],"momentane":["terbayang"],"momentaneous":["terlompat"],"mast":["tiang"],"mattress":["tilam"],"myna":["tiung"],"menoleh":["toleh"],"moronic":["tolol","tongong"],"mister":["tuan"],"mite":["tuma","tungau"],"man-of-war":["ubur-ubur api"],"mudsnake":["ular tuna"],"millipede":["ulat gonggok"],"massage":["urut"],"maya":["wargamaya"],"ministry":["wisma putra"],"midday":["zuhur"]}}
+mac	big mac|n
+macam	acane|adv,acanoi|adv,camna|adv,camni|adv,camtu|adv,cane|adv
+macaque	beruk|n,kera|n
+macaroni	laksa geronggang|n,makaroni|n
+mace	cokmar|n
+macedonia	macedonia utara,makadunia
+machine	mesin|n,mesin basuh|n,mesin juruwang automatik|n,mesin layan diri|n,mesingan|n,terjemahan mesin|n
+mackerel	tenggiri|n
+macrorrhizos	birah|n
+mad	gila|adj,marah|adj,sasar|adj,sasau|adj
+madagascar	madagaskar
+madly	kasmaran|v
+madrasa	tahfiz|n
+madurese	bibi|n
+magazine	majalah|n
+maghreb	maghrib
+magical	ajaib|adj,magis|adj
+magis	magik|adj
+magistrate	majistret|n
+magnesium	magnesium|n
+magnet	batu berani|n,besi berani|n,magnet|n
+magnificent	gemilang|adj
+maha	mahakaya|n
+mahasiswa	mahasiswi|n
+mahathir	mahafiraun
+mahi-mahi	belitung|n
+mahogany	mahogani|n
+mahr	mas kahwin|n
+mahu	mau|v
+maid	andartu|n
+maiden	dara|n,gadis|n
+maidservant	amah|n
+mail	lamina|n,mel|n,pos|n
+main	ibu pejabat|n
+maingayi	agas-agas|n
+maize	jagung|n
+majesty	duli yang maha mulia,paduka|n,tahana|n
+majlis	mageran,mara,mbs,mbsa,mbsj,mbsp
+major	sembahyang|n,solat|n
+majority	jumhur|n,majoriti|n
+mak	makcik|n,peran|n
+makan	dimakan|v,maging|n,memakan|v
+makassar	mengkasar
+maklumat	it|n
+malacca	melaka
+malay	bahasa baku|n,belacan|n,kemelayuan|n,leng|n,masuk melayu|v,melayu
+malayalam	malayalam|n
+malayness	kemelayuan|n
+malaysia	bachok,bukit aman,bumiputera|n,damansara,jalur gemilang,jitra
+malaysian	bahasa baku|n,keropok lekor|n,pmx,ringgit|n,ringgit malaysia
+male	aaron,abang|n,abdul,abdullah,adik lelaki|n,agus
+malevolent	berniat jahat|adj
+malicious	kod hasad|n
+malim	tanjong malim,tanjung rambutan
+mallard	itik melewar|n
+maltreatment	aniaya|n
+malware	perisian jahat|n
+mammal	mamalia|n,tupai tanah|n
+mampankan	dimampankan|v,memampankan|v
+mampus	mam|v
+man	adam,anak muda|n,duda|n,manusia|n,mat|n,nara|n
+man-of-war	ubur-ubur api|n
+mana	acane|adv,acanoi|adv,cane|adv,manoi|adv
+manacles	gari|n
+manage	kelola|v,urus|v
+management	pengurusan|n,pengurusan strategik|n
+manager	pengurus|n
+mandate	mandat|n
+mane	surai|n
+manga	manga|n
+manganese	batu kawi|n,mangan|n
+manggis	manggista|n,manggistan|n
+mangifera	bacang|n,embacang|n,kembacang|n,macang|n,mancang|n,membacang|n
+mango	bacang|n,embacang|n,kembacang|n,macang|n,mancang|n,mangga|n
+mangosteen	manggista|n,manggistan|n,manggustan|n
+mangrove	bakau|n,tengar|n
+manhole	lurang|n
+maniac	maniak|n
+manifest	jelma|v
+manifesto	bermanifesto|v
+manilkara	sawo|n
+manipulative	manipulatif|adj
+manipulator	pemanipulasi|n
+manis	pengguling|n
+mankind	insan|n
+manner	adab|n,cara|n,elok-elok|adv,olah|n,secara|adv,tiba-tiba|adv
+manners	telatah|n
+manpower	tenaga|n
+mansion	rumah agam|n
+manta	pari kaluk|n
+mantis	mentadak|n,udang lipan|n
+mantra	mantera|n
+manufacture	mengeluarkan|v
+manure	baja|n
+manuscript	manuskrip|n,naskhah|n
+many	banyak|adj,berapa|adv,sebanyak|adv
+mao	maoisme|n
+maoism	maoisme|n
+map	peta|n
+marble	guli|n,marmar|n
+marbled	belut tuna|n,kucing dahan|n
+march	bulan tiga|n,cepat jalan|n,mac,maret,perlahan jalan|n
+marfan	sindrom marfan|n
+margin	jidar|n,tepi|n
+marijuana	ganja|n
+marinade	perap|n
+mark	bekas|n,bekaskan|v,berbekas|v,kesan|n,membekas|v,tanda|n
+marker	barang|n,sedang|adv,tak payah|adv,tengah|n
+market	memasarkan|v,menjual|v,pasar|n,pasar malam|n,pasaran|n
+marketer	pemasar|n
+marketing	pemasaran|n
+marks	jangan|adv
+marmot	marmut|n
+marriage	mahar|n,mas kahwin|n,perkahwinan|n
+married	kahwin|v,orang rumah|n
+marry	kahwin|v,memperisteri|v,mempersuami|v,nikah|v
+mars	marikh
+marsh	paya|n,rawa|n,redang|n
+marshall	marsyal|n
+martial	mahkamah tentera|n
+marxism	marxisme|n
+mary	maria
+masak	dimasak|v,memasak|v
+masamkan	dimasamkan|v,memasamkan|v
+masihi	sm|adv
+mask	kedok|n,topeng|n
+masochism	masokisme|n
+mass	massa|n,misa|n
+massage	urut|v
+massive	besau|adj,turus|n
+mast	tiang|n
+master	empu|n,empunya|n,pamegat|n,pengacara|n,sarjana sains|n,tesis sarjana|n
+masterpiece	adikarya|n,mahakarya|n
+masticate	mamah|v
+masturbate	lancap|v,main sabun|v
+masuk	masok|v
+mat	lampit|n,mat terap|n
+mat-making	ibus|n
+mata	mata-mata|n,memutihkan mata|v
+matahari	mentari
+match	mancis|n,perlawanan|n
+matching	padan|adj
+material	bakal|n,batu|n,fabrik|n,polistirena|n
+maternal	mamak|n
+maternity	cuti bersalin|n
+mathematics	matematik|n
+matrilineal	matrilineal|adj
+mats	anyam|v
+matter	fasal|n,hal|n,jirim|n,pepejal|n,tidak apa
+mattress	tilam|n
+matwork	keban|n
+maundy	khamis suci
+max	kedelai|n
+may	bulan lima|n,mei,nauzubillah,semoga|adv
+maya	wargamaya|n
+maybank	bank harimau
+maybe	agaknya|adv,barangkali|adv,kalu|adv,mungkin|adv
+mayones	mayonis|n
+mayonnaise	mayones|n
+mayor	datuk bandar|n
+maze	pagar sesat|n
+mcdonald	mekdi
+me	beta|pron,den|pron,deyen|pron,gua|pron,ingsun|pron,iolls|pron
+meal	makanan|n,selamat menjamu selera
+mean	min|n
+meaning	bererti|adj,erti|n,makna|n,seerti|adj
+meaningful	bererti|adj
+meaningfulness	keberertian|n
+means	cara|n
+measles	campak|n
+measure	cupak|n,jangka|v,matra|n,penjodoh bilangan|n,ukur|v
+measurement	hasta|n,rian|n
+meat	abon|n,bantai|n,daging|n,daging anjing|n,daing|n
+mecca	mekah
+mechanic	mekanik|adj
+mechanical	mekanik|adj
+medal	pingat|n
+media	media sosial|n,medsos|n
+medicated	koyok|n
+medicine	perubatan|n,ubat|n
+mediterranean	laut rum
+medium	sebiji|num,sederhana|adj
+meet	balik kampung|n,jumpa|v,tembung|v,temu|v
+meeting	majlis|n,mesyuarat|n,sidang|n
+megabat	kalong|n,keluang|n
+megaptera	paus kelasa|n
+meitnerium	meitnerium|n
+melabuhkan	dilabuhkan|v
+melaleuca	gelam|n
+melayu	bm,ketuanan melayu,mib
+melayukan	dimelayukan|v,memelayukan|v
+meletakkan	letakkan|v
+mellitus	kencing manis|n
+mellotron	mellotron|n
+melon	kundur|n
+melosen	dilosen|v
+melt	hancur|v
+melting	kawah peleburan|n
+memalingkan	dipalingkan|v
+memang	mmg
+memasarkan	dipasarkan|v,pasarkan|v
+memasuki	dimasuki|v
+memasukkan	dimasukkan|v
+membadut-badutkan	badut-badutkan|v,dibadut-badutkan|v
+membandarkan	dibandarkan|v
+membaui	dibaui|v
+member	ahli|n,betung|n,katung|n,kesatria|n,limau|n,mmber
+members	geng baju merah|n
+membincangkan	bincangkan|v,dibincangkan|v
+membohong	mohong|v
+membundarkan	bundarkan|v,dibundarkan|v
+memekak	mekak|v
+memekakkan	dipekakkan|v
+memeterai	dimeterai|v
+memisalkan	dimisalkan|v
+memorise	hafal|v
+memory	ingatan|n,kenangan|n
+mempercontohkan	dipercontohkan|v,percontohkan|v
+memperelok	diperelok|v,perelok|v
+memperkatakan	diperkatakan|v,perkatakan|v
+memperkotakan	diperkotakan|v
+mempermudah	dipermudah|v,permudah|v
+mempersembahkan	bersembahkan|v,menyembahkan|v,persembahkan|v
+mempertontonkan	dipertontonkan|v
+mempreviu	dipreviu|v
+memudahkan	dimudahkan|v,mudahkan|v
+memungkinkan	dimungkinkan|v,mungkinkan|v
+memvideokan	divideokan|v,videokan|v
+men	baka|adj
+menakali	dinakali|v,nakali|v
+menangis	nangis|v
+menangkap	ditangkap|v
+mencelakakan	celakakan|v,dicelakakan|v
+mencetekkan	cetekkan|v,dicetekkan|v
+mencipta	dicipta|v
+mencontoh	dicontoh|v
+mencontohi	contohi|v
+mencontohkan	contohkan|v,dicontohkan|v
+mencurigai	curigai|v,dicurigai|v
+menda	mende|adv
+mendelevium	mendelevium|n
+menderung	menderong|n
+menduduki	diduduki|v,mengeduduki|v
+mendudukkan	didudukkan|v
+menebuk	tebuk|v
+menelefon	ditelefon|v
+menengah	smk|n
+menengok	ditengok|v
+menerima	diterima|v
+menerung	menerong|n
+mengabsahkan	diabsahkan|v
+mengabstrakkan	diabstrakkan|v
+mengabui	diabui|v
+mengabuk	diabuk|v
+mengacak	diacak|v
+mengait	dikait|v
+mengamuskan	dikamuskan|v,kamuskan|v
+mengangkat	angkat sembah|v
+mengantuk	ngantuk|adj
+menganwar-anwarkan	menganwarkan|v
+mengata	dikata|v
+mengatai	dikatai|v,mengata-ngatai|v
+mengatakan	dikatakan|v,katakan|v
+mengelokkan	dielokkan|v,elokkan|v
+mengerti	dimengerti|v,reti|v
+mengganggu	diganggu|v
+menggerek	menggerekkan|v
+menggosok	digosok|v
+menginsafi	diinsafi|v
+menginsafkan	diinsafkan|v
+menginspirasi	diinspirasi|v
+mengistirahatkan	diistirahatkan|v,istirahatkan|v
+mengkuang	bengkuang|n
+mengoder	dioder|v
+mengoksidakan	dioksidakan|v
+mengotai	dikotai|v
+mengotakan	dikotakan|v
+meninggalkan	menurunkan zuriat|v
+menipu	ditipu|v,nipu|v
+menjawab	dijawab|v
+menjengah	dijengah|v,jengah|v
+menjerkah	dijerkah|v,jerkah|v
+menoleh	toleh|v
+menolehkan	ditolehkan|v,tolehkan|v
+menonton	ditonton|v
+menswastakan	diswastakan|v,swastakan|v
+mental	mental|adj,usia mental|n
+mentality	bermentaliti|v,mentaliti|n
+mentally	sasar|adj,sasau|adj,waras|adj
+menteri	pm|n
+mention	sebut|v
+menurut	menurut urutan abjad
+menyabarkan	disabarkan|v,sabarkan|v
+menyajikan	disajikan|v,penyaji|n,sajikan|v
+menyembah	disembah|v
+menyembahkan	sembahkan|v
+menyesal	bersesal|v,nyesal|v
+menyesali	disesali|v,menyesalkan|v
+menyesalkan	disesalkan|v
+menyeterika	diseterika|v
+menyurat	disurat|v,tersurat|v
+menyurati	disurati|v,surati|v
+menyuratkan	suratkan|v
+meow	mengeong|v,ngeong|n
+meowing	iau|n
+merah	bukit merah,mirah|adj
+merambong	merambong
+meranti	meranti|n
+merciful	karim|adj
+merciless	perut hijau|adj
+mercury	merkuri|n,perak cergas|n,raksa|n,utarid
+mercy	rahmatullah|n
+merdeka	merdaka|n,merdeheka|adj
+merehatkan	direhatkan|v,rehatkan|v
+merely	cuma|adv,semata|adv
+merganser	itik gerigi|n
+meritocracy	meritokrasi|n
+meritocratic	meritokratik|adj
+merumikan	dirumikan|v,rumikan|v
+merungut	rungutnya|v
+mesh	jaring|n
+mesosphere	mesosfera|n
+message	mesej|n,pesanan|n,utusan|n
+messenger	acang-acang|n,rasul|n
+messiah	dajal|n
+messy	selerak|adj
+metal	beraso|n,kupi|n,logam|n
+metallic	syiling|n
+metathesis	metatesis|n
+meteor	tahi bintang|n
+meter	meter|n
+method	cara|n,kaedah|n,kaedah saintifik|n
+methodology	metodologi|n
+metric	liter|n
+mi	mee|n,mee goreng
+mica	abrak|n
+micro	mikro|adj
+microbiology	mikrobiologi|n
+micronesia	persekutuan mikronesia
+microphone	mikrofon|n
+microprocessor	mikropemproses|n,pemproses mikro|n
+microscope	mikroskop|n,teropong halus|n
+microwave	gelombang mikro|n
+midday	zuhur|n
+middle	abad pertengahan,abad tengah,jari hantu|n,jari tengah|n,tempat jin buang anak|n
+midwife	bidan|n,dukun beranak|n,pengulin|n
+mighty	perkasa|adj
+militant	militan|adj
+military	perarakan tentera|n
+milk	air tauhu|n,bancau|n,bandung|n,gigi susu|n,milo|n,santan|n
+milky	bima sakti,getah|n
+mill	kilang|n
+millet	jawawut|n
+million	juta|num,satu juta|num,sejuta|num
+millionaire	jutawan|n
+millipede	ulat gonggok|n
+millstone	canai|n
+minarchism	minarkisme|n
+mince	cincang|v
+mind	akal|n,fikiran|n,kisah|v,menghiraukan|v,minda|n
+mindanao	magindanau
+mine	lombong|n,makdan|n,periuk api|n
+mineral	air mineral|n,galian|n
+miniskirt	miniskirt|n
+minister	maharajalela|n,mangkubumi|n,menteri|n,perdana menteri|n
+ministry	wisma putra
+minke	paus tombak|n
+minority	minoriti|n
+mint	pudina|n
+minta	mintak|adv
+minute	halus|adj,minit|n
+mirage	logamaya|n
+mirror	cermin|n
+misal	misalan|n
+mischance	malang|n
+misfortune	geruh|n,malang|n,mencelakakan|v
+mishmash	rojak|n
+misi	misyen|n
+mislead	acan|v
+misogynist	misoginis|n
+miss	meluputkan|v,nona|n
+missile	peluru berpandu|n
+mission	misi|n
+misspelling	kemaskini|n,mee|n,merdaka|n,pelanggam|n,prang|n,utan|n
+mist	kabus|n
+mistake	bersalah|v
+mister	tuan|n
+mistreatment	penderaan|n
+misua	misoa|n
+miswak	kayu sugi|n
+mite	tuma|n,tungau|n
+mitragyna	ketum|n
+mix	bancuh|v,campur|v
+mixed	mesra|adj
+mixed-race	kacukan|n
+mixture	cham|n,mengacau|v,rojak|n,santau|n
+mo	ang mo kio
+moan	keluh|n
+mob	kerumun|v
+mobile	mudah alih|adj,mudalih|adj,telefon bimbit|n
+mobilisation	mobilisasi|n
+mock	ejek|v,maki|v,menganjing|v,mengatai|v
+mocking	tacod
+model	model|n,suri teladan|n,umpama|n
+modem	modem|n
+moderate	sederhana|adj
+moderation	penyederhanaan|n
+modern	moden|adj,mutakhir|adj
+mohamad	mahafiraun
+mohon	bermohon|v
+moisture	embun|n
+mold	acuan|n,kulapuk|n
+mollusc	moluska|n,siput|n
+molybdenum	molibdenum|n
+moment	kejap|n,ketika|n,la ni|adv,momen|n,sebentar|adv,seketika|adv
+momentane	terbayang|v
+momentaneous	terlompat|v
+monastery	biara|n
+monday	hari satu,isnin
+money	duit|n,duit kopi|n,duit raya|n,langgam|v,pokai|adj,wang|n
+monitor	biancak|n,monitor|n,pantau|v,pemantau|n,terpantau|v
+monitored	berpantau|v
+monitorer	pemantau|n
+monitoring	pantauan|n,pemantauan|n
+monk	biarawan|n,biku|n,rahib|n,sami|n
+monkey	buset|n,kera|n,monyet|n,wanara|n
+monkeypox	cacar monyet|n
+monocracy	monokrasi|n
+monogamy	monogami|n
+monolingual	ekabahasa|adj
+monorail	monorel|n
+monsoon	monsun|n
+monster	jembalang|n
+monstrous	perut hijau|adj
+month	bulan jatidiri,bulan puasa|n
+moon	bulan|n,cendera|n,pernama|n,purnama|n,rembulan|n,satelit|n
+mooncake	kuih bulan|n
+moral	berakhlak|adj
+morals	akhlak|n
+morbidity	morbiditi|n
+more	antarabangsa|adj,berlebih|v,dekah|n,inggeris,lebih kurang|adv,majoriti|n
+moreover	dah tu|adv
+moringa	merunggai|n
+morning	embun belum kering lagi|adv,pagi|n,pertolehan|n,selamat pagi|int
+morocco	maghribi
+moronic	tolol|adj,tongong|adj
+morpheme	morfem|n
+mortality	maut|n,mortaliti|n
+mortar	lesung|n
+mortgage	gadai janji|n
+moscow	mosko
+moses	musa
+mosque	masjid|n,misigit|n,tabuh|n
+mosquito	kelambu|n,lingkaran ubat nyamuk|n
+mosquitoes	jentik|n
+moss	lumut|n
+most	celaka tiga belas|adj,paling|adv,seelok-eloknya|adv
+mother	bahasa ibunda|n,biang|n,bonda|n,bu|n,emak|n,emak angkat|n
+mother-of-pearl	gewang|n
+motherboard	papan induk|n
+motherfucker	pukimak
+motherland	ibu pertiwi|n,negara ibunda|n,tanah air|n
+motion	gerak|n,gerakan|n
+motor	automotif|adj
+motorcycle	mat motor|n,motosikal|n
+motorway	lebuh raya|n
+motto	moto|n
+mould	kulapuk|n
+mouldy	lapuk|adj
+mound	guar|n,pongsu|n
+mount	geroda|n
+mountain	gunung|n,kucing andes|n,kucing banjaran andes|n,kugar|n
+mouse	mencit|n,pelanduk|n,tetikus|n,tikus|n
+mousedeer	kancil|n
+moustache	kumis|n,misai|n,sungut|n
+mouth	luah|v,muara|n,mulut|n
+move	alih|v,ganjak|v,geming|v,jauhkan|v,layang|v,singkir|v
+movement	gerak|n,gerakan|n,ligas|n,pergerakan|n
+movie	bintang filem|n,pawagam|n
+moving	kepecutan|n
+mrs	puan|n
+muat	dimuat turun|v,memuat turun|v
+much	banyak|adj,berapa|adv,sebanyak|adv,sedapat mungkin|adv
+mucus	hingus|n,lendir|n
+mud	ketam nipah|n,kubang|n,lumpur|n
+mudfish	haruan|n,toman|n
+mudhole	kubang|n
+mudskipper	becat|n,belacak|n
+mudsnake	ular tuna|n
+muezzin	bilal|n,muazin|n
+mufti	mufti|n
+muhammad	fatimah,mohamad,mohamed,muhamad,muhd
+muharram	muharam
+muka	muke|n
+mukim	damansara,mukim|n
+muktamadkan	dimuktamadkan|v,memuktamadkan|v
+mule	baghal|n
+mullet	belanak|n
+multiple	taksa|adj
+multipurpose	serbaguna|adj
+munch	kunyah|v,mamah|v
+mung	kacang hijau|n,putu|n
+munia	pipit rawa|n
+muntjac	kijang|n
+murabaha	murabahah|n
+murah	mur|adj
+murderer	pembunuh|n
+murtabak	martabak|n
+muscle	otot|n
+muscular	sado|adj
+mushroom	cendawan|n
+music	kaki jiwang|n,mat jiwang|n,musik|n,rege|n
+musk	kasturi|n
+muslim	haji|n,islam baka|n,kafir zimmi|n,mujahid|n,muslim,muslimah
+muslim-style	nasi kandar|n
+muslimah	muslimat
+muslims	assalamualaikum,fardukan|v
+mussel	kepah|n,kupang|n
+must	harus|v,mesti|v
+mute	bisu|adj
+mutter	rungutnya|v
+mutual	kefahaman menyaling|n
+mutualism	kesalingan|n
+myna	tiung|n
+myrtle	as|n,murad|n
+mystical	keinderaan|n
+mystus	baung akar|n,baung pisang|n
+myth	mitos|n

@@ -1,0 +1,243 @@
+串	gugus,jurai,kluster|n,tingkil,utas,jambak,kong|adj,manik
+串制	menggubah
+串珠	manik
+亲	abah|n,abuya|n,aya|n,ayah|n,ayahanda|n,baba|n,bapa|n,bapai|n
+亲关	beradik|adj
+亲关系	beradik|adj
+亲关系的	beradik|adj
+亲切	murah hati,ramah-tamah
+亲切的	murah hati,ramah-tamah
+亲友	kaum|n
+亲善	muhibah
+亲大	ayahanda|n
+亲大人	ayahanda|n
+亲密	karib,mesra|adj,muhibah,ikrab,ramah
+亲密的	ikrab,ramah
+亲属	berzina,famili|n,kerabat
+亲戚	gingsi,kerelatifan|n,sanak,saudara|n
+亲爰	tercinta
+亲爰的	tercinta
+亲爱	mesra|adj,mengerna
+亲爱的	mengerna
+亲的	mamak|n,peramah
+亲的人	peramah
+亲相	berkasih-kasihan
+亲相爱	berkasih-kasihan
+亲缘	tiri|adj
+亲缘关	tiri|adj
+亲缘关系	tiri|adj
+傲	angkuh,bangga,bengah,berakah,berbangga,besar mulut,bongkak,bulan jatidiri
+傲慢	angkuh,berakah,keangkuhan,kocak|v,sombong,tinggi hati,besar mulut,lagak
+傲慢作	lagak
+傲慢作风	lagak
+傲慢的	besar mulut,petentangan,pongah,rangah
+傲效	ikut|v
+傲的	huju,jemawa,lagak,pongah,rangah,ranggi
+傲的态	lagak
+傲的态度	lagak
+冲	merejah,antuk|v,bertuh,bilas|v,empas,gerak hati,geseran,jamban|n
+冲上	terdampar
+冲上岸	terdampar
+冲上岸边	terdampar
+冲下	tukik
+冲入	rejah
+冲凉	jamban|n
+冲凉房	jamban|n
+冲击	bertuh,empas,mendampar,menghempas
+冲动	gerak hati
+冲劲	pusa
+冲向	terkam|v
+冲向前	terkam|v
+冲器	penampan|n
+冲撞	senggut
+冲洗	bilas|v,membilas
+冲目	kelupas|v
+冲目标	kelupas|v
+冲破	menempuh,tempuh
+冲突	antuk|v,geseran,konflik|n,pertentangan,sentuh|v,singgung|v,simbar
+冲突而	simbar
+冲突而成	simbar
+冲突而成的	simbar
+冲突而成的大	simbar
+冲突而成的大浪	simbar
+冲进	melanda
+冲锋	rempuh
+劲	pusa
+嘲	ajuk,ejek|v,memekis,mengatai|v,olok-olok,pekis,tacod
+嘲弄	ajuk,ejek|v,memekis,pekis,tacod
+嘲弄的	tacod
+嘲笑	ejek|v,memekis,mengatai|v,olok-olok,pekis
+悲	ayuh,berdukacita,dengan|prep,duka,dukacita,gelabah,hidung dicium pipi digigit,keluh|n
+悲伤	berdukacita,duka,gelabah,keluh|n,nestapa|n,ngenas,pilu,rawan
+悲伤地	dengan|prep
+悲伤的	dukacita,masyghul,metu
+悲剧	tragedi|n
+悲号	memek,rengek
+悲叹	ayuh,ratap,rintih,mongkos
+悲叹的	mongkos
+悲哀	duka,dukacita,nestapa|n,sayu-sayu,sugul,tingkis,rayu,sayu
+悲哀的	rayu,sayu
+悲心	perut hijau|adj
+悲心的	perut hijau|adj
+悲惨	tragik|adj
+悲惨的	tragik|adj
+悲痛	pedih|adj,seksa|n
+悲痛的	pedih|adj,seksa|n
+悲的	manan,rahim|n,rahman
+悲观	pesimis|adj,pesimistik|adj
+悲观的	pesimistik|adj
+悲观论	pesimis|adj
+悲观论者	pesimis|adj
+欲	hawa nafsu,mau-mahu,sualak,dahagi,giur|adj,idam|v,keinginan,maksud|n
+欲刺	sambal|n
+欲刺激	sambal|n
+欲刺激物	sambal|n
+欲望	hawa nafsu,keinginan,minat|n,pusa,syarak
+欲的	dahagi,giur|adj,ulam|n
+欲的腌	ulam|n
+欲的腌菜	ulam|n
+欲睡	ralip
+欲睡的	ralip
+欲神	tasawuf|n
+欲神秘	tasawuf|n
+欲神秘主	tasawuf|n
+欲神秘主义	tasawuf|n
+欲苦	mewek
+洲	benua|n,aligator,amerika utara,asia,belati|n,borneo,daratan|n,dingo|n
+洲人	kerbau afrika|n,kucing borneo|n,kucing emas|n,kucing liar afrika|n,kucing liar asia|n,kucing merah|n,kucing merah borneo|n,kucing tulap|n
+洲狮	kugar|n,puma|n
+洲的	belati|n,eropah,kerbau afrika|n,kucing borneo|n,kucing emas|n,kucing liar afrika|n,kucing merah|n,kucing merah borneo|n
+洲虎	jaguar|n
+洲野	dingo|n
+洲野犬	dingo|n
+洲鳄	aligator
+液	air koloh,air mani|n,baja air,bendalir,bisa|adj,cair|adj,cairkan,cecair|n
+液体	baja air,bendalir,cair|adj,cecair|n,cairkan,minyak sapi|n
+液体奶	minyak sapi|n
+液体奶油	minyak sapi|n
+液態	petrol|n
+液態烴	petrol|n
+液態烴類	petrol|n
+液態烴類組	petrol|n
+液態烴類組成	petrol|n
+液棕	kabung|n
+液棕榈	kabung|n
+液棕榈树	kabung|n
+玲	dering,ting
+玲声	dering
+玲玲	dering
+玲玲声	dering
+玲钉	ting
+甲	cangkerang,berinai,berkuku,dek,geladak,gelumat,gondok,inai|n
+甲壳	karapas|n,krustasia
+甲壳动	krustasia
+甲壳动物	krustasia
+甲必	kapitan|n
+甲必丹	kapitan|n
+甲板	dek,gelumat,geladak,magun
+甲树	melaka
+甲状	gondok
+甲状腺	gondok
+甲状腺肿	gondok
+甲花	inai|n,pacar|n
+甲藤	semambu
+甲虫	kabur-kabur,kumbang|n
+疲	besu,jerih,kelesuan,kemalai,lelah|adj,lesa,lesu,payah|adj
+疲乏	penat|adj,payah|adj
+疲乏的	payah|adj
+疲倦	jerih,lelah|adj,penat|adj,kemalai,lesu,rimpuh
+疲倦的	kemalai,lesu,rimpuh
+疲力	penat lelah
+疲力尽	penat lelah
+疲劳	besu,jerih,kelesuan,penat|adj,lelah|adj,rimpuh
+疲劳的	lelah|adj,rimpuh
+疲惫	lesa
+碲	telurium|n
+纲	araknid|n,ikhtisar,inti-pati,intisari,sukatan
+纲动	araknid|n
+纲动物	araknid|n
+纲要	sukatan
+育	ajaran|n,asuh|v,asuhan,bangkut,bela,berpendidikan,bulus,buta huruf|adj
+育不	bangkut
+育不健	bangkut
+育不健全	bangkut
+育幼	prasekolah|n
+育幼院	prasekolah|n
+育的	berpendidikan,bulus,mandul|adj,safan-safa|adj,tandus|adj,terdidik,terpelajar
+育过	melung
+育过早	melung
+育过早的	melung
+育馆	stadium|n
+莲	mekula,seroja|n,durian|n,durian punggai,lempuk,nangka belanda,patma,pungai
+莲糕	lempuk
+莲花	teratai|n,patma
+蒲	bantal|n,jerangau|n,paliman|n
+蒲公	paliman|n
+蒲公英	paliman|n
+蒲团	bantal|n
+讲	bilang|v,cakap|v,kata|n,mengisahkan,assalam,bengap|adj,berbual-bual,berceramah
+讲义	kuliah|n,syarah
+讲台	mimber
+讲后	assalam
+讲后信	assalam
+讲后信后	assalam
+讲后信后的	assalam
+讲后信后的祝	assalam
+讲后信后的祝语	assalam
+讲和	berdamai
+讲大	berbual-bual,bual|n,cakap besar
+讲大话	berbual-bual,bual|n,cakap besar
+讲师	mahaguru|n,pensyarah|n
+讲废	cakap angin
+讲废话	cakap angin
+讲故	bercerita|v
+讲故事	bercerita|v
+讲空	cakap angin
+讲空话	cakap angin
+讲笑	bergurau senda
+讲笑话	bergurau senda
+讲经	berkhutbah,mimber
+讲经台	mimber
+讲者	penceramah
+讲词	ucapan|n
+讲话	tuturan,bengap|adj,diam-diam
+讲话吞	bengap|adj
+讲话吞吞	bengap|adj
+讲话吞吞吐	bengap|adj
+讲话吞吞吐吐	bengap|adj
+讲话吞吞吐吐不	bengap|adj
+讲话吞吞吐吐不清	bengap|adj
+讲话吞吞吐吐不清楚	bengap|adj
+讲话的	diam-diam
+讲述	memerikan,memperkatakan|v,mengisahkan,rawikan
+讲道	syarah
+躲	berlindung,berselindung,bersembunyi,gelipar,jauhkan diri,jelimput,jerembat,kelit
+躲开	gelipar,jelimput
+躲藏	berselindung,bersembunyi,menyuruk
+躲避	berlindung,jauhkan diri,jerembat,selindung
+防	aspada,awas|v,berjaga-jaga,dermaga,embarau,ikhtiyat|n,jeti|n,keledar
+防务	pertahanan|n
+防卫	pertahanan awam|n
+防守	keledar
+防栓	pili bomba|n
+防止	lalau
+防波	dermaga,jeti|n
+防波堤	dermaga,jeti|n
+防部	kementerian pertahanan
+露	anjung|n,beranda|n,berandang,berguk,berkhemah,dedah|v,embun|n,embun betina
+露兜	pandan wangi|n
+露兜树	pandan wangi|n
+露出	menyengihkan,sengih,terbit|v
+露台	anjung|n,beranda|n
+露水	embun|n,kendak
+露水鸳	kendak
+露水鸳鸯	kendak
+露珠	embun|n
+露的	dedah|v,mujarad
+露眼	berguk,merguk
+露眼面	berguk,merguk
+露眼面幂	merguk
+露眼面罩	berguk
+露脊	paus kepala busur|n
+露脊鲸	paus kepala busur|n
+露营	berkhemah,kem|n

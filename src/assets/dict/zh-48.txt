@@ -1,0 +1,426 @@
+丰	kelimpahan|n,lacak,lunak|adj,mewah|adj,montok|adj,peridi
+丰富	kelimpahan|n,lacak,peridi
+丰富的	lacak,peridi
+丰满	lunak|adj,montok|adj
+丰满的	lunak|adj,montok|adj
+丰生	mewah|adj
+丰生的	mewah|adj
+丰饶	mewah|adj
+丰饶的	mewah|adj
+估	anggap,anggar,duga|v,gamak,kadaran|n,kira|v,menaksir,menganggarkan
+估价	menghargai|v
+估定	nilaian
+估计	anggap,anggar,gamak,kira|v,menganggarkan,sangka|v,ura
+估量	duga|v,menaksir
+冰	air batu|n,ais|n,es|n,ais krim|n,aiskrim|n,gula batu,hoki|n,lautan artik
+冰库	peti sejuk beku|n
+冰板	papan luncur|n,papan selaju|n
+冰洋	lautan artik,lautan selatan
+冰淇	ais krim|n,aiskrim|n
+冰淇淋	ais krim|n,aiskrim|n
+冰球	hoki|n
+冰箱	lemari es|n,peti air batu|n,peti ais|n,peti sejuk|n
+冰糖	gula batu
+到	had|n,hingga|prep,hinggakan,ke|conj,alkisah,ayon|adv,barek|v,bawah umur
+到一	kesamping
+到一旁	kesamping
+到不	bintangnya gelap
+到不幸	bintangnya gelap
+到会	hadirin
+到会的	hadirin
+到会的人	hadirin
+到保	terjamin
+到保证	terjamin
+到前	kemuka
+到前面	kemuka
+到处	barek|v,jangla,menyepahkan,menyinggah
+到处乱	menyepahkan
+到处乱撒	menyepahkan
+到处停	menyinggah
+到处停泊	menyinggah
+到处搜	barek|v
+到处搜索	barek|v
+到处走	jangla
+到席	hadirat|n
+到底	gerangan
+到恐	menyeramkan
+到恐怖	menyeramkan
+到此	sekianlah,senggan
+到此为	sekianlah,senggan
+到此为止	sekianlah,senggan
+到水	gelabur
+到水里	gelabur
+到法	bawah umur
+到法定	bawah umur
+到法定年	bawah umur
+到法定年龄	bawah umur
+到灵	terinspirasi|v
+到灵感	terinspirasi|v
+到灵感的	terinspirasi|v
+到现	mutakhir|adj
+到现在	mutakhir|adj
+到现在的	mutakhir|adj
+到的	hadir|v,celik
+到达	kedatangan|n,sampai|v,tiba|v
+到过	haji|n
+到过麦	haji|n
+到过麦加	haji|n
+到过麦加朝	haji|n
+到过麦加朝圣	haji|n
+到过麦加朝圣的	haji|n
+到过麦加朝圣的人	haji|n
+到这	kemari
+到这里	kemari
+到这里来	kemari
+到那	ke sana
+到那边	ke sana
+到那边去	ke sana
+到骄	berbangga
+到骄傲	berbangga
+到麦	naik haji
+到麦加	naik haji
+到麦加朝	naik haji
+到麦加朝圣	naik haji
+地	acak-acak|adv,acaran|n,adres,akar umbi|n,alamat|n,alas rumah,ansur,apa benda|pron
+地中	laut rum
+地中海	laut rum
+地主	kolonialis,zamindar|n
+地主义	kolonialis
+地主义者	kolonialis
+地亚	croatia,kroasia
+地产	buatan luar negeri,buatan tempatan
+地产品	buatan luar negeri,buatan tempatan
+地人	jeluang|n,natif|adj
+地位	letak|v,martabat|n,pangkat|n,ketuanan|n
+地倾	mendengarkan
+地倾听	mendengarkan
+地公	jembalang|n
+地写	cakar ayam|n
+地切	menghiris
+地区	daerah|n,kawasan|n,mukim|n,wilayah|n,akar umbi|n,lahan|n,samum
+地区域	lahan|n
+地区的	samum
+地区的热	samum
+地区的热风	samum
+地叫	ngiau
+地名	kabit
+地响	berderai-derai,ngering
+地哭	terisak-isak
+地哭泣	terisak-isak
+地图	atlas,carta|n,peta|n
+地图册	atlas
+地址	adres,alamat|n
+地坐	lungguh
+地基	asas|n,landas,alas rumah
+地契	geran|n
+地层	lunas,patala
+地居	inap desa|n,rumah inap|n
+地居民	inap desa|n,rumah inap|n
+地居民家	inap desa|n,rumah inap|n
+地居民家居	inap desa|n,rumah inap|n
+地居民家居住	inap desa|n,rumah inap|n
+地居民家居住的	inap desa|n,rumah inap|n
+地居民家居住的时	inap desa|n,rumah inap|n
+地居民家居住的时期	inap desa|n,rumah inap|n
+地峡	segenting|n
+地崩	merus
+地工	gonmel
+地工作	gonmel
+地带	zon|n,genting gaza,pangan|n
+地席	hamparan|n,metai
+地平	horizon|n,kaki langit|n,ufuk|n
+地平线	horizon|n,kaki langit|n,ufuk|n
+地心	graviti|n
+地心吸	graviti|n
+地心吸力	graviti|n
+地拉	hina mulianya
+地支	rejang
+地方	acaran|n,daerah artikulasi|n,dudukkan|v,mendudukkan|v,cetek|adj,kubang|n,majlis tempatan,mana-mana|adv
+地方官	residen|n
+地方性	tempatan
+地方性的	tempatan
+地方议	majlis tempatan
+地方议会	majlis tempatan
+地方语	pelat|n
+地方长	prefektur|n
+地方长官	prefektur|n
+地方长官的	prefektur|n
+地方长官的职	prefektur|n
+地方长官的职位	prefektur|n
+地板	lantai|n
+地步	rubu
+地步行	rubu
+地毡	guderi,hambal,permadani
+地毯	hambal,hamparan|n,permadani,permaidani|n,babut|n
+地点	dari mana|adv,duduknya,ke mana|pron,sasaran|n,pumpunan,tempat kerja
+地狱	jahanam|adj,neraka|n,sair,zabaniah,zakum
+地狱之	zakum
+地狱之树	zakum
+地狱火	sair
+地狱的	zabaniah
+地狱的夜	zabaniah
+地狱的夜叉	zabaniah
+地球	apa benda|pron,bentala|n,buana|n,bulat bumi,bumi|n,glob|n,majapada,pertiwi
+地球的	kebendaan
+地理	geografi|n,ilmu alam|n
+地理学	geografi|n,ilmu alam|n
+地的	kolonial,mendamparkan,tempatan
+地的洗	mendamparkan
+地砖	batu jubin,jubin
+地神	jembalang|n
+地笑	terkekek-kekek
+地纯	suci hati
+地纯洁	suci hati
+地纯洁的	suci hati
+地耕	meluh
+地耕种	meluh
+地脂	kebayakan
+地脂肪	kebayakan
+地衣	lumut|n
+地讲	cakap betul-betul
+地话	sekolah jenis kebangsaan|n
+地说	beleter,epeh
+地说话	beleter
+地走	bertatih-tatih
+地转	polang-paling
+地转变	polang-paling
+地道	jabanah
+地邪	berniat jahat|adj
+地邪恶	berniat jahat|adj
+地邪恶的	berniat jahat|adj
+地雷	periuk api|n
+地震	gempa bumi|n,lindu bumi
+堰	bendung|n
+宰	gorok,membantai|v,menyembelih,patih,sembelih,temenggung,wazir|n,zabah|n
+宰杀	gorok,membantai|v,menyembelih,zabah|n
+宰杀家	zabah|n
+宰杀家畜	zabah|n
+宰相	patih,wazir|n,temenggung
+宰相之	temenggung
+宰相之高	temenggung
+宰相之高级	temenggung
+宰相之高级官	temenggung
+宰相之高级官员	temenggung
+撰	mujamal
+撰成	mujamal
+撰成一	mujamal
+撰成一集	mujamal
+撰成一集的	mujamal
+新	baharu|adj,baru|adj,ejaan baru,anak bulan,anak merah|n,arta,artaberita,artawan
+新人	orang baru
+新剂	penyegar udara|n
+新加	dolar singapura,ringgit singapura,riyal|n,singapura
+新加坡	singapura,dolar singapura,ringgit singapura,riyal|n
+新加坡元	dolar singapura,ringgit singapura,riyal|n
+新娘	mempelai|n,pengantin,raja sehari|n,lelat
+新娘的	lelat
+新娘的栳	lelat
+新娘的栳叶	lelat
+新婚	peterana,sadang,sading
+新婚的	peterana
+新婚的座	peterana
+新婚的座位	peterana
+新婚礼	sadang,sading
+新婚礼塌	sadang,sading
+新婚礼塌的	sadang,sading
+新婚礼塌的屏	sadang,sading
+新婚礼塌的屏幕	sadang,sading
+新客	orang baru,singkek|n
+新年	tahun baru,selamat tahun baru|int
+新年快	selamat tahun baru|int
+新年快乐	selamat tahun baru|int
+新式	moden|adj
+新式的	moden|adj
+新房	lamin|n
+新房的	lamin|n
+新房的床	lamin|n
+新月	anak bulan,bulan perbani,bulan sabit|adj,bulan terbit,bulan timbul,bulan sabit merah
+新月会	bulan sabit merah
+新来	sengkek|n,singkek|n
+新来的	singkek|n
+新来的华	singkek|n
+新来的华侨	singkek|n
+新来者	sengkek|n
+新版	edisi baru
+新生	anak merah|n
+新生儿	anak merah|n
+新的	inovatif|adj
+新约	perjanjian baru
+新约全	perjanjian baru
+新约全书	perjanjian baru
+新近	baharu-baharu
+新近的	baharu-baharu
+新造	penghutanan semula|n
+新造林	penghutanan semula|n
+新郎	mempelai|n,pengantin,peterana,lelat,sigar
+新郎之	sigar
+新郎之头	sigar
+新郎之头巾	sigar
+新郎送	lelat
+新郎送给	lelat
+新郎送给新	lelat
+新郎送给新娘	lelat
+新郎送给新娘的	lelat
+新郎送给新娘的栳	lelat
+新郎送给新娘的栳叶	lelat
+新闻	arta,artaberita,berita|n,khabar|n,warta|n,artawan,berita harian,berita mingguan
+新闻业	kewartawanan|n
+新闻工	jurnalis
+新闻工作	jurnalis
+新闻工作者	jurnalis
+新闻报	artaberita
+新闻报告	artaberita
+新闻杂	kolum
+新闻杂志	kolum
+新闻杂志栏	kolum
+新闻记	artawan,beritawan,pemberita,wartawan|n
+新闻记者	artawan,beritawan,pemberita,wartawan|n
+新鲜	segar|adj
+械	alat perkakas,jentera|n,mekanik|adj,mesin|n
+械工	mekanik|adj
+械工人	mekanik|adj
+椰	sagun,bacuk,cebok,gaba,gayung|n,gelamai,geluk,ijuk|n
+椰乳	mancak,pati santan,santan|n
+椰叶	gaba,puris
+椰叶的	puris
+椰叶的梗	puris
+椰叶的梗或	puris
+椰叶的梗或筋	puris
+椰壳	bacuk,cebok,gayung|n,geluk,kelongkong,tempurung|n
+椰壳勺	bacuk,cebok
+椰壳杓	gayung|n,geluk
+椰子	kelambir|n,kelapa|n,nyiru|n,nyiur|n,onde-onde,sabut
+椰子做	onde-onde
+椰子做成	onde-onde
+椰子外	sabut
+椰子外皮	sabut
+椰斗	nasi lemak|n
+椰斗煮	nasi lemak|n
+椰斗煮的	nasi lemak|n
+椰斗煮的饭	nasi lemak|n
+椰树	kabur-kabur
+椰树甲	kabur-kabur
+椰树甲虫	kabur-kabur
+椰浆	santan|n
+椰渣	kepiat,ruban
+椰穗	mayang
+椰穗花	mayang
+椰糕	gelamai
+椰糕名	gelamai
+椰糖	ijuk|n,nau,onde-onde
+椰糖作	onde-onde
+椰糖作馅	onde-onde
+椰糖作馅的	onde-onde
+椰糖作馅的团	onde-onde
+椰糖作馅的团子	onde-onde
+椰糖树	nau
+椰糖棕	ijuk|n
+椰糖棕榈	ijuk|n
+椰糖棕榈的	ijuk|n
+椰糖棕榈的黑	ijuk|n
+椰糖棕榈的黑色	ijuk|n
+椰糖棕榈的黑色纤	ijuk|n
+椰糖棕榈的黑色纤维	ijuk|n
+椰花	sadap,todi,tuak
+椰花酒	todi,tuak,sadap
+椰花酒杵	sadap
+椰花酒杵的	sadap
+椰花酒杵的汁	sadap
+椰芽	tombang,umbut|n
+椰菜	umbut|n,kubis bunga|n
+椰酒	lahang
+椰骨	lidi
+焰	nyala|n
+爰	mencintai,bercinta-cintaan,cenderamata|n,cengeng,cengkerama|n,cinta berahi,cinta kasih,sundari
+爰人	cenderamata|n
+爰哭	cengeng
+爰情	cinta berahi,cinta kasih
+爰爰	bercinta-cintaan
+爰的	sundari,tercinta
+犰	armadillo|n
+犰狳	armadillo|n
+现	angtunai,bangkit,bayar tunai,berbayang|v,beregek|adj,gejala|n,jelma|v,kini|adj
+现今	kini|adj
+现代	zaman sekarang,beregek|adj,regek|adj
+现代风	beregek|adj,regek|adj
+现代风格	beregek|adj,regek|adj
+现代风格的	beregek|adj,regek|adj
+现在	mempersembahkan|v,saat ini,sekarang|adv,setakat|prep,membayang|v,mutakhir|adj
+现在的	mutakhir|adj
+现在脑	membayang|v
+现在脑海	membayang|v
+现在脑海里	membayang|v
+现实	realistik,realiti maya|n
+现实论	realistik
+现实论的	realistik
+现或	membayang|v
+现或出	membayang|v
+现或出现	membayang|v
+现或出现在	membayang|v
+现或出现在脑	membayang|v
+现或出现在脑海	membayang|v
+现或出现在脑海里	membayang|v
+现款	angtunai,kontan,tunai|adj,bayar tunai
+现象	gejala|n
+现金	angtunai,pulangan tunai|n
+现金返	pulangan tunai|n
+现金返还	pulangan tunai|n
+環	petrol|n
+環境	petrol|n
+田	bendang|n,berladang|v,bersawah,huma|n,kodok|n,paya|n,sawah|n,tenggalakan
+田为	bersawah
+田为生	bersawah
+田的	watas
+田的硬	watas
+田鸡	kodok|n
+瞰	panorama
+砰	geredam,geredum-geredam,berdebuk,budaya pop|n,debak|n,debuk,keletang,kudeta|n
+砰然	berdebuk,budaya pop|n,debuk,keletang,kudeta|n,lebap,pung,rampasan kuasa|n
+砰然作	keletang,lebap
+砰然作响	lebap,keletang
+砰然声	berdebuk,budaya pop|n,debuk
+砰然猛	pung
+砰然猛击	pung
+砰然猛击声	pung
+砰然的	kudeta|n,rampasan kuasa|n
+砰然的一	kudeta|n,rampasan kuasa|n
+砰然的一击	kudeta|n,rampasan kuasa|n
+砰的	debak|n,lebak|n
+砰的一	debak|n,lebak|n
+砰的一声	debak|n,lebak|n
+碰	empap,jerembak,ketemu,langgar|v,menyentuh|v,menyigung,pantik,sanggit
+碰击	empap,pantik
+碰撞	langgar|v,menyentuh|v,sentuh|v,terlanggar,sanggit
+碰撞作	sanggit
+碰撞作声	sanggit
+碰见	ketemu,tersompok,jerembak
+碰触	menyigung
+缰	ras|n
+舰	angkatan|n,angkatan laut,armada|n,kapal perang,konvoi
+舰队	angkatan|n,angkatan laut,armada|n,konvoi
+记	apal,artawan,balak|n,banji|n,beritawan,biografi,buku catatan|n,buku rampaian
+记人	bukukan
+记亿	apal
+记住	hafal|v,ingat|v
+记号	isyarat|n,romba,banji|n
+记录	balak|n,catan,catat,daftar|n,jadual|n,maktub,mencatat,rekod
+记录片	dokumentari|n
+记得	ingat|v,mengingat|v
+记忆	ingatan|n,kenangan|n,peringatan
+记念	kenang-kenangan,peringatan
+记日	pentarikhan|n
+记日期	pentarikhan|n
+记日期的	pentarikhan|n
+记本	buku catatan|n
+记簿	buku rampaian,diari|n
+记者	jurnalis,rakaman|n,artawan,beritawan,pemberita,wartawan|n
+记起	mengingatkan
+记载	maktub,prasasti|n
+辰	keputeraan,maulud,periang
+辰日	maulud
+锰	batu kawi|n,mangan|n
+霰	mimis
+骰	buah dadu,dadu,parih,tikam dadu,undi|v
+骰子	buah dadu,dadu,undi|v,parih
+骰赌	tikam dadu
+骰赌钱	tikam dadu

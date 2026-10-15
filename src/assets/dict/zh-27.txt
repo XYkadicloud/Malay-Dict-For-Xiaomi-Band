@@ -1,0 +1,237 @@
+丛	kelompok|n,belukar|n,hutan belukar,koyote|n,rimba|n,rimba hutan,rumpun,semak|n
+丛书	siri|n
+丛林	belukar|n,rimba|n,rimba hutan,semak|n,hutan belukar,koyote|n,semak-samun|n
+丛林狼	koyote|n
+些	berbilang,jirai,kiting,mata jahat|n,sebahagian|det
+些人	mata jahat|n
+些人具	mata jahat|n
+些人具有	mata jahat|n
+些人具有目	mata jahat|n
+些人具有目视	mata jahat|n
+些人具有目视他	mata jahat|n
+些人具有目视他人	mata jahat|n
+些人具有目视他人而	mata jahat|n
+些人具有目视他人而使	mata jahat|n
+些人具有目视他人而使之	mata jahat|n
+些人具有目视他人而使之遭	mata jahat|n
+些人具有目视他人而使之遭殃	mata jahat|n
+些人具有目视他人而使之遭殃的	mata jahat|n
+些人具有目视他人而使之遭殃的能	mata jahat|n
+些人具有目视他人而使之遭殃的能力	mata jahat|n
+些少	jirai,kiting
+伛	mongkok
+伛偻	mongkok
+伛偻的	mongkok
+供	aju|v,akafkan,bekalan|n,bekalan air,bekalan elektrik,bekalkan,informan|n,kaunseling|v
+供制	nira
+供制糖	nira
+供制糖用	nira
+供品	semah
+供奉	akafkan
+供奉于	akafkan
+供奉于宗	akafkan
+供奉于宗教	akafkan
+供应	bekalkan,membekali,bekalan|n,bekalan air,bekalan elektrik,rangkaian bekalan|n
+供应品	bekalan|n
+供应链	rangkaian bekalan|n
+供晴	patio|n
+供晴天	patio|n
+供晴天休	patio|n
+供晴天休息	patio|n
+供晴天休息用	patio|n
+供晴天休息用的	patio|n
+供晴天休息用的石	patio|n
+供晴天休息用的石砌	patio|n
+供晴天休息用的石砌空	patio|n
+供消	informan|n
+供消息	informan|n
+供消息者	informan|n
+供给	bekalkan,membiayai
+供给费	membiayai
+供给费用	membiayai
+供证	syahadat
+军	kor|n,admiral,ang mo kio,angkatan darat,angkatan udara,askar|n,bala tentera,brigedier|n
+军上	admiral,jeneral|n,kolonel
+军上将	admiral
+军上校	jeneral|n,kolonel
+军事	mahkamah tentera|n,perarakan tentera|n
+军事法	mahkamah tentera|n
+军事法庭	mahkamah tentera|n
+军事法庭审	mahkamah tentera|n
+军事法庭审判	mahkamah tentera|n
+军事的	perarakan tentera|n
+军人	askar|n,militer,penjurit,perajurit|n,serdadu|n,tentera|n
+军准	brigedier|n
+军准将	brigedier|n
+军刀	kelewang,pedang
+军国	ang mo kio
+军国民	ang mo kio
+军国民警	ang mo kio
+军国民警卫	ang mo kio
+军国民警卫队	ang mo kio
+军基	pangkalan udara
+军基地	pangkalan udara
+军士	pegawai tidak tauliah|n
+军大	laksamana|n
+军大将	laksamana|n
+军曹	sarjan|n
+军校	kadet
+军校学	kadet
+军校学生	kadet
+军的	pangkalan tentera laut|n
+军监	lapan puluh empat|num
+军监狱	lapan puluh empat|num
+军身	kejohanan|n
+军身份	kejohanan|n
+军都	laksamana|n
+军都督	laksamana|n
+军队	bala tentera,lasykar,militer,pasuk,perarakan tentera|n
+创	adakan,barotrauma|n,bekaskan|v,bina|v,cipta|n,ciptaan,daya cipta,gubah
+创伤	luka|n,tuna|n,barotrauma|n
+创作	cipta|n,ciptaan,gubah,karang mengarang,mencipta|v,rekaan
+创办	menaja,mendirikan,pengasas
+创办人	pengasas
+创立	bina|v
+创造	adakan,bekaskan|v,cipta|n,rekacipta,daya cipta,khalayak,kreatif,kreativiti|n
+创造力	daya cipta,kreativiti|n
+创造性	kreatif
+创造性的	kreatif
+创造物	khalayak,makhluk|n
+力	kekuasaan,aerodinamik|adj,afsun|n,amang|n,autoriti|n,beca|n,berbenak,berdikari|v
+力上	oku|adj
+力上迟	oku|adj
+力上迟钝	oku|adj
+力上迟钝的	oku|adj
+力以	dengan sesungguhnya
+力以赴	dengan sesungguhnya
+力制	coklat|n
+力制的	coklat|n
+力学	aerodinamik|adj
+力学的	aerodinamik|adj
+力尽	penat lelah
+力工	berusaha
+力工作	berusaha
+力年	usia mental|n
+力年龄	usia mental|n
+力想	jengkau
+力想得	jengkau
+力想得到	jengkau
+力打	hentam|v,menghentam
+力投	menghempas
+力投掷	menghempas
+力担	gotong
+力拉	merentap,rentap,tarik tali|n
+力掷	hempas
+力摆	gelodar
+力摆脱	gelodar
+力擦	gelosok
+力更	berdikari|v
+力更生	berdikari|v
+力水	nagasari
+力牛	milo|n
+力牛奶	milo|n
+力的	amang|n,berhak|adj,berupaya|v,budi|n,cekap|adj,cergas,gunatenaga,kejur
+力的人	magnet|n
+力的使	gunatenaga
+力的使用	gunatenaga
+力石	canai|n
+力磨	kincir air|n
+力表	jangka angin
+力踏	menghentak
+力车	beca|n,lancia|n
+力量	daya|adj,kekuasaan,kekuatan|n,muthu|n,tekanan,tenaga|n,daya ghaib
+力锻	senam|v
+力锻炼	senam|v
+君	pakanira,farisi|n,hipokrit|n,munafik|n,nata,raja|n
+君主	nata
+君子	raja|n,farisi|n,hipokrit|n,munafik|n
+宛	bagaikan|prep,sebagai|conj
+宛如	bagaikan|prep,sebagai|conj
+岛	magindanau,merambong,nusa|n,pulau|n,pulau brani,seringat,andalas,bali
+岛之	andalas
+岛之古	andalas
+岛之古名	andalas
+弛	gembur|v,kendur,lombar
+弛的	gembur|v
+抛	campak|n,eban,lanting,lempar|v,melantingkan,melempar,melemparkan,melontarkan
+抛弃	tinggalkan
+抛投	melabuhkan|v
+抛掷	banting|n,haban,hempas,lotar
+抛石	manjanik|n
+抛石机	manjanik|n
+抛锚	bongkar,melabuh|v
+抛锚停	melabuh|v
+抛锚停泊	melabuh|v
+挛	kedul,sawan
+挛乱	sawan
+望	memandang|v,ambisi,asa|n,asam jawa|n,aspirasi,bengah,berhajat,berharap|v
+望子	asam jawa|n
+望的	kaki ponteng|n,pengas|adj,putus asa
+望远	teleskop,terompong
+望远镜	teleskop,terompong
+望镜	periskop
+氛	daba
+沛	kerin
+洛	faktor lorentz|n,heroin,kebasi|n,maghribi,slovenia
+洛伦	faktor lorentz|n
+洛伦兹	faktor lorentz|n
+洛伦兹因	faktor lorentz|n
+洛伦兹因数	faktor lorentz|n
+洛哥	maghribi
+洛文	slovenia
+洛文尼	slovenia
+洛文尼亚	slovenia
+洛英	heroin
+洛赫	kebasi|n
+涛	gelombang|n,kekat
+猛	buas|adj,empas,galak|adj,ganas|adj,gempur,godam|n,kecambuk,kencang|adj
+猛兽	mergastua
+猛冲	terkaman
+猛击	godam|n,lutu,melantak,pung
+猛击声	pung
+猛扑	menerpa,terpa|v
+猛拉	meruntum
+猛掷	empas
+猛攻	gempur,luru|v,meluru|v,serbu
+猛烈	kecambuk,kencang|adj
+猛烈的	kecambuk,kencang|adj
+猛的	galak|adj,ganas|adj,kecambuk
+猛砍	tajak|v
+玛	akik|n,ismail,maria
+玛丽	maria
+玛利	ismail
+玛瑙	akik|n
+笛	medali,salung,seruling|n,bangsi,genggong,ginggung,mandali,peluit|n
+笛子	peluit|n,puput|v,serdam,wisel|n
+笛的	mandali
+笛的一	mandali
+笛的一种	mandali
+肛	dubur|n,jubur,pantat|n
+肛门	dubur|n,jubur,pantat|n
+莛	torak
+莛子	torak
+褛	cetai,cobak-cabik,cobar-cabir,compang,lokoh,lunyai,robak,rombeng
+褛的	cetai,cobak-cabik,cobar-cabir,compang,lokoh,lunyai,robak,rombeng
+辛	bersusah-susah,pahit getir,perencah|n
+辛万	pahit getir
+辛万苦	pahit getir
+辛苦	bersusah-susah
+辛苦苦	bersusah-susah
+辛辛	bersusah-susah
+辛辛苦	bersusah-susah
+辛辛苦苦	bersusah-susah
+辛辣	perencah|n
+辛辣调	perencah|n
+辛辣调味	perencah|n
+辛辣调味品	perencah|n
+逛	berkeliaran,kaki rambu|n,keliar,lonco,makan angin|v,mat rambu|n,tualang
+逛的	kaki rambu|n,mat rambu|n
+逛的人	kaki rambu|n,mat rambu|n
+逛荡	tualang
+逛风	makan angin|v
+钛	titanium|n
+際	dam|adj,mak kau hijau
+際含	mak kau hijau
+際含義	mak kau hijau
+際跳	dam|adj
+際跳棋	dam|adj

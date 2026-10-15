@@ -1,0 +1,300 @@
+伶	cerdas,peran|n,pintar|adj,sebatang kara
+伶人	peran|n
+伶仃	sebatang kara
+伶俐	cerdas,pintar|adj
+伶俐的	cerdas,pintar|adj
+制	abnus|n,absolutisme|n,adikara,alih suara|n,bacuk,belat,belati|n,berida
+制主	absolutisme|n
+制主义	absolutisme|n
+制乐	buluh perindu,perindu
+制乐器	buluh perindu,perindu
+制作	bikin|v,videografi|n
+制使	catu
+制使用	catu
+制凝	renet|n
+制凝乳	renet|n
+制凝乳酶	renet|n
+制动	berida
+制动器	berida
+制品	bikinan,seramik|n
+制容	takar|n
+制容器	takar|n
+制度	sistem|n,hierarki|n
+制弦	genggong
+制弦琴	genggong
+制成	bacuk,tepung beras,terubung
+制成之	bacuk
+制成之盛	bacuk
+制成之盛水	bacuk
+制成之盛水器	bacuk
+制成的	tepung beras,terubung
+制成的木	terubung
+制成的木桶	terubung
+制成的粉	tepung beras
+制护	pasport terhad
+制护照	pasport terhad
+制方	cekar
+制方向	cekar
+制服	pakaian seragam,uniform
+制止	cegah|v
+制滥	gabas
+制滥造	gabas
+制滥造的	gabas
+制片	sinematografi|n
+制片术	sinematografi|n
+制的	abnus|n,belati|n,coklat|n,mentah|adj,subal,terhad|adj
+制糖	nira
+制糖用	nira
+制花	gubah
+制花环	gubah
+制药	menguntal
+制药丸	menguntal
+制解	modem|n
+制解调	modem|n
+制解调器	modem|n
+制订	gubal,menggubal
+制论	sibernetik|n
+制造	buat|v,membuat|v,pengeluaran|n,buatan,memperdangkal
+制造品	buatan
+制造水	memperdangkal
+制造水浅	memperdangkal
+制造水浅的	memperdangkal
+制造水浅的地	memperdangkal
+制造水浅的地方	memperdangkal
+制酪	tenusu
+制酪业	tenusu
+制鱼	belat,jermal
+制鱼笼	belat,jermal
+嘶	desis|n,garau|adj,meringkik|v,parau|adj,ringkik|n
+嘶哑	garau|adj,parau|adj
+嘶哑的	garau|adj,parau|adj
+嘶嘶	desis|n
+嘶嘶声	desis|n
+嘶声	desis|n,meringkik|v
+娶	beristeri
+娶妻	beristeri
+家	rumah|n,adib,ahli|n,ahli bahasa,ahli fikir|n,ahli sains|n,anak bini,anak-beranak
+家东	buruk siku
+家东西	buruk siku
+家东西再	buruk siku
+家东西再向	buruk siku
+家东西再向人	buruk siku
+家东西再向人要	buruk siku
+家东西再向人要回	buruk siku
+家主	nasionalistik|adj
+家主义	nasionalistik|adj
+家主义的	nasionalistik|adj
+家之	tuan rumah
+家之主	tuan rumah
+家人	isi rumah,anak-beranak
+家伙	orang lanat
+家俱	perkakas rumah
+家具	perabot|n
+家可	gelandangan|n,tuna wisma|n
+家可归	gelandangan|n,tuna wisma|n
+家奴	sahaya|n
+家官	teknokratik|adj
+家官员	teknokratik|adj
+家官员组	teknokratik|adj
+家官员组成	teknokratik|adj
+家官员组成的	teknokratik|adj
+家宝	manah
+家室	anak bini
+家宪	dasar negeri
+家宪法	dasar negeri
+家居	inap desa|n,rumah inap|n
+家居住	inap desa|n,rumah inap|n
+家居住的	inap desa|n,rumah inap|n
+家居住的时	inap desa|n,rumah inap|n
+家居住的时期	inap desa|n,rumah inap|n
+家属	kaum|n,sanak
+家度	cuti inap|n
+家度假	cuti inap|n
+家庭	anak bini,famili|n,insanak|n,kaum|n,keluarga|n,rumah-tangga,domestik|adj
+家庭的	domestik|adj
+家搬	imbit
+家搬走	imbit
+家政	teknokrasi|n
+家政治	teknokrasi|n
+家政治论	teknokrasi|n
+家族	famili|n,gingsi,kaum|n
+家治	teknokrat|n
+家治国	teknokrat|n
+家治国论	teknokrat|n
+家治国论者	teknokrat|n
+家畜	binatang jinak,ternak,ternakan,zabah|n
+家的	diraja|adj,kebangsaan|n,nasional|adj,sekolah kebangsaan|n
+家眷	kaum|n
+家礼	hormat diraja|n
+家礼炮	hormat diraja|n
+家禽	ternakan,reban|n
+家禽栖	reban|n
+家禽栖息	reban|n
+家禽栖息之	reban|n
+家禽栖息之所	reban|n
+家系	nisbah|n,susur galur|n,saka,saka-baka
+家谱	salasilah|n,susur galur|n
+庶	anak haram|n
+庶出	anak haram|n
+庶出之	anak haram|n
+庶出之子	anak haram|n
+收	simpan|v,absorptif|adj,aduktor|n,berakhir,berdaya serap|adj,emak angkat|n,ibu angkat|n,isap
+收买	raih
+收入	pendapatan|n
+收养	emak angkat|n,ibu angkat|n,mak angkat|n
+收养关	emak angkat|n,ibu angkat|n,mak angkat|n
+收养关系	emak angkat|n,ibu angkat|n,mak angkat|n
+收养关系的	emak angkat|n,ibu angkat|n,mak angkat|n
+收到	menerima|v,tadah|v,terima|v
+收剂	penyerap|n
+收割	menuai,panen,tuai|v
+收受	penerima
+收受者	penerima
+收器	penyerap|n
+收场	berakhir
+收容	menampung
+收性	absorptif|adj,berdaya serap|adj
+收性的	absorptif|adj,berdaya serap|adj
+收拾	kemas|adj,membereskan,mengemaskan
+收据	resit
+收缩	mau|v,mengkerit,oleh itu|conj,seruh,susutan
+收肌	aduktor|n
+收获	panen,tuaian|n
+收藏	simpanan
+收藏物	simpanan
+收购	meraih,tebusan
+收进	masuk melayu|v
+收集	kumpul,kutip|v,mengumpulkan,ramu
+架	bingkai,panggar,para-para,pemidang,sangga,bengkarak,bercedak,beremban
+架上	penyaliban|n
+架上钉	penyaliban|n
+架上钉死	penyaliban|n
+架上钉死的	penyaliban|n
+架上钉死的刑	penyaliban|n
+架上钉死的刑罚	penyaliban|n
+架互	mak kau hijau
+架互罵	mak kau hijau
+架互罵的	mak kau hijau
+架互罵的視	mak kau hijau
+架互罵的視頻	mak kau hijau
+架光	beremban
+架光线	beremban
+架子	rak|n,berlagak-lagak,ledang,ngada,rencik
+溶	cairkan,hancur|v,keterlarutan|n,meleburkan,telap
+溶化	hancur|v
+溶性	keterlarutan|n
+溶解	hancur|v,cairkan,meleburkan
+溶透	telap
+溶透的	telap
+然	abadahu,acak-acakan|adv,alam|n,alaupundemikian,bangkali,berdebuk,biarpun,budaya pop|n
+然也	bangkali
+然也许	bangkali
+然作	keletang,lebap
+然作响	keletang,lebap
+然停	tertegun
+然停止	tertegun
+然后	abadahu,hatta,kemudian|adv
+然地	secara kebetulan
+然声	berdebuk,budaya pop|n,debuk
+然失	mangut
+然失措	mangut
+然捻	randau
+然漆	jepang,jepun
+然猛	pung
+然猛击	pung
+然猛击声	pung
+然的	hampa|adj,kelulu,kudeta|n,makhluk halus|n,memang|adv,mengejut,namus,natural|adj
+然的一	kudeta|n,rampasan kuasa|n
+然的一击	kudeta|n,rampasan kuasa|n
+然的法	namus
+然的法则	namus
+然短	mak kau hijau
+然短語	mak kau hijau
+然短語中	mak kau hijau
+然短語中的	mak kau hijau
+然科	ilmu alam|n
+然科学	ilmu alam|n
+然而	walau bagaimanapun|conj
+然胶	getah asli
+然遇	jerembak
+然遇见	jerembak
+父	pak,abah|n,abuya|n,aki|n,anak-beranak,atuk|n,aya|n,ayah|n
+父亲	abah|n,abuya|n,aya|n,ayah|n,baba|n,bapa|n,bapai|n,bapanda|n
+父亲大	ayahanda|n
+父亲大人	ayahanda|n
+父或	ibu bapa datuk nenek|n
+父或曾	ibu bapa datuk nenek|n
+父或曾祖	ibu bapa datuk nenek|n
+父或曾祖母	ibu bapa datuk nenek|n
+父母	biang|n,emak ayah|n,ibu bapa|n,anak-beranak,mentua|n,nenda|n,nenenda,piatu
+父母再	tiri|adj
+父母再婚	tiri|adj
+父母再婚而	tiri|adj
+父母再婚而构	tiri|adj
+父母再婚而构成	tiri|adj
+父母再婚而构成的	tiri|adj
+父母再婚而构成的亲	tiri|adj
+父母再婚而构成的亲缘	tiri|adj
+父母再婚而构成的亲缘关	tiri|adj
+父母再婚而构成的亲缘关系	tiri|adj
+父母子	anak-beranak
+父母子女	anak-beranak
+父母的	piatu
+状	anarki,bebola|n,bundar|adj,darurat|n,embih,gejala|n,gelang-gelang,gondok
+状况	kecemasan|n
+状剑	parung
+状变	mat disko|n
+状师	loyar|n
+状态	anarki,darurat|n
+状火	kordit|n
+状火药	kordit|n
+状物	bebola|n,gelang-gelang,jejala,kincup
+状的	bundar|adj,kaluk,kapilari|n,lapih,monggok,seran,tengkel
+状碟	kapis|n
+状碟烘	kapis|n
+状碟烘烤	kapis|n
+状突	sunti
+状突起	sunti
+状腺	gondok
+状腺肿	gondok
+状花	mayang
+状词	rupakata
+琶	gambus|n,kecapi,lepu|n
+琶鱼	lepu|n
+眶	mengkung
+眶凹	mengkung
+耶	gelam|n,iesu christi,isa,tahun masihi|n,yerusalem,yesus
+耶布	gelam|n
+耶布油	gelam|n
+耶布油树	gelam|n
+耶稣	iesu christi,isa,yesus,tahun masihi|n
+耶稣纪	tahun masihi|n
+耶稣纪元	tahun masihi|n
+耶路	yerusalem
+耶路撒	yerusalem
+耶路撒冷	yerusalem
+舶	tongkang
+舶货	tongkang
+舶货木	tongkang
+舶货木船	tongkang
+茶	ca,cha|n,teh|n,teh c|n,teh o|n,cangkir|n,cerek,daun teh
+茶叶	ca,daun teh
+茶壶	cerek,poci,teko|n
+茶杯	cangkir|n
+茶盘	lepek
+褶	berkelim,tunduk udang|n
+褶边	berkelim
+讶	kesima
+讶的	kesima
+锶	strontium|n
+阶	limpit,batu loncatan,berkasta,borjuis|n,darjat|n,kasta|n,kesedaran kelas|n,meritokrasi|n
+阶段	tingkat|n,tingkatan
+阶级	darjat|n,kasta|n,pangkat|n,peringkat,berkasta,borjuis|n,kesedaran kelas|n,meritokrasi|n
+阶级分	borjuis|n
+阶级分子	borjuis|n
+阶级意	kesedaran kelas|n
+阶级意识	kesedaran kelas|n
+阶级的	berkasta
+隶	awang|n,hamba|n,kaula|n,kawula|n,kula|n,ladi,mengabdi|v,pengabdian|n
+鲶	baung|n,sembilang
+鲶鱼	baung|n,sembilang

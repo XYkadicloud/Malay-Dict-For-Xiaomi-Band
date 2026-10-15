@@ -1,0 +1,18 @@
+ah	ah	part	哟，呀	Particle to express astonishment  disapproval  dismay  complaint  disagreement.
+ahad	ahad	num	星期日 星期日的	one
+ahai	ahai		阿！呵！
+aham	aham		推测，臆测，怀疑，疑问
+ahana	ahana		爪哇戏剧
+ahera	ahera		雷电，佛头顶上之光圈
+ahid	ahid		唯一的，单一的
+ahlak	ahlak		才能，天才，天份
+ahlan	ahlan		欢迎
+ahli	ahli	n	老练者，专家，成员	member of an organization  society  group etc
+ahlibahasa	ahli bahasa		语言专家
+ahlibedah	ahli bedah	n	外科医生	a surgeon
+ahlibomba	ahli bomba	n	<美>消防队员	firefighter
+ahlifarmasi	ahli farmasi	n	药师	A pharmacist.
+ahlifikir	ahli fikir	n	哲学家	philosopher  thinker  intellectual
+ahlisains	ahli sains	n	科学家	scientist
+ahmad	ahmad		赞美	a male given name from Arabic
+ahmak	ahmak	adj	愚笨的，迟钝的	stupid (lacking in intelligence)

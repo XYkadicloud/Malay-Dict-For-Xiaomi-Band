@@ -1,0 +1,10 @@
+cha	cha	n	茶	tea
+chalet	chalet	n	瑞士山中的牧人小屋	chalet (wooden house)
+cham	cham	n	饮料	a drink that is a mixture of tea and coffee.
+champagne	champagne	n	香槟酒	champagne (sparkling wine made in Champagne)
+changlun	changlun			Changlun (a town in Kubang Pasu district  Kedah  Malaysia)
+chantek	chantek	adj	荒废的
+chator	chator	num	荒废的
+chin	chin		姓	a surname from Chinese
+china	china		中国，华人	China (a country in eastern Asia)
+chukai	chukai			Chukai (a town  the capital of the Kemaman District  Terengganu  Malaysia)

@@ -1,0 +1,213 @@
+东	timur|n,acak|adj,agar-agar|n,barah|n,barang|n,barang apa,benda|n,blok komunis|n
+东主	maoisme|n
+东主义	maoisme|n
+东人	kantonis
+东北	timur laut
+东半	masyrik
+东半球	masyrik
+东南	tenggara|n
+东南方	tenggara|n
+东印	kompeni|n
+东印度	kompeni|n
+东印度公	kompeni|n
+东印度公司	kompeni|n
+东张	lengas,tercangak-cangak
+东张西	lengas,tercangak-cangak
+东张西望	lengas,tercangak-cangak
+东方	masyrik,blok komunis|n
+东方人	blok komunis|n
+东洋	agar-agar|n
+东洋菜	agar-agar|n
+东漏	bocor-bacir
+东漏西	bocor-bacir
+东漏西漏	bocor-bacir
+东西	barah|n,barang|n,benda|n,acak|adj,barang apa,buruk siku,cencangan,cepat tangan
+东西再	buruk siku
+东西再向	buruk siku
+东西再向人	buruk siku
+东西再向人要	buruk siku
+东西再向人要回	buruk siku
+东西的	cepat tangan,panjang tangan|adj
+东西的怪	cepat tangan
+东西的怪癖	cepat tangan
+农	cucuk tanam,kebun sayur,komoditi|n,ladang,peladang|n,pertanian|n,petani|n,tanaman|n
+农业	pertanian|n,tani|n
+农产	komoditi|n
+农产品	komoditi|n
+农作	tanaman|n
+农作物	tanaman|n
+农园	kebun sayur
+农场	ladang
+农夫	peladang|n
+农民	petani|n
+喜	berahi,berpantang,boga|n,cepat tangan,enggan|adv,gemar,geram,jangla
+喜庆	pesta|n
+喜悦	boga|n
+喜欢	berahi,gemar,geram,sudi,suka|v,berpantang,cepat tangan,enggan|adv
+喜欢偷	cepat tangan
+喜欢偷东	cepat tangan
+喜欢偷东西	cepat tangan
+喜欢偷东西的	cepat tangan
+喜欢偷东西的怪	cepat tangan
+喜欢偷东西的怪癖	cepat tangan
+喜欢到	jangla
+喜欢到处	jangla
+喜欢到处走	jangla
+喜爱	gemar
+喜笑	kekek|adj
+喜笑声	kekek|adj
+夜	malam|n,malam raya|n,pasar malam|n,aktumalam,alfu,bermalam,buta ayam,inap|v
+夜叉	zabaniah
+夜星	lima puluh empat|num
+夜星光	lima puluh empat|num
+夜星光诱	lima puluh empat|num
+夜星光诱惑	lima puluh empat|num
+夜晚	aktumalam,suntuk malam,kunut
+夜晚的	kunut
+夜晚的祈	kunut
+夜晚的祈祷	kunut
+夜深	lanjut|adj
+夜盲	buta ayam,rabun ayam|n,rabun senja
+夜盲症	rabun senja
+夜莺	tiak|n
+夜蜂	kerawai
+宜	gegadan,labut,murah|adj,senonoh|adj,yogia
+宜的	gegadan,labut,senonoh|adj,yogia
+帜	cogan|n,kain rentang|n
+府	abdi negara|n,anarki,anarkisme|n,dasar kerajaan,gomen|n,ibu kata,ibu negara|n,kerajaan|n
+府主	anarkisme|n
+府主义	anarkisme|n
+府官	abdi negara|n
+府官员	abdi negara|n
+府状	anarki
+府状态	anarki
+府的	dasar kerajaan
+府的政	dasar kerajaan
+府的政策	dasar kerajaan
+怜	belas kasihan,celaka|adj,hiba,iba kasihan,kasihan|adj,mongkos,pilu,rahmat|n
+怜悯	iba kasihan,pilu,rahmat|n,mongkos
+怜悯的	mongkos
+怜惜	kasihan|adj
+怜爱	pilu
+怜的	celaka|adj,mongkos
+搜	barek|v,bongkar,cahari|v,carian|n,geladah,geledah,gerodak,kerepes
+搜寻	cahari|v,carian|n,kerepes
+搜查	bongkar,geladah,geledah,gerodak,menggeledah,menyelongkar,menyelungkur,selongkar
+搜索	rangai,barek|v
+搜遍	menyelongkar,selongkar
+搜集	koleksi,kutip|v,tumpuk,mujamal
+搜集的	mujamal
+斜	condong,bengut,cendurung,cenuram|n,cerun,curam|adj,jeling|v,jereng
+斜倚	sandar|v
+斜切	sayat,sayung
+斜度	cerun
+斜方	rombus
+斜方形	rombus
+斜的	bengut,cendurung,sagang,cerun,curam|adj,landai|adj,loncong,mencong
+斜置	sadak
+斜置的	sadak
+斜航	memeper,peper
+斜视	jeling|v,jereng,kerling|n,melirik,memalis,mengerling,palis,toleh|v
+斜视的	juling|adj,lirik|n
+斜视眼	juling|adj
+斜靠	lindih
+果	akhirnya,akibat|n,akibatnya,akustik|n,alhasil,apakala,ara|n,asalkan
+果之	kelubi
+果之一	kelubi
+果之一种	kelubi
+果了	sengget
+果园	dusun
+果子	buah-buahan,halwa|n,menjolok
+果实	gado-gado,berbuah|v,geruk,kebabal|n,peram,tengkaluk,tongkol
+果实放	peram
+果实放在	peram
+果实放在米	peram
+果实放在米里	peram
+果实的	geruk
+果实的包	geruk
+果实的包裹	geruk
+果實	manggis|n
+果是	alhasil
+果树	setambun,beruas,cermai|n,gajus|n,gelugur,kandis,kelompang,kemiri|n
+果树之	sentul|n
+果树之名	sentul|n
+果树名	cermai|n
+果核	gundu
+果汁	jus|n
+果然	mah
+果瓣	pangsa
+果番	durian belanda|n
+果番荔	durian belanda|n
+果番荔枝	durian belanda|n
+果的	kemang
+果的一	kemang
+果的一种	kemang
+果皮	ulas|n
+果类	macang|n
+果蝇	bari-bari
+果酱	jem|n
+榜	suri teladan|n
+榜样	suri teladan|n
+溜	peleset,gelecek,gelicik,gelongsor,lajak,langkau,longsong,luncur|v
+溜下	gelongsor,longsong,menyelusuh,selusuh
+溜冰	papan luncur|n,papan selaju|n
+溜冰板	papan luncur|n,papan selaju|n
+溜滑	menggelongsor
+溜脱	lajak,terlajak
+溜跌	luncur|v,lungsur|v
+溜过	langkau
+猜	meneka,teka|v,terka,agak|adv,agak-agak,asangka,cemburu|adj,duga|v
+猜忌	hasad,jelus
+猜忌的	jelus
+猜想	agak|adv,duga|v,dugaan
+猜测	duga|v,dugaan,raba|v,tebak,mendugakan
+猜测在	mendugakan
+猜猜	agak-agak
+猜疑	asangka,cemburu|adj,sangsi
+甜	manis|adj,bujukan,cumbu,daging manis,jendera,koleh,lelap|adj,lena
+甜点	pembasuh mulut|n,pencuci mulut|n
+甜的	lunak|adj,nikmat|n
+甜睡	jendera,lelap|adj,lena
+甜睡的	lelap|adj,lena
+甜美	munggil
+甜羹	pengat
+甜肉	daging manis
+甜蜜	pad prik|n
+甜言	bujukan,cumbu
+甜言蜜	bujukan,cumbu
+甜言蜜语	bujukan,cumbu
+甜豆	tingting,koleh
+甜豆糕	koleh
+甜饯	lopes
+甜饯品	lopes
+膜	saput,selaput,selupat,diafragma,gegendang,kornea|n,kultus|n,tembuni|n
+膜拜	kultus|n
+芜	bangai,senyap|adj
+芜静	senyap|adj
+芜静寂	senyap|adj
+蒜	bawang besar,bawang putih|n,dasun|n
+蜜	bujukan,bulan madu|n,cumbu,lebah|n,madu|n,madukara,manisan,misan|n
+蜜月	bulan madu|n
+蜜糖	manisan
+蜜蜂	lebah|n,madukara
+蜜语	bujukan,cumbu
+袜	sarung kaki
+谜	teka-teki|n
+谜语	teka-teki|n
+阜	tundun
+障	aral|n,ganguan,gendala,halangan|n,kendala|n,lalau,lintangan,mati pucuk|n
+障碍	aral|n,ganguan,gendala,halangan|n,kendala|n,lalau,lintangan,merintangi
+障碍物	ranjau|n
+霜	fros|n,ibun|n,arangan,nyahfros|v,pengembangan|n
+颜	arna,pancalogam,rona|n,warna|n
+颜色	arna,rona|n,warna|n,pancalogam
+颜色的	pancalogam
+颜色的岩	pancalogam
+颜色的岩石	pancalogam
+鲜	air tawar,biring,merah-merang,meran perang,merang,segar|adj
+鲜水	air tawar
+鲜红	biring,merah-merang,meran perang,merang
+鲜红的	biring
+鲜红色	merah-merang,meran perang,merang
+鲜黄	biring
+鲜黄的	biring

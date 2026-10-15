@@ -1,0 +1,206 @@
+亵	carut,lucah|adj
+亵的	lucah|adj
+侵	agresi,agresif|adj,emul,gobek,hinggap|v,keagresifan|n,memperkosa,menceroboh
+侵入	emul
+侵害	pianggang
+侵害稻	pianggang
+侵害稻之	pianggang
+侵害稻之绿	pianggang
+侵害稻之绿色	pianggang
+侵害稻之绿色昆	pianggang
+侵害稻之绿色昆虫	pianggang
+侵扰	gobek
+侵犯	agresi,memperkosa,menceroboh,pencabulan hak cipta|n
+侵犯著	pencabulan hak cipta|n
+侵犯著作	pencabulan hak cipta|n
+侵犯著作权	pencabulan hak cipta|n
+侵略	agresi,keagresifan|n,mengagresi,pencerobohan|n,agresif|adj,penceroboh,pengagresif|n
+侵略的	agresif|adj
+侵略者	penceroboh,pengagresif|n
+侵蚀	menghakiskan
+侵袭	hinggap|v
+况	apalagi,apatah,dalam keadaan,hal|n,insolvensi|n,keadaan|n,kecemasan|n,ketakmampuan bayar|n
+况且	apalagi,malah,malahan,syahadan
+况之	dalam keadaan
+况之下	dalam keadaan
+吵	abuh|adj,bantah|v,bengkelai,berbantah,bergaduh,berkelahi,bersangketa,bertengkar
+吵杂	gegak|adj
+吵杂的	gegak|adj
+吵架	berkelahi,gaduh|v,gaduh-gadah,kelahi,sengketa,tengkar
+吵闹	bising|adj,galau,gamat,hingar|n,hingar-bingar,ingas,kebisingan,recok
+吵闹的	abuh|adj,gegak|adj,gegap,gempita
+堵	tekang
+抵	gadai|n,gadai janji|n,memboikot,menggadaikan,mengkis,penangkis,pulaukan,tebuk|v
+抵之	tebuk|v
+抵制	memboikot,pulaukan
+抵御	penangkis
+抵御用	penangkis
+抵御用的	penangkis
+抵御用的东	penangkis
+抵御用的东西	penangkis
+抵抗	mengkis,tumbal
+抵抗病	tumbal
+抵抗病魔	tumbal
+抵抗病魔的	tumbal
+抵抗病魔的邪	tumbal
+抵抗病魔的邪术	tumbal
+抵押	gadai|n,gadai janji|n,menggadaikan
+朵	kuntum,kuping|n,telinga|n,torek
+朵流	torek
+朵流脓	torek
+朵流脓病	torek
+梵	sanskerta
+梵文	sanskerta
+樵	belandung
+樵夫	belandung
+段	paragraf,pasal|n,penggal,perenggan,daya upaya,helah,helat daya,ikhtiar|n
+段兩	mak kau hijau
+段兩個	mak kau hijau
+段兩個男	mak kau hijau
+段兩個男孩	mak kau hijau
+段兩個男孩打	mak kau hijau
+段兩個男孩打架	mak kau hijau
+段兩個男孩打架互	mak kau hijau
+段兩個男孩打架互罵	mak kau hijau
+段兩個男孩打架互罵的	mak kau hijau
+段兩個男孩打架互罵的視	mak kau hijau
+段兩個男孩打架互罵的視頻	mak kau hijau
+段落	paragraf,perenggan
+段虎	lisah
+段虎鱼	lisah
+琵	gambus|n,kecapi,lepu|n
+琵琶	gambus|n,kecapi,lepu|n
+琵琶鱼	lepu|n
+电	bil api|n,elektrik|n,ahera,arus|n,baterai|n,bateri|n,bekalan elektrik,bintang filem|n
+电传	teleprinter
+电传打	teleprinter
+电传打字	teleprinter
+电传打字电	teleprinter
+电传打字电报	teleprinter
+电传打字电报机	teleprinter
+电供	bekalan elektrik
+电供应	bekalan elektrik
+电光	halilintar|n,kilau
+电冰	lemari es|n,peti air batu|n,peti ais|n,peti sejuk|n
+电冰箱	lemari es|n,peti air batu|n,peti ais|n,peti sejuk|n
+电分	elektrolisis|n
+电分解	elektrolisis|n
+电压	volt,voltan|n,voltameter
+电压表	voltameter
+电吉	gitar bes|n,gitar elektrik|n
+电吉他	gitar elektrik|n,gitar bes|n
+电复	zeroks|n
+电复印	zeroks|n
+电复印术	zeroks|n
+电子	elektron|n,e-mel|n,elektronik|adj,petala elektron|n,petala valens|n,sukan elektronik|n
+电子信	e-mel|n
+电子信函	e-mel|n
+电子壳	petala elektron|n
+电子壳层	petala elektron|n
+电子层	petala valens|n
+电子工	sukan elektronik|n
+电子工业	sukan elektronik|n
+电子工业协	sukan elektronik|n
+电子工业协会	sukan elektronik|n
+电子工业协会接	sukan elektronik|n
+电子工业协会接口	sukan elektronik|n
+电子的	elektronik|adj,sukan elektronik|n
+电影	filamen,wayang|n,wayangganbar,bintang filem|n,bintang wayang,pawagam|n,sinematografi|n
+电影制	sinematografi|n
+电影制片	sinematografi|n
+电影制片术	sinematografi|n
+电影明	bintang filem|n,bintang wayang
+电影明星	bintang filem|n,bintang wayang
+电影照	sinematografi|n
+电影照相	sinematografi|n
+电影照相术	sinematografi|n
+电影院	pawagam|n
+电报	surat kawat,telegram,telegraf,teleprinter
+电报机	telegraf,teleprinter
+电效	kesan fotoelektrik|n
+电效应	kesan fotoelektrik|n
+电机	dinamo,janakuasa
+电梯	lif|n
+电池	baterai|n,bateri|n
+电流	arus|n,imbas|v,karan
+电率	kekonduksian|n
+电筒	lampu picit,lampu suluh
+电线	dawai,perimppin,saluran elektrik,talian|n,wayar|n
+电缆	kabel|n,type c|n
+电脑	komputer|n
+电视	televisi|n,televisyen|n,hibira|n,permainan video|n,videofon|n,videografi|n
+电视录	videografi|n
+电视录像	videografi|n
+电视录像制	videografi|n
+电视录像制作	videografi|n
+电视游	hibira|n,permainan video|n
+电视游戏	hibira|n,permainan video|n
+电视电	videofon|n
+电视电话	videofon|n
+电讯	telekom
+电话	fon|n,pesawat telefon,telefon|n,corong telefon,periuk belanga|n,telefon bimbit|n,videofon|n
+电话听	corong telefon
+电话听筒	corong telefon
+电话服	periuk belanga|n
+电话服务	periuk belanga|n
+电车	trem
+电钮	suis
+电铁	pagar elektrik|n
+电铁丝	pagar elektrik|n
+电铁丝网	pagar elektrik|n
+电鳐	pari karan|n,pari kebas|n
+疵	nirmala|adj
+疵的	nirmala|adj
+纵	genggam|n,jerjah,riki|v,sedangkan,sungguhpun,survei|n
+纵使	sungguhpun
+纵木	jerjah
+纵木片	jerjah
+纵然	sedangkan
+纵览	riki|v,survei|n
+舵	cekar,jurumudi,kemudi|n,ketaban,pengemudi,roda stereng|n
+舵手	pengemudi
+舵控	cekar
+舵控制	cekar
+舵控制方	cekar
+舵控制方向	cekar
+舵柄	ketaban
+舵的	jurumudi
+舵的人	jurumudi
+舵盘	cekar
+舵轮	roda stereng|n
+谵	raban
+谵言	raban
+贵	mahal|adj,bangsawan|n,gahara,kebesaran,maharaja besar,menak,mulia|adj,nyal
+贵人	menak
+贵妇	siti|n,nyal
+贵妇的	nyal
+贵妇的称	nyal
+贵妇的称号	nyal
+贵宾	rambat
+贵宾席	rambat
+贵族	bangsawan|n,sida|pron,maharaja besar,periai,raden,rangga,tun
+贵族或	periai
+贵族或朝	periai
+贵族或朝臣	periai
+贵族的	raden,rangga
+贵族的尊	raden
+贵族的尊称	raden
+贵族的称	rangga
+贵族的称号	rangga
+贵族称	tun
+贵族称号	tun
+贵族衔	maharaja besar
+贵族衔头	maharaja besar
+贵族衔头名	maharaja besar
+贵的	gahara,mulia|adj,safi,terhormat
+踵	tungkak,datang bertapak
+踵而	datang bertapak
+踵而至	datang bertapak
+钵	batil,pasau,fakir,perni,zahid
+钵僧	fakir,zahid
+锵	derang,kelenting,kupang|n
+锵声	derang,kelenting
+阵	bergelimpangan,gelimpang,resa
+阵痛	resa
+鸵	burung unta|n
+鸵鸟	burung unta|n

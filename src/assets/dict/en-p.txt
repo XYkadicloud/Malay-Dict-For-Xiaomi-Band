@@ -1,1 +1,673 @@
-{"en2ms":{"part":["aandeel","anggota","awning","bakkerij","baruh","juzuk"],"point":["abahkan","four flat","hala","mengutarakan","noktah","paksi"],"police":["abang polis","anjing polis","balai mata-mata","balai polis","bukit aman","kepolisan"],"plural":["abang-abang","abid-abid","abidin","adik-adik","ajak-ajak","anak-anak"],"painted":["abau","bercat"],"performs":["abid"],"pious":["abrar","warak"],"pretend":["acah","sadin"],"pose":["acah"],"pigeon":["acang","merpati","pergam","punai"],"pickle":["acar"],"place":["acaran","bertempat","daerah artikulasi","dudukkan","letak","lombong"],"politeness":["adab"],"progenitor":["adam"],"pain":["aduh","bahal","ngilu"],"perhaps":["agaknya","barangkali","mungkin"],"probably":["agaknya"],"particle":["ah","butir","lah"],"pharmacist":["ahli farmasi","juruubat"],"philosopher":["ahli fikir"],"poop":["air besar","berak","taik"],"performed":["air sembahyang"],"propose":["aju","lamar","saran"],"put":["aju","bubuh","hapus","jerang","letak","lontar peluru"],"pronoun":["aku","anda","awak","awda","baginda","dia"],"pole":["alap","galah","kutub","pancing","tiang"],"praise":["alhamdulillah","madah"],"pestle":["alu","antan"],"peaceful":["aman","sentosa","tenteram"],"purse-net":["ambai"],"pronunciation":["amende","ape","camne","cantek","dok","kete"],"palms":["ampu","tadah"],"punishment":["ampun","hukuman mati","seksa"],"puppy":["anak anjing","anak asu","cinta monyet","kirik"],"pupil":["anak mata","murid","pupil"],"pincers":["angkup"],"prairie":["anjing prairi"],"porch":["anjung"],"pertaining":["anti-amerika","belanda","kedaerahan","masihi","nuklear","rabun"],"prize":["anugerah","berhadiah"],"profess":["anut"],"plaiting":["anyam"],"pan":["apan","jerang"],"pasal":["apasal","apesal","pesal","sal"],"press":["apit","henyak","tekan"],"pharmacy":["apotek","farmasi"],"palm":["aren","enau","ibus","kirai","palma","pinang"],"pig":["argus","babi","kambing batu","khinzir","tikus belanda"],"pulmonary":["arteri pulmonari"],"preserved":["asam boi","halwa","jeruk"],"prunus":["asam boi"],"prayer":["astaghfirullah","bapa kami","isyak","sembahyang","takbir raya"],"palace":["astana","istana","seba"],"podcast":["audio siar","siniar"],"public":["awam","berhad","ceramah","notari awam","pidato","sekolah kebangsaan"],"priapus":["ayuk-ayutan"],"priapism":["ayuk-ayutan"],"plough":["bajak","gembur","tenggala"],"patriarchal":["baka"],"plant":["bakawali","berladang","fitoterapi","jelai","jerangau","kanker"],"pail":["baldi"],"puberty":["baligh"],"passive":["bandarkan","diabadikan","diabahkan","diabaikan","diabar","diabdikan"],"prisoner":["banduan"],"protest":["bantah"],"pillow":["bantal","berbantal","kalang ulu"],"pimp":["bapak ayam","barua","ibu ayam"],"power":["baterai","kuasa","kuripan"],"piece":["batu","bidak","buah catur","piadah","pion","potongan"],"pahat":["batu pahat"],"paragogic":["bawak","jugak","mintak","pulak","siaper"],"pomfret":["bawal"],"parakeet":["bayan"],"pay":["bayar","endah","kisah","mempedulikan","menghiraukan","perhati"],"packed":["bekal"],"permit":["benarkan"],"parasite":["bendalu","parasit"],"paddy":["bendang","padi","sawah","sawah padi"],"pahang":["bentong","darul makmur","jerantut","lipis","maran","pahang"],"puffed":["bepang"],"perform":["berabdas","berbuat","melakukan"],"polish":["beraso"],"puasa":["berbuka"],"piggybacked":["berdukung"],"profitable":["berfaedah","lumayan"],"proof":["berhadis"],"possibility":["berkemungkinan","kemungkinan"],"partner":["berkhalwat"],"prohibition":["berlarangan"],"play":["bermain","main","sandiwara","wayang"],"political":["berparti","dedak","kepartian","parti politik","sayap kanan","sayap kiri"],"parties":["berparti"],"perspire":["berpeluh"],"providing":["berpencen","informatif"],"pensions":["berpencen"],"populated":["berpenduduk"],"pencil":["berpensel","pensel","potlot"],"practise":["berpoligami"],"polygamy":["berpoligami","poligami"],"patient":["bersabar","derana","dihitung-hitung","menyabarkan","penyabar","sabar"],"prepare":["bersaji"],"pray":["bersembahyang"],"pile":["bertambun","turus"],"parched":["bertih"],"polar":["beruang kutub"],"pigtail":["beruk"],"papaya":["betik","ketela","pepaya"],"parent":["biang","datuk","emak ayah"],"practice":["bidaah","veganisme","vegetarianisme"],"pawn":["bidak","gadai","piadah","pion"],"produce":["bikin","mengeluarkan"],"pleiades":["bintang kartika","bintang tujuh"],"peacock":["biru merak"],"pleats":["biru-biru"],"painful":["bisa","pedih","sakit"],"pieces":["bogam","roti paun","tapa-tapa"],"plum":["boi"],"puppet":["boneka","orang-orang"],"protuberance":["bonggol","jongkol"],"porridge":["bubur"],"pheasant":["bubut","kuang","kuangkuit","kuau","pegar"],"pop":["budaya pop"],"pickled":["budu","jeruk"],"pride":["bulan jatidiri"],"packaged":["bungkus"],"prince":["bupala","pangeran","putera"],"penis":["butoh","butuh","canggar","kepala butuh","konek","palat"],"poison":["butun","butung","racun","santau","tuba"],"planet":["cakerawala"],"parang":["candung"],"pretty":["cantik","gelis","mat jambu"],"publicity":["capap"],"pincer":["capit","sepit"],"playing":["cari pasal","masak-masak"],"profanity":["carut-marut"],"paint":["cat"],"peck":["catuk","patuk"],"percaya":["caya"],"prevent":["cegah","fius"],"pick":["cekut","kutip","lurut","melurut","memungut","petik"],"pants":["celana","seluar","sependa"],"paradise":["cenderawasih","inderaloka","jannah","kayangan","syurga"],"plughole":["cerat"],"pak":["cik","pakcik"],"picture":["citra","gambar"],"pry":["colek"],"panicked":["cuak"],"pinch":["cubit"],"pierce":["cucuk","tembus"],"pour":["curah","simbah"],"previously":["dahulu","dulu"],"puppeteer":["dalang"],"pretext":["dalih"],"party":["dap","parti","parti ajaran sesat","parti kerajaan","parti pembangkang","parti pemerintah"],"position":["darjat","duduk","jawatan","kat","pekerma","tunduk udang"],"peace":["darul aman","kedamaian","mengganggu keamanan","sejahtera","selamat"],"prosperity":["darul makmur","suasti"],"perak":["darul ridzuan","manjung","perak darul ridzuan","pirak"],"prophet":["daud","fatimah","hud","ibrahim","idris","isa"],"paddle":["dayung"],"paddles":["dayung-mayung"],"pomegranate":["delima"],"pouring":["deras"],"philanthropist":["dermawan"],"pair":["digraf","jangka lukis","lamin","pasang","teraju"],"prohibited":["dilarang","larangan","pelarangan","terlarang"],"panggil":["dipanggil","memanggil"],"pantau":["dipantau","memantau"],"parkir":["diparkir","memarkir"],"pasang":["dipasang"],"paut":["dipaut","memaut"],"pecut":["dipecut","memecut"],"pegang":["dipegang","peygang"],"pendap":["dipendapkan"],"pressed":["dipendapkan"],"pendekkan":["dipendekkan","memendekkan"],"peningkan":["dipeningkan","memeningkan"],"perbaharu":["diperbaharu","memperbaharu"],"perjelas":["diperjelas","memperjelas"],"perlebar":["diperlebar","memperlebar"],"pertuan":["dipertuan","mempertuan"],"pinta":["dipinta","meminta"],"plagiat":["diplagiat","memplagiat"],"ponteng":["diponteng","memonteng"],"potong":["dipotong","memotong"],"punyai":["dipunyai","mempunyai"],"punyakan":["dipunyakan","mempunyakan"],"putihkan":["diputihkan","diputihkan mata","memutihkan","memutihkan mata"],"polled":["dogol"],"physician":["doktor","tabib"],"purse":["dompet","pundi-pundi"],"push":["dorong","sorong","tolak"],"properly":["elok-elok"],"pith":["empulur","ruyung","umbut"],"possessor":["empunya"],"profit":["faedah","laba"],"philosophy":["falsafah","filsafat"],"pharyngitis":["faringitis"],"pharynx":["farinks"],"pharisee":["farisi"],"pharmacology":["farmakologi"],"pharmacopoeia":["farmakopeia"],"pharmaceutical":["farmaseutikal"],"parasang":["farsakh"],"parsi":["farsi"],"phase":["fasa","pancaroba"],"phycology":["fikologi"],"philippines":["filipina"],"philology":["filologi","kaji bahasa"],"physiology":["fisiologi","kaji tugas organ"],"phytotherapy":["fitoterapi"],"physics":["fizik"],"physical":["fizikal","pendidikan fizikal","pendidikan jasmani"],"phone":["fon","telefon bimbit"],"phonology":["fonologi"],"phosphor":["fosfor"],"phosphorus":["fosforus"],"photosynthesis":["fotosintesis"],"peat":["gambut"],"prone":["gelojoh"],"passion":["gembira","ghairah"],"passage":["gerhana"],"planetary":["gerhana"],"projection":["gigi"],"pergi":["gimam","pegi","pigi"],"pan-fry":["goreng tohor"],"parti":["gps","partai","pbrs","pbs","pkm","pprs"],"principal":["guru besar","perdana"],"present":["hadiah","hadir","hormat senjata","kini","la ni","mempersembahkan"],"presence":["hadirat","kehadiran"],"purpose":["hajat"],"privilege":["hak istimewa"],"pregnant":["hamil","mengandung"],"panther":["harimau kumbang","harimau peturun"],"property":["harta","hartanah","milik","sifat"],"product":["hasil"],"profound":["hebat"],"pull":["hela","heret","mengait","selak","sentak","tarik"],"peroxide":["hidrogen peroksida"],"putting":["hidung tinggi"],"prose":["hikayat"],"perpendicular":["horizontal","vertikal"],"parents":["ibu bapa"],"piranha":["ikan pirana","pirana"],"precaution":["ikhtiyat"],"promise":["ikrar","janji","jual janji"],"price":["indeks harga pengguna","rega"],"platyrhynchos":["itik melewar"],"pintail":["itik runcing"],"pochard":["itik selam"],"permission":["izin","kebenaran"],"path":["jalan"],"privy":["jamban"],"profligate":["jangak"],"precisely":["jangka","persis"],"pinky":["jari kelengkeng","kelengkeng"],"pure":["jati","sengkek","suci"],"post":["jawatan","pejabat pos","tugu","turus"],"paper":["jeluang","kapal terbang kertas","kertas"],"palanquin":["jempana","joli","takhta rawan","tandu"],"pimple":["jerawat"],"perdana":["jpm","pm"],"pendaftaran":["jpn"],"port":["julang senjata","pelabuhan","pelabuhan klang","port dickson"],"pilot":["juruterbang","paus pandu","paus pendek sirip"],"pistachio":["kacang cerdik","pistacio","pistasio"],"puteh":["kacang putih"],"peanut":["kacang tanah"],"phlegm":["kahak","lendir","serak"],"pathology":["kaji penyakit"],"personnel":["kakitangan","tenaga"],"period":["kala","masa rehat","pertunangan","tempoh"],"pen":["kalam","kandang"],"potassium":["kalium","sendawa"],"principle":["kanun","prinsip"],"personal":["kaola","peribadi"],"profession":["karier"],"puff":["karipap"],"produces":["karyawan","pegoh"],"pitiful":["kasihan"],"password":["kata laluan"],"proper":["kata nama khas","patut","senonoh"],"preposition":["kata sendi nama"],"provide":["kaunseling"],"pot":["kawah peleburan","pasu","periuk"],"protection":["kawalan"],"park":["kawasan perindustrian","parkir","parkiran","taman","taman hiburan","taman tema air"],"permanence":["keabadian"],"pleasure":["kebahagiaan","kegemaran"],"probability":["kebarangkalian"],"perplexity":["kebingungan"],"plantation":["kebun"],"prettiness":["kecantikan"],"pregnancy":["kehamilan"],"permanent":["kekal"],"pelir":["kelepir"],"perfume":["kelonyor","minyak wangi"],"pager":["kelui"],"peel":["kelupas","kelupaskan","kupas","kupasan"],"progress":["kemajuan"],"pertahanan":["kementah"],"poverty":["kemiskinan"],"pitcher":["kendi"],"potato":["kentang","kerepek kentang","ubi kentang"],"population":["kependudukan"],"possession":["kepunyaan"],"portable":["keran","mudah alih","mudalih"],"prawn":["keropok udang","udang","udang galah"],"patience":["kesabaran"],"photoelectric":["kesan fotoelektrik"],"plane":["ketam","pesawat pejuang","pesawat tempur","satah"],"portunus":["ketam bunga","ketam renjong"],"perseverance":["ketekunan"],"process":["ketibaan","mengolah","pelebaran","pelestarian","pemampanan","pemasaan"],"pilsbryoconcha":["kijing"],"pukimak":["kimak"],"phosphorescence":["kinar"],"pond":["kolam"],"patch":["koyok"],"powerful":["kuat","perkasa"],"pasu":["kubang pasu"],"prionailurus":["kucing hutan"],"pony":["kuda padi"],"puma":["kugar","puma"],"produced":["kupasan","telur"],"professorship":["kursi"],"pepper":["lada","sirih"],"plot":["lahan","petak"],"pear":["lai"],"pula":["lak","pulak"],"pass":["lalu","lewat","mangkat","meninggal","meninggal dunia"],"past":["lalu","lepas"],"page":["laman sesawang","laman web","muka surat"],"porcupine":["landak"],"pool":["langgam"],"patron":["langgan"],"placed":["langit-langit","tanda singkat"],"plowshare":["lanjam"],"prolonged":["lanjut"],"proceed":["lanjutkan","teruskan"],"pirate":["lanun"],"prohibit":["larangkan","menegah","tegah"],"pacific":["lautan pasifik","lautan teduh"],"prefer":["lebih suka"],"palate":["lelangit"],"pale":["lepak"],"pixels":["leraian"],"preserve":["lestarikan"],"pipi":["lesung pipit"],"pomelo":["limau abung","limau bali"],"powdered":["lumat"],"paralyzed":["lumpuh"],"perished":["luput"],"pardon":["maaf"],"proficient":["mahir"],"plaything":["mainan"],"progressive":["maju","sedang","tengah"],"productive":["makmur","produktif"],"populous":["makmur"],"perish":["mampus"],"prime":["mangkubumi","nombor perdana","perdana","perdana menteri"],"prey":["mangsa"],"precious":["manikam"],"problem":["masalah"],"peeping":["mat skodeng"],"pongidae":["mawas"],"pancing":["memancing"],"pandang":["memandang"],"pandu":["memandu"],"purify":["membersihkan"],"ponder":["memikirkan"],"pengantin":["mempelai"],"preview":["mempreviu","pratonton","previu"],"possible":["memungkinkan","secepat mungkin","sedapat mungkin","sejelas-jelasnya","selekas mungkin"],"precipitate":["mendakan"],"plagiarize":["mengabuk"],"pickles":["mengacar"],"perpendiucular":["mengufuk"],"peep":["menjengah"],"privatise":["menswastakan"],"praying":["mentadak"],"parent-in-law":["mentua","mertua"],"pink":["merah jambu"],"pout":["merajuk"],"peafowl":["merak"],"pulau":["merambong","pulau brani"],"peak":["mercu","puncak"],"paraffin":["minyak tanah"],"poor":["miskin"],"plump":["montel","montok"],"peevish":["mua"],"possibly":["mungkin"],"pearl":["mutiara"],"pus":["nanah"],"pineapple":["nanas"],"protect":["nauzubillah"],"possessive":["negaraku"],"paper-thin":["nipis macam kertas"],"parrot":["nuri"],"punya":["nya"],"peranakan":["nyonya"],"polygon":["oktagon"],"particular":["otai","suatu","tertentu"],"padang":["padang besar"],"priest":["paderi","sami"],"patriot":["pahlawan"],"pie":["pai"],"pipe":["paip","serombong"],"pact":["pakatan"],"package":["pakej","peket"],"peket":["paket"],"palladium":["paladium"],"plug":["palam","sumbat"],"pasukan":["palapes","putd"],"palestine":["palestin"],"panda":["panda","panda merah"],"pandanus":["pandan wangi"],"pandemic":["pandemik"],"platform":["panggau","pelantar"],"paneer":["panir"],"pennon":["panji-panji"],"pancake":["pankek"],"pancreas":["pankreas"],"pantheism":["panteisme"],"pentecost":["pantekosta"],"pantaloons":["pantelon"],"pantoum":["pantun"],"plank":["papan"],"pad":["paprik"],"prik":["paprik"],"paradox":["paradoks"],"parap":["paraf"],"paracetamol":["parasetamol"],"parking":["parkir","parkiran"],"parliament":["parlimen","parlimen tergantung"],"pan-malaysian":["parti ajaran sesat"],"pin":["pasak","semat"],"peg":["pasak"],"pesanggerahan":["pasanggerahan"],"postpaid":["pascabayar"],"postgraduate":["pascasiswazah"],"pasir":["pasir ris"],"passport":["pasport"],"pasta":["pasta"],"patani":["patani"],"patio":["patio"],"pathogen":["patogen"],"pound":["paun"],"parachute":["payung","payung terjun"],"payung":["payung"],"pertubuhan":["pbb"],"polis":["pdb","pdrm"],"pungent":["pedar"],"paha":["peha"],"pejorative":["pejoratif"],"pack":["pek","peket","tapau"],"prostitute":["pelacur"],"parturition":["pelahiran"],"plumbum":["pelambam"],"plan":["pelan","solusi"],"pelanggan":["pelanggam"],"possessing":["pelangi"],"prominent":["pelangi"],"platinum":["pelatinam","platinum"],"preserving":["pelestarian"],"penglihatan":["pelihatan"],"projectile":["peluru"],"pacemaker":["pemacu","perentak jantung"],"player":["pemain"],"plug-in":["pemalam"],"predator":["pemangsa"],"placement":["pemasukan"],"purchaser":["pembeli"],"purchase":["pembelian"],"picks":["pemilih"],"petitioner":["pempetisyen"],"perempuan":["pempuan","pompuan","pp"],"pointed":["pen","tonggak"],"plateau":["penara"],"pollution":["pencemaran"],"phosphorescent":["pendarfosfor"],"punching":["penebuk"],"publisher":["penerbit"],"programming":["pengaturcaraan"],"protector":["pengawal"],"painter":["pengecat"],"production":["pengeluaran"],"penicillin":["penisilin"],"pencen":["penshen"],"pensel":["pensil"],"privatization":["penswastaan"],"passenger":["penumpang"],"payslip":["penyata gaji","slip gaji"],"pagi-pagi":["pepagi"],"proverb":["pepatah","peribahasa"],"pussy":["pepek"],"parade":["perarakan tentera","perbarisan"],"pastry":["perata"],"percent":["peratus"],"percentage":["peratusan"],"perahu":["perau"],"payment":["percuma"],"premier":["perdana"],"private":["peribadi","sektor swasta","sendirian berhad","swasta"],"portuguese":["peringgi","portugis","ubur-ubur api"],"pioneer":["perintis"],"pots":["periuk belanga"],"pans":["periuk belanga"],"perlis":["perlis"],"peru":["peru","piru"],"paste":["pes","petis","tampal"],"pessimistic":["pesimis","pesimistik"],"peta":["peta-peta"],"petaling":["petaling jaya"],"pluck":["petik"],"picking":["petikan"],"petition":["petisyen"],"petrol":["petrol","stesen minyak"],"petroleum":["petroliam"],"petroliam":["petronas"],"pakatan":["ph"],"pahal":["phl"],"pehal":["phl"],"piano":["piano"],"pickup":["pikap"],"pinak":["pinak"],"plate":["pinggan","piring"],"pyrite":["pirit"],"pistol":["pistol"],"pizza":["piza"],"pendidikan":["pj"],"plagiarism":["plagiarisme","plagiat"],"placenta":["plasenta","sampul tian","tembuni"],"platoon":["platun"],"plier":["playar"],"plutonium":["plutonium"],"perikatan":["pn"],"peppermint":["poho"],"pocket":["poket"],"polemic":["polemik"],"polyester":["poliester"],"policy":["polisi"],"polymer":["polistirena"],"packaging":["polistirena"],"politics":["politik"],"politician":["politikus"],"polonium":["polonium"],"pun":["pon"],"puntianak":["pontianak"],"popular":["populer","sohor"],"porcelain":["porselin"],"portugal":["portugal"],"postcard":["poskad"],"postal":["poskod"],"poster":["poster"],"potion":["posyen"],"perpaduan":["pprs"],"prepaid":["prabayar"],"pragmatic":["pragmatik"],"practical":["pragmatik","praktis"],"pragmatik":["pragmatis"],"pragmatism":["pragmatisme"],"prague":["praha"],"preface":["prakata"],"perang":["prang"],"putrajaya":["prang besar","putrajaya"],"prepayment":["prapembayaran"],"prehistory":["prasejarah"],"preschool":["prasekolah"],"praseodymium":["praseodimium"],"prefecture":["prefektur"],"president":["presiden"],"prescription":["preskripsi","surat ubat"],"prescriptive":["preskriptif"],"performance":["prestasi"],"prestige":["prestij"],"peria":["pria"],"prism":["prisma"],"prisma":["prizam"],"productivity":["produktiviti"],"professor":["profesor","profesor madya"],"program":["program"],"programme":["program"],"project":["projek"],"proxy":["proksi"],"promethium":["prometium"],"protactinium":["protaktinium"],"protocol":["protokol"],"proton":["proton"],"prototype":["prototaip","purbarupa"],"pilihan":["pru"],"psychiatry":["psikiatri"],"psycho":["psiko"],"psychology":["psikologi"],"psychologist":["psikologis"],"pegawai":["ptt"],"puchong":["puchong"],"pucuk":["pucuk-pucuk","sepucuk"],"poetry":["puisi naratif"],"perineum":["pukang"],"purata":["pukul rata"],"penang":["pulau pinang"],"puluh":["puloh"],"pouch":["pundi"],"pumpun":["punpun"],"powder":["pupogh","pupur","serbuk"],"putih":["puteh"],"princess":["puteri"],"putera":["putra"],"perch":["puyu"],"predict":["ramal"],"prediction":["ramalan"],"punji":["ranjau"],"possess":["rasuk"],"pare":["raut"],"poultry":["reban"],"parts":["regan"],"pillars":["rukun","rukun islam"],"psikologi":["saikoloji"],"prophesied":["saleh"],"part-time":["sambilan"],"python":["sanca","ular sawa"],"pine":["sanubari"],"principe":["sao tome dan principe"],"protective":["sarap"],"preferably":["sebaiknya"],"pant":["sedu"],"primary":["sekolah rendah"],"poker-faced":["selamba"],"pied":["selancang"],"parallel":["selari"],"presentable":["selia"],"purely":["semata-mata"],"peninsula":["semenanjung","tanah melayu"],"provisional":["sementara"],"perfect":["sempurna"],"panties":["sependa"],"pleasant":["seronok"],"postage":["setem pos"],"pointless":["sia-sia"],"prepared":["siap"],"polite":["sopan santun"],"pelajaran":["spm"],"plastic":["supik"],"pemandu":["supir"],"photo":["syot"],"pernah":["tak pernah"],"proclamation":["takbir"],"playground":["taman permainan"],"plus":["tambah"],"pulled":["tarikan"],"procedure":["tatacara"],"push-up":["tekan tubi"],"penetrate":["tembus"],"potential":["tenaga keupayaan"],"pangolin":["tenggiling"],"punctual":["tepat masa"],"pat":["tepuk"],"pecked":["tercatuk"],"participle":["teringat"],"perfective":["terjajah","tersurat","tertuduh"],"pounce":["terkam"],"peach":["toh"],"pace":["tongkat penyukat"],"punch":["tumbuk"],"protrusion":["tumbung"],"prolapse":["tumbung"],"participate":["turut"],"posterior":["udi"],"purple":["ungu"],"policies":["walanon"],"premium":["yuran"],"phosphide":["zink fosfida"]}}
+pace	tongkat penyukat|n
+pacemaker	pemacu|n,perentak jantung|n
+pacific	lautan pasifik,lautan teduh
+pack	pek|n,peket|n,tapau|v
+package	pakej|n,peket|n
+packaged	bungkus|cls
+packaging	polistirena|n
+packed	bekal|n
+pact	pakatan|n
+pad	paprik|n
+padang	padang besar
+paddle	dayung|n
+paddles	dayung-mayung|n
+paddy	bendang|n,padi|n,sawah|n,sawah padi|n
+page	laman sesawang|n,laman web|n,muka surat|n
+pager	kelui|n
+pagi-pagi	pepagi|adv
+paha	peha|n
+pahal	phl|adv
+pahang	bentong,darul makmur,jerantut,lipis,maran,pahang
+pahat	batu pahat
+pail	baldi|n
+pain	aduh,bahal|adj,ngilu|n
+painful	bisa|adj,pedih|adj,sakit|adj
+paint	cat|n
+painted	abau|n,bercat|adj
+painter	pengecat|n
+pair	digraf|n,jangka lukis|n,lamin|n,pasang|num,teraju|n
+pak	cik|n,pakcik|n
+pakatan	ph
+palace	astana|n,istana|n,seba|v
+palanquin	jempana|n,joli|n,takhta rawan|n,tandu|n
+palate	lelangit|n
+pale	lepak|adj
+palestine	palestin
+palladium	paladium|n
+palm	aren|n,enau|n,ibus|n,kirai|n,palma|n,pinang|n
+palms	ampu|v,tadah|v
+pan	apan|n,jerang|v
+pan-fry	goreng tohor|v
+pan-malaysian	parti ajaran sesat
+pancake	pankek|n
+pancing	memancing|v
+pancreas	pankreas|n
+panda	panda|n,panda merah|n
+pandang	memandang|v
+pandanus	pandan wangi|n
+pandemic	pandemik|n
+pandu	memandu|v
+paneer	panir|n
+panggil	dipanggil|v,memanggil|v
+pangolin	tenggiling|n
+panicked	cuak|adj
+pans	periuk belanga|n
+pant	sedu|v
+pantaloons	pantelon|n
+pantau	dipantau|v,memantau|v
+pantheism	panteisme|n
+panther	harimau kumbang|n,harimau peturun|n
+panties	sependa|n
+pantoum	pantun|n
+pants	celana|n,seluar|n,sependa|n
+papaya	betik|n,ketela|n,pepaya|n
+paper	jeluang|n,kapal terbang kertas|n,kertas|n
+paper-thin	nipis macam kertas|adj
+paracetamol	parasetamol|n
+parachute	payung|n,payung terjun|n
+parade	perarakan tentera|n,perbarisan|n
+paradise	cenderawasih|n,inderaloka|n,jannah|n,kayangan|n,syurga|n
+paradox	paradoks|n
+paraffin	minyak tanah|n
+paragogic	bawak|v,jugak|adv,mintak|adv,pulak|adv,siaper|pron
+parakeet	bayan|n
+parallel	selari|adj
+paralyzed	lumpuh|v
+parang	candung|n
+parap	paraf|n
+parasang	farsakh|n
+parasite	bendalu|n,parasit|n
+parched	bertih|n
+pardon	maaf|int
+pare	raut|v
+parent	biang|n,datuk|n,emak ayah|n
+parent-in-law	mentua|n,mertua|n
+parents	ibu bapa|n
+park	kawasan perindustrian|n,parkir|n,parkiran|n,taman|n,taman hiburan|n,taman tema air|n
+parking	parkir|n,parkiran|n
+parkir	diparkir|v,memarkir|v
+parliament	parlimen|n,parlimen tergantung|n
+parrot	nuri|n
+parsi	farsi
+part	aandeel|n,anggota|n,awning|n,bakkerij|n,baruh|n,juzuk|n
+part-time	sambilan|adj
+parti	gps,partai|n,pbrs,pbs,pkm,pprs
+participate	turut|v
+participle	teringat|v
+particle	ah|part,butir|n,lah|part
+particular	otai|n,suatu|det,tertentu|adj
+parties	berparti|adj
+partner	berkhalwat|v
+parts	regan|n
+parturition	pelahiran|n
+party	dap,parti|n,parti ajaran sesat,parti kerajaan|n,parti pembangkang|n,parti pemerintah|n
+pasal	apasal|adv,apesal|adv,pesal|adv,sal|adv
+pasang	dipasang|v
+pasir	pasir ris
+pass	lalu|v,lewat|adj,mangkat|v,meninggal|v,meninggal dunia|v
+passage	gerhana|n
+passenger	penumpang|n
+passion	gembira|adj,ghairah|n
+passive	bandarkan|v,diabadikan|v,diabahkan|v,diabaikan|v,diabar|v,diabdikan|v
+passport	pasport|n
+password	kata laluan|n
+past	lalu|v,lepas|adj
+pasta	pasta|n
+paste	pes|n,petis|n,tampal|v
+pastry	perata|n
+pasu	kubang pasu
+pasukan	palapes,putd
+pat	tepuk|v
+patani	patani
+patch	koyok|n
+path	jalan|n
+pathogen	patogen|n
+pathology	kaji penyakit|n
+patience	kesabaran|n
+patient	bersabar|v,derana|adj,dihitung-hitung|v,menyabarkan|v,penyabar|n,sabar|adj
+patio	patio|n
+patriarchal	baka|adj
+patriot	pahlawan|n
+patron	langgan|v
+paut	dipaut|v,memaut|v
+pawn	bidak|n,gadai|n,piadah|n,pion|n
+pay	bayar|v,endah|v,kisah|v,mempedulikan|v,menghiraukan|v,perhati|v
+payment	percuma|adj
+payslip	penyata gaji|n,slip gaji|n
+payung	payung|n
+peace	darul aman,kedamaian|n,mengganggu keamanan|v,sejahtera|n,selamat|adj
+peaceful	aman|adj,sentosa|adj,tenteram|adj
+peach	toh|n
+peacock	biru merak|adj
+peafowl	merak|n
+peak	mercu|n,puncak|n
+peanut	kacang tanah|n
+pear	lai|n
+pearl	mutiara|n
+peat	gambut|n
+peck	catuk|v,patuk|v
+pecked	tercatuk|v
+pecut	dipecut|v,memecut|v
+peel	kelupas|v,kelupaskan|v,kupas|v,kupasan|n
+peep	menjengah|v
+peeping	mat skodeng|n
+peevish	mua|adj
+peg	pasak|n
+pegang	dipegang|v,peygang|v
+pegawai	ptt|n
+pehal	phl|adv
+pejorative	pejoratif|adj
+peket	paket|n
+pelajaran	spm|n
+pelanggan	pelanggam|n
+pelir	kelepir|n
+pemandu	supir|n
+pen	kalam|n,kandang|n
+penang	pulau pinang
+pencen	penshen|adj
+pencil	berpensel|v,pensel|n,potlot|n
+pendaftaran	jpn
+pendap	dipendapkan|v
+pendekkan	dipendekkan|v,memendekkan|v
+pendidikan	pj|n
+penetrate	tembus|v
+pengantin	mempelai|n
+penglihatan	pelihatan|n
+penicillin	penisilin|n
+peningkan	dipeningkan|v,memeningkan|v
+peninsula	semenanjung|n,tanah melayu|n
+penis	butoh|n,butuh|n,canggar|n,kepala butuh|n,konek|n,palat|n
+pennon	panji-panji|n
+pensel	pensil
+pensions	berpencen|v
+pentecost	pantekosta
+pepper	lada|n,sirih|n
+peppermint	poho|n
+perahu	perau|n
+perak	darul ridzuan,manjung,perak darul ridzuan,pirak|n
+peranakan	nyonya|n
+perang	prang|n
+perbaharu	diperbaharu|v,memperbaharu|v
+percaya	caya|v
+percent	peratus|cls
+percentage	peratusan|n
+perch	puyu|n
+perdana	jpm,pm|n
+perempuan	pempuan|n,pompuan|n,pp|n
+perfect	sempurna|adj
+perfective	terjajah|v,tersurat|v,tertuduh|v
+perform	berabdas|v,berbuat|v,melakukan|v
+performance	prestasi|n
+performed	air sembahyang|n
+performs	abid|n
+perfume	kelonyor|n,minyak wangi|n
+pergi	gimam|v,pegi|v,pigi|v
+perhaps	agaknya|adv,barangkali|adv,mungkin|adv
+peria	pria|n
+perikatan	pn
+perineum	pukang|n
+period	kala|n,masa rehat|n,pertunangan|n,tempoh|n
+perish	mampus|v
+perished	luput|adj
+perjelas	diperjelas|v,memperjelas|v
+perlebar	diperlebar|v,memperlebar|v
+perlis	perlis
+permanence	keabadian|n
+permanent	kekal|adj
+permission	izin|n,kebenaran|n
+permit	benarkan|v
+pernah	tak pernah|adv
+peroxide	hidrogen peroksida|n
+perpaduan	pprs
+perpendicular	horizontal|adj,vertikal|adj
+perpendiucular	mengufuk|adj
+perplexity	kebingungan|n
+perseverance	ketekunan|n
+personal	kaola|pron,peribadi|adj
+personnel	kakitangan|n,tenaga|n
+perspire	berpeluh|v
+pertahanan	kementah
+pertaining	anti-amerika|adj,belanda|adj,kedaerahan|adj,masihi|adj,nuklear|adj,rabun|adj
+pertuan	dipertuan|v,mempertuan|v
+pertubuhan	pbb
+peru	peru,piru
+pesanggerahan	pasanggerahan|n
+pessimistic	pesimis|adj,pesimistik|adj
+pestle	alu|n,antan|n
+peta	peta-peta
+petaling	petaling jaya
+petition	petisyen|n
+petitioner	pempetisyen|n
+petrol	petrol|n,stesen minyak|n
+petroleum	petroliam|n
+petroliam	petronas
+pharisee	farisi|n
+pharmaceutical	farmaseutikal|adj
+pharmacist	ahli farmasi|n,juruubat|n
+pharmacology	farmakologi|n
+pharmacopoeia	farmakopeia|n
+pharmacy	apotek|n,farmasi|n
+pharyngitis	faringitis|n
+pharynx	farinks|n
+phase	fasa|n,pancaroba|n
+pheasant	bubut|n,kuang|n,kuangkuit|n,kuau|n,pegar|n
+philanthropist	dermawan|n
+philippines	filipina
+philology	filologi|n,kaji bahasa|n
+philosopher	ahli fikir|n
+philosophy	falsafah|n,filsafat|n
+phlegm	kahak|n,lendir|n,serak|n
+phone	fon|n,telefon bimbit|n
+phonology	fonologi|n
+phosphide	zink fosfida|n
+phosphor	fosfor|n
+phosphorescence	kinar|n
+phosphorescent	pendarfosfor|adj
+phosphorus	fosforus|n
+photo	syot|n
+photoelectric	kesan fotoelektrik|n
+photosynthesis	fotosintesis|n
+phycology	fikologi|n
+physical	fizikal|adj,pendidikan fizikal|n,pendidikan jasmani|n
+physician	doktor|n,tabib|n
+physics	fizik|n
+physiology	fisiologi|n,kaji tugas organ|n
+phytotherapy	fitoterapi|n
+piano	piano|n
+pick	cekut|v,kutip|v,lurut|v,melurut|v,memungut|v,petik|v
+picking	petikan|n
+pickle	acar|n
+pickled	budu|n,jeruk|adj
+pickles	mengacar|v
+picks	pemilih|n
+pickup	pikap|n
+picture	citra|n,gambar|n
+pie	pai|n
+piece	batu|n,bidak|n,buah catur|n,piadah|n,pion|n,potongan|n
+pieces	bogam|n,roti paun|n,tapa-tapa|n
+pied	selancang|n
+pierce	cucuk|v,tembus|v
+pig	argus|n,babi|n,kambing batu|n,khinzir|n,tikus belanda|n
+pigeon	acang|n,merpati|n,pergam|n,punai|n
+piggybacked	berdukung|v
+pigtail	beruk|n
+pile	bertambun|v,turus|n
+pilihan	pru
+pillars	rukun|n,rukun islam|n
+pillow	bantal|n,berbantal|v,kalang ulu|n
+pilot	juruterbang|n,paus pandu|n,paus pendek sirip|n
+pilsbryoconcha	kijing|n
+pimp	bapak ayam|n,barua|n,ibu ayam|n
+pimple	jerawat|n
+pin	pasak|n,semat|v
+pinak	pinak|n
+pincer	capit|n,sepit|n
+pincers	angkup|n
+pinch	cubit|v
+pine	sanubari|n
+pineapple	nanas|n
+pink	merah jambu|adj
+pinky	jari kelengkeng|n,kelengkeng|n
+pinta	dipinta|v,meminta|v
+pintail	itik runcing|n
+pioneer	perintis|n
+pious	abrar|adj,warak|adj
+pipe	paip|n,serombong|n
+pipi	lesung pipit|n
+piranha	ikan pirana|n,pirana|n
+pirate	lanun|n
+pistachio	kacang cerdik|n,pistacio|n,pistasio|n
+pistol	pistol|n
+pitcher	kendi|n
+pith	empulur|n,ruyung|n,umbut|n
+pitiful	kasihan|adj
+pixels	leraian|n
+pizza	piza|n
+place	acaran|n,bertempat|v,daerah artikulasi|n,dudukkan|v,letak|v,lombong|n
+placed	langit-langit|n,tanda singkat|n
+placement	pemasukan|n
+placenta	plasenta|n,sampul tian|n,tembuni|n
+plagiarism	plagiarisme|n,plagiat|n
+plagiarize	mengabuk|v
+plagiat	diplagiat|v,memplagiat|v
+plaiting	anyam|v
+plan	pelan|n,solusi|n
+plane	ketam|n,pesawat pejuang|n,pesawat tempur|n,satah|n
+planet	cakerawala|n
+planetary	gerhana|n
+plank	papan|n
+plant	bakawali|n,berladang|v,fitoterapi|n,jelai|n,jerangau|n,kanker|n
+plantation	kebun|n
+plastic	supik|n
+plate	pinggan|n,piring|n
+plateau	penara|n
+platform	panggau|n,pelantar|n
+platinum	pelatinam|n,platinum|n
+platoon	platun|n
+platyrhynchos	itik melewar|n
+play	bermain|v,main|v,sandiwara|n,wayang|n
+player	pemain|n
+playground	taman permainan|n
+playing	cari pasal|v,masak-masak|n
+plaything	mainan|n
+pleasant	seronok|adj
+pleasure	kebahagiaan|n,kegemaran|n
+pleats	biru-biru|n
+pleiades	bintang kartika,bintang tujuh
+plier	playar|n
+plot	lahan|n,petak|n
+plough	bajak|n,gembur|v,tenggala|n
+plowshare	lanjam|n
+pluck	petik|v
+plug	palam|v,sumbat|n
+plug-in	pemalam|n
+plughole	cerat|n
+plum	boi|n
+plumbum	pelambam|n
+plump	montel|adj,montok|adj
+plural	abang-abang|n,abid-abid|n,abidin|n,adik-adik|n,ajak-ajak|n,anak-anak|n
+plus	tambah|v
+plutonium	plutonium|n
+pochard	itik selam|n
+pocket	poket|n
+podcast	audio siar|n,siniar|n
+poetry	puisi naratif|n
+point	abahkan|v,four flat|n,hala|v,mengutarakan|v,noktah|n,paksi|n
+pointed	pen|n,tonggak|n
+pointless	sia-sia|adj
+poison	butun|n,butung|n,racun|n,santau|n,tuba|n
+poker-faced	selamba|adj
+polar	beruang kutub|n
+pole	alap|v,galah|n,kutub|n,pancing|n,tiang|n
+polemic	polemik|n
+police	abang polis|n,anjing polis|n,balai mata-mata|n,balai polis|n,bukit aman,kepolisan|adj
+policies	walanon|n
+policy	polisi|n
+polis	pdb,pdrm
+polish	beraso|n
+polite	sopan santun|adj
+politeness	adab|n
+political	berparti|adj,dedak|n,kepartian|adj,parti politik|n,sayap kanan|adj,sayap kiri|adj
+politician	politikus|n
+politics	politik|n
+polled	dogol|adj
+pollution	pencemaran|n
+polonium	polonium|n
+polyester	poliester|n
+polygamy	berpoligami|v,poligami|n
+polygon	oktagon|n
+polymer	polistirena|n
+pomegranate	delima|n
+pomelo	limau abung|n,limau bali|n
+pomfret	bawal|n
+pond	kolam|n
+ponder	memikirkan|v
+pongidae	mawas|n
+ponteng	diponteng|v,memonteng|v
+pony	kuda padi|n
+pool	langgam|v
+poop	air besar|n,berak|n,taik|n
+poor	miskin|adj
+pop	budaya pop|n
+popular	populer|adj,sohor|adj
+populated	berpenduduk|adj
+population	kependudukan|n
+populous	makmur|adj
+porcelain	porselin|n
+porch	anjung|n
+porcupine	landak|n
+porridge	bubur|n
+port	julang senjata|n,pelabuhan|n,pelabuhan klang,port dickson
+portable	keran|n,mudah alih|adj,mudalih|adj
+portugal	portugal
+portuguese	peringgi|adj,portugis,ubur-ubur api|n
+portunus	ketam bunga|n,ketam renjong|n
+pose	acah|v
+position	darjat|n,duduk|v,jawatan|n,kat|prep,pekerma|n,tunduk udang|n
+possess	rasuk|v
+possessing	pelangi|adj
+possession	kepunyaan|n
+possessive	negaraku|n
+possessor	empunya|n
+possibility	berkemungkinan|v,kemungkinan|n
+possible	memungkinkan|v,secepat mungkin|adv,sedapat mungkin|adv,sejelas-jelasnya|adv,selekas mungkin|adv
+possibly	mungkin|adv
+post	jawatan|n,pejabat pos|n,tugu|n,turus|n
+postage	setem pos|n
+postal	poskod|n
+postcard	poskad|n
+poster	poster|n
+posterior	udi|n
+postgraduate	pascasiswazah|adj
+postpaid	pascabayar|adj
+pot	kawah peleburan|n,pasu|n,periuk|n
+potassium	kalium|n,sendawa|n
+potato	kentang|n,kerepek kentang|n,ubi kentang|n
+potential	tenaga keupayaan|n
+potion	posyen|n
+potong	dipotong|v,memotong|v
+pots	periuk belanga|n
+pouch	pundi|n
+poultry	reban|n
+pounce	terkam|v
+pound	paun|n
+pour	curah|v,simbah|v
+pouring	deras|adj
+pout	merajuk|v
+poverty	kemiskinan|n
+powder	pupogh|n,pupur|n,serbuk|n
+powdered	lumat|adj
+power	baterai|n,kuasa|n,kuripan|n
+powerful	kuat|adj,perkasa|adj
+practical	pragmatik|adj,praktis|adj
+practice	bidaah|n,veganisme|n,vegetarianisme|n
+practise	berpoligami|v
+pragmatic	pragmatik|adj
+pragmatik	pragmatis|adj
+pragmatism	pragmatisme|n
+prague	praha
+prairie	anjing prairi|n
+praise	alhamdulillah,madah|n
+praseodymium	praseodimium|n
+prawn	keropok udang|n,udang|n,udang galah|n
+pray	bersembahyang|v
+prayer	astaghfirullah,bapa kami,isyak|n,sembahyang|n,takbir raya|n
+praying	mentadak|n
+precaution	ikhtiyat|n
+precious	manikam|n
+precipitate	mendakan|n
+precisely	jangka|v,persis|adv
+predator	pemangsa|n
+predict	ramal|v
+prediction	ramalan|n
+preface	prakata|n
+prefecture	prefektur|n
+prefer	lebih suka|v
+preferably	sebaiknya|adv
+pregnancy	kehamilan|n
+pregnant	hamil|adj,mengandung|v
+prehistory	prasejarah|n
+premier	perdana|adj
+premium	yuran|n
+prepaid	prabayar|adj
+prepare	bersaji|v
+prepared	siap|adj
+prepayment	prapembayaran|n
+preposition	kata sendi nama|n
+preschool	prasekolah|n
+prescription	preskripsi|n,surat ubat|n
+prescriptive	preskriptif|adj
+presence	hadirat|n,kehadiran|n
+present	hadiah|n,hadir|v,hormat senjata|n,kini|adj,la ni|adv,mempersembahkan|v
+presentable	selia|adj
+preserve	lestarikan|v
+preserved	asam boi|n,halwa|n,jeruk|adj
+preserving	pelestarian|n
+president	presiden|n
+press	apit|v,henyak|v,tekan|v
+pressed	dipendapkan|v
+prestige	prestij|n
+pretend	acah|v,sadin|v
+pretext	dalih|n
+prettiness	kecantikan|n
+pretty	cantik|adj,gelis|adj,mat jambu|n
+prevent	cegah|v,fius|n
+preview	mempreviu|v,pratonton|n,previu|n
+previously	dahulu|adv,dulu|adv
+prey	mangsa|n
+priapism	ayuk-ayutan|n
+priapus	ayuk-ayutan|n
+price	indeks harga pengguna|n,rega|n
+pride	bulan jatidiri
+priest	paderi|n,sami|n
+prik	paprik|n
+primary	sekolah rendah|n
+prime	mangkubumi|n,nombor perdana|n,perdana|adj,perdana menteri|n
+prince	bupala|n,pangeran|n,putera|n
+princess	puteri|n
+principal	guru besar|n,perdana|adj
+principe	sao tome dan principe
+principle	kanun|n,prinsip|n
+prionailurus	kucing hutan|n
+prism	prisma|n
+prisma	prizam|n
+prisoner	banduan|n
+private	peribadi|adj,sektor swasta|n,sendirian berhad|n,swasta|adj
+privatise	menswastakan|v
+privatization	penswastaan|n
+privilege	hak istimewa|n
+privy	jamban|n
+prize	anugerah|n,berhadiah|adj
+probability	kebarangkalian|n
+probably	agaknya|adv
+problem	masalah|n
+procedure	tatacara|n
+proceed	lanjutkan|v,teruskan|v
+process	ketibaan|n,mengolah|v,pelebaran|n,pelestarian|n,pemampanan|n,pemasaan|n
+proclamation	takbir|n
+produce	bikin|v,mengeluarkan|v
+produced	kupasan|n,telur|n
+produces	karyawan|n,pegoh|n
+product	hasil|n
+production	pengeluaran|n
+productive	makmur|adj,produktif|adj
+productivity	produktiviti|n
+profanity	carut-marut|n
+profess	anut|v
+profession	karier|n
+professor	profesor|n,profesor madya|n
+professorship	kursi|n
+proficient	mahir|adj
+profit	faedah|n,laba|n
+profitable	berfaedah|v,lumayan|adj
+profligate	jangak|adj
+profound	hebat|adj
+progenitor	adam
+program	program|n
+programme	program|n
+programming	pengaturcaraan|n
+progress	kemajuan|n
+progressive	maju|adj,sedang|adv,tengah|n
+prohibit	larangkan|v,menegah|v,tegah|v
+prohibited	dilarang|adv,larangan|n,pelarangan|n,terlarang|adj
+prohibition	berlarangan|adj
+project	projek|n
+projectile	peluru|n
+projection	gigi|n
+prolapse	tumbung|n
+prolonged	lanjut|adj
+promethium	prometium|n
+prominent	pelangi|adj
+promise	ikrar|n,janji|n,jual janji|v
+prone	gelojoh|adj
+pronoun	aku|pron,anda|pron,awak|pron,awda|pron,baginda|pron,dia|pron
+pronunciation	amende|pron,ape|pron,camne|adv,cantek|adj,dok|v,kete|n
+proof	berhadis|v
+proper	kata nama khas|n,patut|adj,senonoh|adj
+properly	elok-elok|adv
+property	harta|n,hartanah|n,milik|n,sifat|n
+prophesied	saleh
+prophet	daud,fatimah,hud,ibrahim,idris,isa
+propose	aju|v,lamar|v,saran|v
+prose	hikayat|n
+prosperity	darul makmur,suasti|n
+prostitute	pelacur|n
+protactinium	protaktinium|n
+protect	nauzubillah
+protection	kawalan|n
+protective	sarap|v
+protector	pengawal|n
+protest	bantah|v
+protocol	protokol|n
+proton	proton|n
+prototype	prototaip|n,purbarupa|n
+protrusion	tumbung|n
+protuberance	bonggol|n,jongkol|n
+proverb	pepatah|n,peribahasa|n
+provide	kaunseling|v
+providing	berpencen|v,informatif|adj
+provisional	sementara|adv
+proxy	proksi|n
+prunus	asam boi|n
+pry	colek|v
+psikologi	saikoloji|n
+psychiatry	psikiatri|n
+psycho	psiko|n
+psychologist	psikologis|n
+psychology	psikologi|n
+puasa	berbuka|v
+puberty	baligh|n
+public	awam|adj,berhad|n,ceramah|n,notari awam|n,pidato|n,sekolah kebangsaan|n
+publicity	capap|n
+publisher	penerbit|n
+puchong	puchong
+pucuk	pucuk-pucuk,sepucuk|cls
+puff	karipap|n
+puffed	bepang|n
+pukimak	kimak
+pula	lak|adv,pulak|adv
+pulau	merambong,pulau brani
+pull	hela|v,heret|v,mengait|v,selak|v,sentak|v,tarik|v
+pulled	tarikan|n
+pulmonary	arteri pulmonari|n
+puluh	puloh|num
+puma	kugar|n,puma|n
+pumpun	punpun|v
+pun	pon|adv
+punch	tumbuk|v
+punching	penebuk|n
+punctual	tepat masa|adj
+pungent	pedar|adj
+punishment	ampun|n,hukuman mati|n,seksa|n
+punji	ranjau|n
+puntianak	pontianak|n
+punya	nya|part
+punyai	dipunyai|v,mempunyai|v
+punyakan	dipunyakan|v,mempunyakan|v
+pupil	anak mata|n,murid|n,pupil|n
+puppet	boneka|n,orang-orang|n
+puppeteer	dalang|n
+puppy	anak anjing|n,anak asu|n,cinta monyet|n,kirik|n
+purata	pukul rata|n
+purchase	pembelian|n
+purchaser	pembeli|n
+pure	jati|adj,sengkek|n,suci|adj
+purely	semata-mata|adv
+purify	membersihkan|v
+purple	ungu|adj
+purpose	hajat|n
+purse	dompet|n,pundi-pundi|n
+purse-net	ambai|n
+pus	nanah|n
+push	dorong|v,sorong|v,tolak|v
+push-up	tekan tubi|n
+pussy	pepek|n
+put	aju|v,bubuh|v,hapus|v,jerang|v,letak|v,lontar peluru|n
+puteh	kacang putih|n
+putera	putra|n
+putih	puteh|adj
+putihkan	diputihkan|v,diputihkan mata|v,memutihkan|v,memutihkan mata|v
+putrajaya	prang besar,putrajaya
+putting	hidung tinggi|adj
+pyrite	pirit|n
+python	sanca|n,ular sawa|n

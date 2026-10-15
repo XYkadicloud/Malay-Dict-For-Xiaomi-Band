@@ -1,0 +1,9 @@
+ijat	ijat		男人	a male given name
+ijazah	ijazah		文凭，许可，准许	A certificate usually been used for Bachelor's degree (Ij…
+ijazahsarjanamudasains	ijazah sarjana muda sains		理学士
+ijazahsarjanamudasastera	ijazah sarjana muda sastera		文学士
+ijazahsarjanasains	ijazah sarjana sains		理硕士
+ijazahsarjanasastera	ijazah sarjana sastera		文硕士
+ijo	ijo	adj	两者择一
+ijok	ijok		荒废的	Ijok (a town in Selangor)
+ijuk	ijuk	n	椰糖棕榈的黑色纤维	gomuti (Arenga pinnata)

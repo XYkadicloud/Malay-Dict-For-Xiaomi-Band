@@ -1,0 +1,17 @@
+eka	eka	num	其他形式 ， ， 。 数词 一 近义词 / / / / 衍生词汇 語彙	one
+ekabahasa	ekabahasa	adj	单语的	Monolingual:
+ekadasa	ekadasa	num	同义词
+ekar	ekar		依格，英亩
+ekologi	ekologi	n	生态学	ecology (branch of biology)
+ekonometrik	ekonometrik	n	计量经济学  计量经济学	econometrics
+ekonomi	ekonomi	n	经济，经济学	economy
+ekor	ekor	n	尾巴	tail (appendage of an animal)
+ekoran	ekoran		结果，后果
+ekormata	ekor mata		眼角，眼稍
+eksport	eksport	n	输出，出口	Trading goods that are sold to foreign countries; export.
+ekspot	ekspot	n	有日期的
+ekspres	ekspres	adj	直透的	express  fast
+ekspreswe	ekspreswe	n	高速公路	expressway
+ekstrapolasi	ekstrapolasi	n	推断	extrapolation
+ekstremis	ekstremis	n	偏激份子	extremist
+ekzos	ekzos	n	排气	exhaust (of a vehicle)

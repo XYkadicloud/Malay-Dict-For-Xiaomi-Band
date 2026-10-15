@@ -1,0 +1,4 @@
+qadar	qadar		注定，定数
+qari	qari		男可兰经诵读者
+qariah	qariah		女可兰经诵读者
+qaryah	qaryah		乡村

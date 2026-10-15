@@ -1,0 +1,317 @@
+修	tobak,adun,asrama|n,babat,baharui|v,baiki,bengkel|n,bercukur|v
+修剃	bercukur|v,tokong|n
+修剪	babat,memepat,mengandam,pangkas,pepat,tobak
+修剪指	tobak
+修剪指甲	tobak
+修完	khatam
+修改	meminda,pinda
+修整	lilis
+修正	pindaan
+修理	baharui|v,baiki,betulkan,membetulkan|v,perbaikan,pugar,bengkel|n
+修理场	bengkel|n
+修补	jerumat,membetulkan|v,sumbi
+修道	asrama|n,biara|n,biarawan|n,konven|n,sekular|adj
+修道会	konven|n
+修道士	biarawan|n
+修道院	asrama|n,biara|n,sekular|adj
+修道院外	sekular|adj
+修道院外的	sekular|adj
+修道院外的教	sekular|adj
+修道院外的教士	sekular|adj
+修锉	dabung
+修长	panjang lampai
+修面	cukur|v
+修饰	adun,hias|v
+叮	gigit|v,gigitan,ketip,mengetip,berdering,dencing,denting,dering
+叮叮	dencing,lening
+叮叮声	dencing
+叮叮当	lening
+叮叮当当	lening
+叮咚	letung
+叮咚声	letung
+叮声	dencing
+叮当	berdering,denting,dering,kerenting,kerongcong,kertak,lengkung|n,lening
+叮当响	kerenting,berdering
+叮当声	denting,dering,kerongcong,kertak,lengkung|n
+叮当当	lening
+哮	aum mengaum,batuk sesak,mengah,tengking
+哮喘	mengah,batuk sesak
+哮喘病	batuk sesak
+啮	kerumit,kumat-kumit,mengunggis,unggis
+壮	afiat,agam,bugar,buntak,cegak,gagah|adj,huski|n,menegarkan
+壮丽	afiat
+壮健	bugar
+壮健的	bugar
+壮的	buntak,cegak,pagan,sali,sasa
+壮结	huski|n
+壮结实	huski|n
+壮结实之	huski|n
+壮结实之人	huski|n
+奮	berusaha
+奮力	berusaha
+奮力工	berusaha
+奮力工作	berusaha
+差	beza|n,budak pejabat,cemas-cemas,conggah-cangkih,congkar-cangkir,diversiti|n,hampir-hampir,kepelbagaian|n
+差一	cemas-cemas,hampir-hampir
+差一点	cemas-cemas,hampir-hampir
+差一点要	hampir-hampir
+差不	conggah-cangkih,congkar-cangkir,lebih kurang|adv,mubah
+差不多	lebih kurang|adv,mubah
+差不多的	mubah
+差不齐	conggah-cangkih,congkar-cangkir
+差不齐的	conggah-cangkih
+差别	beza|n,nuansa|n
+差异	diversiti|n,kepelbagaian|n
+差点	selisih
+扮	berhias,bersolek,dandan|v,hias|v,melakonkan,membadut|v,mendandankan,ogak-ogak
+扮小	ogak-ogak
+扮小丑	ogak-ogak
+扮演	melakonkan,membadut|v
+扮演小	membadut|v
+扮演小丑	membadut|v
+据	absah|adj,berdalil,berdasar|v,beti,bukan-bukan,bukti,hujah,katanya
+据云	konon|adv
+据的	absah|adj,berdalil,berdasar|v,bukan-bukan,sah|adj
+据说	katanya
+揮	petrol|n
+揮發	petrol|n
+揮發性	petrol|n
+揮發性易	petrol|n
+揮發性易燃	petrol|n
+揮發性易燃的	petrol|n
+揮發性易燃的液	petrol|n
+揮發性易燃的液態	petrol|n
+揮發性易燃的液態烴	petrol|n
+揮發性易燃的液態烴類	petrol|n
+揮發性易燃的液態烴類組	petrol|n
+揮發性易燃的液態烴類組成	petrol|n
+普	awam|adj,biasa|adj,gempal,ghalib,jip,kata nama am|n,lumrah|adj,murba
+普车	jip
+普选	pilihan raya umum|n
+普通	awam|adj,biasa|adj,gempal,ghalib,kata nama am|n,lumrah|adj,murba,rucah
+普通名	kata nama am|n
+普通名词	kata nama am|n
+普通的	gempal,ghalib,lumrah|adj,murba,rucah,sebarang|det,suwajar
+普遍	rata-rata
+森	belantara,cerang,hutan|n,hutan belantara,hutan rimba|n,negeri sembilan,nismilan,pangan|n
+森林	belantara,hutan|n,rimba hutan,cerang,hutan belantara,hutan rimba|n,pangan|n
+森林地	pangan|n
+森林地带	pangan|n
+森林里	cerang
+森林里的	cerang
+森林里的空	cerang
+森林里的空地	cerang
+森美	negeri sembilan,nismilan
+森美兰	negeri sembilan,nismilan
+森美兰州	negeri sembilan,nismilan
+浮	melampung,alir|v,ambul,ampung,apung|v,apung-apung,bairup,bakup
+浮出	timbul|v
+浮动	ampung,terawang
+浮在	apung-apung
+浮在水	apung-apung
+浮在水面	apung-apung
+浮在水面上	apung-apung
+浮木	libut
+浮标	belampung,guntang,kelampung,bairup
+浮桥	ponton
+浮沉	katung|n
+浮泛	lampung
+浮流	alir|v
+浮游	kambang
+浮的	getek
+浮肿	bakup,bokop,sembap,tonjol
+浮肿的	tonjol
+浮起	ambul,apung|v,timbul|v,mengapungkan
+潮	air pasang,air perbani,air surut,aliran|n,datang haid,embal,ketam rebab|n,lembap|adj
+潮流	aliran|n,simbar
+潮流冲	simbar
+潮流冲突	simbar
+潮流冲突而	simbar
+潮流冲突而成	simbar
+潮流冲突而成的	simbar
+潮流冲突而成的大	simbar
+潮流冲突而成的大浪	simbar
+潮湿	lembap|adj,embal,lengas,rambah,unai
+潮湿的	embal,lengas,rambah
+潮湿而	unai
+潮湿而发	unai
+潮湿而发臭	unai
+潮湿而发臭的	unai
+潮蟹	ketam rebab|n
+煮	bertanak,jerang|v,masak|v,menanak,merebus,rebus|adj,gelegak,kaldron|n
+煮一	kersai
+煮一粒	kersai
+煮一粒一	kersai
+煮一粒一粒	kersai
+煮一粒一粒的	kersai
+煮滚	gelegak
+煮熟	matang
+煮熟的	matang
+煮皂	kaldron|n,kawah|n
+煮皂锅	kaldron|n,kawah|n
+煮的	nasi lemak|n
+煮的饭	nasi lemak|n
+煮菜	menggulai
+煮菜汤	menggulai
+狮	gembala singa,kugar|n,puma|n,singa|n
+狮子	singa|n
+狮者	gembala singa
+瓮	buyung,gombang,guci,guri,kangkung|n,kumba,lota
+瓮菜	kangkung|n
+目	acara|n,agah,akaun|n,amir,babi|n,bertujuan,bilangan|n,buta|adj
+目中	huju
+目中无	huju
+目中无人	huju
+目击	menyaksikan
+目呆	kasima
+目录	daftar|n,faharasat,jadual|n,katalog,senarai|n
+目报	juruacara,juruhebah|n
+目报告	juruacara,juruhebah|n
+目报告员	juruacara,juruhebah|n
+目木	perawas
+目标	jih,matlamat|n,objektif,sasaran|n,sekip,tujuan|n,kelupas|v,sehaluan
+目标相	sehaluan
+目标相同	sehaluan
+目植	konifer|n
+目植物	konifer|n
+目的	jih,kasad,murad|n,niat|n,tujuan|n,bertujuan,buta|adj,cauvinisme|n
+目的地	rubu
+目的地步	rubu
+目的地步行	rubu
+目的爱	cauvinisme|n
+目的爱国	cauvinisme|n
+目的爱国主	cauvinisme|n
+目的爱国主义	cauvinisme|n
+目的物	objek
+目的计	pengaturcaraan|n
+目的计划	pengaturcaraan|n
+目瞪	langah,longong,menganga
+目瞪口	langah,longong,menganga
+目瞪口呆	langah,longong,menganga
+目示	agah
+目示意	agah
+目行	babi|n
+目行动	babi|n
+目表	daftar harga,program|n
+目视	mata jahat|n
+目视他	mata jahat|n
+目视他人	mata jahat|n
+目视他人而	mata jahat|n
+目视他人而使	mata jahat|n
+目视他人而使之	mata jahat|n
+目视他人而使之遭	mata jahat|n
+目视他人而使之遭殃	mata jahat|n
+目视他人而使之遭殃的	mata jahat|n
+目视他人而使之遭殃的能	mata jahat|n
+目视他人而使之遭殃的能力	mata jahat|n
+目送	kawal|v
+矮	ayam katik|n,bayak,buntak,cebol,hutan belukar,katik,kerdil,koment
+矮丛	hutan belukar,semak-samun|n
+矮丛林	hutan belukar,semak-samun|n
+矮壮	buntak
+矮壮的	buntak
+矮子	cebol
+矮小	kerdil,koment,rencat
+矮小的	kerdil,koment,rencat
+矮瓜	terung
+矮的	pandak,bayak,lontok
+矮短	katik
+矮短的	katik
+矮种	kuda padi|n
+矮种马	kuda padi|n
+矮胖	lontok,mondok,muntil
+矮胖的	lontok,mondok,muntil
+矮脚	ayam katik|n
+矮脚鸡	ayam katik|n
+确	absah|adj,benar|adj,benar-benar,betul|adj,bolak,cakap betul-betul,gerenti|adv,jitu|adj
+确信	yakin|adj
+确切	persis|adv,tegas|adj
+确切地	persis|adv
+确切的	tegas|adj
+确地	sepatutnya
+确定	keruan,menentukan,tetap|adj,negeri antah-berantah|n,si fulan,syubhah|adj
+确定的	negeri antah-berantah|n,si fulan,syubhah|adj
+确实	absah|adj,cakap betul-betul,pasti|adj,sah|adj,seyogianya
+确实地	cakap betul-betul
+确实地讲	cakap betul-betul
+确实根	absah|adj,sah|adj
+确实根据	absah|adj,sah|adj
+确实根据的	absah|adj,sah|adj
+确实的	pasti|adj,seyogianya
+确无	gerenti|adv
+确无疑	gerenti|adv
+确无疑地	gerenti|adv
+确的	jitu|adj,ketaksaan|n,labut,perdata|n,piawai|adj,sahih,seyogianya,tepat|adj
+确立	pemfrancaisan|n
+确认	sahkan
+篮	ambung,bakul|n,keranjang|n,sanggan,ayunan,basketbol|n,berdondang,bola keranjang|n
+篮曲	berdondang
+篮球	basketbol|n,bola keranjang|n
+篮背	mengambung
+篮背负	mengambung
+絮	majung
+绮	apas
+绮丽	apas
+绮丽的	apas
+置	atur|v,bertelur|v,bubuh|v,duduknya,hak kuasa,jelempah,kata sendi nama|n,kedongkok
+置放	letak|v
+置权	hak kuasa
+置的	lingkup,pakai buang|adj,sadak
+置词	kata sendi nama|n,sendi-nama
+腮	peparu,bauk
+腮胡	bauk
+腮胡子	bauk
+蛮	biadab|adj,buas|adj,ganas|adj,perusa
+蛮的	biadab|adj,buas|adj,ganas|adj,perusa
+轮	roda|n,beca|n,berganti,berganti-ganti,cakera|n,feri|n,gari|n,gear
+轮子	cakera|n,jentera|n
+轮廓	jidar|n
+轮廓线	jidar|n
+轮椅	kerusi roda|n
+轮次	giliran
+轮流	berganti,berganti-ganti,gilir,silih berganti,selang-seli
+轮流的	selang-seli
+轮班	giliran
+轮盘	putaran
+轮缘	lereng-lereng
+轮胎	tayar|n
+轮胎于	tayar|n
+轮船	kapal api,roda stereng|n
+轮船舵	roda stereng|n
+轮船舵轮	roda stereng|n
+轮车	beca|n
+轮马	gari|n
+轮马车	gari|n
+轮驱	pacuan empat roda|n
+轮驱动	pacuan empat roda|n
+遮	berteduh,kajang|n,kemul,lindung|v,melindungi,meliputi,menyaput,menyelubungi|v
+遮住	menyaput
+遮掩	lindung|v
+遮盖	kemul,menyelubungi|v
+遮篷	kajang|n
+遮蔽	melindungi,meliputi,teduh
+遮蔽的	teduh
+遮阳	terendak
+遮阳帽	terendak
+遮阴	berteduh
+问	bertanya|v,menanya,minta maaf|v,tanya|v,adakah|v,aham,arif,berkunjung
+问候	halo,helo,jelang,puji-pujian,salam|n,salam sejahtera,selamat sejahtera,tegur|n
+问安	sapa|n
+问接	kah
+问接尾	kah
+问接尾语	kah
+问的	arif,melit
+问答	soal jawab|n
+问词	adakah|v
+问题	hal|n,isu|n,masalah|n,pertanyaan|n,soal|v,soalan|n,urai
+饮	meneguk,air botol|n,air minum|n,cham|n,hirup|v,irup,mengopi|v,minuman|n
+饮共	sulang
+饮共酌	sulang
+饮剂	posyen|n
+饮料	cham|n,mengopi|v,minuman|n,serbat
+饮水	sesap
+饮泣	ngihngih
+饮泣声	ngihngih
+饮用	air botol|n,air minum|n
+饮用水	air minum|n,air botol|n
+饮食	santap|v,pemakanan|n

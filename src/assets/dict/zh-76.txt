@@ -1,0 +1,388 @@
+乌	abnus|n,belanak|n,beri biru|n,burung gagak,cumi,gagak|n,ikan cumi-cumi,lotong|adj
+乌名	sirai
+乌尔	urdu
+乌尔都	urdu
+乌尔都语	urdu
+乌拉	uruguay
+乌拉圭	uruguay
+乌木	abnus|n
+乌木制	abnus|n
+乌木制的	abnus|n
+乌贼	cumi,ikan cumi-cumi,nus
+乌饭	beri biru|n
+乌饭树	beri biru|n
+乌鱼	belanak|n
+乌鸣	siul
+乌鸦	burung gagak,gagak|n
+乌黑	lotong|adj
+乌黑的	lotong|adj
+凌	jujat,kunut,menempelak,tempelak
+凌晨	kunut
+凌晨的	kunut
+凌晨的祈	kunut
+凌晨的祈祷	kunut
+凌辱	jujat,menempelak,tempelak
+剌	seruit,sigung,ulam|n
+剌激	sigung,ulam|n
+剌激食	ulam|n
+剌激食欲	ulam|n
+剌激食欲的	ulam|n
+剌激食欲的腌	ulam|n
+剌激食欲的腌菜	ulam|n
+剌矛	seruit
+双	anak kembar,bandung|n,bas dua tingkat|n,beborot|adj,belibat,beregu,berjodoh,bersimpuh
+双倒	piarit
+双倒钩	piarit
+双倒钩之	piarit
+双倒钩之鱼	piarit
+双倒钩之鱼叉	piarit
+双层	bas dua tingkat|n
+双层船	bas dua tingkat|n
+双打	beregu
+双方	saka-baka
+双方的	saka-baka
+双方的家	saka-baka
+双方的家系	saka-baka
+双月	dwibulan
+双月的	dwibulan
+双浆	belibat
+双生	anak kembar
+双生子	anak kembar
+双的	dwi|num,kembar,beborot|adj
+双筒	senapang dua laras
+双筒枪	senapang dua laras
+双腿	kangkang
+双膝	bersimpuh
+双膝而	bersimpuh
+双膝而脆	bersimpuh
+双膝而脆坐	bersimpuh
+双臂	depang,geledang
+双语	dwibahasa|adj
+双轮	gari|n
+双轮马	gari|n
+双轮马车	gari|n
+双重	rangkap
+双钩	piarit
+双钩之	piarit
+双钩之矛	piarit
+双面	kendang
+双面鼓	kendang
+双马	jori
+坌	jampuk,menjampuk
+塌	keruntuhan,roboh|v,runtuh|v,sadang,sading,terban,tumbang
+塌的	sadang,sading
+塌的屏	sadang,sading
+塌的屏幕	sadang,sading
+嫌	lenggana,luat
+嫌厌	luat,lenggana
+嫌厌的	lenggana
+富	berada|adj,cerdik|adj,diperkaya|v,harta|n,hartawan,jenin,jutawan|n,kaya|adj
+富于	jenin,mat jenin
+富于幻	jenin,mat jenin
+富于幻想	jenin,mat jenin
+富人	orang kaya
+富有	berada|adj,kaya|adj,cerdik|adj,hartawan,keberertian|n
+富有意	keberertian|n
+富有意义	keberertian|n
+富有机	cerdik|adj
+富有机智	cerdik|adj
+富有机智的	cerdik|adj
+富有的	hartawan
+富的	lacak,peridi
+富翁	hartawan,jutawan|n
+富裕	kaya-raya|adj,mampu|adj
+富裕的	mampu|adj
+富足	diperkaya|v
+屌	butoh|n
+嵌	memakal,membaji,pakal|n,pamur,pantak,selip,selit,sendal
+嵌入	membaji,pantak,selit,tatah|n,terhimpit|adj
+嵌入的	tatah|n,terhimpit|adj
+嵌塞	memakal,pakal|n
+嵌塞或	memakal,pakal|n
+嵌塞或填	memakal,pakal|n
+嵌塞或填塞	memakal,pakal|n
+嵌塞或填塞船	memakal,pakal|n
+嵌塞或填塞船缝	memakal,pakal|n
+嵌插	selip
+嵌楔	sendal
+嵌紧	serat
+嵌紧的	serat
+幌	siluk
+幌眼	siluk
+忌	bingit,cemburu|adj,gemas,hasad,iri hati,jelus,meliak,panas hati
+忌的	bingit,jelus
+慌	gopoh,birit,gamam,gugup,kirap,lintang-pukang,lipas kudung|n,panik
+慌乱	sera
+慌乱的	sera
+慌张	birit,gugup,sasap,tergopoh-gopoh,lintang-pukang,pontang-panting
+慌张张	lintang-pukang,pontang-panting
+慌忙	tergegas-gegas,kirap,lipas kudung|n
+慌忙的	kirap,lipas kudung|n
+慌意	gamam,tergamam
+慌意乱	gamam,tergamam
+慌慌	lintang-pukang,pontang-panting
+慌慌张	lintang-pukang,pontang-panting
+慌慌张张	lintang-pukang,pontang-panting
+慌而	pikau,terpikau
+慌而乱	pikau,terpikau
+慌而乱喊	pikau,terpikau
+慌而乱喊乱	pikau,terpikau
+慌而乱喊乱叫	pikau,terpikau
+拌	gado-gado,jara,karau,karih,kebur,kincau,mengecohkan,randau
+拌器	jara
+拌成	gado-gado
+拌成的	gado-gado
+拌成的食	gado-gado
+拌成的食品	gado-gado
+拌杂	rojak|n
+拌杂菜	rojak|n
+敌	adawat|n,belot,bermusuh,kafir harbi|n,musuh|n,seteru|n
+敌人	musuh|n,seteru|n,kafir harbi|n
+敌人的	kafir harbi|n
+敌对	musuh|n,bermusuh
+敌意	adawat|n
+桌	alas meja,cadar,kain cadar,meja|n,meja tulis|n,sufilah
+桌子	meja|n
+桌布	alas meja,cadar,kain cadar,sufilah
+歌	gita|n,lagu|n,nyanyian,aliterasi,bangsawan|n,berdendang,bernyanyi,biduan|n
+歌催	ulit|v
+歌催眠	ulit|v
+歌剧	opera|n,sandiwara|n,bangsawan|n,makyung,mendora
+歌剧团	mendora
+歌剧团的	mendora
+歌剧团的一	mendora
+歌剧团的一种	mendora
+歌名	kerongcong
+歌唱	biduan|n,biduanita|n,dendang
+歌唱家	biduan|n,biduanita|n
+歌头	aliterasi
+歌头韵	aliterasi
+歌手	biduan|n,biduanita|n,penyanyi|n
+歌曲	nyanyian,lagu pop,pusparagam
+歌曲选	pusparagam
+歌词	madah|n
+歌谣	dendang
+泌	kelenjar
+泌腺	kelenjar
+淌	rembah
+淌流	rembah
+灌	belukar|n,genang|n,irigasi,legundi|n,menyeroka
+灌木	belukar|n,legundi|n
+灌木名	legundi|n
+灌溉	genang|n,irigasi,menyeroka
+煌	gemilang|adj,mengiang
+煌的	gemilang|adj,mengiang
+牌	carta|n,daun pakau,gaba,jebang,kartu,lawang|n,mata gelap,pakau
+牌楼	lawang|n,pintu gerbang,gaba
+牌楼的	gaba
+牌楼的椰	gaba
+牌楼的椰叶	gaba
+牌游	terup
+牌游戏	terup
+界	bidang|n,lingkungan|n,alam|n,antara muka|n,aras,batas|n,batasan|n,batu sempadan
+界大	perang dunia kedua,perang dunia pertama
+界大战	perang dunia kedua,perang dunia pertama
+界市	pasaran dunia
+界市场	pasaran dunia
+界石	rambu,tugu|n
+界线	sempadan,tenggat,watas
+界运	olimpiad|n
+界运动	olimpiad|n
+界运动大	olimpiad|n
+界运动大会	olimpiad|n
+界限	batas|n,batasan|n,had|n,hingga|prep,hingganya,tenggat
+界面	antara muka|n
+癌	kanser|n,karsinogen|n,karsinogenik|adj,restung jahat
+癌作	karsinogenik|adj
+癌作用	karsinogenik|adj
+癌物	karsinogen|n
+癌物质	karsinogen|n
+癌症	kanser|n
+筌	serkap,lukah|n
+职	alpa|adj,buang kerja,ikhtisas,jabatan|n,jawatan|n,joget|v,kerjaya|n,lantik|v
+职业	jawatan|n,pekerjaan|n,pendudukan|n,ikhtisas,joget|v,kerjaya|n
+职业事	kerjaya|n
+职业事业	kerjaya|n
+职业的	ikhtisas
+职业舞	joget|v
+职业舞女	joget|v
+职位	jawatan|n,prefektur|n
+职务	jabatan|n
+背	kendong|v,menyandang,baju dalam,belengas,bonggol|n,bongkok|adj,bongkok sabut,bongkok udang
+背叛	khianat|n,murtad
+背叛的	murtad
+背后	pungkur|n,sut|n,gendong,menggendong
+背峰	bonggol|n
+背座	kup
+背座桥	kup
+背心	baju dalam,kutang,singlet,weskot|n
+背景	latar belakang,natar,latar pentas|n
+背景幕	latar pentas|n
+背泳	lala|n
+背的	pelekuh
+背约	mungkir
+背诵	hafaz,hapal,mahfuz,menghafazkan
+背负	mendukung|v,mengambung
+背过	paling|adv
+背过脸	paling|adv
+背过脸去	paling|adv
+背面	pungkur|n
+背骨	tulang belakang|n
+背鲸	paus kelasa|n
+腌	asam boi|n,bekasam,mengacar|v,pendap|v,ulam|n
+腌浸	pendap|v
+腌渍	bekasam,mengacar|v
+腌渍物	bekasam,mengacar|v
+腌的	asam boi|n
+腌菜	bekasam,ulam|n
+菌	kulat|n,aba-daba|n,cendawan|n,germa|n,hama,kuman|n,menalu
+菌类	cendawan|n
+蝌	berudu|n,gerundang
+蝌蚪	berudu|n,gerundang
+行	baris|n,barisan|n,jajar,leret,ririt,teret,abdikasi|n,abet|n
+行为	feel,gerak-geri,gerakan|n,kelakuan,perangai|n,rewang,telingkah,tindak|v
+行为不	buruk kelakuan,jangak|adj
+行为不当	buruk kelakuan
+行为不正	jangak|adj
+行为举	abet|n,telatah|n
+行为举止	abet|n
+行为举行	telatah|n
+行为举行品	telatah|n
+行为举行品行	telatah|n
+行于	meniti|v
+行刑	pertanda|v
+行刑吏	pertanda|v
+行列	banjar|n,baris|n,iringan|n,jejer,membariskan
+行割	katan,khantan,mengkhatankan
+行割礼	katan,khantan,mengkhatankan
+行动	abdikasi|n,acahan|n,aksi|n,akta|n,babi buta|v,beraksi|v,berkeras kepala|v,buta tuli|v
+行动物	reptilia
+行劫	rompak|v
+行员	juruterbang|n,paus pendek sirip|n
+行品	telatah|n
+行品行	telatah|n
+行囊	kandi
+行地	sepanjang|prep
+行录	berhadis|v,hadis|n
+行态	gaya|n
+行或	pantun|n
+行或四	pantun|n
+行或四句	pantun|n
+行或四句体	pantun|n
+行或四句体之	pantun|n
+行或四句体之马	pantun|n
+行或四句体之马来	pantun|n
+行或四句体之马来诗	pantun|n
+行或四句体之马来诗文	pantun|n
+行手	bedah
+行手术	bedah
+行政	administrasi,pentadbiran|n,pentadbirkan,tadbir|n,urusan
+行星	nujum,planet
+行李	bagasi|n,barang-barang,begej|n
+行歌	lagu pop
+行歌曲	lagu pop
+行死	salang|v
+行死刑	salang|v
+行為	canda|n
+行牛	jebang
+行牛皮	jebang
+行牛皮盾	jebang
+行牛皮盾牌	jebang
+行病	awar,hawar
+行的	bekal|n,gurindam,jalan tol|n,kedik,kipas|n,pandemik|n,popular
+行的干	bekal|n
+行的干粮	bekal|n
+行的干粮或	bekal|n
+行的干粮或用	bekal|n
+行的干粮或用品	bekal|n
+行的谚	gurindam
+行的谚语	gurindam
+行的道	jalan tol|n
+行的道路	jalan tol|n
+行盛	temasya
+行盛会	temasya
+行礼	tabik|n
+行税	jalan tol|n,tol|n
+行税后	jalan tol|n
+行税后才	jalan tol|n
+行税后才能	jalan tol|n
+行税后才能通	jalan tol|n
+行税后才能通行	jalan tol|n
+行税后才能通行的	jalan tol|n
+行税后才能通行的道	jalan tol|n
+行税后才能通行的道路	jalan tol|n
+行纠	berpiket,piket
+行纠察	berpiket,piket
+行线	garis sejajar
+行者	pertapa,rubiah,zahid,zawadah,zuhud|adj
+行者随	zawadah
+行者随身	zawadah
+行者随身食	zawadah
+行者随身食物	zawadah
+行证	pas|adj
+行诗	rubai,sonet
+行诺	bayar kaul
+行诺言	bayar kaul
+行贿	menyogok,tumbuk rusuk
+行路	jalan sehala
+行车	basikal|n,kereta angin|n,mat motor|n,sepeda|n
+行近	mendekati
+行进	cepat jalan|n
+行通	landa
+行通过	landa
+行道	sehala|adj
+行道的	sehala|adj
+赌	angbandar,berjudi,bertaruh,judi|n,kaki judi|n,kasino|n,penjudi,pepek|n
+赌博	judi|n,perjudian,kaki judi|n
+赌博者	kaki judi|n
+赌场	kasino|n
+赌徒	penjudi
+赌注	teban
+赌赛	pepek|n
+赌金	angbandar
+赌钱	berjudi,tikam dadu
+跌	gelangsar,jatuh|v,jengkang,kejatuhan|n,luncur|v,lungsur|v,memar,menjatuhkan
+跌伤	memar
+跌伤的	memar
+跌倒	jatuh|v,menumpaskan,tumbas,tumpas,menjatuhkan
+跌坐	terduduk|v
+跌坐下	terduduk|v
+跌坐下来	terduduk|v
+跌烂	memar
+跌烂的	memar
+跌落	kejatuhan|n,merosot
+酌	sulang
+里	aristotle,cemas hati,cerang,dalam|prep,dari mana|adv,di mana|adv,di sana,di sini
+里不	cemas hati
+里不安	cemas hati
+里亚	liberia|n,rial|n
+里亚人	liberia|n
+里亚人的	liberia|n
+里亚尔	rial|n
+里兰	seri langka,sri lanka
+里兰卡	seri langka,sri lanka
+里发	khalifah|n
+里士	aristotle
+里士多	aristotle
+里士多德	aristotle
+里来	kemari
+里琴	ukulele|n
+里的	cerang,tiang rumah
+里的柱	tiang rumah
+里的空	cerang
+里的空地	cerang
+里里	ukulele|n
+里里琴	ukulele|n
+里面	dalam|prep
+铌	niobium|n
+陌	mendonan
+陌生	mendonan
+陌生人	mendonan
+雌	ayam dara,betina,itik agung|n
+雌性	betina
+雌鸡	ayam dara
+雌麻	itik agung|n
+雌麻鸭	itik agung|n
+鳌	labi-labi|n
+鹌	puyuh|n
+鹌鹑	puyuh|n

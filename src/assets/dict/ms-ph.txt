@@ -1,0 +1,2 @@
+ph	ph		词首字母缩略词
+phl	phl	adv	[医][=phospholipid]磷脂

@@ -1,1 +1,225 @@
-{"en2ms":{"wall":["abar","abar-abar","berabarkan","dinding","tembok"],"way":["abet","bima sakti","macam ini","mengabet","olah","secara"],"white":["abiad","anjing arau","anjing sabun","kabung","lepak","mat salih"],"wood":["abnus","dahan kayu","tarah","tatal"],"waste":["abur","bazir","pembaziran"],"worthless":["abus"],"water":["acapi","air","air botol","air lembut","air liat","air mineral"],"washing":["air sembahyang","mesin basuh"],"waterfall":["air terjun","riam"],"walnut":["akrot","jauzah","walnat"],"wave":["alun","gelombang","kibar","ombak"],"warning":["amaran"],"wasteful":["andau"],"wishful":["angan-angan"],"wind":["angin","angin barat","bayu","belit","bias","pawana"],"westerly":["angin barat"],"west":["angin barat","barat","kulon"],"wolfhound":["anjing serigala rusia"],"whole":["antero","lengkap","seantero","sekeluarga","seluruh"],"why":["apa hal","apa pasal","kenapa","mengapa"],"whatever":["apa-apa"],"when":["apabila","bila","kapan","sedu","tatkala"],"wedge":["apit"],"warships":["armada"],"whet":["asah"],"wild":["babi hutan","buas","galak","kelumpang","liar"],"worn":["baju","kabung","lasam"],"worth":["baloi","berbaloi","harga"],"widow":["balu","janda"],"wrapper":["balut","sampul","ulas"],"wake":["bangun","gera"],"whoever":["barang siapa","siapa-siapa"],"whomever":["barang siapa"],"wet":["basah","tengkujuh"],"while":["basahan","bidik","kus","labuh","manakala","sambil"],"wash":["basuh","mencuci"],"work":["bekerja","fiil","gawai","karier","karya","kerja"],"woodpecker":["belatuk","pelatuk"],"weaver":["belera","kerengga"],"waria":["bencong"],"woman":["bencong","janda","mak nyah","orang rumah","wanita"],"wide":["bengang","dedah","kelebaran","lapang","lebarkan","luas"],"workshop":["bengkel","woksyop"],"wealthy":["berada","mampu"],"well-off":["berada"],"weight":["berat","bobot","hun","pemberat"],"wallow":["berendam","kubang"],"watch":["berhati-hati","intip","jaga","kawal","menonton","perhati"],"walk":["berjalan","menjalani"],"wheels":["beroda"],"wheeled":["beroda"],"wrap":["berselimut","selubung","tungkus"],"wholeheartedly":["bersungguh-sungguh","khusyuk"],"wrong":["betul","salah","serba salah"],"wise":["bijak","bijaksana","budiman","pendeta"],"wife":["bini","isteri","memperisteri","orang rumah","zaujah"],"whisper":["bisik"],"wide-sided":["bokor"],"well":["buak","perigi","serta","syabas","telaga"],"weevil":["bubuk","kutu beras"],"wrapped":["bungkus","libat"],"wading":["burung randuk"],"write":["buta huruf","menyurat","menyurati","menyuratkan","tulis"],"worm":["cacing"],"widespread":["cap ayam"],"wooden":["capah","panggau"],"wretched":["celaka"],"whip":["cemeti","ketungging","pecut"],"witty":["cerdik"],"wearing":["cikadung","pemakaian","telanjang","tuto tuds"],"weather":["cuaca"],"where":["dari mana","di mana","ke mana","mana","persilangan","peseban"],"within":["di dalam","pampang"],"wax":["dian","jambu","lilin"],"wajibkan":["diwajibkan","mewajibkan"],"wish":["doa","mudah-mudahan"],"woolly":["domba"],"wallet":["dompet","umpau"],"widower":["duda"],"world":["dunia","isekai","jagat","perang dunia kedua","perang dunia pertama","syah alam"],"word":["ewah","kalimah","kata seerti","penjodoh bilangan","perkataan","sabda"],"without":["gaji buta","gratis","percuma","ruang","tanpa","tidak ada"],"wear":["galir","pakai"],"wheat":["gandum"],"weapon":["gayung","senjata"],"winged":["geroda"],"wobbly":["goyang"],"warehouse":["gudang"],"wad":["gumpal"],"wrestling":["gusti"],"washed":["hanyut"],"wednesday":["hari tiga","rabu","rabu abu"],"wade":["harung","meranduk"],"written":["hikayat","roman"],"wisdom":["hikmah"],"want":["idam","mahu","taknak"],"wishing":["ingin"],"waterfowl":["itik agung"],"working":["jam kerja","pencen"],"wristwatch":["jam tangan"],"wanton":["jangak"],"wavelength":["jarak gelombang"],"weasel":["jelu"],"window":["jendela","natang","penjawan","tetingkap","tingkap"],"wheel":["jentera","roda","roda stereng"],"wriggler":["jentik","jentik-jentik"],"winner":["juara","pemenang"],"writer":["jurusurat","katib","penulis"],"warna":["kaler"],"womb":["kandung","kandungan","peranakan","rahim","tian","uterus"],"wire":["kawat","talian","wayar"],"wrinkle":["kedut","kedutan","keledut","kerdut"],"wealth":["kekayaan"],"wideness":["kelebaran"],"weakness":["kelemahan"],"winkle":["kepah"],"wing":["kepak","sayap"],"wheelchair":["kerusi roda"],"wart":["ketuat"],"worried":["khuatir"],"welded":["kimpal"],"watermill":["kincir air"],"windmill":["kincir angin"],"we":["kita","kitorang"],"wok":["kuali"],"wildcat":["kucing liar","kucing liar afrika","kucing liar asia"],"winter":["kundur","musim sejuk"],"web":["laman sesawang","laman web","pelayar web","penyemak imbas"],"wait":["layan","tunggu"],"withered":["layu"],"wilted":["layu"],"width":["lebar"],"weak":["lemah"],"weary":["lemas","penat"],"wormhole":["lubang cacing"],"wound":["luka","tuna"],"warp":["lungsin"],"will":["magang"],"whereas":["manakala"],"wonderful":["mantul"],"wider":["melebar"],"whiten":["memutih","putihkan"],"win":["menang"],"withdraw":["menarik"],"watermelon":["mendikai","semangka","tembikai"],"worldwide":["mendunia"],"worship":["menyembah","penyembahan","sembah","sembahan"],"week":["minggu"],"weekly":["mingguan"],"wrathful":["murka"],"wed":["nikah"],"wafer":["nipis macam kertas"],"wireless":["nirwayar","wayarles"],"winnowing":["nyiru","tenggek"],"watching":["pantau","penontonan"],"whale":["paus","paus balin","paus biru","paus bryde","paus hitam","paus kelabu"],"whipping":["pecutan"],"warrior":["pejuang"],"worker":["pekerja"],"waiter":["pelayan"],"widening":["pelebaran"],"whistle":["peluit","wisel"],"wage":["pendapatan","upah"],"wiper":["pengelap"],"welding":["pengimpalan"],"worshipper":["penyembah"],"war":["perang","perang dunia kedua","perang dunia pertama","perang saudara","perang tiga puluh tahun","tarik tali"],"wrist":["pergelangan tangan"],"wow":["perghhh","walao"],"wedding":["perkahwinan"],"widen":["perlebar"],"wrecker":["perosak"],"wide-brimmed":["piala"],"waist":["pinggang"],"woven":["raga"],"wig":["rambut palsu"],"willing":["rela"],"worry":["risau"],"white-breasted":["ruak-ruak","wak-wak"],"waterhen":["ruak-ruak","wak-wak"],"witness":["saksi","syahid"],"wardrobe":["sarah"],"welcome":["selamat datang","selamat pulang"],"wrench":["sepana"],"wolf":["serigala","zib"],"web-like":["sesawang"],"washbasin":["singki"],"words":["slanga"],"well-mannered":["sopan santun"],"wick":["sumbu"],"writing":["suratan","tulisan"],"whether":["syubhah"],"withstand":["tahan"],"weeds":["tajak"],"winnow":["tampi","tenggek"],"weep":["tangis"],"ward":["tangkis"],"website":["tapak sesawang","tapak web"],"wasp":["tebuan"],"willpower":["tekad"],"ways":["telatah"],"wide-mouthed":["tempayan"],"weave":["tenun"],"weighing":["teraju"],"weigh":["timbang"],"walking":["tongkat"],"workman":["tukang"],"wan":["waf"],"wizurai":["waizuri"],"walau":["walaubagaimanapun"],"wilmana":["walimana","walmana"],"warganegara":["warga negara"],"warga":["wargamaya"],"wartawan":["wartawati"],"warung":["warung"],"wechat":["wechat","wicet"],"waistcoat":["weskot"],"weeaboo":["wibu"],"wiki":["wiki"],"wiktionary":["wikikamus"],"wikipedia":["wikipedia"],"wolanda":["wilanda"],"walaupun":["wlpn"],"wool":["wul"],"wushu":["wusyu"]}}
+wad	gumpal|cls
+wade	harung|v,meranduk|v
+wading	burung randuk|n
+wafer	nipis macam kertas|adj
+wage	pendapatan|n,upah|n
+waist	pinggang|n
+waistcoat	weskot|n
+wait	layan|v,tunggu|v
+waiter	pelayan|n
+wajibkan	diwajibkan|v,mewajibkan|v
+wake	bangun|v,gera|v
+walau	walaubagaimanapun|conj
+walaupun	wlpn
+walk	berjalan|v,menjalani|v
+walking	tongkat|n
+wall	abar|n,abar-abar|n,berabarkan|v,dinding|n,tembok|n
+wallet	dompet|n,umpau|n
+wallow	berendam|v,kubang|n
+walnut	akrot|n,jauzah|n,walnat|n
+wan	waf
+want	idam|v,mahu|v,taknak|v
+wanton	jangak|adj
+war	perang|n,perang dunia kedua,perang dunia pertama,perang saudara|n,perang tiga puluh tahun,tarik tali|n
+ward	tangkis|v
+wardrobe	sarah|n
+warehouse	gudang|n
+warga	wargamaya|n
+warganegara	warga negara|n
+waria	bencong|n
+warna	kaler|n
+warning	amaran|n
+warp	lungsin|n
+warrior	pejuang|n
+warships	armada|n
+wart	ketuat|n
+wartawan	wartawati|n
+warung	warung|n
+wash	basuh|v,mencuci|v
+washbasin	singki|n
+washed	hanyut|v
+washing	air sembahyang|n,mesin basuh|n
+wasp	tebuan|n
+waste	abur|v,bazir|v,pembaziran|n
+wasteful	andau|adv
+watch	berhati-hati,intip|v,jaga|v,kawal|v,menonton|v,perhati|v
+watching	pantau|v,penontonan|n
+water	acapi|v,air|n,air botol|n,air lembut|n,air liat|n,air mineral|n
+waterfall	air terjun|n,riam|n
+waterfowl	itik agung|n
+waterhen	ruak-ruak|n,wak-wak|n
+watermelon	mendikai|n,semangka|n,tembikai|n
+watermill	kincir air|n
+wave	alun|n,gelombang|n,kibar|v,ombak|n
+wavelength	jarak gelombang|n
+wax	dian|n,jambu|n,lilin|n
+way	abet|n,bima sakti,macam ini|adv,mengabet|v,olah|n,secara|adv
+ways	telatah|n
+we	kita|pron,kitorang|pron
+weak	lemah|adj
+weakness	kelemahan|n
+wealth	kekayaan|n
+wealthy	berada|adj,mampu|adj
+weapon	gayung|n,senjata|n
+wear	galir|n,pakai|v
+wearing	cikadung|n,pemakaian|n,telanjang|adj,tuto tuds|n
+weary	lemas|adj,penat|adj
+weasel	jelu|n
+weather	cuaca|n
+weave	tenun|v
+weaver	belera|n,kerengga|n
+web	laman sesawang|n,laman web|n,pelayar web|n,penyemak imbas|n
+web-like	sesawang|n
+website	tapak sesawang|n,tapak web|n
+wechat	wechat,wicet
+wed	nikah|v
+wedding	perkahwinan|n
+wedge	apit|v
+wednesday	hari tiga,rabu,rabu abu
+weeaboo	wibu|n
+weeds	tajak|v
+week	minggu|n
+weekly	mingguan|adj
+weep	tangis|v
+weevil	bubuk|n,kutu beras|n
+weigh	timbang|v
+weighing	teraju|n
+weight	berat|adj,bobot|n,hun|n,pemberat|n
+welcome	selamat datang|int,selamat pulang
+welded	kimpal|adj
+welding	pengimpalan|n
+well	buak|v,perigi|n,serta|conj,syabas,telaga|n
+well-mannered	sopan santun|adj
+well-off	berada|adj
+west	angin barat|n,barat|n,kulon|n
+westerly	angin barat|n
+wet	basah|adj,tengkujuh|n
+whale	paus|n,paus balin|n,paus biru|n,paus bryde|n,paus hitam|n,paus kelabu|n
+whatever	apa-apa|pron
+wheat	gandum|n
+wheel	jentera|n,roda|n,roda stereng|n
+wheelchair	kerusi roda|n
+wheeled	beroda|v
+wheels	beroda|v
+when	apabila|conj,bila|adv,kapan|pron,sedu|v,tatkala|conj
+where	dari mana|adv,di mana|adv,ke mana|pron,mana|adv,persilangan|n,peseban|n
+whereas	manakala|conj
+whet	asah|v
+whether	syubhah|adj
+while	basahan|adj,bidik|v,kus,labuh|adj,manakala|conj,sambil|conj
+whip	cemeti|v,ketungging|n,pecut|n
+whipping	pecutan|n
+whisper	bisik|n
+whistle	peluit|n,wisel|n
+white	abiad|adj,anjing arau|n,anjing sabun|n,kabung|n,lepak|adj,mat salih|n
+white-breasted	ruak-ruak|n,wak-wak|n
+whiten	memutih|v,putihkan|v
+whoever	barang siapa|pron,siapa-siapa|pron
+whole	antero|det,lengkap|adj,seantero|det,sekeluarga|n,seluruh|det
+wholeheartedly	bersungguh-sungguh|adv,khusyuk|adj
+whomever	barang siapa|pron
+why	apa hal|adv,apa pasal|adv,kenapa|adv,mengapa|adv
+wick	sumbu|n
+wide	bengang|adj,dedah|v,kelebaran|n,lapang|adj,lebarkan|v,luas|adj
+wide-brimmed	piala|n
+wide-mouthed	tempayan|n
+wide-sided	bokor|n
+widen	perlebar|v
+wideness	kelebaran|n
+widening	pelebaran|n
+wider	melebar|v
+widespread	cap ayam|adj
+widow	balu|n,janda|n
+widower	duda|n
+width	lebar|adj
+wife	bini|n,isteri|n,memperisteri|v,orang rumah|n,zaujah|n
+wig	rambut palsu|n
+wiki	wiki|n
+wikipedia	wikipedia
+wiktionary	wikikamus
+wild	babi hutan|n,buas|adj,galak|adj,kelumpang|n,liar|adj
+wildcat	kucing liar|n,kucing liar afrika|n,kucing liar asia|n
+will	magang|n
+willing	rela|adj
+willpower	tekad|n
+wilmana	walimana|n,walmana|n
+wilted	layu|adj
+win	menang|v
+wind	angin|n,angin barat|n,bayu|n,belit|v,bias|v,pawana|n
+windmill	kincir angin|n
+window	jendela|n,natang|n,penjawan|n,tetingkap|n,tingkap|n
+wing	kepak|n,sayap|n
+winged	geroda|n
+winkle	kepah|n
+winner	juara|n,pemenang|n
+winnow	tampi|v,tenggek|v
+winnowing	nyiru|n,tenggek|v
+winter	kundur|n,musim sejuk|n
+wiper	pengelap|n
+wire	kawat|n,talian|n,wayar|n
+wireless	nirwayar|adj,wayarles|adj
+wisdom	hikmah|n
+wise	bijak|adj,bijaksana|adj,budiman|n,pendeta|n
+wish	doa|n,mudah-mudahan|adv
+wishful	angan-angan|n
+wishing	ingin|adv
+withdraw	menarik|v
+withered	layu|adj
+within	di dalam|prep,pampang|adj
+without	gaji buta|n,gratis|adj,percuma|adj,ruang|n,tanpa|prep,tidak ada|prep
+withstand	tahan|v
+witness	saksi|n,syahid|n
+witty	cerdik|adj
+wizurai	waizuri|n
+wobbly	goyang|adj
+wok	kuali|n
+wolanda	wilanda
+wolf	serigala|n,zib|n
+wolfhound	anjing serigala rusia|n
+woman	bencong|n,janda|n,mak nyah|n,orang rumah|n,wanita|n
+womb	kandung|n,kandungan|n,peranakan|n,rahim|n,tian|n,uterus|n
+wonderful	mantul|adj
+wood	abnus|n,dahan kayu|n,tarah|v,tatal|n
+wooden	capah|n,panggau|n
+woodpecker	belatuk|n,pelatuk|n
+wool	wul|n
+woolly	domba|n
+word	ewah,kalimah|n,kata seerti|n,penjodoh bilangan|n,perkataan|n,sabda|n
+words	slanga|n
+work	bekerja|v,fiil|n,gawai|n,karier|n,karya|n,kerja|n
+worker	pekerja|n
+working	jam kerja|n,pencen|adj
+workman	tukang|n
+workshop	bengkel|n,woksyop|n
+world	dunia|n,isekai|n,jagat|n,perang dunia kedua,perang dunia pertama,syah alam|n
+worldwide	mendunia|v
+worm	cacing|n
+wormhole	lubang cacing|n
+worn	baju|n,kabung|n,lasam|adj
+worried	khuatir|adj
+worry	risau|v
+worship	menyembah|v,penyembahan|n,sembah|v,sembahan|n
+worshipper	penyembah|n
+worth	baloi|n,berbaloi|v,harga|n
+worthless	abus|adj
+wound	luka|n,tuna|n
+woven	raga|n
+wow	perghhh,walao
+wrap	berselimut|v,selubung|n,tungkus|v
+wrapped	bungkus|cls,libat|v
+wrapper	balut|n,sampul|n,ulas|n
+wrathful	murka|v
+wrecker	perosak|n
+wrench	sepana|n
+wrestling	gusti|n
+wretched	celaka|adj
+wriggler	jentik|n,jentik-jentik|n
+wrinkle	kedut|n,kedutan|n,keledut|n,kerdut|n
+wrist	pergelangan tangan|n
+wristwatch	jam tangan|n
+write	buta huruf|adj,menyurat|v,menyurati|v,menyuratkan|v,tulis|v
+writer	jurusurat|n,katib|n,penulis|n
+writing	suratan|n,tulisan|n
+written	hikayat|n,roman|n
+wrong	betul|adj,salah|adj,serba salah|adj
+wushu	wusyu|n

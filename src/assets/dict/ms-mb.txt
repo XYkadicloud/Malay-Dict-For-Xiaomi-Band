@@ -1,0 +1,5 @@
+mbok	mbok	n	姐妹	sister
+mbs	mbs		词首字母缩略词
+mbsa	mbsa		词首字母缩略词
+mbsj	mbsj		词首字母缩略词
+mbsp	mbsp		词首字母缩略词

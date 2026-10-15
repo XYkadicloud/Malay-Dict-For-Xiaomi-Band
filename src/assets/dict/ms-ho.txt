@@ -1,0 +1,17 @@
+hobat	hobat		符咒，咒语，法术
+hobi	hobi		嗜好，爱好，兴趣
+hodoh	hodoh	adj	丑	ugly		cantik
+hoi	hoi		嗨	hey; interjection used to call out to people
+hoki	hoki	n	冰球	hockey
+holanda	holanda		荷兰	Holland (a historical province of the Netherlands)
+holmium	holmium	n	钬  钬Ho	holmium (chemical element)
+hon	hon	n	汽车喇叭	automobile horn
+honar	honar		诡计，奸计，欺诈
+horizon	horizon	n	地平线	Horizon:
+horizontal	horizontal	adj	垂直线	Perpendicular to the vertical; horizontal.
+hormat	hormat	adj	尊敬，尊重，致敬的，有礼貌的	respectful
+hormatdiraja	hormat diraja	n	皇家礼炮	royal salute
+hormatsenjata	hormat senjata	n	举枪致敬	present arms
+hospital	hospital	n	医院	hospital
+hostel	hostel		宿舍	a hotel providing overnight lodging for travelers\nn. ine…
+hotel	hotel	n	酒店	hotel (establishment that provides accommodation for paying guests)

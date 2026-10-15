@@ -1,0 +1,4 @@
+psikiatri	psikiatri	n	精神病学	psychiatry
+psiko	psiko	n	心理分析	psycho
+psikologi	psikologi	n	心理学	psychology
+psikologis	psikologis	n	心理学家  心理学家	psychologist

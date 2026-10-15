@@ -1,0 +1,5 @@
+meja	meja	n	桌子，台子	table (item of furniture)
+mejam	mejam		不动的
+mejan	mejan		红痢，赤痢
+mejatulis	meja tulis	n	书桌	desk
+mejelis	mejelis		美丽，漂亮

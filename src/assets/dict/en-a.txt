@@ -1,1 +1,620 @@
-{"en2ms":{"alternative":["a go go","aba","aba-aba","abad al-abid","abad alabid","abadiat"],"agogo":["a go go"],"asia-afrika":["aa"],"ab":["ab"],"abah":["aba"],"aba":["aba-aba"],"abad":["abad al-abid","abad alabid"],"al-abad":["abad al-abid"],"al-abid":["abad alabid"],"age":["abad emas","abad keemasan","umur","usia","usia lanjut","usia mental"],"ages":["abad pertengahan","abad tengah"],"abadiah":["abadiat","abadiyyat"],"abaca":["abaka"],"abacus":["abakus","dekak-dekak","sempoa"],"abalone":["abalon","abalone"],"abang":["abang-abang"],"alphabet":["abc","abese","alfabet"],"abc":["abc","abese"],"ablution":["abdas"],"abdest":["abdas","berabdas"],"angkatan":["abdb","abim","atm"],"act":["abdikasi","acahan","akta","babi buta","berbuat","berdegil"],"abdicating":["abdikasi"],"abdication":["abdikasi","turun takhta"],"abdomen":["abdoman","abdomen"],"acts":["abid"],"abid":["abid-abid","abidin"],"acronym":["abim","jakoa","kementah","kj","mageran","mara"],"alphabetize":["abjadkan"],"address":["aboi","alamat","alang","encik"],"abomasum":["abomasum"],"abraham":["abraham","ibrahim","lut"],"abrit-abritan":["abrit"],"around":["abrit-abritan","belit","duduk-duduk","emban","libat"],"absent":["absen"],"abscess":["abses","bisul"],"abscissa":["absisa"],"absolutism":["absolutisme"],"absorptive":["absorptif","berdaya serap"],"abstract":["abstrak","mengabstrakkan","niskala"],"abstraction":["abstraksi","peniskalaan"],"absurd":["absurd"],"absurdism":["absurdisme"],"ash":["abu","duli","lebu","mengabu","mengabui","rabu abu"],"abung":["abung"],"abvolt":["abvolt"],"abiad":["abyad"],"abbreviation":["ac","apr","apsl","aq","asl","blkg"],"aktinium":["ac"],"achar":["acar","mengacar"],"agenda":["acara","agenda"],"acara":["achara"],"attempt":["aci-aci","cubaan"],"ada":["adakah","tak ada","takda","tiada","xde"],"adaptation":["adaptasi"],"adelphogamy":["adelfogami"],"adenium":["adenium"],"adik":["adi","adik laki-laki","adik-adik","adinda","ading","ari"],"adjective":["adjektif","kata sifat"],"aduh":["adoi","waduh"],"adductor":["aduktor"],"adverb":["adverba"],"air":["aek","aer","ayer","embun","hawa","penyaman udara"],"aerodynamic":["aerodinamik"],"aerology":["aerologi","kaji angkasa"],"affenpinscher":["affenpinscher"],"africa":["afrika selatan","zanggi"],"afrikaans":["afrikaans"],"agar":["agar-agar"],"agar-agar":["agar-agar"],"aporosa":["agas-agas"],"agent":["agen pengoksidaan","agen penurunan","ejen","meneroka","mengelupas","menular"],"agency":["agensi"],"agitation":["agitasi"],"aggressive":["agresif","galak"],"astonishment":["ah","fuh","kekaguman"],"al-fitr":["aidilfitri","hari raya aidilfitri"],"aikido":["aikido"],"ainu":["ainu"],"ajak":["ajak-ajak"],"advice":["ajaran","petua"],"academy":["akademi"],"akan":["akan","tak akan","takkan"],"account":["akaun"],"accountant":["akauntan"],"agate":["akik"],"aqiqah":["akikah"],"aklanon":["aklan"],"accordion":["akordion"],"acromion":["akromion"],"accent":["aksen"],"accessory":["aksesori"],"action":["aksi","beraksi","dap","dilarang","gerak","laku"],"active":["aktif","bermohon","ligat","melabuhkan","melahirkan","melancarkan"],"actinium":["aktinium"],"aktiviti":["aktivitet"],"activity":["aktiviti","kegiatan","ligat","pembelanjawanan","rehat"],"actress":["aktres","pelakon"],"aquarium":["akuarium"],"acoustics":["akustik"],"allergic":["alah"],"alarm":["alamak","penggera","penggera palsu"],"albania":["albania"],"allergy":["alergi"],"algorithm":["algoritma"],"alur":["alir","alor","salur"],"algeria":["aljazair"],"alchemy":["alkimia"],"alcohol":["alkohol"],"allah":["allah","dewata mulia raya"],"alor":["alor setar","alor star"],"altruistic":["altruistik"],"aluminium":["aluminium"],"amalgam":["amalgam"],"amateur":["amatur"],"amount":["amaun","dikit","kadaran"],"add":["ambah","menambah","menambahkan","mencurah minyak ke api","mengamuskan","tambah"],"attached":["ambai"],"amblyopia":["ambliopia"],"ambulance":["ambulans"],"amenda":["amende","menda"],"america":["amerika selatan","amerika syarikat","amerika utara"],"americium":["amerisium"],"amok":["amuk","mengamuk"],"anak":["anak laki-laki","anak laki-laki cicit","anak saudara","anak-anak","pinak"],"arrow":["anak panah","cerawat","panah"],"analects":["analek"],"analisis":["analisa","dianalisis","menganalisis"],"analysis":["analisis"],"anarchism":["anarkisme"],"ang":["ang mo kio"],"agensi":["angkasa"],"angkasa":["angkasa"],"astronaut":["angkasawan"],"amboyna":["angsana"],"abuse":["aniaya","penderaan"],"animation":["animasi"],"animate":["animasikan"],"anime":["anime"],"anjing":["anjing-anjing","asu","daging asu"],"anas":["annas","itik melewar"],"anoa":["anoa"],"anode":["anod"],"antelope":["antelop"],"anti-americanism":["anti-amerika"],"antigen":["antigen"],"antichrist":["antikristus"],"antimony":["antimoni"],"anthology":["antologi"],"anthropology":["antropologi"],"anwar":["anuar","madani","pmx"],"award":["anugerah"],"anxiolytic":["anziolitik"],"anything":["apa-apa","hamparan","kosong"],"apa":["apahal","apasal","ape","ape pasal","apesal","pahal"],"appam":["apam"],"appendix":["apendik","lampiran"],"apitoxin":["apitoksin"],"application":["aplikasi"],"april":["apr","april","bulan empat"],"apricot":["aprikot"],"apasal":["apsl"],"apesal":["apsl"],"aku":["aq"],"arab":["arab","emiriah arab bersatu"],"arabia":["arab saudi"],"any":["arak","bahan letupan","baling-baling","beberapa","betung","bundaran"],"arachnid":["araknid"],"arau":["arau"],"arborist":["arboris"],"aardvark":["ardvark"],"argon":["argon"],"aristotle":["aristotle"],"arkib":["arkaif"],"arcade":["arked"],"archive":["arkib"],"architect":["arkitek"],"argus":["arkus"],"armada":["armada"],"armadillo":["armadillo"],"arsenic":["arsenik"],"art":["art berat","seni"],"artery":["arteri pulmonari"],"article":["artikel","makalah","rencana","yang"],"arthropod":["artropod"],"asset":["aset"],"asphalt":["asfalt"],"asia":["asia"],"acid":["asid","asid amino","hujan asid"],"amino":["asid amino"],"assimilation":["asimilasi"],"asal":["asl"],"aspect":["aspek","sedang","tengah","terlompat"],"astaghfirullah":["astaga"],"astatine":["astatin"],"astrophysics":["astrofizik"],"asu":["asu-asu"],"atap":["atap-atap"],"atau":["atawa"],"atheist":["ateis"],"athens":["athens"],"athlete":["atlet"],"athletic":["atletik"],"atlet":["atlit"],"atmosphere":["atmosfera","awang-awang","awang-awangan","awang-gemawang","hawa","persekitaran"],"atuk":["atok"],"arrange":["atur","isih","susun"],"affirmation":["au","haah"],"auditorium":["auditorium","panggung"],"autism":["autisme"],"autistic":["autistik"],"autocracy":["autokrasi"],"autocrat":["autokrat"],"autocratic":["autokratik"],"automation":["automasi"],"automatic":["automatik"],"automaton":["automaton"],"automotive":["automotif"],"autopsy":["autopsi"],"authoritarian":["autoritarian"],"authority":["autoriti"],"adventure":["avontuur"],"all":["awak semua","baiklah","kamu semua","kesemuanya","kome","korang"],"airy":["awang-awang","awang-awangan","awang-gemawang","sawang"],"adoptive":["ayah angkat","bapa angkat","emak angkat","ibu angkat","mak angkat"],"ayatollah":["ayatollah"],"ayub":["ayob","ayyub"],"ayut":["ayuk"],"adhan":["azan"],"azerbaijan":["azerbaijan"],"amulet":["azimat"],"almond":["badam","kelumpang"],"allotment":["bahagian"],"ability":["bakat","berkebolehan","cipta","kebolehan","kenyaringan","penglihatan"],"army":["bala","tentera"],"argue":["balah","gaduh"],"answer":["balas","balasan","berjawab","jawab","jawapan","menjawab"],"avenge":["balas dendam"],"added":["bancau"],"azan":["bang"],"asshole":["bangsat","brekmok"],"aristocrat":["bangsawan"],"animal":["bantai","binatang","binca","dabat","haiwan","satwa"],"amaranth":["bayam"],"adze":["beliung"],"anguilla":["belut tuna"],"allow":["benarkan","biar","larang"],"authorise":["benarkan"],"association":["bendahari","persatuan","serikat","syirik"],"abonemen":["berabonemen"],"appear":["berbayang","jelma","kelihatan","membayang","membulat","membundar"],"advantageous":["berfaedah"],"adverts":["beriklan"],"ads":["beriklan"],"answered":["berjawab","terjawab"],"alone":["berkhalwat"],"after":["bermoreh","kawal","kemudian","langkat","lepas","lepas tu"],"assumption":["bermudah-mudah"],"archaic":["berniaga","yunan"],"allied":["bersekutu"],"ask":["bertanya","minta","minta maaf","soal","tanya"],"accepting":["bertolak ansur"],"antidesma":["berunai"],"anytime":["bila-bila"],"alocasia":["birah"],"able":["boleh","dapat","mampan","nyata","sanggup","terabadi"],"atomic":["bom atom"],"adolescent":["budak baru nak up"],"ankle":["buku lali"],"august":["bulan lapan"],"anemone":["buran"],"anthill":["busut"],"away":["cabut","halau","hanyut","jauhkan","mangkat","meninggal"],"arrogant":["cainis","hidung tinggi"],"awkward":["canggung"],"attach":["cantum","semat"],"achieve":["capai","mencapai"],"access":["capaian"],"attention":["capap","menghiraukan","perhatian","ya"],"asking":["cari pasal"],"apheretic":["caya","dahlah","duk","jap","kimak","laman"],"alotted":["cerakin"],"affection":["cinta","kasih"],"anger":["cis","gembira","kemarahan"],"ambition":["cita-cita"],"aspiration":["cita-cita"],"alcoholic":["ciu","kaki botol","kaki minum","mat botol","minuman keras"],"adequate":["cukup"],"abduct":["culik"],"area":["daerah","dataran","hilir","kariah","kawasan","kawasan rehat"],"articulation":["daerah artikulasi"],"accusation":["dakwa","tomahan"],"aground":["dampak","dampar"],"ashore":["dampar"],"about":["darihal","fikirkan","memikirkan","mempedulikan","memperkatakan","mencelakakan"],"abode":["darul aman","darul ehsan","darul khusus","darul makmur","inderaloka"],"adobe":["darul iman","darul ridzuan"],"alam":["darul roundabout","shah alam"],"allium":["dasun"],"also":["daud","juga","pari burung","pari kaluk","pun"],"alata":["daun kupang","daun kurap","gelenggang"],"actions":["dedak","walanon"],"alms":["derma","sedekah"],"above":["di atas","jerang","kemban","tanda singkat"],"abadikan":["diabadikan","mengabadikan"],"abahkan":["diabahkan","mengabahkan"],"abaikan":["diabaikan","mengabaikan"],"abar":["diabar","mengabar"],"abdikan":["diabdikan","mengabdikan"],"abjadkan":["diabjadkan","mengabjadkan"],"abur":["diabur","mengabur"],"acan":["diacan","mengacan"],"acapi":["diacapi","mengacapi"],"animasikan":["dianimasikan","menganimasikan"],"against":["diskriminasikan","gesek","mendiskriminasikan","terhadap"],"artifical":["dot"],"anus":["dubur"],"avoid":["elak"],"aunt":["emak saudara","mak cik","nenek saudari","tante"],"apple":["epal","jakun","jambu"],"amusement":["ewah","kelucuan","taman hiburan"],"advantage":["faedah","kelebihan","manfaat","seelok-eloknya"],"average":["four flat","purata","sederhana"],"algae":["ganggang"],"arena":["gelanggang"],"anxious":["gelisah","gubra"],"arms":["gelut","hormat senjata","jata","julang senjata","turun senjata"],"awesome":["gempak"],"armistice":["gencatan senjata"],"advocacy":["geng pelangi"],"ajar":["genggang"],"acoustic":["gitar akustik"],"afraid":["goy","takut"],"amazed":["hairan"],"astonished":["hairan","kagum"],"affair":["hal"],"aim":["hala","tujuan"],"almost":["hampir","kumbar"],"anniversary":["hari jadi","ulang tahun"],"aaron":["harun"],"atur":["hatur"],"ayam":["hayam"],"ayun":["hayun"],"afflicted":["hidap"],"airs":["hidung tinggi"],"assemble":["himpun"],"attack":["hinggap","menyerang","serang","serangan","serangan jantung","terajang"],"automobile":["hon","otomobil"],"anemonefish":["ikan badut"],"anchovies":["ikan bilis"],"advertisement":["iklan"],"advertise":["iklankan"],"accompany":["ikut"],"anatomy":["ilmu tasyrih"],"affix":["imbuhan"],"attractive":["indah","syok"],"agape":["inga"],"aware":["insaf","insafi","insafkan","menginsafi","menginsafkan","sedar"],"accompaniment":["iringan"],"alexander":["iskandar"],"alexandria":["iskandariah"],"annoyance":["isy"],"adam":["jakun"],"attain":["jangkau"],"acorus":["jerangau"],"acne":["jerawat"],"accurate":["jitu","tepat"],"announcer":["juruhebah"],"ambiguous":["kabur","ketaksaan"],"assessment":["kadaran"],"assessed":["kadaran"],"accuse":["kafirkan","tuduh"],"awning":["kajang"],"addict":["kaki dadah","kaki judi","mat cintan","mat dadah"],"avid":["kaki ponteng"],"always":["kaki rambu","selalu","sentiasa"],"axe":["kapak"],"aeroplane":["kapal terbang","kapal terbang kertas"],"artisan":["karyawan"],"adposition":["kata sendi nama"],"affected":["katai"],"abdominal":["kaviti abdomen","rongga abdomen"],"abnormal":["keabnormalan"],"abnormality":["keabnormalan"],"abstractness":["keabstrakan"],"aggressiveness":["keagresifan"],"americanness":["keamerikaan"],"arabness":["kearaban"],"acidity":["keasidan"],"awkwardness":["kecanggungan"],"accident":["kecelakaan","kemalangan","malang tidak berbau"],"artificial":["kecerdasan buatan"],"arrival":["kedatangan"],"attendance":["kehadiran"],"awareness":["keinsafan","kesedaran","kesedaran jenama"],"accuracy":["kejituan","ketepatan"],"amazement":["kekaguman"],"atrocity":["kekejaman"],"afterwards":["kelak","kemudian"],"achievement":["kelakonan"],"armpit":["kelek","ketiak","ketibas","ketibus","ketitam"],"abundance":["kelimpahan"],"admission":["kemasukan"],"acquainted":["kenal"],"agree":["kenan","pakat","setuju"],"although":["kendatipun","mahupun","meski","meskipun","sambil","sekalipun"],"arm":["kepit","lengan","mengelek"],"archipelago":["kepulauan"],"affability":["keramahan"],"african":["kerbau afrika","kucing liar afrika","kucing padang pasir","republik afrika tengah"],"ants":["kerengga"],"anxiety":["keresahan"],"api":["keretapi"],"ambiguity":["ketaksaan"],"arriving":["ketibaan"],"amniotic":["ketuban","tuban"],"author":["komposer"],"allegedly":["konon","kononnya"],"angry":["koyak","marah","membawang","murka"],"andean":["kucing andes","kucing banjaran andes"],"asian":["kucing emas","kucing tulap"],"asiatic":["kucing liar asia"],"ancient":["kuno","lama","mesir purba","purba"],"ankus":["kusa"],"articulated":["labial"],"attend":["laden"],"again":["lagi","ungkit"],"anew":["lagi"],"admiral":["laksamana"],"appoint":["lantik"],"airport":["lapangan terbang"],"airfield":["lapangan terbang","padang terbang"],"arctic":["lautan artik","rubah artik"],"atlantic":["lautan atlantik"],"amusing":["lawak"],"approximately":["lebih kurang"],"avenue":["lebuh"],"alleviated":["lega"],"adhere":["lekat"],"asleep":["lelap"],"auction":["lelong"],"ancestor":["leluhur","nenek moyang"],"arc":["lengkung"],"alpa":["lepa"],"ago":["lepas"],"aloe":["lidah buaya"],"agile":["ligat"],"across":["lintas"],"attic":["loteng"],"assembly":["majlis","sidang","sidang kemuncak"],"alien":["makhluk asing"],"adorned":["malai"],"angel":["malaikat"],"adversity":["malang"],"anywhere":["mana-mana"],"abolish":["mansuh"],"amanah":["mara"],"asin":["masin"],"assimilate":["masuk melayu"],"associated":["mat disko","mat karok","mat ragut","mat rok","terma"],"addicted":["mat gian","mat lalok"],"animals":["mawas"],"altar":["mazbah"],"awan":["mega"],"anchor":["melabuh","sauh"],"appearance":["menanjung","rupa","sado","temandang"],"accept":["menerima"],"activate":["mengaktifkan"],"anggap":["menganggap"],"along":["menurut","sepanjang","tumpang"],"alphabetical":["menurut abjad"],"abjad":["menurut urutan abjad"],"assault":["menyerang","serang"],"amongst":["merakyat","rakyatkan"],"automated":["mesin juruwang automatik"],"apology":["minta maaf"],"apply":["mohon"],"accord":["muafakat"],"accordance":["muafakat"],"autumn":["musim gugur","musim luruh"],"archenemy":["musuh ketat"],"absolute":["mutlak"],"ascend":["naik"],"advise":["nasihat"],"appropriate":["ngam","senonoh","susila"],"acknowledgement":["orait"],"acceptance":["orait"],"accused":["orang kena tuduh"],"apocopic":["ori"],"apabila":["pabila"],"approve":["pakat"],"alliance":["pakatan","perikatan"],"amaryllifolius":["pandan wangi"],"aromatic":["pandan wangi"],"arse":["pantat"],"ass":["pantat"],"attorney":["peguam negara"],"actor":["pelakon"],"arch":["pelengkung"],"absurdly":["pelik bin ajaib"],"auger":["pelir itik","pelitik"],"ammunition":["peluru"],"archer":["pemanah"],"angler":["pemancing"],"accelerator":["pemecut","penderas"],"addiction":["penagihan"],"appraisal":["penaksiran"],"absorber":["penampan","penyerap"],"agression":["pencerobohan"],"abduction":["penculikan"],"advance":["pendahuluan"],"approach":["pendekatan"],"affliction":["penderitaan"],"ac":["pendingin hawa","penyaman udara"],"air-conditioner":["pendingin hawa"],"alphabetizing":["pengabjadan"],"aggressor":["pengagresif"],"analyst":["penganalisis"],"analysing":["penganalisisan"],"approximation":["penganggaran"],"animating":["penganimasian"],"archiving":["pengarkiban"],"anteater":["pengguling","tenggiling"],"advertiser":["pengiklan"],"advertising":["pengiklanan","periklanan"],"aeration":["pengudaraan","zon pengudaraan"],"answers":["penjawab"],"aide":["penolong"],"assistant":["penolong"],"audience":["penonton"],"administration":["pentadbiran","tadbir"],"ageing":["penuaan"],"arrangement":["penyelesaian","persediaan"],"argument":["perang mulut"],"appliance":["peranti"],"apprentice":["perantis"],"agreement":["perjanjian"],"assistance":["perkhidmatan"],"acquisition":["perolehan"],"agriculture":["pertanian"],"afternoon":["pertolehan","petang","sore"],"apportionment":["peruntukan"],"aircraft":["pesawat pejuang","pesawat tempur"],"attract":["pikat"],"areca":["pinang"],"abaka":["pisang benang","pisang manila","pisang tali"],"attendant":["pramugari"],"associate":["profesor madya"],"allure":["pukau"],"askar":["ramd"],"appeal":["rayuan"],"agrarian":["reformasi agraria","reformasi tanah"],"apex":["rembang"],"agitated":["resah"],"approval":["ridwan"],"asli":["sakai"],"astute":["saksama"],"another":["saling"],"afterbirth":["sampul tian","tembuni"],"abucens":["saraf abdusen"],"actually":["sebenarnya"],"awake":["sedar"],"averse":["segan"],"ally":["sekutu"],"addition":["selain"],"app":["selamat makan"],"appetite":["selera"],"akin":["semisal"],"ant":["semut"],"atilt":["senget"],"askew":["senget","serong"],"apart":["sengkang"],"astretch":["sengkang"],"architecture":["seni bina"],"artist":["seniman"],"atrium":["serambi jantung"],"absorb":["serap"],"angle":["serong","zawiat"],"arrives":["setiba"],"anyone":["siapa-siapa"],"anybody":["siapa-siapa"],"attribute":["sifat"],"aside":["singkir","sisih"],"asked":["soalan lazim"],"applied":["statistik gunaan"],"asylum":["suaka"],"authentic":["sungguh","tulen"],"arduous":["susah"],"airline":["syarikat penerbangan"],"anno":["tahun masihi"],"ad":["tahun masihi"],"annual":["tahunan"],"antananarivo":["tanah seribu"],"alum":["tawas"],"assiduous":["tekun"],"already":["telah"],"alpinia":["tepus"],"anchovy":["teri"],"augmented":["terimbuh"],"aforementioned":["tersebut"],"aback":["tersentak"],"aubergine":["terung ungu"],"arrive":["tiba"],"arise":["timbul"],"assist":["tolong"],"announce":["ucap"],"aerial":["udara"],"agama":["ugama"],"arouse":["uja"],"audition":["uji bakat"],"archbishop":["uskup agung"],"arabic":["ustaz","ustazah"],"assalamualaikum":["waalaikumussalam"],"ahmad":["waf"],"ahad":["wahid"],"anyhow":["walau bagaimanapun"],"affairs":["wisma putra"],"agong":["yang di-pertuan agong"],"almighty":["yang maha esa"],"ascetic":["zuhud"]}}
+aardvark	ardvark|n
+aaron	harun
+ab	ab|n
+aba	aba-aba|n
+abaca	abaka|n
+aback	tersentak|v
+abacus	abakus|n,dekak-dekak|n,sempoa|n
+abad	abad al-abid|n,abad alabid|n
+abadiah	abadiat|adj,abadiyyat|adj
+abadikan	diabadikan|v,mengabadikan|v
+abah	aba|n
+abahkan	diabahkan|v,mengabahkan|v
+abaikan	diabaikan|v,mengabaikan|v
+abaka	pisang benang|n,pisang manila|n,pisang tali|n
+abalone	abalon|n,abalone|n
+abang	abang-abang|n
+abar	diabar|v,mengabar|v
+abbreviation	ac,apr,apsl,aq,asl,blkg
+abc	abc|n,abese|n
+abdest	abdas|n,berabdas|v
+abdicating	abdikasi|n
+abdication	abdikasi|n,turun takhta|n
+abdikan	diabdikan|v,mengabdikan|v
+abdomen	abdoman|n,abdomen|n
+abdominal	kaviti abdomen|n,rongga abdomen|n
+abduct	culik|v
+abduction	penculikan|n
+abiad	abyad|adj
+abid	abid-abid|n,abidin|n
+ability	bakat|n,berkebolehan|adj,cipta|n,kebolehan|n,kenyaringan|n,penglihatan|n
+abjad	menurut urutan abjad
+abjadkan	diabjadkan|v,mengabjadkan|v
+able	boleh|v,dapat|v,mampan|adj,nyata|adj,sanggup|v,terabadi|adj
+ablution	abdas|n
+abnormal	keabnormalan|n
+abnormality	keabnormalan|n
+abode	darul aman,darul ehsan,darul khusus,darul makmur,inderaloka|n
+abolish	mansuh|v
+abomasum	abomasum|n
+abonemen	berabonemen|v
+about	darihal|prep,fikirkan|v,memikirkan|v,mempedulikan|v,memperkatakan|v,mencelakakan|v
+above	di atas|prep,jerang|v,kemban|n,tanda singkat|n
+abraham	abraham,ibrahim,lut
+abrit-abritan	abrit|adj
+abscess	abses|n,bisul|n
+abscissa	absisa|n
+absent	absen|adj
+absolute	mutlak|adj
+absolutism	absolutisme|n
+absorb	serap|v
+absorber	penampan|n,penyerap|n
+absorptive	absorptif|adj,berdaya serap|adj
+abstract	abstrak|adj,mengabstrakkan|v,niskala|adj
+abstraction	abstraksi|n,peniskalaan|n
+abstractness	keabstrakan|n
+absurd	absurd|adj
+absurdism	absurdisme|n
+absurdly	pelik bin ajaib|adj
+abucens	saraf abdusen|n
+abundance	kelimpahan|n
+abung	abung|n
+abur	diabur|v,mengabur|v
+abuse	aniaya|n,penderaan|n
+abvolt	abvolt|n
+ac	pendingin hawa|n,penyaman udara|n
+academy	akademi|n
+acan	diacan|v,mengacan|v
+acapi	diacapi|v,mengacapi|v
+acara	achara|n
+accelerator	pemecut|n,penderas|n
+accent	aksen|n
+accept	menerima|v
+acceptance	orait
+accepting	bertolak ansur|adj
+access	capaian|n
+accessory	aksesori|n
+accident	kecelakaan|n,kemalangan|n,malang tidak berbau|n
+accompaniment	iringan|n
+accompany	ikut|v
+accord	muafakat|n
+accordance	muafakat|n
+accordion	akordion|n
+account	akaun|n
+accountant	akauntan|n
+accuracy	kejituan|n,ketepatan|n
+accurate	jitu|adj,tepat|adj
+accusation	dakwa|n,tomahan|n
+accuse	kafirkan|v,tuduh|v
+accused	orang kena tuduh|n
+achar	acar|n,mengacar|v
+achieve	capai|v,mencapai|v
+achievement	kelakonan|n
+acid	asid|n,asid amino|n,hujan asid|n
+acidity	keasidan|n
+acknowledgement	orait
+acne	jerawat|n
+acorus	jerangau|n
+acoustic	gitar akustik|n
+acoustics	akustik|n
+acquainted	kenal|v
+acquisition	perolehan|n
+acromion	akromion|n
+acronym	abim,jakoa,kementah,kj,mageran,mara
+across	lintas|v
+act	abdikasi|n,acahan|n,akta|n,babi buta|v,berbuat|v,berdegil|v
+actinium	aktinium|n
+action	aksi|n,beraksi|v,dap,dilarang|adv,gerak|n,laku|n
+actions	dedak|n,walanon|n
+activate	mengaktifkan|v
+active	aktif|adj,bermohon|v,ligat|adj,melabuhkan|v,melahirkan|v,melancarkan|v
+activity	aktiviti|n,kegiatan|n,ligat|adj,pembelanjawanan|n,rehat|n
+actor	pelakon|n
+actress	aktres|n,pelakon|n
+acts	abid|n
+actually	sebenarnya|adv
+ad	tahun masihi|n
+ada	adakah|v,tak ada|prep,takda|prep,tiada|v,xde
+adam	jakun|n
+adaptation	adaptasi|n
+add	ambah|v,menambah|v,menambahkan|v,mencurah minyak ke api|v,mengamuskan|v,tambah|v
+added	bancau|n
+addict	kaki dadah|n,kaki judi|n,mat cintan|n,mat dadah|n
+addicted	mat gian|n,mat lalok|n
+addiction	penagihan|n
+addition	selain|prep
+address	aboi|n,alamat|n,alang|n,encik|n
+adductor	aduktor|n
+adelphogamy	adelfogami|n
+adenium	adenium|n
+adequate	cukup|adj
+adhan	azan|n
+adhere	lekat|v
+adik	adi|n,adik laki-laki|n,adik-adik|n,adinda|n,ading|n,ari|n
+adjective	adjektif|n,kata sifat|n
+administration	pentadbiran|n,tadbir|n
+admiral	laksamana|n
+admission	kemasukan|n
+adobe	darul iman,darul ridzuan
+adolescent	budak baru nak up|n
+adoptive	ayah angkat|n,bapa angkat|n,emak angkat|n,ibu angkat|n,mak angkat|n
+adorned	malai|n
+adposition	kata sendi nama|n
+ads	beriklan|v
+aduh	adoi,waduh
+advance	pendahuluan|n
+advantage	faedah|n,kelebihan|n,manfaat|n,seelok-eloknya|adv
+advantageous	berfaedah|v
+adventure	avontuur|n
+adverb	adverba|n
+adversity	malang|n
+advertise	iklankan|v
+advertisement	iklan|n
+advertiser	pengiklan|n
+advertising	pengiklanan|n,periklanan|adj
+adverts	beriklan|v
+advice	ajaran|n,petua|n
+advise	nasihat|v
+advocacy	geng pelangi|n
+adze	beliung|n
+aeration	pengudaraan|n,zon pengudaraan|n
+aerial	udara|n
+aerodynamic	aerodinamik|adj
+aerology	aerologi|n,kaji angkasa|n
+aeroplane	kapal terbang|n,kapal terbang kertas|n
+affability	keramahan|n
+affair	hal|n
+affairs	wisma putra
+affected	katai|adj
+affection	cinta|n,kasih|n
+affenpinscher	affenpinscher|n
+affirmation	au,haah
+affix	imbuhan|n
+afflicted	hidap|v
+affliction	penderitaan|n
+aforementioned	tersebut|det
+afraid	goy|adj,takut|adj
+africa	afrika selatan,zanggi|n
+african	kerbau afrika|n,kucing liar afrika|n,kucing padang pasir|n,republik afrika tengah
+afrikaans	afrikaans
+after	bermoreh|v,kawal|v,kemudian|adv,langkat|n,lepas|adj,lepas tu|adv
+afterbirth	sampul tian|n,tembuni|n
+afternoon	pertolehan|n,petang|n,sore|n
+afterwards	kelak|adj,kemudian|adv
+again	lagi|adv,ungkit|v
+against	diskriminasikan|v,gesek|v,mendiskriminasikan|v,terhadap|prep
+agama	ugama|n
+agape	inga|v
+agar	agar-agar|n
+agar-agar	agar-agar|n
+agate	akik|n
+age	abad emas|n,abad keemasan|n,umur|n,usia|n,usia lanjut|n,usia mental|n
+ageing	penuaan|n
+agency	agensi|n
+agenda	acara|n,agenda|n
+agensi	angkasa
+agent	agen pengoksidaan|n,agen penurunan|n,ejen|n,meneroka|v,mengelupas|v,menular|v
+ages	abad pertengahan,abad tengah
+aggressive	agresif|adj,galak|adj
+aggressiveness	keagresifan|n
+aggressor	pengagresif|n
+agile	ligat|adj
+agitated	resah|adj
+agitation	agitasi|n
+ago	lepas|adj
+agogo	a go go|n
+agong	yang di-pertuan agong
+agrarian	reformasi agraria|n,reformasi tanah|n
+agree	kenan|v,pakat|v,setuju|v
+agreement	perjanjian|n
+agression	pencerobohan|n
+agriculture	pertanian|n
+aground	dampak|v,dampar|adj
+ahad	wahid|num
+ahmad	waf
+aide	penolong|n
+aikido	aikido|n
+aim	hala|v,tujuan|n
+ainu	ainu
+air	aek|n,aer|n,ayer|n,embun|n,hawa|n,penyaman udara|n
+air-conditioner	pendingin hawa|n
+aircraft	pesawat pejuang|n,pesawat tempur|n
+airfield	lapangan terbang|n,padang terbang|n
+airline	syarikat penerbangan|n
+airport	lapangan terbang|n
+airs	hidung tinggi|adj
+airy	awang-awang|n,awang-awangan|n,awang-gemawang|n,sawang|n
+ajak	ajak-ajak|n
+ajar	genggang|adj
+akan	akan,tak akan|adv,takkan|adv
+akin	semisal|prep
+aklanon	aklan
+aktinium	ac
+aktiviti	aktivitet|n
+aku	aq
+al-abad	abad al-abid|n
+al-abid	abad alabid|n
+al-fitr	aidilfitri,hari raya aidilfitri
+alam	darul roundabout,shah alam
+alarm	alamak,penggera|n,penggera palsu|n
+alata	daun kupang|n,daun kurap|n,gelenggang|n
+albania	albania
+alchemy	alkimia|n
+alcohol	alkohol|n
+alcoholic	ciu|n,kaki botol|n,kaki minum|n,mat botol|n,minuman keras|n
+alexander	iskandar
+alexandria	iskandariah
+algae	ganggang|n
+algeria	aljazair
+algorithm	algoritma|n
+alien	makhluk asing|n
+all	awak semua|pron,baiklah|int,kamu semua|pron,kesemuanya|pron,kome|pron,korang|pron
+allah	allah,dewata mulia raya
+allegedly	konon|adv,kononnya|adv
+allergic	alah|adj
+allergy	alergi|n
+alleviated	lega|adj
+alliance	pakatan|n,perikatan|n
+allied	bersekutu|v
+allium	dasun|n
+allotment	bahagian|n
+allow	benarkan|v,biar|v,larang|v
+allure	pukau|n
+ally	sekutu|n
+almighty	yang maha esa
+almond	badam|n,kelumpang|n
+almost	hampir|adv,kumbar|n
+alms	derma|n,sedekah|n
+alocasia	birah|n
+aloe	lidah buaya|n
+alone	berkhalwat|v
+along	menurut|v,sepanjang|prep,tumpang|v
+alor	alor setar,alor star
+alotted	cerakin|n
+alpa	lepa|adj
+alphabet	abc|n,abese|n,alfabet|n
+alphabetical	menurut abjad
+alphabetize	abjadkan|v
+alphabetizing	pengabjadan|n
+alpinia	tepus|n
+already	telah|adv
+also	daud,juga|adv,pari burung|n,pari kaluk|n,pun|adv
+altar	mazbah|n
+alternative	a go go|n,aba|n,aba-aba|n,abad al-abid|n,abad alabid|n,abadiat|adj
+although	kendatipun|conj,mahupun|conj,meski|conj,meskipun|conj,sambil|conj,sekalipun|conj
+altruistic	altruistik|adj
+alum	tawas|n
+aluminium	aluminium|n
+alur	alir|v,alor|n,salur|v
+always	kaki rambu|n,selalu|adv,sentiasa|adv
+amalgam	amalgam|n
+amanah	mara
+amaranth	bayam|n
+amaryllifolius	pandan wangi|n
+amateur	amatur|adj
+amazed	hairan|adj
+amazement	kekaguman|n
+ambiguity	ketaksaan|n
+ambiguous	kabur|adj,ketaksaan|n
+ambition	cita-cita|n
+amblyopia	ambliopia|n
+amboyna	angsana|n
+ambulance	ambulans|n
+amenda	amende|pron,menda|adv
+america	amerika selatan,amerika syarikat,amerika utara
+americanness	keamerikaan|n
+americium	amerisium|n
+amino	asid amino|n
+ammunition	peluru|n
+amniotic	ketuban|n,tuban|n
+amok	amuk|v,mengamuk|v
+amongst	merakyat|v,rakyatkan|v
+amount	amaun|n,dikit|n,kadaran|n
+amulet	azimat|n
+amusement	ewah,kelucuan|n,taman hiburan|n
+amusing	lawak|adj
+anak	anak laki-laki|n,anak laki-laki cicit|n,anak saudara|n,anak-anak|n,pinak|n
+analects	analek|n
+analisis	analisa|n,dianalisis|v,menganalisis|v
+analysing	penganalisisan|n
+analysis	analisis|n
+analyst	penganalisis|n
+anarchism	anarkisme|n
+anas	annas,itik melewar|n
+anatomy	ilmu tasyrih|n
+ancestor	leluhur|n,nenek moyang|n
+anchor	melabuh|v,sauh|n
+anchovies	ikan bilis|n
+anchovy	teri|n
+ancient	kuno|adj,lama|adj,mesir purba,purba|adj
+andean	kucing andes|n,kucing banjaran andes|n
+anemone	buran|n
+anemonefish	ikan badut|n
+anew	lagi|adv
+ang	ang mo kio
+angel	malaikat|n
+anger	cis,gembira|adj,kemarahan|n
+anggap	menganggap|v
+angkasa	angkasa
+angkatan	abdb,abim,atm
+angle	serong|adj,zawiat|n
+angler	pemancing|n
+angry	koyak|adj,marah|adj,membawang|v,murka|v
+anguilla	belut tuna|n
+animal	bantai|n,binatang|n,binca|n,dabat|n,haiwan|n,satwa|n
+animals	mawas|n
+animasikan	dianimasikan|v,menganimasikan|v
+animate	animasikan|v
+animating	penganimasian|n
+animation	animasi|n
+anime	anime|n
+anjing	anjing-anjing|n,asu|n,daging asu|n
+ankle	buku lali|n
+ankus	kusa|n
+anniversary	hari jadi|n,ulang tahun|n
+anno	tahun masihi|n
+announce	ucap|v
+announcer	juruhebah|n
+annoyance	isy
+annual	tahunan|adj
+anoa	anoa|n
+anode	anod|n
+another	saling|adv
+answer	balas|v,balasan|n,berjawab|adj,jawab|v,jawapan|n,menjawab|v
+answered	berjawab|adj,terjawab|v
+answers	penjawab|n
+ant	semut|n
+antananarivo	tanah seribu
+anteater	pengguling|n,tenggiling|n
+antelope	antelop|n
+anthill	busut|n
+anthology	antologi|n
+anthropology	antropologi|n
+anti-americanism	anti-amerika|adj
+antichrist	antikristus|n
+antidesma	berunai|n
+antigen	antigen|n
+antimony	antimoni|n
+ants	kerengga|n
+anus	dubur|n
+anwar	anuar,madani,pmx
+anxiety	keresahan|n
+anxiolytic	anziolitik|adj
+anxious	gelisah|adj,gubra|adj
+any	arak|n,bahan letupan|n,baling-baling|n,beberapa|adj,betung|n,bundaran|n
+anybody	siapa-siapa|pron
+anyhow	walau bagaimanapun|conj
+anyone	siapa-siapa|pron
+anything	apa-apa|pron,hamparan|n,kosong|adj
+anytime	bila-bila|adv
+anywhere	mana-mana|adv
+apa	apahal|adv,apasal|adv,ape|pron,ape pasal|adv,apesal|adv,pahal|adv
+apabila	pabila|conj
+apart	sengkang|v
+apasal	apsl
+apesal	apsl
+apex	rembang|n
+apheretic	caya|v,dahlah,duk|v,jap|adv,kimak,laman|n
+api	keretapi|n
+apitoxin	apitoksin|n
+apocopic	ori|adj
+apology	minta maaf|v
+aporosa	agas-agas|n
+app	selamat makan
+appam	apam|n
+appeal	rayuan|n
+appear	berbayang|v,jelma|v,kelihatan|v,membayang|v,membulat|v,membundar|v
+appearance	menanjung|adj,rupa|n,sado|adj,temandang|n
+appendix	apendik|n,lampiran|n
+appetite	selera|n
+apple	epal|n,jakun|n,jambu|n
+appliance	peranti|n
+application	aplikasi|n
+applied	statistik gunaan|n
+apply	mohon|v
+appoint	lantik|v
+apportionment	peruntukan|n
+appraisal	penaksiran|n
+apprentice	perantis|n
+approach	pendekatan|n
+appropriate	ngam|adj,senonoh|adj,susila|n
+approval	ridwan|n
+approve	pakat|v
+approximately	lebih kurang|adv
+approximation	penganggaran|n
+apricot	aprikot|n
+april	apr,april,bulan empat|n
+aqiqah	akikah|n
+aquarium	akuarium|n
+arab	arab|adj,emiriah arab bersatu
+arabia	arab saudi
+arabic	ustaz|n,ustazah|n
+arabness	kearaban|n
+arachnid	araknid|n
+arau	arau
+arborist	arboris|n
+arc	lengkung|n
+arcade	arked|n
+arch	pelengkung|n
+archaic	berniaga|n,yunan|n
+archbishop	uskup agung|n
+archenemy	musuh ketat|n
+archer	pemanah|n
+archipelago	kepulauan|n
+architect	arkitek|n
+architecture	seni bina|n
+archive	arkib|n
+archiving	pengarkiban|n
+arctic	lautan artik,rubah artik|n
+arduous	susah|adj
+area	daerah|n,dataran|n,hilir|n,kariah|n,kawasan|n,kawasan rehat|n
+areca	pinang|n
+arena	gelanggang|n
+argon	argon|n
+argue	balah|v,gaduh|v
+argument	perang mulut|n
+argus	arkus|n
+arise	timbul|v
+aristocrat	bangsawan|n
+aristotle	aristotle
+arkib	arkaif
+arm	kepit|v,lengan|n,mengelek|v
+armada	armada|n
+armadillo	armadillo|n
+armistice	gencatan senjata|n
+armpit	kelek|n,ketiak|n,ketibas|n,ketibus|n,ketitam|n
+arms	gelut|v,hormat senjata|n,jata|n,julang senjata|n,turun senjata|n
+army	bala|n,tentera|n
+aromatic	pandan wangi|n
+around	abrit-abritan|v,belit|v,duduk-duduk|v,emban|n,libat|v
+arouse	uja|v
+arrange	atur|v,isih|v,susun|v
+arrangement	penyelesaian|n,persediaan|n
+arrival	kedatangan|n
+arrive	tiba|v
+arrives	setiba|prep
+arriving	ketibaan|n
+arrogant	cainis|n,hidung tinggi|adj
+arrow	anak panah|n,cerawat|n,panah|n
+arse	pantat|n
+arsenic	arsenik|n
+art	art berat|n,seni|n
+artery	arteri pulmonari|n
+arthropod	artropod|n
+article	artikel|n,makalah|n,rencana|n,yang|art
+articulated	labial|adj
+articulation	daerah artikulasi|n
+artifical	dot|n
+artificial	kecerdasan buatan|n
+artisan	karyawan|n
+artist	seniman|n
+asal	asl
+ascend	naik|v
+ascetic	zuhud|adj
+ash	abu|n,duli|n,lebu|n,mengabu|v,mengabui|v,rabu abu
+ashore	dampar|adj
+asia	asia
+asia-afrika	aa|n
+asian	kucing emas|n,kucing tulap|n
+asiatic	kucing liar asia|n
+aside	singkir|v,sisih|v
+asin	masin|adj
+ask	bertanya|v,minta|v,minta maaf|v,soal|v,tanya|v
+askar	ramd
+asked	soalan lazim|n
+askew	senget|adj,serong|adj
+asking	cari pasal|v
+asleep	lelap|adj
+asli	sakai|n
+aspect	aspek|n,sedang|adv,tengah|n,terlompat|v
+asphalt	asfalt|n
+aspiration	cita-cita|n
+ass	pantat|n
+assalamualaikum	waalaikumussalam
+assault	menyerang|v,serang|v
+assemble	himpun|v
+assembly	majlis|n,sidang|n,sidang kemuncak|n
+assessed	kadaran|n
+assessment	kadaran|n
+asset	aset|n
+asshole	bangsat,brekmok|n
+assiduous	tekun|adj
+assimilate	masuk melayu|v
+assimilation	asimilasi|n
+assist	tolong|v
+assistance	perkhidmatan|n
+assistant	penolong|n
+associate	profesor madya|n
+associated	mat disko|n,mat karok|n,mat ragut|n,mat rok|n,terma|n
+association	bendahari|n,persatuan|n,serikat|n,syirik|n
+assumption	bermudah-mudah|v
+astaghfirullah	astaga
+astatine	astatin|n
+astonished	hairan|adj,kagum|adj
+astonishment	ah|part,fuh,kekaguman|n
+astretch	sengkang|v
+astronaut	angkasawan|n
+astrophysics	astrofizik|n
+astute	saksama|adj
+asu	asu-asu|n
+asylum	suaka|n
+atap	atap-atap|n
+atau	atawa|conj
+atheist	ateis|n
+athens	athens
+athlete	atlet|n
+athletic	atletik|adj
+atilt	senget|adj
+atlantic	lautan atlantik
+atlet	atlit|n
+atmosphere	atmosfera|n,awang-awang|n,awang-awangan|n,awang-gemawang|n,hawa|n,persekitaran|n
+atomic	bom atom|n
+atrium	serambi jantung|n
+atrocity	kekejaman|n
+attach	cantum|v,semat|v
+attached	ambai|n
+attack	hinggap|v,menyerang|v,serang|v,serangan|n,serangan jantung|n,terajang|v
+attain	jangkau|v
+attempt	aci-aci|n,cubaan|n
+attend	laden|v
+attendance	kehadiran|n
+attendant	pramugari|n
+attention	capap|n,menghiraukan|v,perhatian|n,ya|int
+attic	loteng|n
+attorney	peguam negara|n
+attract	pikat|v
+attractive	indah|adj,syok|adj
+attribute	sifat|n
+atuk	atok|n
+atur	hatur|v
+aubergine	terung ungu|n
+auction	lelong|n
+audience	penonton|n
+audition	uji bakat|n
+auditorium	auditorium|n,panggung|n
+auger	pelir itik|n,pelitik|n
+augmented	terimbuh|n
+august	bulan lapan|n
+aunt	emak saudara|n,mak cik|n,nenek saudari|n,tante|n
+authentic	sungguh|adj,tulen|adj
+author	komposer|n
+authorise	benarkan|v
+authoritarian	autoritarian|n
+authority	autoriti|n
+autism	autisme|n
+autistic	autistik|adj
+autocracy	autokrasi|n
+autocrat	autokrat|n
+autocratic	autokratik|adj
+automated	mesin juruwang automatik|n
+automatic	automatik|adj
+automation	automasi|n
+automaton	automaton|n
+automobile	hon|n,otomobil|n
+automotive	automotif|adj
+autopsy	autopsi|n
+autumn	musim gugur|n,musim luruh|n
+avenge	balas dendam|v
+avenue	lebuh|n
+average	four flat|n,purata|n,sederhana|adj
+averse	segan|adj
+avid	kaki ponteng|n
+avoid	elak|v
+awake	sedar|adj
+awan	mega|n
+award	anugerah|n
+aware	insaf|adj,insafi|v,insafkan|v,menginsafi|v,menginsafkan|v,sedar|adj
+awareness	keinsafan|n,kesedaran|n,kesedaran jenama|n
+away	cabut|v,halau|v,hanyut|v,jauhkan|v,mangkat|v,meninggal|v
+awesome	gempak|adj
+awkward	canggung|adj
+awkwardness	kecanggungan|n
+awning	kajang|n
+axe	kapak|n
+ayam	hayam|n
+ayatollah	ayatollah|n
+ayub	ayob,ayyub
+ayun	hayun|v
+ayut	ayuk|v
+azan	bang|n
+azerbaijan	azerbaijan

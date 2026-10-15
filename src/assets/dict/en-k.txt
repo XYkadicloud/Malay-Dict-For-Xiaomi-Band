@@ -1,1 +1,137 @@
-{"en2ms":{"kuih":["abuk-abuk","putu"],"kitchen":["acaran","siok"],"kecerdasan":["ai","kebijaksaan buatan","kebijaksanaan buatan","kecerdikan buatan","kepintaran buatan"],"king":["aji","berseba","bupala","datu","raja","seba"],"key":["anak kunci","banji","kekunci","kunci"],"kio":["ang mo kio"],"kelantan":["bachok","kelantan"],"kut":["bak kut teh","kot"],"kingdom":["bendahara","kedatuan","kerajaan","united kingdom"],"kindred":["beradik"],"knowledge":["berinformasi","ilmu","informasi","makrifat","pengetahuan"],"kubang":["berkubang","kubang pasu"],"know":["bisa mengabet","kenal","sadin","tahu"],"kid":["bocah"],"kidney":["buah pinggang","ginjal","kerinjal"],"kindness":["budi","kebaikan"],"kayu":["bukit kayu hitam"],"knuckle":["buku jari"],"kill":["bunuh","membunuh"],"knema":["cendara"],"kiss":["cium"],"kidnap":["culik"],"kedah":["darul aman","jitra","kedah","kedah darul aman"],"kinds":["dayung-mayung","kacang puteh","sayur-mayur"],"kafirkan":["dikafirkan","mengkafirkan"],"karang":["dikarang","mengarang"],"kategorikan":["dikategorikan","mengkategorikan"],"kaunseling":["dikaunseling","mengkaunseling"],"kedutkan":["dikedutkan","mengedutkan"],"knot":["ikatan","simpulan"],"keep":["intip","memperkotakan","mengacah-acah","pelihara","reban","tutup mulut"],"kemajuan":["jakoa"],"kejap":["jap"],"kejayaan":["jaya"],"knob":["jongkol"],"kacang":["kacang putih"],"kafir":["kafirkan"],"known":["kaki bodek","mat kelentong","mendunia"],"karaoke":["kaki karok","mat karok"],"kalau":["kalo","lau"],"khamis":["kamis"],"kampar":["kampar"],"kampung":["kampong"],"kanak":["kanak-kanak"],"kangar":["kangar"],"kangaroo":["kanggaru"],"kapok":["kapuk","kekabu"],"karcis":["karcis"],"kashf":["kasyaf"],"katai":["kata-katai"],"keterangan":["katerangan"],"kahwin":["kawin"],"kota":["kb","kk","kota belud","kota bharu","kota kinabalu"],"kejinggaan":["kejingga-jinggaan"],"kek":["kek lapis"],"klang":["kelang","pelabuhan klang"],"klasik":["kelasik"],"kelmarin":["kelemari","kemarin"],"kemas":["kemaskini"],"kini":["kemaskini"],"kementerian":["kementah"],"kenapa":["kenap","napa"],"kapten":["kepten"],"kereta":["keretapi","keta"],"keruping":["keropeng"],"kshatriya":["kesatria"],"kasihan":["kesian","sian"],"kastela":["kestela"],"keta":["kete"],"kecap":["ketjap"],"ketuanan":["ketuanan melayu"],"ketupat":["ketupat"],"kewajipan":["kewajiban"],"khadija":["khadijah"],"khas":["khusus"],"kekili":["kili-kili"],"kinabatangan":["kinabatangan"],"khairy":["kj"],"kinabalu":["kk","kota kinabalu"],"kuala":["kl","kolumpur","kuala terengganu"],"kelang":["klang"],"kelaring":["klaring"],"kleptocracy":["kleptokrasi"],"kanan":["knn"],"kau":["ko"],"kodiang":["kodiang"],"komunis":["kominis","pkm"],"komunisme":["komunizem"],"konvokesyen":["konvokesen"],"korang":["korg"],"koruna":["koruna"],"krypton":["kripton"],"kritikal":["kritis"],"kerajaan":["krjaan"],"keganasan":["krt"],"ktm":["ktm"],"kuantan":["kuantan"],"keluar":["kuar"],"keluarga":["kuarga"],"kuching":["kuching"],"kudat":["kudat"],"kway":["kuetiau"],"kulai":["kulai"],"kugiran":["kumpulan gitar rancak"],"kurang":["kureng"],"kuwait":["kuwait"],"kuyuk":["kuyuk-kuyuk"],"kite":["layang-layang","wau"],"kaffir":["limau purut"],"knackered":["lorat"],"knee":["lutut","tuhut"],"kemasam-masaman":["masam-masaman"],"kelupas":["mengelupas"],"kerosene":["minyak tanah"],"kurrajong":["nilau"],"kaya":["okb","okl"],"kena":["okt"],"know-it-all":["palatau"],"keyboard":["papan kekunci","papan nada"],"killer":["paus hitam","paus pembunuh","pembunuh"],"kidnapping":["penculikan"],"kaul":["pesta kaul"],"knife":["pisau","pisau paung","pisau roti"],"knoll":["pongsu"],"kingfisher":["raja udang"],"kennel":["rumah anjing","rumah asu"],"keris":["salang"],"knuckles":["sekeh"],"knickers":["seluar dalam"],"koetjape":["sentul"],"kick":["sepak","sepakan percuma","tendang","tendangan percuma","terajang"],"klinefelter":["sindrom klinefelter"],"kasuari":["suari"],"krait":["tedung ranggas"],"knife-edge":["telur di hujung tanduk"],"kinetic":["tenaga kinetik"],"kerja":["waktu kerja"]}}
+kacang	kacang putih|n
+kaffir	limau purut|n
+kafir	kafirkan|v
+kafirkan	dikafirkan|v,mengkafirkan|v
+kahwin	kawin|v
+kalau	kalo|conj,lau|conj
+kampar	kampar
+kampung	kampong|n
+kanak	kanak-kanak|n
+kanan	knn
+kangar	kangar
+kangaroo	kanggaru|n
+kapok	kapuk|n,kekabu|n
+kapten	kepten|n
+karang	dikarang|v,mengarang|v
+karaoke	kaki karok|n,mat karok|n
+karcis	karcis|n
+kashf	kasyaf|n
+kasihan	kesian|adj,sian|adj
+kastela	kestela
+kasuari	suari|n
+katai	kata-katai|v
+kategorikan	dikategorikan|v,mengkategorikan|v
+kau	ko|pron
+kaul	pesta kaul
+kaunseling	dikaunseling|v,mengkaunseling|v
+kaya	okb|n,okl|n
+kayu	bukit kayu hitam
+kecap	ketjap|n
+kecerdasan	ai|n,kebijaksaan buatan|n,kebijaksanaan buatan|n,kecerdikan buatan|n,kepintaran buatan|n
+kedah	darul aman,jitra,kedah,kedah darul aman
+kedutkan	dikedutkan|v,mengedutkan|v
+keep	intip|v,memperkotakan|v,mengacah-acah|v,pelihara|v,reban|n,tutup mulut|v
+keganasan	krt|n
+kejap	jap|adv
+kejayaan	jaya|n
+kejinggaan	kejingga-jinggaan|adj
+kek	kek lapis|n
+kekili	kili-kili|n
+kelang	klang
+kelantan	bachok,kelantan
+kelaring	klaring|adj
+kelmarin	kelemari|adv,kemarin|n
+keluar	kuar|v
+keluarga	kuarga|n
+kelupas	mengelupas|v
+kemajuan	jakoa
+kemas	kemaskini|n
+kemasam-masaman	masam-masaman|adj
+kementerian	kementah
+kena	okt|n
+kenapa	kenap|adv,napa|adv
+kennel	rumah anjing|n,rumah asu|n
+kerajaan	krjaan
+kereta	keretapi|n,keta|n
+keris	salang|v
+kerja	waktu kerja|n
+kerosene	minyak tanah|n
+keruping	keropeng|n
+keta	kete|n
+keterangan	katerangan|n
+ketuanan	ketuanan melayu
+ketupat	ketupat|n
+kewajipan	kewajiban|n
+key	anak kunci|n,banji|n,kekunci|n,kunci|n
+keyboard	papan kekunci|n,papan nada|n
+khadija	khadijah
+khairy	kj
+khamis	kamis
+khas	khusus|adj
+kick	sepak|v,sepakan percuma|n,tendang|v,tendangan percuma|n,terajang|v
+kid	bocah|n
+kidnap	culik|v
+kidnapping	penculikan|n
+kidney	buah pinggang|n,ginjal|n,kerinjal|n
+kill	bunuh|v,membunuh|v
+killer	paus hitam|n,paus pembunuh|n,pembunuh|n
+kinabalu	kk,kota kinabalu
+kinabatangan	kinabatangan
+kindness	budi|n,kebaikan|n
+kindred	beradik|adj
+kinds	dayung-mayung|n,kacang puteh|n,sayur-mayur|n
+kinetic	tenaga kinetik|n
+king	aji|n,berseba|v,bupala|n,datu|n,raja|n,seba|v
+kingdom	bendahara|n,kedatuan|n,kerajaan|n,united kingdom
+kingfisher	raja udang|n
+kini	kemaskini|n
+kio	ang mo kio
+kiss	cium|v
+kitchen	acaran|n,siok|n
+kite	layang-layang|n,wau|n
+klang	kelang,pelabuhan klang
+klasik	kelasik|adj
+kleptocracy	kleptokrasi|n
+klinefelter	sindrom klinefelter|n
+knackered	lorat|adj
+knee	lutut|n,tuhut|n
+knema	cendara|n
+knickers	seluar dalam|n
+knife	pisau|n,pisau paung|n,pisau roti|n
+knife-edge	telur di hujung tanduk|n
+knob	jongkol|n
+knoll	pongsu|n
+knot	ikatan|n,simpulan|n
+know	bisa mengabet|v,kenal|v,sadin|v,tahu|v
+know-it-all	palatau|n
+knowledge	berinformasi|v,ilmu|n,informasi|n,makrifat|n,pengetahuan|n
+known	kaki bodek|n,mat kelentong|n,mendunia|v
+knuckle	buku jari|n
+knuckles	sekeh|v
+kodiang	kodiang
+koetjape	sentul|n
+komunis	kominis|n,pkm
+komunisme	komunizem|n
+konvokesyen	konvokesen|n
+korang	korg
+koruna	koruna|n
+kota	kb,kk,kota belud,kota bharu,kota kinabalu
+krait	tedung ranggas|n
+kritikal	kritis|adj
+krypton	kripton|n
+kshatriya	kesatria|n
+ktm	ktm
+kuala	kl,kolumpur,kuala terengganu
+kuantan	kuantan
+kubang	berkubang|v,kubang pasu
+kuching	kuching
+kudat	kudat
+kugiran	kumpulan gitar rancak|n
+kuih	abuk-abuk|n,putu|n
+kulai	kulai
+kurang	kureng|adv
+kurrajong	nilau|n
+kut	bak kut teh|n,kot|adv
+kuwait	kuwait
+kuyuk	kuyuk-kuyuk
+kway	kuetiau|n

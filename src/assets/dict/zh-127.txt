@@ -1,0 +1,606 @@
+仿	contohan|adj,ikutan|n,imitasi,kias,lebun,meneladan,mengajuk,meniru
+仿佛	kias
+仿效	tiru,contohan|adj
+仿效的	contohan|adj
+仿造	imitasi,ikutan|n,lebun
+仿造品	ikutan|n
+仿造的	lebun
+使	mengulit,abadikan|v,acop|v,alhalitu,animasikan|v,asingkan,ayun|v,bergalah
+使上	memperdayakan
+使上当	memperdayakan
+使不	abadikan|v
+使不灭	abadikan|v
+使之	asingkan,cairkan,mata jahat|n,mengislamkan|v
+使之分	asingkan
+使之分开	asingkan
+使之成	mengislamkan|v
+使之成为	mengislamkan|v
+使之成为回	mengislamkan|v
+使之成为回教	mengislamkan|v
+使之成为回教徒	mengislamkan|v
+使之溶	cairkan
+使之溶解	cairkan
+使之遭	mata jahat|n
+使之遭殃	mata jahat|n
+使之遭殃的	mata jahat|n
+使之遭殃的能	mata jahat|n
+使之遭殃的能力	mata jahat|n
+使产	berhalusinasi|v
+使产生	berhalusinasi|v
+使产生幻	berhalusinasi|v
+使产生幻觉	berhalusinasi|v
+使人	colek hati,langu|n,memperdengarkan,menyilaukan
+使人不	langu|n
+使人不愉	langu|n
+使人不愉快	langu|n
+使人不愉快的	langu|n
+使人听	memperdengarkan
+使人开	colek hati
+使人开心	colek hati
+使人眼	menyilaukan
+使人眼花	menyilaukan
+使仆	menjerumuskan
+使仆倒	menjerumuskan
+使倾	mencondongkan
+使倾斜	mencondongkan
+使做	pengabdian|n
+使做奴	pengabdian|n
+使做奴隶	pengabdian|n
+使停	memperhentikan
+使停止	memperhentikan
+使再	mendaur-ulang
+使再循	mendaur-ulang
+使再循环	mendaur-ulang
+使减	mengurangkan
+使减少	mengurangkan
+使分	menceraikan,tanggal|v
+使分开	menceraikan
+使分离	tanggal|v
+使发	terbitkan
+使发出	terbitkan
+使受	rugikan
+使受损	rugikan
+使受损失	rugikan
+使吃	menakjubkan
+使吃惊	menakjubkan
+使合	menubuhkan
+使合并	menubuhkan
+使命	pesanan|n
+使和	mendamaikan
+使和解	mendamaikan
+使困	menyusahkan,putihkan mata|v,susahkan
+使困窘	putihkan mata|v
+使困难	menyusahkan,susahkan
+使固	membaiki|v
+使固定	membaiki|v
+使在	riba|n
+使在坐	riba|n
+使在坐上	riba|n
+使坐	memangku
+使坐在	memangku
+使坐在膝	memangku
+使坐在膝上	memangku
+使坚	mencacakkan,menegapkan,mengeraskan
+使坚强	menegapkan
+使坚硬	mengeraskan
+使坚立	mencacakkan
+使复	memulihkan
+使复原	memulihkan
+使完	menyempurnakan
+使完善	menyempurnakan
+使害	menakutkan|v
+使害怕	menakutkan|v
+使富	diperkaya|v
+使富足	diperkaya|v
+使平	papat,imbang balas|n,memepat,pepat
+使平均	imbang balas|n
+使平齐	memepat,pepat
+使强	menegarkan
+使强壮	menegarkan
+使归	nasionalisasikan|v
+使归化	nasionalisasikan|v
+使役	menggerekkan|v
+使役动	menggerekkan|v
+使役动词	menggerekkan|v
+使徒	rasul|n
+使悲	menyedihkan
+使悲伤	menyedihkan
+使惊	takutkan|v
+使惊吓	takutkan|v
+使惨	paus omura|n
+使惨败	paus omura|n
+使感	mengharukan,menginspirasi|v
+使感动	mengharukan,menginspirasi|v
+使成	menjayakan,pemandulan|n,peram
+使成不	pemandulan|n
+使成不毛	pemandulan|n
+使成功	menjayakan
+使成熟	peram
+使损	merugikan
+使损失	merugikan
+使排	membariskan
+使排成	membariskan
+使排成行	membariskan
+使排成行列	membariskan
+使接	rapatkan
+使接近	rapatkan
+使摇	ayun|v
+使摇动	ayun|v
+使有	animasikan|v,mengabsahkan|v
+使有效	mengabsahkan|v
+使有生	animasikan|v
+使有生气	animasikan|v
+使松	mencuraikan
+使永	mengabadikan|v
+使永久	mengabadikan|v
+使沉	menenggelamkan,menakung
+使沉淀	menakung
+使活	mengaktifkan|v
+使活动	mengaktifkan|v
+使浮	mengapungkan
+使浮起	mengapungkan
+使浸	acop|v
+使浸水	acop|v
+使溅	terpercik|v
+使溅起	terpercik|v
+使溶	meleburkan
+使溶解	meleburkan
+使滚	menggulungkan
+使滚动	menggulungkan
+使满	memuaskan|adj,penuhi,puaskan|v
+使满意	puaskan|v
+使满足	memuaskan|adj,penuhi
+使烂	pelik bin ajaib|adj
+使烂醉	pelik bin ajaib|adj
+使熔	mencairkan
+使熔化	mencairkan
+使用	menggunakan|v,pakai|v,bergalah,catu,gunatenaga,padau,sumpit|n
+使用吹	sumpit|n
+使用吹箭	sumpit|n
+使用的	padau
+使用的坚	padau
+使用的坚固	padau
+使用的坚固之	padau
+使用的坚固之帆	padau
+使用长	bergalah
+使用长竿	bergalah
+使痒	kitik
+使相	memisalkan|v,mengadu,misalkan|v
+使相斗	mengadu
+使相等	memisalkan|v,misalkan|v
+使碎	meremukkan
+使碳	karbonat|n
+使碳酸	karbonat|n
+使碳酸盐	karbonat|n
+使碳酸盐化	karbonat|n
+使社	bersosial|v,bersosialisasi|v,sosialisasikan|v
+使社会	bersosial|v,bersosialisasi|v,sosialisasikan|v
+使社会化	bersosial|v,bersosialisasi|v,sosialisasikan|v
+使私	menswastakan|v
+使私有	menswastakan|v
+使私有化	menswastakan|v
+使空	ruah
+使繁	membiakkan
+使繁殖	membiakkan
+使终	hartal|n
+使终止	hartal|n
+使结	menubuhkan,muktamadkan|v
+使结合	menubuhkan
+使结束	muktamadkan|v
+使羞	memalukan|v
+使羞辱	memalukan|v
+使者	biduanda,duta,pesuruh|n
+使聋	memekakkan|v,pekakkan|v,terpekak|v,tilikan
+使节	utus|v
+使芬	mengharumkan
+使芬香	mengharumkan
+使诞	lahirkan|v
+使诞生	lahirkan|v
+使起	menerbangkan
+使起飞	menerbangkan
+使跌	menjatuhkan
+使跌倒	menjatuhkan
+使转	bertransformasi|v,transformasikan|v
+使转换	bertransformasi|v,transformasikan|v
+使远	menjauhkan
+使远离	menjauhkan
+使迷	membingungkan
+使迷惑	membingungkan
+使适	melaraskan
+使适应	melaraskan
+使都	membandarkan|v
+使都市	membandarkan|v
+使都市化	membandarkan|v
+使闻	mengharumkan
+使闻名	mengharumkan
+使降	timpakan
+使降落	timpakan
+使非	nyahjajah|v
+使非殖	nyahjajah|v
+使非殖民	nyahjajah|v
+使非殖民化	nyahjajah|v
+使面	mendada|v
+使面对	mendada|v
+使驯	menjinakkan
+使驯服	menjinakkan
+使高	menggirangkan
+使高兴	menggirangkan
+使麻	susahkan
+使麻烦	susahkan
+偿	baksis,ganti rugi,langsai,melangsai,melunaskan,pampas rugi,silih,tebusan
+偿损	ganti rugi
+偿损失	ganti rugi
+偿清	langsai
+偿还	melangsai,melunaskan,tebusan
+偿金	pampas rugi
+偿钱	baksis
+凿	pahat|n,pating,pemilih|n,korek|v,penarah
+凿子	pahat|n,penarah
+凿洞	korek|v
+勿	gesa,gesa-gesa
+勿勿	gesa-gesa
+勿勿忙	gesa-gesa
+勿勿忙忙	gesa-gesa
+勿忙	gesa,gesa-gesa
+勿忙忙	gesa-gesa
+姿	gaya|n,gaya usul,olah|n,paras|n,pusparagam,susuk|n,susuk badan,turun senjata|n
+姿势	turun senjata|n
+姿多	pusparagam
+姿多彩	pusparagam
+姿多彩的	pusparagam
+姿态	gaya|n,olah|n
+婿	menantu|n,semenda
+寿	ajal|n,insurans nyawa,susyi|n
+寿保	insurans nyawa
+寿保险	insurans nyawa
+寿司	susyi|n
+寿命	ajal|n
+屿	pulau pinang
+广	luas|adj,babur|n,corongkan,iklan|n,iklankan|v,kantonis,komprehensif|adj,lega|adj
+广东	kantonis
+广东人	kantonis
+广告	iklan|n,iklankan|v,pengiklan|n,van|n
+广告者	pengiklan|n
+广告车	van|n
+广场	medan,sasaran|n,medan selera|n
+广大	ombar
+广大的	ombar
+广播	corongkan,menyiarkan,pancaran,siaran
+广播节	siaran
+广播节目	siaran
+广泛	komprehensif|adj
+广泛的	komprehensif|adj
+广的	babur|n
+广阔	lega|adj,ombar
+广阔的	lega|adj,ombar
+恿	lenja
+承	akuan,ampu|v,aris,bukankan,kontraktor,memikul,mempan,memungkiri
+承人	waris|n
+承包	kontraktor,pemborong
+承包商	kontraktor,pemborong
+承受	mempan
+承担	memikul
+承法	pewarisan|n
+承的	muntil
+承继	aris
+承继人	aris
+承者	pelapis|n
+承认	akuan,mengakui,pengakuan,sahkan,bukankan,memungkiri
+拿	ambil|v,beristirahat|v,berswafoto|v,leklu,membawa,mengambil|v,bawa|v,datin
+拿住	jabat,jawat
+拿出	mengeluarkan|v,menghulurkan,hidang
+拿出食	hidang
+拿出食物	hidang
+拿大	kanada
+拿来	bawa|v
+拿督	datin
+拿督夫	datin
+拿督夫人	datin
+拿走	diambil
+替	buat|v,bergilir,bersilih,betol|adj,ganti|v,gilir,habok|n,hadith|n
+替换	bergilir,ganti|v
+替的	betol|adj,habok|n,hadith|n,ketjap|n,masok|v,ramadhan,repablik|n,selang-seli
+替罪	kambing hitam|n
+替罪羔	kambing hitam|n
+替罪羔羊	kambing hitam|n
+板	papan|n,belebas|n,beroti,bos|n,dek,geladak,gelumat,jong|n
+板厂	kilang papan
+板屋	rumah atap
+板岩	sabak|n
+板机	picu
+板条	belebas|n
+板桥	palemban
+柿	manggustan|n
+桿	pancing|n
+槿	bunga raya|n,worawari|n
+槿花	bunga raya|n
+湿	basah|adj,kuyup,basah kuyup,basah lembab,benyai,bersimbah,demam urat,embal
+湿地	paya|n,rawa|n,redang|n
+湿壁	fresko|n
+湿壁画	fresko|n
+湿度	higrometer|n
+湿度计	higrometer|n
+湿气	kelembapan|n,embal
+湿气的	embal
+湿润	benyai
+湿润的	benyai
+湿淋	basah kuyup
+湿淋淋	basah kuyup
+湿淋淋的	basah kuyup
+湿热	kepam
+湿热的	kepam
+湿病	demam urat
+湿症	pirai,sengal|adj
+湿的	basah lembab,limpas,rambah,embal,lengas,lepek,pampit
+湿而	unai
+湿而发	unai
+湿而发臭	unai
+湿而发臭的	unai
+湿透	kuyup,basah kuyup,lecap,pampit
+湿透的	basah kuyup,lecap,pampit
+灿	cemerlang|adj,compang,gemerlap,gemilang|adj,gilang-cemerlang,gilang-gemilang,mengiang,murup
+灿烂	cemerlang|adj,gemerlap,gemilang|adj,gilang-cemerlang,gilang-gemilang,mengiang,murup,perlang
+灿烂的	gemerlap,gemilang|adj,gilang-cemerlang,gilang-gemilang,mengiang,murup,perlang
+灿的	compang
+矿	makdan|n,air mineral|n,bijih|n,cebakan,galian|n,kalamin|n,kimpal|adj,kolong
+矿产	lombong|n
+矿坑	seronggong
+矿坑中	seronggong
+矿坑中的	seronggong
+矿坑中的坑	seronggong
+矿坑中的坑架	seronggong
+矿块	kimpal|adj
+矿山	kolong,lombong|n
+矿泉	air mineral|n
+矿泉水	air mineral|n
+矿物	cebakan,galian|n
+矿的	palung
+矿的金	palung
+矿的金山	palung
+矿的金山沟	palung
+矿砂	bijih|n
+穿	memakai,mengenakan,pakai|v,abdi|n,cucuk|v,gerek|v,jebol,kerbuk
+穿孔	tebuk|v,unjam,penggerek|n
+穿孔者	penggerek|n
+穿山	pengguling|n,tenggiling|n
+穿山甲	pengguling|n,tenggiling|n
+穿洞	gerek|v,kerbuk,tembuk,tindik
+穿的	abdi|n,tembus|v
+穿线	manzum
+穿越	lintas|v
+穿过	memintas,menelus,pintas,rintas,telap,telus|adj
+竿	bergalah,galah|n,gancu,jolok,joran,memepah,menjolok,pepah
+竿上	perambut
+竿上的	perambut
+竿上的丝	perambut
+竿上的丝线	perambut
+竿之	sepenggalah
+竿之长	sepenggalah
+竿击	jolok,memepah,pepah
+竿击之	memepah,pepah
+竿击落	jolok
+竿打	sengget
+竿打落	sengget
+竿打落果	sengget
+竿打落果了	sengget
+竿摘	menjolok
+竿摘取	menjolok
+竿摘取果	menjolok
+竿摘取果子	menjolok
+绿	firus|n,hijau|adj,itik melewar|n,kacang hijau|n,kehijauan|n,klorofil,lampu isyarat|n,oasis|n
+绿头	itik melewar|n
+绿头鸭	itik melewar|n
+绿松	firus|n
+绿松石	firus|n
+绿洲	oasis|n,wahah|n
+绿灯	lampu isyarat|n
+绿玉	zabarjad
+绿素	klorofil
+绿色	hijau|adj,kehijauan|n,pianggang
+绿色昆	pianggang
+绿色昆虫	pianggang
+绿豆	kacang hijau|n,putu|n
+腿	kaki|n,betis|n,dekam,kangkang,kengkang,ketis,paha|n,pukang|n
+腿分	kengkang
+腿分开	kengkang
+腿分开而	kengkang
+腿分开而跑	kengkang
+腿而	timpuh
+腿而坐	timpuh
+西	barat|n,abuk-abuk|n,acak|adj,angin barat|n,barah|n,barang|n,barang apa,barat daya|n
+西亚	bunga raya|n,indonesia,keropok lekor|n,malaysia,malaysia boleh,ringgit malaysia,riyal|n
+西亚人	keropok lekor|n,ringgit malaysia
+西亚和	riyal|n
+西亚和新	riyal|n
+西亚和新加	riyal|n
+西亚和新加坡	riyal|n
+西亚和新加坡元	riyal|n
+西亚国	bunga raya|n
+西亚国花	bunga raya|n
+西亚的	keropok lekor|n,ringgit malaysia
+西再	buruk siku
+西再向	buruk siku
+西再向人	buruk siku
+西再向人要	buruk siku
+西再向人要回	buruk siku
+西北	barat laut
+西北方	barat laut
+西南	barat daya|n
+西式	gaun|n
+西式女	gaun|n
+西式女衣	gaun|n
+西斯	fasis|n,fasisme|n
+西斯主	fasis|n,fasisme|n
+西斯主义	fasis|n,fasisme|n
+西斯主义者	fasis|n
+西方	barat|n,kulon|n,maghrib
+西望	lengas,tercangak-cangak
+西林	penisilin|n
+西洋	cara barat,dansa|n,lautan atlantik
+西洋作	cara barat
+西洋作风	cara barat
+西洋舞	dansa|n
+西漏	bocor-bacir
+西班	carta|n,kastela,moler,popular,ronda,sepanyol,tus
+西班牙	kastela,sepanyol,carta|n,moler,popular,ronda,tus
+西班牙语	carta|n,moler,popular,ronda,tus
+西瓜	mendikai|n,semangka|n,tembikai|n
+西的	angin barat|n,cepat tangan,panjang tangan|adj
+西的怪	cepat tangan
+西的怪癖	cepat tangan
+西米	rembia,sagu|n,rumbia|n
+西米树	rumbia|n
+西装	weskot|n
+西装背	weskot|n
+西装背心	weskot|n
+西诺	kasino|n
+西诺赌	kasino|n
+西诺赌场	kasino|n
+西谷	abuk-abuk|n
+西谷米	abuk-abuk|n
+轿	mongkor,rengga|n,tandu|n,usungan
+轿子	mongkor,tandu|n,usungan
+避	berlindung,egos|v,elak|v,elakkan diri,gelipar,hindar,jauhkan diri,jerembat
+避免	elak|v,menghindarkan
+避孕	kondom|n
+避孕套	kondom|n
+避开	egos|v,elak|v,jauhkan diri,lengos,mengelak,mengelakkan,menghindar,menjauhi
+避的	sengelat
+避的人	sengelat
+避责	elakkan diri
+避责任	elakkan diri
+避难	lindung|v
+铿	derang,kelenting
+铿锵	derang,kelenting
+铿锵声	derang,kelenting
+长	lanjut|adj,panjang|adj,abang mantu|n,akak|n,akang|n,akwak,amben|n,amir
+长假	cuti panjang
+长刀	parang|n,lamang
+长刀之	lamang
+长刀之一	lamang
+长刀之一种	lamang
+长叹	keluh|n
+长吁	keluh-kesah
+长吁短	keluh-kesah
+长吁短叹	keluh-kesah
+长吁短叹不	keluh-kesah
+长吁短叹不安	keluh-kesah
+长喇	nafiri
+长喇叭	nafiri
+长在	bakau|n
+长在海	bakau|n
+长在海边	bakau|n
+长在海边的	bakau|n
+长在海边的红	bakau|n
+长在海边的红木	bakau|n
+长大	umbul
+长官	prefektur|n
+长官的	prefektur|n
+长官的职	prefektur|n
+长官的职位	prefektur|n
+长尾	kera|n,lotong|adj
+长尾猴	kera|n
+长尾猴子	kera|n
+长尾猿	lotong|adj
+长屋	rumah panjang|n
+长年	long|n
+长年的	long|n
+长度	panjangnya,jemba
+长度单	jemba
+长度单位	jemba
+长形	bujur|adj,ketipung
+长形的	bujur|adj
+长形皮	ketipung
+长形皮鼓	ketipung
+长手	tekah
+长手猿	tekah
+长斜	rombus
+长斜方	rombus
+长斜方形	rombus
+长方	celapa|n,pendaga,segiempat tepat|n
+长方形	celapa|n,segiempat tepat|n,pendaga
+长方形之	pendaga
+长方形之衣	pendaga
+长方形之衣箱	pendaga
+长杆	tuas|n
+长条	melurut|v
+长枪	senapang|n
+长柄	tembilang
+长柄锄	tembilang
+长桨	beranta
+长桨的	beranta
+长桨的内	beranta
+长桨的内河	beranta
+长桨的内河船	beranta
+长椅	bangku|n
+长椅子	bangku|n
+长沙	amben|n
+长沙发	amben|n
+长波	gelombang|n,gelombang panjang
+长牙	gading|n
+长的	embung,jenawi|n,tabuh|n,abang mantu|n,akak|n,akang|n,ayunda|n,cagu|n
+长的棒	tembung|v
+长短	conggah-cangkih,tempang
+长短不	conggah-cangkih
+长短不齐	conggah-cangkih
+长短脚	tempang
+长突	jungur
+长突的	jungur
+长突的鼻	jungur
+长突的鼻子	jungur
+长竹	berumbung,jolok
+长竹竿	jolok
+长竹竿击	jolok
+长竹竿击落	jolok
+长竹筒	berumbung
+长竿	galah|n,bergalah,gancu
+长等	perkelang
+长等之	perkelang
+长等之称	perkelang
+长等之称号	perkelang
+长老	ketua|n,penatua,khatib
+长者	taci|n,uak|n
+长者的	uak|n
+长者的称	uak|n
+长者的称呼	uak|n
+长而	capang
+长而弯	capang
+长而弯的	capang
+长腿	ketis
+长臂	akwak,mawa,siamang|n,ungka|n
+长臂猿	akwak,siamang|n,ungka|n,mawa
+长臂猿类	mawa
+长行	jebang
+长行牛	jebang
+长行牛皮	jebang
+长行牛皮盾	jebang
+长行牛皮盾牌	jebang
+长袍	jubah
+长靴	kasut but|n
+长须	paus balin|n,paus sirip|n
+长须鲸	paus balin|n,paus sirip|n
+长颈	zirafah|n
+长颈鹿	zirafah|n
+顿	gedebak,henti|v,makadunia,mandik,menggedebak,merentak,rentak|n,tuberkulosis|n
+顿挫	tuberkulosis|n
+顿挫性	tuberkulosis|n
+顿挫性结	tuberkulosis|n
+顿挫性结核	tuberkulosis|n
+顿足	gedebak,menggedebak,merentak,rentak|n
+饿	lapar|adj,bulur|adj,kebuluran|n,lentul
+鱿	sotong|n
+鱿鱼	sotong|n
+鹿	rusa|n,kancil|n,kijang|n,napuh,pelanduk|n,rusa kutub|n,sang kancil,zirafah|n
+鹿类	kijang|n
+齿	rigi,bergigi,biku|n,danta|n,gear,geraham,geraham bongsu,gerham
+齿形	biku|n,gerigi|n
+齿形的	gerigi|n
+齿形花	biku|n
+齿形花边	biku|n
+齿植	paku
+齿植物	paku
+齿突	jongeng
+齿突出	jongeng
+齿轮	gear,giar
+齿酸	ngilu|n,singkil
+齿龈	gusi|n

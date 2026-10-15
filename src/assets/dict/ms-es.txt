@@ -1,0 +1,9 @@
+es	es	n	冰	The name of the Latin script letter S/s.
+esa	esa	num	同义词
+esah	esah		合法的
+esak	esak		啜泣，呜咽，抽噎
+esok	esok	n	明天	tomorrow (The day after the present day.)		semalam
+esokesok	esok-esok	adv	以后	Later  next time
+esoklusa	esok lusa	n	明天	tomorrow or overmorrow
+estet	estet		园丘
+esukan	e-sukan	n		e-sports

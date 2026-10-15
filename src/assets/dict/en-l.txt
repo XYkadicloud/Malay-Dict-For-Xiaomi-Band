@@ -1,1 +1,286 @@
-{"en2ms":{"lie":["abab","baring","bedek","curi tulang","lentang","mengiring"],"loom":["abah-abah tenun"],"latin":["abc","abese","ar","ef","es","hec"],"letters":["abjad","bersurat","digraf","surat-menyurat"],"leader":["aboi","ketua","pemimpin","pengepala","penghulu","tua-tua"],"leprosy":["abras","bodok"],"leprous":["abras"],"legal":["absah"],"limau":["abung"],"lelaki":["adik laki-laki","anak laki-laki","anak laki-laki cicit","cucu laki-laki cucu","laki-laki"],"lagi":["agik","lg"],"like":["ala","amacam","bagai","bagaikan","berbayang","bulan sabit"],"layer":["alas","lapis","lapisan","petala"],"lahanat":["anat","hanat"],"lift":["angkat","angkatan","julang","lif","menjulang"],"lined":["anjing koreng"],"liquor":["arak","minuman keras"],"lineage":["asal usul","berzuriat","darah","kesalasilahan","perturunan","salasilah"],"love":["asmara","bercinta","cinta","cinta monyet","cinta segi tiga","cintan"],"lepas":["astu","pas","pastu"],"lasting":["awet"],"long":["awet","berzaman","daulat","dirgahayu","jenawi","lama-lama"],"luggage":["bagasi"],"loud":["bahana","dekah","riuh","tempik"],"language":["bahasa","bahasa isyarat","bahasa orang putih","bahasa pasar","melanau","munsyi"],"lily":["bakung","seroja","teratai","tunjung"],"large":["balai","balang","genta","gimnasium","kapal","kenduri"],"log":["balak","batang","diari"],"lot":["banyak"],"lord":["bapa kami","pamegat","pertuan","syah alam","yamtuan"],"live":["bara","daulat","dirgahayu","panjang umur","tinggal"],"lower":["baruh","labuhkan","perdu","regan","turunkan"],"limit":["batas","had","had laju","tempoh"],"limitation":["batasan"],"lunch":["bekal"],"looking":["bekemayau","dam"],"learn":["belajar","hafal"],"lath":["belebas"],"look":["belek","bidik","cahari","cari","kawal","kelihatan"],"laundryman":["benara","dobi"],"lay":["bentang","bertelur"],"leave":["berangkat","beredar","cuti","cuti bersalin","membekas"],"lazy":["berat tulang","kerusi rehat","liat","pemalas"],"line":["beratur","deret","garis","kawad","nirai","regat"],"limited":["berhad","sendirian berhad","terbatas","terhad"],"liability":["berhad","liabiliti"],"laugh":["berkahkah","ketawa","tertawa"],"lotion":["berlosen","losen","melosen"],"luck":["bertuah","geruh","kemujuran","nasib","semoga berjaya","tuah"],"last":["berzaman"],"lizard":["biancak","cecak","cicak"],"let":["biar","entak","jom","lepaskan","meluputkan","sanggerah"],"lip":["bibir"],"lastborn":["bongsu"],"lgbtq":["budaya songsang"],"lumpy":["buku"],"labial":["bunyi labial"],"light":["cahaya","lampu isyarat","lempung","lrt","luntang","mentol"],"low":["cair","rendah","riam"],"lightly":["catuk"],"location":["cawangan","di","duduk","kat","lokasi","perhentian"],"loincloth":["cawat"],"liquid":["cecair","cerat","pencair"],"ladle":["cedok","mencedok","senduk"],"lidded":["cembul"],"luminous":["cerlang"],"lobe":["cuping"],"list":["daftar","senarai"],"lake":["danau","tasik"],"land":["daratan","keinderaan","lahan","orang asli","periuk api","reformasi agraria"],"leaf":["daun","patera"],"lady-in-waiting":["dayang"],"laughter":["dekah","kahkah"],"label":["dilabel","label","melabel"],"lamp":["dilah","lampu","pelita"],"lantern":["dilah","lentera","pelita","tanglung"],"lakukan":["dilakukan"],"lancarkan":["dilancarkan","melancarkan"],"looked":["dilangut"],"larangkan":["dilarangkan","melarangkan"],"lawan":["dilawan","melawan","seteru"],"lebarkan":["dilebarkan","melebarkan"],"lepaskan":["dilepaskan"],"lestarikan":["dilestarikan","melestarikan"],"letak":["diletak"],"letakkan":["diletakkan"],"lokap":["dilokap","melokap"],"lorded":["dipertuan"],"langsat":["dokong","langsat"],"lanzone":["dokong"],"legs":["duduk bersimpuh","kaki bangku"],"lady":["empuan","nona","siti","wanita"],"later":["esok-esok","kelak","nanti"],"lorentz":["faktor lorentz"],"level":["firdaus","paras","petala","rata","satah","sekedudukan"],"loose":["galir","goyang","luntang","renggang","sendat"],"lifestyle":["gaya hidup"],"lively":["gegap gempita","ramai"],"litres":["gelen"],"lgbt":["geng pelangi"],"lifeless":["gersang"],"latex":["getah"],"lipstick":["gincu","lipstik"],"lump":["gumpal","tumbung"],"latent":["haba","imej pendam"],"lightning":["halilintar","kilat"],"left":["hangat","kiri","sayap kiri","selebihnya","tuntas"],"leopard":["harimau akar","harimau bintang","harimau dahan","kucing batu","macan tutul"],"liver":["hati"],"life":["hidup","kehidupan","nyawa","putih tulang","sukma"],"lose":["hilang","kesamunan","lumpuh","pengsan"],"lesser":["hina"],"lowly":["hina"],"link":["hubung","hubungan","sambung"],"law":["hukum","kanun","undang-undang rimba"],"langat":["hulu langat"],"letter":["huruf","menyurat","warkah"],"lock":["ibu kunci"],"letter-case":["ilahi","japen"],"learning":["ilmu"],"lovely":["indah"],"latrine":["jamban"],"limb":["jari"],"little":["jari kelengkeng","kecil","kelengkeng","nipis","sedikit","sikit"],"lick":["jilat"],"lesson":["kaji","pelajaran"],"leg":["kaki"],"lies":["kaki kelentong"],"loiterer":["kaki rambu","mat rambu"],"lost":["kalah","lamun","melamun","pergi mampus","sesat"],"lens":["kanta","kanta zum","lensa","lensa zum"],"lime":["kapur","limau nipis","limau purut"],"laureate":["karyawan"],"lovestruck":["kasmaran"],"loanword":["kata pinjaman"],"leaves":["kauki","koki"],"legality":["keabsahan"],"liberty":["kebebasan","membebaskan"],"lips":["kecap","labial"],"loss":["kehilangan","kerugian","rugi"],"lapis":["kek lapis","lazuardi"],"lover":["kekasih"],"lack":["kekurangan"],"layang-layang":["kelayang","lelayang"],"living":["kemahiran hidup"],"laziness":["kemalasan"],"leadership":["kepimpinan"],"leftover":["ketinggalan","sisa"],"left-handed":["kidal"],"lumpur":["kl"],"long-distance":["koc"],"laptop":["komputer riba","laptop"],"lecture":["kuliah"],"less":["kurang","lebih kurang"],"lean":["kurus","sandar"],"louse":["kutu"],"library":["kutubkhanah","perpustakaan"],"lah":["la"],"labah":["labah-labah"],"labuan":["labuan"],"lahad":["lahad datu"],"lava":["lahar"],"lychee":["laici"],"laksa":["laksa"],"langkawi":["langkawi"],"lengthy":["lanjut"],"lanthanum":["lantanum"],"lateral":["lateral","sisian"],"lawrencium":["lawrensium"],"lazuli":["lazuardi"],"lieutenant":["leftenan"],"ledger":["lejar"],"lect":["lek"],"lexicography":["leksikografi","perkamusan"],"labi-labi":["lelabi"],"lembap":["lem"],"lemang":["lemang"],"lena":["lenyap"],"lionfish":["lepu"],"licence":["lesen"],"license":["lesen memandu","rebewis"],"lesung":["lesung pipit"],"lim":["lge"],"liberal":["liberal"],"liberian":["liberia"],"libya":["libya"],"league":["liga","serikat"],"languages":["linguistik"],"leech":["lintah"],"lyrics":["lirik"],"litigant":["litigan"],"litigation":["litigasi"],"lithium":["litium"],"logic":["logika"],"lockup":["lokap"],"long-drawn":["lolong"],"longan":["longan"],"lorry":["lori"],"lane":["lorong"],"lawyer":["loyar","peguam"],"lebanon":["lubnan"],"lembut":["lunak"],"lutetium":["lutetium"],"lut":["luth"],"lived":["makan garam"],"laboratory":["makmal"],"logical":["masuk akal"],"lable":["mat bodek","mat botol","mat dadah"],"lovesick":["mat cintan"],"labuhkan":["melabuhkan"],"lahirkan":["melahirkan"],"larang":["melarang"],"lengkung":["melengkung"],"lihat":["melihat"],"lead":["memimpin","plumbum","timah hitam","timbel","tuntun"],"liven":["menghidupkan"],"larger":["mengkuang","taifah"],"loathe":["menyampah"],"lighthouse":["mercu api","rumah api"],"landmark":["mercu tanda"],"luxurious":["mewah"],"labour":["mogok kilat"],"lucky":["mujur","nasib baik"],"lesbianism":["musahaqah"],"lemak":["nasi lemak","naslem"],"labyrinth":["pagar sesat"],"legged":["pahar"],"latihan":["palapes"],"lap":["pangku","riba"],"lung":["paru","paru-paru"],"lacking":["pejal"],"lexicographer":["pekamus","penyusun kamus"],"lubricant":["pelincir"],"literal-minded":["pembaris"],"liking":["pemberi"],"lighter":["pemetik api"],"longer":["pencen"],"lurk":["pendap"],"listener":["pendengar"],"likes":["pengganggu"],"lever":["pengumpil","pengungkil","pengungkit","tuas","tuil"],"lecturer":["pensyarah"],"lid":["penutup"],"localization":["penyetempatan"],"layout":["persiapan"],"literature":["persuratan","sastera"],"loan":["pinjaman"],"loci":["puaka"],"librarian":["pustakawan"],"lapidate":["rejam"],"lembayung":["remayung","rembayung"],"larva":["renga","ulat"],"longhouse":["rumah panjang"],"legitimate":["sah"],"loot":["sakar"],"laid-back":["santai","sempoi"],"located":["sedaerah","terletak"],"lockdown":["sekatan pergerakan"],"lancar":["selancar"],"long-barreled":["senapang"],"leaning":["senget"],"likely":["sepertinya"],"lonely":["sepi"],"lonesome":["sepi"],"lemongrass":["serai"],"lanka":["seri langka","sri lanka"],"lotus":["seroja","teratai","tunjung"],"loyal":["setia"],"lion":["singa"],"layover":["singgah"],"launder":["songlap"],"lying":["superman"],"lions":["surai"],"lust":["syahwat"],"langsir":["tabir"],"lightyear":["tahun cahaya"],"leap":["tahun lompat","terjun"],"lavatory":["tandas"],"ladder":["tangga"],"landfill":["tapak pelupusan sampah"],"laid":["terbentang"],"laut":["tldb","tldm"],"landlord":["tuan tanah"],"ledge":["tubir"],"legless":["ular"],"lifting":["usung"]}}
+labah	labah-labah|n
+label	dilabel|v,label|n,melabel|v
+labi-labi	lelabi|n
+labial	bunyi labial|n
+lable	mat bodek|n,mat botol|n,mat dadah|n
+laboratory	makmal|n
+labour	mogok kilat|n
+labuan	labuan
+labuhkan	melabuhkan|v
+labyrinth	pagar sesat|n
+lack	kekurangan|n
+lacking	pejal|adj
+ladder	tangga|n
+ladle	cedok|n,mencedok|v,senduk|n
+lady	empuan|n,nona|n,siti|n,wanita|n
+lady-in-waiting	dayang|n
+lagi	agik|adv,lg|conj
+lah	la|part
+lahad	lahad datu
+lahanat	anat|adj,hanat|adj
+lahirkan	melahirkan|v
+laid	terbentang|v
+laid-back	santai|adj,sempoi|adj
+lake	danau|n,tasik|n
+laksa	laksa|n
+lakukan	dilakukan|v
+lamp	dilah|n,lampu|n,pelita|n
+lancar	selancar|adj
+lancarkan	dilancarkan|v,melancarkan|v
+land	daratan|n,keinderaan|n,lahan|n,orang asli|n,periuk api|n,reformasi agraria|n
+landfill	tapak pelupusan sampah|n
+landlord	tuan tanah|n
+landmark	mercu tanda|n
+lane	lorong|n
+langat	hulu langat
+langkawi	langkawi
+langsat	dokong|n,langsat|n
+langsir	tabir|n
+language	bahasa|n,bahasa isyarat|n,bahasa orang putih,bahasa pasar|n,melanau,munsyi|n
+languages	linguistik|n
+lanka	seri langka,sri lanka
+lantern	dilah|n,lentera|n,pelita|n,tanglung|n
+lanthanum	lantanum|n
+lanzone	dokong|n
+lap	pangku|n,riba|n
+lapidate	rejam|v
+lapis	kek lapis|n,lazuardi|n
+laptop	komputer riba|n,laptop|n
+larang	melarang|v
+larangkan	dilarangkan|v,melarangkan|v
+large	balai|n,balang|n,genta|n,gimnasium|n,kapal|n,kenduri|n
+larger	mengkuang|n,taifah|n
+larva	renga|n,ulat|n
+last	berzaman|v
+lastborn	bongsu|adj
+lasting	awet|adj
+latent	haba|n,imej pendam|n
+later	esok-esok|adv,kelak|adj,nanti|adv
+lateral	lateral|adj,sisian|adj
+latex	getah|n
+lath	belebas|n
+latihan	palapes
+latin	abc|n,abese|n,ar|n,ef|n,es|n,hec|n
+latrine	jamban|n
+laugh	berkahkah|v,ketawa|v,tertawa|v
+laughter	dekah|n,kahkah
+launder	songlap|v
+laundryman	benara|n,dobi|n
+laureate	karyawan|n
+laut	tldb,tldm
+lava	lahar|n
+lavatory	tandas|n
+law	hukum|n,kanun|n,undang-undang rimba|n
+lawan	dilawan|v,melawan|v,seteru|n
+lawrencium	lawrensium|n
+lawyer	loyar|n,peguam|n
+lay	bentang|v,bertelur|v
+layang-layang	kelayang|n,lelayang|n
+layer	alas|n,lapis|n,lapisan|n,petala|n
+layout	persiapan|n
+layover	singgah|v
+laziness	kemalasan|n
+lazuli	lazuardi|n
+lazy	berat tulang|adj,kerusi rehat|n,liat|adj,pemalas|n
+lead	memimpin|v,plumbum|n,timah hitam|n,timbel|n,tuntun|v
+leader	aboi|n,ketua|n,pemimpin|n,pengepala|n,penghulu|n,tua-tua|n
+leadership	kepimpinan|n
+leaf	daun|n,patera|n
+league	liga|n,serikat|n
+lean	kurus|adj,sandar|v
+leaning	senget|adj
+leap	tahun lompat|n,terjun|v
+learn	belajar|v,hafal|v
+learning	ilmu|n
+leave	berangkat|v,beredar|v,cuti|n,cuti bersalin|n,membekas|v
+leaves	kauki|n,koki|n
+lebanon	lubnan
+lebarkan	dilebarkan|v,melebarkan|v
+lect	lek|n
+lecture	kuliah|n
+lecturer	pensyarah|n
+ledge	tubir|n
+ledger	lejar|n
+leech	lintah|n
+left	hangat|adj,kiri|n,sayap kiri|adj,selebihnya|pron,tuntas|adj
+left-handed	kidal|adj
+leftover	ketinggalan|n,sisa|n
+leg	kaki|n
+legal	absah|adj
+legality	keabsahan|n
+legged	pahar|n
+legitimate	sah|adj
+legless	ular|n
+legs	duduk bersimpuh|v,kaki bangku|n
+lelaki	adik laki-laki|n,anak laki-laki|n,anak laki-laki cicit|n,cucu laki-laki cucu|n,laki-laki|adj
+lemak	nasi lemak|n,naslem|n
+lemang	lemang|n
+lembap	lem|adj
+lembayung	remayung|n,rembayung|n
+lembut	lunak|adj
+lemongrass	serai|n
+lena	lenyap|adj
+lengkung	melengkung|v
+lengthy	lanjut|adj
+lens	kanta|n,kanta zum|n,lensa|n,lensa zum|n
+leopard	harimau akar|n,harimau bintang|n,harimau dahan|n,kucing batu|n,macan tutul|n
+lepas	astu|adv,pas|adj,pastu|adv
+lepaskan	dilepaskan|v
+leprosy	abras|adj,bodok|n
+leprous	abras|adj
+lesbianism	musahaqah|n
+less	kurang|adj,lebih kurang|adv
+lesser	hina|adj
+lesson	kaji|n,pelajaran|n
+lestarikan	dilestarikan|v,melestarikan|v
+lesung	lesung pipit|n
+let	biar|v,entak|v,jom,lepaskan|v,meluputkan|v,sanggerah|v
+letak	diletak|v
+letakkan	diletakkan|v
+letter	huruf|n,menyurat|v,warkah|n
+letter-case	ilahi|adj,japen
+letters	abjad|n,bersurat|v,digraf|n,surat-menyurat|v
+level	firdaus|n,paras|n,petala|n,rata|adj,satah|n,sekedudukan|adj
+lever	pengumpil|n,pengungkil|n,pengungkit|n,tuas|n,tuil|n
+lexicographer	pekamus|n,penyusun kamus|n
+lexicography	leksikografi|n,perkamusan|n
+lgbt	geng pelangi|n
+lgbtq	budaya songsang|n
+liability	berhad|n,liabiliti|n
+liberal	liberal|adj
+liberian	liberia|n
+liberty	kebebasan|n,membebaskan|v
+librarian	pustakawan|n
+library	kutubkhanah|n,perpustakaan|n
+libya	libya
+licence	lesen|n
+license	lesen memandu|n,rebewis|n
+lick	jilat|v
+lid	penutup|n
+lidded	cembul|n
+lie	abab|v,baring|v,bedek|v,curi tulang|v,lentang|v,mengiring|v
+lies	kaki kelentong|n
+lieutenant	leftenan|n
+life	hidup|v,kehidupan|n,nyawa|n,putih tulang|v,sukma|n
+lifeless	gersang|adj
+lifestyle	gaya hidup|n
+lift	angkat|v,angkatan|n,julang|v,lif|n,menjulang|v
+lifting	usung|v
+light	cahaya|n,lampu isyarat|n,lempung|adj,lrt,luntang|n,mentol|n
+lighter	pemetik api|n
+lighthouse	mercu api|n,rumah api|n
+lightly	catuk|v
+lightning	halilintar|n,kilat|n
+lightyear	tahun cahaya|n
+lihat	melihat|v
+like	ala|prep,amacam|adv,bagai|conj,bagaikan|prep,berbayang|v,bulan sabit|adj
+likely	sepertinya|adv
+likes	pengganggu|n
+liking	pemberi|adj
+lily	bakung|n,seroja|n,teratai|n,tunjung|n
+lim	lge
+limau	abung|n
+limb	jari|n
+lime	kapur|n,limau nipis|n,limau purut|n
+limit	batas|n,had|n,had laju|n,tempoh|n
+limitation	batasan|n
+limited	berhad|n,sendirian berhad|n,terbatas|adj,terhad|adj
+line	beratur|v,deret|cls,garis|n,kawad|n,nirai|n,regat|v
+lineage	asal usul|n,berzuriat|v,darah|n,kesalasilahan|adj,perturunan|n,salasilah|n
+lined	anjing koreng|n
+link	hubung|v,hubungan|n,sambung|v
+lion	singa|n
+lionfish	lepu|n
+lions	surai|n
+lip	bibir|n
+lips	kecap|n,labial|adj
+lipstick	gincu|n,lipstik|n
+liquid	cecair|n,cerat|n,pencair|n
+liquor	arak|n,minuman keras|n
+list	daftar|n,senarai|n
+listener	pendengar|n
+literal-minded	pembaris|n
+literature	persuratan|n,sastera|n
+lithium	litium|n
+litigant	litigan|n
+litigation	litigasi|n
+litres	gelen|n
+little	jari kelengkeng|n,kecil|adj,kelengkeng|n,nipis|adj,sedikit|adj,sikit|adj
+live	bara|n,daulat|v,dirgahayu|v,panjang umur|v,tinggal|v
+lived	makan garam|v
+lively	gegap gempita|adj,ramai|adj
+liven	menghidupkan|v
+liver	hati|n
+living	kemahiran hidup|n
+lizard	biancak|n,cecak|n,cicak|n
+loan	pinjaman|n
+loanword	kata pinjaman|n
+loathe	menyampah|v
+lobe	cuping|n
+localization	penyetempatan|n
+located	sedaerah|adj,terletak|v
+location	cawangan|n,di|prep,duduk|v,kat|prep,lokasi|n,perhentian|n
+loci	puaka|n
+lock	ibu kunci|n
+lockdown	sekatan pergerakan|n
+lockup	lokap|n
+log	balak|n,batang|cls,diari|n
+logic	logika|n
+logical	masuk akal|adj
+loincloth	cawat|n
+loiterer	kaki rambu|n,mat rambu|n
+lokap	dilokap|v,melokap|v
+lonely	sepi|adj
+lonesome	sepi|adj
+long	awet|adj,berzaman|v,daulat|v,dirgahayu|v,jenawi|n,lama-lama|adv
+long-barreled	senapang|n
+long-distance	koc|n
+long-drawn	lolong|n
+longan	longan|n
+longer	pencen|adj
+longhouse	rumah panjang|n
+look	belek|v,bidik|v,cahari|v,cari|v,kawal|v,kelihatan|v
+looked	dilangut|v
+looking	bekemayau|v,dam|adj
+loom	abah-abah tenun|n
+loose	galir|n,goyang|adj,luntang|n,renggang|adj,sendat|adj
+loot	sakar|v
+lord	bapa kami,pamegat|n,pertuan|v,syah alam|n,yamtuan|n
+lorded	dipertuan|v
+lorentz	faktor lorentz|n
+lorry	lori|n
+lose	hilang|v,kesamunan|v,lumpuh|v,pengsan|v
+loss	kehilangan|n,kerugian|n,rugi|n
+lost	kalah|v,lamun|v,melamun|v,pergi mampus|v,sesat|adj
+lot	banyak|adj
+lotion	berlosen|v,losen|n,melosen|v
+lotus	seroja|n,teratai|n,tunjung|n
+loud	bahana|n,dekah|n,riuh|adj,tempik|n
+louse	kutu|n
+love	asmara|n,bercinta|v,cinta|n,cinta monyet|n,cinta segi tiga|n,cintan|n
+lovely	indah|adj
+lover	kekasih|n
+lovesick	mat cintan|n
+lovestruck	kasmaran|v
+low	cair|adj,rendah|adj,riam|n
+lower	baruh|n,labuhkan|v,perdu|n,regan|n,turunkan|v
+lowly	hina|adj
+loyal	setia|adj
+lubricant	pelincir|n
+luck	bertuah|adj,geruh|n,kemujuran|n,nasib|n,semoga berjaya|int,tuah|n
+lucky	mujur|adj,nasib baik|adj
+luggage	bagasi|n
+luminous	cerlang|adj
+lump	gumpal|cls,tumbung|n
+lumpur	kl
+lumpy	buku|n
+lunch	bekal|n
+lung	paru|n,paru-paru|n
+lurk	pendap|v
+lust	syahwat|n
+lut	luth
+lutetium	lutetium|n
+luxurious	mewah|adj
+lychee	laici|n
+lying	superman|n
+lyrics	lirik|n

@@ -1,1 +1,361 @@
-{"en2ms":{"ropes":["abah-abah"],"rig":["abah-abah","pelantar"],"removal":["ablasi","penanggalan"],"run":["abrit-abritan","amuk","cabut","dampak","lama-lama","langgar lari"],"random":["acak","rawak"],"randomly":["acak-acakan","mengacak"],"right":["adil","baiklah","hak","hak asasi manusia","kanan","padan muka"],"rather":["agak"],"religion":["agama","din","syinto","taifah"],"reducing":["agen penurunan"],"rosewater":["air mawar"],"ritual":["air sembahyang","istiadat","upacara"],"reason":["akal","alasan","kenapa","sebab"],"root":["akar","keladi"],"roots":["akar umbi"],"result":["akibat","petikan"],"river":["alur","bengawan","ci","liku","slim river","sungai"],"reliable":["andal","handal"],"rumour":["angin-angin","khabar angin"],"raise":["angkat","julang","menjulang","naikkan"],"rise":["angkatan","terbit"],"red":["anjing pandan","bendera merah","berma","bulan sabit merah","laut kulzum","laut merah"],"raccoon":["anjing rakun"],"russian":["anjing serigala rusia"],"rabu":["arbaa"],"rabbit":["arnab","kucing belanda","kucing tapai"],"roof":["atap","bumbung"],"relating":["automotif","bandaran","jelata","kebenuaan","kehutanan","keislaman"],"rock":["ayun","batuan","cenuram","mat rok"],"resolution":["azam","leraian","resolusi"],"rug":["babut"],"read":["baca","buta huruf","membaca"],"reading":["bacaan"],"rhinoceros":["badak"],"repair":["baharui"],"reform":["baharui","pembaharu","pembaharuan","reformasi","reformasi agraria","reformasi pendidikan"],"raincoat":["baju hujan"],"ruled":["baka"],"raw":["bakal","mentah","ulam"],"reverence":["bakti"],"reply":["balas","jawab","sahut"],"respond":["balas","sahut"],"revenge":["balas dendam"],"response":["balasan","waalaikumussalam"],"returning":["balik kampung"],"rainbow":["balingkawat","bangun-bangun","benang raja","bianglala","ganu","gegana"],"race":["bangsa","lumba","lumba lari","ras"],"row":["banjar","baris","beciyau","deret","kawad","nirai"],"ransack":["barek"],"recently":["baru"],"rancid":["basi","pedar","perat"],"restriction":["batas","sekatan"],"rod":["bawar","pancing"],"round":["bebola","belon","bulat","bundar","bundaran","capah"],"rickshaw":["beca","lancia"],"ration":["bekal"],"restless":["belisah","resah"],"really":["benar","memang"],"rice":["bendang","bepang","beras","bertih","bihun","huma"],"royal":["bera","bukit aman","diraja","hormat diraja","jempana","keluarga diraja"],"rich":["berada","kaya","kaya raya","mampu"],"rest":["beradu","berehat","beristirahat","istirahat","jeda","kawasan rehat"],"ride":["berbasikal","berkuda","tumpang"],"recreations":["berekreasi"],"ridicule":["bergarah","mengatai"],"rights":["berhak"],"rampart":["berkota","berkotakan","mengotakan"],"rip":["bertas"],"responsible":["berwajib","jamin"],"rinse":["bilas"],"room":["bilik","bilik acu","bilik persalinan","bilik rehat","galeri","gimnasium"],"restroom":["bilik air"],"resting":["bilik rehat"],"ruined":["binasa"],"rebound":["bingkas","lenting"],"reject":["buang"],"refer":["budak baru nak up"],"rear":["buntut","mudi","pelihara","punggung"],"regent":["bupati"],"rotten":["buruk","hangit"],"recognise":["cam"],"rapid":["cepat","lrt"],"rocket":["cerawat","roket"],"ring":["cincin","jari manis"],"recreational":["dadah"],"register":["daftar"],"resin":["damar"],"rank":["darjah","pangkat"],"realm":["darul"],"rushing":["derau"],"rakyatkan":["dirakyatkan","merakyatkan"],"rampok":["dirampok","merampok"],"rasuahi":["dirasuahi","merasuahi"],"reformasi":["direformasi","mereformasi"],"regas":["diregas","meregas"],"regat":["diregat","meregat"],"rompak":["dirompak","merompak"],"runut":["dirunut","merunut","runuti"],"runuti":["dirunuti","merunuti"],"rusuk":["dirusuk","merusuk"],"racial":["diskriminasi kaum","diskriminasi ras"],"ruminant":["domba"],"revolve":["edar"],"reluctant":["enggan","liat","segan"],"replace":["ganti","salin"],"remain":["geming","membisu"],"rouse":["gera"],"rub":["gesek","gosok","menggosok"],"reverse":["gostan"],"residence":["graha","pesanggerahan"],"rakyat":["grs"],"roll":["guling","gulung","gulungan","popia"],"reward":["habuan","pahala"],"raya":["hari raya haji","hari raya korban","hari raya puasa","pru"],"real":["hartanah","realiti","sejati","sungguh"],"ringgit":["hingget","ringgit","ringgit malaysia"],"roughly":["hitung-hitung"],"respectful":["hormat"],"relationship":["hubungan"],"rain":["hujan","hujan asid","mendung"],"rainstorm":["hujan ribut"],"rainforest":["hutan hujan"],"reminder":["ikhtiyat"],"remember":["ingat"],"recognition":["itulah tu"],"rooster":["jaguh"],"road":["jalan","jalan raya","jalan tol","liku"],"rose":["jambu","mawar"],"reach":["jangkau","tuju"],"roadshow":["jerayawara"],"range":["julat"],"regency":["kabupaten"],"rate":["kadar","kepecutan"],"ratio":["kadar","nisbah"],"representation":["kahkah"],"rust":["karat","tegagh"],"rubber":["karet","pemadam"],"residents":["kariah"],"rough":["kasar"],"rafter":["kasau"],"rd":["keadaannya"],"reliability":["keandalan"],"region":["kedaerahan","rantau","seringat"],"residency":["kedudukan"],"relations":["kekitaan"],"resembling":["kekotaan","laksana"],"return":["kembali","mengembalikan","pulang"],"recollection":["kenangan"],"remembrance":["kenangan"],"reasonable":["keraguan munasabah","masuk akal"],"relative":["kerelatifan"],"riot":["kerusuhan","rusuhan"],"robbed":["kesamunan","samunan"],"regretfulness":["kesesalan"],"remnant":["ketinggalan"],"retreat":["khalwat","undur"],"remove":["kikis","nyahfros"],"raisin":["kismis","zabib"],"ripple":["kocak"],"runs":["kong"],"reportedly":["konon","kononnya"],"rounded":["kopiah"],"rumah":["krt","ribi"],"ringworm":["kurap"],"rigging":["laberang"],"ruin":["laknat"],"reprobate":["laknatullah"],"route":["laluan"],"rattan":["lampit","rotan","siring","takraw"],"reverie":["lamunan"],"regular":["langgan"],"resume":["lanjutkan","menyambung"],"rag":["lap"],"roomy":["lapang"],"report":["lapor"],"rice-based":["lauk"],"remainder":["lebih","selebih","selebihnya"],"relieved":["lega"],"refrigerator":["lemari es","peti air batu","peti ais","peti sejuk"],"remaining":["lestari"],"radish":["lobak"],"running":["lumba lari"],"rush":["luru","meluru","terpa"],"recess":["masa rehat","relung"],"respective":["masing","masing-masing"],"romantic":["mat bunga"],"restaurant":["mekdi","restoran"],"ruinous":["melarat"],"rectify":["membetulkan"],"receive":["menerima","tadah","terima"],"repeatedly":["mengacah-acah","tertoleh-toleh","tikam-tikam"],"regret":["menyesal","menyesali","sesal","sesalan","sesali"],"rent":["menyewa"],"repeated":["meraba-raba"],"renung":["merenungi"],"romanise":["merumikan"],"rungut":["merungut"],"represent":["merupakan"],"request":["minta","mohon","pinta","tarik balik"],"rambutan":["moktan","rambutan"],"reload":["muat semula"],"rudder":["mudi"],"rainy":["musim hujan"],"respiration":["nafas"],"regardless":["nenda","tanpa mengira"],"retarded":["oku"],"raised":["panggau"],"ray":["pari","pari bendera","pari burung","pari kaluk","pari karan","pari kelawar"],"rhinoptera":["pari bendera"],"ruling":["parti kerajaan","parti pemerintah"],"ris":["pasir ris"],"royalty":["pekerma"],"riding":["pelarian"],"racer":["pelumba"],"reader":["pembaca"],"reformation":["pembaharuan"],"rebel":["pemberontak"],"revolution":["pemberontakan","revolusi"],"reproduction":["pembiakan"],"recovery":["pemulihan"],"refining":["penapisan"],"refinery":["penapisan"],"receiving":["pencen"],"resident":["penduduk"],"recitation":["pengajian","pengucapan"],"rusting":["pengaratan"],"reforestation":["penghutanan semula"],"rating":["penilaian"],"religious":["penunggang agama"],"robber":["penyamun","perompak"],"robbing":["penyamunan","perompakan"],"research":["penyelidikan"],"regretting":["penyesalan"],"renter":["penyewa"],"recommendation":["perakuan","syor"],"remark":["perasan"],"rules":["peraturan"],"reckoning":["perhitungan"],"relation":["perhubungan","perkaitan"],"regard":["peri"],"resthouse":["peristirahatan","pesanggerahan","rumah rehat"],"ridge":["permatang"],"romanization":["perumian"],"rim":["pinggir"],"razor":["pisau cukur"],"ratoon":["pucuk"],"radio":["radio"],"radiometer":["radiometer"],"radium":["radium"],"radon":["radon"],"rugby":["ragbi"],"rye":["rai"],"raja":["raja-raja"],"record":["rakam","untuk rekod"],"recording":["rakaman"],"racket":["raket"],"raft":["rakit"],"ramadan":["ramadhan"],"rejimen":["ramd"],"ramie":["rami"],"robbers":["rampok"],"rehearsal":["raptai"],"rational":["rasional"],"racist":["rasis"],"racism":["rasisme"],"reality":["realiti","realiti maya"],"ready":["reda","siap","tunai"],"reformist":["reformis"],"regatta":["regata"],"rege":["reggae"],"relaxes":["rehat"],"rajab":["rejab"],"regime":["rejim"],"regiment":["rejimen"],"recreation":["rekreasi"],"relativity":["relativiti"],"relevant":["relevan"],"rennet":["renet"],"rhenium":["renium"],"rhythm":["rentak","ritma"],"reflection":["renungan"],"republik":["repablik"],"repet":["repek"],"republic":["republik","republik afrika tengah","republik congo","republik czech","republik dominika","republik rakyat china"],"republicanism":["republikanisme"],"residen":["residen"],"recipe":["resipi"],"restoration":["restorasi"],"rial":["rial"],"ridzuan":["ridzuan"],"relax":["rilek"],"rhinology":["rinologi"],"risk":["risiko"],"reserve":["rizab","tempah"],"rhodium":["rodium"],"roentgenium":["roentgenium"],"rape":["rogol"],"rob":["rompak","sakar","sakau"],"robbery":["rompakan","samun","samun sakal"],"roti":["rotcai","roti canai","roti john"],"rash":["ruam"],"rubidium":["rubidium"],"reconcile":["rujuk"],"restore":["rujuk"],"reference":["rujukan"],"rukun":["rukun negara"],"rome":["rum","rumi"],"reindeer":["rusa kutub"],"russia":["rusia","rusyiya"],"revolt":["rusuhan"],"rusia":["rusyiya"],"ruthenium":["rutenium"],"rutherfordium":["ruterfordium"],"rang":["ruu"],"roast":["sangai"],"reduplication":["sangat-sangat"],"regale":["santap"],"roundish":["sebiji"],"rectangle":["segiempat tepat"],"ram":["segok"],"reckless":["semberono"],"regularly":["sering"],"rented":["sewa"],"residue":["sisa"],"remains":["sisa"],"renowned":["sohor"],"reversed":["songsang"],"role":["suri teladan"],"recede":["susut"],"reciting":["tadarus"],"rope":["tali"],"responsibility":["tanggungjawab"],"repent":["taubat"],"reed":["teberau"],"redeem":["tebus"],"ransom":["tebus"],"red-headed":["tedung ranggas"],"resolute":["tegas"],"riddle":["teka-teki"],"resolve":["tekad"],"remote":["tempat jin buang anak","terpencil"],"raindrops":["tempias"],"rowdy":["tenar"],"riotous":["tenar"],"regarding":["tentang","terhadap"],"rapi":["terapi"],"released":["terlepas"],"reef":["terumbu karang","tukun"],"rat":["tikus"],"reaction":["tindak balas"],"reside":["tinggal"],"rook":["tir"],"retailer":["toko"],"rubbish":["tong sampah"],"rib":["tulang rusuk"],"rodent":["tupai belang","tupai kecil"],"rodents":["tupai terbang"],"repeat":["ulang"],"rite":["upacara"],"representative":["wakil"],"repairing":["woksyop"]}}
+rabbit	arnab|n,kucing belanda|n,kucing tapai|n
+rabu	arbaa
+raccoon	anjing rakun|n
+race	bangsa|n,lumba|n,lumba lari|n,ras|n
+racer	pelumba|n
+racial	diskriminasi kaum|n,diskriminasi ras|n
+racism	rasisme|n
+racist	rasis|adj
+racket	raket|n
+radio	radio|n
+radiometer	radiometer|n
+radish	lobak|n
+radium	radium|n
+radon	radon|n
+raft	rakit|n
+rafter	kasau|n
+rag	lap|n
+rain	hujan|n,hujan asid|n,mendung|n
+rainbow	balingkawat|n,bangun-bangun|n,benang raja|n,bianglala|n,ganu|n,gegana|n
+raincoat	baju hujan|n
+raindrops	tempias|n
+rainforest	hutan hujan|n
+rainstorm	hujan ribut|n
+rainy	musim hujan|n
+raise	angkat|v,julang|v,menjulang|v,naikkan|v
+raised	panggau|n
+raisin	kismis|n,zabib|n
+raja	raja-raja
+rajab	rejab
+rakyat	grs
+rakyatkan	dirakyatkan|v,merakyatkan|v
+ram	segok|v
+ramadan	ramadhan
+rambutan	moktan|n,rambutan|n
+ramie	rami|n
+rampart	berkota|v,berkotakan|v,mengotakan|v
+rampok	dirampok|v,merampok|v
+rancid	basi|adj,pedar|adj,perat|adj
+random	acak|adj,rawak|adj
+randomly	acak-acakan|adv,mengacak|v
+rang	ruu|n
+range	julat|n
+rank	darjah|n,pangkat|n
+ransack	barek|v
+ransom	tebus|v
+rape	rogol|n
+rapi	terapi|adj
+rapid	cepat|adj,lrt
+rash	ruam|n
+rasuahi	dirasuahi|v,merasuahi|v
+rat	tikus|n
+rate	kadar|n,kepecutan|n
+rather	agak|adv
+rating	penilaian|n
+ratio	kadar|n,nisbah|n
+ration	bekal|n
+rational	rasional|adj
+ratoon	pucuk|n
+rattan	lampit|n,rotan|n,siring|n,takraw|n
+raw	bakal|n,mentah|adj,ulam|n
+ray	pari|n,pari bendera|n,pari burung|n,pari kaluk|n,pari karan|n,pari kelawar|n
+raya	hari raya haji,hari raya korban,hari raya puasa,pru
+razor	pisau cukur|n
+rd	keadaannya|n
+reach	jangkau|v,tuju|v
+reaction	tindak balas|n
+read	baca|v,buta huruf|adj,membaca|v
+reader	pembaca|n
+reading	bacaan|n
+ready	reda|adj,siap|adj,tunai|adj
+real	hartanah|n,realiti|n,sejati|adj,sungguh|adj
+reality	realiti|n,realiti maya|n
+really	benar|adj,memang|adv
+realm	darul|n
+rear	buntut|n,mudi|n,pelihara|v,punggung|n
+reason	akal|n,alasan|n,kenapa|adv,sebab|conj
+reasonable	keraguan munasabah|n,masuk akal|adj
+rebel	pemberontak|n
+rebound	bingkas|v,lenting|v
+recede	susut|v
+receive	menerima|v,tadah|v,terima|v
+receiving	pencen|adj
+recently	baru|adj
+recess	masa rehat|n,relung|n
+recipe	resipi|n
+recitation	pengajian|n,pengucapan|n
+reciting	tadarus|n
+reckless	semberono|adj
+reckoning	perhitungan|n
+recognise	cam|v
+recognition	itulah tu
+recollection	kenangan|n
+recommendation	perakuan|n,syor|n
+reconcile	rujuk|v
+record	rakam|v,untuk rekod
+recording	rakaman|n
+recovery	pemulihan|n
+recreation	rekreasi|n
+recreational	dadah|n
+recreations	berekreasi|v
+rectangle	segiempat tepat|n
+rectify	membetulkan|v
+red	anjing pandan|n,bendera merah|n,berma|adj,bulan sabit merah,laut kulzum,laut merah
+red-headed	tedung ranggas|n
+redeem	tebus|v
+reducing	agen penurunan|n
+reduplication	sangat-sangat|adv
+reed	teberau|n
+reef	terumbu karang|n,tukun|n
+refer	budak baru nak up|n
+reference	rujukan|n
+refinery	penapisan|n
+refining	penapisan|n
+reflection	renungan|n
+reforestation	penghutanan semula|n
+reform	baharui|v,pembaharu|n,pembaharuan|n,reformasi|v,reformasi agraria|n,reformasi pendidikan|n
+reformasi	direformasi|v,mereformasi|v
+reformation	pembaharuan|n
+reformist	reformis|n
+refrigerator	lemari es|n,peti air batu|n,peti ais|n,peti sejuk|n
+regale	santap|v
+regard	peri|n
+regarding	tentang|prep,terhadap|prep
+regardless	nenda|n,tanpa mengira|prep
+regas	diregas|v,meregas|v
+regat	diregat|v,meregat|v
+regatta	regata|n
+rege	reggae|n
+regency	kabupaten|n
+regent	bupati|n
+regime	rejim|n
+regiment	rejimen|n
+region	kedaerahan|adj,rantau|n,seringat
+register	daftar|n
+regret	menyesal|v,menyesali|v,sesal|n,sesalan|n,sesali|v
+regretfulness	kesesalan|n
+regretting	penyesalan|n
+regular	langgan|v
+regularly	sering|adv
+rehearsal	raptai|n
+reindeer	rusa kutub|n
+reject	buang|v
+rejimen	ramd
+relating	automotif|adj,bandaran|adj,jelata|adj,kebenuaan|adj,kehutanan|n,keislaman|adj
+relation	perhubungan|n,perkaitan|n
+relations	kekitaan|adj
+relationship	hubungan|n
+relative	kerelatifan|n
+relativity	relativiti|n
+relax	rilek|v
+relaxes	rehat|n
+released	terlepas|v
+relevant	relevan|adj
+reliability	keandalan|n
+reliable	andal|adj,handal|adj
+relieved	lega|adj
+religion	agama|n,din|n,syinto,taifah|n
+religious	penunggang agama|n
+reload	muat semula|v
+reluctant	enggan|adv,liat|adj,segan|adj
+remain	geming|v,membisu|v
+remainder	lebih|adv,selebih|n,selebihnya|pron
+remaining	lestari|adj
+remains	sisa|n
+remark	perasan|v
+remember	ingat|v
+remembrance	kenangan|n
+reminder	ikhtiyat|n
+remnant	ketinggalan|n
+remote	tempat jin buang anak|n,terpencil|adj
+removal	ablasi|n,penanggalan|n
+remove	kikis|v,nyahfros|v
+rennet	renet|n
+renowned	sohor|adj
+rent	menyewa|v
+rented	sewa|adj
+renter	penyewa|n
+renung	merenungi|v
+repair	baharui|v
+repairing	woksyop|n
+repeat	ulang|v
+repeated	meraba-raba|v
+repeatedly	mengacah-acah|v,tertoleh-toleh|v,tikam-tikam|v
+repent	taubat|v
+repet	repek|v
+replace	ganti|v,salin|v
+reply	balas|v,jawab|v,sahut|v
+report	lapor|n
+reportedly	konon|adv,kononnya|adv
+represent	merupakan|v
+representation	kahkah
+representative	wakil|n
+reprobate	laknatullah|n
+reproduction	pembiakan|n
+republic	republik|n,republik afrika tengah,republik congo,republik czech,republik dominika,republik rakyat china
+republicanism	republikanisme|n
+republik	repablik|n
+request	minta|v,mohon|v,pinta|n,tarik balik|v
+research	penyelidikan|n
+resembling	kekotaan|adj,laksana|prep
+reserve	rizab|n,tempah|v
+reside	tinggal|v
+residen	residen|n
+residence	graha|n,pesanggerahan|n
+residency	kedudukan|n
+resident	penduduk|n
+residents	kariah|n
+residue	sisa|n
+resin	damar|n
+resolute	tegas|adj
+resolution	azam|n,leraian|n,resolusi|n
+resolve	tekad|n
+respectful	hormat|adj
+respective	masing|det,masing-masing|adj
+respiration	nafas|n
+respond	balas|v,sahut|v
+response	balasan|n,waalaikumussalam
+responsibility	tanggungjawab|n
+responsible	berwajib|v,jamin|v
+rest	beradu|v,berehat|v,beristirahat|v,istirahat|n,jeda|v,kawasan rehat|n
+restaurant	mekdi,restoran|n
+resthouse	peristirahatan|n,pesanggerahan|n,rumah rehat|n
+resting	bilik rehat|n
+restless	belisah|adj,resah|adj
+restoration	restorasi|n
+restore	rujuk|v
+restriction	batas|n,sekatan|n
+restroom	bilik air|n
+result	akibat|n,petikan|n
+resume	lanjutkan|v,menyambung|v
+retailer	toko|n
+retarded	oku|adj
+retreat	khalwat|n,undur|v
+return	kembali|v,mengembalikan|v,pulang|v
+returning	balik kampung|n
+revenge	balas dendam|v
+reverence	bakti|n
+reverie	lamunan|n
+reverse	gostan|v
+reversed	songsang|adj
+revolt	rusuhan|n
+revolution	pemberontakan|n,revolusi|n
+revolve	edar|v
+reward	habuan|n,pahala|n
+rhenium	renium|n
+rhinoceros	badak|n
+rhinology	rinologi|n
+rhinoptera	pari bendera|n
+rhodium	rodium|n
+rhythm	rentak|n,ritma|n
+rial	rial|n
+rib	tulang rusuk|n
+rice	bendang|n,bepang|n,beras|n,bertih|n,bihun|n,huma|n
+rice-based	lauk|n
+rich	berada|adj,kaya|adj,kaya raya|adj,mampu|adj
+rickshaw	beca|n,lancia|n
+riddle	teka-teki|n
+ride	berbasikal|v,berkuda|v,tumpang|v
+ridge	permatang|n
+ridicule	bergarah|v,mengatai|v
+riding	pelarian|n
+ridzuan	ridzuan
+rig	abah-abah|n,pelantar|n
+rigging	laberang|n
+right	adil|adj,baiklah|int,hak|n,hak asasi manusia|n,kanan|n,padan muka
+rights	berhak|adj
+rim	pinggir|n
+ring	cincin|n,jari manis|n
+ringgit	hingget,ringgit|n,ringgit malaysia
+ringworm	kurap|n
+rinse	bilas|v
+riot	kerusuhan|n,rusuhan|n
+riotous	tenar|adj
+rip	bertas|v
+ripple	kocak|v
+ris	pasir ris
+rise	angkatan|n,terbit|v
+risk	risiko|n
+rite	upacara|n
+ritual	air sembahyang|n,istiadat|n,upacara|n
+river	alur|n,bengawan|n,ci|n,liku|n,slim river,sungai|n
+road	jalan|n,jalan raya|n,jalan tol|n,liku|n
+roadshow	jerayawara|n
+roast	sangai|v
+rob	rompak|v,sakar|v,sakau|v
+robbed	kesamunan|v,samunan|n
+robber	penyamun|n,perompak|n
+robbers	rampok|n
+robbery	rompakan|n,samun|n,samun sakal|n
+robbing	penyamunan|n,perompakan|n
+rock	ayun|v,batuan|n,cenuram|n,mat rok|n
+rocket	cerawat|n,roket|n
+rod	bawar|n,pancing|n
+rodent	tupai belang|n,tupai kecil|n
+rodents	tupai terbang|n
+roentgenium	roentgenium|n
+role	suri teladan|n
+roll	guling|v,gulung|v,gulungan|n,popia|n
+romanise	merumikan|v
+romanization	perumian|n
+romantic	mat bunga|n
+rome	rum,rumi|adj
+rompak	dirompak|v,merompak|v
+roof	atap|n,bumbung|n
+rook	tir|n
+room	bilik|n,bilik acu|n,bilik persalinan|n,bilik rehat|n,galeri|n,gimnasium|n
+roomy	lapang|adj
+rooster	jaguh|n
+root	akar|n,keladi|n
+roots	akar umbi|n
+rope	tali|n
+ropes	abah-abah|n
+rose	jambu|n,mawar|n
+rosewater	air mawar|n
+roti	rotcai|n,roti canai|n,roti john|n
+rotten	buruk|adj,hangit|adj
+rough	kasar|adj
+roughly	hitung-hitung|v
+round	bebola|n,belon|n,bulat|adj,bundar|adj,bundaran|n,capah|n
+rounded	kopiah|n
+roundish	sebiji|num
+rouse	gera|v
+route	laluan|n
+row	banjar|n,baris|n,beciyau|v,deret|cls,kawad|n,nirai|n
+rowdy	tenar|adj
+royal	bera|n,bukit aman,diraja|adj,hormat diraja|n,jempana|n,keluarga diraja|n
+royalty	pekerma|n
+rub	gesek|v,gosok|v,menggosok|v
+rubber	karet|n,pemadam|n
+rubbish	tong sampah|n
+rubidium	rubidium|n
+rudder	mudi|n
+rug	babut|n
+rugby	ragbi|n
+ruin	laknat|n
+ruined	binasa|adj
+ruinous	melarat|adj
+rukun	rukun negara
+ruled	baka|adj
+rules	peraturan|n
+ruling	parti kerajaan|n,parti pemerintah|n
+rumah	krt|n,ribi
+ruminant	domba|n
+rumour	angin-angin|n,khabar angin|n
+run	abrit-abritan|v,amuk|v,cabut|v,dampak|v,lama-lama|adv,langgar lari|n
+rungut	merungut|v
+running	lumba lari|n
+runs	kong|adj
+runut	dirunut|v,merunut|v,runuti|v
+runuti	dirunuti|v,merunuti|v
+rush	luru|v,meluru|v,terpa|v
+rushing	derau|v
+rusia	rusyiya
+russia	rusia,rusyiya
+russian	anjing serigala rusia|n
+rust	karat|n,tegagh|n
+rusting	pengaratan|n
+rusuk	dirusuk|v,merusuk|v
+ruthenium	rutenium|n
+rutherfordium	ruterfordium|n
+rye	rai|n

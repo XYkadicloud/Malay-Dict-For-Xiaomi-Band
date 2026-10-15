@@ -1,0 +1,2 @@
+sm	sm	adv	理科硕士\n[计]；仿真器
+smk	smk	n	词首字母缩略词

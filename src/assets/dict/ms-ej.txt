@@ -1,0 +1,6 @@
+eja	eja	v	拼字， ，拼写	to spell
+ejaan	ejaan	n	拼字，拼写法	spelling
+ejaanbaru	ejaan baru		新 法
+ejaanjawi	ejaan jawi		爪威文 法
+ejek	ejek	v	嘲笑，讥笑，嘲弄，愚弄	to insult  to mock  to make fun of
+ejen	ejen	n	代理商	agent (person)

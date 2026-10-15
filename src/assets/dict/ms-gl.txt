@@ -1,0 +1,4 @@
+glob	glob	n	地球，环球	A globe (spherical model of Earth).
+globalisasi	globalisasi	n	全球化	globalisation
+globalisme	globalisme	n	全球主义	globalism
+glukos	glukos		葡萄糖

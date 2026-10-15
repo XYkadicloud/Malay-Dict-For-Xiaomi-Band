@@ -1,0 +1,403 @@
+价	abus|adj,andau|adv,baloi|n,berharga,bernilai,berpayu,bubuh harga,daftar harga
+价值	baloi|n,faedah|n,nilai,payu|n,abus|adj,andau|adv,berharga,bernilai
+价值的	abus|adj,andau|adv,mati katak
+价值的死	mati katak
+价值的死去	mati katak
+价格	harga|n,kos|n,nilai,payu|n,rega|n,daftar harga
+价格表	daftar harga
+价电	petala valens|n
+价电子	petala valens|n
+价电子层	petala valens|n
+价目	daftar harga
+价目表	daftar harga
+价还	berpayu
+价还价	berpayu
+偷	curi|v,bokong,cepat tangan,culik|v,curi tulang|v,curi-curi|adv,curian|adj,intai
+偷东	cepat tangan,panjang tangan|adj
+偷东西	cepat tangan,panjang tangan|adj
+偷东西的	cepat tangan,panjang tangan|adj
+偷东西的怪	cepat tangan
+偷东西的怪癖	cepat tangan
+偷偷	bokong,curi-curi|adv
+偷偷地	bokong,curi-curi|adv
+偷击	bokong,membokong
+偷地	bokong,curi-curi|adv
+偷懒	curi tulang|v,lesau
+偷盗	sobok
+偷看	intai,intip|v,mengintai,mat skodeng|n
+偷看的	mat skodeng|n
+偷看的人	mat skodeng|n
+偷窃	curian|adj
+偷窃的	curian|adj
+偷走	culik|v
+具	alat|n,alat perkakas,alat tulis|n,alatan|n,alatulis,aring,batang pelir,butuh|n
+具体	konkrit|adj
+具体的	konkrit|adj
+具有	mata jahat|n
+具有目	mata jahat|n
+具有目视	mata jahat|n
+具有目视他	mata jahat|n
+具有目视他人	mata jahat|n
+具有目视他人而	mata jahat|n
+具有目视他人而使	mata jahat|n
+具有目视他人而使之	mata jahat|n
+具有目视他人而使之遭	mata jahat|n
+具有目视他人而使之遭殃	mata jahat|n
+具有目视他人而使之遭殃的	mata jahat|n
+具有目视他人而使之遭殃的能	mata jahat|n
+具有目视他人而使之遭殃的能力	mata jahat|n
+卷	belit|v,gelung|n,guling|v,gulung|v,gulungan|n,jilid,kerul,kupon|n
+卷尾	cawi-cawi|n
+卷心	kubis|n
+卷心菜	kubis|n
+卷折	lepet
+卷曲	lingkar|cls,ikal
+卷曲的	ikal
+卷的	kelum
+卷缩	ikal,mengkerit,sengkokol
+卷袖	pesa
+卷起	kerumuk,menyingsing,singsat,sinting,sisil,gulung|v
+卷起来	gulung|v
+卷逃	kongkalikung
+号	megat,banji|n,bohrium|n,cogan kata|n,gawar,gelar|n,gelaran,hang|pron
+号元	bohrium|n
+号元素	bohrium|n
+号元素的	bohrium|n
+号元素的命	bohrium|n
+号元素的命名	bohrium|n
+号叫	kedau
+号召	seruan
+号数	nombor|n
+号标	tanda pagar|n
+号标签	tanda pagar|n
+号码	nombor|n,sifir
+呷	menguik
+呷叫	menguik
+呷呷	menguik
+呷呷叫	menguik
+啷	dering
+啷啷	dering
+啷啷声	dering
+啷声	dering
+廷	bahasa dalam
+廷用	bahasa dalam
+廷用语	bahasa dalam
+彷	senteri|n
+彷徨	senteri|n
+彷徨者	senteri|n
+慷	murah hati,pemurah
+慷慨	murah hati,pemurah
+慷慨的	murah hati
+慷慨者	pemurah
+拷	sembat
+拷问	sembat
+捷	akas,gancang,jeraus,langkas,lekas|adv,lincah,melintas,republik czech
+捷克	republik czech
+捷克共	republik czech
+捷克共和	republik czech
+捷克共和国	republik czech
+捷径	melintas
+捷的	gancang,jeraus,langkas,lekas|adv
+敷	calit ubat,lesau,memupuk,pelapik
+敷物	pelapik
+敷药	calit ubat,memupuk
+敷衍	lesau
+敷衍塞	lesau
+敷衍塞责	lesau
+旷	lapang|adj
+杷	puting|n
+桷	kasau|n
+海	butun|n,butung|n,laut|n,admiral,air laut|n,alit,ampai-ampai,andam|v
+海一	sangat kecil
+海一粟	sangat kecil
+海上	bairup,rompak|v
+海上浮	bairup
+海上浮标	bairup
+海上行	rompak|v
+海上行劫	rompak|v
+海中	terucuk
+海中木	terucuk
+海中木柱	terucuk
+海军	tentera laut|n,admiral,laksamana|n,lapan puluh empat|num,pangkalan tentera laut|n
+海军上	admiral
+海军上将	admiral
+海军大	laksamana|n
+海军大将	laksamana|n
+海军的	pangkalan tentera laut|n
+海军监	lapan puluh empat|num
+海军监狱	lapan puluh empat|num
+海参	beronok,mintuna|n,teripang|n,timun laut|n
+海口	kuala|n,muara|n
+海啸	tsunami|n
+海岸	darat|n,rantau|n,tepi laut
+海峡	selat|n
+海市	logamaya|n
+海市蜃	logamaya|n
+海市蜃楼	logamaya|n
+海底	dasar
+海星	bintang laut|n,tapak sulaiman|n
+海水	air laut|n
+海洋	jeladeri|n,lautan|n,samudera|n,segara|n,selebu
+海洛	heroin
+海洛英	heroin
+海浪	berselancar|v
+海港	pelabuhan|n
+海滨	pesisir|n
+海滩	kukup,mendamparkan,pantai|n,pesisir|n
+海燕	alit
+海牛	babi duyung|n
+海王	neptun
+海王星	neptun
+海番	itik kumbang|n
+海番鸭	itik kumbang|n
+海的	baruh|n
+海的低	baruh|n
+海的低地	baruh|n
+海盗	lanun|n
+海绵	bunga karang|n
+海胆	babi laut,landak laut|n
+海草	rumpai laut|n
+海菜	sangu
+海葵	buran|n
+海藻	rumpair
+海蛰	ampai-ampai
+海角	hujung tanah
+海豚	dolfin|n,duyung|n,lumba-lumba|n
+海贝	tepeh,unam,lala|n,sinting
+海贝名	lala|n,sinting
+海边	bakau|n
+海边的	bakau|n
+海边的红	bakau|n
+海边的红木	bakau|n
+海运	perkapalan
+海里	membayang|v
+海马	kuda laut|n
+海鱼	belida,dingkis,senohong
+海鱼名	senohong
+海鱼的	dingkis
+海鱼的一	dingkis
+海鱼的一种	dingkis
+海鲈	kerapu|n,semaram
+海鲷	ungar
+海鸥	simbang
+海龟	penyu|n
+混	aduk,anjing pandan|n,bancuh|v,bancuhan,baur,bercampur,campur|v,campur aduk
+混乱	haru,hiru-hara,kacau,kacau-bilau,kebingungan|n,morat-marit,orak-arik,porak-parik
+混乱的	kalut,kecah,kecah-becah
+混入	baur,campur baur
+混合	bancuh|v,bercampur,campur|v,gaul,integrasi,membancuh,mencampur,mesra|adj
+混合废	anjing pandan|n
+混合废料	anjing pandan|n
+混合物	bancuhan,campuran
+混合金	pancalogam
+混和	kincau
+混在	campur aduk
+混在一	campur aduk
+混在一起	campur aduk
+混拌	randau
+混杂	aduk,bancuh|v,galau,gaul,membancuh,ulak,kacukan|n,rampai
+混杂的	kacukan|n,rampai
+混浊	gelodar
+混浊的	gelodar
+混种	samsam
+混种人	samsam
+混织	misru
+混织布	misru
+混蛋	pukimak
+混血	pisang raja|n
+混血儿	pisang raja|n
+烷	petrol|n
+烷基	petrol|n
+烷基化	petrol|n
+烷基化等	petrol|n
+烷基化等處	petrol|n
+烷基化等處理	petrol|n
+烷基化等處理而	petrol|n
+瓷	enamel,guci,liat|adj,pinggan mangkuk,porselin|n,seramik|n
+瓷制	seramik|n
+瓷制品	seramik|n
+瓷器	porselin|n,pinggan mangkuk
+瓷土	liat|adj
+瓷壶	guci
+瓷的	seramik|n
+磷	kinar|n,pendar|n,pendarfosfor|adj,zink fosfida|n
+磷光	kinar|n,pendar|n,pendarfosfor|adj
+磷光性	pendar|n
+磷光的	pendarfosfor|adj
+磷化	zink fosfida|n
+磷化锌	zink fosfida|n
+祷	aktusembahyang,astaghfirullah,azan|n,baca doa,bang|n,berdoa,bersembahyang|v,bilal|n
+祷之	azan|n
+祷之呼	azan|n
+祷之呼声	azan|n
+祷召	bilal|n
+祷召唤	bilal|n
+祷召唤人	bilal|n
+祷告	kaul|n,modin
+祷告时	modin
+祷告时间	modin
+祷告时间报	modin
+祷告时间报告	modin
+祷告时间报告人	modin
+祷用	telekung
+祷用之	telekung
+祷用之面	telekung
+祷用之面幕	telekung
+祷的	aktusembahyang,bang|n
+祷的召	bang|n
+祷的召唤	bang|n
+祷的时	aktusembahyang
+祷的时间	aktusembahyang
+穷	fakir,kemiskinan|n,miskin|adj
+穷的	fakir
+穷的人	fakir
+筷	penyepit|n
+筷子	penyepit|n
+篷	kajang|n,paldu
+绷	barut,membebat,mewek,pembalut
+绷带	barut,membebat,pembalut
+绷脸	mewek
+绷脸欲	mewek
+绷脸欲苦	mewek
+荷	afrikaans,belanda|adj,buncis|n,dompet|n,galas,holanda,kacang buncis,poho|n
+荷兰	holanda,wolanda,afrikaans,belanda|adj,buncis|n,kacang buncis
+荷兰人	belanda|adj
+荷兰语	afrikaans
+荷兰豆	buncis|n,kacang buncis
+荷包	dompet|n,pundi-pundi|n
+荷挂	selepang
+荷挂于	selepang
+荷挂于肩	selepang
+荷挂于肩上	selepang
+荷的	sarat
+衷	kelalaian
+请	jemput|v,sila,tolong|v,ajak|n,ajakan,bermohon|v,borang permintaan,cari pasal|v
+请书	permintaan,permohonan
+请便	ratah
+请便饭	ratah
+请假	pamit diri
+请准	bermohon|v
+请原	maafkan saya|int,minta ampun
+请原谅	minta ampun,maafkan saya|int
+请原谅我	maafkan saya|int
+请客	menjamu
+请宴	sogok
+请宴贿	sogok
+请宴贿赂	sogok
+请愿	petisyen|n,rayuan|n,pempetisyen|n
+请愿人	pempetisyen|n
+请柬	surat jemputan,undangan
+请求	cari pasal|v,ledat,meminta|v,memohon,minta|v,mohon|v,pinta|n
+请表	borang permintaan
+请表格	borang permintaan
+请锐	nyaring
+请锐的	nyaring
+起	keriting,membongkar,acung,alun|n,ambul,angkat|v,apung|v,asal|n
+起之	mengumpil,umpil
+起亏	rahu
+起亏蚀	rahu
+起亏蚀的	rahu
+起亏蚀的巨	rahu
+起亏蚀的巨龙	rahu
+起价	naik harga
+起伏	alun|n,bergelombang,ranggul,unggit
+起初	pangkal|n,julung
+起初的	julung
+起功	mati pucuk|n
+起功能	mati pucuk|n
+起功能障	mati pucuk|n
+起功能障碍	mati pucuk|n
+起卸	bongkar,memunggah
+起头	mendongak
+起床	bangkit,bangun|v
+起怀	mencurigakan|adj
+起怀疑	mencurigakan|adj
+起扛	gotong
+起敬	gempak|adj
+起敬畏	gempak|adj
+起敬畏的	gempak|adj
+起来	bangkit,gulung|v,menghidupkan|v,menyembunyikan,pekau,tonggok
+起水	lepuh,melepuh
+起水泡	lepuh,melepuh
+起泡	berbuih,gelegak,gelogok,lecur,locot,melecur,menggelegak,reneh
+起泡沫	berbusa
+起源	asal|n,asal usul|n,asalnya,pangkal|n,sedaerah|adj
+起点	paduk
+起的	bintil,jerembun,panggau|n,sempal
+起的小	bintil
+起的小红	bintil
+起的小红点	bintil
+起皱	kelambur,kerepot,berketak-ketak,gumal,ketak
+起皱的	berketak-ketak,gumal,ketak
+起码	robok
+起程	berangkat|v
+起草	rang
+起誓	berikrar
+起诉	dakwa|n,gugat
+起货	punggah
+起飞	menerbangkan
+起首	lagang
+跷	jongkang-jongkit
+跷板	jongkang-jongkit
+跷跷	jongkang-jongkit
+跷跷板	jongkang-jongkit
+迷	anjing ajak|n,anjing geladak|n,bingung|adj,bius,gila|adj,guna-guna,igau,juita
+迷乱	igau,mengigau
+迷乱说	igau,mengigau
+迷人	molek,juita
+迷人的	juita
+迷住	tawan|v,terpesona
+迷失	nyasar,sesat|adj,terbabas
+迷失方	terbabas
+迷失方向	terbabas
+迷宫	pagar sesat|n
+迷恋	gila|adj
+迷恋的	gila|adj
+迷惑	bingung|adj,kekeliruan|n,keliru|adj,setu,membingungkan
+迷的	obsesif|adj,selap
+迷药	pukau|n,ubat bius
+迷藏	kejar-kejaran
+迷路	pergi mampus|v,tersasar,anjing ajak|n,anjing geladak|n
+迷路的	anjing ajak|n,anjing geladak|n
+迷路的狗	anjing ajak|n,anjing geladak|n
+迷途	nyasar,sesat|adj
+迷魂	guna-guna
+迷魂药	guna-guna
+酷	keganasan|n,kejam|v,kekejaman|n,lalim
+酷的	kejam|v,lalim
+酷行	keganasan|n
+酷行为	keganasan|n
+铷	rubidium|n
+闷	kuap|v,kuyu,lemas|adj,memek,memeram,memuramkan,risau|v,sekap
+闷死	lemas|adj
+闷热	memeram,sekap,kuap|v
+闷热的	kuap|v
+闷的	memek,memuramkan
+陷	cacat|n,cedera,ceduk,cengkung,gaet,jerat,leding,lekung
+陷下	leding
+陷入	lembang,perlus,perosok,puruk,terperlus,terperosok,terpuruk,terkurung|adj
+陷入困	terkurung|adj
+陷入困境	terkurung|adj
+陷入困境的	terkurung|adj
+陷埋	lepur
+陷的	ceduk,cengkung,lekung,lesut
+陷落	perlus,terjun|v,terperlus
+陷阱	gaet,jerat,perangkap|n,racik,ranjau|n,rembat,serling,terperangkap
+雷	guntur|n,guruh|n,petir,ahera,bergemuruh,dayu,gegak|adj,gemuruh
+雷动	gegak|adj
+雷动的	gegak|adj
+雷声	gemuruh,guruh-gemuruh
+雷声一	gemuruh
+雷声一样	gemuruh
+雷声一样响	gemuruh
+雷声一样响亮	gemuruh
+雷声隆	guruh-gemuruh
+雷声隆隆	guruh-gemuruh
+雷暴	ribut petir|n
+雷暴雨	ribut petir|n
+雷电	ahera
+雷达	radar
+雷鸣	dayu,guntur|n,petir,bergemuruh,mendayu
+雷鸣声	mendayu
+雷鸣的	bergemuruh
+饷	pelabur|n

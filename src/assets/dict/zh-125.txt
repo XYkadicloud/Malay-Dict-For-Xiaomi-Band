@@ -1,0 +1,382 @@
+份	ahlak,benyai,cendekiawan|n,ekstremis|n,habuan|n,hina mulianya,identiti|n,jabat
+份公	syarikat|n
+份公司	syarikat|n
+份子	cendekiawan|n,ekstremis|n
+份工	jabat
+份工作	jabat
+份过	benyai
+份过多	benyai
+份过多的	benyai
+偽	penyamaran|n
+偽裝	penyamaran|n
+兽	haiwan|n,belantik,binatang liar,celung,denak,induk|n,kebinatangan|n,mergastua
+兽喝	sesapan
+兽喝水	sesapan
+兽喝水之	sesapan
+兽喝水之处	sesapan
+兽性	kebinatangan|n
+兽用	belantik,denak
+兽用之	belantik
+兽用之有	belantik
+兽用之有弹	belantik
+兽用之有弹性	belantik
+兽用之有弹性捕	belantik
+兽用之有弹性捕器	belantik
+兽用的	denak
+兽用的小	denak
+兽用的小动	denak
+兽用的小动物	denak
+兽笼	celung
+兽行	kebinatangan|n
+兽轭	celung
+函	e-mel|n
+剽	mengabuk|v,plagiarisme|n,plagiat|n
+剽窃	mengabuk|v,plagiarisme|n,plagiat|n
+叽	kumat-kumit
+叽咕	kumat-kumit
+命	abui|v,ajal|n,ardi|n,banting tulang,berjiwa,bernyawa,bohrium|n,direksi
+命之	puspajuita,selera|n
+命之意	selera|n
+命之意义	selera|n
+命之花	puspajuita
+命令	abui|v,ardi|n,direksi,firman,imperatif|adj,memerintah,menyuruh,perintah|n
+命令工	kerah|n
+命令工作	kerah|n
+命力	vitaliti
+命名	menamai,menamakan,bohrium|n
+命呜	jiwa melayang
+命呜呼	jiwa melayang
+命工	banting tulang,tubi
+命工作	banting tulang,tubi
+命所	vital
+命所需	vital
+命所需的	vital
+命的	berjiwa,bernyawa,santau|n,sungguh-sungguh
+命运	nasib|n,pinta|n,untung|n,untung besar,mortaliti|n
+哽	tersedak,isak,sedan
+哽咽	isak,sedan
+嗽	batuk|v,belahak,membelahak,terbelahak
+国	aji|n,amerika syarikat,anak buah|n,anak negeri,ang mo kio,anjing serigala rusia|n,arganegara,asing|adj
+国主	cauvinisme|n,imperialis,imperialisme,zionis|n,zionisme|n
+国主义	cauvinisme|n,imperialis,imperialisme,zionis|n,zionisme|n
+国主义者	imperialis,zionis|n
+国主义者的	zionis|n
+国之	isi negeri
+国之居	isi negeri
+国之居民	isi negeri
+国人	makhluk asing|n,mendonan,musafir,orang asing,xenofobia|n
+国会	parlimen|n,senat
+国制	belati|n
+国制的	belati|n
+国化	menghaknegarakan
+国原	rukunegara
+国原则	rukunegara
+国家	balad|n,negara|n,negara dolar|n,zamin|n,dasar negeri,kebangsaan|n,nasional|adj,nasionalistik|adj
+国家主	nasionalistik|adj
+国家主义	nasionalistik|adj
+国家主义的	nasionalistik|adj
+国家宪	dasar negeri
+国家宪法	dasar negeri
+国家的	kebangsaan|n,nasional|adj,sekolah kebangsaan|n
+国庆	hari kebangsaan
+国庆日	hari kebangsaan
+国性	keamerikaan|n
+国或	at
+国或佛	at
+国或佛教	at
+国或佛教寺	at
+国或佛教寺院	at
+国新	singkek|n
+国新来	singkek|n
+国新来的	singkek|n
+国新来的华	singkek|n
+国新来的华侨	singkek|n
+国有	miliknegara,nasionalisasi|n
+国有化	miliknegara,nasionalisasi|n
+国民	anak buah|n,anak negeri,arganegara,bumiputera|n,isi negeri,ang mo kio
+国民警	ang mo kio
+国民警卫	ang mo kio
+国民警卫队	ang mo kio
+国狼	anjing serigala rusia|n,borzoi|n
+国狼狗	anjing serigala rusia|n,borzoi|n
+国王	aji|n,datu|n,malik,muluk,syah|n,takhta rawan|n
+国的	asing|adj,perancis,wataniah
+国籍	kewarganegaraan|n
+国者	patriot
+国花	bunga raya|n
+国营	miliknegara
+国论	teknokrat|n
+国论者	teknokrat|n
+国语	bahasa ibunda|n
+国语言	bahasa ibunda|n
+国贼	penderhaka
+国防	kementerian pertahanan
+国防部	kementerian pertahanan
+国际	buah catur|n,internasional,pasport internasional,sejagat
+国际护	pasport internasional
+国际护照	pasport internasional
+国际的	internasional,sejagat
+国际象	buah catur|n
+国际象棋	buah catur|n
+国际象棋棋	buah catur|n
+国际象棋棋子	buah catur|n
+好	baik|adj,bolehlah,kebagusan|n,okey,ya|int,akan-akan,amatur|adj,ambil hati
+好事	ihsan|n
+好些	berbilang
+好偷	mat skodeng|n,panjang tangan|adj
+好偷东	panjang tangan|adj
+好偷东西	panjang tangan|adj
+好偷东西的	panjang tangan|adj
+好偷看	mat skodeng|n
+好偷看的	mat skodeng|n
+好偷看的人	mat skodeng|n
+好像	akan-akan,bagaikan|prep,bak,ibarat,laksana|prep,sebagai|conj
+好几	beberapa tahun,berganda,berminggu-minggu,bertahun-tahun,lipat ganda
+好几个	berminggu-minggu
+好几个星	berminggu-minggu
+好几个星期	berminggu-minggu
+好几倍	lipat ganda,berganda
+好几倍的	berganda
+好几年	beberapa tahun,bertahun-tahun
+好吗	apa macam|adv,apa khabar|int
+好听	telinga lintah
+好听闲	telinga lintah
+好听闲话	telinga lintah
+好听闲话的	telinga lintah
+好处	guna|n,kebaikan|n,lumayan|adj
+好奇	melit
+好奇的	melit
+好成	sedang masak
+好成熟	sedang masak
+好战	militan|adj
+好战的	militan|adj
+好时	periang
+好时辰	periang
+好杯	kaki minum|n
+好杯中	kaki minum|n
+好杯中物	kaki minum|n
+好杯中物者	kaki minum|n
+好的	bagus|adj,baiklah|int,ia|pron,selamat makan,buruk|adj,elok|adj,petah lidah,terbaik|adj
+好看	hensem|adj
+好看的	hensem|adj
+好笑	lucu|adj,geli,geli hati,jenaka|n,membadut-badutkan|v
+好笑的	geli,geli hati,jenaka|n,membadut-badutkan|v
+好者	amatur|adj
+好色	miang|adj
+好色的	miang|adj
+好象	kelihatan|v,macam|n,nampaknya,penaka,rupakan,rupanya,seumpama,seolah-olah
+好象一	seolah-olah
+好象一样	seolah-olah
+好辩	cerewet
+好辩论	cerewet
+好辩论的	cerewet
+好运	bintangnya terang,kena loteri
+好运气	kena loteri
+好问	melit
+好问的	melit
+幽	gabak,humor,jenaka|n,jin,kejenakaan|n,khalwat|n,ngarai|n,orang halus
+幽会	khalwat|n
+幽暗	gabak,suram,temaram
+幽暗的	gabak,suram,temaram
+幽灵	jin,orang halus,pelesit,polong
+幽禁	pingit
+幽谷	ngarai|n
+幽默	humor,kejenakaan|n,jenaka|n
+幽默的	jenaka|n
+忽	abaikan|v,alpa|adj,bebar,cuai|adj,dadak,kelesa,keterabaian|v,lalai|adj
+忽去	bebar
+忽来	bebar
+忽来忽	bebar
+忽来忽去	bebar
+忽然	dadak
+忽略	melengahkan,mencuaikan
+忽的	cuai|adj,kelesa,lalai|adj,leler,lengah|adj,teledor
+忽视	keterabaian|v,terabai|v
+忽视的	keterabaian|v,terabai|v
+槽	kereta kebal|n,tangki|n,palung,sesapan,uring
+汽	automotif|adj,hon|n,koc|n,lancang,mat kereta|n,mobil,motobot,motokar
+汽油	petrol|n
+汽笛	peluit|n
+汽缸	silinder|n
+汽船	motobot
+汽艇	lancang
+汽车	mat kereta|n,mobil,motokar,otomobil|n,automotif|adj,hon|n,koc|n,perhentian bas|n
+汽车喇	hon|n
+汽车喇叭	hon|n
+汽车的	automotif|adj
+汽车站	perhentian bas|n
+泽	kabur|adj,kedung,lahar|n,lecah,lepan,maoisme|n,paya|n,rawa|n
+泽东	maoisme|n
+泽东主	maoisme|n
+泽东主义	maoisme|n
+泽地	paya|n
+泽的	kabur|adj,sebam
+烽	suar
+烽火	suar
+煽	mengipas,abet|n,aduk,agitasi|n,ajuk,gelitik,hasut,hasutan
+煽动	aduk,agitasi|n,ajuk,gelitik,hasut,hasutan,kecudang,menggalakkan
+煽动者	perghasut
+煽動	abet|n
+白	putih|adj,abjad|n,abun-abun|n,abyad|adj,aktusiang,albumen,anai-anai|n,angan-angan|n
+白午	senangin
+白午鱼	senangin
+白发	uban|n,beruban
+白发的	beruban
+白喉	difteria
+白垩	kapur tonor
+白天	aktusiang,siang|n
+白如	putih macam kapas
+白如棉	putih macam kapas
+白如棉花	putih macam kapas
+白无	lesi,pucat lesi
+白无血	lesi,pucat lesi
+白无血色	lesi,pucat lesi
+白日	abun-abun|n,angan-angan|n,mangut,melamun|v
+白日梦	abun-abun|n,angan-angan|n,mangut,melamun|v
+白木	gubal
+白木质	gubal
+白檀	pacai
+白檀香	pacai
+白檀香粉	pacai
+白洋	kain belacu
+白洋布	kain belacu
+白痴	natural|adj,sengal-sengal ubi|adj
+白痴的	sengal-sengal ubi|adj
+白的	metah,nyata|adj,pucat|adj,putih melepak,putih-metah,semerdanta,serlah,tegas|adj
+白粉	pupur|n
+白纱	kabung|n
+白纱带	kabung|n
+白羽	kelekatu,larun
+白羽蚁	kelekatu,larun
+白胸	ruak-ruak|n,wak-wak|n
+白脚	senggulung
+白脚虫	senggulung
+白脚虫类	senggulung
+白臀	tembadau|n
+白臀野	tembadau|n
+白臀野牛	tembadau|n
+白色	abjad|n,abyad|adj,anjing sabun|n,mat salih|n,mat salleh|n,orang putih|n,sita
+白色的	sita
+白芋	birah|n
+白菖	jerangau|n
+白蚁	anai-anai|n,rayap,semut putih,aragas,sentada
+白蚁一	sentada
+白蚁一种	sentada
+白蚁之	aragas
+白蚁之一	aragas
+白蚁之一种	aragas
+白蜡	tingkal|n
+白话	meriam buluh
+白质	hemoglobin,protin,zat telur
+白费	cangkul angin,jaring angin,sia-sia|adj
+白费气	cangkul angin,jaring angin
+白费气力	cangkul angin,jaring angin
+白费的	sia-sia|adj
+白金	emas putih,platinum|n
+白铁	kaleng|n
+白鱼	selangat,ikan pias,membiang|n,pias
+白鱼之	ikan pias,pias
+白鱼之类	ikan pias,pias
+白鹦	kakaktua|n
+白鹦鹉	kakaktua|n
+秽	carut,cemar,comot,hadas,kotoran|n,najis|n
+秽的	comot,hadas,najis|n
+秽语	carut
+能	boleh|v,ahlak,bakat|n,barangkali|adv,benak|n,berupaya|v,bisa|adj,boleh tolong|int
+能並	mak kau hijau
+能並沒	mak kau hijau
+能並沒有	mak kau hijau
+能並沒有太	mak kau hijau
+能並沒有太大	mak kau hijau
+能並沒有太大的	mak kau hijau
+能並沒有太大的實	mak kau hijau
+能並沒有太大的實際	mak kau hijau
+能並沒有太大的實際含	mak kau hijau
+能並沒有太大的實際含義	mak kau hijau
+能为	mampu|adj
+能为的	mampu|adj
+能力	daya|adj,kebolehan|n,kecekapan,kemampuan,keupayaan|n,kuasa|n,potensi,tenaga|n
+能力的	berupaya|v,cekap|adj,suli
+能够	dapat|v,rut,sanggup|v,bisa|adj
+能够毒	bisa|adj
+能帮	boleh tolong|int
+能帮忙	boleh tolong|int
+能帮忙吗	boleh tolong|int
+能干	mampan|adj,mampu|adj,terabadi|adj,terjawab|v,terkata|v,terkata-kata|v,terkatakan|v,terpantau|v
+能干的	mampan|adj,mampu|adj,terabadi|adj,terjawab|v,terkata|v,terkata-kata|v,terkatakan|v,terpantau|v
+能性	kebarangkalian|n,kemungkinan|n
+能手	johan,juara|n,juru|n
+能渗	kedap
+能渗透	kedap
+能渗透的	kedap
+能生	produktif|adj
+能生产	produktif|adj
+能生产的	produktif|adj
+能的	bular|adj,memungkinkan|v,munasabah,mustahil|adj,musykil|adj,sepertinya|adv
+能看	celik
+能看到	celik
+能看到的	celik
+能通	jalan tol|n
+能通行	jalan tol|n
+能通行的	jalan tol|n
+能通行的道	jalan tol|n
+能通行的道路	jalan tol|n
+能障	mati pucuk|n
+能障碍	mati pucuk|n
+荽	daun ketumbar|n,ketumbar|n
+荽叶	daun ketumbar|n
+虽	biarpun,kendati,kendatipun|conj,mentang,meski|conj,meskipun|conj,namun|adv,sekalipun|conj
+虽然	biarpun,kendati,kendatipun|conj,mentang,meski|conj,meskipun|conj,namun|adv,sekalipun|conj
+衽	pesak
+诽	burukkan,cerca,fitnah|n,hujah,jujat,petenah,sigai,umpat
+诽谤	burukkan,cerca,fitnah|n,hujah,jujat,petenah,sigai,umpat
+载	cantumkan,cerbersam,maktub,memuat,muat|adj,muat turun|v,muatan,prasasti|n
+载小	cerbersam
+载小说	cerbersam
+载物	muatan
+载的	sarat
+载货	tolak bara
+追	alau,ambat|n,berkejar-kejar,buru|v,hambat,kejar|v,kenang,kus
+追击	ambat|n,mengusir,usir|v
+追思	mengenang
+追想	kenang
+追求	tuntut
+追猫	kus
+追猫声	kus
+追赶	ambat|n,buru|v,hambat,susul
+追逐	alau,hambat,kejar|v,susul,berkejar-kejar
+追问	serep
+追随	menganut,turut serta
+都	apa-apa|pron,balik pulau,bandaraya|n,berdua|det,candi,gambuh,hang tuah,ibu kata
+都亚	hang tuah
+都圣	sao tome dan principe
+都圣多	sao tome dan principe
+都圣多美	sao tome dan principe
+都市	bandaraya|n,kebandaran|adj,membandarkan|v,urban
+都市化	membandarkan|v
+都市的	kebandaran|adj,urban
+都拉	gambuh
+都拉战	gambuh
+都拉战争	gambuh
+都拉战争舞	gambuh
+都教	candi
+都教的	candi
+都教的寺	candi
+都教的寺庙	candi
+都是	sama juga
+都是一	sama juga
+都是一样	sama juga
+都督	laksamana|n
+都语	urdu
+铽	terbium|n
+闽	labuan
+闽岛	labuan
+顽	baot|adj,begar,bengal,besar kepala,bingal,biot|adj,degil|adj,degilkan|v
+顽固	begar,hati batu,keras|adj,keres hati,baot|adj,besar kepala,biot|adj,degil|adj
+顽固的	baot|adj,besar kepala,biot|adj,degil|adj,degilkan|v,gigih,keras hati|adj,keras kepala|adj
+顽强	bengal,tegar,ungkal
+顽强的	tegar,ungkal
+顽皮	kenakalan|n,nakal|adj,bingal,menakal|v,tomboi|n
+顽皮姑	tomboi|n
+顽皮姑娘	tomboi|n
+顽皮的	bingal,menakal|v

@@ -1,1 +1,5 @@
-{"en2ms":{"xenophobia":["xenofobia"],"xenon":["xenon"],"xylophone":["xilofon"],"xerography":["zeroks"],"xilofon":["zilofon"]}}
+xenon	xenon|n
+xenophobia	xenofobia|n
+xerography	zeroks|n
+xilofon	zilofon|n
+xylophone	xilofon|n

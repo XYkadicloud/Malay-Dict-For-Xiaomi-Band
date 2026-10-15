@@ -10,9 +10,9 @@
 -->
 <template>
   <div class="wb-page" style="height: {{H}}px;">
-    <!-- 进度 -->
+    <!-- 进度 + 方向切换 -->
     <div class="progbar" style="top: 108px;">
-      <text class="prog-txt fs-s-m">今日学习 {{idx}} / {{total}}</text>
+      <text class="prog-txt fs-s-m">今日学习 {{idx}} / {{total}} · {{modeLabel}}</text>
     </div>
 
     <list class="wb-list" style="top: 140px; height: {{listH}}px;">
@@ -39,6 +39,12 @@
           <text class="lc-btn-txt">重新随机</text>
         </div>
       </list-item>
+      <!-- ★ 方向切换（仅开始前/结算时可见） -->
+      <list-item type="swap" class="li" style="height: 62px;" if="{{finished}}">
+        <div class="lc-btn" style="height: 54px;" @click="swapMode">
+          <text class="lc-btn-txt">换成「{{otherLabel}}」</text>
+        </div>
+      </list-item>
       <!-- ★ 词库不可用 -->
       <list-item type="empty" class="li" style="height: 130px;" if="{{empty && !loading}}">
         <div class="lc-tip">
@@ -55,8 +61,8 @@
       <!-- 释义：揭晓后显示 -->
       <list-item type="mean" class="li" style="height: {{meanH}}px;" if="{{shown && !finished}}">
         <div class="lc-card" style="height: {{meanInnerH}}px;">
-          <text class="lc-t">中文释义</text>
-          <text class="lc-b">{{cur.zh}}</text>
+          <text class="lc-t">{{meanLabel}}</text>
+          <text class="lc-b">{{meanText}}</text>
         </div>
       </list-item>
       <list-item type="mean" class="li" style="height: {{enH}}px;" if="{{shown && cur.en && !finished}}">
@@ -238,7 +244,7 @@ export default {
     total: 0,
     shown: false,
     loading: true,
-    cur: { w: '', zh: '', en: '', p: '' },
+    cur: { w: '', zh: '', en: '', p: '', ans: '' },
     queue: [],
     wordH: 96,
     wordInnerH: 88,
@@ -251,7 +257,13 @@ export default {
     empty: false,       // ★ 一轮学完
     finished: false,    // ★ 本轮结束（显示结算）
     learned: 0,         // ★ 本轮加入生词本的数量
-    timer: null
+    timer: null,
+    // ★ 学习方向：zh2ms（中→马）| zh2en（中→英）
+    learnMode: 'zh2ms',
+    modeLabel: '中文 → 马来语',
+    otherLabel: '中文 → 英语',
+    meanLabel: '马来语',
+    meanText: ''
   },
   onInit() {
     const h = (global.screenHeight && global.screenHeight > 0) ? global.screenHeight : 490
@@ -285,7 +297,7 @@ export default {
     this.empty = false
     store.getSettings().then(function (s) {
       that.batch = (s && s.learnCount) ? s.learnCount : 10
-      return search.randomWords(that.batch, that.recent)
+      return search.randomWordsByMode(that.learnMode, that.batch, that.recent)
     }).then(function (list) {
       that.queue = list && list.length ? list : []
       that.total = that.queue.length
@@ -303,10 +315,25 @@ export default {
     })
   },
 
+  /** ★ 切换学习方向（中→马 ↔ 中→英） */
+  swapMode() {
+    if (this.learnMode === 'zh2ms') {
+      this.learnMode = 'zh2en'
+      this.modeLabel = '中文 → 英语'
+      this.otherLabel = '中文 → 马来语'
+    } else {
+      this.learnMode = 'zh2ms'
+      this.modeLabel = '中文 → 马来语'
+      this.otherLabel = '中文 → 英语'
+    }
+    this.again()
+  },
+
   pick() {
     const e = this.queue[this.idx - 1]
     if (!e) {
-      this.cur = { w: '', zh: '', en: '', p: '' }
+      this.cur = { w: '', zh: '', en: '', p: '', ans: '' }
+      this.meanText = ''
       this.shown = false
       return
     }
@@ -314,7 +341,16 @@ export default {
       w: e.w || '',
       zh: e.zh || '',
       en: e.en || '',
-      p: e.p || ''
+      p: e.p || '',
+      ans: e.ans || ''
+    }
+    // ★ 按方向决定「释义区」显示什么
+    if (this.learnMode === 'zh2en') {
+      this.meanLabel = 'English'
+      this.meanText = this.cur.ans || this.cur.en || ''
+    } else {
+      this.meanLabel = 'Bahasa Melayu'
+      this.meanText = this.cur.ans || ''
     }
     // ★ 记入「最近学过」：下一轮抽词时排除，避免一直抽到同几个词
     if (this.cur.w) {
@@ -329,18 +365,12 @@ export default {
 
   /** 按内容行数算好每块高度（list-item 不会自适应） */
   measure() {
-    const zhLines = linesOf(this.cur.zh, 16, TEXT_W)
-    this.meanInnerH = 18 + 2 + zhLines * 22 + 18
+    const meanLines = linesOf(this.meanText, 16, TEXT_W)
+    this.meanInnerH = 18 + 2 + meanLines * 22 + 18
     this.meanH = this.meanInnerH + 8
-
-    if (this.cur.en) {
-      const enLines = linesOf(this.cur.en, 16, TEXT_W)
-      this.enInnerH = 18 + 2 + enLines * 22 + 18
-      this.enH = this.enInnerH + 8
-    } else {
-      this.enInnerH = 0
-      this.enH = 0
-    }
+    // 第二块（另一语种释义）仅在马来语模式且该词有英文时显示
+    this.enInnerH = 0
+    this.enH = 0
   },
 
   reveal() {
@@ -379,10 +409,12 @@ next() {
   markKnown() {
     if (!this.cur.w) return
     const that = this
+    // ★ 按方向存：中→马 存中文词；中→英 存中文词（答案作释义）
+    const favItem = (this.learnMode === 'zh2en')
+      ? { w: this.cur.w, zh: this.cur.ans || '' }
+      : { w: this.cur.w, zh: this.cur.ans || this.cur.zh || '' }
     store.isFav(this.cur.w).then(function (already) {
-      if (!already) {
-        return store.toggleFav({ w: that.cur.w, zh: that.cur.zh })
-      }
+      if (!already) return store.toggleFav(favItem)
       return null
     }).then(function () {
       that.learned = that.learned + 1

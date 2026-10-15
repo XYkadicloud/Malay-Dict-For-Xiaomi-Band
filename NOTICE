@@ -37,6 +37,12 @@
 - https://github.com/zh-lx/pinyin-pro
 - 许可证：**MIT**
 
+### • CC-CEDICT（中英互译数据）
+- 中英互译索引（`src/assets/dict/ze-*.txt`）
+- https://cc-cedict.org/
+- 许可证：**CC BY-SA 3.0** — https://creativecommons.org/licenses/by-sa/3.0/
+- 修改说明：提取简体词条主释义，构建双向索引（中文→英文 / 英文→中文），过滤姓氏与变体条目
+
 ---
 
 ## 二、代码组件来源

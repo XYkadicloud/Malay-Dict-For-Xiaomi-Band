@@ -1,1 +1,1020 @@
-{"en2ms":{"spelling":["a kapela","abdoman","abyad","achara","aek","agik"],"something":["abahkan","abur","acapi","amaun","ampu","awas"],"seen":["abang bomba","nyata"],"slave":["abdi","awang","hamba","kaula","kawula","kula"],"someone":["abet","abid","awas","bahagiakan","barua","datuk"],"smallpox":["abilah"],"set":["abjad","alfabet","berangkat","membebaskan","pencil","terlepas"],"surgical":["ablasi","pembedahan"],"subscription":["abonemen"],"see":["abrit","abung","bular","karcis","kerancang","nampak"],"swollen":["abuh","bengkak"],"second-person":["abui","abuk","bandarkan","kotai","kotakan","perkotakan"],"sago":["abuk-abuk","kirai","rumbia","sagu"],"seeds":["abuk-abuk"],"second":["acik","anak angah","anda","awak","awda","detik"],"sibling":["acik","adik","adik lelaki","saudara","yayi"],"submerge":["acop","celup","tenggelam"],"sink":["acop","tenggelam"],"scene":["adegan"],"synonym":["adicita","aktivitet","asu","ayam-ayam","babi duyung","bagan"],"shares":["adik"],"same":["adik","kata seerti","lestari","sama","sedaerah","seerti"],"sister":["adik perempuan","akak","akang","ayunda","kak","kakak"],"siblings":["adik-beradik","saudara-saudari"],"superpower":["adikuasa"],"superhero":["adiwira"],"south":["afrika selatan","amerika selatan","apam","selatan","sudan selatan"],"spell":["afsun","eja","jampi"],"somewhat":["agak"],"sandfly":["agas"],"supreme":["agung","syogun"],"society":["ahli","masyarakat","masyarakat madani"],"surgeon":["ahli bedah","arboris"],"scientist":["ahli sains","ilmuwan","saintis"],"stupid":["ahmak","babuk","bahlul","bangang","bebal","bingung"],"seawater":["air laut","air masin"],"soft":["air lembut","lembut","lempung"],"semen":["air mani"],"saltwater":["air masin","kinar"],"somebody":["air tangan"],"soy":["air tauhu","berkicap","kicap","soya","tauyu","toyu"],"sahaja":["aje","jak","je","saja"],"submit":["aju"],"script":["aksara","ar","ef","es","hec","ji"],"singular":["aku","anda","awak","awda","baginda","keadaannya"],"stationery":["alat tulis"],"shift":["alih","berubah","ganjak","syif"],"setar":["alor setar"],"stick":["ambat","colok","lekat","tongkat","tongkat penyukat"],"strap-support":["ambin"],"scarf":["ambin"],"support":["ambin","sapot","sokong","tanggung"],"surprise":["amboi","apakah","kejutan"],"states":["amerika syarikat","pepejal","persekutuan mikronesia"],"student":["anak didik","mahasiswa","murid","pelajar","senteri","siswa"],"seventh":["anak hitam","ketujuh"],"sailor":["anak kapal","kelasi","pelaut","pelayar"],"son":["anak lelaki","bangsat","bin"],"sixth":["anak putih","keenam"],"saudara":["anak saudara"],"step":["anak tangga","langkah","pijak","setapak","singkir","sisih"],"spinster":["andartu"],"strange":["aneh","ganjil","pelik"],"sembah":["angkat sembah","mengangkat sembah"],"shutting":["angkup"],"swan":["angsa"],"stray":["anjing ajak","anjing geladak","peluru sesat"],"striped":["anjing arau","belang"],"skin":["anjing langsat","graf kulit","kulit","lapah"],"seal":["anjing laut","cap","mohor","sil"],"sniffer":["anjing penghidu"],"such":["apabila","demikian","putus bekalan"],"squeeze":["apit","perah","peras","ramas"],"saudi":["arab saudi"],"spirits":["arak"],"sculpture":["arca"],"sugar":["aren","enau","halwa","kopi o","tebu","teh o"],"silver":["argentum","fidah","perak","selaka"],"sharpen":["asah"],"source":["asal","punca","sumber","usul"],"sour":["asam","kemasam-masaman","masam","masamkan","memasam","pedar"],"salted":["asam boi"],"seasoning":["asam garam"],"smoke":["asap","kelabu asap","merokok","sapkok"],"salty":["asin"],"soldier":["askar","mat tiarap","perajurit","serdadu"],"seeking":["astaghfirullah"],"said":["auta","jembalang","kata","tersebut"],"sound":["auta","bunyi","bunyi labial","derau","desis","erang"],"sifter":["ayak"],"sieve":["ayak"],"subspecies":["ayam"],"sentence":["ayat","kalimat"],"swing":["ayun","buai","buaian","lenggok"],"sway":["ayun","imbas","lenggok"],"sport":["badminton","bola tangkis","sukan","sukan elektronik"],"similar":["bagaikan","banji","golok","kata seerti","menanjung","miang"],"split":["bahagi","belah","patah"],"separate":["bahagi","lerai","pisah"],"share":["bahagian"],"stinging":["bahal","jelatang","latang"],"substance":["bahan letupan","pencair"],"standard":["bahasa baku","baku","cogan","elektrod hidrogen piawai","panji-panji","sebutan baku"],"sign":["bahasa isyarat","ilham","isyarat","tanda"],"ship":["bahtera","laberang","lanca"],"shoulder":["bahu","bahu jalan","tanggung"],"squirrel":["bajing","tupai","tupai tanah"],"spider":["bakung","labah"],"soldiery":["bala"],"station":["balai","balai bomba","balai mata-mata","balai polis","galon","stesen"],"species":["balam","betung","cendara","cengal","itik baldu","itik kumbang"],"spotted":["balam","bintang"],"seek":["balas dendam","cari","mencari"],"southwest":["balik pulau","barat daya"],"slung":["baling-baling"],"smilax":["banar"],"sp":["banar"],"seri":["bandar seri begawan"],"stork":["bangau"],"sounds":["bangbung"],"swastika":["banji"],"slaughtered":["bantai"],"stubborn":["baot","berdegil","berkeras kepala","biot","degil","degilkan"],"sissy":["bapuk"],"seeks":["barua"],"stall":["barung","gerai","mogok"],"shanty":["barung"],"stale":["basi","lapuk"],"shell":["batok","petala elektron","petala valens"],"smaller":["batu"],"stela":["batu bersurat","prasasti"],"smell":["bau","baui","berbau","busuk","hidu","langu"],"stench":["bau"],"sniff":["baui"],"singaringan":["baung akar"],"shallot":["bawang merah"],"spinach":["bayam","kangkung"],"shadow":["bayang","bayangi","membayang","menaungi","naungan","wayang"],"some":["beberapa","bera","makan angin","sebahagian","titik"],"several":["beberapa","berabad-abad","tamban","tupai terbang"],"supplies":["bekalan"],"stain":["bekas","berbekas","noda","percik"],"single-edged":["beladau"],"study":["belajar","kaji","linguistik","menyusur galur","ulang kaji"],"sword":["belera","jenawi","rencong"],"sulfur":["belerang","sulfur"],"shaman":["belian","bomoh","bomor","dukun","pawang","poyang"],"sorcerer":["belian"],"she":["beliau"],"star":["belimbing","bintang filem","bintang laut","najam","tahi bintang"],"shrubland":["belukar"],"stuff":["benda","daki","palam","sedap mulut"],"sultanate":["bendahara"],"skink":["bengkarung"],"straight":["bengkok","bengkong","bujor","jenawi","regat","terus"],"seed":["benih","bibit","biji","butir"],"spread":["bentangan","hamparan","membentang","merakyat","pembentangan","penyebaran"],"shape":["bentuk","susuk"],"sib":["beradik"],"sleep":["beradu","inap","meletakkan kepala","tidur"],"shit":["berak"],"speak":["berbahasa","bercakap","bertutur","bicara","cakap","memperkatakan"],"seem":["berbayang","kelihatan","menjingga"],"story":["bercerita","cerita","cerita pendek","cerita rakyat","ceritera","kaba"],"shave":["bercukur","cukur"],"stand":["berdikari","berdiri","congok","diri","puteri lilin","senang diri"],"sitting":["berdudukan"],"sit":["berdukung","bersila panggung","bertahana","duduk bersila","duduk bersilang kaki","duduk bersimpuh"],"stylish":["beregek","regek"],"swim":["berenang","renang"],"stop":["berhenti","henti","menampan","mogok","perhentian bas","singgah"],"spiced":["beriani"],"successful":["berjaya"],"say":["berkata","bersembah","bertutur","bilang","mengaduh","mengaku"],"sweat":["berkeringat","berpeluh","keringat","peluh","titik peluh"],"sauce-based":["berkicap"],"soil":["berladang","tanih","zamin"],"sail":["berlayar","layar"],"supper":["bermoreh","moreh"],"shield":["berperisai","perisai"],"serve":["bersaji","laden","layan","menghidangkan","menyajikan"],"sarang":["bersarang"],"sex":["bersekedudukan","jantina","nenda"],"surf":["berselancar","ombak"],"sneeze":["bersin"],"socialize":["bersosial","bersosialisasi","sosialisasikan"],"serious":["bersungguh","keseriusan","serius"],"showing":["bersungguh"],"selfie":["berswafoto","swafoto"],"sun":["beruang madu","hujan panas","jemur","matahari","suria","syamsi"],"southern":["beruk","lautan selatan"],"smart":["bestari","cemerlang","pintar","tera"],"superseded":["betol","habok","hadith","ketjap","masok","ramadhan"],"scholarship":["biasiswa"],"seller":["bibi","penjual"],"seedling":["bibit"],"songster":["biduan"],"songstress":["biduanita"],"shattered":["binasa","kecai","luruh"],"straw":["binca","penyedut","penyedut minuman"],"starred":["bintang"],"starfish":["bintang laut","tapak sulaiman"],"sea":["bintang laut","buran","butun","butung","kuda laut","landak laut"],"spot":["bintik","noda","percik"],"spp":["birah","cawi-cawi","putat"],"sheep":["biri","biri-biri","domba","kambing hitam"],"sky":["biru langit","langit","nilakandi"],"series":["biru-biru","siri"],"speechless":["bisu","bungkam"],"stage":["bodok","pentas"],"stark":["bogel"],"soccer":["bola sepak"],"stoop":["bongkok","membongkok"],"sabit":["bsmm"],"surge":["buak"],"savage":["buas"],"single":["bujang","ikatan tunggal","kesemua","tunggal"],"shaped":["bulan sabit","plastis"],"september":["bulan sembilan","september"],"shuttlecock":["bulu tangkis"],"starving":["bulur"],"sold":["bundle","eksport"],"spark":["bunga api"],"speech":["bunga bahasa","ceramah","pidato","ucapan"],"sponge":["bunga karang"],"sunflower":["bunga matahari"],"silent":["bungkam","diam","membisu"],"suicide":["bunuh diri"],"spit":["bura","ludah"],"suggest":["cadang","saran"],"suggestion":["cadangan","syor"],"suggested":["cadangan"],"search":["cahari","cari","carian","mencari"],"sunlight":["cahaya matahari"],"scrawl":["cakar ayam"],"scribble":["cakar ayam","conteng"],"scratched":["calar-balar"],"sight":["cam","nampak","pandangan"],"spoon":["camca","sudu"],"syllabic":["camna","camni","camtu","cereka","cerpen","filpen"],"small":["canang","cebis","cembul","ciput","dikit","imbuh"],"stamp":["cap","hentak","memeterai","meterai","setem pos"],"shallow":["capah","cetek","mencetekkan","tohor"],"sandal":["capal"],"strike":["catuk","menyerang","mogok duduk","mogok kilat","mogok lapar","mogok makan"],"scoop":["cedok","cekup"],"skilful":["cekap"],"strangle":["cekik"],"slit":["celah"],"spherical":["cembul"],"sandalwood":["cendana"],"scholar":["cendekiawan","sarjana"],"souvenir":["cenderamata"],"slanted":["cenderung"],"sloped":["cenderung"],"sempoa":["cepua","sepua"],"special":["cerakin","graha","istimewa","khas","takbir raya"],"short":["cerita pendek","kependekan","ketot","memendek","nam","parang"],"spectacles":["cermin mata","kaca mata"],"surname":["chin","hazmi"],"sapodilla":["ciku"],"sloppy":["cincai"],"slipshod":["cincai"],"snail":["ciput"],"signum":["cogan"],"slogan":["cogan kata","moto","slogan"],"stagnantly":["congok"],"stake":["cucuk","galah"],"sufficient":["cukup"],"steep":["curam"],"steal":["curi","sakau"],"secretly":["curi-curi","risik"],"stolen":["curian","kecurian"],"suspicious":["curiga-mencurigai","kecurigaan","mencurigai","mencurigakan"],"staycation":["cuti inap"],"sepang":["cyberjaya"],"scales":["dacing","mizan","teraju"],"stilyard":["dacing"],"sudah":["dah"],"sudahlah":["dahlah"],"shock":["dahsyat","penampan"],"sundried":["daing"],"sticks":["daki"],"selatan":["daksina"],"selangor":["damansara","darul ehsan","sabak bernam","selangor","selangor darul ehsan"],"stove":["dapur","keran"],"shore":["darat","pesisir"],"sincerity":["darul ehsan","keikhlasan"],"specialties":["darul khusus"],"shah":["darul roundabout","shah alam"],"sativum":["dasun"],"scallion":["daun bawang"],"spring":["daun bawang","mata air","musim bunga","popia"],"sake":["demi"],"stretch":["depa","hulur","membentang","nyunyut"],"splashing":["derau"],"suffer":["derita","hidap"],"shared":["dibahagi"],"stared":["dilangut"],"show":["dilarang","tayang","tunjuk"],"samun":["disamun","menyamun","samun sakal"],"sayang":["disayangi"],"social":["diskriminasi sosial","kesatria","media sosial","perjumpaan sosial","sosial","sosial demokrasi"],"sosialisasikan":["disosialkan","mensosialkan"],"strim":["distrim","mengestrim","menstrim"],"singapore":["dolar singapura","ringgit singapura"],"sin":["dosa","dosa asal","syirik"],"soursop":["durian belanda"],"sepuluh":["ekadasa","sapuloh","satu puluh"],"stretchy":["elastik"],"static":["elektrik statik","statik"],"six":["enam","enam ratus","enam ribu"],"sixteen":["enam belas","satu puluh enam","sepuluh enam"],"sixty":["enam puluh"],"sixty-two":["enam puluh dua"],"sixty-four":["enam puluh empat"],"sixty-six":["enam puluh enam"],"sixty-eight":["enam puluh lapan"],"sixty-five":["enam puluh lima"],"sixty-one":["enam puluh satu"],"sixty-nine":["enam puluh sembilan"],"sixty-three":["enam puluh tiga"],"sixty-seven":["enam puluh tujuh"],"satu":["esa","satu puloh"],"sphere":["falak","lingkungan"],"slander":["fitnah"],"skip":["fly"],"school":["fly","guru besar","madrasah","maktab","sekolah","sekolah jenis kebangsaan"],"seremban":["fu yong","seremban","sungai ujong"],"strong":["gagah","ghairah","kencang","kuat","pahlawan","perkasa"],"salary":["gaji","gaji buta","pendapatan","ujrah"],"sexual":["gangguan seksual","orientasi seksual","sanggama"],"slightly":["ganjak"],"salt":["garam"],"stripe":["garis","jalur"],"scratch":["garu"],"spinning":["gasing"],"style":["gaya","olah","stail"],"singlestick":["gayung"],"silverfish":["gegat"],"symptom":["gejala","simptom"],"seize":["gelut"],"sweetmeat":["genang"],"supporters":["geng pelangi"],"shaking":["gentar"],"strip":["genting gaza","lapah","lurut","melurut"],"sure":["gerenti","pasti","tentu","yakin"],"saw":["gergaji"],"sick":["gering","sakit"],"surface":["gesek","tanah","tebah"],"sharp":["gigi","kikis","paksi","tajam","tajam-tajam"],"shiver":["gigil"],"song":["gita","lagu"],"sensual":["giur"],"seduce":["goda","menggoda"],"sledgehammer":["godam"],"shake":["goncang"],"stir-fry":["goreng kilas"],"shallow-fry":["goreng tohor"],"scour":["gosok","menggosok"],"shaky":["goyang"],"sprue":["guam"],"sack":["guni","meletakkan kepala"],"scissors":["gunting"],"simultaneously":["gus"],"speed":["had laju","kecepatan","kelajuan","kepecutan"],"surprised":["hairan","terkejut"],"spoken":["hang"],"shops":["hartal"],"snakehead":["haruan","toman"],"should":["harus"],"stomp":["hentak"],"saga":["hikayat"],"snot":["hingus"],"sip":["hirup"],"suck":["hirup","sedut"],"sucking":["hisap"],"salute":["hormat diraja","tabik"],"shower":["hujan panas","mandi"],"swarm":["hurung","kerumun"],"shark":["ikan yu","jerung","yu"],"sincere":["ikhlas","tulus"],"science":["ilmu","sains","sains komputer","sarjana sains","widya"],"sociology":["ilmu masyarakat","sosiologi"],"supplement":["imbuh"],"start":["imsak","mula"],"stay":["inap","pondok"],"spirit":["indera","makhluk halus","mambang"],"signal":["isyarat","lampu isyarat","tanda"],"shelduck":["itik agung"],"scoter":["itik kumbang"],"seaducks":["itik murai"],"shoveler":["itik sudu"],"signifies":["itulah tu"],"service":["jabatan","kawasan rehat","khidmat","perkhidmatan","putus bekalan","servis"],"sew":["jahit"],"stitch":["jahit","menyulam"],"snack":["jajan","keropok lekor","kudapan","makanan ringan","snek"],"street":["jalan"],"suspension":["jambatan gantung"],"spouse":["janda"],"span":["jangkau","jengkal"],"sekejap":["jap"],"sparse":["jarang"],"string":["jaring"],"selfness":["jati diri"],"side-glance":["jeling"],"satiated":["jenuh","kenyang"],"scream":["jerit","teriak"],"shriek":["jerit"],"shout":["jeritan","laung","seru","sorak","tempik","teriak"],"soul":["jiwa","semangat","sukma"],"sentimental":["jiwang","kaki jiwang","mat bunga","mat jiwang"],"squat":["jongkok","tinggung"],"sell":["jual","memasarkan","menjual"],"struggle":["juang","perjuangan"],"sum":["jumlah"],"syrup":["juruh","sirap"],"surveyor":["juruukur"],"soybean":["kacang bulu","kedelai"],"scientific":["kaedah saintifik","linguistik"],"subject":["kafir zimmi","tertakluk","zimmi"],"sputum":["kahak"],"skiver":["kaki ponteng"],"snatcher":["kaki ragut","mat ragut"],"snatch":["kaki ragut","rebut","sakau"],"sleepyhead":["kaki tidur"],"staff":["kakitangan","redaksi","staf","tenaga"],"scorpion":["kala jengking","ketungging"],"shahada":["kalimah syahadah"],"scapegoat":["kambing hitam"],"starch":["kanji"],"sleepiness":["kantuk"],"sleeping":["kantung tidur"],"submarine":["kapal selam"],"scallop":["kapis"],"spain":["kastela","sepanyol"],"shoe":["kasut","sepatu"],"scribe":["katib"],"safety":["keamanan","keselamatan","selamat"],"security":["keamanan","sekuriti","selamat"],"shad":["kebasi"],"stupidity":["kebodohan"],"stoopedness":["kebongkokkan"],"starvation":["kebuluran"],"smashed":["kecai"],"scholars":["kecendekiawanan"],"specific":["kedaerahan","kespesifikan","spesifik"],"shop":["kedai","kedai kopi","kedai runcit","kopitiam","tauke","toko"],"store":["kedai runcit","kedai serbaneka","stor"],"stubbornness":["kedegilan"],"stingy":["kedekut"],"success":["kejayaan"],"startle":["kejut"],"shocker":["kejutan"],"swivel":["kekili"],"strength":["kekuatan","muthu"],"shortage":["kekurangan"],"soon":["kelak","seelok-elok","sekejap","setiba"],"solution":["kelarutan","solusi"],"superiority":["kelebihan","superioriti"],"sunbird":["kelicap"],"surroundings":["keliling"],"seam":["kelim"],"sigh":["keluh"],"steel":["keluli"],"skills":["kemahiran hidup"],"sustainable":["kemampanan","mampan","mampankan"],"sustainability":["kemampanan"],"season":["kemarau","musim","musim hujan","musim kemarau","tengkujuh"],"sourness":["kemasaman"],"seeming":["kembung"],"shirt":["kemeja","kolar"],"steering":["kemudi","roda stereng"],"superlative":["kepalingan","superlatif","terapi","terburuk","tercantik","tertampan"],"shortness":["kependekan"],"sever":["kerat","potong"],"slice":["kerepek","potongan"],"sidelong":["kerling"],"scab":["keruping"],"seat":["kerusi","stul"],"sadness":["kesedihan","wahai"],"seriousness":["keseriusan"],"suitability":["kesesuaian"],"sosial":["kesosialan"],"sociality":["kesosialan"],"specificity":["kespesifikan"],"silence":["kesunyian"],"stillness":["kesunyian"],"syncopic":["keta","kuar","tau"],"swimming":["ketam renjong"],"solubility":["keterlarutan"],"soluble":["keterlarutan"],"sweaty":["ketibas"],"smelly":["ketibus","membusuk"],"shank":["keting"],"speciosa":["ketum"],"servant":["khadam"],"solitude":["khalwat"],"sauce":["kicap","kicap ikan","kicap sotong","pad prik","sos","sos tiram"],"solid":["kimpal","padat","tahi hidung"],"send":["kirim","surat-menyurat"],"slosh":["kocak"],"splash":["kocak","simbah","simbahan","tempias"],"sequential":["komik"],"supposedly":["konon","kononnya"],"shipping":["kontena"],"served":["kopi o","teh o","tersaji"],"skullcap":["kopiah"],"sacrifice":["korban","pengorbanan","putih tulang"],"stockade":["kubu"],"sacred":["kudus"],"steamed":["kukus","nasi kandar"],"sewage":["kumbahan"],"supposition":["kut"],"sitophilus":["kutu beras"],"soft-shell":["labi-labi"],"sketch":["lakar"],"sibling-in-law":["lamai"],"slow":["lambat","lengah","pentar","perlahan","perlahan jalan"],"swift":["lancar"],"smooth":["lancar","lancarkan","licin","melincirkan","menggalirkan","tarah"],"stride":["langkah"],"spacious":["lapang","luas"],"shabby":["lasam"],"slingshot":["lastik"],"seaweed":["latuh","rumpai laut"],"side":["lauk","mengiring","nasi campur","parap","pihak","samping"],"suitable":["layak","ngam","padan"],"sailfish":["layaran"],"sesame":["lenga"],"sesamum":["lenga"],"sluggish":["lengah"],"supine":["lentang"],"snow-white":["lepak"],"slope":["lereng"],"slippery":["licin","licin seperti belut"],"spleen":["limpa"],"slick":["lincir"],"shelter":["lindung","naungan"],"slug":["lintah bulan"],"sodomy":["liwat"],"shot":["lontar peluru"],"saliva":["ludah"],"symplocos":["lukut"],"smeared":["lumus"],"soiled":["lumus"],"stained":["lumus"],"slide":["lungsur"],"settlement":["mahar","mas kahwin"],"skilled":["mahir"],"skillful":["mahir","piawai"],"supernatural":["makhluk halus"],"shy":["malu"],"senile":["mamai","nyanyuk"],"sustained":["mampan"],"stone":["manikam","rejam","zaman batu"],"sweet":["manis","pad prik"],"self-worth":["martabat"],"still":["masih","tenang"],"silly":["masuk air"],"stereotype":["mat bodek","stereotaip"],"storyteller":["mat kelentong"],"spatial":["matra"],"stare":["melangut","merenung","tenung"],"slip":["meluputkan"],"slaughter":["membantai","zabah"],"swell":["membengkak"],"setipinna":["membiang"],"smellier":["membusuk"],"simplify":["mempermudah"],"satisfactory":["memuaskan"],"satisfying":["memuaskan"],"son-in-law":["menantu"],"shade":["menaungi","naungan"],"swiftly":["menciput"],"suspicion":["mencurigakan","zan"],"snort":["mendengus"],"sedges":["menderung"],"stir":["mengacau"],"sleepy":["mengantuk","terkantuk"],"screw":["mengkuang","skru"],"strengthen":["mengotakan"],"slack":["mengular","renggang"],"sambar":["menyambar"],"sweep":["menyapu"],"sebabkan":["menyebabkan"],"sebut":["menyebut"],"selesaikan":["menyelesaikan"],"selubung":["menyelubungi"],"sow":["menyemai","semai"],"scattering":["menyemai"],"sentuh":["menyentuh"],"sunting":["menyunting"],"searching":["meraba-raba"],"sulk":["merajuk"],"sensation":["miang","perasaan","sensasi"],"specifically":["milo","pungguk","zanggi"],"sit-down":["mogok duduk"],"stern":["mudi"],"starting":["mulai"],"sapphism":["musahaqah"],"summer":["musim panas"],"stratagem":["muslihat"],"sodium":["natrium","natrium bikarbonat","natrium hidroksida","tingkal"],"sovereign":["negara"],"sembilan":["negeri sembilan","nismilan","ns"],"sad":["nestapa","sedih"],"sapphire":["nilam"],"spotless":["nirmala"],"sing":["nyanyi"],"sebab":["oleh itu","sbb"],"snowman":["orang salji"],"spur":["pacu"],"spiked":["pacu"],"spicy":["pad prik","pedas"],"serves":["padan muka"],"specialist":["pakar"],"scar":["palau","parut"],"smearing":["palit"],"stretched":["pampang"],"senses":["pancaindera"],"screwpine":["pandan duri","pandan hutan"],"scenery":["pandangan"],"steals":["panjang tangan"],"skateboard":["papan luncur","papan selaju"],"shelf":["para","rak"],"straight-edged":["parang"],"sawfish":["pari gergaji"],"sand":["pasir"],"subzone":["pasir panjang"],"snap":["patah"],"statue":["patung"],"short-finned":["paus pendek sirip"],"sei":["paus sei"],"sperm":["paus sperma"],"swamp":["paya","rawa","redang"],"smarting":["pedih"],"saddle":["pelana"],"successor":["pelapis"],"seafarer":["pelaut"],"server":["pelayan"],"sterilization":["pemandulan"],"simpleton":["pembaris"],"suggests":["pembayang"],"surgery":["pembedahan"],"spreading":["pembentangan"],"selection":["pemilihan","pilihan"],"supporter":["peminat","penyokong","walanon"],"striker":["pemogok"],"split-edged":["pen"],"stripping":["penanggalan"],"scratcher":["pencakar"],"skyscraper":["pencakar langit"],"stoker":["pendandang"],"suffering":["penderitaan","sengsara"],"slavery":["pengabdian"],"speller":["pengeja"],"scaly":["pengguling"],"scanner":["pengimbas"],"spy":["pengintip"],"stapler":["pengokot"],"strategic":["pengurusan strategik","strategik"],"sleeper":["penidur"],"sleeps":["penidur"],"surveillance":["penjagaan"],"self-care":["penjagaan diri"],"synthesiser":["pensintesis"],"synth":["pensintesis"],"serving":["penyajian","saji","sajian"],"singer":["penyanyi"],"screening":["penyaringan","tirai"],"statement":["penyata"],"splintering":["penyerpihan"],"shattering":["penyerpihan"],"saying":["pepatah","sedap mulut"],"scaffolding":["perancah"],"statistics":["perangkaan","statistik gunaan"],"statistician":["perangkawan"],"speck":["percik"],"spurt":["percit"],"stopping":["perhentian"],"scrutinize":["periksa"],"software":["perisian","sofwe"],"slowly":["perlahan-lahan"],"smoker":["perokok"],"solidarity":["perpaduan"],"square":["persegi","sesiku"],"surrounding":["persekitaran"],"succession":["perturunan"],"stink":["petai"],"shrimp":["petis","udang","udang lipan"],"stemmed":["piala"],"stamped":["pingat"],"sliding":["pintu gelangsar"],"seventeen":["pitu belas","satu puluh pitu","satu puluh tujuh","sepuluh pitu","sepuluh tujuh","tujuh belas"],"seventy":["pitu puluh","tujuh puluh"],"snapped":["pokah"],"stitched":["poket"],"short-term":["pondok"],"swindle":["ponteng"],"spoil":["potong stim"],"showy":["poyo"],"storm":["prahara","ribut","ribut petir"],"scrupulous":["prihatin"],"senior":["profesor madya"],"satisfied":["puas","ridwan"],"satisfy":["puaskan"],"shoot":["pucuk","rebung","taruk","tembak","tunas"],"spear":["pucuk","tombak"],"shoots":["pucuk-pucuk"],"summit":["puncak","sidang kemuncak"],"spin":["pusing"],"sorcery":["pustaka"],"surrender":["putih mata"],"shortsightedness":["rabun jauh"],"secret":["rahsia","rahsia perniagaan"],"stirrup":["rakap"],"soup":["ramen"],"stopwatch":["randik"],"skeleton":["rangka"],"supply":["rangkaian bekalan"],"spike":["ranjau"],"spice":["rempah"],"spices":["rempah-ratus"],"self-depreciating":["rendah diri"],"sinusitis":["resdung"],"strings":["rian"],"satisfaction":["ridwan"],"survey":["riki","survei"],"straits":["riyal"],"se":["sa"],"sabians":["saabien"],"slate":["sabak"],"saturday":["sabtu"],"soap":["sabun"],"sadist":["sadis"],"sadism":["sadisme"],"safar":["safar"],"sakar":["sagar","syagar","syakar"],"suhur":["sahur"],"size":["saiz"],"salak":["salak"],"salir":["saler"],"saleh":["salih"],"snow":["salji","salju"],"salur":["salor"],"samarium":["samarium"],"sambal":["sambal"],"sampan":["sampan"],"samping":["sampin"],"scrubs":["samun gurun","semak samun"],"sable":["samur"],"sandakan":["sandakan"],"sandwich":["sandwic"],"sangat":["sangat-sangat","sgt"],"suspect":["sangka","suspek"],"sao":["sao tome dan principe"],"schwa-variety":["sape","siape"],"sapa":["sape"],"seven":["sapta","tujuh","tujuh ratus","tujuh ribu"],"sarawak":["sarawak"],"serikat":["sarekat"],"syarikat":["sarekat","sharikat"],"sergeant":["sarjan"],"sheath":["sarung"],"satay":["sate"],"satellite":["satelit"],"satwa":["sato"],"seteru":["satru"],"seribu":["satu ribu"],"strap":["sawat"],"sebelum":["sblm","sm"],"sebalik":["sebalik mata"],"sappan":["secang","sepang"],"sedegil":["sedegil-degil"],"sorrowful":["sedih"],"sediment":["sedimen"],"sob":["sedu"],"since":["sejak","semenjak"],"sejarah":["sejarah-sejarah"],"simply":["sekadar"],"sekijang":["sekijang"],"sentry":["sekilwak"],"sabak":["sekinchan"],"secondary":["sekolah menengah"],"sekolah":["sekolah tinggi","smk"],"sexdecillion":["seksdesilion"],"sextillion":["sekstilion"],"section":["seksyen"],"sect":["sekta"],"sector":["sektor","sektor awam","sektor swasta"],"secular":["sekular"],"secularization":["sekularisasi"],"secularisation":["sekularisasi"],"save":["selamatkan"],"strait":["selat"],"selenium":["selenium"],"scattered":["selerak"],"selang-seli":["seli"],"slipper":["selipar"],"shorts":["seluar pendek"],"shroud":["selubung"],"salamander":["semandar"],"semasa":["semasa-masa"],"solely":["semata","semata-mata"],"spray":["sembur","simbahan"],"samudera":["semedera"],"simple":["sempol"],"semporna":["semporna"],"semula":["semulajadi"],"snug":["sendat"],"sore":["sengal"],"stinger":["sengat"],"sting":["sengat"],"sanggama":["senggama"],"sprain":["sengkol"],"sengal-sengal":["sengsengub"],"seniman":["seniwati"],"suddenly":["sentak","terfikir","terkantuk","tiba-tiba"],"sandoricum":["sentul"],"smile":["senyum"],"spanner":["sepana"],"septendecillion":["septendesilion"],"septillion":["septilion"],"slap":["sepuk","tempeleng"],"spooky":["seram"],"scary":["seram"],"serbia":["serbia"],"simultaneous":["serentak"],"synchronous":["serentak"],"shine":["seri"],"sri":["seri langka","sri lanka"],"skewed":["serong"],"sesali":["sesalkan"],"sangat-sangat":["sesangat"],"spiderweb":["sesawang"],"session":["sesi","sidang"],"siapa-siapa":["sesiapa"],"sumpah-sumpah":["sesumpah"],"sesi":["sesyen"],"satan":["setan","syaitan"],"setengah":["seteng","steng"],"secretary":["setiausaha"],"siam":["siam"],"siamang":["siamang"],"siapa":["siape","siapo"],"siape":["siaper"],"seaborgium":["siborgium"],"self-defense":["silat"],"silicon":["silikon"],"salasilah":["silsilah"],"sima":["sima"],"symbol":["simbol"],"symphony":["simfoni"],"sympathetic":["simpati"],"simulation":["simulasi"],"syndicate":["sindiket"],"sarcasm":["sindir"],"syndrome":["sindrom","sindrom down","sindrom klinefelter","sindrom marfan","sindrom tourette"],"synecology":["sinekologi"],"stopover":["singgah"],"singgahsana":["singgasana"],"singapura":["singkapor"],"sengkek":["singkek"],"sinisisme":["sinisme"],"synopsis":["sinopsis"],"shelled":["siput"],"shrimp-net":["siring"],"scale":["sisik"],"system":["sistem","sistem pengendalian"],"systematic":["sistematik"],"siswa":["siswi"],"situation":["situasi"],"shoo":["siuh"],"sober":["siuman"],"scandal":["skandal"],"scandium":["skandium"],"scheme":["skim"],"skirt":["skirt"],"scoliosis":["skoliosis"],"screen":["skrin"],"scooter":["skuter"],"slim":["slim river"],"selamat":["slmt"],"slovenia":["slovenia"],"shovel":["sodok"],"soalan":["soklan"],"salat":["solat"],"songkok":["songkok"],"supir":["sopir"],"seorang":["sorang"],"sorang":["sorg"],"sausage":["sosej"],"socialism":["sosialis","sosialisme"],"socialist":["sosialis"],"socialization":["sosialisasi"],"socialite":["sosialit"],"sociolect":["sosiolek"],"squid":["sotong"],"spades":["sped"],"sependa":["spenda"],"specification":["spesifikasi"],"sijil":["spm"],"stadium":["stadium"],"standardization":["standardisasi"],"statistic":["statistik"],"stesen":["stesyen"],"stethoscope":["stetoskop"],"steak":["stik"],"steam":["stim","wap"],"sumbangan":["str"],"stratum":["strata"],"strategy":["strategi"],"strawberry":["strawberi"],"stream":["strim"],"strontium":["strontium"],"structure":["struktur"],"shove":["sua"],"sanctuary":["suaka"],"subsection":["subseksyen"],"substandard":["substandard"],"sharp-pointed":["suda"],"splinters":["suda"],"sudan":["sudan selatan"],"syllable":["suku kata"],"sultan":["sultan"],"suluk":["suluk"],"semua":["suma"],"stopper":["sumbat"],"sumpit":["sumpitan"],"sungai":["sungei"],"stomach":["superman"],"sura":["surah"],"surat":["suratkhabar"],"syriac":["suryani"],"susyi":["sushi"],"subside":["susut"],"sushi":["susyi"],"suit":["sut"],"silk":["sutera"],"self-service":["swalayan"],"syurga":["swarga"],"saya":["sy"],"sha":["syaaban"],"shampoo":["syampu"],"syamsi":["syamsu"],"shari":["syariat"],"shawwal":["syawal"],"siuh":["syiuh","syuh"],"syria":["syria"],"scatter":["tabur","taburan"],"strew":["tabur"],"sprinkle":["taburan"],"shooting":["tahi bintang"],"slash":["tajak","tetak"],"scare":["takutkan"],"sardine":["tamban"],"signature":["tandatangan"],"sedan":["tandu"],"stair":["tangga"],"stalk":["tangkai"],"screenshot":["tangkap layar"],"sliced":["tapa-tapa"],"sole":["tapak","tapak kaki"],"sufism":["tasawuf"],"shopkeeper":["tauke"],"snake":["tedung","ular"],"strict":["tegas"],"swallow":["teguk","telan"],"spatter":["tempias"],"spurred":["tengar"],"southeast":["tenggara"],"spanish":["tenggiri"],"skull":["tengkorak"],"serene":["tenteram"],"self-raising":["tepung berserbuk penaik"],"sense":["terasa"],"slipped":["tergelincir"],"skidded":["tergelincir"],"staggering":["terhuyung-huyung"],"swaying":["terhuyung-huyung"],"stolephorus":["teri"],"shocked":["terkejut"],"situated":["terletak"],"splashed":["terpercik"],"startled":["tersentak"],"solanum":["terung masam"],"steady":["tetap"],"scaly-breasted":["tiak"],"sudden":["tiba-tiba"],"stab":["tikam-tikam"],"subframe":["timbau"],"self-centered":["tinggi diri"],"storey":["tingkat"],"step-":["tiri"],"selling":["toko"],"sir":["tuan"],"seventy-two":["tujuh puluh dua"],"seventy-four":["tujuh puluh empat"],"seventy-six":["tujuh puluh enam"],"seventy-eight":["tujuh puluh lapan"],"seventy-five":["tujuh puluh lima"],"seventy-one":["tujuh puluh satu"],"seventy-nine":["tujuh puluh sembilan"],"seventy-three":["tujuh puluh tiga"],"seventy-seven":["tujuh puluh tujuh"],"sickle":["tukul dan sabit"],"scad":["tulai"],"spine":["tulang belakang"],"spill":["tumpah"],"styling":["tuto tuds"],"shut":["tutup mulut"],"smartphones":["type c"],"stimulate":["uja"],"sane":["waras"],"subdivided":["wilayah"],"slaughtering":["zabah"],"sonder":["zonder"],"saturn":["zuhal"]}}
+sabak	sekinchan
+sabians	saabien|n
+sabit	bsmm
+sable	samur|n
+sack	guni|n,meletakkan kepala|v
+sacred	kudus|adj
+sacrifice	korban|n,pengorbanan|n,putih tulang|v
+sad	nestapa|n,sedih|adj
+saddle	pelana|n
+sadism	sadisme|n
+sadist	sadis|n
+sadness	kesedihan|n,wahai
+safar	safar
+safety	keamanan|n,keselamatan|n,selamat|adj
+saga	hikayat|n
+sago	abuk-abuk|n,kirai|n,rumbia|n,sagu|n
+sahaja	aje|adv,jak|adv,je|adv,saja|adv
+said	auta|n,jembalang|n,kata|n,tersebut|det
+sail	berlayar|v,layar|n
+sailfish	layaran|n
+sailor	anak kapal|n,kelasi|n,pelaut|n,pelayar|n
+sakar	sagar|n,syagar|n,syakar|n
+sake	demi|prep
+salak	salak|n
+salamander	semandar|n
+salary	gaji|n,gaji buta|n,pendapatan|n,ujrah|n
+salasilah	silsilah|n
+salat	solat|n
+saleh	salih
+salir	saler|v
+saliva	ludah|n
+salt	garam|n
+salted	asam boi|n
+saltwater	air masin|n,kinar|n
+salty	asin|adj
+salur	salor|v
+salute	hormat diraja|n,tabik|n
+samarium	samarium|n
+sambal	sambal|n
+sambar	menyambar|v
+same	adik|n,kata seerti|n,lestari|adj,sama|adj,sedaerah|adj,seerti|adj
+sampan	sampan|n
+samping	sampin|n
+samudera	semedera|n
+samun	disamun|v,menyamun|v,samun sakal|n
+sanctuary	suaka|n
+sand	pasir|n
+sandakan	sandakan
+sandal	capal|n
+sandalwood	cendana|n
+sandfly	agas|n
+sandoricum	sentul|n
+sandwich	sandwic|n
+sane	waras|adj
+sangat	sangat-sangat|adv,sgt|adv
+sangat-sangat	sesangat|adv
+sanggama	senggama|n
+sao	sao tome dan principe
+sapa	sape|pron
+sapodilla	ciku|n
+sappan	secang|n,sepang|n
+sapphire	nilam|n
+sapphism	musahaqah|n
+sarang	bersarang|v
+sarawak	sarawak
+sarcasm	sindir|n
+sardine	tamban|n
+satan	setan|n,syaitan|n
+satay	sate|n
+satellite	satelit|n
+satiated	jenuh|adj,kenyang|adj
+satisfaction	ridwan|n
+satisfactory	memuaskan|adj
+satisfied	puas|adj,ridwan|n
+satisfy	puaskan|v
+satisfying	memuaskan|adj
+sativum	dasun|n
+satu	esa|num,satu puloh|num
+saturday	sabtu
+saturn	zuhal
+satwa	sato|n
+sauce	kicap|n,kicap ikan|n,kicap sotong|n,pad prik|n,sos|n,sos tiram|n
+sauce-based	berkicap|adj
+saudara	anak saudara|n
+saudi	arab saudi
+sausage	sosej|n
+savage	buas|adj
+save	selamatkan|v
+saw	gergaji|n
+sawfish	pari gergaji|n
+say	berkata|v,bersembah|v,bertutur|v,bilang|v,mengaduh|v,mengaku|v
+saya	sy|pron
+sayang	disayangi|v
+saying	pepatah|n,sedap mulut|n
+scab	keruping|n
+scad	tulai|n
+scaffolding	perancah|n
+scale	sisik|n
+scales	dacing|n,mizan|n,teraju|n
+scallion	daun bawang|n
+scallop	kapis|n
+scaly	pengguling|n
+scaly-breasted	tiak|n
+scandal	skandal|n
+scandium	skandium|n
+scanner	pengimbas|n
+scapegoat	kambing hitam|n
+scar	palau|n,parut|n
+scare	takutkan|v
+scarf	ambin|n
+scary	seram|adj
+scatter	tabur|v,taburan|n
+scattered	selerak|adj
+scattering	menyemai|v
+scene	adegan|n
+scenery	pandangan|n
+scheme	skim|n
+scholar	cendekiawan|n,sarjana|n
+scholars	kecendekiawanan|n
+scholarship	biasiswa|n
+school	fly|v,guru besar|n,madrasah|n,maktab|n,sekolah|n,sekolah jenis kebangsaan|n
+schwa-variety	sape|pron,siape|pron
+science	ilmu|n,sains|n,sains komputer|n,sarjana sains|n,widya|n
+scientific	kaedah saintifik|n,linguistik|n
+scientist	ahli sains|n,ilmuwan|n,saintis|n
+scissors	gunting|n
+scoliosis	skoliosis|n
+scoop	cedok|n,cekup|v
+scooter	skuter|n
+scorpion	kala jengking|n,ketungging|n
+scoter	itik kumbang|n
+scour	gosok|v,menggosok|v
+scratch	garu|v
+scratched	calar-balar|adj
+scratcher	pencakar|n
+scrawl	cakar ayam|n
+scream	jerit|n,teriak|n
+screen	skrin|n
+screening	penyaringan|n,tirai|n
+screenshot	tangkap layar|n
+screw	mengkuang|n,skru|n
+screwpine	pandan duri|n,pandan hutan|n
+scribble	cakar ayam|n,conteng|n
+scribe	katib|n
+script	aksara|n,ar|n,ef|n,es|n,hec|n,ji|n
+scrubs	samun gurun|n,semak samun|n
+scrupulous	prihatin|adj
+scrutinize	periksa|v
+sculpture	arca|n
+se	sa|num
+sea	bintang laut|n,buran|n,butun|n,butung|n,kuda laut|n,landak laut|n
+seaborgium	siborgium|n
+seaducks	itik murai|n
+seafarer	pelaut|n
+seal	anjing laut|n,cap|n,mohor|n,sil|n
+seam	kelim|n
+search	cahari|v,cari|v,carian|n,mencari|v
+searching	meraba-raba|v
+season	kemarau|n,musim|n,musim hujan|n,musim kemarau|n,tengkujuh|n
+seasoning	asam garam|n
+seat	kerusi|n,stul|n
+seawater	air laut|n,air masin|n
+seaweed	latuh|n,rumpai laut|n
+sebab	oleh itu|conj,sbb|conj
+sebabkan	menyebabkan|v
+sebalik	sebalik mata|adj
+sebelum	sblm,sm|adv
+sebut	menyebut|v
+second	acik|n,anak angah|n,anda|pron,awak|pron,awda|pron,detik|n
+second-person	abui|v,abuk|v,bandarkan|v,kotai|v,kotakan|v,perkotakan|v
+secondary	sekolah menengah|n
+secret	rahsia|adj,rahsia perniagaan|n
+secretary	setiausaha|n
+secretly	curi-curi|adv,risik|v
+sect	sekta|n
+section	seksyen|n
+sector	sektor|n,sektor awam|n,sektor swasta|n
+secular	sekular|adj
+secularisation	sekularisasi|n
+secularization	sekularisasi|n
+security	keamanan|n,sekuriti|n,selamat|adj
+sedan	tandu|n
+sedegil	sedegil-degil|adj
+sedges	menderung|n
+sediment	sedimen|n
+seduce	goda|v,menggoda|v
+see	abrit|adj,abung|n,bular|adj,karcis|n,kerancang|n,nampak|v
+seed	benih|n,bibit|n,biji|n,butir|n
+seedling	bibit|n
+seeds	abuk-abuk|n
+seek	balas dendam|v,cari|v,mencari|v
+seeking	astaghfirullah
+seeks	barua|n
+seem	berbayang|v,kelihatan|v,menjingga|v
+seeming	kembung|adj
+seen	abang bomba,nyata|adj
+sei	paus sei|n
+seize	gelut|v
+sejarah	sejarah-sejarah
+sekejap	jap|adv
+sekijang	sekijang
+sekolah	sekolah tinggi|n,smk|n
+selamat	slmt
+selang-seli	seli|n
+selangor	damansara,darul ehsan,sabak bernam,selangor,selangor darul ehsan
+selatan	daksina|n
+selection	pemilihan|n,pilihan|n
+selenium	selenium|n
+selesaikan	menyelesaikan|v
+self-care	penjagaan diri|n
+self-centered	tinggi diri|adj
+self-defense	silat|n
+self-depreciating	rendah diri|adj
+self-raising	tepung berserbuk penaik|n
+self-service	swalayan|n
+self-worth	martabat|n
+selfie	berswafoto|v,swafoto|n
+selfness	jati diri|n
+sell	jual|v,memasarkan|v,menjual|v
+seller	bibi|n,penjual|n
+selling	toko|n
+selubung	menyelubungi|v
+semasa	semasa-masa|adv
+sembah	angkat sembah|v,mengangkat sembah|v
+sembilan	negeri sembilan,nismilan,ns
+semen	air mani|n
+sempoa	cepua|n,sepua|n
+semporna	semporna
+semua	suma|adj
+semula	semulajadi|n
+send	kirim|v,surat-menyurat|v
+sengal-sengal	sengsengub|adj
+sengkek	singkek|n
+senile	mamai|adj,nyanyuk|adj
+seniman	seniwati|n
+senior	profesor madya|n
+sensation	miang|adj,perasaan|n,sensasi|n
+sense	terasa|v
+senses	pancaindera|n
+sensual	giur|adj
+sentence	ayat|n,kalimat|n
+sentimental	jiwang|adj,kaki jiwang|n,mat bunga|n,mat jiwang|n
+sentry	sekilwak|n
+sentuh	menyentuh|v
+seorang	sorang|cls
+sepang	cyberjaya
+separate	bahagi|v,lerai|v,pisah|v
+sependa	spenda|n
+september	bulan sembilan|n,september
+septendecillion	septendesilion|num
+septillion	septilion|num
+sepuluh	ekadasa|num,sapuloh|num,satu puluh|num
+sequential	komik|n
+serbia	serbia
+seremban	fu yong,seremban,sungai ujong
+serene	tenteram|adj
+sergeant	sarjan|n
+seri	bandar seri begawan
+seribu	satu ribu|num
+series	biru-biru|n,siri|n
+serikat	sarekat|n
+serious	bersungguh|adj,keseriusan|n,serius|adj
+seriousness	keseriusan|n
+servant	khadam|n
+serve	bersaji|v,laden|v,layan|v,menghidangkan|v,menyajikan|v
+served	kopi o|n,teh o|n,tersaji|v
+server	pelayan|n
+serves	padan muka
+service	jabatan|n,kawasan rehat|n,khidmat|n,perkhidmatan|n,putus bekalan|n,servis|n
+serving	penyajian|n,saji|n,sajian|n
+sesali	sesalkan|v
+sesame	lenga|n
+sesamum	lenga|n
+sesi	sesyen|n
+session	sesi|n,sidang|n
+set	abjad|n,alfabet|n,berangkat|v,membebaskan|v,pencil|v,terlepas|v
+setar	alor setar
+setengah	seteng|n,steng|n
+seteru	satru|n
+setipinna	membiang|n
+settlement	mahar|n,mas kahwin|n
+seven	sapta|num,tujuh|num,tujuh ratus|num,tujuh ribu|num
+seventeen	pitu belas|num,satu puluh pitu|num,satu puluh tujuh|num,sepuluh pitu|num,sepuluh tujuh|num,tujuh belas|num
+seventh	anak hitam|n,ketujuh|num
+seventy	pitu puluh|num,tujuh puluh|num
+seventy-eight	tujuh puluh lapan|num
+seventy-five	tujuh puluh lima|num
+seventy-four	tujuh puluh empat|num
+seventy-nine	tujuh puluh sembilan|num
+seventy-one	tujuh puluh satu|num
+seventy-seven	tujuh puluh tujuh|num
+seventy-six	tujuh puluh enam|num
+seventy-three	tujuh puluh tiga|num
+seventy-two	tujuh puluh dua|num
+sever	kerat|v,potong|v
+several	beberapa|adj,berabad-abad|n,tamban|n,tupai terbang|n
+sew	jahit|v
+sewage	kumbahan|n
+sex	bersekedudukan|v,jantina|n,nenda|n
+sexdecillion	seksdesilion|num
+sextillion	sekstilion|num
+sexual	gangguan seksual|n,orientasi seksual|n,sanggama|n
+sha	syaaban
+shabby	lasam|adj
+shad	kebasi|n
+shade	menaungi|v,naungan|n
+shadow	bayang|n,bayangi|v,membayang|v,menaungi|v,naungan|n,wayang|n
+shah	darul roundabout,shah alam
+shahada	kalimah syahadah|n
+shake	goncang|v
+shaking	gentar|n
+shaky	goyang|adj
+shallot	bawang merah|n
+shallow	capah|n,cetek|adj,mencetekkan|v,tohor|adj
+shallow-fry	goreng tohor|v
+shaman	belian|n,bomoh|n,bomor|n,dukun|n,pawang|n,poyang|n
+shampoo	syampu|n
+shank	keting|n
+shanty	barung|n
+shape	bentuk|n,susuk|n
+shaped	bulan sabit|adj,plastis|adj
+share	bahagian|n
+shared	dibahagi|v
+shares	adik|n
+shari	syariat|n
+shark	ikan yu|n,jerung|n,yu|n
+sharp	gigi|n,kikis|v,paksi|n,tajam|adj,tajam-tajam|adj
+sharp-pointed	suda|n
+sharpen	asah|v
+shattered	binasa|adj,kecai|adj,luruh|v
+shattering	penyerpihan|n
+shave	bercukur|v,cukur|v
+shawwal	syawal
+she	beliau|pron
+sheath	sarung|n
+sheep	biri|n,biri-biri|n,domba|n,kambing hitam|n
+shelduck	itik agung|n
+shelf	para|n,rak|n
+shell	batok|n,petala elektron|n,petala valens|n
+shelled	siput|n
+shelter	lindung|v,naungan|n
+shield	berperisai|v,perisai|n
+shift	alih|v,berubah|v,ganjak|v,syif|n
+shine	seri|n
+ship	bahtera|n,laberang|n,lanca|n
+shipping	kontena|n
+shirt	kemeja|n,kolar|n
+shit	berak|n
+shiver	gigil|v
+shock	dahsyat|n,penampan|n
+shocked	terkejut|adj
+shocker	kejutan|n
+shoe	kasut|n,sepatu|n
+shoo	siuh
+shoot	pucuk|n,rebung|n,taruk|n,tembak|v,tunas|n
+shooting	tahi bintang|n
+shoots	pucuk-pucuk
+shop	kedai|n,kedai kopi|n,kedai runcit|n,kopitiam|n,tauke|n,toko|n
+shopkeeper	tauke|n
+shops	hartal|n
+shore	darat|n,pesisir|n
+short	cerita pendek|n,kependekan|n,ketot|adj,memendek|v,nam|num,parang|n
+short-finned	paus pendek sirip|n
+short-term	pondok|n
+shortage	kekurangan|n
+shortness	kependekan|n
+shorts	seluar pendek|n
+shortsightedness	rabun jauh|n
+shot	lontar peluru|n
+should	harus|v
+shoulder	bahu|n,bahu jalan|n,tanggung|v
+shout	jeritan|n,laung|v,seru|v,sorak|v,tempik|n,teriak|n
+shove	sua|v
+shovel	sodok|n
+shoveler	itik sudu|n
+show	dilarang|adv,tayang|v,tunjuk|v
+shower	hujan panas|n,mandi|v
+showing	bersungguh|adj
+showy	poyo|adj
+shriek	jerit|n
+shrimp	petis|n,udang|n,udang lipan|n
+shrimp-net	siring|n
+shroud	selubung|n
+shrubland	belukar|n
+shut	tutup mulut|v
+shutting	angkup|n
+shuttlecock	bulu tangkis|n
+shy	malu|adj
+siam	siam
+siamang	siamang|n
+siapa	siape|pron,siapo|pron
+siapa-siapa	sesiapa|pron
+siape	siaper|pron
+sib	beradik|adj
+sibling	acik|n,adik|n,adik lelaki|n,saudara|n,yayi|n
+sibling-in-law	lamai|n
+siblings	adik-beradik|n,saudara-saudari|n
+sick	gering|adj,sakit|adj
+sickle	tukul dan sabit|n
+side	lauk|n,mengiring|v,nasi campur|n,parap|v,pihak|n,samping|n
+side-glance	jeling|v
+sidelong	kerling|n
+sieve	ayak|n
+sifter	ayak|n
+sigh	keluh|n
+sight	cam|v,nampak|v,pandangan|n
+sign	bahasa isyarat|n,ilham|n,isyarat|n,tanda|n
+signal	isyarat|n,lampu isyarat|n,tanda|n
+signature	tandatangan|n
+signifies	itulah tu
+signum	cogan|n
+sijil	spm|n
+silence	kesunyian|n
+silent	bungkam|adj,diam|adj,membisu|v
+silicon	silikon|n
+silk	sutera|n
+silly	masuk air|adj
+silver	argentum|n,fidah|n,perak|n,selaka|n
+silverfish	gegat|n
+sima	sima|n
+similar	bagaikan|prep,banji|n,golok|n,kata seerti|n,menanjung|adj,miang|adj
+simple	sempol|adj
+simpleton	pembaris|n
+simplify	mempermudah|v
+simply	sekadar|adv
+simulation	simulasi|n
+simultaneous	serentak|adj
+simultaneously	gus|adv
+sin	dosa|n,dosa asal|n,syirik|n
+since	sejak|conj,semenjak|conj
+sincere	ikhlas|adj,tulus|adj
+sincerity	darul ehsan,keikhlasan|n
+sing	nyanyi|v
+singapore	dolar singapura,ringgit singapura
+singapura	singkapor
+singaringan	baung akar|n
+singer	penyanyi|n
+singgahsana	singgasana|n
+single	bujang|n,ikatan tunggal|n,kesemua|det,tunggal|adj
+single-edged	beladau|n
+singlestick	gayung|n
+singular	aku|pron,anda|pron,awak|pron,awda|pron,baginda|pron,keadaannya|n
+sinisisme	sinisme|n
+sink	acop|v,tenggelam|v
+sinusitis	resdung|n
+sip	hirup|v
+sir	tuan|n
+sissy	bapuk|n
+sister	adik perempuan|n,akak|n,akang|n,ayunda|n,kak|n,kakak|n
+siswa	siswi|n
+sit	berdukung|v,bersila panggung|v,bertahana|v,duduk bersila|v,duduk bersilang kaki|v,duduk bersimpuh|v
+sit-down	mogok duduk|n
+sitophilus	kutu beras|n
+sitting	berdudukan|adj
+situated	terletak|v
+situation	situasi|n
+siuh	syiuh,syuh
+six	enam|num,enam ratus|num,enam ribu|num
+sixteen	enam belas|num,satu puluh enam|num,sepuluh enam|num
+sixth	anak putih|n,keenam|num
+sixty	enam puluh|num
+sixty-eight	enam puluh lapan|num
+sixty-five	enam puluh lima|num
+sixty-four	enam puluh empat|num
+sixty-nine	enam puluh sembilan|num
+sixty-one	enam puluh satu|num
+sixty-seven	enam puluh tujuh|num
+sixty-six	enam puluh enam|num
+sixty-three	enam puluh tiga|num
+sixty-two	enam puluh dua|num
+size	saiz|n
+skateboard	papan luncur|n,papan selaju|n
+skeleton	rangka|n
+sketch	lakar|v
+skewed	serong|adj
+skidded	tergelincir|v
+skilful	cekap|adj
+skilled	mahir|adj
+skillful	mahir|adj,piawai|adj
+skills	kemahiran hidup|n
+skin	anjing langsat|n,graf kulit|n,kulit|n,lapah|v
+skink	bengkarung|n
+skip	fly|v
+skirt	skirt|n
+skiver	kaki ponteng|n
+skull	tengkorak|n
+skullcap	kopiah|n
+sky	biru langit|adj,langit|n,nilakandi|adj
+skyscraper	pencakar langit|n
+slack	mengular|v,renggang|adj
+slander	fitnah|n
+slanted	cenderung|adj
+slap	sepuk|v,tempeleng|v
+slash	tajak|v,tetak|v
+slate	sabak|n
+slaughter	membantai|v,zabah|n
+slaughtered	bantai|n
+slaughtering	zabah|n
+slave	abdi|n,awang|n,hamba|n,kaula|n,kawula|n,kula|n
+slavery	pengabdian|n
+sledgehammer	godam|n
+sleep	beradu|v,inap|v,meletakkan kepala|v,tidur|v
+sleeper	penidur|n
+sleepiness	kantuk|n
+sleeping	kantung tidur|n
+sleeps	penidur|n
+sleepy	mengantuk|adj,terkantuk|v
+sleepyhead	kaki tidur|n
+slice	kerepek|n,potongan|n
+sliced	tapa-tapa|n
+slick	lincir|adj
+slide	lungsur|v
+sliding	pintu gelangsar|n
+slightly	ganjak|v
+slim	slim river
+slingshot	lastik|n
+slip	meluputkan|v
+slipped	tergelincir|v
+slipper	selipar|n
+slippery	licin|adj,licin seperti belut|adj
+slipshod	cincai|adj
+slit	celah|n
+slogan	cogan kata|n,moto|n,slogan|n
+slope	lereng|n
+sloped	cenderung|adj
+sloppy	cincai|adj
+slosh	kocak|v
+slovenia	slovenia
+slow	lambat|adj,lengah|adj,pentar|adj,perlahan|adj,perlahan jalan|n
+slowly	perlahan-lahan|adv
+slug	lintah bulan|n
+sluggish	lengah|adj
+slung	baling-baling|n
+small	canang|n,cebis|cls,cembul|n,ciput|n,dikit|n,imbuh|n
+smaller	batu|n
+smallpox	abilah|n
+smart	bestari|adj,cemerlang|adj,pintar|adj,tera|adj
+smarting	pedih|adj
+smartphones	type c|n
+smashed	kecai|adj
+smeared	lumus|adj
+smearing	palit|n
+smell	bau|n,baui|v,berbau|v,busuk|adj,hidu|v,langu|n
+smellier	membusuk|v
+smelly	ketibus|n,membusuk|v
+smilax	banar|n
+smile	senyum|v
+smoke	asap|n,kelabu asap|adj,merokok|v,sapkok|v
+smoker	perokok|n
+smooth	lancar|adj,lancarkan|v,licin|adj,melincirkan|v,menggalirkan|v,tarah|v
+snack	jajan|n,keropok lekor|n,kudapan|n,makanan ringan|n,snek|n
+snail	ciput|n
+snake	tedung|n,ular|n
+snakehead	haruan|n,toman|n
+snap	patah|v
+snapped	pokah|adj
+snatch	kaki ragut|n,rebut|v,sakau|v
+snatcher	kaki ragut|n,mat ragut|n
+sneeze	bersin|v
+sniff	baui|v
+sniffer	anjing penghidu|n
+snort	mendengus|v
+snot	hingus|n
+snow	salji|n,salju|n
+snow-white	lepak|adj
+snowman	orang salji|n
+snug	sendat|adj
+soalan	soklan|n
+soap	sabun|n
+sob	sedu|v
+sober	siuman|adj
+soccer	bola sepak|n
+social	diskriminasi sosial|n,kesatria|n,media sosial|n,perjumpaan sosial|n,sosial|adj,sosial demokrasi|n
+socialism	sosialis|adj,sosialisme|n
+socialist	sosialis|adj
+socialite	sosialit|n
+sociality	kesosialan|n
+socialization	sosialisasi|n
+socialize	bersosial|v,bersosialisasi|v,sosialisasikan|v
+society	ahli|n,masyarakat|n,masyarakat madani|n
+sociolect	sosiolek|n
+sociology	ilmu masyarakat|n,sosiologi|n
+sodium	natrium|n,natrium bikarbonat|n,natrium hidroksida|n,tingkal|n
+sodomy	liwat|n
+soft	air lembut|n,lembut|adj,lempung|adj
+soft-shell	labi-labi|n
+software	perisian|n,sofwe|n
+soil	berladang|v,tanih|n,zamin|n
+soiled	lumus|adj
+solanum	terung masam|n
+sold	bundle|n,eksport|n
+soldier	askar|n,mat tiarap|n,perajurit|n,serdadu|n
+soldiery	bala|n
+sole	tapak|n,tapak kaki|n
+solely	semata|adv,semata-mata|adv
+solid	kimpal|adj,padat|adj,tahi hidung|n
+solidarity	perpaduan|n
+solitude	khalwat|n
+solubility	keterlarutan|n
+soluble	keterlarutan|n
+solution	kelarutan|n,solusi|n
+some	beberapa|adj,bera|n,makan angin|v,sebahagian|det,titik|v
+somebody	air tangan|n
+someone	abet|n,abid|n,awas|v,bahagiakan|v,barua|n,datuk|n
+something	abahkan|v,abur|v,acapi|v,amaun|n,ampu|v,awas|v
+somewhat	agak|adv
+son	anak lelaki|n,bangsat,bin|n
+son-in-law	menantu|n
+sonder	zonder|prep
+song	gita|n,lagu|n
+songkok	songkok|n
+songster	biduan|n
+songstress	biduanita|n
+soon	kelak|adj,seelok-elok|conj,sekejap|adv,setiba|prep
+sorang	sorg|pron
+sorcerer	belian|n
+sorcery	pustaka|n
+sore	sengal|adj
+sorrowful	sedih|adj
+sosial	kesosialan|n
+sosialisasikan	disosialkan|v,mensosialkan|v
+soul	jiwa|n,semangat|n,sukma|n
+sound	auta|n,bunyi|n,bunyi labial|n,derau|v,desis|n,erang|n
+sounds	bangbung|n
+soup	ramen|n
+sour	asam|adj,kemasam-masaman|adj,masam|adj,masamkan|v,memasam|v,pedar|adj
+source	asal|n,punca|n,sumber|n,usul|n
+sourness	kemasaman|n
+soursop	durian belanda|n
+south	afrika selatan,amerika selatan,apam|n,selatan|n,sudan selatan
+southeast	tenggara|n
+southern	beruk|n,lautan selatan
+southwest	balik pulau,barat daya|n
+souvenir	cenderamata|n
+sovereign	negara|n
+sow	menyemai|v,semai|v
+soy	air tauhu|n,berkicap|adj,kicap|n,soya|n,tauyu|n,toyu|n
+soybean	kacang bulu|n,kedelai|n
+sp	banar|n
+spacious	lapang|adj,luas|adj
+spades	sped|n
+spain	kastela,sepanyol
+span	jangkau|v,jengkal|n
+spanish	tenggiri|n
+spanner	sepana|n
+spark	bunga api|n
+sparse	jarang|adv
+spatial	matra|n
+spatter	tempias|n
+speak	berbahasa|v,bercakap|v,bertutur|v,bicara|v,cakap|v,memperkatakan|v
+spear	pucuk|n,tombak|n
+special	cerakin|n,graha|n,istimewa|adj,khas|adj,takbir raya|n
+specialist	pakar|n
+specialties	darul khusus
+species	balam|n,betung|n,cendara|n,cengal|n,itik baldu|n,itik kumbang|n
+specific	kedaerahan|adj,kespesifikan|n,spesifik|adj
+specifically	milo|n,pungguk|n,zanggi|n
+specification	spesifikasi|n
+specificity	kespesifikan|n
+speciosa	ketum|n
+speck	percik|n
+spectacles	cermin mata|n,kaca mata|n
+speech	bunga bahasa|n,ceramah|n,pidato|n,ucapan|n
+speechless	bisu|adj,bungkam|adj
+speed	had laju|n,kecepatan|n,kelajuan|n,kepecutan|n
+spell	afsun|n,eja|v,jampi|n
+speller	pengeja|n
+spelling	a kapela|n,abdoman|n,abyad|adj,achara|n,aek|n,agik|adv
+sperm	paus sperma|n
+sphere	falak|n,lingkungan|n
+spherical	cembul|n
+spice	rempah|n
+spiced	beriani|n
+spices	rempah-ratus|n
+spicy	pad prik|n,pedas|adj
+spider	bakung|n,labah|n
+spiderweb	sesawang|n
+spike	ranjau|n
+spiked	pacu|n
+spill	tumpah|v
+spin	pusing|v
+spinach	bayam|n,kangkung|n
+spine	tulang belakang|n
+spinning	gasing|n
+spinster	andartu|n
+spirit	indera|n,makhluk halus|n,mambang|n
+spirits	arak|n
+spit	bura|v,ludah|n
+splash	kocak|v,simbah|v,simbahan|n,tempias|n
+splashed	terpercik|v
+splashing	derau|v
+spleen	limpa|n
+splintering	penyerpihan|n
+splinters	suda|n
+split	bahagi|v,belah|n,patah|v
+split-edged	pen|n
+spoil	potong stim|v
+spoken	hang|pron
+sponge	bunga karang|n
+spooky	seram|adj
+spoon	camca|n,sudu|n
+sport	badminton|n,bola tangkis|n,sukan|n,sukan elektronik|n
+spot	bintik|n,noda|n,percik|n
+spotless	nirmala|adj
+spotted	balam|n,bintang|n
+spouse	janda|n
+spp	birah|n,cawi-cawi|n,putat|n
+sprain	sengkol|n
+spray	sembur|v,simbahan|n
+spread	bentangan|n,hamparan|n,membentang|v,merakyat|v,pembentangan|n,penyebaran|n
+spreading	pembentangan|n
+spring	daun bawang|n,mata air|n,musim bunga|n,popia|n
+sprinkle	taburan|n
+sprue	guam|n
+spur	pacu|n
+spurred	tengar|n
+spurt	percit|v
+sputum	kahak|n
+spy	pengintip|n
+square	persegi|n,sesiku|n
+squat	jongkok|v,tinggung|v
+squeeze	apit|v,perah|v,peras|v,ramas|v
+squid	sotong|n
+squirrel	bajing|n,tupai|n,tupai tanah|n
+sri	seri langka,sri lanka
+stab	tikam-tikam|v
+stadium	stadium|n
+staff	kakitangan|n,redaksi|n,staf|n,tenaga|n
+stage	bodok|n,pentas|n
+staggering	terhuyung-huyung|adj
+stagnantly	congok|v
+stain	bekas|n,berbekas|v,noda|n,percik|n
+stained	lumus|adj
+stair	tangga|n
+stake	cucuk|v,galah|n
+stale	basi|adj,lapuk|adj
+stalk	tangkai|n
+stall	barung|n,gerai|n,mogok|v
+stamp	cap|n,hentak|v,memeterai|v,meterai|n,setem pos|n
+stamped	pingat|n
+stand	berdikari|v,berdiri|v,congok|v,diri|n,puteri lilin|n,senang diri|n
+standard	bahasa baku|n,baku|adj,cogan|n,elektrod hidrogen piawai|n,panji-panji|n,sebutan baku|n
+standardization	standardisasi|n
+stapler	pengokot|n
+star	belimbing|n,bintang filem|n,bintang laut|n,najam|n,tahi bintang|n
+starch	kanji|n
+stare	melangut|v,merenung|v,tenung|v
+stared	dilangut|v
+starfish	bintang laut|n,tapak sulaiman|n
+stark	bogel|adj
+starred	bintang|n
+start	imsak|n,mula|n
+starting	mulai|v
+startle	kejut|v
+startled	tersentak|v
+starvation	kebuluran|n
+starving	bulur|adj
+statement	penyata|n
+states	amerika syarikat,pepejal|n,persekutuan mikronesia
+static	elektrik statik|n,statik|adj
+station	balai|n,balai bomba|n,balai mata-mata|n,balai polis|n,galon|n,stesen|n
+stationery	alat tulis|n
+statistic	statistik|n
+statistician	perangkawan|n
+statistics	perangkaan|n,statistik gunaan|n
+statue	patung|n
+stay	inap|v,pondok|n
+staycation	cuti inap|n
+steady	tetap|adj
+steak	stik|n
+steal	curi|v,sakau|v
+steals	panjang tangan|adj
+steam	stim|n,wap|n
+steamed	kukus|adj,nasi kandar|n
+steel	keluli|n
+steep	curam|adj
+steering	kemudi|n,roda stereng|n
+stela	batu bersurat|n,prasasti|n
+stemmed	piala|n
+stench	bau|n
+step	anak tangga|n,langkah|v,pijak|v,setapak|n,singkir|v,sisih|v
+step-	tiri|adj
+stereotype	mat bodek|n,stereotaip|n
+sterilization	pemandulan|n
+stern	mudi|n
+stesen	stesyen|n
+stethoscope	stetoskop|n
+stick	ambat|n,colok|n,lekat|v,tongkat|n,tongkat penyukat|n
+sticks	daki|n
+still	masih|adv,tenang|adj
+stillness	kesunyian|n
+stilyard	dacing|n
+stimulate	uja|v
+sting	sengat|n
+stinger	sengat|n
+stinging	bahal|adj,jelatang|n,latang|n
+stingy	kedekut|adj
+stink	petai|n
+stir	mengacau|v
+stir-fry	goreng kilas|v
+stirrup	rakap|n
+stitch	jahit|v,menyulam|v
+stitched	poket|n
+stockade	kubu|n
+stoker	pendandang|n
+stolen	curian|adj,kecurian|v
+stolephorus	teri|n
+stomach	superman|n
+stomp	hentak|v
+stone	manikam|n,rejam|v,zaman batu
+stoop	bongkok|adj,membongkok|v
+stoopedness	kebongkokkan|n
+stop	berhenti|v,henti|v,menampan|v,mogok|v,perhentian bas|n,singgah|v
+stopover	singgah|v
+stopper	sumbat|n
+stopping	perhentian|n
+stopwatch	randik|n
+store	kedai runcit|n,kedai serbaneka|n,stor|n
+storey	tingkat|n
+stork	bangau|n
+storm	prahara|n,ribut|n,ribut petir|n
+story	bercerita|v,cerita|n,cerita pendek|n,cerita rakyat|n,ceritera|n,kaba|n
+storyteller	mat kelentong|n
+stove	dapur|n,keran|n
+straight	bengkok|adj,bengkong|adj,bujor|adj,jenawi|n,regat|v,terus|adv
+straight-edged	parang|n
+strait	selat|n
+straits	riyal|n
+strange	aneh|adj,ganjil|adj,pelik|adj
+strangle	cekik|v
+strap	sawat|n
+strap-support	ambin|n
+stratagem	muslihat|n
+strategic	pengurusan strategik|n,strategik|adj
+strategy	strategi|n
+stratum	strata|n
+straw	binca|n,penyedut|n,penyedut minuman|n
+strawberry	strawberi|n
+stray	anjing ajak|n,anjing geladak|n,peluru sesat|n
+stream	strim|n
+street	jalan|n
+strength	kekuatan|n,muthu|n
+strengthen	mengotakan|v
+stretch	depa|v,hulur|v,membentang|v,nyunyut|v
+stretched	pampang|adj
+stretchy	elastik|adj
+strew	tabur|v
+strict	tegas|adj
+stride	langkah|v
+strike	catuk|v,menyerang|v,mogok duduk|n,mogok kilat|n,mogok lapar|n,mogok makan|n
+striker	pemogok|n
+strim	distrim|v,mengestrim|v,menstrim|v
+string	jaring|n
+strings	rian|n
+strip	genting gaza,lapah|v,lurut|v,melurut|v
+stripe	garis|n,jalur|n
+striped	anjing arau|n,belang|adj
+stripping	penanggalan|n
+strong	gagah|adj,ghairah|n,kencang|adj,kuat|adj,pahlawan|n,perkasa|adj
+strontium	strontium|n
+structure	struktur|n
+struggle	juang|v,perjuangan|n
+stubborn	baot|adj,berdegil|v,berkeras kepala|v,biot|adj,degil|adj,degilkan|v
+stubbornness	kedegilan|n
+student	anak didik|n,mahasiswa|n,murid|n,pelajar|n,senteri|n,siswa|n
+study	belajar|v,kaji|n,linguistik|n,menyusur galur|v,ulang kaji|v
+stuff	benda|n,daki|n,palam|v,sedap mulut|n
+stupid	ahmak|adj,babuk|adj,bahlul|adj,bangang|adj,bebal|adj,bingung|adj
+stupidity	kebodohan|n
+style	gaya|n,olah|n,stail|n
+styling	tuto tuds|n
+stylish	beregek|adj,regek|adj
+subdivided	wilayah|n
+subframe	timbau|n
+subject	kafir zimmi|n,tertakluk|n,zimmi|n
+submarine	kapal selam|n
+submerge	acop|v,celup|v,tenggelam|v
+submit	aju|v
+subscription	abonemen|n
+subsection	subseksyen|n
+subside	susut|v
+subspecies	ayam|n
+substance	bahan letupan|n,pencair|n
+substandard	substandard|adj
+subzone	pasir panjang
+success	kejayaan|n
+successful	berjaya|adj
+succession	perturunan|n
+successor	pelapis|n
+such	apabila|conj,demikian|adv,putus bekalan|n
+suck	hirup|v,sedut|v
+sucking	hisap|n
+sudah	dah|adv
+sudahlah	dahlah
+sudan	sudan selatan
+sudden	tiba-tiba|adv
+suddenly	sentak|v,terfikir|v,terkantuk|v,tiba-tiba|adv
+suffer	derita|v,hidap|v
+suffering	penderitaan|n,sengsara|n
+sufficient	cukup|adj
+sufism	tasawuf|n
+sugar	aren|n,enau|n,halwa|n,kopi o|n,tebu|n,teh o|n
+suggest	cadang|v,saran|v
+suggested	cadangan|n
+suggestion	cadangan|n,syor|n
+suggests	pembayang|n
+suhur	sahur|n
+suicide	bunuh diri|v
+suit	sut|n
+suitability	kesesuaian|n
+suitable	layak|adj,ngam|adj,padan|adj
+sulfur	belerang|n,sulfur|n
+sulk	merajuk|v
+sultan	sultan|n
+sultanate	bendahara|n
+suluk	suluk
+sum	jumlah|n
+sumbangan	str
+summer	musim panas|n
+summit	puncak|n,sidang kemuncak|n
+sumpah-sumpah	sesumpah|n
+sumpit	sumpitan|n
+sun	beruang madu|n,hujan panas|n,jemur|v,matahari|n,suria|n,syamsi|n
+sunbird	kelicap|n
+sundried	daing|n
+sunflower	bunga matahari|n
+sungai	sungei|n
+sunlight	cahaya matahari|n
+sunting	menyunting|v
+superhero	adiwira|n
+superiority	kelebihan|n,superioriti|n
+superlative	kepalingan|adj,superlatif|adj,terapi|adj,terburuk,tercantik,tertampan
+supernatural	makhluk halus|n
+superpower	adikuasa|n
+superseded	betol|adj,habok|n,hadith|n,ketjap|n,masok|v,ramadhan
+supine	lentang|v
+supir	sopir|n
+supper	bermoreh|v,moreh|n
+supplement	imbuh|n
+supplies	bekalan|n
+supply	rangkaian bekalan|n
+support	ambin|n,sapot|v,sokong|n,tanggung|v
+supporter	peminat|n,penyokong|n,walanon|n
+supporters	geng pelangi|n
+supposedly	konon|adv,kononnya|adv
+supposition	kut|part
+supreme	agung|adj,syogun|n
+sura	surah|n
+surat	suratkhabar|n
+sure	gerenti|adv,pasti|adj,tentu|adv,yakin|adj
+surf	berselancar|v,ombak|n
+surface	gesek|v,tanah|n,tebah|v
+surge	buak|v
+surgeon	ahli bedah|n,arboris|n
+surgery	pembedahan|n
+surgical	ablasi|n,pembedahan|n
+surname	chin,hazmi
+surprise	amboi,apakah,kejutan|n
+surprised	hairan|adj,terkejut|adj
+surrender	putih mata|v
+surrounding	persekitaran|n
+surroundings	keliling|n
+surveillance	penjagaan|n
+survey	riki|v,survei|n
+surveyor	juruukur|n
+sushi	susyi|n
+suspect	sangka|v,suspek|n
+suspension	jambatan gantung|n
+suspicion	mencurigakan|adj,zan|n
+suspicious	curiga-mencurigai|v,kecurigaan|n,mencurigai|v,mencurigakan|adj
+sustainability	kemampanan|n
+sustainable	kemampanan|n,mampan|adj,mampankan|v
+sustained	mampan|adj
+susyi	sushi|n
+swallow	teguk|v,telan|v
+swamp	paya|n,rawa|n,redang|n
+swan	angsa|n
+swarm	hurung|v,kerumun|v
+swastika	banji|n
+sway	ayun|v,imbas|v,lenggok|v
+swaying	terhuyung-huyung|adj
+sweat	berkeringat|v,berpeluh|v,keringat|n,peluh|n,titik peluh|n
+sweaty	ketibas|n
+sweep	menyapu|v
+sweet	manis|adj,pad prik|n
+sweetmeat	genang|n
+swell	membengkak|v
+swift	lancar|adj
+swiftly	menciput|v
+swim	berenang|v,renang|v
+swimming	ketam renjong|n
+swindle	ponteng|v
+swing	ayun|v,buai|v,buaian|n,lenggok|v
+swivel	kekili|n
+swollen	abuh|adj,bengkak|adj
+sword	belera|n,jenawi|n,rencong|n
+syamsi	syamsu|n
+syarikat	sarekat|n,sharikat|n
+syllabic	camna|adv,camni|adv,camtu|adv,cereka|n,cerpen|n,filpen|n
+syllable	suku kata|n
+symbol	simbol|n
+sympathetic	simpati|adj
+symphony	simfoni|n
+symplocos	lukut|n
+symptom	gejala|n,simptom|n
+synchronous	serentak|adj
+syncopic	keta|n,kuar|v,tau|v
+syndicate	sindiket|n
+syndrome	sindrom|n,sindrom down|n,sindrom klinefelter|n,sindrom marfan|n,sindrom tourette|n
+synecology	sinekologi|n
+synonym	adicita|n,aktivitet|n,asu|n,ayam-ayam|n,babi duyung|n,bagan
+synopsis	sinopsis|n
+synth	pensintesis|n
+synthesiser	pensintesis|n
+syria	syria
+syriac	suryani|adj
+syrup	juruh|n,sirap|n
+system	sistem|n,sistem pengendalian|n
+systematic	sistematik|adj
+syurga	swarga|n

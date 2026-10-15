@@ -1,0 +1,3 @@
+ipar	ipar	n	夫或妻的兄弟姐妹	in-law
+ipoh	ipoh		怡保	Ipoh (the capital city of the state of Perak  Malaysia)
+ipuh	ipuh	n	见血封喉	upas (poison from Antiaris toxicaria)			upas

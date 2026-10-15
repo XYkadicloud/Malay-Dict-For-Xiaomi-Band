@@ -1,0 +1,219 @@
+也	jua,juapun,pun|adv,agaknya|adv,bangkali,barangkali|adv,boleh jadi|int,juga|adv
+也是	juga|adv
+也许	agaknya|adv,barangkali|adv,boleh jadi|int,kalu|adv,mungkin|adv,rasanya,bangkali
+也门	yaman
+哟	ah|part
+坟	jirat|n,kubur|n,makam|n,pasaroan,perkuburan|n
+坟场	perkuburan|n
+坟墓	jirat|n,kubur|n,makam|n
+坟山	pasaroan
+域	bachok,daerah|n,kariah|n,kawasan|n,kemaman,lahan|n,lapangan|n,legeh
+孟	benggala,ketur
+孟加	benggala
+孟加拉	benggala
+察	abang polis|n,allahualam,aram,balai mata-mata|n,balai polis|n,berpiket,cerap,cerapan
+察分	balai mata-mata|n
+察分局	balai mata-mata|n
+察到	perhati|v
+察官	peguam negara|n
+察局	balai polis|n
+察者	pemerhati
+拟	dilah|n,kahkah,perli,realiti maya|n,si|art,simulasi|n,tiru,umpamakan
+拟人	si|art
+拟人化	si|art
+拟人化动	si|art
+拟人化动物	si|art
+拟人化动物名	si|art
+拟人化动物名前	si|art
+拟人化动物名前之	si|art
+拟人化动物名前之接	si|art
+拟人化动物名前之接头	si|art
+拟人化动物名前之接头词	si|art
+拟分	dilah|n
+拟分析	dilah|n
+拟分析系	dilah|n
+拟分析系统	dilah|n
+拟声	kahkah
+拟声的	kahkah
+拟现	realiti maya|n
+拟现实	realiti maya|n
+损	cedera,ganti rugi,haus|adj,kehilangan|n,kelukur,kerosakan|n,kerugian|n,merugikan
+损坏	cedera,kerosakan|n,rampung,rosak|adj
+损失	kehilangan|n,kerugian|n,rugi|n,ganti rugi,merugikan,rugikan
+损的	kelukur,pejoratif|adj
+束	bungkus|cls,gugus,ikat|n,jaras,jurai,tingkil,belingkas,berkas|n
+槟	champagne|n,gudi,jerkat,kacip,kelati,pinang|n,pulau pinang,upih
+槟榔	pinang|n,gudi,jerkat,kacip,kelati,pulau pinang,upih
+槟榔剪	kacip
+槟榔实	kelati
+槟榔实的	kelati
+槟榔实的剪	kelati
+槟榔屿	pulau pinang
+槟榔树	upih
+槟榔盆	gudi
+槟酒	champagne|n
+機	petrol|n
+機的	petrol|n
+機的燃	petrol|n
+機的燃料	petrol|n
+江	bilis,ikan bilis|n,yuyu|n
+江河	yuyu|n
+江河湖	yuyu|n
+江河湖泊	yuyu|n
+江河湖泊的	yuyu|n
+江鱼	bilis,ikan bilis|n
+江鱼仔	bilis,ikan bilis|n
+烟	asap|n,kebul,kelabu asap|adj,sapkok|v,balut rokok,berasap,bunga api|n,celaga
+烟具	semberap
+烟囱	cerobong,corong,corong asap
+烟垢	jelaga,sulang asap
+烟尘	celaga
+烟斗	pipa
+烟油	kelekit
+烟火	kembang api|n
+烟火具	kembang api|n
+烟的	berasap
+烟突	serombong|n
+烟窗	semperung,serombong|n
+烟筒	oga
+烟线	kordit|n
+烟线状	kordit|n
+烟线状火	kordit|n
+烟线状火药	kordit|n
+烟者	perokok|n
+烟花	bunga api|n,mercun|n
+烟草	tembakau|n
+烟蒂	puntung
+烟雾	uap|v
+烟鬼	pemadat
+瑟	yusuf
+瑟夫	yusuf
+盟	liga|n,muafakat|n,pakatan|n,perikatan|n,persekutuan|n,serikat|n
+盟约	muafakat|n
+租	menyewa|v,sewa|adj,memajak,menyewakan,penyewa|n,rumah sewa,sewakan,taksi|n
+租借	sewa|adj
+租屋	rumah sewa
+租用	menyewa|v,penyewa|n
+租用的	penyewa|n
+租用的人	penyewa|n
+租车	taksi|n,teksi|n,ulat sapu|n,ulat teksi|n
+租车送	taksi|n,ulat sapu|n,ulat teksi|n
+竟	gerangan
+糟	ampas,bongkar-bongkir,hampas,kacau-bilau,latak|n,lumus|adj,rubai
+糟滓	ampas
+糟粕	ampas,hampas,latak|n,rubai
+统	autokrasi|n,banci|n,banci penduduk,bapa kami,belaka,dilah|n,gabenor|n,genap|adj
+统一	mempersatukan,menyatupadukan,perpaduan|n
+统帅	panglima|n
+统治	menaklukkan,perintah|n,tadbir urus|n,tatakelola|n,autokrasi|n,bapa kami,gabenor|n,kabupaten|n
+统治权	kedaulatan
+统治者	bapa kami,gabenor|n,penguasa,pertuan|v,yamtuan|n,penjajah|n
+统的	leng|n,menora|n,nalih|n,sistematik|adj,syinto,tanjak|n
+统统	belaka,genap|adj,sehabis-habisnya
+统计	banci|n,banci penduduk,perangkaan|n,perangkawan|n,statistik|n,statistik gunaan|n
+统计员	perangkawan|n
+统计学	perangkaan|n,statistik gunaan|n
+统计的	statistik|n
+统计量	statistik|n
+苟	lamun|v
+苟使	lamun|v
+荟	lidah buaya|n
+襟	biras,pesak
+襟兄	biras
+襟兄弟	biras
+跟	anut|v,berikut|v,diikuti|v,ikut|v,iring,mengikuti,menurut|v,menyusul
+跟从	anut|v,turut serta
+跟着	menurut|v,turut|v
+跟随	berikut|v,ikut|v,iring,mengikuti,menyusul,diikuti|v
+跟随的	diikuti|v
+迟	kasip,kelewat,lewat|adj,ahmak|adj,berat kepala,gamer|adj,lambat|adj,lembam
+迟到	terlambat
+迟疑	gamer|adj
+迟疑的	gamer|adj
+迟钝	ahmak|adj,berat kepala,lembam,mentung,oku|adj,pandir,pudar,sedat
+迟钝的	ahmak|adj,berat kepala,lembam,mentung,pandir,pudar,sedat,oku|adj
+铟	indium|n
+食	ayap,anak ikan|n,anjing chow|n,ayapan,baham,bahan makanan,balai raya|n,belalah
+食主	vegan|n
+食主义	vegan|n
+食主义者	vegan|n
+食之	tengkaluk
+食之果	tengkaluk
+食之果实	tengkaluk
+食人	gergasi|n
+食人的	gergasi|n
+食人的魔	gergasi|n
+食人的魔王	gergasi|n
+食动	herbivor|n,maun|n
+食动物	herbivor|n,maun|n
+食品	bahan makanan,hidangan,latuh|n,saji|n,gado-gado,lontong
+食堂	balai raya|n
+食客	benalu
+食广	medan selera|n
+食广场	medan selera|n
+食指	jari telunjuk|n,telunjuk|n
+食摊	lepau
+食日	rahu
+食日月	rahu
+食日月而	rahu
+食日月而引	rahu
+食日月而引起	rahu
+食日月而引起亏	rahu
+食日月而引起亏蚀	rahu
+食日月而引起亏蚀的	rahu
+食日月而引起亏蚀的巨	rahu
+食日月而引起亏蚀的巨龙	rahu
+食月	bulan puasa|n
+食格	rantang
+食橱	lemari|n,sarah|n
+食欲	idam|v,nafsu,selera|n,sambal|n,ulam|n
+食欲刺	sambal|n
+食欲刺激	sambal|n
+食欲刺激物	sambal|n
+食欲的	ulam|n
+食欲的腌	ulam|n
+食欲的腌菜	ulam|n
+食火	kasuari|n
+食火鸡	kasuari|n
+食物	anjing chow|n,makanan|n,masakan,anak ikan|n,ayapan,cecap|v,gerobok|n,hidang
+食物来	cecap|v
+食物来尝	cecap|v
+食物来尝味	cecap|v
+食物来尝味道	cecap|v
+食物橱	gerobok|n
+食物者	jurusaji|n,katerer|n
+食用	mayung
+食用鱼	mayung
+食的	gelojoh|adj,omnivor|n,ramadan,undang-undang rimba|n
+食的人	omnivor|n
+食的原	undang-undang rimba|n
+食的原则	undang-undang rimba|n
+食的月	ramadan
+食的月份	ramadan
+食禁	buka puasa
+食粮	rezeki
+食者	pemayur|n,vegan|n,vegetarian|n
+食肉	binatang maging,karnivor|n,maging|n,makan daging,pemangsa|n
+食肉动	karnivor|n,pemangsa|n
+食肉动物	karnivor|n,pemangsa|n
+食肉的	maging|n,makan daging
+食肉类	binatang maging
+食肉类的	binatang maging
+食肉类的动	binatang maging
+食肉类的动物	binatang maging
+食节	kunut
+食节第	kunut
+食节第十	kunut
+食节第十六	kunut
+食节第十六夜	kunut
+食节第十六夜晚	kunut
+食节第十六夜晚的	kunut
+食节第十六夜晚的祈	kunut
+食节第十六夜晚的祈祷	kunut
+食言	ingkar
+食谱	resipi|n
+食道	halkum|n,kerongkong|n,rengkung,tekak|n
+食鱼	selara
+食鱼类	selara
+食鱼类名	selara
+魟	pari bendera|n,pari susun|n

@@ -13,9 +13,9 @@
   <div class="wb-page" style="height: {{H}}px;">
     <list class="wb-list" style="top: 112px; height: {{listH}}px;">
 
-      <!-- ① 默认查询方向：三选一 -->
-      <list-item type="seg" class="li" style="height: 92px;">
-        <div class="card col-card" style="height: 84px;">
+      <!-- ① 默认查询方向：五选一（两行） -->
+      <list-item type="seg" class="li" style="height: 108px;">
+        <div class="card col-card" style="height: 100px;">
           <text class="card-title fs-t-m">默认查询方向</text>
           <div class="seg-row">
             <div class="seg {{settings.defLang === 'zh' ? 'seg-on' : ''}}" @click="setDefLang('zh')">
@@ -28,7 +28,14 @@
               <text class="seg-tx fs-s-m">英→马</text>
             </div>
           </div>
-          <text class="card-sub fs-s-m">打开搜索页时默认用这个方向</text>
+          <div class="seg-row2">
+            <div class="seg {{settings.defLang === 'zh2en' ? 'seg-on' : ''}}" @click="setDefLang('zh2en')">
+              <text class="seg-tx fs-s-m">中→英</text>
+            </div>
+            <div class="seg {{settings.defLang === 'en2zh' ? 'seg-on' : ''}}" @click="setDefLang('en2zh')">
+              <text class="seg-tx fs-s-m">英→中</text>
+            </div>
+          </div>
         </div>
       </list-item>
 
@@ -207,6 +214,11 @@
   align-items: center;
   margin-top: 6px;
 }
+.seg-row2 {
+  flex-direction: row;
+  align-items: center;
+  margin-top: 5px;
+}
 /* 156 可用宽：3×48 + 2×6 = 156 */
 .seg {
   width: 48px;
@@ -298,7 +310,11 @@ export default {
     }).catch(function () {})
   },
   setDefLang(v) {
-    this.patch({ defLang: v }, '默认方向已更新')
+    const label = {
+      zh: '中→马', ms: '马→中', en: '英→马',
+      zh2en: '中→英', en2zh: '英→中'
+    }[v] || v
+    this.patch({ defLang: v }, '默认方向：' + label)
   },
   setPageSize(v) {
     this.patch({ pageSize: v }, '每页 ' + v + ' 条')

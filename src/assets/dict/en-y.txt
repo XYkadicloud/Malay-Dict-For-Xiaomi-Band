@@ -1,1 +1,36 @@
-{"en2ms":{"youngest":["acik","bapa cik","bongsu"],"younger":["adik perempuan","yayi"],"you":["ajeh","awak semua","dikau","engkau","engkau orang","hang"],"yours":["ajeh"],"young":["anak muda","budak","gadis","muda","teruna"],"yellow":["anjing koreng","anjing ladang","anjing langsat","kuning"],"yes":["au","haah"],"yet":["belum"],"youtiao":["cakoi"],"yearning":["dendam","kempunan"],"yard":["ela","halaman"],"yummy":["enak"],"yusuf":["eusof","euysof","yusof","yusop"],"yield":["hasil"],"yang":["hiang","yang di-pertuan agong","yang-yang","yb","yg"],"yu":["hiu"],"ytterbium":["iterbium"],"yttrium":["itrium"],"yell":["jerit","laung","tempik","teriak"],"yardlong":["kacang panjang"],"yawn":["kuap","sangap","uap"],"yolk":["kuning telur"],"youngster":["mat belia"],"yong":["peran"],"years":["perang tiga puluh tahun"],"yearn":["rindu"],"year":["tahun","tahun baru","tahun baru cina","tahun lompat"],"yearly":["tahunan"],"yam":["tomyam","ubi"],"yo":["weh","wei","woi"],"yak":["yak"],"yaakub":["yakub"],"yemen":["yaman"],"yogurt":["yogurt"],"yamaha":["ysuku"],"yunani":["yunan"]}}
+yaakub	yakub
+yak	yak|n
+yam	tomyam|n,ubi|n
+yamaha	ysuku
+yang	hiang|n,yang di-pertuan agong,yang-yang|n,yb|n,yg|conj
+yard	ela|n,halaman|n
+yardlong	kacang panjang|n
+yawn	kuap|v,sangap|v,uap|v
+year	tahun|n,tahun baru,tahun baru cina,tahun lompat|n
+yearly	tahunan|adj
+yearn	rindu|v
+yearning	dendam|n,kempunan|adj
+years	perang tiga puluh tahun
+yell	jerit|n,laung|v,tempik|n,teriak|n
+yellow	anjing koreng|n,anjing ladang|n,anjing langsat|n,kuning|adj
+yemen	yaman
+yes	au,haah
+yet	belum|adv
+yield	hasil|n
+yo	weh,wei,woi
+yogurt	yogurt|n
+yolk	kuning telur|n
+yong	peran|n
+you	ajeh|pron,awak semua|pron,dikau|pron,engkau|pron,engkau orang|pron,hang|pron
+young	anak muda|n,budak|n,gadis|n,muda|adj,teruna|adj
+younger	adik perempuan|n,yayi|n
+youngest	acik|n,bapa cik|n,bongsu|adj
+youngster	mat belia|n
+yours	ajeh|pron
+youtiao	cakoi|n
+ytterbium	iterbium|n
+yttrium	itrium|n
+yu	hiu|n
+yummy	enak|adj
+yunani	yunan|n
+yusuf	eusof,euysof,yusof,yusop

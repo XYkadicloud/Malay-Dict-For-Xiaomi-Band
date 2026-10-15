@@ -1,0 +1,526 @@
+伟	azhar,kabir,kebesaran,maha,raya|adj,sergam
+伟大	azhar,kebesaran,kabir,maha,raya|adj
+伟大的	kabir,maha,raya|adj
+伟的	sergam
+借	meminjam,pinjam|v,berhutang,helah,helat daya,kad debit|n,kuda padi|n,meminjamkan
+借债	berhutang
+借助	kuda padi|n
+借助逐	kuda padi|n
+借助逐字	kuda padi|n
+借助逐字直	kuda padi|n
+借助逐字直译	kuda padi|n
+借助逐字直译文	kuda padi|n
+借助逐字直译文翻	kuda padi|n
+借助逐字直译文翻译	kuda padi|n
+借口	helah,helat daya
+借宿	tumpang|v
+借方	kad debit|n
+借方卡	kad debit|n
+借用	pinjam|v
+借给	meminjamkan
+功	rukun islam|n,balas jasa,berhasil,berjasa,berjaya|adj,falah,fungsi|n,gagal|v
+功劳	jasa,balas jasa,berjasa
+功劳的	berjasa
+功效	khasiat
+功的	berhasil,berjaya|adj,ghalib
+功绩	jasa,pahala|n
+功能	fungsi|n,mati pucuk|n
+功能障	mati pucuk|n
+功能障碍	mati pucuk|n
+原	agen penurunan|n,alif-ba-ta,ama,ampun|n,anak negeri,anjing prairi|n,antigen|n,asasi|adj
+原住	anak negeri,pribumi
+原住民	anak negeri,pribumi
+原体	patogen|n
+原则	kanun|n,prinsip|n,rukun|n,dasar,pada asasnya,rukunegara,undang-undang rimba|n
+原则上	pada asasnya
+原剂	agen penurunan|n
+原因	kedutkan|v,kelupaskan|v,meyakinkan|adj,peningkan|v,punca|n,sebab|conj,menggerekkan|v,sebab-musabab
+原因的	menggerekkan|v
+原土	anjing prairi|n
+原土拨	anjing prairi|n
+原土拨鼠	anjing prairi|n
+原型	prototaip|n,purbarupa|n
+原声	gitar akustik|n
+原声吉	gitar akustik|n
+原声吉他	gitar akustik|n
+原始	azali,mengusulkan,usul|n,asli|adj,hutan belantara,primitif,sakai|n,semang
+原始森	hutan belantara
+原始森林	hutan belantara
+原始民	sakai|n
+原始民族	sakai|n
+原始的	primitif,asli|adj
+原始的真	asli|adj
+原始的真正	asli|adj
+原始的真正的	asli|adj
+原始种	semang
+原始种族	semang
+原始种族名	semang
+原子	ama,atom,zarah,bom atom|n,valens|n,zaman atom
+原子价	valens|n
+原子弹	bom atom|n
+原子时	zaman atom
+原子时代	zaman atom
+原料	bahan mentah,perawis,ramuan|n
+原本	virus|n
+原来	jelimput
+原来的	jelimput
+原来的方	jelimput
+原来的方向	jelimput
+原油	petrol|n
+原油經	petrol|n
+原油經過	petrol|n
+原油經過蒸	petrol|n
+原油經過蒸餾	petrol|n
+原油經過蒸餾重	petrol|n
+原油經過蒸餾重整	petrol|n
+原理	prinsip|n,teori,alif-ba-ta,asasi|adj,letakkan|v
+原璧	rujuk|v
+原璧归	rujuk|v
+原璧归赵	rujuk|v
+原稿	maskhah
+原罪	dosa asal|n
+原谅	ampun|n,memaafkan,mengampunkan,maafkan saya|int,minta ampun,syirik|n
+原谅我	maafkan saya|int
+原谅的	syirik|n
+吟	dayu,dedau,erang|n,mendayu,mengerang,merintih,rintih,senandung
+嘟	ngangut
+嘟喃	ngangut
+土	anjing prairi|n,ardvark|n,batu pahat,bomoh|n,buka tanah,bumi|n,bumiputera|n,darul iman
+土医	bomoh|n
+土地	bumi|n,pertiwi,tanah|n,zamin|n,buka tanah,jembalang|n
+土地公	jembalang|n
+土坯	darul iman,darul ridzuan
+土堆	manggul,matang
+土墩	guar|n
+土壤	tanih|n
+土拨	anjing prairi|n,marmut|n
+土拨鼠	marmut|n,anjing prairi|n
+土星	zuhal
+土根	rimpang
+土漆	sampang
+土瓮	guri
+土瓶	guri
+土生	bumiputera|n
+土的	kuripan|n,orang asli|n
+土耳	tarbus|n
+土耳其	tarbus|n
+土耳其无	tarbus|n
+土耳其无边	tarbus|n
+土耳其无边毡	tarbus|n
+土耳其无边毡帽	tarbus|n
+土脂	batu pahat
+土著	bumiputera|n
+土豆	kentang|n,kerepek kentang|n
+土豆片	kerepek kentang|n
+土豚	ardvark|n
+土风	ronggeng
+土风舞	ronggeng
+够	bisa|adj,cukup|adj,cukup besar,cukup lama,cukupi,dapat|v,kecupan,mencukupi
+够一	sirih|n
+够一口	sirih|n
+够一口嚼	sirih|n
+够一口嚼的	sirih|n
+够一口嚼的栳	sirih|n
+够一口嚼的栳叶	sirih|n
+够久	cukup lama
+够大	cukup besar
+够毒	bisa|adj
+够用	cukupi
+够的	pada|prep
+废	a kapela|n,abdoman|n,achara|n,alor star,anam|num,anjing pandan|n,ayer|n,bangkai|n
+废料	anjing pandan|n
+废物	bangkai|n,buangan,keladak,sempeleh
+废的	a kapela|n,abdoman|n,achara|n,alor star,anam|num,ayer|n,barat semata selatan|n,biling|v
+废话	cakap angin
+废除	batal|adj,menghapuskan,meniadakan
+弟	adik|n,adik beradik|n,adik lelaki|n,adik-beradik|n,adinda|n,ading|n,biras,bung|n
+弟妹	adinda|n
+弟姐	duai,ipar|n,pupu,sekadim,sepupu|n
+弟姐妹	duai,ipar|n,pupu,sekadim,sepupu|n
+弟弟	adik|n,ading|n
+弟的	ikhwan,kakanda|n
+弟的尊	kakanda|n
+弟的尊敬	kakanda|n
+悟	kebangkitan,keinsafan|n,kesedaran|n,kesesalan|n,mafhum,sedar|adj
+感	abras|adj,ayuh,berbangga,bismillah,citarasa,demam selesema,emosi|n,gendang hati
+感伤	jiwang|adj,mat jiwang|n
+感伤的	jiwang|adj,mat jiwang|n
+感冒	demam selesema,sejuk macam air batu|adj,selesema
+感到	berbangga,menyeramkan
+感到恐	menyeramkan
+感到恐怖	menyeramkan
+感到骄	berbangga
+感到骄傲	berbangga
+感动	pilu,rawan,mengharukan,menginspirasi|v,terharu
+感嘆	mak kau hijau
+感嘆詞	mak kau hijau
+感应	gerak balas
+感恩	mengucap syukur
+感情	emosi|n,perasaan|n
+感染	abras|adj,rentan
+感染的	abras|adj,rentan
+感激	kesyukuran|n
+感激之	kesyukuran|n
+感激之情	kesyukuran|n
+感的	terinspirasi|v
+感觉	citarasa,merasa,rasa|n,sensasi|n,terasa|v,tega
+感觉的	tega
+感谢	syukur|n,bismillah
+感谢上	bismillah
+感谢上帝	bismillah
+戟	paus pembunuh|n,serampang|n,trisula|n
+戟鲸	paus pembunuh|n
+挟	getil,kepit|v
+挟带	kepit|v
+挟撮	getil
+挟着	kepit|v
+星	najam|n,nujum,ahad|num,berminggu-minggu,bintang|n,bintang berekor|n,bintang filem|n,bintang kotek
+星亚	kelembahang
+星亚科	kelembahang
+星亚科植	kelembahang
+星亚科植物	kelembahang
+星光	lima puluh empat|num
+星光诱	lima puluh empat|num
+星光诱惑	lima puluh empat|num
+星占	ramal|v
+星座	buruj|n
+星时	syaaban
+星时角	syaaban
+星星	bintang|n
+星期	minggu|n,ahad|num,berminggu-minggu,hari ahad,hari dua,hari isnin,hari jummat,hari khamis
+星期一	hari isnin,hari satu,isnin
+星期三	hari rabu,hari tiga,rabu,rabu abu
+星期二	hari dua,hari selasa,selasa
+星期五	hari jummat,jumaat,said
+星期五的	said
+星期五的男	said
+星期五的男孩	said
+星期五的男孩之	said
+星期五的男孩之名	said
+星期六	hari sabtu,sabtu
+星期四	hari khamis,khamis
+星期日	ahad|num,hari ahad,hari minggu
+星期日的	ahad|num
+星的	keteng
+期	ahad|num,ajal|n,ansur,awal|adj,bayaran ansur,beransur-ansur,berminggu-minggu,bertarikh
+期一	hari isnin,hari satu,isnin
+期三	hari rabu,hari tiga,rabu,rabu abu
+期中	mada
+期中的	mada
+期中的象	mada
+期二	hari dua,hari selasa,selasa
+期五	hari jummat,jumaat,said
+期五的	said
+期五的男	said
+期五的男孩	said
+期五的男孩之	said
+期五的男孩之名	said
+期付	bayaran ansur
+期付款	bayaran ansur
+期六	hari sabtu,sabtu
+期刊	majalah|n
+期刊物	majalah|n
+期四	hari khamis,khamis
+期日	ahad|num,hari ahad,hari minggu
+期日的	ahad|num
+期的	ansur,bertarikh,daeng|n,ekspot|n,impot|adj,katerangan|n,menta,pentarikhan|n
+期的鸣	menta
+期的鸣叫	menta
+期间	jangka|v,kala|n,sesi|n,masa rehat|n
+期限	tenggang
+樟	barus,kamfor|n,kapur barus
+樟脑	barus,kamfor|n,kapur barus
+氟	fluorin|n
+沟	alur|n,bandar air,bendar,galur,limbah,longkang|n,lurah,menyeroka
+沟渠	longkang|n,parit
+沟灌	menyeroka
+沟灌溉	menyeroka
+沟畦	galur
+沟穴	lurah
+涟	linang
+涟涟	linang
+熟	belantah,berkenal-kenal,cekap|adj,ganyut,hafaz,hapal,jelantah,jendera
+熟人	kenalan
+熟果	kebabal|n
+熟果实	kebabal|n
+熟烂	ronyoh
+熟烂的	ronyoh
+熟的	belantah,ganyut,jelantah,jerkat,koment,lenyet,magang|n,magil
+熟的槟	jerkat
+熟的槟榔	jerkat
+熟睡	jendera,lena,nyenyak,renyap,tidur lelap,lelap|adj,lenyak
+熟睡的	lelap|adj,lenyak
+熟练	cekap|adj,pacak,piawai|adj
+熟练的	cekap|adj,pacak,piawai|adj
+熟络	berkenal-kenal
+熟而	tengkaluk
+熟而可	tengkaluk
+熟而可食	tengkaluk
+熟而可食之	tengkaluk
+熟而可食之果	tengkaluk
+熟而可食之果实	tengkaluk
+熟虑	timbang menimbang
+熟记	hafaz,hapal
+熟读	mahfuz
+熟透	kukuk
+生	abaimana|n,abang kandung|n,ahli bedah|n,anak didik|n,anak gampang,anak haram|n,anak kembar,anak merah|n
+生不	ganyut,jelantah,magil
+生不熟	ganyut,jelantah,magil
+生不熟的	ganyut,jelantah,magil
+生于	berasal|v,bubul,said
+生于手	bubul
+生于手脚	bubul
+生于手脚上	bubul
+生于手脚上之	bubul
+生于手脚上之脓	bubul
+生于手脚上之脓疮	bubul
+生于星	said
+生于星期	said
+生于星期五	said
+生于星期五的	said
+生于星期五的男	said
+生于星期五的男孩	said
+生于星期五的男孩之	said
+生于星期五的男孩之名	said
+生产	kelahiran|n,produksi,daya pengeluaran,produktif|adj,produktiviti|n
+生产力	daya pengeluaran,produktiviti|n
+生产率	produktiviti|n
+生产的	produktif|adj
+生人	mendonan
+生儿	anak merah|n
+生动	parasit|n
+生动物	parasit|n
+生命	jiwa|n,sukma|n,umur|n,berjiwa,bernyawa,puspajuita,selera|n,vital
+生命之	puspajuita,selera|n
+生命之意	selera|n
+生命之意义	selera|n
+生命之花	puspajuita
+生命力	vitaliti
+生命所	vital
+生命所需	vital
+生命所需的	vital
+生命的	berjiwa,bernyawa
+生圈	belampung,kelampung
+生妇	bidan|n
+生姜	tepus|n
+生子	anak gampang,anak haram|n,anak kembar,anak tunggal|n,gampang|n,haram jadah|n
+生存	wujud,mencari hidup
+生孩	beranak|v
+生孩子	beranak|v
+生山	beruas
+生山竹	beruas
+生山竹果	beruas
+生山竹果树	beruas
+生幻	berhalusinasi|v
+生幻觉	berhalusinasi|v
+生态	bioekologi|n,ekologi|n,kaji alam haiwan|n,kaji alam hayat|n,sinekologi|n,zooekologi|n
+生态学	ekologi|n,kaji alam hayat|n,bioekologi|n,kaji alam haiwan|n,sinekologi|n,zooekologi|n
+生怒	naik marah
+生惯	kolokan,manja|adj
+生惯养	kolokan,manja|adj
+生惯养的	kolokan,manja|adj
+生意	bisnes|n,perniagaan,berniaga|n,buka kedai,meniaga,niaga|n
+生效	kuatkuasa,menguatkuasakan
+生日	hari jadi|n,hari lahir|n,selamat hari jadi|int
+生日快	selamat hari jadi|int
+生日快乐	selamat hari jadi|int
+生植	benalu,menalu,sakat|v
+生植物	benalu,menalu,sakat|v
+生植物菌	menalu
+生榴	durian punggai,pungai
+生榴莲	durian punggai,pungai
+生殖	biak,abaimana|n,ayuk-ayutan|n,butuh|n,faraj|n,palat|n,pukas,puki|n
+生殖器	abaimana|n,butuh|n,faraj|n,palat|n,pukas,puki|n
+生殖神	ayuk-ayutan|n
+生气	beran|adj,bulu hati,kecil hati,kemarahan|n,marah|adj,merungut|v,naik darah,naik marah
+生气的	gusar,hangus,membawang|v,nafsi,dinamik|adj,lempam
+生气蓬	cegak,dinamik|adj
+生气蓬勃	cegak,dinamik|adj
+生气蓬勃的	cegak,dinamik|adj
+生活	hidup|v,kehidupan|n,kemahiran hidup|n,maya|adj,nyawa|n,rezeki,elaun hidup,gaya hidup|n
+生活方	gaya hidup|n,urbanisme|n
+生活方式	gaya hidup|n,urbanisme|n
+生活津	elaun hidup
+生活津贴	elaun hidup
+生活的	haluan
+生活的目	haluan
+生活的目的	haluan
+生活费	nafkah hidup
+生灯	penunu bunsen|n
+生物	organisma|n,abang kandung|n,ayah kandung|n,bapa kandung|n,bendalu|n,bioekologi|n,biofizik|n,biologi|n
+生物圈	biosfera|n
+生物学	biologi|n,ilmu hayat,abang kandung|n,ayah kandung|n,bapa kandung|n,emak kandung|n,ibu kandung|n,mak kandung|n
+生物学的	abang kandung|n,ayah kandung|n,bapa kandung|n,emak kandung|n,ibu kandung|n,mak kandung|n
+生物物	biofizik|n
+生物物理	biofizik|n
+生物物理學	biofizik|n
+生物生	bioekologi|n
+生物生态	bioekologi|n
+生物生态学	bioekologi|n
+生物节	bioritma|n
+生物节律	bioritma|n
+生理	fisiologi|n,kaji tugas organ|n
+生理学	fisiologi|n,kaji tugas organ|n
+生生	bendalu|n,hidup-hidup,mentah-mentah
+生生物	bendalu|n
+生生的	hidup-hidup,mentah-mentah
+生病	hidap|v,jatuh sakit,kena sakit,menghidap,rentan
+生的	belantah,mentah|adj,hidup-hidup,kontinjen|n,mentah-mentah,mewah|adj,riap
+生石	kapur tonor
+生石灰	kapur tonor
+生硬	ganyut,kersai
+生硬的	ganyut,kersai
+生糖	tingting
+生素	vitamin,zat makanan
+生纸	surat lahir
+生育	bulus
+生育的	bulus
+生芒	pauh|n
+生芒果	pauh|n
+生菜	kuluban,selada,urap-urap
+生虫	kuman|n,kutu|n,parasit|n
+生蛋	ayam dara
+生蛋的	ayam dara
+生蛋的雌	ayam dara
+生蛋的雌鸡	ayam dara
+生蟹	umang-umang|n
+生计	jerki,memperkotakan|v,nafkah hidup,pencarian,penghidupan,rezeki,cari makan,cari rezeki
+生词	eka|num,tapai|n,teka|v
+生词汇	eka|num,tapai|n,teka|v
+生贽	semah
+生锈	berkarat,karat|n,pengaratan|n
+生长	tumbuh|v,bakau|n,cagu|n
+生长在	bakau|n
+生长在海	bakau|n
+生长在海边	bakau|n
+生长在海边的	bakau|n
+生长在海边的红	bakau|n
+生长在海边的红木	bakau|n
+生长的	cagu|n
+生霉	kulat|n
+生风	semak samun|n
+生风云	semak samun|n
+疟	demam kura,malaria
+疟疾	demam kura,malaria
+瘟	abak,sampar
+瘟疫	abak
+真	allah,amat|adv,asli|adj,begitu|adv,benar|adj,bersungguh-sungguh|adv,betul-betul,hakikat
+真主	allah
+真可	monel
+真可爱	monel
+真可爱的	monel
+真实	hakikat,sawab,sungguh|adj,tarum|n,tulus|adj
+真实的	hakikat,sawab,sungguh|adj,tarum|n,tulus|adj
+真寺	masjid|n,misigit|n
+真正	betul-betul,amat|adv,asli|adj,begitu|adv,hakikat,kaya raya|adj,misoa|n,mustakim
+真正的	amat|adv,begitu|adv,hakikat,kaya raya|adj,misoa|n,mustakim,pijau|n,syok|adj
+真珠	lolo,mutia
+真珠贝	mutia
+真理	kebenaran|n,sawab
+真的	benar|adj,jurus,nah,sejati|adj,naif|adj,saksama|adj,sungguh-sungguh
+真确	seyogianya
+真确的	seyogianya
+真空	hampa udara,vakum
+真诚	zakiah
+真诚的	zakiah
+瞟	kerling|n
+瞟了	kerling|n
+瞟了一	kerling|n
+瞟了一眼	kerling|n
+碟	ceper,almari|n,kapis|n,pinggan-mangkuk,piring|n,sahan
+碟子	piring|n,sahan
+碟橱	almari|n
+碟烘	kapis|n
+碟烘烤	kapis|n
+粟	jawawut|n,ketar,ketir,sangat kecil
+舟	biduk,gorab,ibar-ibar,jalur|n,jongkong,jukung,kempang,kolek
+舟上	ranggak
+舟上陆	ranggak
+舟会	regata|n
+舟名	gorab
+螟	anak angkat
+螟蛉	anak angkat
+螟蛉子	anak angkat
+负	aspirasi,bangga,beban|n,bengah,bertanggungjawab,bongkak,congkak,galas
+负在	gendong,menggendong
+负在背	gendong,menggendong
+负在背后	gendong,menggendong
+负担	beban|n,memikul
+负的	ranggi
+负荷	galas
+负责	bertanggungjawab
+负重	beban|n
+辟	rentas,rentis
+速	juapun,bangat,cepatan,cepatkan,deras|adj,ekspreswe|n,had laju|n,halaju|n
+速上	zum|n,zum dekat|n,zumkan|v
+速上升	zum|n,zum dekat|n,zumkan|v
+速公	ekspreswe|n,jalan ekspres|n,lebuh raya ekspres|n
+速公路	ekspreswe|n,jalan ekspres|n,lebuh raya ekspres|n
+速剂	pemecut|n,penderas|n
+速力	halaju|n
+速度	cepatan,halaju|n,kelajuan|n,tongkat penyukat|n,had laju|n
+速度限	had laju|n
+速度限制	had laju|n
+速率	cepatan,kecepatan|n
+速的	lancar|adj,lekas|adv,lolor-lolor,pantas|adj,pesat,tungkas,umbul
+速的长	umbul
+速的长大	umbul
+速粒	takion|n
+速粒子	takion|n
+速表	jangka angin
+钟	jam|n,loceng|n,lonceng|n,bandul,hangat-hangat tahi ayam,kangsa,kelenung,manara
+钟摆	bandul
+钟楼	manara
+钟热	hangat-hangat tahi ayam
+钟热度	hangat-hangat tahi ayam
+钟的	kelenung
+钟的回	kelenung
+钟的回声	kelenung
+钟铜	kangsa
+队	gerombolan,ambal,ang mo kio,angkatan|n,angkatan laut,angkatan perang,armada|n,bala tentera
+队伍	angkatan|n,banjar|n,barisan|n,kumpulan|n,pasuk,pasukan|n
+队俯	kelupas|v
+队俯冲	kelupas|v
+队俯冲目	kelupas|v
+队俯冲目标	kelupas|v
+队员	gerilawan
+队地	berdusta,duyun
+队游	ambal
+队游行	ambal
+队的	saf
+鸟	ayam inggeris|n,ayam piru|n,burung|n,cenderawasih|n,manuk|n,paksi|n,selancang|n,unggas
+鸟云	gabak
+鸟云满	gabak
+鸟云满天	gabak
+鸟兽	denak
+鸟兽用	denak
+鸟兽用的	denak
+鸟兽用的小	denak
+鸟兽用的小动	denak
+鸟兽用的小动物	denak
+鸟名	lepik
+鸟啄	muncung
+鸟嘴	paruh
+鸟器	pacau
+鸟或	sesapan
+鸟或野	sesapan
+鸟或野兽	sesapan
+鸟或野兽喝	sesapan
+鸟或野兽喝水	sesapan
+鸟或野兽喝水之	sesapan
+鸟或野兽喝水之处	sesapan
+鸟用	pulut|n
+鸟用的	pulut|n
+鸟用的胶	pulut|n
+鸟用的胶汁	pulut|n
+鸟的	jebak
+鸟的笼	jebak
+鸟瞰	panorama
+鸟笼	lapun,kelontang
+鸟粪	guano
+鸟胃	hempedal|n,pedal
+鸟语	miap
+鸟鸣	burung berkicau,ricau,kicau|n
+鸟鸣声	kicau|n
+龟	kura-kura|n,abau|n,barua|n,kambar,penyu|n
+龟鸨	barua|n

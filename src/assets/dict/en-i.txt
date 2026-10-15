@@ -1,1 +1,295 @@
-{"en2ms":{"initialism":["aa","abdb","ai","atm","bbnu","bi"],"immortalize":["abadikan"],"infected":["abras"],"imperative":["abui","abuk","imperatif","tak payah"],"interrogative":["adakah"],"ideologi":["adicita"],"intellectual":["ahli fikir","budaya"],"ice":["air batu","ais","aiskrim","sejuk macam air batu"],"invitation":["ajak"],"insincere":["ajak-ajak ayam"],"intellect":["akal"],"increase":["ambah","membesar","menambah","menambahkan"],"illegitimate":["anak haram","haram jadah"],"imagination":["angan","imaginasi"],"injustice":["aniaya"],"interface":["antara muka"],"intensive":["apa benda","sangat-sangat"],"idol":["arca","berhala","pujaan","reca"],"insurance":["asuransi","insurans"],"interspace":["awang-awang","awang-awangan","awang-gemawang","sawang"],"influence":["ayaw","pengaruh"],"infinitive":["badut-badutkan","bincangkan","celakakan","cetekkan","curigai","elokkan"],"inform":["bagitahu","beritahu","maklum"],"investigation":["bahas","siasat"],"inspection":["bahas","imigresen"],"internee":["banduan"],"islamic":["bang","bidaah","keislaman","parti ajaran sesat","solat","tahfiz"],"indefiniteness":["barang"],"invalid":["batal"],"imagine":["bayangkan","imaginasikan"],"infant":["bayi"],"inflatable":["belon"],"item":["benda","ketinggalan"],"intransitive":["bergantung","berkubang","bersarang"],"inspiration":["berinspirasi","inspirasi"],"idiomatically":["berkaitan dengan","berkenaan dengan","curi ayam","oleh sebab itu","tanam anggur","tidak akan"],"include":["berlaci","bertelefon","termasuk"],"intend":["berniat"],"ill-intentioned":["berniat jahat"],"including":["berpencen"],"inhabited":["berpenduduk","kariah"],"inquire":["bertanya","risik"],"iron":["besi","ferum","menyeterika","seterika"],"inggeris":["bi"],"innovation":["bidaah","inovasi"],"indigo":["biru nila","nila","tarum"],"intelligent":["budiman","pandai","pintar","tera"],"invisible":["bunian"],"inflate":["busung"],"ingrown":["cagu","cekam"],"intensively":["calar-balar"],"identify":["cam"],"intervention":["campur tangan"],"instrument":["canang","peranti"],"ignore":["capak"],"internet":["cc","internet"],"inclined":["cenderung"],"intelligence":["cipta","kecerdasan buatan"],"incense":["colok","dupa","istanggi"],"idly":["congok"],"income":["cukai pendapatan","pendapatan"],"ink":["dakwat","mangsi"],"insist":["desak"],"indicate":["di","kat","orait"],"inside":["di dalam"],"iklankan":["diiklankan","mengiklankan"],"imaginasikan":["diimaginasikan","mengimaginasikan"],"imbuh":["diimbuh","mengimbuh"],"implementasikan":["diimplementasikan","mengimplementasikan"],"import":["diimport","impot","mengimport","pengimportan"],"islamkan":["diislamkan","mengislamkan","pengislaman"],"inner":["dinding"],"insult":["ejek","maki","menganjing"],"interpretation":["ertian","pengertian"],"interpret":["ertikan"],"ivory":["gading"],"imperial":["gantang","gelen","pergam"],"itchy":["gatai","gatal","miang","pengas"],"into":["gemal","masuk melayu","melayukan","menjadi","potong","surup"],"itch":["giang"],"instructor":["guru"],"impede":["halang"],"intense":["hebat"],"infect":["hinggap","jangkit"],"inhalation":["hisap"],"interjection":["hoi"],"islam":["hud","idris","islam","islamkan","keislaman","lebai"],"iban":["iban"],"ibrahim":["ibrahim","madani","pmx"],"icibos":["ichibos"],"idea":["idea","pendapat","wawasan"],"idealism":["idealisme"],"identity":["identiti","jati diri"],"ideology":["ideologi"],"ifrit":["ifrit"],"ihsan":["ihsan"],"ijok":["ijok"],"ikat":["ikat"],"initiative":["ikhtiar","inisiatif"],"ilahi":["ilahi"],"imaginative":["imaginatif"],"image":["imej","imej pendam","reca"],"imagery":["imejan"],"imigresen":["imigresyen"],"implementation":["implementasi"],"implement":["implementasikan"],"imported":["import","pijar"],"index":["indeks harga pengguna","jari telunjuk"],"indra":["inderaloka"],"indium":["indium"],"individual":["individu"],"individualist":["individualis"],"individualism":["individualisme"],"individuality":["individualiti"],"indonesian":["indogsial","residen","sekolah tinggi","supir"],"indonesia":["indon","indonesia","konoha"],"inflation":["inflasi"],"informal":["informal","keadaannya","mekak"],"informant":["informan"],"information":["informasi","maklumat","teknologi maklumat"],"infrasound":["infrabunyi"],"infrared":["inframerah"],"infrastructure":["infrastruktur","prasarana"],"initial":["inisial"],"inquiline":["inkuilin"],"innovative":["inovatif"],"innovator":["inovator"],"incident":["insiden","kejadian","perihal","peristiwa"],"insolvent":["insolvensi","ketakmampuan bayar"],"insolvency":["insolvensi","ketakmampuan bayar"],"instagram":["insta"],"institute":["institut"],"integrity":["integriti"],"intensity":["intensiti","keamatan"],"interaction":["interaksi"],"intertrigo":["intertrigo"],"interview":["interviu","temu bual","temu duga"],"invagination":["invaginasi"],"invoice":["invois"],"iodine":["iodin"],"ion":["ion hidrogen"],"in-law":["ipar"],"ipoh":["ipoh","teluk intan"],"iran":["iran","parsi"],"iridium":["iridium"],"inflammation":["iritasi","radang","radang telinga"],"irritation":["iritasi","kerengsaan"],"insang":["isang"],"isaac":["ishak"],"ismail":["ismael"],"ishmael":["ismail"],"ism":["isme"],"isotope":["isotop"],"issue":["isu"],"italy":["itali"],"itik":["itek"],"ia":["iya"],"ignorant":["jahil"],"immoral":["jangak"],"infection":["jangkitan"],"intervals":["jarang"],"invite":["jemput","panggil"],"interpreter":["jurubahasa"],"integral":["kamiran"],"isn":["kan"],"industrial":["kawasan perindustrian"],"immune":["kebal"],"illiterate":["kebutahurufan"],"illiteracy":["kebutahurufan"],"intellectuals":["kecendekiawanan"],"intelligibility":["kefahaman menyaling"],"ignorance":["kejahilan"],"infertility":["kemandulan"],"inflated":["kembung"],"incur":["kena"],"impediment":["kendala"],"incomplete":["kepalang"],"impression":["kesan","tanggapan"],"indentation":["kesan"],"inability":["ketakmampuan","pelat"],"impossible":["ketidakmungkinan","mustahil"],"impossibility":["ketidakmungkinan"],"instant":["ketika","mi segera"],"intoxicated":["khayal","mabuk"],"interest":["khusyuk","minat"],"illustration":["komku"],"indian":["kucing liar asia","lautan hindi","nasi kandar","terung masam"],"impudent":["kurang ajar"],"insolent":["kurang ajar"],"impolite":["kurang ajar"],"indicates":["kut"],"investment":["laburan","pelaburan"],"indicating":["lah"],"insensitive":["lali","muka papan"],"immediately":["langsung","lantas"],"indo-pacific":["layaran"],"indicum":["lenga"],"insert":["letak"],"incredibly":["lipas kudung"],"inebriated":["mabuk"],"island":["magindanau","nusa","pulau","seringat"],"intention":["maksud","niat"],"impure":["mala"],"indolent":["malas"],"infertile":["mandul","tandus"],"incantation":["mantra"],"illusionary":["maya"],"invest":["melabur"],"indeed":["memang"],"improve":["memperbaik","memperelok"],"idle":["menganggur","obrol"],"imbang":["mengimbang balas"],"ingat":["mengingat","teringat"],"inspire":["menginspirasi"],"intensify":["menjadi-jadi"],"incessantly":["merepet","repet"],"inspector":["merinyu"],"intensifier":["nak mampus","nak mati"],"ini":["ni"],"indirect":["objek sipi"],"indigenous":["orang asli"],"intended":["payu"],"investor":["pelabur"],"implies":["pembayang"],"influencer":["pempengaruh"],"infringement":["pencabulan hak cipta"],"isolate":["pencil"],"immigrant":["pendatang"],"inhabitant":["penduduk"],"immortalization":["pengabadian"],"importer":["pengimport"],"importation":["pengimportan"],"incineration":["penunuan"],"illness":["penyakit"],"irradiation":["penyinaran"],"irradiating":["penyinaran"],"ii":["perang dunia kedua"],"inspect":["periksa"],"important":["perlu"],"intersection":["persilangan","persimpangan"],"interchange":["persimpangan"],"industry":["perusahaan"],"inheritance":["pewarisan","pusaka"],"inheriting":["pewarisan"],"isle":["pulau man"],"insecticide":["racun serangga"],"industrious":["rajin"],"ingredient":["ramuan"],"intentions":["reda"],"israel":["rejim zionis"],"invent":["reka"],"intently":["renung"],"ibadat":["ribi"],"investigate":["risik"],"involved":["rumah"],"intricate":["rumit"],"ill":["sakit"],"incorrect":["salah"],"items":["sampah"],"intercourse":["sanggama"],"insane":["sasar","sasau"],"inundated":["sebak"],"isthmus":["segenting"],"immediate":["segera"],"interval":["selang"],"intermission":["selang"],"interim":["sementara"],"isnin":["senayan","senin"],"idiotic":["sengal-sengal ubi"],"insect":["serangga"],"investigative":["siasat"],"inquiry":["siasat"],"idiom":["simpulan bahasa"],"interrogate":["soal"],"inverted":["songsang","terbalik"],"inorganic":["tak organik"],"interpretations":["taksa"],"intimidate":["takutkan"],"irrespective":["tanpa mengira"],"indigofera":["tarum"],"inlaid":["tatah"],"immortalised":["terabadi"],"inclusive":["terangkum"],"impacted":["terhimpit"],"inspired":["terinspirasi"],"incidental":["terlompat","tertendang"],"isolated":["terpencil"],"individualistic":["tinggi diri"],"incise":["toreh"],"individuals":["ulat arkitek"],"illegal":["ulat sapu","ulat teksi"],"instance":["umpama"],"intestine":["usus"],"ideal":["visi"],"islamist":["walaun"]}}
+ia	iya
+ibadat	ribi
+iban	iban
+ibrahim	ibrahim,madani,pmx
+ice	air batu|n,ais|n,aiskrim|n,sejuk macam air batu|adj
+icibos	ichibos|n
+idea	idea|n,pendapat|n,wawasan|n
+ideal	visi|n
+idealism	idealisme|n
+identify	cam|v
+identity	identiti|n,jati diri|n
+ideologi	adicita|n
+ideology	ideologi|n
+idiom	simpulan bahasa|n
+idiomatically	berkaitan dengan,berkenaan dengan,curi ayam|v,oleh sebab itu|adv,tanam anggur|v,tidak akan|adv
+idiotic	sengal-sengal ubi|adj
+idle	menganggur|v,obrol|v
+idly	congok|v
+idol	arca|n,berhala|n,pujaan|n,reca|n
+ifrit	ifrit|n
+ignorance	kejahilan|n
+ignorant	jahil|adj
+ignore	capak|v
+ihsan	ihsan|n
+ii	perang dunia kedua
+ijok	ijok
+ikat	ikat|n
+iklankan	diiklankan|v,mengiklankan|v
+ilahi	ilahi|adj
+ill	sakit|adj
+ill-intentioned	berniat jahat|adj
+illegal	ulat sapu|n,ulat teksi|n
+illegitimate	anak haram|n,haram jadah|n
+illiteracy	kebutahurufan|n
+illiterate	kebutahurufan|n
+illness	penyakit|n
+illusionary	maya|adj
+illustration	komku|n
+image	imej|n,imej pendam|n,reca|n
+imagery	imejan|n
+imaginasikan	diimaginasikan|v,mengimaginasikan|v
+imagination	angan|n,imaginasi|n
+imaginative	imaginatif|adj
+imagine	bayangkan|v,imaginasikan|v
+imbang	mengimbang balas|v
+imbuh	diimbuh|v,mengimbuh|v
+imigresen	imigresyen|n
+immediate	segera|adv
+immediately	langsung|adv,lantas|adv
+immigrant	pendatang|n
+immoral	jangak|adj
+immortalised	terabadi|adj
+immortalization	pengabadian|n
+immortalize	abadikan|v
+immune	kebal|adj
+impacted	terhimpit|adj
+impede	halang|v
+impediment	kendala|n
+imperative	abui|v,abuk|v,imperatif|adj,tak payah|adv
+imperial	gantang|n,gelen|n,pergam|n
+implement	implementasikan|v
+implementasikan	diimplementasikan|v,mengimplementasikan|v
+implementation	implementasi|n
+implies	pembayang|n
+impolite	kurang ajar|adj
+import	diimport|v,impot|adj,mengimport|v,pengimportan|n
+important	perlu|v
+importation	pengimportan|n
+imported	import|adj,pijar|n
+importer	pengimport|n
+impossibility	ketidakmungkinan|n
+impossible	ketidakmungkinan|n,mustahil|adj
+impression	kesan|n,tanggapan|n
+improve	memperbaik|v,memperelok|v
+impudent	kurang ajar|adj
+impure	mala|adj
+in-law	ipar|n
+inability	ketakmampuan|n,pelat|n
+incantation	mantra|n
+incense	colok|n,dupa|n,istanggi|n
+incessantly	merepet|v,repet|v
+incident	insiden|n,kejadian|n,perihal|n,peristiwa|n
+incidental	terlompat|v,tertendang|v
+incineration	penunuan|n
+incise	toreh|v
+inclined	cenderung|adj
+include	berlaci|v,bertelefon|v,termasuk|v
+including	berpencen|v
+inclusive	terangkum|adj
+income	cukai pendapatan|n,pendapatan|n
+incomplete	kepalang|adj
+incorrect	salah|adj
+increase	ambah|v,membesar|v,menambah|v,menambahkan|v
+incredibly	lipas kudung|n
+incur	kena|v
+indeed	memang|adv
+indefiniteness	barang|n
+indentation	kesan|n
+index	indeks harga pengguna|n,jari telunjuk|n
+indian	kucing liar asia|n,lautan hindi,nasi kandar|n,terung masam|n
+indicate	di|prep,kat|prep,orait
+indicates	kut|part
+indicating	lah|part
+indicum	lenga|n
+indigenous	orang asli|n
+indigo	biru nila|adj,nila|adj,tarum|n
+indigofera	tarum|n
+indirect	objek sipi|n
+indium	indium|n
+individual	individu|n
+individualism	individualisme|n
+individualist	individualis|n
+individualistic	tinggi diri|adj
+individuality	individualiti|n
+individuals	ulat arkitek|n
+indo-pacific	layaran|n
+indolent	malas|adj
+indonesia	indon,indonesia,konoha
+indonesian	indogsial|n,residen|n,sekolah tinggi|n,supir|n
+indra	inderaloka|n
+industrial	kawasan perindustrian|n
+industrious	rajin|adj
+industry	perusahaan|n
+inebriated	mabuk|adj
+infant	bayi|n
+infect	hinggap|v,jangkit|v
+infected	abras|adj
+infection	jangkitan|n
+infertile	mandul|adj,tandus|adj
+infertility	kemandulan|n
+infinitive	badut-badutkan|v,bincangkan|v,celakakan|v,cetekkan|v,curigai|v,elokkan|v
+inflammation	iritasi|n,radang|n,radang telinga|n
+inflatable	belon|n
+inflate	busung|v
+inflated	kembung|adj
+inflation	inflasi|n
+influence	ayaw|n,pengaruh|n
+influencer	pempengaruh|n
+inform	bagitahu|v,beritahu|v,maklum|v
+informal	informal|adj,keadaannya|n,mekak|v
+informant	informan|n
+information	informasi|n,maklumat|n,teknologi maklumat|n
+infrared	inframerah|n
+infrasound	infrabunyi|n
+infrastructure	infrastruktur|n,prasarana|n
+infringement	pencabulan hak cipta|n
+ingat	mengingat|v,teringat|v
+inggeris	bi|n
+ingredient	ramuan|n
+ingrown	cagu|n,cekam|n
+inhabitant	penduduk|n
+inhabited	berpenduduk|adj,kariah|n
+inhalation	hisap|n
+inheritance	pewarisan|n,pusaka|n
+inheriting	pewarisan|n
+ini	ni|det
+initial	inisial|n
+initialism	aa|n,abdb,ai|n,atm,bbnu|n,bi|n
+initiative	ikhtiar|n,inisiatif|n
+injustice	aniaya|n
+ink	dakwat|n,mangsi|n
+inlaid	tatah|n
+inner	dinding|n
+innovation	bidaah|n,inovasi|n
+innovative	inovatif|adj
+innovator	inovator|n
+inorganic	tak organik|adj
+inquiline	inkuilin|n
+inquire	bertanya|v,risik|v
+inquiry	siasat|n
+insane	sasar|adj,sasau|adj
+insang	isang|n
+insect	serangga|n
+insecticide	racun serangga|n
+insensitive	lali|adj,muka papan|adj
+insert	letak|v
+inside	di dalam|prep
+insincere	ajak-ajak ayam|adj
+insist	desak|v
+insolent	kurang ajar|adj
+insolvency	insolvensi|n,ketakmampuan bayar|n
+insolvent	insolvensi|n,ketakmampuan bayar|n
+inspect	periksa|v
+inspection	bahas|n,imigresen|n
+inspector	merinyu|n
+inspiration	berinspirasi|v,inspirasi|n
+inspire	menginspirasi|v
+inspired	terinspirasi|v
+instagram	insta
+instance	umpama|n
+instant	ketika|n,mi segera|n
+institute	institut|n
+instructor	guru|n
+instrument	canang|n,peranti|n
+insult	ejek|v,maki|v,menganjing|v
+insurance	asuransi|n,insurans|n
+integral	kamiran|n
+integrity	integriti|n
+intellect	akal|n
+intellectual	ahli fikir|n,budaya|n
+intellectuals	kecendekiawanan|n
+intelligence	cipta|n,kecerdasan buatan|n
+intelligent	budiman|n,pandai|adj,pintar|adj,tera|adj
+intelligibility	kefahaman menyaling|n
+intend	berniat|v
+intended	payu|n
+intense	hebat|adj
+intensifier	nak mampus|adv,nak mati|adv
+intensify	menjadi-jadi|v
+intensity	intensiti|n,keamatan|n
+intensive	apa benda|pron,sangat-sangat|adv
+intensively	calar-balar|adj
+intention	maksud|n,niat|n
+intentions	reda|adj
+intently	renung|v
+interaction	interaksi|n
+interchange	persimpangan|n
+intercourse	sanggama|n
+interest	khusyuk|adj,minat|n
+interface	antara muka|n
+interim	sementara|adv
+interjection	hoi
+intermission	selang|n
+internee	banduan|n
+internet	cc|n,internet|n
+interpret	ertikan|v
+interpretation	ertian|n,pengertian|n
+interpretations	taksa|adj
+interpreter	jurubahasa|n
+interrogate	soal|v
+interrogative	adakah|v
+intersection	persilangan|n,persimpangan|n
+interspace	awang-awang|n,awang-awangan|n,awang-gemawang|n,sawang|n
+intertrigo	intertrigo|n
+interval	selang|n
+intervals	jarang|adv
+intervention	campur tangan|n
+interview	interviu|n,temu bual|n,temu duga|n
+intestine	usus|n
+intimidate	takutkan|v
+into	gemal|v,masuk melayu|v,melayukan|v,menjadi|v,potong|v,surup|v
+intoxicated	khayal|adj,mabuk|adj
+intransitive	bergantung|v,berkubang|v,bersarang|v
+intricate	rumit|adj
+inundated	sebak|adj
+invagination	invaginasi|n
+invalid	batal|adj
+invent	reka|v
+inverted	songsang|adj,terbalik|adj
+invest	melabur|v
+investigate	risik|v
+investigation	bahas|n,siasat|n
+investigative	siasat|n
+investment	laburan|n,pelaburan|n
+investor	pelabur|n
+invisible	bunian|n
+invitation	ajak|n
+invite	jemput|v,panggil|v
+invoice	invois|n
+involved	rumah|n
+iodine	iodin|n
+ion	ion hidrogen|n
+ipoh	ipoh,teluk intan
+iran	iran,parsi
+iridium	iridium|n
+iron	besi|n,ferum|n,menyeterika|v,seterika|n
+irradiating	penyinaran|n
+irradiation	penyinaran|n
+irrespective	tanpa mengira|prep
+irritation	iritasi|n,kerengsaan|n
+isaac	ishak
+ishmael	ismail
+islam	hud,idris,islam,islamkan|v,keislaman|adj,lebai|n
+islamic	bang|n,bidaah|n,keislaman|adj,parti ajaran sesat,solat|n,tahfiz|n
+islamist	walaun|n
+islamkan	diislamkan|v,mengislamkan|v,pengislaman|n
+island	magindanau,nusa|n,pulau|n,seringat
+isle	pulau man
+ism	isme|n
+ismail	ismael
+isn	kan|adv
+isnin	senayan,senin
+isolate	pencil|v
+isolated	terpencil|adj
+isotope	isotop|n
+israel	rejim zionis
+issue	isu|n
+isthmus	segenting|n
+italy	itali
+itch	giang|n
+itchy	gatai|adj,gatal|adj,miang|adj,pengas|adj
+item	benda|n,ketinggalan|n
+items	sampah|n
+itik	itek|n
+ivory	gading|n

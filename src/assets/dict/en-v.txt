@@ -1,1 +1,110 @@
-{"en2ms":{"valid":["absah","sah"],"very":["amat","begitu","benar","berzaman","kaya raya","kenduri"],"verge":["ambang"],"vain":["andau"],"veranda":["anjung","beranda"],"variable":["anu","pemboleh ubah"],"vinegar":["azijn","cuka"],"velvet":["baldu"],"void":["batal"],"velotaxi":["beca"],"vessels":["belanga"],"virtuous":["berakhlak"],"violin":["berbiola","biola"],"vertically":["berlabuh"],"vermicelli":["bihun"],"ventricle":["bilik jantung"],"volleyball":["bola tampar"],"vowel":["bunyi hidup","huruf hidup","huruf saksi","vokal"],"viscosity":["cair"],"vertical":["cenuram","horizontal","mengufuk","tegak","vertikal"],"vessel":["cerat","kapal","takar","tukil"],"veil":["cikadung","purdah","tudung"],"virgin":["dara"],"various":["dayung-mayung","kacang puteh","pelbagai","telur"],"vagina":["faraj","pepek","pundek"],"vibration":["gentar"],"volcano":["gunung berapi"],"velocity":["halaju","kecepatan"],"value":["harga","sat"],"video":["hibira","memvideokan","permainan video","video"],"valve":["injap"],"variant":["iskandar"],"vigilant":["jaga"],"village":["kampung"],"verb":["kata kerja"],"vow":["kaul","resolusi"],"validity":["keabsahan"],"violence":["keganasan"],"vegetable":["keladi","sayur-mayur","sayuran","ulam"],"vet":["kenaifan"],"vehicle":["kenderaan"],"voivodeship":["kevoivodaan"],"vocabulary":["kosa kata"],"variety":["kulur"],"visit":["kunjung","melawat"],"venus":["lala","zuhrah"],"violate":["langgar"],"valley":["lembah"],"vera":["lidah buaya"],"verbal":["lisan","perang mulut"],"vacant":["luang"],"vast":["luas"],"vulgar":["lucah"],"videotape":["memvideokan"],"validate":["mengabsahkan","mengesahkan"],"verify":["mengesahkan"],"voice":["menyuarakan","suara"],"vending":["mesin layan diri"],"vomit":["muntah"],"visible":["pampang"],"versicolor":["panau"],"view":["pandang","pandangan","pendapat","tontonan"],"vegetarian":["pemayur","vegetarian"],"vote":["pembelian undi","undi","undian"],"validation":["pengabsahan"],"voter":["pengundi"],"valuation":["penilaian"],"villain":["penjahat"],"vendor":["penjual"],"viewer":["penonton"],"viewing":["penontonan"],"varnished":["perlak"],"valence":["petala valens","valens"],"van":["pikap","van"],"vertex":["poros"],"vulva":["puki","pundek"],"vision":["rabun","visi"],"virtual":["realiti maya"],"vex":["sakat"],"voluntary":["sedekah","sukarela"],"vernacular":["sekolah jenis kebangsaan"],"voyage":["selamat jalan"],"volunteer":["sukarelawan"],"vinegared":["susyi"],"visitor":["tamu"],"verde":["tanjung verde"],"verbs":["tidak"],"vein":["urat"],"vaccine":["vaksin"],"valency":["valensi"],"vanadium":["vanadium"],"vanilla":["vanila"],"vegan":["vegan"],"veganism":["veganisme"],"vegetarianism":["vegetarianisme"],"venice":["venis"],"verification":["verifikasi"],"vodcast":["video siar"],"videophone":["videofon"],"videography":["videografi"],"vigintillion":["vigintilion"],"virus":["virus"],"voltage":["voltan"],"viewpoint":["wawasan"],"vizier":["wazir"],"vicegerent":["wazir"],"viceroy":["wazir","wizurai"],"veda":["weda"],"vimana":["wilmana"],"vehicles":["woksyop"]}}
+vacant	luang|adj
+vaccine	vaksin|n
+vagina	faraj|n,pepek|n,pundek|n
+vain	andau|adv
+valence	petala valens|n,valens|n
+valency	valensi|n
+valid	absah|adj,sah|adj
+validate	mengabsahkan|v,mengesahkan|v
+validation	pengabsahan|n
+validity	keabsahan|n
+valley	lembah|n
+valuation	penilaian|n
+value	harga|n,sat|adj
+valve	injap|n
+van	pikap|n,van|n
+vanadium	vanadium|n
+vanilla	vanila|n
+variable	anu|n,pemboleh ubah|n
+variant	iskandar
+variety	kulur|n
+various	dayung-mayung|n,kacang puteh|n,pelbagai|adj,telur|n
+varnished	perlak|n
+vast	luas|adj
+veda	weda
+vegan	vegan|n
+veganism	veganisme|n
+vegetable	keladi|n,sayur-mayur|n,sayuran|n,ulam|n
+vegetarian	pemayur|n,vegetarian|n
+vegetarianism	vegetarianisme|n
+vehicle	kenderaan|n
+vehicles	woksyop|n
+veil	cikadung|n,purdah|n,tudung|n
+vein	urat|n
+velocity	halaju|n,kecepatan|n
+velotaxi	beca|n
+velvet	baldu|n
+vending	mesin layan diri|n
+vendor	penjual|n
+venice	venis
+ventricle	bilik jantung|n
+venus	lala|n,zuhrah
+vera	lidah buaya|n
+veranda	anjung|n,beranda|n
+verb	kata kerja|n
+verbal	lisan|adj,perang mulut|n
+verbs	tidak|adv
+verde	tanjung verde
+verge	ambang|n
+verification	verifikasi|n
+verify	mengesahkan|v
+vermicelli	bihun|n
+vernacular	sekolah jenis kebangsaan|n
+versicolor	panau|n
+vertex	poros|n
+vertical	cenuram|n,horizontal|adj,mengufuk|adj,tegak|adj,vertikal|adj
+vertically	berlabuh|v
+very	amat|adv,begitu|adv,benar|adj,berzaman|v,kaya raya|adj,kenduri|n
+vessel	cerat|n,kapal|n,takar|n,tukil|n
+vessels	belanga|n
+vet	kenaifan|n
+vex	sakat|v
+vibration	gentar|n
+vicegerent	wazir|n
+viceroy	wazir|n,wizurai|n
+video	hibira|n,memvideokan|v,permainan video|n,video|n
+videography	videografi|n
+videophone	videofon|n
+videotape	memvideokan|v
+view	pandang|v,pandangan|n,pendapat|n,tontonan|n
+viewer	penonton|n
+viewing	penontonan|n
+viewpoint	wawasan|n
+vigilant	jaga|v
+vigintillion	vigintilion|num
+village	kampung|n
+villain	penjahat|n
+vimana	wilmana|n
+vinegar	azijn|n,cuka|n
+vinegared	susyi|n
+violate	langgar|v
+violence	keganasan|n
+violin	berbiola|v,biola|n
+virgin	dara|n
+virtual	realiti maya|n
+virtuous	berakhlak|adj
+virus	virus|n
+viscosity	cair|adj
+visible	pampang|adj
+vision	rabun|adj,visi|n
+visit	kunjung|v,melawat|v
+visitor	tamu|n
+vizier	wazir|n
+vocabulary	kosa kata|n
+vodcast	video siar|n
+voice	menyuarakan|v,suara|n
+void	batal|adj
+voivodeship	kevoivodaan|n
+volcano	gunung berapi|n
+volleyball	bola tampar|n
+voltage	voltan|n
+voluntary	sedekah|n,sukarela|adj
+volunteer	sukarelawan|n
+vomit	muntah|v
+vote	pembelian undi|n,undi|v,undian|n
+voter	pengundi|n
+vow	kaul|n,resolusi|n
+vowel	bunyi hidup|n,huruf hidup|n,huruf saksi|n,vokal|n
+voyage	selamat jalan
+vulgar	lucah|adj
+vulva	puki|n,pundek|n

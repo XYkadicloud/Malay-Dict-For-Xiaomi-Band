@@ -1,0 +1,201 @@
+丢	baling|v,campak|n,lanting,melantingkan,melempar,buang|v,eban,fadihat
+丢失	hilang|v
+丢弃	buang|v,eban,lantar
+丢脸	fadihat,selamba|adj
+丢脸的	selamba|adj
+冢	busut|n,busut betina,busut jantan
+厢	kongsan,gerabak|n,gerobak,losi
+垢	comot-momot,gurak,jelaga,kelemumur|n,lambak,lumar,momot,noda|n
+垢的	comot-momot,momot
+垢积	lambak
+垢腻	kelemumur|n
+客	audio siar|n,benalu,jamu,klien|n,kondangan,mel|n,menjamu,musafir
+客人	tamu|n
+客体	objek tepat|n
+客厅	pendopo
+客户	klien|n
+客气	sama-sama|int
+客船	mel|n,tumpangan
+抢	merebut,berebut-rebut,camar|n,kesamunan|v,mencabuli,menyamun|v,merampas,merampok|v
+抢先	berebut-rebut
+抢劫	menyamun|v,merampas,merompak|v,rampok|n,rompak|v,samun|n
+抢夺	kesamunan|v,mencabuli,rampas,sakar|v,sakau|v,samun|n,samunan|n
+抢掠	rompakan|n,samun sakal|n
+探	anjing penghidu|n,bengah,detektif|n,ditektif,duga|v,intai,jelajah|v,jelang
+探出	menjulur,menyembul,merojol,rojol
+探员	mata gelap
+探望	bengah,jelang,memantau|v,pantau|v,jengah|v,jenguk
+探深	duga|v
+探犬	anjing penghidu|n
+探的	detektif|n
+探索	kerepes,seluk
+探视	jelau
+探险	jelajah|v,terokai|v
+枢	engsel|n,hab
+枢钮	engsel|n
+梢	upih
+欢	ahlan,berahi,berjoli,berpantang,bersorak,boga|n,cepat tangan,enggan|adv
+欢乐	boga|n,girang,meriah
+欢乐的	girang,meriah
+欢作	berjoli
+欢作乐	berjoli
+欢偷	cepat tangan
+欢偷东	cepat tangan
+欢偷东西	cepat tangan
+欢偷东西的	cepat tangan
+欢偷东西的怪	cepat tangan
+欢偷东西的怪癖	cepat tangan
+欢到	jangla
+欢到处	jangla
+欢到处走	jangla
+欢呼	bersorak,senggak,sorak|v,sorak-sorai,tempik|n
+欢喜	kemeriahan,menggembirakan
+欢悦	riang|adj
+欢欣	riang|adj
+欢笑	mesem
+欢跃	jingkerak
+欢迎	ahlan,mengalu-alukan,menyambut,sambut|v,selamat datang|int,selamat pulang,panembrama
+欢迎歌	panembrama
+氢	bom hidrogen|n,hidrogen|n,hidrogen karbonat|n,hidrogen klorida|n,hidrogen peroksida|n,hidroksida|n,ikatan hidrogen|n,ion hidrogen|n
+氢弹	bom hidrogen|n
+氢气	hidrogen|n,zat air
+氢氧	hidroksida|n,natrium hidroksida|n,oksihidrogen|adj,zink hidroksida|n
+氢氧化	hidroksida|n,natrium hidroksida|n,zink hidroksida|n
+氢氧化物	hidroksida|n
+氢氧化钠	natrium hidroksida|n
+氢氧化锌	zink hidroksida|n
+氢氧的	oksihidrogen|adj
+氢盐	hidrogen karbonat|n
+氢离	ion hidrogen|n
+氢离子	ion hidrogen|n
+氢钠	natrium bikarbonat|n
+氢键	ikatan hidrogen|n
+溢	empoh,kojoh,lembak,lempah,limbak,limpah|adj,melempah,pudat
+溢出	lembak,lempah,limpah|adj,melempah,tumpah|v
+溢的	pudat
+琢	berlian|n
+琢的	berlian|n
+琢的宝	berlian|n
+琢的宝石	berlian|n
+粢	lemang|n
+粢饭	lemang|n
+索	perimppin,teraju|n,barek|v,faharasat,indeks,jegung,kerapai,kerepes
+索取	tuntut bela
+索取赔	tuntut bela
+索取赔偿	tuntut bela
+索引	faharasat,indeks
+索求	ledat
+索等	jegung
+索等的	jegung
+索等的储	jegung
+索等的储藏	jegung
+索等的储藏处	jegung
+索芦	lidah buaya|n
+索芦荟	lidah buaya|n
+红	merah|adj,angbunga,bakau|n,baksis,bawang merah|n,belek|v,bendera merah|n,berma|adj
+红利	angbunga,bonus
+红十	palang merah
+红十字	palang merah
+红十字会	palang merah
+红叶	ketiran
+红叶攀	ketiran
+红叶攀缘	ketiran
+红叶攀缘植	ketiran
+红叶攀缘植物	ketiran
+红外	inframerah|n
+红外线	inframerah|n
+红外线的	inframerah|n
+红宝	kumala
+红宝石	kumala
+红新	bulan sabit merah
+红新月	bulan sabit merah
+红新月会	bulan sabit merah
+红旗	bendera merah|n
+红木	mahogani|n,samak|n,tumu,bakau|n
+红毛	nangka belanda,rambutan|n
+红毛丹	rambutan|n
+红毛榴	nangka belanda
+红毛榴莲	nangka belanda
+红海	laut kulzum,laut merah
+红点	bintil
+红痢	mejan,ceret darah
+红的	berma|adj,biring,murup
+红绿	lampu isyarat|n
+红绿灯	lampu isyarat|n
+红肿	belek|v,rejeh
+红肿的	rejeh
+红色	jerau,kesumba,ketiran,merah tua,merah-merang,meran perang,merang,sepuh
+红色涂	sepuh
+红色涂料	sepuh
+红色的	sirah,merah tua
+红花	bunga raya|n
+红莲	patma
+红莲花	patma
+红菠	lembayung|n
+红菠菜	lembayung|n
+红葱	bawang merah|n
+红蚁	rangrang
+红衣	mata angin|n
+红衣主	mata angin|n
+红衣主教	mata angin|n
+红褐	tedung ranggas|n
+红褐色	tedung ranggas|n
+红褐色头	tedung ranggas|n
+红褐色头发	tedung ranggas|n
+红褐色头发的	tedung ranggas|n
+红鹤	flamingo|n
+缢	kujut
+缢死	kujut
+肢	anggota|n,artropod|n,ketiak|n,lengan|n
+肢动	artropod|n
+肢动物	artropod|n
+肢窝	ketiak|n
+舢	jong|n,ludang,sampan|n,sampan berkung
+舢板	jong|n,ludang,sampan|n
+舢舨	sampan berkung
+蜢	belalang|n,ketis,pelesit,sentabu
+蜢长	ketis
+蜢长腿	ketis
+蠢	bangang|adj,berat kepala,bongak|adj,congong|adj,dogol|adj,dongok|adj,dungu|adj,kebodohan|n
+蠢的	bangang|adj,berat kepala,bongak|adj,congong|adj,dogol|adj,dongok|adj,dungu|adj,palatao|n
+订	acaram bertunang,baiki,belanggan,berpinang,cincin tanda,gubal,koreksi,langgan|v
+订婚	berpinang,tunang|n,tundang,acaram bertunang,cincin tanda
+订婚戒	acaram bertunang,cincin tanda
+订婚戒指	acaram bertunang,cincin tanda
+订户	pelanggan|n
+订正	baiki,koreksi,pembetulan
+订购	belanggan,langgan|v,melanggan,memialang,pesan,pialang
+订费	ripai,tempah|v
+订阅	langgan|v
+谢	bismillah,ganjar,layu|adj,lisut,mengucap syukur,syukur|n,terima kasih|int
+谢上	bismillah
+谢上帝	bismillah
+谢地	mengucap syukur
+谢天	mengucap syukur
+谢天谢	mengucap syukur
+谢天谢地	mengucap syukur
+谢的	layu|adj
+谢谢	terima kasih|int
+财	antarabangsa|adj,belanjawan|n,bendahara|n,bendahari|n,berabang|adj,bererti|adj,berhadiah|adj,berkusyen|v
+财产	antarabangsa|adj,berabang|adj,bererti|adj,berhadiah|adj,berkusyen|v,berlarangan|adj,bertuah|adj,harta|n
+财富	harta|n,kekayaan|n,reta,suasti|n
+财政	bendahara|n,bendahari|n,kewangan|n,belanjawan|n
+财政预	belanjawan|n
+财政预算	belanjawan|n
+财物	harta benda
+财的	lokek
+财迷	mata duitan
+踢	menendang,menerajang,menyepak,sepak|v,tendang|v,terajang|v,antam,kuis
+踢开	kuis,menguis,singkur
+踢藤	sepak raga
+踢藤球	sepak raga
+踢马	memacu,tengar|n
+踢马刺	tengar|n
+踢马刺的	tengar|n
+逢	berjerempak,jerempak
+钢	aja,keluli|n,alamas,intan|n,pianis,piano|n
+钢琴	piano|n,pianis
+钢琴家	pianis
+钢石	alamas
+钢钻	intan|n
+鸢	lang|n,wau|n

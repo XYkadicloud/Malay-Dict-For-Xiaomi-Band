@@ -1,0 +1,12 @@
+obat	obat	n	药
+obituari	obituari	n	关于死亡的	obituary
+objek	objek		目的物，对象
+objeksipi	objek sipi	n	间接宾语	indirect object
+objektepat	objek tepat	n	直接客体	direct object
+objektif	objektif		目标
+obligasi	obligasi	n	义务	obligation
+obor	obor	n	火炬	torch
+obral	obral		大减价，平卖，贱卖
+obrol	obrol	v	空谈，瞎谈，聊天	to chat  to engage in idle talk  to engage in trivial conversation
+obsesif	obsesif	adj	着迷的	obsessive
+obstetrik	obstetrik	n	产科学  产科学	obstetrics

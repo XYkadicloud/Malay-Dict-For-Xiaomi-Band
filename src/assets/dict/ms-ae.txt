@@ -1,0 +1,5 @@
+aek	aek	n	两者择一	alternative spelling of air (“water”)
+aer	aer	n	两者择一
+aerial	aerial		天线
+aerodinamik	aerodinamik	adj	空气动力学的	aerodynamic
+aerologi	aerologi	n	高空气象学  空气学	aerology (branch of meteorology)
